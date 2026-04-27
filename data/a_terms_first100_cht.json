@@ -1,0 +1,502 @@
+[
+  {
+    "english": "A-display",
+    "traditional_chinese": "A型顯示",
+    "definition_cht": "一種以距離與方位方式呈現回波或目標位置的顯示形式，常用於早期雷達或量測儀器中，將訊號強度沿著掃描方向顯示出來。"
+  },
+  {
+    "english": "AABW",
+    "traditional_chinese": "南極底層水",
+    "definition_cht": "指南極海域形成、沿海底向外擴散的高密度深層水團，對全球海洋深層環流與熱鹽輸送非常重要。"
+  },
+  {
+    "english": "AAMW",
+    "traditional_chinese": "南極中層水",
+    "definition_cht": "指南極附近形成並位於中層海洋的水團，具有特定溫鹽特徵，常作為辨識大洋中層環流的重要水體。"
+  },
+  {
+    "english": "ab-polar current",
+    "traditional_chinese": "離極流",
+    "definition_cht": "指大氣或海洋中流動方向偏離極地、朝較低緯度移動的流系，用來描述相對於極區向外輸送的流動。"
+  },
+  {
+    "english": "abatement",
+    "traditional_chinese": "減弱",
+    "definition_cht": "指某種天氣現象、污染程度或物理過程的強度降低、趨於緩和的狀態。"
+  },
+  {
+    "english": "abbreviated ship code",
+    "traditional_chinese": "船舶簡碼",
+    "definition_cht": "指用於船舶氣象觀測或通訊傳輸的簡化代碼格式，便於在有限通訊條件下快速傳送資料。"
+  },
+  {
+    "english": "abduction",
+    "traditional_chinese": "外展",
+    "definition_cht": "原義為偏離中心線的移動；在專業術語中可指某些流動、位移或構造向外側偏移的過程，須依具體學科脈絡判讀。"
+  },
+  {
+    "english": "ABI",
+    "traditional_chinese": "先進基線成像儀",
+    "definition_cht": "美國新一代靜止氣象衛星上的主要成像儀器，可提供多光譜、高時間解析度的雲、地表與大氣觀測資料。"
+  },
+  {
+    "english": "abiotic",
+    "traditional_chinese": "非生物的",
+    "definition_cht": "指與生物活動無直接關聯的物理或化學環境因子，例如溫度、岩石、水分或輻射條件。"
+  },
+  {
+    "english": "ABL",
+    "traditional_chinese": "大氣邊界層",
+    "definition_cht": "指大氣最接近地表的一層，受地表摩擦、加熱、冷卻與水氣交換影響最明顯，日變化特徵強。"
+  },
+  {
+    "english": "ablation",
+    "traditional_chinese": "消融",
+    "definition_cht": "指冰雪、冰川或其他物質因融化、蒸發、昇華、侵蝕等作用而造成質量減少的過程。"
+  },
+  {
+    "english": "ablation area",
+    "traditional_chinese": "消融區",
+    "definition_cht": "指冰川或積雪體中，以消融量大於累積量為主的區域，通常位於較低海拔或較暖環境。"
+  },
+  {
+    "english": "abnormal",
+    "traditional_chinese": "異常的",
+    "definition_cht": "指某個狀態、數值或現象偏離一般、平均或預期範圍，不屬於通常情況。"
+  },
+  {
+    "english": "abnormality",
+    "traditional_chinese": "異常現象",
+    "definition_cht": "指偏離正常條件的特徵或狀態，可用於描述氣候、天氣或觀測資料中的不尋常表現。"
+  },
+  {
+    "english": "Abrolhos squalls",
+    "traditional_chinese": "阿布羅柳斯颮",
+    "definition_cht": "指南大西洋特定海域與阿布羅柳斯群島附近出現的強陣風或颮性天氣，通常與局地海洋和對流條件有關。"
+  },
+  {
+    "english": "abscissa",
+    "traditional_chinese": "橫座標",
+    "definition_cht": "在座標系統中表示水平方向位置的座標量，常用於圖表或數學表示中的 x 軸數值。"
+  },
+  {
+    "english": "absolute",
+    "traditional_chinese": "絕對的",
+    "definition_cht": "表示某個量是相對於固定基準或本質定義而定，不依賴比較對象或相對參考系。"
+  },
+  {
+    "english": "absolute altitude",
+    "traditional_chinese": "絕對高度",
+    "definition_cht": "指某物體相對於地面或特定基準面之上的實際垂直高度，用於飛航與地形相關描述。"
+  },
+  {
+    "english": "absolute angular momentum",
+    "traditional_chinese": "絕對角動量",
+    "definition_cht": "指物體或氣流相對地球自轉軸所具有的角動量，包含相對運動與地球自轉兩部分。"
+  },
+  {
+    "english": "absolute annual range of temperature",
+    "traditional_chinese": "絕對年溫差",
+    "definition_cht": "指一年中觀測到的最高氣溫與最低氣溫之間的差值，用來表示全年溫度變化幅度。"
+  },
+  {
+    "english": "absolute cavity radiometer",
+    "traditional_chinese": "絕對腔體輻射計",
+    "definition_cht": "指「絕對腔體輻射計」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute coordinate system",
+    "traditional_chinese": "絕對座標系統",
+    "definition_cht": "指「絕對座標系統」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute drought",
+    "traditional_chinese": "絕對乾旱",
+    "definition_cht": "指「絕對乾旱」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute extremes",
+    "traditional_chinese": "絕對極值",
+    "definition_cht": "指「絕對極值」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute instability",
+    "traditional_chinese": "絕對不穩定",
+    "definition_cht": "指「絕對不穩定」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute instrument",
+    "traditional_chinese": "絕對儀器",
+    "definition_cht": "指「絕對儀器」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute isohypse",
+    "traditional_chinese": "絕對等位勢高度線",
+    "definition_cht": "指「絕對等位勢高度線」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute momentum",
+    "traditional_chinese": "絕對動量",
+    "definition_cht": "指「絕對動量」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute monthly maximum temperature",
+    "traditional_chinese": "絕對月最高溫",
+    "definition_cht": "指「絕對月最高溫」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute monthly minimum temperature",
+    "traditional_chinese": "絕對月最低溫",
+    "definition_cht": "指「絕對月最低溫」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "Absolute Radiation Scale",
+    "traditional_chinese": "絕對輻射尺度",
+    "definition_cht": "指「絕對輻射尺度」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute refractive index",
+    "traditional_chinese": "絕對折射率",
+    "definition_cht": "指「絕對折射率」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute stability",
+    "traditional_chinese": "絕對穩定度",
+    "definition_cht": "指「絕對穩定度」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute standard barometer",
+    "traditional_chinese": "絕對標準氣壓計",
+    "definition_cht": "指「絕對標準氣壓計」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute temperature extremes",
+    "traditional_chinese": "絕對氣溫極值",
+    "definition_cht": "指「絕對氣溫極值」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute temperature scale",
+    "traditional_chinese": "絕對溫標",
+    "definition_cht": "指「絕對溫標」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute velocity",
+    "traditional_chinese": "絕對速度",
+    "definition_cht": "指「絕對速度」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute vorticity",
+    "traditional_chinese": "絕對渦度",
+    "definition_cht": "指「絕對渦度」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absolute zero",
+    "traditional_chinese": "絕對零度",
+    "definition_cht": "指「絕對零度」，是氣象、海洋或物理分析中用來描述特定狀態、量值或參考基準的術語。"
+  },
+  {
+    "english": "absorbance",
+    "traditional_chinese": "absorbance",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorbance」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorbed solar radiation",
+    "traditional_chinese": "被吸收太陽輻射",
+    "definition_cht": "指「被吸收太陽輻射」這個專業概念，通常用來描述與 absorbed solar radiation 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "absorptance",
+    "traditional_chinese": "吸收率",
+    "definition_cht": "指「吸收率」這個專業概念，通常用來描述與 absorptance 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "absorption",
+    "traditional_chinese": "吸收",
+    "definition_cht": "指「吸收」這個專業概念，通常用來描述與 absorption 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "absorption band",
+    "traditional_chinese": "absorption 波段",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorption 波段」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorption coefficient",
+    "traditional_chinese": "absorption 係數",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorption 係數」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorption cross section",
+    "traditional_chinese": "absorption 截面",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorption 截面」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorption hygrometer",
+    "traditional_chinese": "absorption 濕度計",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorption 濕度計」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorption line",
+    "traditional_chinese": "absorption 譜線",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorption 譜線」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorption loss",
+    "traditional_chinese": "absorption 損失",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorption 損失」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorption optical thickness",
+    "traditional_chinese": "absorption 光學厚度",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorption 光學厚度」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorption spectrum",
+    "traditional_chinese": "absorption 光譜",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「absorption 光譜」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "absorptivity",
+    "traditional_chinese": "吸收能力",
+    "definition_cht": "指「吸收能力」這個專業概念，通常用來描述與 absorptivity 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "abstraction",
+    "traditional_chinese": "abstraction",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「abstraction」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "ACC",
+    "traditional_chinese": "ACC",
+    "definition_cht": "此術語為英文縮寫或代號，通常代表特定觀測系統、水團、儀器或資料產品；實際使用時需結合上下文與專業領域解讀。"
+  },
+  {
+    "english": "accelerated erosion",
+    "traditional_chinese": "加速侵蝕",
+    "definition_cht": "指「加速侵蝕」這個專業概念，通常用來描述與 accelerated erosion 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "Acceleration",
+    "traditional_chinese": "加速度",
+    "definition_cht": "指「加速度」這個專業概念，通常用來描述與 Acceleration 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "accelerometer",
+    "traditional_chinese": "加速度計",
+    "definition_cht": "指「加速度計」這個專業概念，通常用來描述與 accelerometer 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acceptance capacity",
+    "traditional_chinese": "承受容量",
+    "definition_cht": "指「承受容量」這個專業概念，通常用來描述與 acceptance capacity 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acceptance region",
+    "traditional_chinese": "接受區域",
+    "definition_cht": "指「接受區域」這個專業概念，通常用來描述與 acceptance region 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "accessory cloud",
+    "traditional_chinese": "附屬雲",
+    "definition_cht": "指「附屬雲」這個專業概念，通常用來描述與 accessory cloud 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acclimation",
+    "traditional_chinese": "馴化",
+    "definition_cht": "指「馴化」這個專業概念，通常用來描述與 acclimation 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acclimatization",
+    "traditional_chinese": "適應化",
+    "definition_cht": "指「適應化」這個專業概念，通常用來描述與 acclimatization 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "accretion",
+    "traditional_chinese": "積聚",
+    "definition_cht": "指「積聚」這個專業概念，通常用來描述與 accretion 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "accumulated cooling",
+    "traditional_chinese": "累積冷卻",
+    "definition_cht": "指「累積冷卻」這個專業概念，通常用來描述與 accumulated cooling 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "accumulated temperature",
+    "traditional_chinese": "積溫",
+    "definition_cht": "指「積溫」這個專業概念，通常用來描述與 accumulated temperature 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "accumulation",
+    "traditional_chinese": "累積",
+    "definition_cht": "指「累積」這個專業概念，通常用來描述與 accumulation 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "accumulation area",
+    "traditional_chinese": "accumulation 區",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「accumulation 區」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "accumulation mode",
+    "traditional_chinese": "accumulation mode",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「accumulation mode」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "accumulation rain gauge",
+    "traditional_chinese": "accumulation 雨量器",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「accumulation 雨量器」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "accumulation zone",
+    "traditional_chinese": "accumulation zone",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「accumulation zone」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "accuracy",
+    "traditional_chinese": "準確度",
+    "definition_cht": "指「準確度」這個專業概念，通常用來描述與 accuracy 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acdar",
+    "traditional_chinese": "acdar",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「acdar」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acetaldehyde",
+    "traditional_chinese": "乙醛",
+    "definition_cht": "指「乙醛」這個專業概念，通常用來描述與 acetaldehyde 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acetic acid",
+    "traditional_chinese": "乙酸",
+    "definition_cht": "指「乙酸」這個專業概念，通常用來描述與 acetic acid 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acetone",
+    "traditional_chinese": "丙酮",
+    "definition_cht": "指「丙酮」這個專業概念，通常用來描述與 acetone 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acetonitrile",
+    "traditional_chinese": "乙腈",
+    "definition_cht": "指「乙腈」這個專業概念，通常用來描述與 acetonitrile 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acetylene",
+    "traditional_chinese": "乙炔",
+    "definition_cht": "指「乙炔」這個專業概念，通常用來描述與 acetylene 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acicular ice",
+    "traditional_chinese": "針狀冰",
+    "definition_cht": "指「針狀冰」這個專業概念，通常用來描述與 acicular ice 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acid deposition",
+    "traditional_chinese": "酸沉降",
+    "definition_cht": "指「酸沉降」這個專業概念，通常用來描述與 acid deposition 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acid fog",
+    "traditional_chinese": "酸霧",
+    "definition_cht": "指「酸霧」這個專業概念，通常用來描述與 acid fog 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acid pollution",
+    "traditional_chinese": "酸性污染",
+    "definition_cht": "指「酸性污染」這個專業概念，通常用來描述與 acid pollution 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acid rain",
+    "traditional_chinese": "酸 酸雨",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「酸 酸雨」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acidity of water",
+    "traditional_chinese": "水體酸度",
+    "definition_cht": "指「水體酸度」這個專業概念，通常用來描述與 acidity of water 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acidity profile",
+    "traditional_chinese": "酸度剖面",
+    "definition_cht": "指「酸度剖面」這個專業概念，通常用來描述與 acidity profile 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "aclinic line",
+    "traditional_chinese": "無傾線",
+    "definition_cht": "指「無傾線」這個專業概念，通常用來描述與 aclinic line 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acoustic array",
+    "traditional_chinese": "聲學 陣列",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 陣列」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic backscattering",
+    "traditional_chinese": "聲學 回散射",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 回散射」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic dispersion",
+    "traditional_chinese": "聲學 色散",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 色散」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic Doppler current profiler",
+    "traditional_chinese": "聲學 都卜勒 洋流 剖面儀",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 都卜勒 洋流 剖面儀」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic echo sounding",
+    "traditional_chinese": "聲學 回聲測深",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 回聲測深」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic imaging",
+    "traditional_chinese": "聲學 成像",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 成像」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic impedance",
+    "traditional_chinese": "聲學 阻抗",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 阻抗」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic intensity",
+    "traditional_chinese": "聲學 強度",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 強度」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic lens",
+    "traditional_chinese": "聲學 透鏡",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 透鏡」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic ocean current meter",
+    "traditional_chinese": "聲學海流計",
+    "definition_cht": "指「聲學海流計」這個專業概念，通常用來描述與 acoustic ocean current meter 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acoustic pressure",
+    "traditional_chinese": "聲壓",
+    "definition_cht": "指「聲壓」這個專業概念，通常用來描述與 acoustic pressure 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acoustic radar",
+    "traditional_chinese": "聲學 雷達",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 雷達」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic rain gauge",
+    "traditional_chinese": "聲學雨量器",
+    "definition_cht": "指「聲學雨量器」這個專業概念，通常用來描述與 acoustic rain gauge 相關的物理量、觀測方法或自然過程。"
+  },
+  {
+    "english": "acoustic reflection profiling",
+    "traditional_chinese": "聲學 反射 profiling",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 反射 profiling」相關的現象、量測方式、物理量或分類概念。"
+  },
+  {
+    "english": "acoustic reflectivity",
+    "traditional_chinese": "聲學 反射率",
+    "definition_cht": "此術語多用於氣象、海洋或環境科學領域，表示與「聲學 反射率」相關的現象、量測方式、物理量或分類概念。"
+  }
+]
