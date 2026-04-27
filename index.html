@@ -5,814 +5,100 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>met_term｜A 字首氣象名詞全表</title>
 <style>
-:root{--bg:#09111f;--panel:#101b2d;--panel2:#16253d;--line:#2a4a73;--cyan:#7fd6ff;--gold:#c9a96a;--text:#eaf2ff;--muted:#9db0c9;--ink:#213047;}
+:root{--bg:#09111f;--panel:#101b2d;--line:#2a4a73;--cyan:#7fd6ff;--gold:#c9a96a;--text:#eaf2ff;--muted:#9db0c9;}
 *{box-sizing:border-box} body{margin:0;font-family:"Noto Serif TC","PingFang TC","Microsoft JhengHei",serif;background:radial-gradient(circle at top,#163155 0%,#0a1220 45%,#060b14 100%);color:var(--text);}
-.header{max-width:1280px;margin:0 auto;padding:48px 24px 24px;}
-.kicker{color:var(--gold);letter-spacing:.18em;font-size:12px;text-transform:uppercase;margin-bottom:12px}
-h1{margin:0;font-size:44px;line-height:1.15;font-weight:700}
-.sub{margin-top:14px;color:var(--muted);max-width:920px;line-height:1.8}
-.wrap{max-width:1280px;margin:0 auto;padding:0 24px 60px;}
-.card{background:linear-gradient(180deg,rgba(17,29,49,.92),rgba(10,19,33,.96));border:1px solid rgba(127,214,255,.2);border-radius:24px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.35);}
-.hero-band{height:8px;background:linear-gradient(90deg,var(--gold),var(--cyan),#7cf0d5,var(--gold));opacity:.9}
-.stats{display:flex;gap:12px;flex-wrap:wrap;padding:18px 18px 0} .badge{display:inline-block;padding:6px 10px;border:1px solid rgba(201,169,106,.35);border-radius:999px;color:#eed7a6;background:rgba(201,169,106,.08)}
-.table-wrap{overflow:auto;padding:18px} table{width:100%;border-collapse:collapse;min-width:980px;background:rgba(255,255,255,.02)}
-thead th{text-align:left;padding:18px 16px;background:linear-gradient(180deg,rgba(201,169,106,.16),rgba(127,214,255,.08));border-bottom:1px solid rgba(127,214,255,.25);font-size:15px;color:#f7f0e1;position:sticky;top:0}
-tbody td{padding:16px;border-bottom:1px solid rgba(127,214,255,.12);vertical-align:top;line-height:1.8} tbody tr:nth-child(odd){background:rgba(255,255,255,.02)} tbody tr:hover{background:rgba(127,214,255,.07)} td:nth-child(1){font-weight:700;color:var(--cyan);width:23%} td:nth-child(2){color:#f3dfb5;width:18%} td:nth-child(3){color:var(--text);width:59%}
-.note{padding:0 18px 22px;color:var(--muted);line-height:1.8}
-.footer{max-width:1280px;margin:0 auto;padding:0 24px 56px;color:#7f92ab;font-size:14px}
+.header,.wrap,.footer{max-width:1320px;margin:0 auto;padding-left:24px;padding-right:24px} .header{padding-top:44px;padding-bottom:22px}
+.kicker{color:var(--gold);letter-spacing:.18em;font-size:12px;text-transform:uppercase;margin-bottom:12px} h1{margin:0;font-size:44px;line-height:1.15} .sub{margin-top:14px;color:var(--muted);max-width:980px;line-height:1.8}
+.card{background:linear-gradient(180deg,rgba(17,29,49,.92),rgba(10,19,33,.96));border:1px solid rgba(127,214,255,.2);border-radius:24px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.35)} .hero-band{height:8px;background:linear-gradient(90deg,var(--gold),var(--cyan),#7cf0d5,var(--gold))}
+.controls{display:grid;grid-template-columns:1.6fr .7fr auto auto auto;gap:12px;padding:18px;align-items:center} input,select,button{border-radius:14px;border:1px solid rgba(127,214,255,.2);background:#0d1728;color:var(--text);padding:12px 14px;font-size:15px} button{cursor:pointer} button:hover{background:#13233b}
+.stats{display:flex;gap:10px;flex-wrap:wrap;padding:0 18px 12px} .badge{display:inline-block;padding:6px 10px;border:1px solid rgba(201,169,106,.35);border-radius:999px;color:#eed7a6;background:rgba(201,169,106,.08)}
+.table-wrap{overflow:auto;padding:18px} table{width:100%;border-collapse:collapse;min-width:980px} thead th{text-align:left;padding:16px;background:linear-gradient(180deg,rgba(201,169,106,.16),rgba(127,214,255,.08));border-bottom:1px solid rgba(127,214,255,.25);position:sticky;top:0} tbody td{padding:16px;border-bottom:1px solid rgba(127,214,255,.12);vertical-align:top;line-height:1.8} tbody tr:nth-child(odd){background:rgba(255,255,255,.02)} tbody tr:hover{background:rgba(127,214,255,.07)} td:nth-child(1){font-weight:700;color:var(--cyan);width:23%} td:nth-child(2){color:#f3dfb5;width:18%} td:nth-child(3){width:59%}
+.pagination{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:0 18px 22px;flex-wrap:wrap} .pager{display:flex;gap:10px;align-items:center;flex-wrap:wrap} .page-indicator{color:var(--muted)} .footer{padding-top:20px;padding-bottom:56px;color:#7f92ab;font-size:14px}
+.note{padding:0 18px 18px;color:var(--muted);line-height:1.8}
+@media (max-width:900px){.controls{grid-template-columns:1fr 1fr 1fr;} .controls input{grid-column:1/-1}}
 </style>
 </head>
 <body>
-  <div class="header">
-    <div class="kicker">MET TERM · 氣象術語整理</div>
-    <h1>A 字首氣象名詞全表<br>繁體中文對照與詞典式解釋</h1>
-    <div class="sub">本頁依據 A 文件中的完整 A 字詞清單重整，採「一列即一個完整名詞」規則處理，例如 <span class="badge">apogean winds</span> 視為單一術語，不再拆成個別單字。內容已整併三段分工成果，並做過正式化中文定義優化，使其更接近氣象／海洋／大氣科學詞典的表述風格。</div>
-  </div>
-  <div class="wrap">
-    <div class="card">
-      <div class="hero-band"></div>
-      <div class="stats"><span class="badge">A 字術語總數：773</span><span class="badge">欄位：英文 / 繁中 / 中文解釋</span><span class="badge">Style：科技風 × 東方文青</span></div>
-      <div class="table-wrap">
-        <table>
-          <thead><tr><th>English term</th><th>繁體中文</th><th>名詞解釋</th></tr></thead>
-          <tbody><tr><td>A-display</td><td>A型顯示</td><td>雷達或測距儀的一維顯示方式，以水平軸表示距離或時間、垂直振幅表示回波強度，用於判讀目標位置與訊號強弱。</td></tr>
-<tr><td>A/D converter</td><td>類比／數位轉換器</td><td>將連續類比訊號轉換為可由數位系統處理之離散數值的電子元件，廣用於氣象儀器資料擷取。</td></tr>
-<tr><td>AABW</td><td>南極底層水</td><td>Antarctic Bottom Water 的縮寫，指南極周邊形成並沿海盆底部擴散的高密度深層水團，是全球深層翻轉環流的重要組成。</td></tr>
-<tr><td>AAMW</td><td>南極中層水</td><td>泛指南大洋高緯海域形成並分布於中層之水團，具有特定溫鹽特徵，常作為判識中層海洋循環的指標。</td></tr>
-<tr><td>ab-polar current</td><td>離極流</td><td>相對於極區向外、朝較低緯度輸送之大氣或海洋流動，用於描述偏離極地方向的流系。</td></tr>
-<tr><td>abatement</td><td>減弱</td><td>指天氣現象、污染程度或物理過程之強度降低、趨於緩和的情形。</td></tr>
-<tr><td>abbreviated ship code</td><td>船舶簡碼</td><td>用於船舶氣象觀測或通訊傳輸的簡化編碼格式，便於在有限頻寬下快速傳送觀測資料。</td></tr>
-<tr><td>abduction</td><td>外展</td><td>原指向外偏離中心線之運動；在地球科學語境中可泛指某種位移、流動或構造朝外側偏移的過程。</td></tr>
-<tr><td>ABI</td><td>先進基線成像儀</td><td>Advanced Baseline Imager 的縮寫，為新一代 GOES 靜止氣象衛星主要酬載，可提供多光譜、高時空解析度的雲與地表觀測。</td></tr>
-<tr><td>abiotic</td><td>非生物的</td><td>指與生物作用無直接關聯之物理或化學環境因子，如溫度、濕度、岩性、輻射與水文條件。</td></tr>
-<tr><td>ABL</td><td>大氣邊界層</td><td>atmospheric boundary layer 的縮寫，為最接近地表且直接受地表摩擦、加熱、冷卻與水氣交換影響之大氣層。</td></tr>
-<tr><td>ablation</td><td>消融</td><td>冰雪、冰川或其他物質因融化、蒸發、昇華、崩解或侵蝕而造成質量減少的過程。</td></tr>
-<tr><td>ablation area</td><td>消融區</td><td>冰川或積雪體中年消融量大於年累積量的區域，通常位於較低海拔或較暖環境。</td></tr>
-<tr><td>abnormal</td><td>異常的</td><td>指某狀態、數值或現象偏離一般、平均或預期範圍，不屬通常情況。</td></tr>
-<tr><td>abnormality</td><td>異常</td><td>偏離正常條件的特徵或狀態，可用於描述氣候、天氣、環境或觀測資料中的不尋常表現。</td></tr>
-<tr><td>Abrolhos squalls</td><td>阿布羅柳斯颮</td><td>巴西外海阿布羅柳斯群島附近出現的局地強陣風或颮線性天氣，常與海陸熱力對比及對流活動有關。</td></tr>
-<tr><td>abscissa</td><td>橫座標</td><td>在平面直角座標系中表示水平方向位置的座標，通常對應 x 軸。</td></tr>
-<tr><td>absolute</td><td>絕對的</td><td>表示某一量值係相對於固定基準、本質定義或慣性參考架構所定，而非相對比較所得。</td></tr>
-<tr><td>absolute altitude</td><td>絕對高度</td><td>物體相對地表或特定基準面的實際垂直高度；航空上常指相對地面的真實高度。</td></tr>
-<tr><td>absolute angular momentum</td><td>絕對角動量</td><td>物體或氣塊相對地球自轉軸所具有的角動量，包含其相對運動與地球自轉所貢獻之部分。</td></tr>
-<tr><td>absolute annual range of temperature</td><td>絕對年溫差</td><td>一年內觀測到之最高氣溫與最低氣溫間的差值，用以表示全年溫度變化幅度。</td></tr>
-<tr><td>absolute cavity radiometer</td><td>絕對腔體輻射計</td><td>利用高吸收率腔體量測入射輻射能量的高精度標準儀器，常用於太陽輻射與輻射校正。</td></tr>
-<tr><td>absolute coordinate system</td><td>絕對座標系統</td><td>以固定原點與固定軸向定義位置之座標系統，其位置值不依賴局部相對位移。</td></tr>
-<tr><td>absolute drought</td><td>絕對乾旱</td><td>依降水量或可用水分之絕對不足來界定的乾旱狀態，而非相對於某地平均值之偏差。</td></tr>
-<tr><td>absolute extremes</td><td>絕對極值</td><td>在某時段或資料序列中曾觀測到的最大值或最小值。</td></tr>
-<tr><td>absolute instability</td><td>絕對不穩定</td><td>大氣垂直溫度遞減率大於乾絕熱遞減率之狀態，使不飽和與飽和氣塊抬升後皆比環境暖而持續上升。</td></tr>
-<tr><td>absolute instrument</td><td>絕對儀器</td><td>可直接依基本物理定律求得被測量之儀器，不需依賴相對比較或經驗校正常數。</td></tr>
-<tr><td>absolute isohypse</td><td>絕對等位勢高度線</td><td>連結具有相同絕對位勢高度點的等值線，用於表示空間中位勢面之高度分布。</td></tr>
-<tr><td>absolute momentum</td><td>絕對動量</td><td>在包含地球自轉效應的參考架構下，物體或流體所具有的總動量。</td></tr>
-<tr><td>absolute monthly maximum temperature</td><td>絕對月最高溫</td><td>某月份歷年或該月觀測紀錄中曾出現的最高氣溫。</td></tr>
-<tr><td>absolute monthly minimum temperature</td><td>絕對月最低溫</td><td>某月份歷年或該月觀測紀錄中曾出現的最低氣溫。</td></tr>
-<tr><td>Absolute Radiation Scale</td><td>絕對輻射尺度</td><td>以基本輻射量測標準建立之輻射定標尺度，用於不同輻射儀器之校正與互相比對。</td></tr>
-<tr><td>absolute refractive index</td><td>絕對折射率</td><td>光在真空中的速率與其在某介質中的速率之比，是描述介質折射性質的基本量。</td></tr>
-<tr><td>absolute stability</td><td>絕對穩定</td><td>大氣垂直溫度遞減率小於濕絕熱遞減率之狀態，使任何氣塊受抬升後均較環境冷而傾向回復原位。</td></tr>
-<tr><td>absolute standard barometer</td><td>絕對標準氣壓計</td><td>可直接由力學或液柱平衡原理測得真實氣壓之標準氣壓量測儀器。</td></tr>
-<tr><td>absolute temperature extremes</td><td>絕對氣溫極值</td><td>某地或某時段觀測紀錄中出現過的最高與最低氣溫。</td></tr>
-<tr><td>absolute temperature scale</td><td>絕對溫標</td><td>以絕對零度為起點建立之溫標，最常見者為凱氏溫標。</td></tr>
-<tr><td>absolute velocity</td><td>絕對速度</td><td>相對固定參考架構測得之真實速度，非相對於移動介質或觀測者之相對速度。</td></tr>
-<tr><td>absolute vorticity</td><td>絕對渦度</td><td>流體相對渦度與行星渦度之和，為描述地球自轉下流場旋轉性的基本動力量。</td></tr>
-<tr><td>absolute zero</td><td>絕對零度</td><td>熱力學溫度最低理論極限，為 0 K，即攝氏零下 273.15 度。</td></tr>
-<tr><td>absorbance</td><td>吸光度</td><td>表示介質對入射輻射吸收程度的對數量，常定義為入射與透射輻射強度比值的常用對數。</td></tr>
-<tr><td>absorbed solar radiation</td><td>被吸收的太陽輻射</td><td>地表、大氣或其他介質吸收而未被反射或透射的太陽短波輻射能量。</td></tr>
-<tr><td>absorptance</td><td>吸收率</td><td>入射輻射能量中被某物體或介質吸收之比例。</td></tr>
-<tr><td>absorption</td><td>吸收</td><td>物質將入射輻射、聲波或其他能量轉換為內能的過程。</td></tr>
-<tr><td>absorption band</td><td>吸收帶</td><td>介質在某一波長範圍內對電磁輻射有顯著吸收的光譜區段。</td></tr>
-<tr><td>absorption coefficient</td><td>吸收係數</td><td>表示介質對輻射或波動吸收強度的係數，通常描述單位路徑長度內訊號衰減的程度。</td></tr>
-<tr><td>absorption cross section</td><td>吸收截面</td><td>用以量化單一粒子、分子或原子對入射輻射吸收能力之等效面積。</td></tr>
-<tr><td>absorption hygrometer</td><td>吸收式濕度計</td><td>利用吸濕材料吸收水氣後之質量、電性或化學變化來測定空氣濕度的儀器。</td></tr>
-<tr><td>absorption line</td><td>吸收線</td><td>光譜中因特定物質吸收對應波長輻射而形成的暗線或吸收特徵。</td></tr>
-<tr><td>absorption loss</td><td>吸收損失</td><td>波動或能量在傳播過程中因介質吸收而造成的衰減部分。</td></tr>
-<tr><td>absorption optical thickness</td><td>吸收光學厚度</td><td>描述介質沿某路徑對輻射吸收累積效應的無因次量。</td></tr>
-<tr><td>absorption spectrum</td><td>吸收光譜</td><td>表示物質在不同波長對輻射吸收程度的光譜分布。</td></tr>
-<tr><td>absorptivity</td><td>吸收能力</td><td>物質對入射能量之吸收效能，常作為其吸收輻射能力的材料性質參數。</td></tr>
-<tr><td>abstraction</td><td>取水；抽取</td><td>在水文與資源管理中通常指自河川、湖泊、地下水或水庫抽取水量供使用之行為。</td></tr>
-<tr><td>ACC</td><td>異常相關係數</td><td>anomaly correlation coefficient 的縮寫，用以衡量預報場與分析場或觀測場之空間型態相似程度，常用於數值天氣預報評估。</td></tr>
-<tr><td>accelerated erosion</td><td>加速侵蝕</td><td>因人為活動或環境改變而使侵蝕速率高於自然背景值的現象。</td></tr>
-<tr><td>Acceleration</td><td>加速度</td><td>速度對時間的變化率，為描述運動狀態變化的向量物理量。</td></tr>
-<tr><td>accelerometer</td><td>加速度計</td><td>量測線性或角向加速度的儀器，可用於平台姿態修正、載具導航與儀器動態監測。</td></tr>
-<tr><td>acceptance capacity</td><td>承納容量</td><td>系統、介質或環境在不致失衡或受損情況下可接受某種輸入、負荷或污染物的最大能力。</td></tr>
-<tr><td>acceptance region</td><td>接受域</td><td>在統計檢定、訊號處理或儀器設計中，判定資料或訊號可被接受的數值範圍或相空間區域。</td></tr>
-<tr><td>accessory cloud</td><td>附屬雲</td><td>依附於主要雲體或伴隨其生成的次級雲形，如壁雲、碎雲或旗雲等。</td></tr>
-<tr><td>acclimation</td><td>馴化</td><td>生物或材料對單一或有限環境因子改變所產生的短期生理或性質調整。</td></tr>
-<tr><td>acclimatization</td><td>適應化</td><td>生物在自然環境中對多重氣候條件長期變化所形成的整體適應過程。</td></tr>
-<tr><td>accretion</td><td>積聚</td><td>物質因附著、凝結、凍結或沉積而逐漸增加的過程；在結冰天氣中亦指冰層附著增厚。</td></tr>
-<tr><td>accumulated cooling</td><td>累積冷卻量</td><td>一定期間內溫度低於某基準所累計的冷卻效應，可用於能源或農業分析。</td></tr>
-<tr><td>accumulated temperature</td><td>積溫</td><td>一定期間內日平均溫度或超過某基準溫度部分的累加值，常用於作物生長與發育估算。</td></tr>
-<tr><td>accumulation</td><td>累積</td><td>某物理量、物質或能量隨時間逐步增加並聚集的過程或結果。</td></tr>
-<tr><td>accumulation area</td><td>累積區</td><td>冰川或積雪體中年累積量大於年消融量之區域，通常位於較高海拔或較冷環境。</td></tr>
-<tr><td>accumulation mode</td><td>累積模態</td><td>大氣氣膠粒徑分布中的一類粒子族群，常指粒徑約介於細粒與粗粒之間、易由凝結與凝聚形成的模態。</td></tr>
-<tr><td>accumulation rain gauge</td><td>累積式雨量計</td><td>將一定時間內總降水量累積收集並讀取的雨量量測儀器。</td></tr>
-<tr><td>accumulation zone</td><td>累積帶</td><td>與累積區同義，指冰川或雪體中淨累積為正的地帶。</td></tr>
-<tr><td>accuracy</td><td>準確度</td><td>量測值或估計值接近真值的程度。</td></tr>
-<tr><td>acdar</td><td>飛機資料中繼系統</td><td>通常指 aircraft to data relay 類型的機載資料傳輸或中繼系統，用於將飛行平台觀測資料回傳地面。</td></tr>
-<tr><td>acetaldehyde</td><td>乙醛</td><td>一種揮發性有機化合物，可存在於大氣中並參與光化學反應與臭氧生成。</td></tr>
-<tr><td>acetic acid</td><td>乙酸</td><td>常見有機酸，存在於大氣氣膠或降水中，對酸沉降化學有一定影響。</td></tr>
-<tr><td>acetone</td><td>丙酮</td><td>大氣中的揮發性有機化合物之一，可來自生物、工業與燃燒來源，並參與氧化化學。</td></tr>
-<tr><td>acetonitrile</td><td>乙腈</td><td>常作為生質燃燒示蹤物之一的揮發性有機化合物。</td></tr>
-<tr><td>acetylene</td><td>乙炔</td><td>一種不飽和碳氫化合物，可作為燃燒來源與大氣化學反應的指標氣體。</td></tr>
-<tr><td>acicular ice</td><td>針狀冰</td><td>呈細長針形的冰晶或冰體，常見於特定過冷或凝華條件下。</td></tr>
-<tr><td>acid deposition</td><td>酸沉降</td><td>酸性物質以濕沉降或乾沉降形式自大氣移除並沉積於地表的過程。</td></tr>
-<tr><td>acid fog</td><td>酸霧</td><td>含有較高酸性成分、pH 值偏低的霧滴集合體。</td></tr>
-<tr><td>acid pollution</td><td>酸性污染</td><td>由酸性氣體、酸性氣膠或酸性沉降造成之環境污染現象。</td></tr>
-<tr><td>acid rain</td><td>酸雨</td><td>pH 值明顯低於天然背景值的降水，通常與二氧化硫與氮氧化物氧化生成之酸性物質有關。</td></tr>
-<tr><td>acidity of water</td><td>水體酸度</td><td>水體中可中和鹼的酸性成分總量，反映其酸性強弱與化學性質。</td></tr>
-<tr><td>acidity profile</td><td>酸度剖面</td><td>水體、土壤或大氣中酸度隨深度、高度或距離變化的分布。</td></tr>
-<tr><td>aclinic line</td><td>無磁傾線</td><td>地磁傾角為零的地表連線，即磁針在垂直平面內不向下或向上傾斜之位置。</td></tr>
-<tr><td>acoustic array</td><td>聲學陣列</td><td>由多個聲學感測器或換能器組成的排列系統，用於測向、成像、定位或流場量測。</td></tr>
-<tr><td>acoustic backscattering</td><td>聲學背向散射</td><td>聲波遇到粒子、湍流或界面後向發射源方向散射的現象。</td></tr>
-<tr><td>acoustic dispersion</td><td>聲學色散</td><td>聲波傳播速度隨頻率而異的現象。</td></tr>
-<tr><td>acoustic Doppler current profiler</td><td>聲學都卜勒流速剖面儀</td><td>利用聲波都卜勒頻移量測水體不同深度流速剖面的海洋觀測儀器，常簡稱 ADCP。</td></tr>
-<tr><td>acoustic echo sounding</td><td>聲學回聲測深</td><td>利用聲波往返時間量測水深或水下目標距離的方法。</td></tr>
-<tr><td>acoustic imaging</td><td>聲學成像</td><td>利用聲波反射、散射或傳播特性重建物體或介質結構影像的技術。</td></tr>
-<tr><td>acoustic impedance</td><td>聲阻抗</td><td>介質中聲壓與質點振速之比，為描述聲波傳播與界面反射的重要參數。</td></tr>
-<tr><td>acoustic intensity</td><td>聲強</td><td>單位面積、單位時間通過之聲能量通量。</td></tr>
-<tr><td>acoustic lens</td><td>聲透鏡</td><td>藉由控制聲波折射或聚焦來改變波束形狀的裝置。</td></tr>
-<tr><td>acoustic ocean current meter</td><td>聲學海流計</td><td>利用聲波傳播時間差或都卜勒效應量測海流速度與方向的儀器。</td></tr>
-<tr><td>acoustic pressure</td><td>聲壓</td><td>聲波通過介質時相對於靜壓所產生的壓力擾動。</td></tr>
-<tr><td>acoustic radar</td><td>聲雷達</td><td>以聲波探測大氣結構、湍流或邊界層高度的遙測系統，英文常稱 sodar。</td></tr>
-<tr><td>acoustic rain gauge</td><td>聲學雨量計</td><td>依據雨滴撞擊聲訊號或聲波特徵估算降雨強度與累積雨量的儀器。</td></tr>
-<tr><td>acoustic reflection profiling</td><td>聲學反射剖面測量</td><td>利用不同地層或水體界面之聲波反射訊號建立垂直結構剖面的探測方法。</td></tr>
-<tr><td>acoustic reflectivity</td><td>聲反射率</td><td>介質或界面反射入射聲能的能力，通常以反射係數或相對強度表示。</td></tr>
-<tr><td>acoustic refraction</td><td>聲波折射</td><td>聲波因介質中溫度、密度或流速變化而改變傳播方向的現象。</td></tr>
-<tr><td>acoustic resonance</td><td>聲共振</td><td>系統在特定頻率下對聲波產生強烈響應、振幅顯著增大的現象。</td></tr>
-<tr><td>acoustic reverberation</td><td>聲學混響</td><td>聲波在封閉或複雜介質中多次反射散射後造成訊號延續與重疊的現象。</td></tr>
-<tr><td>acoustic scattering</td><td>聲散射</td><td>聲波遇到粒子、粗糙面或介質不均勻體後向各方向重新分配的現象。</td></tr>
-<tr><td>acoustic scintillation</td><td>聲閃爍</td><td>聲波穿越具湍流或折射率擾動介質時，振幅或相位快速起伏的現象。</td></tr>
-<tr><td>acoustic signature</td><td>聲學特徵</td><td>物體、過程或環境所呈現之可辨識聲波頻譜、時序或強度特性。</td></tr>
-<tr><td>acoustic sounding</td><td>聲測</td><td>利用聲波探測大氣、水體或地下介質垂直結構的量測方法。</td></tr>
-<tr><td>acoustic thermometer</td><td>聲學溫度計</td><td>根據聲速與介質溫度關係推算溫度的量測儀器。</td></tr>
-<tr><td>acoustic tomography</td><td>聲學斷層成像</td><td>利用多條聲波傳播路徑之走時資訊反演介質內部溫度、流速或結構分布的方法。</td></tr>
-<tr><td>acoustic transducer</td><td>聲換能器</td><td>可在電能與聲能之間互相轉換的元件，是聲學探測與通訊系統核心組件。</td></tr>
-<tr><td>acoustic transponder</td><td>聲學應答器</td><td>接收特定聲訊號後自動發出回應訊號的裝置，常用於水下定位與導航。</td></tr>
-<tr><td>acoustic velocimeter</td><td>聲學流速計</td><td>利用聲學原理量測流體速度的儀器，可應用於河川、海洋與實驗流場。</td></tr>
-<tr><td>acoustic wave</td><td>聲波</td><td>介質中因壓力擾動而傳播的機械波。</td></tr>
-<tr><td>acoustic–gravity wave</td><td>聲重力波</td><td>受壓縮性與重力共同控制的波動，可在大氣或海洋中傳播，包含聲波與重力波特性。</td></tr>
-<tr><td>acre-foot</td><td>英畝英尺</td><td>水量單位，表示一英畝面積上覆一英尺深度之水體體積。</td></tr>
-<tr><td>acrolein</td><td>丙烯醛</td><td>具刺激性的揮發性有機化合物，可由燃燒與光化學反應生成，為大氣污染物之一。</td></tr>
-<tr><td>actinic</td><td>光化性的</td><td>指具有引發光化學反應能力之輻射，尤其是紫外線與短波可見光。</td></tr>
-<tr><td>actinic flux</td><td>光化通量</td><td>從各方向抵達某點、可引發光化學反應之輻射通量總和，是大氣光化學的重要量。</td></tr>
-<tr><td>actinogram</td><td>日射記錄圖</td><td>記錄太陽輻射強度隨時間變化的圖形或紀錄。</td></tr>
-<tr><td>actinograph</td><td>日射記錄儀</td><td>連續記錄太陽輻射強度變化的儀器。</td></tr>
-<tr><td>actinometer</td><td>輻射計</td><td>量測太陽或其他輻射強度的儀器，歷史上常特指量測日射之裝置。</td></tr>
-<tr><td>actinometry</td><td>測輻射學</td><td>研究與量測輻射，尤其是太陽輻射之方法、儀器與理論的學科。</td></tr>
-<tr><td>actinon</td><td>錒射氣</td><td>氡的放射性同位素之一，為某些放射性衰變鏈中的惰性氣體成分。</td></tr>
-<tr><td>activated complex theory</td><td>活化複合體理論</td><td>化學反應速率理論之一，認為反應物需先形成高能過渡態或活化複合體，方能轉變為生成物。</td></tr>
-<tr><td>activation energy</td><td>活化能</td><td>化學反應或物理過程得以進行所需克服的最小能量障礙。</td></tr>
-<tr><td>active basin area</td><td>活動流域面積</td><td>在某水文事件或特定水位條件下，實際參與逕流產生與輸送的流域面積。</td></tr>
-<tr><td>active cloud</td><td>活躍雲</td><td>具有明顯發展、強上升運動或持續微物理過程的雲體，常與降水或對流活動相關。</td></tr>
-<tr><td>active front</td><td>活躍鋒</td><td>伴隨顯著溫濕梯度、上升運動與天氣現象的發展中鋒面。</td></tr>
-<tr><td>active layer</td><td>活動層</td><td>多年凍土上方每年季節性融化與再凍結的土層。</td></tr>
-<tr><td>active nitrogen</td><td>活性氮</td><td>在大氣化學中指可參與反應的含氮化合物總稱，如 NO、NO2、HNO3、PAN 與銨鹽等。</td></tr>
-<tr><td>active permafrost</td><td>活動凍土層</td><td>常為活動層之舊稱或泛稱，指多年凍土上方隨季節解凍與結凍的近地表層。</td></tr>
-<tr><td>Active region</td><td>活動區</td><td>在太陽物理中指磁場強烈、易發生日珥、耀斑或日冕物質拋射的太陽表面區域。</td></tr>
-<tr><td>active site</td><td>活性位</td><td>化學反應、吸附或催化作用最易發生之特定分子位置、表面區域或晶格缺陷。</td></tr>
-<tr><td>active system</td><td>主動式系統</td><td>需自行發射能量訊號以進行探測、通訊或量測的系統，如雷達與 lidar。</td></tr>
-<tr><td>activity</td><td>活度</td><td>在化學熱力學中表示物質有效濃度的量；在放射學中亦可指單位時間之衰變率，須依上下文判定。</td></tr>
-<tr><td>activity coefficient</td><td>活度係數</td><td>描述實際溶液或混合系統偏離理想行為程度之係數。</td></tr>
-<tr><td>actual elevation</td><td>實際高程</td><td>某地點或儀器相對於平均海平面或指定基準面的真實高度。</td></tr>
-<tr><td>actual evaporation</td><td>實際蒸發量</td><td>在當前水分供應、能量與氣象條件限制下，實際發生的蒸發量。</td></tr>
-<tr><td>actual pressure</td><td>實際壓力</td><td>系統、氣體或大氣在當下條件下實際存在的壓力值。</td></tr>
-<tr><td>actual time of observation</td><td>實際觀測時間</td><td>儀器或觀測人員真正完成觀測或取得資料的時間。</td></tr>
-<tr><td>adaptability</td><td>適應能力</td><td>系統、生物或社會對環境變化、壓力或風險作出調整並維持功能的能力。</td></tr>
-<tr><td>adaptation luminance</td><td>適應亮度</td><td>視覺系統在某環境中完成明暗適應後所對應的背景亮度水準。</td></tr>
-<tr><td>adaptation strategies</td><td>調適策略</td><td>為降低氣候變遷或環境風險衝擊而採取的規劃、工程、管理或制度措施。</td></tr>
-<tr><td>adaptive grid</td><td>自適應網格</td><td>可依解場梯度、誤差估計或物理需求動態調整解析度的數值計算網格。</td></tr>
-<tr><td>adaptive observational network</td><td>自適應觀測網</td><td>依天氣系統敏感區、預報不確定度或任務需求調整佈站與取樣策略的觀測網。</td></tr>
-<tr><td>adaptive observations</td><td>自適應觀測</td><td>針對預報敏感區或高不確定區域，加強特定時間與地點觀測的策略。</td></tr>
-<tr><td>ADCP</td><td>聲學都卜勒流速剖面儀</td><td>Acoustic Doppler Current Profiler 的縮寫，用於量測水體垂直流速結構。</td></tr>
-<tr><td>ADEOS</td><td>先進地球觀測衛星</td><td>Advanced Earth Observing Satellite 的縮寫，為日本發展之地球觀測衛星系列。</td></tr>
-<tr><td>adfreezing</td><td>凍著</td><td>液態水滴接觸低於冰點的固體表面後迅速結冰並附著其上的過程。</td></tr>
-<tr><td>adhesion efficiency</td><td>附著效率</td><td>粒子、液滴或冰晶與表面碰撞後成功附著的比例或機率。</td></tr>
-<tr><td>adhesive water</td><td>附著水</td><td>因分子吸附或表面張力而附著於顆粒、土壤或固體表面的水分。</td></tr>
-<tr><td>adiabat</td><td>絕熱線</td><td>熱力圖上表示絕熱過程狀態變化的曲線，或泛指絕熱狀態方程所對應之路徑。</td></tr>
-<tr><td>adiabatic atmosphere</td><td>絕熱大氣</td><td>假設空氣團運動與環境變化過程中不與外界交換熱量的大氣理想化狀態。</td></tr>
-<tr><td>adiabatic chart</td><td>絕熱圖</td><td>包含乾絕熱線、濕絕熱線與混合比線等，用於分析氣塊熱力狀態的氣象熱力圖。</td></tr>
-<tr><td>adiabatic equilibrium</td><td>絕熱平衡</td><td>在無熱交換條件下系統達成之平衡狀態。</td></tr>
-<tr><td>adiabatic lapse rate</td><td>絕熱遞減率</td><td>空氣團在絕熱上升或下沉過程中溫度隨高度變化的速率。</td></tr>
-<tr><td>adiabatic process</td><td>絕熱過程</td><td>系統與外界不發生熱量交換的熱力學過程。</td></tr>
-<tr><td>adiabatic saturation point</td><td>絕熱飽和點</td><td>未飽和空氣在與水接觸並經絕熱蒸發後達到飽和時的終點狀態。</td></tr>
-<tr><td>adiabatic saturation pressure</td><td>絕熱飽和壓力</td><td>空氣達到絕熱飽和點時對應的壓力。</td></tr>
-<tr><td>adiabatic saturation temperature</td><td>絕熱飽和溫度</td><td>空氣經絕熱蒸發冷卻至飽和時所達到的溫度，與濕球溫度概念相關。</td></tr>
-<tr><td>adiabatic temperature changes</td><td>絕熱溫度變化</td><td>因膨脹或壓縮而產生、非由外界供熱或失熱造成的溫度變化。</td></tr>
-<tr><td>adiabatic temperature gradient</td><td>絕熱溫度梯度</td><td>在絕熱條件下溫度隨空間位置，尤其隨高度變化的梯度。</td></tr>
-<tr><td>adiabatic trial</td><td>絕熱試驗</td><td>在假設絕熱條件下，對氣塊位移、穩定度或熱力狀態進行之理論檢驗或計算。</td></tr>
-<tr><td>adiabatically enclosed system</td><td>絕熱封閉系統</td><td>邊界不與外界交換熱量，且通常亦不交換物質的理想化系統。</td></tr>
-<tr><td>adjoint assimilation</td><td>伴隨同化</td><td>利用伴隨模式計算梯度，以最小化代價函數並進行資料同化的技術。</td></tr>
-<tr><td>adjoint equation</td><td>伴隨方程</td><td>由控制方程導出、用以反向傳播敏感度或梯度資訊的數學方程。</td></tr>
-<tr><td>adjoint model</td><td>伴隨模式</td><td>與前向模式相對應、可計算目標函數對初值或參數敏感度的數值模式。</td></tr>
-<tr><td>adjoint sensitivity</td><td>伴隨敏感度</td><td>透過伴隨模式求得某目標量對控制變數、初始條件或觀測之變化敏感程度。</td></tr>
-<tr><td>adjustable cistern barometer</td><td>可調式儲槽氣壓計</td><td>水銀氣壓計之一，具可調整儲槽液面之設計，以提高讀值精度。</td></tr>
-<tr><td>admissible concentration limit</td><td>容許濃度限值</td><td>為保護人體健康或環境而規定某物質可接受之最高濃度。</td></tr>
-<tr><td>adret</td><td>向陽坡</td><td>山地中接受較多日照的一側坡面，通常較溫暖乾燥，與背陽坡相對。</td></tr>
-<tr><td>adsorption</td><td>吸附</td><td>氣體、液體或溶質分子附著並聚集於固體或液體表面的過程。</td></tr>
-<tr><td>adsorption isotherm</td><td>吸附等溫線</td><td>在固定溫度下，吸附量與平衡濃度或壓力之間關係的曲線。</td></tr>
-<tr><td>Advanced Baseline Imager</td><td>先進基線成像儀</td><td>GOES-R 系列等新一代靜止衛星之主要多光譜成像儀，具高時間、高空間與多頻道觀測能力。</td></tr>
-<tr><td>Advanced Earth Observing Satellite</td><td>先進地球觀測衛星</td><td>日本發展的地球觀測衛星計畫名稱，用於海洋、大氣、陸地與輻射觀測。</td></tr>
-<tr><td>Advanced microwave sounding unit</td><td>先進微波探測儀</td><td>一種衛星微波垂直探測儀器，可藉不同頻道反演大氣溫度與濕度結構。</td></tr>
-<tr><td>Advanced TIROS-N</td><td>先進 TIROS-N 系列衛星</td><td>美國極軌氣象衛星系列之一，為多項後續 NOAA 衛星酬載的發展基礎。</td></tr>
-<tr><td>Advanced Very High Resolution Radiometer</td><td>先進甚高解析度輻射儀</td><td>AVHRR 的全名，為 NOAA 極軌衛星搭載之多光譜成像輻射儀，廣用於雲、海表溫度與植生監測。</td></tr>
-<tr><td>advection</td><td>平流</td><td>由流體整體運動所造成之物理量，如熱量、水氣、污染物或渦度的水平或三維輸送。</td></tr>
-<tr><td>advection fog</td><td>平流霧</td><td>暖濕空氣移流至較冷下墊面上方，因冷卻達飽和而形成的霧。</td></tr>
-<tr><td>advection frost</td><td>平流霜凍</td><td>由冷空氣移入造成氣溫降至冰點以下而產生的霜凍，常伴隨風與大範圍冷平流。</td></tr>
-<tr><td>advective change of temperature</td><td>平流性溫度變化</td><td>因空氣移流使某地溫度隨時間改變的部分。</td></tr>
-<tr><td>advective model</td><td>平流模式</td><td>以平流項為主要控制機制的數值或概念模式，用於描述物質或熱量之輸送。</td></tr>
-<tr><td>advective region</td><td>平流區</td><td>某物理量之輸送主要受平流作用支配的區域。</td></tr>
-<tr><td>advective thunderstorm</td><td>平流性雷暴</td><td>發展或維持與顯著水平輸送有關的雷暴，例如暖濕空氣持續平流至不穩定區所形成者。</td></tr>
-<tr><td>advective-gravity flows</td><td>平流－重力流</td><td>同時受背景平流與密度差驅動之重力流動系統。</td></tr>
-<tr><td>advisory</td><td>警報提示；顧問通報</td><td>官方發布之較警報低一級但具提醒或作業指導性質的天氣、海象或災害資訊。</td></tr>
-<tr><td>advisory area</td><td>通報區</td><td>發布顧問通報、預警或作業建議所涵蓋的地理區域。</td></tr>
-<tr><td>AE</td><td>極光電流指數</td><td>auroral electrojet index 的縮寫，用於表示高緯極光帶電流系統活動強度的地磁指標。</td></tr>
-<tr><td>aeolian</td><td>風成的</td><td>由風力搬運、侵蝕或堆積作用形成或控制的。</td></tr>
-<tr><td>aeolian tones</td><td>風鳴音</td><td>氣流通過線狀或柱狀物體時因渦流脫落而產生的規則聲音。</td></tr>
-<tr><td>aeration</td><td>曝氣</td><td>使空氣進入水體、土壤或其他介質以增加氧氣交換或改變其物理化學狀態的過程。</td></tr>
-<tr><td>aerial</td><td>空中的；天線</td><td>作形容詞時指與空中觀測或航空有關；作名詞時可指用於收發電磁波的天線。</td></tr>
-<tr><td>aerial perspective</td><td>空氣透視</td><td>因大氣散射與吸收使遠處景物對比降低、色調偏淡或偏藍的視覺現象。</td></tr>
-<tr><td>AERO code</td><td>航空氣象電碼</td><td>用於航空氣象通報、觀測或預報資料傳輸的專用編碼格式。</td></tr>
-<tr><td>aerobiology</td><td>空氣生物學</td><td>研究花粉、孢子、微生物等生物性粒子在大氣中的來源、傳播與影響的學科。</td></tr>
-<tr><td>aerodrome meteorological minima</td><td>機場氣象最低標準</td><td>航空器在某機場進場、起降或作業所需滿足之最低能見度、雲高等氣象條件標準。</td></tr>
-<tr><td>aerodynamic</td><td>空氣動力的</td><td>與物體在空氣中運動時所受力及流場特性有關的。</td></tr>
-<tr><td>aerodynamic balance</td><td>空氣動力平衡</td><td>物體所受升力、阻力、壓力梯度與慣性等氣動作用達平衡的狀態。</td></tr>
-<tr><td>aerodynamic force</td><td>空氣動力</td><td>流體作用於物體表面所產生的力，包括升力、阻力與側向力等。</td></tr>
-<tr><td>aerodynamic resistance</td><td>空氣動力阻抗</td><td>描述地表與大氣之間熱量、水氣或動量傳輸受湍流與風場限制程度的參數。</td></tr>
-<tr><td>Aerodynamic roughness length</td><td>空氣動力粗糙度長度</td><td>表徵地表粗糙元對近地層風速剖面影響的特徵長度，常記為 z0。</td></tr>
-<tr><td>aerodynamically rough surface</td><td>空氣動力粗糙表面</td><td>其表面粗糙元足以明顯破壞近壁層黏性次層並增強湍流交換的表面。</td></tr>
-<tr><td>aerodynamically smooth surface</td><td>空氣動力光滑表面</td><td>粗糙元相對於黏性次層很小，對近地風場與湍流交換影響有限的表面。</td></tr>
-<tr><td>aerodynamics</td><td>空氣動力學</td><td>研究空氣流動及其與物體交互作用所產生力、能量與運動特性的學科。</td></tr>
-<tr><td>aerograph</td><td>高空氣象記錄儀</td><td>早期搭載於探空器或航空平台，用於連續記錄氣壓、溫度與濕度等要素的儀器。</td></tr>
-<tr><td>aerography</td><td>高空氣象學</td><td>舊稱，指研究自由大氣性質、結構與現象的學問。</td></tr>
-<tr><td>aerologation</td><td>高空觀測</td><td>對自由大氣進行探測與記錄之作業，現多以 aerological observation 表示。</td></tr>
-<tr><td>aerological analysis</td><td>高空氣象分析</td><td>根據探空、飛機或遙測資料分析自由大氣溫度、濕度、風場與穩定度結構的作業。</td></tr>
-<tr><td>aerological days</td><td>高空觀測日</td><td>依國際或業務規範實施例行高空探測與資料交換的指定日期或作業時段。</td></tr>
-<tr><td>aerological station</td><td>高空氣象站</td><td>進行探空、測風或其他自由大氣觀測之測站。</td></tr>
-<tr><td>aerological table</td><td>高空氣象表</td><td>彙列探空或高空氣象觀測資料的表格，內容可含壓力、高度、溫度、濕度與風。</td></tr>
-<tr><td>aerology</td><td>高空氣象學</td><td>研究自由大氣物理性質、結構與過程的學科。</td></tr>
-<tr><td>aerometeorograph</td><td>航空氣象記錄儀</td><td>裝載於飛行器上，自動記錄飛行途中氣象要素之儀器。</td></tr>
-<tr><td>aeronautical climatology</td><td>航空氣候學</td><td>研究與航空作業相關之氣候特徵、頻率與風險的應用氣候學分支。</td></tr>
-<tr><td>aeronautical meteorological service</td><td>航空氣象服務</td><td>為航空器與機場運作提供觀測、預報、警報與氣象諮詢的專業服務。</td></tr>
-<tr><td>aeronautical meteorological station</td><td>航空氣象站</td><td>設於機場或航空設施附近，專門支援飛航作業之氣象觀測站。</td></tr>
-<tr><td>aeronautical meteorology</td><td>航空氣象學</td><td>研究並應用與飛航安全、航路規劃及機場作業相關之氣象現象與資料的學科。</td></tr>
-<tr><td>aeronomy</td><td>高層大氣學</td><td>研究中高層大氣之化學、電離、輻射與動力過程的學科。</td></tr>
-<tr><td>Aerosol</td><td>氣膠</td><td>懸浮於氣體中的固體或液體微粒系統，包含天然與人為來源。</td></tr>
-<tr><td>aerosol optical depth</td><td>氣膠光學厚度</td><td>表示整層大氣氣膠對輻射消光總效應的無因次量，常用於衛星與地基遙測。</td></tr>
-<tr><td>Aerosol size distribution</td><td>氣膠粒徑分布</td><td>描述氣膠粒子數量、表面積或質量隨粒徑變化的分布關係。</td></tr>
-<tr><td>Aerospace Meteorology</td><td>航太氣象學</td><td>研究大氣與太空環境對航空與太空飛行器設計、運作與安全影響的學科。</td></tr>
-<tr><td>aerostatic balance</td><td>靜氣平衡</td><td>流體中垂直壓力梯度力與重力達成平衡的狀態，與靜力平衡概念相近。</td></tr>
-<tr><td>aestival</td><td>夏季的</td><td>與夏季有關或發生於夏季的。</td></tr>
-<tr><td>aestivation</td><td>夏眠</td><td>某些生物於高溫或乾旱季節進入代謝降低之休眠狀態。</td></tr>
-<tr><td>Afer</td><td>阿非風</td><td>古典氣象或地方風名之一，通常指源自非洲方向的暖風或南風。</td></tr>
-<tr><td>afghanets</td><td>阿富汗風</td><td>阿富汗一帶的地方性風名，可指當地乾熱、夾塵或地形導引的風系。</td></tr>
-<tr><td>African Easterly Wave</td><td>非洲東風波</td><td>沿非洲東風急流附近生成並向西傳播的熱帶擾動，常為大西洋熱帶氣旋胚胎。</td></tr>
-<tr><td>African jet</td><td>非洲急流</td><td>通常指非洲東風急流，為北非與西非中低層因南北溫度梯度形成之狹強風帶。</td></tr>
-<tr><td>afterglow</td><td>餘暉</td><td>日落後或日出前，因高空散射使天空仍維持明亮或呈現色彩的光學現象。</td></tr>
-<tr><td>afterheat</td><td>餘熱</td><td>熱源移除後仍殘留於系統中的熱量，或白天受熱後地表與近地層持續釋放的熱能。</td></tr>
-<tr><td>afternoon effect</td><td>午後效應</td><td>因日間加熱在午後最明顯而造成之邊界層發展、對流增強或觀測偏差現象。</td></tr>
-<tr><td>aftersummer</td><td>小陽春</td><td>秋季或初冬短暫出現近似夏季的溫暖晴朗天氣。</td></tr>
-<tr><td>age</td><td>齡；年齡</td><td>指物體、氣團、水團、氣膠或地質體自形成以來所經歷的時間。</td></tr>
-<tr><td>ageostrophic advection</td><td>非地轉平流</td><td>由非地轉風分量造成之物理量輸送，常與輻合、輻散及垂直運動有關。</td></tr>
-<tr><td>ageostrophic wind</td><td>非地轉風</td><td>實際風中偏離地轉平衡的部分，可由摩擦、曲率、加速度或局地強迫所致。</td></tr>
-<tr><td>agglomeration</td><td>團聚</td><td>細小粒子因碰撞、黏附或凝結而聚合成較大顆粒或團塊的過程。</td></tr>
-<tr><td>aggregation</td><td>聚集</td><td>個體、粒子、冰晶、資料單元或現象組成較大集合體的過程。</td></tr>
-<tr><td>aggressive water</td><td>侵蝕性水</td><td>對碳酸鹽、金屬或建材具有較強溶蝕或腐蝕能力的水體。</td></tr>
-<tr><td>agnostic chart</td><td>無定見圖</td><td>不預先假設特定物理模型或分類、僅以資料本身呈現分布特徵的分析圖。</td></tr>
-<tr><td>agonic line</td><td>無偏線</td><td>地表上磁偏角為零的連線，即真北與磁北一致的位置。</td></tr>
-<tr><td>agricultural climatology</td><td>農業氣候學</td><td>研究氣候條件對作物、生產制度與農業資源影響的應用氣候學分支。</td></tr>
-<tr><td>agricultural drought</td><td>農業乾旱</td><td>土壤水分不足以滿足作物生長需求，致使農作生產受損的乾旱型態。</td></tr>
-<tr><td>agricultural meteorological station</td><td>農業氣象站</td><td>以農業應用為目的，觀測氣象與農田環境要素之測站。</td></tr>
-<tr><td>agricultural meteorology</td><td>農業氣象學</td><td>研究天氣與氣候對農作物、畜牧、土壤與農業作業影響的應用氣象學。</td></tr>
-<tr><td>agro-met station</td><td>農業氣象站</td><td>agricultural meteorological station 的簡稱，指提供農業相關氣象觀測與服務的測站。</td></tr>
-<tr><td>agroclimatic index</td><td>農業氣候指數</td><td>綜合溫度、降水、日照或蒸發等因子，用以評估農業生產環境之指標。</td></tr>
-<tr><td>agrometeorological forecasting</td><td>農業氣象預報</td><td>針對作物生長、病蟲害、灌溉、收穫或農損風險所作的專門氣象預報。</td></tr>
-<tr><td>Agulhas Current</td><td>阿古拉斯海流</td><td>沿非洲東南岸向西南流動的暖流，為印度洋西邊界流之一，對南大洋與大西洋交換具重要作用。</td></tr>
-<tr><td>Air</td><td>空氣</td><td>構成地球大氣的氣體混合物，主要成分為氮、氧、氬及微量水氣與微量氣體。</td></tr>
-<tr><td>air acoustic ranging sensor</td><td>空氣聲測測距感測器</td><td>利用聲波在空氣中的傳播與回波時間量測距離或目標位置的感測器。</td></tr>
-<tr><td>air current</td><td>氣流</td><td>空氣在壓力梯度、浮力、地轉效應或地形等作用下產生的流動。</td></tr>
-<tr><td>air discharge</td><td>空氣排放</td><td>氣體自系統、管道、孔口或自然通道排出之過程或流量。</td></tr>
-<tr><td>air drainage</td><td>冷空氣下洩</td><td>近地層較冷且密度較高的空氣沿坡地下滑並聚積於谷地或低地的現象。</td></tr>
-<tr><td>air hoar</td><td>霜華</td><td>空氣中水汽直接凝華於物體表面所形成的白色羽毛狀或針狀冰晶。</td></tr>
-<tr><td>air line correction</td><td>空氣線修正</td><td>在儀器量測、聲學、雷達或輻射傳輸中，對空氣傳播路徑造成之延遲、折射或衰減所進行的修正。</td></tr>
-<tr><td>air mass</td><td>氣團</td><td>在廣大水平範圍內具有相對均勻溫度、濕度與垂直穩定度特性的空氣體，是天氣分析與鋒面研究的基本概念。</td></tr>
-<tr><td>air meter</td><td>空氣量測儀</td><td>泛指用於量測空氣流量、體積、壓力或相關物理性質的儀器。</td></tr>
-<tr><td>air parcel</td><td>氣塊</td><td>在理論分析中視為具有均勻性質且可與周圍環境比較的小體積空氣，用以研究浮力、穩定度與熱力過程。</td></tr>
-<tr><td>air pocket</td><td>氣穴</td><td>大氣中局部性質與周圍顯著不同的小範圍空氣區，飛航上常指造成顛簸或突然下沉感的局地擾動區。</td></tr>
-<tr><td>air pollutants</td><td>空氣污染物</td><td>存在於大氣中並足以危害人體健康、生態系、能見度或材料的氣體、液滴、粒子或其化學衍生物。</td></tr>
-<tr><td>air pollution</td><td>空氣污染</td><td>大氣中污染物濃度達到足以對健康、環境、氣候或財產造成不利影響的狀態。</td></tr>
-<tr><td>air pollution control</td><td>空氣污染控制</td><td>藉由排放削減、處理技術、法規管理與監測措施，降低大氣污染物生成、排放與暴露的工作。</td></tr>
-<tr><td>air pollution episode</td><td>空氣污染事件</td><td>在不利擴散條件或高排放情況下，污染物濃度於一段時間內顯著升高並造成廣域影響的污染過程。</td></tr>
-<tr><td>air pollution meteorology</td><td>空氣污染氣象學</td><td>研究風場、穩定度、混合層高度、降水與輻射等氣象條件對污染物輸送、擴散、轉化與沉降影響的分支學科。</td></tr>
-<tr><td>air quality criteria</td><td>空氣品質準則</td><td>根據毒理、流行病與環境效應資料所建立，用以評估污染物可接受濃度或暴露風險的科學依據。</td></tr>
-<tr><td>air quality standards</td><td>空氣品質標準</td><td>由主管機關依法訂定的污染物濃度限值或目標值，用以保護人體健康與環境品質。</td></tr>
-<tr><td>air report</td><td>航空氣象報告</td><td>由航空器於飛行中回報的氣象觀測資訊，內容可含風、溫度、雲、亂流、結冰與能見度等。</td></tr>
-<tr><td>air sampler</td><td>空氣採樣器</td><td>用於收集空氣中氣體或粒狀污染物樣本，以供濃度分析、成分鑑定或暴露評估的設備。</td></tr>
-<tr><td>air temperature</td><td>氣溫</td><td>空氣的熱狀態量度，通常指離地一定高度、避免輻射直射干擾後所量得的溫度。</td></tr>
-<tr><td>air toxins</td><td>空氣毒性污染物</td><td>在大氣中以低濃度暴露亦可能造成急性或慢性健康危害的有毒污染物。</td></tr>
-<tr><td>air trap</td><td>滯氣區</td><td>因地形、建築或穩定層結使空氣不易流通與更新，易造成污染物或冷空氣聚積的區域。</td></tr>
-<tr><td>air-line sounding</td><td>航線探空</td><td>利用固定航線航空器沿飛行路徑所取得的大氣垂直或準垂直觀測資料。</td></tr>
-<tr><td>air-line well</td><td>導氣井</td><td>為量測地下壓力或抽取地下氣體而設置，藉由氣體導管與觀測系統連接的井設施。</td></tr>
-<tr><td>air–earth conduction current</td><td>空氣—地球傳導電流</td><td>在晴天電場下，由大氣離子導電所形成、於空氣與地表之間流動的微弱電流。</td></tr>
-<tr><td>air–earth current</td><td>空氣—地球電流</td><td>大氣與地表之間流動的電流總稱，可包含傳導電流及其他與大氣電現象相關的分量。</td></tr>
-<tr><td>air–fuel ratio</td><td>空燃比</td><td>燃燒過程中空氣與燃料的質量比或體積比，影響燃燒效率、污染排放與火焰特性。</td></tr>
-<tr><td>air–sea interaction</td><td>海氣交互作用</td><td>海洋與大氣之間透過動量、熱量、水氣、氣體與輻射交換所產生的雙向耦合過程。</td></tr>
-<tr><td>airborne expendable bathythermograph</td><td>機載投棄式海水溫深儀</td><td>由航空器投放入海、一次性使用的儀器，用以量測上層海洋溫度隨深度之分布。</td></tr>
-<tr><td>airborne fraction</td><td>大氣滯留比例</td><td>某一時段人為碳排放中仍保留於大氣而未被海洋與陸地生態系吸收的比例。</td></tr>
-<tr><td>airborne particulates</td><td>空氣中懸浮微粒</td><td>漂浮於大氣中的固體或液體微粒，來源可為自然過程或人為排放。</td></tr>
-<tr><td>airborne weather radar</td><td>機載氣象雷達</td><td>裝載於航空器上的雷達，用以探測降水、對流胞、亂流或地形回波，支援飛航避險與天氣監測。</td></tr>
-<tr><td>aircraft ceiling</td><td>航空器升限</td><td>航空器在特定載重與大氣條件下，仍能維持規定爬升性能或平飛性能的最大高度。</td></tr>
-<tr><td>aircraft electrification</td><td>航空器帶電</td><td>航空器因摩擦、降水粒子碰撞、雷暴環境或感應作用而累積電荷的現象。</td></tr>
-<tr><td>aircraft ice accretion</td><td>航空器積冰附著</td><td>過冷水滴在航空器表面撞擊後凍結並逐漸堆積的過程，會改變空氣動力與操作安全。</td></tr>
-<tr><td>aircraft icing</td><td>航空器結冰</td><td>航空器在飛行中因遭遇過冷雲滴、凍雨或濕雪而於機體表面形成冰層的現象。</td></tr>
-<tr><td>aircraft meteorological station</td><td>航空器氣象觀測站</td><td>以航空器為觀測平台，定期或即時回傳飛行途中的氣象資料之觀測系統。</td></tr>
-<tr><td>aircraft observation</td><td>航空器觀測</td><td>由航空器於飛行中取得並回報的大氣、雲、亂流、結冰或其他環境觀測資料。</td></tr>
-<tr><td>aircraft report</td><td>航空器報告</td><td>飛行員或機載系統依規定格式傳送的飛航與氣象觀測報告，常簡稱為 AIREP 或相關自動報。</td></tr>
-<tr><td>aircraft sounding</td><td>航空器探空</td><td>利用航空器升降或巡航過程所量得之溫度、風、濕度與壓力資料重建大氣垂直結構的方法。</td></tr>
-<tr><td>aircraft thermometry</td><td>航空器測溫</td><td>在航空器上量測外界空氣溫度的技術與方法，需校正氣流壓縮與儀器加熱效應。</td></tr>
-<tr><td>aircraft turbulence</td><td>航空器遭遇亂流</td><td>航空器在飛行中受大氣紊流、風切變或對流擾動影響而產生顛簸的現象。</td></tr>
-<tr><td>aircraft weather reconnaissance</td><td>航空氣象偵察</td><td>以航空器主動進入目標天氣系統進行觀測，蒐集颱風、鋒面或對流系統之關鍵資料。</td></tr>
-<tr><td>aircraft-to-satellite data relay</td><td>航空器至衛星資料中繼</td><td>透過衛星通訊系統將航空器觀測或飛航資料即時傳送至地面站的技術。</td></tr>
-<tr><td>AIREP</td><td>航空器報告</td><td>航空器於飛行中依標準格式提交的例行或特別報告，內容可包括位置、時間、風、溫度、亂流與結冰等。</td></tr>
-<tr><td>airfield color code</td><td>機場顏色代碼</td><td>以顏色分級表示機場附近天氣條件對飛航作業影響程度的簡明編碼系統。</td></tr>
-<tr><td>airglow</td><td>氣輝</td><td>高層大氣中的原子、分子或自由基受化學反應與輻射激發後所發出的微弱自然輝光。</td></tr>
-<tr><td>airlight</td><td>空氣光</td><td>由大氣分子或粒子散射進入視線的光，會降低目標與背景之對比並影響能見度。</td></tr>
-<tr><td>airlight formula</td><td>空氣光公式</td><td>描述大氣散射所產生視線亮度與目標對比衰減關係的數學表示式。</td></tr>
-<tr><td>airmass analysis</td><td>氣團分析</td><td>依氣團的溫濕特性、源地與移動路徑，分析其分布、邊界及對天氣的影響。</td></tr>
-<tr><td>airmass classification</td><td>氣團分類</td><td>按照氣團形成區、溫度與濕度特徵，將氣團區分為熱帶、極地、大陸性、海洋性等類型。</td></tr>
-<tr><td>airmass climatology</td><td>氣團氣候學</td><td>研究各類氣團在不同地區與季節出現頻率、路徑、轉變及其氣候意義的學科。</td></tr>
-<tr><td>airmass modification</td><td>氣團變質</td><td>氣團在移動過程中受下墊面加熱、冷卻、蒸發或地形影響而改變原有熱力與水氣性質的過程。</td></tr>
-<tr><td>airmass precipitation</td><td>氣團性降水</td><td>在單一氣團內因局地加熱、不穩定或地形抬升所形成，而非直接由鋒面觸發的降水。</td></tr>
-<tr><td>airmass shower</td><td>氣團性陣雨</td><td>發生於不穩定氣團內，由局地對流發展所造成的短時、間歇性陣雨。</td></tr>
-<tr><td>airmass source region</td><td>氣團源區</td><td>氣團形成並取得其主要熱力與水氣特徵的廣大下墊面區域。</td></tr>
-<tr><td>airplane observation</td><td>飛機觀測</td><td>以飛機為平台取得的氣象或環境觀測資料，為 aircraft observation 的常用同義稱。</td></tr>
-<tr><td>airport elevation</td><td>機場標高</td><td>機場基準點或主要跑道附近代表位置相對平均海平面的高度。</td></tr>
-<tr><td>airport forecast</td><td>機場預報</td><td>針對特定機場及其鄰近空域所發布的短期飛航空氣象預報，通常包括風、能見度、天氣與雲底高度。</td></tr>
-<tr><td>airshed model</td><td>氣域模式</td><td>將某地區視為污染物輸送與轉化之空氣盆地或氣域，模擬其排放、擴散、反應與沉降的數值模式。</td></tr>
-<tr><td>airspeed</td><td>空速</td><td>航空器相對周圍空氣的速度，是飛行性能與操縱的重要參數。</td></tr>
-<tr><td>airway</td><td>航路</td><td>供航空器依規定導航設施與程序飛行的空中通道。</td></tr>
-<tr><td>airways shelter</td><td>百葉觀測箱</td><td>用以保護溫度計或濕度計免受陽光直射與降水干擾，同時保持通風的標準氣象儀器遮蔽箱。</td></tr>
-<tr><td>Aitken dust counter</td><td>艾特肯塵粒計數器</td><td>早期用於估計空氣中凝結核或微粒數量的儀器，藉由觀察膨脹後凝結成霧滴的粒子數進行計數。</td></tr>
-<tr><td>Aitken nucleus</td><td>艾特肯凝結核</td><td>粒徑極小、可作為水氣凝結核心的氣膠粒子，通常指細粒徑凝結核族群。</td></tr>
-<tr><td>alarm level</td><td>警戒濃度</td><td>當觀測值達到某一預設門檻時，需啟動警報、管制或應變措施的臨界水準。</td></tr>
-<tr><td>Alaska Current</td><td>阿拉斯加洋流</td><td>北太平洋東北部沿阿拉斯加灣流動的暖流，為副極地環流的一部分。</td></tr>
-<tr><td>Alaskan Stream</td><td>阿拉斯加海流</td><td>沿阿留申群島南側向西流動的北太平洋強勁海流，與副極地環流密切相關。</td></tr>
-<tr><td>albedo</td><td>反照率</td><td>物體表面將入射短波輻射反射回去的比例，是地表輻射平衡的重要參數。</td></tr>
-<tr><td>albedometer</td><td>反照率計</td><td>同時量測向上與向下短波輻射，以求得地表或目標物反照率的儀器。</td></tr>
-<tr><td>Alberta clipper</td><td>亞伯達快移低壓</td><td>源自加拿大亞伯達省、移動快速且常帶來寒冷、陣風與降雪的中緯度低壓系統。</td></tr>
-<tr><td>Alberta low</td><td>亞伯達低壓</td><td>在加拿大亞伯達地區形成或增強的低壓系統，常為北美寒季天氣系統的重要一環。</td></tr>
-<tr><td>aldehydes</td><td>醛類</td><td>含有醛基的有機化合物族群，可由燃燒、光化學反應與生物排放產生，部分成員屬重要空氣污染物。</td></tr>
-<tr><td>Aleutian Current</td><td>阿留申洋流</td><td>北太平洋副極地環流中沿阿留申群島附近流動的海流分支。</td></tr>
-<tr><td>Aleutian low</td><td>阿留申低壓</td><td>冬季常駐於北太平洋阿留申群島附近的半永久性低壓中心，對北太平洋風暴路徑影響顯著。</td></tr>
-<tr><td>Alexander&#x27;s dark band</td><td>亞歷山大暗帶</td><td>主虹與副虹之間因光線折射與反射分布造成相對較暗的天空帶。</td></tr>
-<tr><td>Alfvén wave</td><td>阿耳芬波</td><td>在磁化電漿中沿磁力線傳播的磁流體波，恢復力主要來自磁張力。</td></tr>
-<tr><td>Algerian Current</td><td>阿爾及利亞洋流</td><td>地中海南部沿阿爾及利亞岸外流動的海流，與地中海環流及水團交換有關。</td></tr>
-<tr><td>algorithm</td><td>演算法</td><td>為求解特定問題而設計的明確步驟與運算規則，在資料處理、遙測反演與數值模式中廣泛使用。</td></tr>
-<tr><td>aliasing</td><td>混疊</td><td>因取樣頻率不足或離散化限制，使高頻訊號誤映為較低頻或錯誤結構的現象。</td></tr>
-<tr><td>alidade</td><td>照準儀</td><td>用於測量方位角或瞄準目標方向的測繪與導航裝置。</td></tr>
-<tr><td>alimentation</td><td>補給作用</td><td>指系統獲得物質或能量供應的過程；於水文或冰川學中常指補注、補給或補充來源。</td></tr>
-<tr><td>Alisov&#x27;s classification of climate</td><td>阿利索夫氣候分類</td><td>以行星風帶、氣團活動與環流型態為基礎所建立的氣候分類方法。</td></tr>
-<tr><td>alkalinity</td><td>鹼度</td><td>水體中中和酸的能力，主要與重碳酸鹽、碳酸鹽及氫氧根等鹼性成分有關。</td></tr>
-<tr><td>alkanes</td><td>烷類</td><td>僅含單鍵的飽和烴類，為大氣揮發性有機化合物的一類來源。</td></tr>
-<tr><td>alkenes</td><td>烯類</td><td>含有至少一個碳碳雙鍵的不飽和烴，反應性較高，常參與對流層光化學反應。</td></tr>
-<tr><td>alkylperoxy radicals</td><td>烷基過氧自由基</td><td>有機揮發物氧化過程中的重要中間產物，對臭氧生成與光化學煙霧演變具有關鍵作用。</td></tr>
-<tr><td>alkynes</td><td>炔類</td><td>含有至少一個碳碳三鍵的不飽和烴，為大氣化學中的有機痕量成分之一。</td></tr>
-<tr><td>All-hallown summer</td><td>萬聖暖期</td><td>秋季晚期短暫再現溫暖、晴朗天氣的一段期間，類似晚秋回暖現象。</td></tr>
-<tr><td>all-sky photometer</td><td>全天空光度計</td><td>可對整個天空半球進行亮度或輻射分布量測的光學儀器。</td></tr>
-<tr><td>all-weather airport</td><td>全天候機場</td><td>具備導航、照明與作業設施，可在較廣泛天氣條件下維持飛航起降運作的機場。</td></tr>
-<tr><td>Allard&#x27;s law</td><td>阿拉德定律</td><td>描述光在大氣中傳播時，其強度隨距離及大氣消光共同衰減的關係定律。</td></tr>
-<tr><td>allerheiligenwind</td><td>萬聖風</td><td>中歐地區與萬聖節前後相關的地方性或節令性風名。</td></tr>
-<tr><td>allobaric</td><td>變壓的</td><td>與氣壓隨時間變化有關的；氣象上常指由氣壓變化所引起的風場分量或運動。</td></tr>
-<tr><td>allohypsography</td><td>海陸高程分布學</td><td>研究地球表面陸地高程與海洋深度面積分布特徵的學門。</td></tr>
-<tr><td>allowed transitions</td><td>允許躍遷</td><td>依量子力學選擇定則可發生、且發生機率相對較高的能階躍遷。</td></tr>
-<tr><td>alluvial</td><td>沖積的</td><td>由河流搬運與沉積作用形成或與之相關的地形、沉積物或土壤。</td></tr>
-<tr><td>alluvial aquifer</td><td>沖積含水層</td><td>由河流沖積沉積物構成、具有儲水與導水能力的地下含水地層。</td></tr>
-<tr><td>almanac</td><td>年鑑</td><td>按日、月或年編列天文、氣象、潮汐或曆法資料的參考出版物。</td></tr>
-<tr><td>Almeria–Oran front</td><td>阿爾梅里亞—奧蘭鋒</td><td>位於西地中海阿爾梅里亞與奧蘭一帶海域的海洋鋒面或水團交界帶。</td></tr>
-<tr><td>almwind</td><td>高山牧場風</td><td>阿爾卑斯山區與高山草場地帶相關的地方性風名，通常受山谷與坡面熱力差異控制。</td></tr>
-<tr><td>aloegoe</td><td>阿洛戈風</td><td>特定地區使用的地方風名，指具有區域性來源與季節特徵的局地風。</td></tr>
-<tr><td>along-slope wind systems</td><td>沿坡風系</td><td>受山坡加熱與冷卻所驅動，沿坡面向上或向下流動的局地風系總稱。</td></tr>
-<tr><td>along-valley wind systems</td><td>沿谷風系</td><td>在山谷地形中受熱力與壓力梯度影響，沿谷軸方向形成的日夜局地環流系統。</td></tr>
-<tr><td>along-valley winds</td><td>沿谷風</td><td>沿山谷主軸吹送的局地風，常表現為白天上谷風與夜間下谷風。</td></tr>
-<tr><td>aloup de vent</td><td>阿盧風</td><td>地方性風名，指某特定地區依地形與季節而出現的局地風。</td></tr>
-<tr><td>alpenglow</td><td>高山霞光</td><td>日出前或日落後，高山或高雲因太陽低角度散射而呈現紅、橙色輝光的現象。</td></tr>
-<tr><td>alpha particle</td><td>α粒子</td><td>由兩個質子與兩個中子組成的帶正電粒子，為某些放射性衰變所釋出的粒子。</td></tr>
-<tr><td>alpha ray</td><td>α射線</td><td>由放射性物質放出、實質上由 α 粒子組成的電離輻射。</td></tr>
-<tr><td>alpine glacier</td><td>高山冰川</td><td>發育於山區谷地或山坡上的冰川，其流動與形態受地形強烈控制。</td></tr>
-<tr><td>alpine tundra</td><td>高山凍原</td><td>位於高海拔樹木生長上限以上、植被低矮且生長季短的寒冷生態環境。</td></tr>
-<tr><td>Alter shield</td><td>奧特防風罩</td><td>裝設於降水量器周圍，用以減少風對降水收集效率影響的防風裝置。</td></tr>
-<tr><td>alternate airport</td><td>備降機場</td><td>當原定目的地或起降機場無法安全使用時，可供航空器改降的替代機場。</td></tr>
-<tr><td>alternate forecast</td><td>備降預報</td><td>針對備降機場所發布的航空氣象預報，用於飛航計畫與備援決策。</td></tr>
-<tr><td>alternating unit tensor</td><td>交替單位張量</td><td>在向量與張量分析中用以表示完全反對稱性質的單位張量，亦常稱 Levi-Civita 張量。</td></tr>
-<tr><td>alti-electrograph</td><td>高度電記儀</td><td>以電性方式自動記錄高度變化的儀器。</td></tr>
-<tr><td>altigraph</td><td>高度記錄儀</td><td>能連續記錄高度或高度變化的儀器。</td></tr>
-<tr><td>altimeter</td><td>高度計</td><td>用於測定相對某一基準面的高度之儀器，航空上常依氣壓推算飛行高度。</td></tr>
-<tr><td>altimeter corrections</td><td>高度計修正</td><td>為消除氣壓、高度、溫度或儀器誤差對高度計讀值的影響而施加的修正量。</td></tr>
-<tr><td>altimeter equation</td><td>測高方程式</td><td>描述氣壓隨高度變化並用以由壓力推算高度的方程式。</td></tr>
-<tr><td>altimeter setting</td><td>高度計撥定值</td><td>為使航空器高度計在特定基準條件下顯示所需高度而設定的參考氣壓值。</td></tr>
-<tr><td>altimeter-setting indicator</td><td>高度計撥定指示器</td><td>顯示或設定高度計基準氣壓值的裝置或指示部分。</td></tr>
-<tr><td>altimetry</td><td>測高學</td><td>量測地表、海面、雲頂或飛行體高度及其變化的技術與學科。</td></tr>
-<tr><td>altithermal period</td><td>高溫期</td><td>全新世早中期某些地區氣候較現代顯著偏暖的時段。</td></tr>
-<tr><td>altitude</td><td>高度</td><td>某一位置相對於指定基準面，如平均海平面或地面的垂直距離。</td></tr>
-<tr><td>altocumulus</td><td>高積雲</td><td>中層雲的一類，通常呈塊狀、片狀或波狀分布，雲體多帶有白與灰的明暗變化。</td></tr>
-<tr><td>altostratus</td><td>高層雲</td><td>中層層狀雲，常呈灰或藍灰色均勻雲幕，可覆蓋大範圍天空並使日月輪廓模糊。</td></tr>
-<tr><td>aluminum oxide humidity element</td><td>氧化鋁濕度感測元件</td><td>利用氧化鋁薄膜吸附水氣後電性改變來量測濕度的感測元件。</td></tr>
-<tr><td>ambient air</td><td>周遭空氣</td><td>某地點自然存在、未受局部採樣系統或製程改變的外界空氣。</td></tr>
-<tr><td>ambient pressure</td><td>環境壓力</td><td>物體或系統周圍外界介質所施加的壓力。</td></tr>
-<tr><td>ambient temperature</td><td>環境溫度</td><td>物體或儀器所在周圍介質的溫度，通常指外部環境的實際溫度。</td></tr>
-<tr><td>ambiguity function</td><td>模糊函數</td><td>描述訊號或量測系統在時延、頻移或空間定位上可分辨能力與不確定性的函數。</td></tr>
-<tr><td>ammonia</td><td>氨</td><td>化學式 NH3 的鹼性氣體，來自農業、工業與生物分解，為大氣氮循環與氣膠生成的重要前驅物。</td></tr>
-<tr><td>ammonification</td><td>氨化作用</td><td>有機含氮物質經微生物分解轉化為氨或銨鹽的生物地球化學過程。</td></tr>
-<tr><td>ammonium chloride</td><td>氯化銨</td><td>由氨與氯化氫反應可形成的銨鹽，亦可存在於大氣細懸浮微粒中。</td></tr>
-<tr><td>ammonium ion</td><td>銨離子</td><td>化學式 NH4+ 的帶正電離子，常存在於降水、氣膠與土壤溶液中。</td></tr>
-<tr><td>ammonium nitrate</td><td>硝酸銨</td><td>由氨與硝酸形成的銨鹽，是大氣細懸浮微粒的重要二次無機成分之一。</td></tr>
-<tr><td>ammonium sulfate</td><td>硫酸銨</td><td>由氨中和硫酸所形成的銨鹽，為大氣二次氣膠的重要組成。</td></tr>
-<tr><td>amorphous clouds</td><td>無定形雲</td><td>外形不明顯、缺乏固定輪廓或結構特徵的雲。</td></tr>
-<tr><td>amorphous frost</td><td>無定形霜</td><td>未形成明顯晶體幾何形狀、呈鬆散或不規則外觀的霜層。</td></tr>
-<tr><td>amorphous sky</td><td>無定形天空</td><td>天空雲層或亮度分布缺乏清楚紋理與形狀區分的狀態。</td></tr>
-<tr><td>amount of precipitation</td><td>降水量</td><td>在一定時間內降落至地面之液態與固態降水折算成水深的總量。</td></tr>
-<tr><td>amphidrome</td><td>無潮點</td><td>潮汐振幅接近零，且潮波相位圍繞其作旋轉分布的海域中心點。</td></tr>
-<tr><td>amplitude</td><td>振幅</td><td>週期或波動量相對其平衡值或平均值所達最大偏離量。</td></tr>
-<tr><td>amplitude modulation</td><td>振幅調變</td><td>以訊號改變載波振幅而保持頻率基本不變的調變方式。</td></tr>
-<tr><td>amplitude spectrum</td><td>振幅譜</td><td>將訊號分解至各頻率成分後，表示各頻率振幅大小的頻譜分布。</td></tr>
-<tr><td>amplitude-modulated indicator</td><td>振幅調變指示器</td><td>利用振幅調變原理進行顯示、識別或量測的裝置。</td></tr>
-<tr><td>Amsu</td><td>先進微波探測單元</td><td>Advanced Microwave Sounding Unit 的簡稱，為衛星上用於探測大氣溫度與濕度垂直結構的微波遙測儀器。</td></tr>
-<tr><td>anabatic</td><td>上坡的</td><td>指沿山坡向上移動的氣流或與此相關的熱力現象。</td></tr>
-<tr><td>anabatic wind</td><td>上坡風</td><td>白天地表受熱後，近坡面空氣增暖而沿山坡向上吹送的局地風。</td></tr>
-<tr><td>Anadyr Current</td><td>阿納德爾洋流</td><td>白令海或其鄰近海域中與阿納德爾地區相關的寒流系統。</td></tr>
-<tr><td>anaerobic condition</td><td>厭氧條件</td><td>缺乏游離氧或氧濃度極低，以致生物與化學過程在無氧環境下進行的狀態。</td></tr>
-<tr><td>anafront</td><td>上滑鋒</td><td>鋒面附近暖空氣沿鋒面向上滑升，主要雲雨區位於鋒面後側或近鋒區的鋒面型態。</td></tr>
-<tr><td>anallobaric</td><td>無變壓性的</td><td>不伴隨顯著氣壓時間變化，或與變壓效應無關的。</td></tr>
-<tr><td>analog</td><td>類比</td><td>以連續變化形式表示資訊或以相似關係對應另一現象的表示方式。</td></tr>
-<tr><td>analog climate model</td><td>類比氣候模式</td><td>利用歷史上與目標狀態相似的大氣或海洋型態，推估氣候演變或異常的經驗式方法。</td></tr>
-<tr><td>analog method</td><td>類比法</td><td>尋找過去與當前狀況相似的個例，據以推估未來天氣或環境變化的預報方法。</td></tr>
-<tr><td>analog model</td><td>類比模式</td><td>以不同但數學性質相似的系統模擬目標系統行為的模型。</td></tr>
-<tr><td>analogs</td><td>類比個例</td><td>在分析或預報中，用來對照當前情況的歷史相似案例集合。</td></tr>
-<tr><td>analogue</td><td>類比</td><td>analog 的英式拼法，指性質相似可供對照或連續式表示的對象。</td></tr>
-<tr><td>analysis</td><td>分析</td><td>將觀測、理論與模式資訊加以整合，以描述某時刻或某區域大氣、海洋或環境狀態的作業與結果。</td></tr>
-<tr><td>analysis of variance</td><td>變異數分析</td><td>比較不同群組平均值差異是否顯著的統計方法，以總變異分解為不同來源成分。</td></tr>
-<tr><td>analyzed chart</td><td>分析圖</td><td>經過資料整併與專家或客觀分析程序後繪製的氣象、海洋或環境場圖。</td></tr>
-<tr><td>anchor balloon</td><td>繫留氣球</td><td>以纜繩固定於地面或船上的氣球，用以觀測近地層風、溫度或其他大氣要素。</td></tr>
-<tr><td>anchor ice</td><td>底著冰</td><td>在河床、湖底或水中物體表面形成並附著其上的冰。</td></tr>
-<tr><td>anelastic approximation</td><td>非彈性近似</td><td>在流體力學中忽略聲波傳播、保留密度垂直變化對浮力影響的近似，可用於大氣與海洋緩變流動。</td></tr>
-<tr><td>anemoclinometer</td><td>風傾角儀</td><td>量測風向垂直傾角或氣流偏斜角度的儀器。</td></tr>
-<tr><td>anemometer</td><td>風速計</td><td>用於量測風速大小的儀器，可分為杯式、螺旋槳式、超音波式等多種類型。</td></tr>
-<tr><td>anemometer level</td><td>風速計高度</td><td>安裝風速計以進行標準觀測的離地高度。</td></tr>
-<tr><td>anemometry</td><td>測風學</td><td>關於風速、風向及其量測技術、儀器與理論的學門。</td></tr>
-<tr><td>anemoscope</td><td>風向儀</td><td>用於指示風向變化的裝置，通常不直接量測風速。</td></tr>
-<tr><td>anemovane</td><td>風向風速儀</td><td>可同時量測風向與風速的組合式儀器。</td></tr>
-<tr><td>aneroid</td><td>空盒式氣壓儀元件</td><td>利用彈性金屬盒受外界氣壓變化而伸縮的原理進行量測的儀器元件或裝置。</td></tr>
-<tr><td>aneroid barograph</td><td>空盒自記氣壓計</td><td>以空盒感壓元件連續記錄氣壓隨時間變化的儀器。</td></tr>
-<tr><td>aneroid barometer</td><td>空盒氣壓計</td><td>以抽空金屬盒受壓變形測量大氣壓力的氣壓計，不需使用水銀。</td></tr>
-<tr><td>aneroid capsule</td><td>空盒囊</td><td>空盒氣壓計中對壓力變化敏感的密封彈性金屬囊。</td></tr>
-<tr><td>angel</td><td>天使回波</td><td>雷達上由昆蟲、鳥群、湍流或折射率不均勻體造成的非降水弱回波。</td></tr>
-<tr><td>angin</td><td>安金風</td><td>地方性風名，通常指東南亞語境中的某類局地風或一般風之稱。</td></tr>
-<tr><td>angle of arrival</td><td>到達角</td><td>波動、訊號或粒子到達接收面時，相對某基準方向的入射方向角。</td></tr>
-<tr><td>angle of incidence</td><td>入射角</td><td>入射光線、波束或粒子方向與界面法線之間的夾角。</td></tr>
-<tr><td>angle of reflection</td><td>反射角</td><td>反射光線或波束方向與界面法線之間的夾角。</td></tr>
-<tr><td>angle of refraction</td><td>折射角</td><td>折射光線或波束方向與界面法線之間的夾角。</td></tr>
-<tr><td>Angola Current</td><td>安哥拉洋流</td><td>非洲西南岸安哥拉附近向南流動的暖流，與本格拉海流系統互動明顯。</td></tr>
-<tr><td>Angola–Benguela front</td><td>安哥拉—本格拉鋒</td><td>安哥拉暖流與本格拉寒流交會形成的海洋鋒面，伴隨明顯溫鹽梯度與生態差異。</td></tr>
-<tr><td>angstrom</td><td>埃</td><td>長度單位，等於 10^-10 公尺，常用於表示分子尺度或光波長。</td></tr>
-<tr><td>angular drift</td><td>角漂移</td><td>方向或角位置隨時間逐漸偏移的現象。</td></tr>
-<tr><td>angular momentum</td><td>角動量</td><td>物體繞某軸旋轉運動所具有的動量量度，與質量分布、速度及轉軸位置有關。</td></tr>
-<tr><td>angular resolution</td><td>角解析度</td><td>儀器、感測器或觀測系統區分兩個鄰近方向目標的最小角距能力。</td></tr>
-<tr><td>angular spreading</td><td>角向展寬</td><td>波束、輻射或粒子群在傳播中於角度方向擴散變寬的現象。</td></tr>
-<tr><td>angular velocity</td><td>角速度</td><td>物體繞軸旋轉時，單位時間內轉角變化的速率。</td></tr>
-<tr><td>angular velocity of the earth</td><td>地球角速度</td><td>地球自轉的角速度，是科氏力與地轉運動理論中的基本常數。</td></tr>
-<tr><td>angular wavenumber</td><td>角波數</td><td>以弧度表示之波數，通常等於 2π 除以波長。</td></tr>
-<tr><td>angular-momentum balance</td><td>角動量平衡</td><td>系統中角動量的輸送、生成與耗散達成守恆或收支平衡的關係。</td></tr>
-<tr><td>angular-spreading factor</td><td>角向展寬因子</td><td>量化波束或輻射在角度方向擴散程度的參數。</td></tr>
-<tr><td>angularity correction</td><td>角度修正</td><td>為補償量測系統在不同入射或觀測角度下響應差異而施加的訂正。</td></tr>
-<tr><td>anhyetism</td><td>少雨性</td><td>某地區在氣候上呈現降水偏少或乾旱傾向的特性。</td></tr>
-<tr><td>anisotropic</td><td>各向異性的</td><td>物理性質隨方向不同而改變的。</td></tr>
-<tr><td>anisotropy</td><td>各向異性</td><td>介質或場的性質對不同方向呈現不同強度或行為的特徵。</td></tr>
-<tr><td>anniversary winds</td><td>周年風</td><td>在每年大致相同日期或季節規律出現的地方性風現象。</td></tr>
-<tr><td>annual cycle</td><td>年週期</td><td>氣象或環境變數隨季節變化而在一年內重複出現的週期性變動。</td></tr>
-<tr><td>annual exceedance series</td><td>年超越序列</td><td>依每年超過某一門檻值的事件或極值所建立的統計序列。</td></tr>
-<tr><td>annual flood</td><td>年洪水</td><td>某一年內發生的代表性洪峰，常指該年最大洪水事件。</td></tr>
-<tr><td>annual flood series</td><td>年洪水序列</td><td>由各年份代表洪水值，如年最大洪峰流量，所組成的水文統計序列。</td></tr>
-<tr><td>annual maximum series</td><td>年最大值序列</td><td>每年取單一最大觀測值而形成的統計序列，常用於極值分析。</td></tr>
-<tr><td>annual minimum series</td><td>年最小值序列</td><td>每年取單一最小觀測值而形成的統計序列。</td></tr>
-<tr><td>annual range</td><td>年較差</td><td>某一氣象要素在一年內最高值與最低值之差，或最暖月與最冷月平均值之差。</td></tr>
-<tr><td>annual runoff</td><td>年逕流量</td><td>流域在一年期間內流出之總逕流量，常以水深或體積表示。</td></tr>
-<tr><td>annual series</td><td>年序列</td><td>按年取樣或彙整而成的資料序列。</td></tr>
-<tr><td>annual storage</td><td>年蓄水量</td><td>在一年尺度上水庫、土壤、雪冰或地下水系統所儲存之水量，或其年變化。</td></tr>
-<tr><td>anomalous</td><td>異常的</td><td>顯著偏離氣候平均、常態分布或預期行為的。</td></tr>
-<tr><td>anomalous propagation</td><td>異常傳播</td><td>電磁波因大氣折射率垂直分布異常而產生超折射、導波或波束彎折，致使傳播路徑偏離正常情況的現象。</td></tr>
-<tr><td>anomalous refraction</td><td>異常折射</td><td>由大氣折射率異常梯度引起之光波或電磁波折射偏差現象。</td></tr>
-<tr><td>Anomaly</td><td>距平</td><td>某一觀測值相對於長期平均、基準值或理論值的偏差。</td></tr>
-<tr><td>anomaly correlation</td><td>距平相關係數</td><td>以預報場與分析場相對各自氣候平均之偏差進行比較所得的相關指標，常用於評估數值預報技巧。</td></tr>
-<tr><td>antarctic air</td><td>南極氣團</td><td>源自南極冰原或其周邊高緯地區、極冷且通常乾燥穩定的空氣。</td></tr>
-<tr><td>antarctic anticyclone</td><td>南極高壓</td><td>覆蓋南極高原並由強烈輻射冷卻維持的高壓系統。</td></tr>
-<tr><td>Antarctic Bottom Water</td><td>南極底層水</td><td>在南極沿岸形成、密度極高並下沉至全球海洋深底層的水團，是深層海洋環流的重要組成。</td></tr>
-<tr><td>Antarctic Circle</td><td>南極圈</td><td>南緯約 66.5 度的緯線，為南極地區極晝與極夜現象的天文界線。</td></tr>
-<tr><td>Antarctic Circumpolar Current</td><td>南極繞極流</td><td>環繞南極洲、由西向東流動且幾乎無陸地阻隔的全球最強海流系統。</td></tr>
-<tr><td>antarctic divergence</td><td>南極輻散</td><td>南極高原附近近地層冷空氣向四周外流所形成的水平輻散帶。</td></tr>
-<tr><td>antarctic front</td><td>南極鋒</td><td>南極周邊高緯海域中冷暖水團或氣團之間的顯著交界帶。</td></tr>
-<tr><td>Antarctic Ice Sheet</td><td>南極冰蓋</td><td>覆蓋南極大陸的大規模永久冰體，為地球最大的冰儲存體。</td></tr>
-<tr><td>Antarctic Intermediate Water</td><td>南極中層水</td><td>形成於南大洋並向北擴散至中層海洋的低鹽水團，為全球海洋中層環流的重要成分。</td></tr>
-<tr><td>antarctic ozone hole</td><td>南極臭氧洞</td><td>南極春季平流層臭氧柱總量大幅減少所形成的區域性臭氧稀薄現象。</td></tr>
-<tr><td>Antarctic Polar Front</td><td>南極極鋒</td><td>南大洋中南極冷水與較暖副南極水團之間的重要海洋鋒面。</td></tr>
-<tr><td>antarctic sea smoke</td><td>南極海煙</td><td>極冷空氣流過較暖開放水面時，強烈蒸發與凝結形成貼近海面的霧狀蒸氣。</td></tr>
-<tr><td>antarctic stratospheric vortex</td><td>南極平流層極渦</td><td>冬春季圍繞南極平流層形成的強大環狀西風渦旋，與臭氧洞演變密切相關。</td></tr>
-<tr><td>Antarctic Surface Water</td><td>南極表層水</td><td>分布於南大洋高緯表層、受海冰與季節性熱鹽交換影響顯著的水團。</td></tr>
-<tr><td>Antarctic Zone</td><td>南極帶</td><td>位於南極鋒以南、具有南極特徵氣候與海洋條件的高緯區域。</td></tr>
-<tr><td>antecedent</td><td>先行的</td><td>在時間上先於某事件或狀態而發生，並可能對後續過程產生影響的。</td></tr>
-<tr><td>antecedent precipitation index</td><td>前期降水指數</td><td>依先前一段時間降水量及其遞減權重估計流域或土壤濕潤程度的指標。</td></tr>
-<tr><td>antecedent soil moisture</td><td>前期土壤濕度</td><td>某次降雨或事件發生前，土壤中已存在的含水狀態。</td></tr>
-<tr><td>antenna</td><td>天線</td><td>用於發射或接收電磁波的裝置，是雷達、通訊與遙測系統的核心元件。</td></tr>
-<tr><td>antenna feed</td><td>天線饋源</td><td>將訊號輸送至天線輻射體，或由天線接收後導回系統的饋入裝置。</td></tr>
-<tr><td>antenna gain</td><td>天線增益</td><td>衡量天線將能量集中於特定方向能力的指標，通常相對於理想基準天線表示。</td></tr>
-<tr><td>antenna limit</td><td>天線極限</td><td>天線系統在方向掃描、功率、靈敏度或幾何配置上所能達到的操作界限。</td></tr>
-<tr><td>antenna pattern</td><td>天線方向圖</td><td>描述天線輻射或接收能力隨方向變化的角度分布圖形。</td></tr>
-<tr><td>antenna temperature</td><td>天線溫度</td><td>以等效溫度表示天線所接收背景輻射能量強度的量，常用於微波遙測與射電觀測。</td></tr>
-<tr><td>anthelic arcs</td><td>反日弧</td><td>圍繞反日點附近、由冰晶反射或折射形成的一組罕見大氣光象弧。</td></tr>
-<tr><td>anthelion</td><td>反日點光斑</td><td>出現在天空反日點附近的亮斑光象，常與冰晶或粒子散射有關。</td></tr>
-<tr><td>anthropoclimatology</td><td>人類氣候學</td><td>研究氣候條件對人類健康、活動、居住與社會適應影響的學科。</td></tr>
-<tr><td>anthropogenic</td><td>人為的</td><td>由人類活動直接或間接造成的。</td></tr>
-<tr><td>anthropogenic climate change</td><td>人為氣候變遷</td><td>主要由溫室氣體排放、土地利用改變與氣膠排放等人類活動驅動的氣候系統長期變化。</td></tr>
-<tr><td>anthropogenic emissions</td><td>人為排放</td><td>由工業、能源、交通、農業及其他人類活動排入大氣的污染物或溫室氣體。</td></tr>
-<tr><td>anthropogenic heat</td><td>人為熱</td><td>由建築、交通、工業及能源使用釋放至環境中的熱量，常為都市熱島的重要來源。</td></tr>
-<tr><td>anti-icing</td><td>防冰</td><td>在冰形成之前採取加熱、塗層或化學處理等措施，以防止表面結冰。</td></tr>
-<tr><td>anti-sea breeze</td><td>反海風</td><td>與正常海風方向相反的近岸局地風，通常在特殊壓力場或地形條件下出現。</td></tr>
-<tr><td>anticrepuscular rays</td><td>反曙暮光束</td><td>在天空反太陽方向因透視效應看似匯聚的光束與暗影帶，實際上與曙暮光束近乎平行。</td></tr>
-<tr><td>anticyclogenesis</td><td>反氣旋生成</td><td>高壓或反氣旋環流形成、發展或增強的過程。</td></tr>
-<tr><td>anticyclolysis</td><td>反氣旋消散</td><td>反氣旋或高壓系統減弱、瓦解或消失的過程。</td></tr>
-<tr><td>anticyclone</td><td>反氣旋</td><td>以高壓中心為特徵、在北半球呈順時針、南半球呈逆時針旋轉的天氣系統，通常伴隨下沉與較穩定天氣。</td></tr>
-<tr><td>anticyclonic</td><td>反氣旋性的</td><td>具有反氣旋旋轉方向或與高壓環流相關性質的。</td></tr>
-<tr><td>anticyclonic circulation</td><td>反氣旋環流</td><td>圍繞高壓中心的環狀流動型態，在北、南半球旋轉方向相反。</td></tr>
-<tr><td>anticyclonic rotation</td><td>反氣旋式旋轉</td><td>與反氣旋環流一致的旋轉方向；北半球為順時針，南半球為逆時針。</td></tr>
-<tr><td>anticyclonic shear</td><td>反氣旋式切變</td><td>速度場或風場中具有促成反氣旋性渦度之水平切變分布。</td></tr>
-<tr><td>antihail rocket</td><td>防雹火箭</td><td>用於人工影響天氣作業、向對流雲播撒試劑以抑制冰雹形成或減小雹徑的火箭。</td></tr>
-<tr><td>Antilles Current</td><td>安地列斯洋流</td><td>西北大西洋安地列斯群島外海沿岸流動的暖流，為北大西洋副熱帶環流的一部分。</td></tr>
-<tr><td>antilog</td><td>反對數</td><td>與某對數值相對應的原數，即對數運算的逆運算結果。</td></tr>
-<tr><td>Antineutron</td><td>反中子</td><td>中子的反粒子，具有與中子相同質量但相反的重子數等量子性質。</td></tr>
-<tr><td>Antiparticle</td><td>反粒子</td><td>與某基本粒子質量相同而電荷及其他量子數相反的粒子。</td></tr>
-<tr><td>antipleion</td><td>反普列昂現象</td><td>與普列昂現象相反的特殊氣象光學或輻射觀測表徵，使用上多依原始專門文獻語境界定。</td></tr>
-<tr><td>antiproton</td><td>反質子</td><td>質子的反粒子，帶一單位負電荷而質量與質子相同。</td></tr>
-<tr><td>antisolar point</td><td>反日點</td><td>天空中與太陽方向相對、位於觀測者視野球面上正對太陽的位置，為多種大氣光象的幾何基準點。</td></tr>
-<tr><td>antitrades</td><td>反信風</td><td>指熱帶對流層上部與信風方向相反的高空氣流，通常自赤道附近流向副熱帶，為哈德里環流上層分支的一部分。</td></tr>
-<tr><td>antitwilight arch</td><td>反曙暮光弧</td><td>出現在與太陽相對方向地平附近的淡色弧狀光帶，由大氣散射造成，常見於曙暮光時段並位於地球影之上。</td></tr>
-<tr><td>Anvil</td><td>鐵砧雲頂</td><td>指強烈積雨雲頂部在接近對流層頂時向下風方向水平擴展而形成的砧狀雲體。</td></tr>
-<tr><td>anvil cloud</td><td>砧狀雲</td><td>指積雨雲上部受穩定層抑制而向外平展形成的砧形雲區，常與深對流及雷暴活動相關。</td></tr>
-<tr><td>AP</td><td>假性回波</td><td>為 radar anomalous propagation 的縮寫，指雷達波因異常折射而偵測到地物或非降水目標所產生的虛假回波。</td></tr>
-<tr><td>Ap index</td><td>Ap 地磁指數</td><td>由全球多個觀測站 Kp 指數換算而得的行星尺度地磁活動指數，用以表示某日地磁擾動的平均強度。</td></tr>
-<tr><td>apaapaa</td><td>阿帕阿帕風</td><td>夏威夷地區對特定局地風的傳統名稱，實際性質與風向須依地方用法與地形背景判定。</td></tr>
-<tr><td>aperiodic</td><td>非週期的</td><td>指現象或訊號不具有固定重複週期，其變化不遵循規則循環。</td></tr>
-<tr><td>aperture</td><td>孔徑</td><td>儀器或天線接收、發射能量的有效開口尺寸，會影響解析度、方向性與通量。</td></tr>
-<tr><td>aperwind</td><td>乾熱山風</td><td>南非地區對一種乾燥、溫暖且由內陸吹向海岸的離岸風之名稱，常伴隨焚風式增溫與低濕度。</td></tr>
-<tr><td>aphelion</td><td>遠日點</td><td>地球或其他天體在繞太陽運行軌道上距太陽最遠的位置。</td></tr>
-<tr><td>Apheliotes</td><td>東風</td><td>古典氣象中對東風的名稱，用於傳統風向分類。</td></tr>
-<tr><td>apob</td><td>高空觀測速報</td><td>一種與高空氣象觀測有關的資料或電碼縮寫，常用於航空或氣象通報；實際意義須依作業系統定義判讀。</td></tr>
-<tr><td>apocenter</td><td>遠心點</td><td>天體在繞行另一中心天體之軌道上距中心最遠的位置；若中心為地球則稱遠地點，為太陽則稱遠日點。</td></tr>
-<tr><td>apogean tide</td><td>遠地點潮</td><td>月球位於遠地點附近時所出現的潮汐，其潮差通常較近地點潮為小。</td></tr>
-<tr><td>apogean winds</td><td>遠地點風</td><td>與月球位於遠地點時大氣潮汐效應相關的微弱週期性風場變化。</td></tr>
-<tr><td>apogee</td><td>遠地點</td><td>天體繞地球運行時距地球最遠的位置。</td></tr>
-<tr><td>apparent force</td><td>表觀力</td><td>在非慣性參考系中因座標系本身運動而引入的虛擬力，如科氏力與離心力。</td></tr>
-<tr><td>apparent gravity</td><td>視重力</td><td>觀測者在地球自轉座標系內感受到的有效重力，為真重力與離心力合成後的結果。</td></tr>
-<tr><td>apparent groundwater velocity</td><td>表觀地下水流速</td><td>以總流量除以含水層整體截面積所估得的地下水速度，未扣除孔隙率影響，通常小於實際孔隙水流速。</td></tr>
-<tr><td>apparent horizon</td><td>視地平</td><td>觀測者所見天空與地表或海面相接的界線，其位置可能受地形、折射與觀測高度影響。</td></tr>
-<tr><td>apparent solar day</td><td>視太陽日</td><td>以真太陽連續兩次通過同一子午線的時間間隔定義的一日，其長度因地球軌道偏心與黃赤交角而略有變化。</td></tr>
-<tr><td>apparent stress</td><td>表觀應力</td><td>依整體外力與總截面積估算之應力，未考慮材料內部實際受力分布的非均勻性。</td></tr>
-<tr><td>Applications Technology Satellite</td><td>應用技術衛星</td><td>美國早期一系列實驗性衛星，用於通訊、遙測及氣象觀測等太空應用技術測試。</td></tr>
-<tr><td>applied climatology</td><td>應用氣候學</td><td>研究如何將氣候資料與氣候知識應用於農業、水資源、工程、健康、能源及風險管理等實務領域的學科。</td></tr>
-<tr><td>applied hydrology</td><td>應用水文學</td><td>將水文原理用於洪水預報、水資源規劃、排水設計、灌溉與流域管理等實務問題的學科。</td></tr>
-<tr><td>applied meteorology</td><td>應用氣象學</td><td>將氣象觀測、分析與預報知識應用於航空、農業、能源、環境、災防與工程等實務領域的學科。</td></tr>
-<tr><td>approach channel</td><td>進港航道</td><td>船舶自外海進入港口或河口時所使用的導引水道，常受潮汐、流速與泥沙淤積影響。</td></tr>
-<tr><td>approach velocity</td><td>接近流速</td><td>流體進入結構物、量測面或控制斷面前的代表性來流速度。</td></tr>
-<tr><td>approach visibility</td><td>進場能見度</td><td>航空器進場階段沿飛航路徑可辨識跑道、燈光或地面參考物的能見條件。</td></tr>
-<tr><td>approach-light contact height</td><td>進場燈初見高度</td><td>飛機進場時首次目視辨識跑道進場燈系的高度，用於評估低能見度著陸條件。</td></tr>
-<tr><td>APT</td><td>自動圖片傳輸</td><td>automatic picture transmission 的縮寫，指氣象衛星以類比方式即時傳送雲圖或影像資料的系統。</td></tr>
-<tr><td>aquiclude</td><td>隔水層</td><td>可儲水但幾乎不透水的地層，難以有效傳導地下水。</td></tr>
-<tr><td>aquifer</td><td>含水層</td><td>具有足夠孔隙與滲透性，可儲存並傳導可利用地下水的地質層體。</td></tr>
-<tr><td>aquifer system</td><td>含水層系統</td><td>由多個含水層及其間隔水或弱透水層所組成、在水文上相互關聯的地下水系統。</td></tr>
-<tr><td>aquifer test</td><td>含水層試驗</td><td>透過抽水、注水或觀測水位反應以估算含水層傳導係數、儲水係數等水文參數的試驗。</td></tr>
-<tr><td>aquifuge</td><td>絕對隔水層</td><td>既不含有可排出地下水、亦幾乎不透水的地層。</td></tr>
-<tr><td>aquitard</td><td>弱透水層</td><td>透水性低於含水層、能延緩但非完全阻止地下水流動的地層。</td></tr>
-<tr><td>aracaty</td><td>阿拉卡蒂風</td><td>巴西東北部沿岸地區對一種局地風的名稱，常與海陸風或區域壓力場配置有關。</td></tr>
-<tr><td>Arago distance</td><td>阿拉戈距</td><td>大氣光學中描述偏振現象幾何位置的量，與阿拉戈中性點的位置分析有關。</td></tr>
-<tr><td>Arago point</td><td>阿拉戈中性點</td><td>天空偏振場中線偏振度為零的中性點之一，通常出現在反太陽方向附近。</td></tr>
-<tr><td>Arakawa Jacobian</td><td>荒川雅可比算子</td><td>數值模式中常用的離散 Jacobian 形式，可較好守恆能量與渦度，廣泛應用於大氣與海洋模式。</td></tr>
-<tr><td>arc cloud</td><td>弧雲</td><td>位於雷暴冷出流前緣、呈弧形或滾軸狀的低雲，常為架狀雲或卷軸雲的一種外觀描述。</td></tr>
-<tr><td>Arc discharge</td><td>弧光放電</td><td>電流穿越氣體介質時形成持續高溫發光電弧的放電現象。</td></tr>
-<tr><td>Arched squall</td><td>弓形颮線</td><td>在天氣圖或雷達上呈弓狀外凸的颮線或對流線，常與強陣風、下擊暴流或破壞性風害有關。</td></tr>
-<tr><td>Archimedes&#x27;s principle</td><td>阿基米德原理</td><td>浸入流體中的物體所受浮力大小等於其所排開流體的重量。</td></tr>
-<tr><td>arcs of Lowitz</td><td>洛維茨弧</td><td>日暈現象的一種，由定向冰晶折射陽光形成，常出現在太陽左右兩側並與幻日相連。</td></tr>
-<tr><td>arctic air</td><td>北極氣團</td><td>源自高緯冰雪覆蓋區、極為寒冷且通常乾燥的氣團，性質比一般極地氣團更冷。</td></tr>
-<tr><td>Arctic Bottom Water</td><td>北極底層水</td><td>存在於北極海盆底層的高密度水團，受海冰形成、鹽度增加及深層混合影響。</td></tr>
-<tr><td>Arctic Circle</td><td>北極圈</td><td>北緯約 66.5 度的緯圈，為一年中至少有一日出現極晝或極夜現象的界線。</td></tr>
-<tr><td>arctic desert</td><td>北極荒漠</td><td>高緯地區降水稀少、植被稀疏且氣候極冷的荒漠型環境。</td></tr>
-<tr><td>arctic front</td><td>北極鋒</td><td>北極氣團與較暖空氣之間的鋒面帶，常為強冷空氣南侵的重要界面。</td></tr>
-<tr><td>arctic haze</td><td>北極霾</td><td>春季常見於北極地區的持續性霾層，主要由中高緯度輸送而來的氣膠與污染物累積形成。</td></tr>
-<tr><td>arctic high</td><td>北極高壓</td><td>形成於北極地區的冷性高壓系統，多與強烈輻射冷卻及冷密空氣堆積有關。</td></tr>
-<tr><td>Arctic Intermediate Water</td><td>北極中層水</td><td>位於北極海或鄰近海域中層、具有特定溫鹽特徵的水團。</td></tr>
-<tr><td>arctic mist</td><td>北極霧靄</td><td>寒冷高緯地區近地層由微小水滴或冰晶造成的低能見度現象。</td></tr>
-<tr><td>arctic pack</td><td>北極浮冰群</td><td>北極海域大範圍連續或密集分布的海冰區。</td></tr>
-<tr><td>Arctic Polar Front</td><td>北極極鋒</td><td>分隔北極氣團與較低緯極地氣團的鋒區，用於描述高緯大氣環流中的重要熱力邊界。</td></tr>
-<tr><td>arctic sea smoke</td><td>北極海煙</td><td>極冷空氣流經相對較暖開放水面時，近海面水汽迅速蒸發並凝結而成的蒸汽霧。</td></tr>
-<tr><td>arctic stratospheric vortex</td><td>北極平流層渦旋</td><td>冬季北半球平流層中環繞北極的強烈環流系統，對臭氧分布與寒潮活動具有重要影響。</td></tr>
-<tr><td>Arctic Surface Water</td><td>北極表層水</td><td>北極海最上層受海冰融化、河川逕流與大氣交換影響顯著的低鹽表層水團。</td></tr>
-<tr><td>arctic tree line</td><td>北極樹線</td><td>高緯地區因熱量條件限制而樹木無法自然生長的界線。</td></tr>
-<tr><td>Arctic Zone</td><td>北極帶</td><td>泛指北極圈內或受北極氣候主導的地理與氣候區域。</td></tr>
-<tr><td>arctic-alpine</td><td>北極—高山型</td><td>指同時見於北極地區與高山寒冷環境的氣候、生態或地貌特徵。</td></tr>
-<tr><td>arcticization</td><td>北極化</td><td>某區域氣候、環境或海況向更接近北極型態轉變的過程。</td></tr>
-<tr><td>arcus</td><td>弧狀雲</td><td>附屬雲的一類，常位於積雨雲前緣，呈棚狀或滾軸狀，與陣風鋒或冷出流有關。</td></tr>
-<tr><td>area average</td><td>面平均</td><td>某變數在指定區域範圍內的平均值，常用於降水、溫度、通量或污染濃度分析。</td></tr>
-<tr><td>area forecast</td><td>區域預報</td><td>針對特定地理區域所發布的天氣預報。</td></tr>
-<tr><td>area of influence</td><td>影響範圍</td><td>某測站、事件、源區或控制因子對周遭空間產生主要作用的區域。</td></tr>
-<tr><td>area–elevation curve</td><td>面積—高程曲線</td><td>描述湖庫、流域或地形在不同高程下所對應面積關係的曲線。</td></tr>
-<tr><td>areal precipitation</td><td>面雨量</td><td>一特定區域內平均降水量的代表值，常由多站觀測或雷達估計計算而得。</td></tr>
-<tr><td>areal reduction factor</td><td>面積折減係數</td><td>將點雨量換算為某面積平均雨量時所用之比例係數，通常隨面積增大而減小。</td></tr>
-<tr><td>ARFOR</td><td>區域預報</td><td>航空氣象中 area forecast 的縮寫，用於特定飛航區域天氣預報產品。</td></tr>
-<tr><td>ARFOT</td><td>航路預報</td><td>航空氣象作業中與飛航航線或區域天氣預報有關的縮寫，實際定義依所採用之通報系統而定。</td></tr>
-<tr><td>argon</td><td>氬</td><td>大氣中的惰性氣體之一，體積混合比約為 0.93%，常用於大氣組成與同位素研究。</td></tr>
-<tr><td>Argos</td><td>阿爾戈斯系統</td><td>利用衛星進行遙測資料蒐集、定位與傳輸的國際系統，廣用於海洋浮標、野生動物與環境監測。</td></tr>
-<tr><td>arheic</td><td>無流域外排的</td><td>指區域內幾乎無明顯地表水系外流，降水多由蒸發或下滲消散的水文特性。</td></tr>
-<tr><td>arid zone</td><td>乾旱帶</td><td>年降水量少、蒸發需求高且長期水分不足的氣候區。</td></tr>
-<tr><td>arid-zone hydrology</td><td>乾旱區水文學</td><td>研究乾旱與半乾旱地區降水、蒸發、逕流、地下水及水資源管理特性的水文學分支。</td></tr>
-<tr><td>aridity</td><td>乾旱性</td><td>描述地區長期水分供應不足程度的氣候特性。</td></tr>
-<tr><td>aridity coefficient</td><td>乾旱係數</td><td>用於量化地區乾旱程度的指標，通常由降水與蒸發或潛在蒸散之比值推得。</td></tr>
-<tr><td>aridity index</td><td>乾旱指數</td><td>衡量氣候乾濕程度的指數，多以降水量與潛在蒸散量之比表示。</td></tr>
-<tr><td>arithmetic mean</td><td>算術平均</td><td>各數值總和除以數量所得之平均值。</td></tr>
-<tr><td>ARMET</td><td>航空氣象訊息</td><td>航空氣象通報中的縮寫，通常指與區域或航路天氣資訊有關之作業產品；實際全名依系統定義而定。</td></tr>
-<tr><td>armouring</td><td>護甲化</td><td>河床或坡面細顆粒被沖蝕後，表層殘留粗粒物質形成保護層，進而降低後續侵蝕的現象。</td></tr>
-<tr><td>aromatic hydrocarbons</td><td>芳香烴</td><td>含有芳香環結構的碳氫化合物，為大氣化學與污染研究中的重要揮發性有機物類別。</td></tr>
-<tr><td>Arrhenius equation</td><td>阿瑞尼士方程</td><td>描述化學反應速率常數與溫度關係的經典方程，廣用於大氣化學反應動力學。</td></tr>
-<tr><td>arroyo</td><td>旱溪谷</td><td>乾旱區平時多乾涸、僅在暴雨後短暫有水流的沖蝕溝谷。</td></tr>
-<tr><td>ARS</td><td>聲雷達系統</td><td>可作為 acoustic radar system 等用語的縮寫；具體所指儀器或系統須依上下文判讀。</td></tr>
-<tr><td>artesian aquifer</td><td>承壓含水層</td><td>被低透水層上下夾持、內部地下水具有壓力，鑽井後水位可上升至含水層頂面以上的含水層。</td></tr>
-<tr><td>artesian basin</td><td>承壓盆地</td><td>具區域性承壓含水層系統的盆地地質構造，地下水受壓並可產生自流井。</td></tr>
-<tr><td>artesian well</td><td>自流井</td><td>鑽達承壓含水層後，井中水位因壓力作用上升，甚至可自然湧出地表的井。</td></tr>
-<tr><td>artificial climate</td><td>人工氣候</td><td>由人為控制或強烈人類活動所形成的局地氣候環境，如溫室、建築物內部或都市微氣候。</td></tr>
-<tr><td>artificial control</td><td>人工控制</td><td>透過工程設施或人為操作改變自然系統狀態的控制措施，例如水位、流量或雲物理過程之調節。</td></tr>
-<tr><td>Artificial horizon</td><td>人工地平</td><td>供天文或導航觀測使用的人造水平參考面，用以替代不清晰或不可見的自然地平。</td></tr>
-<tr><td>artificial ice nucleus</td><td>人工冰核</td><td>人為施放至雲中的成冰粒子，用以促進過冷水滴凍結，常用於人工增雨或雲物理實驗。</td></tr>
-<tr><td>artificial intelligence</td><td>人工智慧</td><td>利用演算法與資料使系統具備學習、推論、辨識或決策能力的技術，在氣象預報、資料同化與遙測分析中應用日增。</td></tr>
-<tr><td>artificial precipitation</td><td>人工降水</td><td>以人工方式改變雲中微物理過程，促使降水形成或增強的作業與現象。</td></tr>
-<tr><td>artificial recharge</td><td>人工補注</td><td>透過滲池、注水井或其他工程方式將地表水導入地下，以增加含水層儲水量的措施。</td></tr>
-<tr><td>ascendent</td><td>上升的</td><td>指具有向上運動或上升趨勢的氣流、軌道節點或其他物理量。</td></tr>
-<tr><td>ascending node</td><td>升交點</td><td>天體軌道由參考平面南側穿越至北側時的交會點。</td></tr>
-<tr><td>ASDAR</td><td>機載資料中繼系統</td><td>Aircraft to Satellite Data Relay 的縮寫，指航空器透過衛星回傳氣象或飛行資料的系統。</td></tr>
-<tr><td>ash</td><td>火山灰</td><td>火山噴發所產生之細碎岩屑顆粒，也可泛指燃燒後殘留的灰分；在氣象上多指火山灰雲相關物質。</td></tr>
-<tr><td>ash devils</td><td>灰塵旋風</td><td>在高溫地表上由熱對流形成的小尺度旋風，能捲起火山灰、塵土或細粒物質。</td></tr>
-<tr><td>aspect</td><td>坡向</td><td>地形坡面所朝向的方位，會影響受光、積雪、蒸發與植生分布。</td></tr>
-<tr><td>aspect ratio</td><td>長寬比</td><td>幾何體或影像在兩個尺度方向上的比例關係；在流體與對流研究中亦可指水平與垂直尺度比。</td></tr>
-<tr><td>aspirated thermometer</td><td>通風溫度計</td><td>利用強制通風使感應部周圍氣流穩定流過，以減少輻射誤差並提升量測準確度的溫度計。</td></tr>
-<tr><td>aspiration condenser</td><td>抽吸冷凝器</td><td>以抽吸方式導引空氣通過冷卻表面，使其中水汽冷凝的裝置。</td></tr>
-<tr><td>aspiration meteorograph</td><td>通風式氣象記錄儀</td><td>具抽吸或通風裝置的自記氣象儀器，可連續記錄溫度、濕度等要素並減少輻射影響。</td></tr>
-<tr><td>aspiration psychrometer</td><td>通風乾濕表</td><td>利用強制通風使乾球與濕球溫度計周圍氣流穩定流動，以較精確求取空氣濕度的濕度儀。</td></tr>
-<tr><td>Aspiration thermograph</td><td>通風式溫度自記儀</td><td>具抽吸通風設備、可連續記錄氣溫變化並降低輻射誤差的自記溫度儀。</td></tr>
-<tr><td>aspirator</td><td>抽吸器</td><td>用於抽引空氣或氣體流經儀器、樣品或量測腔體的裝置。</td></tr>
-<tr><td>aspre</td><td>阿斯普雷風</td><td>法國南部地區對一種局地風的名稱，常與地形導引及區域壓力梯度有關。</td></tr>
-<tr><td>Assmann psychrometer</td><td>阿斯曼通風乾濕表</td><td>一種標準化通風乾濕表，以金屬外殼遮蔽輻射並藉機械通風提升濕度量測精度。</td></tr>
-<tr><td>Astronomical horizon</td><td>天文地平</td><td>通過觀測者位置且垂直於鉛直線的理論水平面所對應之地平。</td></tr>
-<tr><td>astronomical refraction</td><td>天文折射</td><td>天體光線穿越大氣時因折射而使其視位置偏離真位置的現象。</td></tr>
-<tr><td>astronomical twilight</td><td>天文曙暮光</td><td>太陽中心位於地平下 12 至 18 度時的曙暮光階段，此時天光極弱但仍受散射影響。</td></tr>
-<tr><td>asymmetry factor</td><td>不對稱因子</td><td>描述散射相函數偏向前向或後向散射程度的參數，常定義為散射角餘弦的平均值。</td></tr>
-<tr><td>asymptotic expansion</td><td>漸近展開</td><td>在某參數趨近特定極限時，以一系列近似項表示函數行為的數學方法。</td></tr>
-<tr><td>asynchronous communication</td><td>非同步通訊</td><td>傳送與接收不需共用同一時脈或同時進行的資料通訊方式。</td></tr>
-<tr><td>asynoptic observation</td><td>非同時觀測</td><td>不在標準綜觀觀測時刻進行的氣象觀測。</td></tr>
-<tr><td>Athos fall wind</td><td>阿索斯下坡風</td><td>希臘阿索斯半島附近由山地向下吹送的局地下降風。</td></tr>
-<tr><td>Atlantic Water</td><td>大西洋水</td><td>泛指源自大西洋、具有較高溫鹽特徵並可輸送至高緯或鄰近海盆的水團。</td></tr>
-<tr><td>atmidometry</td><td>蒸發測定法</td><td>測量自由水面、土壤或植物表面蒸發量的技術或方法總稱。</td></tr>
-<tr><td>atmometer</td><td>蒸發計</td><td>用於量測蒸發或蒸散潛勢的儀器。</td></tr>
-<tr><td>atmometry</td><td>蒸發測定學</td><td>研究蒸發量之量測原理、儀器與方法的學科。</td></tr>
-<tr><td>atmoradiograph</td><td>大氣輻射自記儀</td><td>連續記錄大氣輻射變化的儀器。</td></tr>
-<tr><td>atmosphere</td><td>大氣</td><td>環繞地球或其他天體的氣體包層，受重力束縛並參與能量、水分及動量交換。</td></tr>
-<tr><td>atmosphere–mixed layer ocean model</td><td>大氣—混合層海洋模式</td><td>將大氣模式與上層海洋混合層模式耦合，用以模擬短至季節尺度海氣交互作用的數值模式。</td></tr>
-<tr><td>atmosphere–ocean interaction</td><td>海氣交互作用</td><td>大氣與海洋間透過熱量、水汽、動量及氣體交換所產生的雙向耦合作用。</td></tr>
-<tr><td>atmospheric attenuation</td><td>大氣衰減</td><td>電磁波、聲波或輻射穿越大氣時，因吸收、散射等作用而使能量減弱的現象。</td></tr>
-<tr><td>atmospheric boundary layer</td><td>大氣邊界層</td><td>直接受地表摩擦、感熱、潛熱與粗糙度影響，且能在約一小時內對地表強迫作出反應的近地層大氣。</td></tr>
-<tr><td>atmospheric chemistry</td><td>大氣化學</td><td>研究大氣中化學成分的來源、轉化、傳輸、沉降及其與輻射、雲微物理和生物地球化學循環交互作用的學科。</td></tr>
-<tr><td>atmospheric circulation model</td><td>大氣環流模式</td><td>以數值方法模擬大氣三維運動、熱力與水文過程的模式，是天氣與氣候模擬的核心工具。</td></tr>
-<tr><td>atmospheric correction</td><td>大氣校正</td><td>遙測資料處理中，去除大氣吸收、散射與鄰近效應對感測訊號影響，以還原地表或雲頂真實輻射特性的程序。</td></tr>
-<tr><td>atmospheric demand</td><td>大氣蒸發需求</td><td>大氣對地表水分蒸發或植物蒸散的潛在需求程度，受溫度、濕度、風速與輻射控制。</td></tr>
-<tr><td>atmospheric disturbance</td><td>大氣擾動</td><td>相對於平均狀態的天氣或環流偏差，可表現為波動、低壓、鋒面、對流系統等。</td></tr>
-<tr><td>Atmospheric ducting</td><td>大氣波導效應</td><td>因垂直折射率梯度特殊配置，使電磁波在大氣某層中被限制傳播而造成超常傳輸的現象。</td></tr>
-<tr><td>atmospheric dust</td><td>大氣塵埃</td><td>懸浮於大氣中的細小固體顆粒，可來自沙塵、土壤、海鹽、火山或人為排放。</td></tr>
-<tr><td>atmospheric dynamics</td><td>大氣動力學</td><td>研究大氣運動及其受力、守恆定律與波渦過程控制機制的學科。</td></tr>
-<tr><td>atmospheric electric field</td><td>大氣電場</td><td>大氣中由電荷分布所形成的電場，晴空與雷暴條件下之結構與強度差異顯著。</td></tr>
-<tr><td>atmospheric electricity</td><td>大氣電學</td><td>研究大氣中電荷、電場、電流、離子、雷電及全球電路的學科。</td></tr>
-<tr><td>atmospheric ionization</td><td>大氣游離</td><td>大氣分子或原子因宇宙射線、太陽輻射、放電等作用失去或獲得電子而形成離子的過程。</td></tr>
-<tr><td>atmospheric layer</td><td>大氣層</td><td>依熱力、化學或動力特性劃分的大氣垂直層次，如對流層、平流層、中氣層與熱層。</td></tr>
-<tr><td>atmospheric model</td><td>大氣模式</td><td>以數學方程與參數化方案描述大氣狀態演變的數值模擬系統。</td></tr>
-<tr><td>atmospheric optics</td><td>大氣光學</td><td>研究光線在大氣中之散射、折射、吸收與偏振現象，以及彩虹、日暈、曙暮光等光象的學科。</td></tr>
-<tr><td>atmospheric oscillation</td><td>大氣振盪</td><td>大氣系統在時間上呈現準週期性或振盪式變化的模態，如北大西洋振盪與南方振盪。</td></tr>
-<tr><td>atmospheric ozone</td><td>大氣臭氧</td><td>存在於對流層與平流層中的臭氧，其中平流層臭氧層可吸收紫外線，而對流層臭氧則屬重要污染物與氧化劑。</td></tr>
-<tr><td>atmospheric phenomenon</td><td>大氣現象</td><td>凡發生於大氣中的可觀測現象，如雲、降水、雷電、霧、光象與環流擾動等。</td></tr>
-<tr><td>atmospheric polarization</td><td>大氣偏振</td><td>天空光經分子或粒子散射後所呈現的偏振特性。</td></tr>
-<tr><td>atmospheric pressure</td><td>大氣壓力</td><td>大氣柱因重力作用對單位面積所施加的壓力。</td></tr>
-<tr><td>atmospheric radiation</td><td>大氣輻射</td><td>大氣本身吸收並發射的電磁輻射，主要集中於紅外波段，亦受氣體、雲與氣膠影響。</td></tr>
-<tr><td>atmospheric radiation budget</td><td>大氣輻射收支</td><td>大氣系統吸收、散射、反射與放射短波及長波輻射後的淨能量平衡。</td></tr>
-<tr><td>atmospheric refraction</td><td>大氣折射</td><td>光線、無線電波或其他電磁波穿越大氣時，因折射率隨高度變化而偏折的現象。</td></tr>
-<tr><td>atmospheric region</td><td>大氣區域</td><td>依特定動力、熱力、化學或地理條件所界定的大氣空間範圍。</td></tr>
-<tr><td>atmospheric river</td><td>大氣河流</td><td>狹長而集中的強水汽輸送帶，常出現在暖區低空急流中，對中高緯豪雨與洪災具有重要影響。</td></tr>
-<tr><td>atmospheric science</td><td>大氣科學</td><td>研究大氣組成、結構、運動、輻射、化學與其與海洋、陸地、生物圈交互作用的綜合性學科。</td></tr>
-<tr><td>atmospheric shell</td><td>大氣殼層</td><td>環繞天體之外、具有一定厚度與層結特徵的氣體包層。</td></tr>
-<tr><td>atmospheric sounding</td><td>大氣探空</td><td>利用探空儀、雷達、遙測或其他手段量測大氣垂直結構之觀測作業。</td></tr>
-<tr><td>atmospheric thermodynamics</td><td>大氣熱力學</td><td>研究大氣中溫度、壓力、濕度、相變與能量轉換關係的學科。</td></tr>
-<tr><td>atmospheric tide</td><td>大氣潮汐</td><td>由太陽加熱或月球、太陽引潮力所激發之全球尺度週期性大氣振盪。</td></tr>
-<tr><td>atmospheric transport</td><td>大氣輸送</td><td>大氣環流將熱量、水汽、動量、污染物、氣膠或化學成分由一地移送至另一地的過程。</td></tr>
-<tr><td>atmospheric water budget</td><td>大氣水分收支</td><td>在一定區域與時間內，大氣中水汽含量、水平輸送、蒸發與降水之間的平衡關係。</td></tr>
-<tr><td>atmospheric wave</td><td>大氣波動</td><td>大氣中受浮力、旋轉、剪切或壓力梯度驅動而傳播的擾動，如重力波、羅士比波與聲波。</td></tr>
-<tr><td>atmospheric window</td><td>大氣窗</td><td>大氣對特定波段吸收較弱、使輻射得以相對有效穿透的光譜區間。</td></tr>
-<tr><td>atmospherics</td><td>大氣電干擾</td><td>由雷電等自然電現象產生的無線電雜訊或電磁干擾。</td></tr>
-<tr><td>ATN</td><td>高空測報網</td><td>可指 atmospheric telecommunication network 或其他作業系統縮寫，需依上下文判讀其實際意義。</td></tr>
-<tr><td>atomic number</td><td>原子序</td><td>原子核中質子數目，用以決定元素種類。</td></tr>
-<tr><td>ATS</td><td>應用技術衛星</td><td>Applications Technology Satellite 的縮寫，為美國早期之應用技術與氣象相關實驗衛星系列。</td></tr>
-<tr><td>attached thermometer</td><td>附屬溫度計</td><td>裝設於其他量測儀器上，用以校正、補償或監控儀器溫度狀態的溫度計。</td></tr>
-<tr><td>attachment</td><td>附著</td><td>粒子、液滴、冰晶或生物體黏附於表面、界面或其他顆粒上的現象。</td></tr>
-<tr><td>attenuation</td><td>衰減</td><td>波動、訊號或輻射在傳播過程中因吸收、散射、阻尼或幾何擴散而強度減弱的現象。</td></tr>
-<tr><td>Attenuation coefficient</td><td>衰減係數</td><td>定量表示波或輻射在介質中衰減速率的係數。</td></tr>
-<tr><td>Attractor</td><td>吸引子</td><td>動力系統在長時間演化後，其狀態軌跡所趨近的集合，可為定點、極限環或混沌吸引子。</td></tr>
-<tr><td>audibility zone</td><td>可聞區</td><td>聲音在特定背景噪音與傳播條件下可被人耳或儀器辨識的空間範圍。</td></tr>
-<tr><td>aufeis</td><td>層狀河冰</td><td>寒冷地區地下水或河水反覆溢流並在地表逐層凍結所形成的大面積層狀冰體。</td></tr>
-<tr><td>aureole</td><td>光暈帶</td><td>圍繞太陽、月亮或明亮目標周圍，由散射形成的亮暈區。</td></tr>
-<tr><td>Aurora</td><td>極光</td><td>高能帶電粒子沿地磁場進入高層大氣並激發氣體發光所形成的光象。</td></tr>
-<tr><td>aurora australis</td><td>南極光</td><td>發生於南半球高緯地區的極光現象。</td></tr>
-<tr><td>aurora borealis</td><td>北極光</td><td>發生於北半球高緯地區的極光現象。</td></tr>
-<tr><td>aurora polaris</td><td>極區極光</td><td>泛指出現在地磁高緯區的極光現象。</td></tr>
-<tr><td>auroral arc</td><td>極光弧</td><td>呈弧帶狀分布的極光結構，常沿地磁緯圈延展。</td></tr>
-<tr><td>auroral bands</td><td>極光帶</td><td>由多條極光弧或亮帶組成的帶狀發光區。</td></tr>
-<tr><td>auroral corona</td><td>極光冠</td><td>當多條極光射線在視覺上匯聚至頭頂附近時形成的冠狀極光形態。</td></tr>
-<tr><td>auroral curtains</td><td>極光幕</td><td>外觀如垂幕般起伏的極光結構，常由許多平行射線組成。</td></tr>
-<tr><td>Auroral oval</td><td>極光橢圓帶</td><td>環繞地磁極附近、極光發生頻率最高的橢圓形區域。</td></tr>
-<tr><td>auroral rays</td><td>極光射線</td><td>沿地磁力線方向伸展的細長亮柱狀極光結構。</td></tr>
-<tr><td>auroral zone</td><td>極光帶</td><td>地球上最常出現極光的高緯區域，通常位於地磁極周圍。</td></tr>
-<tr><td>austausch</td><td>交換作用</td><td>德語借詞，指湍流或其他物理過程所造成的動量、熱量或物質交換。</td></tr>
-<tr><td>austausch coefficients</td><td>交換係數</td><td>用以參數化湍流混合中動量、熱量或物質垂直交換效率的係數。</td></tr>
-<tr><td>Australasian Mediterranean Water</td><td>澳大拉西亞地中海型水</td><td>源自澳大拉西亞邊緣海並向外海輸出的高鹽中層水團，屬區域性地中海型外流海水。</td></tr>
-<tr><td>austru</td><td>奧斯楚風</td><td>羅馬尼亞等地對南風或暖風的地方名稱，屬局地或區域風系稱呼。</td></tr>
-<tr><td>autan</td><td>奧唐風</td><td>法國西南部的一種地方風，通常為溫暖乾燥且陣性明顯的東南風。</td></tr>
-<tr><td>autobarotropic</td><td>自成正壓的</td><td>指流體密度僅為壓力函數，或等壓面與等密面一致，因而不產生斜壓項的狀態。</td></tr>
-<tr><td>autobarotropy</td><td>自成正壓性</td><td>流體呈正壓狀態、密度主要由壓力決定且無斜壓效應的性質。</td></tr>
-<tr><td>autoconvection</td><td>自發對流</td><td>當流體垂直密度梯度本身即違反靜力穩定條件時，不需外加擾動便可自行發生的對流。</td></tr>
-<tr><td>autoconvective lapse rate</td><td>自發對流直減率</td><td>使大氣密度隨高度增加、導致絕對不穩定並可自發對流的臨界溫度直減率。</td></tr>
-<tr><td>autoconversion</td><td>自轉換</td><td>雲微物理中，小雲滴透過碰併或成長而轉變為雨滴的過程。</td></tr>
-<tr><td>autocorrelation</td><td>自相關</td><td>同一序列在不同時間或空間位移下之間的相關程度，用於分析持續性與特徵尺度。</td></tr>
-<tr><td>autogenous electrification</td><td>自生電化</td><td>物質系統內部因摩擦、破裂、相變或分離作用而自行產生電荷分離與帶電的現象。</td></tr>
-<tr><td>automated search</td><td>自動搜尋</td><td>由演算法自動執行的資料檢索、特徵辨識或目標搜尋程序。</td></tr>
-<tr><td>automatic data processing</td><td>自動資料處理</td><td>利用計算機系統自動完成資料接收、檢查、轉換、分析與輸出的流程。</td></tr>
-<tr><td>automatic evaporation station</td><td>自動蒸發站</td><td>可自動量測並傳輸蒸發量及相關氣象資料的觀測站。</td></tr>
-<tr><td>automatic gain control</td><td>自動增益控制</td><td>電子系統依輸入訊號強弱自動調整放大倍率，以維持輸出在適當範圍內的控制機制。</td></tr>
-<tr><td>automatic picture transmission</td><td>自動圖片傳輸</td><td>氣象衛星將影像資料自動傳送至地面接收站的系統，常縮寫為 APT。</td></tr>
-<tr><td>automatic station</td><td>自動測站</td><td>可自動量測、記錄並傳送氣象或水文資料的無人值守觀測站。</td></tr>
-<tr><td>automatic tide gauge</td><td>自動驗潮儀</td><td>可連續自動量測並記錄海面水位變化的儀器。</td></tr>
-<tr><td>automatic weather station</td><td>自動氣象站</td><td>自動量測氣溫、濕度、風、壓力、降水等要素並即時傳輸資料的地面觀測站。</td></tr>
-<tr><td>autoregressive process</td><td>自迴歸過程</td><td>時間序列中目前值可由其過去若干值線性表示並加上隨機誤差的隨機過程。</td></tr>
-<tr><td>autoregressive series</td><td>自迴歸序列</td><td>符合自迴歸模型結構的時間序列。</td></tr>
-<tr><td>Autumn</td><td>秋季</td><td>一年四季之一，位於夏季之後、冬季之前；在氣候學上常指北半球 9 至 11 月。</td></tr>
-<tr><td>autumn ice</td><td>秋冰</td><td>秋季開始形成或於秋季初期存在的海冰、湖冰或河冰。</td></tr>
-<tr><td>autumnal</td><td>秋季的</td><td>與秋季時節、氣候或現象有關的。</td></tr>
-<tr><td>Autumnal equinox</td><td>秋分</td><td>太陽視黃經為 180 度時的節氣，晝夜長度大致相等；北半球標誌秋季中點。</td></tr>
-<tr><td>auvergnasse</td><td>奧維涅濕風</td><td>法國地方性風名，常指攜帶濕氣、影響奧維涅地區的區域風。</td></tr>
-<tr><td>auxiliary ship</td><td>輔助船</td><td>執行支援、補給、觀測或作業任務之船舶，在海洋與氣象觀測中可作為調查或支援平台。</td></tr>
-<tr><td>auxiliary thermometer</td><td>輔助溫度計</td><td>用於補助主儀器校正、比對或監測環境溫度的溫度計。</td></tr>
-<tr><td>available head</td><td>可用水頭</td><td>在水力系統中可供做功或驅動流動的有效水頭差。</td></tr>
-<tr><td>available potential energy</td><td>可用位能</td><td>流體系統相對於最低位能參考狀態所具有、可轉換為動能的位能成分。</td></tr>
-<tr><td>available soil moisture</td><td>有效土壤水分</td><td>土壤中可被植物根系吸收利用的水分量，通常介於田間容水量與永久凋萎點之間。</td></tr>
-<tr><td>available solar radiation</td><td>可利用太陽輻射</td><td>在特定條件下可供地表、作物、儀器或能源系統實際利用的太陽輻射量。</td></tr>
-<tr><td>available storage capacity</td><td>可用蓄水容量</td><td>水庫、土壤、含水層或其他儲存系統中可供額外蓄存之有效容量。</td></tr>
-<tr><td>available water</td><td>有效水量</td><td>可被植物、工程系統或人類活動實際利用的水量；在土壤學中常指植物可利用水。</td></tr>
-<tr><td>avalaison</td><td>雪崩風</td><td>伴隨雪崩下滑而產生的強烈局地氣流或雪煙。</td></tr>
-<tr><td>avalanche</td><td>雪崩</td><td>積雪、冰塊或夾帶碎屑沿山坡快速下滑的重力運動。</td></tr>
-<tr><td>avalanche wind</td><td>雪崩風</td><td>由雪崩高速移動推擠空氣所形成的強陣風。</td></tr>
-<tr><td>Average</td><td>平均值</td><td>代表一組數據集中趨勢的量，可依算術、加權或其他方式定義。</td></tr>
-<tr><td>average drag coefficient</td><td>平均阻力係數</td><td>在一定時間、空間或條件下，描述阻力相對於流速與流體密度之平均無因次係數。</td></tr>
-<tr><td>average interstitial velocity</td><td>平均孔隙流速</td><td>流體在多孔介質實際孔隙空間中移動的平均速度，通常為達西流速除以有效孔隙率。</td></tr>
-<tr><td>average limit of ice</td><td>平均冰界</td><td>多年平均條件下海冰或其他冰體分布所達到的典型邊界位置。</td></tr>
-<tr><td>average net balance</td><td>平均淨平衡</td><td>冰川或其他收支系統在一定期間內，累積與消融或收入與支出相抵後之平均淨值。</td></tr>
-<tr><td>average over the spectrum</td><td>頻譜平均</td><td>對某變數於整個頻譜範圍內進行平均的操作。</td></tr>
-<tr><td>average power</td><td>平均功率</td><td>單位時間內能量傳遞或轉換率的時間平均值。</td></tr>
-<tr><td>average velocity</td><td>平均速度</td><td>物體或流體在一定時間或空間區間內位移率的平均值。</td></tr>
-<tr><td>AVHRR</td><td>先進甚高解析度輻射儀</td><td>Advanced Very High Resolution Radiometer 的縮寫，為 NOAA 系列氣象衛星上的多光譜掃描儀器，廣用於雲、海表溫度、植生與火點監測。</td></tr>
-<tr><td>aviation forecast</td><td>航空氣象預報</td><td>供飛航作業使用之天氣預報，內容包括風、雲、能見度、亂流、結冰與對流等資訊。</td></tr>
-<tr><td>aviation observation</td><td>航空氣象觀測</td><td>為航空起降與航行安全所進行的地面或高空氣象觀測。</td></tr>
-<tr><td>aviation weather forecast</td><td>航空天氣預報</td><td>針對機場、航路或飛航區域提供的專業天氣預報。</td></tr>
-<tr><td>aviation weather observation</td><td>航空天氣觀測</td><td>供航空用途之例行或特別天氣觀測，通常包含雲底高、能見度、風與顯著天氣。</td></tr>
-<tr><td>Avogadro&#x27;s law</td><td>阿伏加德羅定律</td><td>在相同溫度與壓力下，相同體積的任何氣體含有相同數目的分子。</td></tr>
-<tr><td>Avogadro&#x27;s number</td><td>阿伏加德羅常數</td><td>每莫耳物質所含基本粒子數，約為 6.022×10^23。</td></tr>
-<tr><td>avre</td><td>阿弗爾風</td><td>地方性風名，具體所指風向與性質須依地區傳統用法判定。</td></tr>
-<tr><td>avulsion</td><td>河道改道</td><td>河流因洪水、沉積或侵蝕作用而突然改變主流路徑、轉入新河道的現象。</td></tr>
-<tr><td>AXBT</td><td>機投式溫度探測器</td><td>Airborne Expendable Bathythermograph 的縮寫，為自飛機投放、用以量測上層海洋溫度剖面的拋棄式探測器。</td></tr>
-<tr><td>axial symmetry</td><td>軸對稱</td><td>系統繞某一軸旋轉後仍保持不變的對稱性。</td></tr>
-<tr><td>axis of anticyclone</td><td>反氣旋軸</td><td>反氣旋中心連成之延伸方向，或高壓脊線所對應的主要軸向。</td></tr>
-<tr><td>axis of contraction</td><td>收縮軸</td><td>應變或流場中發生最大收縮的方向軸。</td></tr>
-<tr><td>axis of depression</td><td>低壓軸</td><td>低壓區或低壓槽延伸的主要軸線。</td></tr>
-<tr><td>axis of dilatation</td><td>伸張軸</td><td>應變或流場中發生最大伸張的方向軸。</td></tr>
-<tr><td>axisymmetric</td><td>軸對稱的</td><td>指系統相對某中心軸呈旋轉對稱的性質。</td></tr>
-<tr><td>axisymmetric flow</td><td>軸對稱流</td><td>繞中心軸在方位方向上近似不變的流場，常用於龍捲風、颱風眼牆或渦流理論分析。</td></tr>
-<tr><td>axisymmetric turbulence</td><td>軸對稱湍流</td><td>統計特性相對某一優選軸呈旋轉對稱的湍流狀態。</td></tr>
-<tr><td>ayalas</td><td>阿亞拉斯風</td><td>地方性風名，實際風向與形成機制依地區傳統氣象用法而定。</td></tr>
-<tr><td>azimuth</td><td>方位角</td><td>在水平面上自基準方向（通常為正北或正南）順時針量至目標方向的角度。</td></tr>
-<tr><td>azimuth resolution</td><td>方位解析度</td><td>雷達、聲納或掃描系統在方位方向上區分兩個相鄰目標的能力。</td></tr>
-<tr><td>azimuth scale</td><td>方位刻度</td><td>表示方位角大小的標度或刻劃系統。</td></tr>
-<tr><td>Azores Current</td><td>亞速爾海流</td><td>北大西洋副熱帶環流中的東向海流，位於亞速爾群島附近並與副熱帶鋒面結構有關。</td></tr>
-<tr><td>Azores high</td><td>亞速爾高壓</td><td>北大西洋副熱帶高壓系統在亞速爾群島附近的主要活動中心，對歐洲、北非與大西洋風暴路徑有重要影響。</td></tr></tbody>
-        </table>
-      </div>
-      <div class="note">整體視覺採深色科技底與青藍光澤線條，搭配金色細節與東方書卷感排版，讓資料頁同時保有資訊清晰度與文雅風格。</div>
+<div class="header">
+  <div class="kicker">MET TERM · 氣象術語整理</div>
+  <h1>A 字首氣象名詞全表<br>繁體中文對照與詞典式解釋</h1>
+  <div class="sub">本頁已加入搜尋功能與分頁顯示。你可以直接搜尋英文、中文譯名或解釋內容，也可以調整每頁顯示筆數，避免整張頁面過長。整體風格延續科技風深色底與東方文雅配色。</div>
+</div>
+<div class="wrap">
+  <div class="card">
+    <div class="hero-band"></div>
+    <div class="controls">
+      <input id="searchInput" type="text" placeholder="搜尋英文、繁中或解釋，例如 ablation / 消融 / 冰川">
+      <select id="pageSize">
+        <option value="20">每頁 20 筆</option>
+        <option value="50" selected>每頁 50 筆</option>
+        <option value="100">每頁 100 筆</option>
+      </select>
+      <button id="resetBtn">清除搜尋</button>
+      <button id="prevBtn">上一頁</button>
+      <button id="nextBtn">下一頁</button>
     </div>
+    <div class="stats">
+      <span class="badge">A 字術語總數：773</span>
+      <span class="badge" id="matchCount">目前顯示：773 筆</span>
+      <span class="badge">支援關鍵字搜尋</span>
+      <span class="badge">支援分頁瀏覽</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>English term</th><th>繁體中文</th><th>名詞解釋</th></tr></thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+    <div class="pagination">
+      <div class="page-indicator" id="pageIndicator">第 1 頁 / 共 1 頁</div>
+      <div class="pager">
+        <button id="firstBtn">第一頁</button>
+        <button id="lastBtn">最後一頁</button>
+      </div>
+    </div>
+    <div class="note">搜尋採即時過濾；若關鍵字同時出現在英文、繁中翻譯或中文解釋中，該詞條就會被保留下來。分頁則讓長清單更容易閱讀與審閱。</div>
   </div>
-  <div class="footer">Built for met_term · 2026-04-27 · Editor: CEO CLAW</div>
+</div>
+<div class="footer">Built for met_term · 2026-04-27 · Editor: CEO CLAW</div>
+<script>
+const glossaryData = [{"english": "A-display", "traditional_chinese": "A型顯示", "definition_cht": "雷達或測距儀的一維顯示方式，以水平軸表示距離或時間、垂直振幅表示回波強度，用於判讀目標位置與訊號強弱。"}, {"english": "A/D converter", "traditional_chinese": "類比／數位轉換器", "definition_cht": "將連續類比訊號轉換為可由數位系統處理之離散數值的電子元件，廣用於氣象儀器資料擷取。"}, {"english": "AABW", "traditional_chinese": "南極底層水", "definition_cht": "Antarctic Bottom Water 的縮寫，指南極周邊形成並沿海盆底部擴散的高密度深層水團，是全球深層翻轉環流的重要組成。"}, {"english": "AAMW", "traditional_chinese": "南極中層水", "definition_cht": "泛指南大洋高緯海域形成並分布於中層之水團，具有特定溫鹽特徵，常作為判識中層海洋循環的指標。"}, {"english": "ab-polar current", "traditional_chinese": "離極流", "definition_cht": "相對於極區向外、朝較低緯度輸送之大氣或海洋流動，用於描述偏離極地方向的流系。"}, {"english": "abatement", "traditional_chinese": "減弱", "definition_cht": "指天氣現象、污染程度或物理過程之強度降低、趨於緩和的情形。"}, {"english": "abbreviated ship code", "traditional_chinese": "船舶簡碼", "definition_cht": "用於船舶氣象觀測或通訊傳輸的簡化編碼格式，便於在有限頻寬下快速傳送觀測資料。"}, {"english": "abduction", "traditional_chinese": "外展", "definition_cht": "原指向外偏離中心線之運動；在地球科學語境中可泛指某種位移、流動或構造朝外側偏移的過程。"}, {"english": "ABI", "traditional_chinese": "先進基線成像儀", "definition_cht": "Advanced Baseline Imager 的縮寫，為新一代 GOES 靜止氣象衛星主要酬載，可提供多光譜、高時空解析度的雲與地表觀測。"}, {"english": "abiotic", "traditional_chinese": "非生物的", "definition_cht": "指與生物作用無直接關聯之物理或化學環境因子，如溫度、濕度、岩性、輻射與水文條件。"}, {"english": "ABL", "traditional_chinese": "大氣邊界層", "definition_cht": "atmospheric boundary layer 的縮寫，為最接近地表且直接受地表摩擦、加熱、冷卻與水氣交換影響之大氣層。"}, {"english": "ablation", "traditional_chinese": "消融", "definition_cht": "冰雪、冰川或其他物質因融化、蒸發、昇華、崩解或侵蝕而造成質量減少的過程。"}, {"english": "ablation area", "traditional_chinese": "消融區", "definition_cht": "冰川或積雪體中年消融量大於年累積量的區域，通常位於較低海拔或較暖環境。"}, {"english": "abnormal", "traditional_chinese": "異常的", "definition_cht": "指某狀態、數值或現象偏離一般、平均或預期範圍，不屬通常情況。"}, {"english": "abnormality", "traditional_chinese": "異常", "definition_cht": "偏離正常條件的特徵或狀態，可用於描述氣候、天氣、環境或觀測資料中的不尋常表現。"}, {"english": "Abrolhos squalls", "traditional_chinese": "阿布羅柳斯颮", "definition_cht": "巴西外海阿布羅柳斯群島附近出現的局地強陣風或颮線性天氣，常與海陸熱力對比及對流活動有關。"}, {"english": "abscissa", "traditional_chinese": "橫座標", "definition_cht": "在平面直角座標系中表示水平方向位置的座標，通常對應 x 軸。"}, {"english": "absolute", "traditional_chinese": "絕對的", "definition_cht": "表示某一量值係相對於固定基準、本質定義或慣性參考架構所定，而非相對比較所得。"}, {"english": "absolute altitude", "traditional_chinese": "絕對高度", "definition_cht": "物體相對地表或特定基準面的實際垂直高度；航空上常指相對地面的真實高度。"}, {"english": "absolute angular momentum", "traditional_chinese": "絕對角動量", "definition_cht": "物體或氣塊相對地球自轉軸所具有的角動量，包含其相對運動與地球自轉所貢獻之部分。"}, {"english": "absolute annual range of temperature", "traditional_chinese": "絕對年溫差", "definition_cht": "一年內觀測到之最高氣溫與最低氣溫間的差值，用以表示全年溫度變化幅度。"}, {"english": "absolute cavity radiometer", "traditional_chinese": "絕對腔體輻射計", "definition_cht": "利用高吸收率腔體量測入射輻射能量的高精度標準儀器，常用於太陽輻射與輻射校正。"}, {"english": "absolute coordinate system", "traditional_chinese": "絕對座標系統", "definition_cht": "以固定原點與固定軸向定義位置之座標系統，其位置值不依賴局部相對位移。"}, {"english": "absolute drought", "traditional_chinese": "絕對乾旱", "definition_cht": "依降水量或可用水分之絕對不足來界定的乾旱狀態，而非相對於某地平均值之偏差。"}, {"english": "absolute extremes", "traditional_chinese": "絕對極值", "definition_cht": "在某時段或資料序列中曾觀測到的最大值或最小值。"}, {"english": "absolute instability", "traditional_chinese": "絕對不穩定", "definition_cht": "大氣垂直溫度遞減率大於乾絕熱遞減率之狀態，使不飽和與飽和氣塊抬升後皆比環境暖而持續上升。"}, {"english": "absolute instrument", "traditional_chinese": "絕對儀器", "definition_cht": "可直接依基本物理定律求得被測量之儀器，不需依賴相對比較或經驗校正常數。"}, {"english": "absolute isohypse", "traditional_chinese": "絕對等位勢高度線", "definition_cht": "連結具有相同絕對位勢高度點的等值線，用於表示空間中位勢面之高度分布。"}, {"english": "absolute momentum", "traditional_chinese": "絕對動量", "definition_cht": "在包含地球自轉效應的參考架構下，物體或流體所具有的總動量。"}, {"english": "absolute monthly maximum temperature", "traditional_chinese": "絕對月最高溫", "definition_cht": "某月份歷年或該月觀測紀錄中曾出現的最高氣溫。"}, {"english": "absolute monthly minimum temperature", "traditional_chinese": "絕對月最低溫", "definition_cht": "某月份歷年或該月觀測紀錄中曾出現的最低氣溫。"}, {"english": "Absolute Radiation Scale", "traditional_chinese": "絕對輻射尺度", "definition_cht": "以基本輻射量測標準建立之輻射定標尺度，用於不同輻射儀器之校正與互相比對。"}, {"english": "absolute refractive index", "traditional_chinese": "絕對折射率", "definition_cht": "光在真空中的速率與其在某介質中的速率之比，是描述介質折射性質的基本量。"}, {"english": "absolute stability", "traditional_chinese": "絕對穩定", "definition_cht": "大氣垂直溫度遞減率小於濕絕熱遞減率之狀態，使任何氣塊受抬升後均較環境冷而傾向回復原位。"}, {"english": "absolute standard barometer", "traditional_chinese": "絕對標準氣壓計", "definition_cht": "可直接由力學或液柱平衡原理測得真實氣壓之標準氣壓量測儀器。"}, {"english": "absolute temperature extremes", "traditional_chinese": "絕對氣溫極值", "definition_cht": "某地或某時段觀測紀錄中出現過的最高與最低氣溫。"}, {"english": "absolute temperature scale", "traditional_chinese": "絕對溫標", "definition_cht": "以絕對零度為起點建立之溫標，最常見者為凱氏溫標。"}, {"english": "absolute velocity", "traditional_chinese": "絕對速度", "definition_cht": "相對固定參考架構測得之真實速度，非相對於移動介質或觀測者之相對速度。"}, {"english": "absolute vorticity", "traditional_chinese": "絕對渦度", "definition_cht": "流體相對渦度與行星渦度之和，為描述地球自轉下流場旋轉性的基本動力量。"}, {"english": "absolute zero", "traditional_chinese": "絕對零度", "definition_cht": "熱力學溫度最低理論極限，為 0 K，即攝氏零下 273.15 度。"}, {"english": "absorbance", "traditional_chinese": "吸光度", "definition_cht": "表示介質對入射輻射吸收程度的對數量，常定義為入射與透射輻射強度比值的常用對數。"}, {"english": "absorbed solar radiation", "traditional_chinese": "被吸收的太陽輻射", "definition_cht": "地表、大氣或其他介質吸收而未被反射或透射的太陽短波輻射能量。"}, {"english": "absorptance", "traditional_chinese": "吸收率", "definition_cht": "入射輻射能量中被某物體或介質吸收之比例。"}, {"english": "absorption", "traditional_chinese": "吸收", "definition_cht": "物質將入射輻射、聲波或其他能量轉換為內能的過程。"}, {"english": "absorption band", "traditional_chinese": "吸收帶", "definition_cht": "介質在某一波長範圍內對電磁輻射有顯著吸收的光譜區段。"}, {"english": "absorption coefficient", "traditional_chinese": "吸收係數", "definition_cht": "表示介質對輻射或波動吸收強度的係數，通常描述單位路徑長度內訊號衰減的程度。"}, {"english": "absorption cross section", "traditional_chinese": "吸收截面", "definition_cht": "用以量化單一粒子、分子或原子對入射輻射吸收能力之等效面積。"}, {"english": "absorption hygrometer", "traditional_chinese": "吸收式濕度計", "definition_cht": "利用吸濕材料吸收水氣後之質量、電性或化學變化來測定空氣濕度的儀器。"}, {"english": "absorption line", "traditional_chinese": "吸收線", "definition_cht": "光譜中因特定物質吸收對應波長輻射而形成的暗線或吸收特徵。"}, {"english": "absorption loss", "traditional_chinese": "吸收損失", "definition_cht": "波動或能量在傳播過程中因介質吸收而造成的衰減部分。"}, {"english": "absorption optical thickness", "traditional_chinese": "吸收光學厚度", "definition_cht": "描述介質沿某路徑對輻射吸收累積效應的無因次量。"}, {"english": "absorption spectrum", "traditional_chinese": "吸收光譜", "definition_cht": "表示物質在不同波長對輻射吸收程度的光譜分布。"}, {"english": "absorptivity", "traditional_chinese": "吸收能力", "definition_cht": "物質對入射能量之吸收效能，常作為其吸收輻射能力的材料性質參數。"}, {"english": "abstraction", "traditional_chinese": "取水；抽取", "definition_cht": "在水文與資源管理中通常指自河川、湖泊、地下水或水庫抽取水量供使用之行為。"}, {"english": "ACC", "traditional_chinese": "異常相關係數", "definition_cht": "anomaly correlation coefficient 的縮寫，用以衡量預報場與分析場或觀測場之空間型態相似程度，常用於數值天氣預報評估。"}, {"english": "accelerated erosion", "traditional_chinese": "加速侵蝕", "definition_cht": "因人為活動或環境改變而使侵蝕速率高於自然背景值的現象。"}, {"english": "Acceleration", "traditional_chinese": "加速度", "definition_cht": "速度對時間的變化率，為描述運動狀態變化的向量物理量。"}, {"english": "accelerometer", "traditional_chinese": "加速度計", "definition_cht": "量測線性或角向加速度的儀器，可用於平台姿態修正、載具導航與儀器動態監測。"}, {"english": "acceptance capacity", "traditional_chinese": "承納容量", "definition_cht": "系統、介質或環境在不致失衡或受損情況下可接受某種輸入、負荷或污染物的最大能力。"}, {"english": "acceptance region", "traditional_chinese": "接受域", "definition_cht": "在統計檢定、訊號處理或儀器設計中，判定資料或訊號可被接受的數值範圍或相空間區域。"}, {"english": "accessory cloud", "traditional_chinese": "附屬雲", "definition_cht": "依附於主要雲體或伴隨其生成的次級雲形，如壁雲、碎雲或旗雲等。"}, {"english": "acclimation", "traditional_chinese": "馴化", "definition_cht": "生物或材料對單一或有限環境因子改變所產生的短期生理或性質調整。"}, {"english": "acclimatization", "traditional_chinese": "適應化", "definition_cht": "生物在自然環境中對多重氣候條件長期變化所形成的整體適應過程。"}, {"english": "accretion", "traditional_chinese": "積聚", "definition_cht": "物質因附著、凝結、凍結或沉積而逐漸增加的過程；在結冰天氣中亦指冰層附著增厚。"}, {"english": "accumulated cooling", "traditional_chinese": "累積冷卻量", "definition_cht": "一定期間內溫度低於某基準所累計的冷卻效應，可用於能源或農業分析。"}, {"english": "accumulated temperature", "traditional_chinese": "積溫", "definition_cht": "一定期間內日平均溫度或超過某基準溫度部分的累加值，常用於作物生長與發育估算。"}, {"english": "accumulation", "traditional_chinese": "累積", "definition_cht": "某物理量、物質或能量隨時間逐步增加並聚集的過程或結果。"}, {"english": "accumulation area", "traditional_chinese": "累積區", "definition_cht": "冰川或積雪體中年累積量大於年消融量之區域，通常位於較高海拔或較冷環境。"}, {"english": "accumulation mode", "traditional_chinese": "累積模態", "definition_cht": "大氣氣膠粒徑分布中的一類粒子族群，常指粒徑約介於細粒與粗粒之間、易由凝結與凝聚形成的模態。"}, {"english": "accumulation rain gauge", "traditional_chinese": "累積式雨量計", "definition_cht": "將一定時間內總降水量累積收集並讀取的雨量量測儀器。"}, {"english": "accumulation zone", "traditional_chinese": "累積帶", "definition_cht": "與累積區同義，指冰川或雪體中淨累積為正的地帶。"}, {"english": "accuracy", "traditional_chinese": "準確度", "definition_cht": "量測值或估計值接近真值的程度。"}, {"english": "acdar", "traditional_chinese": "飛機資料中繼系統", "definition_cht": "通常指 aircraft to data relay 類型的機載資料傳輸或中繼系統，用於將飛行平台觀測資料回傳地面。"}, {"english": "acetaldehyde", "traditional_chinese": "乙醛", "definition_cht": "一種揮發性有機化合物，可存在於大氣中並參與光化學反應與臭氧生成。"}, {"english": "acetic acid", "traditional_chinese": "乙酸", "definition_cht": "常見有機酸，存在於大氣氣膠或降水中，對酸沉降化學有一定影響。"}, {"english": "acetone", "traditional_chinese": "丙酮", "definition_cht": "大氣中的揮發性有機化合物之一，可來自生物、工業與燃燒來源，並參與氧化化學。"}, {"english": "acetonitrile", "traditional_chinese": "乙腈", "definition_cht": "常作為生質燃燒示蹤物之一的揮發性有機化合物。"}, {"english": "acetylene", "traditional_chinese": "乙炔", "definition_cht": "一種不飽和碳氫化合物，可作為燃燒來源與大氣化學反應的指標氣體。"}, {"english": "acicular ice", "traditional_chinese": "針狀冰", "definition_cht": "呈細長針形的冰晶或冰體，常見於特定過冷或凝華條件下。"}, {"english": "acid deposition", "traditional_chinese": "酸沉降", "definition_cht": "酸性物質以濕沉降或乾沉降形式自大氣移除並沉積於地表的過程。"}, {"english": "acid fog", "traditional_chinese": "酸霧", "definition_cht": "含有較高酸性成分、pH 值偏低的霧滴集合體。"}, {"english": "acid pollution", "traditional_chinese": "酸性污染", "definition_cht": "由酸性氣體、酸性氣膠或酸性沉降造成之環境污染現象。"}, {"english": "acid rain", "traditional_chinese": "酸雨", "definition_cht": "pH 值明顯低於天然背景值的降水，通常與二氧化硫與氮氧化物氧化生成之酸性物質有關。"}, {"english": "acidity of water", "traditional_chinese": "水體酸度", "definition_cht": "水體中可中和鹼的酸性成分總量，反映其酸性強弱與化學性質。"}, {"english": "acidity profile", "traditional_chinese": "酸度剖面", "definition_cht": "水體、土壤或大氣中酸度隨深度、高度或距離變化的分布。"}, {"english": "aclinic line", "traditional_chinese": "無磁傾線", "definition_cht": "地磁傾角為零的地表連線，即磁針在垂直平面內不向下或向上傾斜之位置。"}, {"english": "acoustic array", "traditional_chinese": "聲學陣列", "definition_cht": "由多個聲學感測器或換能器組成的排列系統，用於測向、成像、定位或流場量測。"}, {"english": "acoustic backscattering", "traditional_chinese": "聲學背向散射", "definition_cht": "聲波遇到粒子、湍流或界面後向發射源方向散射的現象。"}, {"english": "acoustic dispersion", "traditional_chinese": "聲學色散", "definition_cht": "聲波傳播速度隨頻率而異的現象。"}, {"english": "acoustic Doppler current profiler", "traditional_chinese": "聲學都卜勒流速剖面儀", "definition_cht": "利用聲波都卜勒頻移量測水體不同深度流速剖面的海洋觀測儀器，常簡稱 ADCP。"}, {"english": "acoustic echo sounding", "traditional_chinese": "聲學回聲測深", "definition_cht": "利用聲波往返時間量測水深或水下目標距離的方法。"}, {"english": "acoustic imaging", "traditional_chinese": "聲學成像", "definition_cht": "利用聲波反射、散射或傳播特性重建物體或介質結構影像的技術。"}, {"english": "acoustic impedance", "traditional_chinese": "聲阻抗", "definition_cht": "介質中聲壓與質點振速之比，為描述聲波傳播與界面反射的重要參數。"}, {"english": "acoustic intensity", "traditional_chinese": "聲強", "definition_cht": "單位面積、單位時間通過之聲能量通量。"}, {"english": "acoustic lens", "traditional_chinese": "聲透鏡", "definition_cht": "藉由控制聲波折射或聚焦來改變波束形狀的裝置。"}, {"english": "acoustic ocean current meter", "traditional_chinese": "聲學海流計", "definition_cht": "利用聲波傳播時間差或都卜勒效應量測海流速度與方向的儀器。"}, {"english": "acoustic pressure", "traditional_chinese": "聲壓", "definition_cht": "聲波通過介質時相對於靜壓所產生的壓力擾動。"}, {"english": "acoustic radar", "traditional_chinese": "聲雷達", "definition_cht": "以聲波探測大氣結構、湍流或邊界層高度的遙測系統，英文常稱 sodar。"}, {"english": "acoustic rain gauge", "traditional_chinese": "聲學雨量計", "definition_cht": "依據雨滴撞擊聲訊號或聲波特徵估算降雨強度與累積雨量的儀器。"}, {"english": "acoustic reflection profiling", "traditional_chinese": "聲學反射剖面測量", "definition_cht": "利用不同地層或水體界面之聲波反射訊號建立垂直結構剖面的探測方法。"}, {"english": "acoustic reflectivity", "traditional_chinese": "聲反射率", "definition_cht": "介質或界面反射入射聲能的能力，通常以反射係數或相對強度表示。"}, {"english": "acoustic refraction", "traditional_chinese": "聲波折射", "definition_cht": "聲波因介質中溫度、密度或流速變化而改變傳播方向的現象。"}, {"english": "acoustic resonance", "traditional_chinese": "聲共振", "definition_cht": "系統在特定頻率下對聲波產生強烈響應、振幅顯著增大的現象。"}, {"english": "acoustic reverberation", "traditional_chinese": "聲學混響", "definition_cht": "聲波在封閉或複雜介質中多次反射散射後造成訊號延續與重疊的現象。"}, {"english": "acoustic scattering", "traditional_chinese": "聲散射", "definition_cht": "聲波遇到粒子、粗糙面或介質不均勻體後向各方向重新分配的現象。"}, {"english": "acoustic scintillation", "traditional_chinese": "聲閃爍", "definition_cht": "聲波穿越具湍流或折射率擾動介質時，振幅或相位快速起伏的現象。"}, {"english": "acoustic signature", "traditional_chinese": "聲學特徵", "definition_cht": "物體、過程或環境所呈現之可辨識聲波頻譜、時序或強度特性。"}, {"english": "acoustic sounding", "traditional_chinese": "聲測", "definition_cht": "利用聲波探測大氣、水體或地下介質垂直結構的量測方法。"}, {"english": "acoustic thermometer", "traditional_chinese": "聲學溫度計", "definition_cht": "根據聲速與介質溫度關係推算溫度的量測儀器。"}, {"english": "acoustic tomography", "traditional_chinese": "聲學斷層成像", "definition_cht": "利用多條聲波傳播路徑之走時資訊反演介質內部溫度、流速或結構分布的方法。"}, {"english": "acoustic transducer", "traditional_chinese": "聲換能器", "definition_cht": "可在電能與聲能之間互相轉換的元件，是聲學探測與通訊系統核心組件。"}, {"english": "acoustic transponder", "traditional_chinese": "聲學應答器", "definition_cht": "接收特定聲訊號後自動發出回應訊號的裝置，常用於水下定位與導航。"}, {"english": "acoustic velocimeter", "traditional_chinese": "聲學流速計", "definition_cht": "利用聲學原理量測流體速度的儀器，可應用於河川、海洋與實驗流場。"}, {"english": "acoustic wave", "traditional_chinese": "聲波", "definition_cht": "介質中因壓力擾動而傳播的機械波。"}, {"english": "acoustic–gravity wave", "traditional_chinese": "聲重力波", "definition_cht": "受壓縮性與重力共同控制的波動，可在大氣或海洋中傳播，包含聲波與重力波特性。"}, {"english": "acre-foot", "traditional_chinese": "英畝英尺", "definition_cht": "水量單位，表示一英畝面積上覆一英尺深度之水體體積。"}, {"english": "acrolein", "traditional_chinese": "丙烯醛", "definition_cht": "具刺激性的揮發性有機化合物，可由燃燒與光化學反應生成，為大氣污染物之一。"}, {"english": "actinic", "traditional_chinese": "光化性的", "definition_cht": "指具有引發光化學反應能力之輻射，尤其是紫外線與短波可見光。"}, {"english": "actinic flux", "traditional_chinese": "光化通量", "definition_cht": "從各方向抵達某點、可引發光化學反應之輻射通量總和，是大氣光化學的重要量。"}, {"english": "actinogram", "traditional_chinese": "日射記錄圖", "definition_cht": "記錄太陽輻射強度隨時間變化的圖形或紀錄。"}, {"english": "actinograph", "traditional_chinese": "日射記錄儀", "definition_cht": "連續記錄太陽輻射強度變化的儀器。"}, {"english": "actinometer", "traditional_chinese": "輻射計", "definition_cht": "量測太陽或其他輻射強度的儀器，歷史上常特指量測日射之裝置。"}, {"english": "actinometry", "traditional_chinese": "測輻射學", "definition_cht": "研究與量測輻射，尤其是太陽輻射之方法、儀器與理論的學科。"}, {"english": "actinon", "traditional_chinese": "錒射氣", "definition_cht": "氡的放射性同位素之一，為某些放射性衰變鏈中的惰性氣體成分。"}, {"english": "activated complex theory", "traditional_chinese": "活化複合體理論", "definition_cht": "化學反應速率理論之一，認為反應物需先形成高能過渡態或活化複合體，方能轉變為生成物。"}, {"english": "activation energy", "traditional_chinese": "活化能", "definition_cht": "化學反應或物理過程得以進行所需克服的最小能量障礙。"}, {"english": "active basin area", "traditional_chinese": "活動流域面積", "definition_cht": "在某水文事件或特定水位條件下，實際參與逕流產生與輸送的流域面積。"}, {"english": "active cloud", "traditional_chinese": "活躍雲", "definition_cht": "具有明顯發展、強上升運動或持續微物理過程的雲體，常與降水或對流活動相關。"}, {"english": "active front", "traditional_chinese": "活躍鋒", "definition_cht": "伴隨顯著溫濕梯度、上升運動與天氣現象的發展中鋒面。"}, {"english": "active layer", "traditional_chinese": "活動層", "definition_cht": "多年凍土上方每年季節性融化與再凍結的土層。"}, {"english": "active nitrogen", "traditional_chinese": "活性氮", "definition_cht": "在大氣化學中指可參與反應的含氮化合物總稱，如 NO、NO2、HNO3、PAN 與銨鹽等。"}, {"english": "active permafrost", "traditional_chinese": "活動凍土層", "definition_cht": "常為活動層之舊稱或泛稱，指多年凍土上方隨季節解凍與結凍的近地表層。"}, {"english": "Active region", "traditional_chinese": "活動區", "definition_cht": "在太陽物理中指磁場強烈、易發生日珥、耀斑或日冕物質拋射的太陽表面區域。"}, {"english": "active site", "traditional_chinese": "活性位", "definition_cht": "化學反應、吸附或催化作用最易發生之特定分子位置、表面區域或晶格缺陷。"}, {"english": "active system", "traditional_chinese": "主動式系統", "definition_cht": "需自行發射能量訊號以進行探測、通訊或量測的系統，如雷達與 lidar。"}, {"english": "activity", "traditional_chinese": "活度", "definition_cht": "在化學熱力學中表示物質有效濃度的量；在放射學中亦可指單位時間之衰變率，須依上下文判定。"}, {"english": "activity coefficient", "traditional_chinese": "活度係數", "definition_cht": "描述實際溶液或混合系統偏離理想行為程度之係數。"}, {"english": "actual elevation", "traditional_chinese": "實際高程", "definition_cht": "某地點或儀器相對於平均海平面或指定基準面的真實高度。"}, {"english": "actual evaporation", "traditional_chinese": "實際蒸發量", "definition_cht": "在當前水分供應、能量與氣象條件限制下，實際發生的蒸發量。"}, {"english": "actual pressure", "traditional_chinese": "實際壓力", "definition_cht": "系統、氣體或大氣在當下條件下實際存在的壓力值。"}, {"english": "actual time of observation", "traditional_chinese": "實際觀測時間", "definition_cht": "儀器或觀測人員真正完成觀測或取得資料的時間。"}, {"english": "adaptability", "traditional_chinese": "適應能力", "definition_cht": "系統、生物或社會對環境變化、壓力或風險作出調整並維持功能的能力。"}, {"english": "adaptation luminance", "traditional_chinese": "適應亮度", "definition_cht": "視覺系統在某環境中完成明暗適應後所對應的背景亮度水準。"}, {"english": "adaptation strategies", "traditional_chinese": "調適策略", "definition_cht": "為降低氣候變遷或環境風險衝擊而採取的規劃、工程、管理或制度措施。"}, {"english": "adaptive grid", "traditional_chinese": "自適應網格", "definition_cht": "可依解場梯度、誤差估計或物理需求動態調整解析度的數值計算網格。"}, {"english": "adaptive observational network", "traditional_chinese": "自適應觀測網", "definition_cht": "依天氣系統敏感區、預報不確定度或任務需求調整佈站與取樣策略的觀測網。"}, {"english": "adaptive observations", "traditional_chinese": "自適應觀測", "definition_cht": "針對預報敏感區或高不確定區域，加強特定時間與地點觀測的策略。"}, {"english": "ADCP", "traditional_chinese": "聲學都卜勒流速剖面儀", "definition_cht": "Acoustic Doppler Current Profiler 的縮寫，用於量測水體垂直流速結構。"}, {"english": "ADEOS", "traditional_chinese": "先進地球觀測衛星", "definition_cht": "Advanced Earth Observing Satellite 的縮寫，為日本發展之地球觀測衛星系列。"}, {"english": "adfreezing", "traditional_chinese": "凍著", "definition_cht": "液態水滴接觸低於冰點的固體表面後迅速結冰並附著其上的過程。"}, {"english": "adhesion efficiency", "traditional_chinese": "附著效率", "definition_cht": "粒子、液滴或冰晶與表面碰撞後成功附著的比例或機率。"}, {"english": "adhesive water", "traditional_chinese": "附著水", "definition_cht": "因分子吸附或表面張力而附著於顆粒、土壤或固體表面的水分。"}, {"english": "adiabat", "traditional_chinese": "絕熱線", "definition_cht": "熱力圖上表示絕熱過程狀態變化的曲線，或泛指絕熱狀態方程所對應之路徑。"}, {"english": "adiabatic atmosphere", "traditional_chinese": "絕熱大氣", "definition_cht": "假設空氣團運動與環境變化過程中不與外界交換熱量的大氣理想化狀態。"}, {"english": "adiabatic chart", "traditional_chinese": "絕熱圖", "definition_cht": "包含乾絕熱線、濕絕熱線與混合比線等，用於分析氣塊熱力狀態的氣象熱力圖。"}, {"english": "adiabatic equilibrium", "traditional_chinese": "絕熱平衡", "definition_cht": "在無熱交換條件下系統達成之平衡狀態。"}, {"english": "adiabatic lapse rate", "traditional_chinese": "絕熱遞減率", "definition_cht": "空氣團在絕熱上升或下沉過程中溫度隨高度變化的速率。"}, {"english": "adiabatic process", "traditional_chinese": "絕熱過程", "definition_cht": "系統與外界不發生熱量交換的熱力學過程。"}, {"english": "adiabatic saturation point", "traditional_chinese": "絕熱飽和點", "definition_cht": "未飽和空氣在與水接觸並經絕熱蒸發後達到飽和時的終點狀態。"}, {"english": "adiabatic saturation pressure", "traditional_chinese": "絕熱飽和壓力", "definition_cht": "空氣達到絕熱飽和點時對應的壓力。"}, {"english": "adiabatic saturation temperature", "traditional_chinese": "絕熱飽和溫度", "definition_cht": "空氣經絕熱蒸發冷卻至飽和時所達到的溫度，與濕球溫度概念相關。"}, {"english": "adiabatic temperature changes", "traditional_chinese": "絕熱溫度變化", "definition_cht": "因膨脹或壓縮而產生、非由外界供熱或失熱造成的溫度變化。"}, {"english": "adiabatic temperature gradient", "traditional_chinese": "絕熱溫度梯度", "definition_cht": "在絕熱條件下溫度隨空間位置，尤其隨高度變化的梯度。"}, {"english": "adiabatic trial", "traditional_chinese": "絕熱試驗", "definition_cht": "在假設絕熱條件下，對氣塊位移、穩定度或熱力狀態進行之理論檢驗或計算。"}, {"english": "adiabatically enclosed system", "traditional_chinese": "絕熱封閉系統", "definition_cht": "邊界不與外界交換熱量，且通常亦不交換物質的理想化系統。"}, {"english": "adjoint assimilation", "traditional_chinese": "伴隨同化", "definition_cht": "利用伴隨模式計算梯度，以最小化代價函數並進行資料同化的技術。"}, {"english": "adjoint equation", "traditional_chinese": "伴隨方程", "definition_cht": "由控制方程導出、用以反向傳播敏感度或梯度資訊的數學方程。"}, {"english": "adjoint model", "traditional_chinese": "伴隨模式", "definition_cht": "與前向模式相對應、可計算目標函數對初值或參數敏感度的數值模式。"}, {"english": "adjoint sensitivity", "traditional_chinese": "伴隨敏感度", "definition_cht": "透過伴隨模式求得某目標量對控制變數、初始條件或觀測之變化敏感程度。"}, {"english": "adjustable cistern barometer", "traditional_chinese": "可調式儲槽氣壓計", "definition_cht": "水銀氣壓計之一，具可調整儲槽液面之設計，以提高讀值精度。"}, {"english": "admissible concentration limit", "traditional_chinese": "容許濃度限值", "definition_cht": "為保護人體健康或環境而規定某物質可接受之最高濃度。"}, {"english": "adret", "traditional_chinese": "向陽坡", "definition_cht": "山地中接受較多日照的一側坡面，通常較溫暖乾燥，與背陽坡相對。"}, {"english": "adsorption", "traditional_chinese": "吸附", "definition_cht": "氣體、液體或溶質分子附著並聚集於固體或液體表面的過程。"}, {"english": "adsorption isotherm", "traditional_chinese": "吸附等溫線", "definition_cht": "在固定溫度下，吸附量與平衡濃度或壓力之間關係的曲線。"}, {"english": "Advanced Baseline Imager", "traditional_chinese": "先進基線成像儀", "definition_cht": "GOES-R 系列等新一代靜止衛星之主要多光譜成像儀，具高時間、高空間與多頻道觀測能力。"}, {"english": "Advanced Earth Observing Satellite", "traditional_chinese": "先進地球觀測衛星", "definition_cht": "日本發展的地球觀測衛星計畫名稱，用於海洋、大氣、陸地與輻射觀測。"}, {"english": "Advanced microwave sounding unit", "traditional_chinese": "先進微波探測儀", "definition_cht": "一種衛星微波垂直探測儀器，可藉不同頻道反演大氣溫度與濕度結構。"}, {"english": "Advanced TIROS-N", "traditional_chinese": "先進 TIROS-N 系列衛星", "definition_cht": "美國極軌氣象衛星系列之一，為多項後續 NOAA 衛星酬載的發展基礎。"}, {"english": "Advanced Very High Resolution Radiometer", "traditional_chinese": "先進甚高解析度輻射儀", "definition_cht": "AVHRR 的全名，為 NOAA 極軌衛星搭載之多光譜成像輻射儀，廣用於雲、海表溫度與植生監測。"}, {"english": "advection", "traditional_chinese": "平流", "definition_cht": "由流體整體運動所造成之物理量，如熱量、水氣、污染物或渦度的水平或三維輸送。"}, {"english": "advection fog", "traditional_chinese": "平流霧", "definition_cht": "暖濕空氣移流至較冷下墊面上方，因冷卻達飽和而形成的霧。"}, {"english": "advection frost", "traditional_chinese": "平流霜凍", "definition_cht": "由冷空氣移入造成氣溫降至冰點以下而產生的霜凍，常伴隨風與大範圍冷平流。"}, {"english": "advective change of temperature", "traditional_chinese": "平流性溫度變化", "definition_cht": "因空氣移流使某地溫度隨時間改變的部分。"}, {"english": "advective model", "traditional_chinese": "平流模式", "definition_cht": "以平流項為主要控制機制的數值或概念模式，用於描述物質或熱量之輸送。"}, {"english": "advective region", "traditional_chinese": "平流區", "definition_cht": "某物理量之輸送主要受平流作用支配的區域。"}, {"english": "advective thunderstorm", "traditional_chinese": "平流性雷暴", "definition_cht": "發展或維持與顯著水平輸送有關的雷暴，例如暖濕空氣持續平流至不穩定區所形成者。"}, {"english": "advective-gravity flows", "traditional_chinese": "平流－重力流", "definition_cht": "同時受背景平流與密度差驅動之重力流動系統。"}, {"english": "advisory", "traditional_chinese": "警報提示；顧問通報", "definition_cht": "官方發布之較警報低一級但具提醒或作業指導性質的天氣、海象或災害資訊。"}, {"english": "advisory area", "traditional_chinese": "通報區", "definition_cht": "發布顧問通報、預警或作業建議所涵蓋的地理區域。"}, {"english": "AE", "traditional_chinese": "極光電流指數", "definition_cht": "auroral electrojet index 的縮寫，用於表示高緯極光帶電流系統活動強度的地磁指標。"}, {"english": "aeolian", "traditional_chinese": "風成的", "definition_cht": "由風力搬運、侵蝕或堆積作用形成或控制的。"}, {"english": "aeolian tones", "traditional_chinese": "風鳴音", "definition_cht": "氣流通過線狀或柱狀物體時因渦流脫落而產生的規則聲音。"}, {"english": "aeration", "traditional_chinese": "曝氣", "definition_cht": "使空氣進入水體、土壤或其他介質以增加氧氣交換或改變其物理化學狀態的過程。"}, {"english": "aerial", "traditional_chinese": "空中的；天線", "definition_cht": "作形容詞時指與空中觀測或航空有關；作名詞時可指用於收發電磁波的天線。"}, {"english": "aerial perspective", "traditional_chinese": "空氣透視", "definition_cht": "因大氣散射與吸收使遠處景物對比降低、色調偏淡或偏藍的視覺現象。"}, {"english": "AERO code", "traditional_chinese": "航空氣象電碼", "definition_cht": "用於航空氣象通報、觀測或預報資料傳輸的專用編碼格式。"}, {"english": "aerobiology", "traditional_chinese": "空氣生物學", "definition_cht": "研究花粉、孢子、微生物等生物性粒子在大氣中的來源、傳播與影響的學科。"}, {"english": "aerodrome meteorological minima", "traditional_chinese": "機場氣象最低標準", "definition_cht": "航空器在某機場進場、起降或作業所需滿足之最低能見度、雲高等氣象條件標準。"}, {"english": "aerodynamic", "traditional_chinese": "空氣動力的", "definition_cht": "與物體在空氣中運動時所受力及流場特性有關的。"}, {"english": "aerodynamic balance", "traditional_chinese": "空氣動力平衡", "definition_cht": "物體所受升力、阻力、壓力梯度與慣性等氣動作用達平衡的狀態。"}, {"english": "aerodynamic force", "traditional_chinese": "空氣動力", "definition_cht": "流體作用於物體表面所產生的力，包括升力、阻力與側向力等。"}, {"english": "aerodynamic resistance", "traditional_chinese": "空氣動力阻抗", "definition_cht": "描述地表與大氣之間熱量、水氣或動量傳輸受湍流與風場限制程度的參數。"}, {"english": "Aerodynamic roughness length", "traditional_chinese": "空氣動力粗糙度長度", "definition_cht": "表徵地表粗糙元對近地層風速剖面影響的特徵長度，常記為 z0。"}, {"english": "aerodynamically rough surface", "traditional_chinese": "空氣動力粗糙表面", "definition_cht": "其表面粗糙元足以明顯破壞近壁層黏性次層並增強湍流交換的表面。"}, {"english": "aerodynamically smooth surface", "traditional_chinese": "空氣動力光滑表面", "definition_cht": "粗糙元相對於黏性次層很小，對近地風場與湍流交換影響有限的表面。"}, {"english": "aerodynamics", "traditional_chinese": "空氣動力學", "definition_cht": "研究空氣流動及其與物體交互作用所產生力、能量與運動特性的學科。"}, {"english": "aerograph", "traditional_chinese": "高空氣象記錄儀", "definition_cht": "早期搭載於探空器或航空平台，用於連續記錄氣壓、溫度與濕度等要素的儀器。"}, {"english": "aerography", "traditional_chinese": "高空氣象學", "definition_cht": "舊稱，指研究自由大氣性質、結構與現象的學問。"}, {"english": "aerologation", "traditional_chinese": "高空觀測", "definition_cht": "對自由大氣進行探測與記錄之作業，現多以 aerological observation 表示。"}, {"english": "aerological analysis", "traditional_chinese": "高空氣象分析", "definition_cht": "根據探空、飛機或遙測資料分析自由大氣溫度、濕度、風場與穩定度結構的作業。"}, {"english": "aerological days", "traditional_chinese": "高空觀測日", "definition_cht": "依國際或業務規範實施例行高空探測與資料交換的指定日期或作業時段。"}, {"english": "aerological station", "traditional_chinese": "高空氣象站", "definition_cht": "進行探空、測風或其他自由大氣觀測之測站。"}, {"english": "aerological table", "traditional_chinese": "高空氣象表", "definition_cht": "彙列探空或高空氣象觀測資料的表格，內容可含壓力、高度、溫度、濕度與風。"}, {"english": "aerology", "traditional_chinese": "高空氣象學", "definition_cht": "研究自由大氣物理性質、結構與過程的學科。"}, {"english": "aerometeorograph", "traditional_chinese": "航空氣象記錄儀", "definition_cht": "裝載於飛行器上，自動記錄飛行途中氣象要素之儀器。"}, {"english": "aeronautical climatology", "traditional_chinese": "航空氣候學", "definition_cht": "研究與航空作業相關之氣候特徵、頻率與風險的應用氣候學分支。"}, {"english": "aeronautical meteorological service", "traditional_chinese": "航空氣象服務", "definition_cht": "為航空器與機場運作提供觀測、預報、警報與氣象諮詢的專業服務。"}, {"english": "aeronautical meteorological station", "traditional_chinese": "航空氣象站", "definition_cht": "設於機場或航空設施附近，專門支援飛航作業之氣象觀測站。"}, {"english": "aeronautical meteorology", "traditional_chinese": "航空氣象學", "definition_cht": "研究並應用與飛航安全、航路規劃及機場作業相關之氣象現象與資料的學科。"}, {"english": "aeronomy", "traditional_chinese": "高層大氣學", "definition_cht": "研究中高層大氣之化學、電離、輻射與動力過程的學科。"}, {"english": "Aerosol", "traditional_chinese": "氣膠", "definition_cht": "懸浮於氣體中的固體或液體微粒系統，包含天然與人為來源。"}, {"english": "aerosol optical depth", "traditional_chinese": "氣膠光學厚度", "definition_cht": "表示整層大氣氣膠對輻射消光總效應的無因次量，常用於衛星與地基遙測。"}, {"english": "Aerosol size distribution", "traditional_chinese": "氣膠粒徑分布", "definition_cht": "描述氣膠粒子數量、表面積或質量隨粒徑變化的分布關係。"}, {"english": "Aerospace Meteorology", "traditional_chinese": "航太氣象學", "definition_cht": "研究大氣與太空環境對航空與太空飛行器設計、運作與安全影響的學科。"}, {"english": "aerostatic balance", "traditional_chinese": "靜氣平衡", "definition_cht": "流體中垂直壓力梯度力與重力達成平衡的狀態，與靜力平衡概念相近。"}, {"english": "aestival", "traditional_chinese": "夏季的", "definition_cht": "與夏季有關或發生於夏季的。"}, {"english": "aestivation", "traditional_chinese": "夏眠", "definition_cht": "某些生物於高溫或乾旱季節進入代謝降低之休眠狀態。"}, {"english": "Afer", "traditional_chinese": "阿非風", "definition_cht": "古典氣象或地方風名之一，通常指源自非洲方向的暖風或南風。"}, {"english": "afghanets", "traditional_chinese": "阿富汗風", "definition_cht": "阿富汗一帶的地方性風名，可指當地乾熱、夾塵或地形導引的風系。"}, {"english": "African Easterly Wave", "traditional_chinese": "非洲東風波", "definition_cht": "沿非洲東風急流附近生成並向西傳播的熱帶擾動，常為大西洋熱帶氣旋胚胎。"}, {"english": "African jet", "traditional_chinese": "非洲急流", "definition_cht": "通常指非洲東風急流，為北非與西非中低層因南北溫度梯度形成之狹強風帶。"}, {"english": "afterglow", "traditional_chinese": "餘暉", "definition_cht": "日落後或日出前，因高空散射使天空仍維持明亮或呈現色彩的光學現象。"}, {"english": "afterheat", "traditional_chinese": "餘熱", "definition_cht": "熱源移除後仍殘留於系統中的熱量，或白天受熱後地表與近地層持續釋放的熱能。"}, {"english": "afternoon effect", "traditional_chinese": "午後效應", "definition_cht": "因日間加熱在午後最明顯而造成之邊界層發展、對流增強或觀測偏差現象。"}, {"english": "aftersummer", "traditional_chinese": "小陽春", "definition_cht": "秋季或初冬短暫出現近似夏季的溫暖晴朗天氣。"}, {"english": "age", "traditional_chinese": "齡；年齡", "definition_cht": "指物體、氣團、水團、氣膠或地質體自形成以來所經歷的時間。"}, {"english": "ageostrophic advection", "traditional_chinese": "非地轉平流", "definition_cht": "由非地轉風分量造成之物理量輸送，常與輻合、輻散及垂直運動有關。"}, {"english": "ageostrophic wind", "traditional_chinese": "非地轉風", "definition_cht": "實際風中偏離地轉平衡的部分，可由摩擦、曲率、加速度或局地強迫所致。"}, {"english": "agglomeration", "traditional_chinese": "團聚", "definition_cht": "細小粒子因碰撞、黏附或凝結而聚合成較大顆粒或團塊的過程。"}, {"english": "aggregation", "traditional_chinese": "聚集", "definition_cht": "個體、粒子、冰晶、資料單元或現象組成較大集合體的過程。"}, {"english": "aggressive water", "traditional_chinese": "侵蝕性水", "definition_cht": "對碳酸鹽、金屬或建材具有較強溶蝕或腐蝕能力的水體。"}, {"english": "agnostic chart", "traditional_chinese": "無定見圖", "definition_cht": "不預先假設特定物理模型或分類、僅以資料本身呈現分布特徵的分析圖。"}, {"english": "agonic line", "traditional_chinese": "無偏線", "definition_cht": "地表上磁偏角為零的連線，即真北與磁北一致的位置。"}, {"english": "agricultural climatology", "traditional_chinese": "農業氣候學", "definition_cht": "研究氣候條件對作物、生產制度與農業資源影響的應用氣候學分支。"}, {"english": "agricultural drought", "traditional_chinese": "農業乾旱", "definition_cht": "土壤水分不足以滿足作物生長需求，致使農作生產受損的乾旱型態。"}, {"english": "agricultural meteorological station", "traditional_chinese": "農業氣象站", "definition_cht": "以農業應用為目的，觀測氣象與農田環境要素之測站。"}, {"english": "agricultural meteorology", "traditional_chinese": "農業氣象學", "definition_cht": "研究天氣與氣候對農作物、畜牧、土壤與農業作業影響的應用氣象學。"}, {"english": "agro-met station", "traditional_chinese": "農業氣象站", "definition_cht": "agricultural meteorological station 的簡稱，指提供農業相關氣象觀測與服務的測站。"}, {"english": "agroclimatic index", "traditional_chinese": "農業氣候指數", "definition_cht": "綜合溫度、降水、日照或蒸發等因子，用以評估農業生產環境之指標。"}, {"english": "agrometeorological forecasting", "traditional_chinese": "農業氣象預報", "definition_cht": "針對作物生長、病蟲害、灌溉、收穫或農損風險所作的專門氣象預報。"}, {"english": "Agulhas Current", "traditional_chinese": "阿古拉斯海流", "definition_cht": "沿非洲東南岸向西南流動的暖流，為印度洋西邊界流之一，對南大洋與大西洋交換具重要作用。"}, {"english": "Air", "traditional_chinese": "空氣", "definition_cht": "構成地球大氣的氣體混合物，主要成分為氮、氧、氬及微量水氣與微量氣體。"}, {"english": "air acoustic ranging sensor", "traditional_chinese": "空氣聲測測距感測器", "definition_cht": "利用聲波在空氣中的傳播與回波時間量測距離或目標位置的感測器。"}, {"english": "air current", "traditional_chinese": "氣流", "definition_cht": "空氣在壓力梯度、浮力、地轉效應或地形等作用下產生的流動。"}, {"english": "air discharge", "traditional_chinese": "空氣排放", "definition_cht": "氣體自系統、管道、孔口或自然通道排出之過程或流量。"}, {"english": "air drainage", "traditional_chinese": "冷空氣下洩", "definition_cht": "近地層較冷且密度較高的空氣沿坡地下滑並聚積於谷地或低地的現象。"}, {"english": "air hoar", "traditional_chinese": "霜華", "definition_cht": "空氣中水汽直接凝華於物體表面所形成的白色羽毛狀或針狀冰晶。"}, {"english": "air line correction", "traditional_chinese": "空氣線修正", "definition_cht": "在儀器量測、聲學、雷達或輻射傳輸中，對空氣傳播路徑造成之延遲、折射或衰減所進行的修正。"}, {"english": "air mass", "traditional_chinese": "氣團", "definition_cht": "在廣大水平範圍內具有相對均勻溫度、濕度與垂直穩定度特性的空氣體，是天氣分析與鋒面研究的基本概念。"}, {"english": "air meter", "traditional_chinese": "空氣量測儀", "definition_cht": "泛指用於量測空氣流量、體積、壓力或相關物理性質的儀器。"}, {"english": "air parcel", "traditional_chinese": "氣塊", "definition_cht": "在理論分析中視為具有均勻性質且可與周圍環境比較的小體積空氣，用以研究浮力、穩定度與熱力過程。"}, {"english": "air pocket", "traditional_chinese": "氣穴", "definition_cht": "大氣中局部性質與周圍顯著不同的小範圍空氣區，飛航上常指造成顛簸或突然下沉感的局地擾動區。"}, {"english": "air pollutants", "traditional_chinese": "空氣污染物", "definition_cht": "存在於大氣中並足以危害人體健康、生態系、能見度或材料的氣體、液滴、粒子或其化學衍生物。"}, {"english": "air pollution", "traditional_chinese": "空氣污染", "definition_cht": "大氣中污染物濃度達到足以對健康、環境、氣候或財產造成不利影響的狀態。"}, {"english": "air pollution control", "traditional_chinese": "空氣污染控制", "definition_cht": "藉由排放削減、處理技術、法規管理與監測措施，降低大氣污染物生成、排放與暴露的工作。"}, {"english": "air pollution episode", "traditional_chinese": "空氣污染事件", "definition_cht": "在不利擴散條件或高排放情況下，污染物濃度於一段時間內顯著升高並造成廣域影響的污染過程。"}, {"english": "air pollution meteorology", "traditional_chinese": "空氣污染氣象學", "definition_cht": "研究風場、穩定度、混合層高度、降水與輻射等氣象條件對污染物輸送、擴散、轉化與沉降影響的分支學科。"}, {"english": "air quality criteria", "traditional_chinese": "空氣品質準則", "definition_cht": "根據毒理、流行病與環境效應資料所建立，用以評估污染物可接受濃度或暴露風險的科學依據。"}, {"english": "air quality standards", "traditional_chinese": "空氣品質標準", "definition_cht": "由主管機關依法訂定的污染物濃度限值或目標值，用以保護人體健康與環境品質。"}, {"english": "air report", "traditional_chinese": "航空氣象報告", "definition_cht": "由航空器於飛行中回報的氣象觀測資訊，內容可含風、溫度、雲、亂流、結冰與能見度等。"}, {"english": "air sampler", "traditional_chinese": "空氣採樣器", "definition_cht": "用於收集空氣中氣體或粒狀污染物樣本，以供濃度分析、成分鑑定或暴露評估的設備。"}, {"english": "air temperature", "traditional_chinese": "氣溫", "definition_cht": "空氣的熱狀態量度，通常指離地一定高度、避免輻射直射干擾後所量得的溫度。"}, {"english": "air toxins", "traditional_chinese": "空氣毒性污染物", "definition_cht": "在大氣中以低濃度暴露亦可能造成急性或慢性健康危害的有毒污染物。"}, {"english": "air trap", "traditional_chinese": "滯氣區", "definition_cht": "因地形、建築或穩定層結使空氣不易流通與更新，易造成污染物或冷空氣聚積的區域。"}, {"english": "air-line sounding", "traditional_chinese": "航線探空", "definition_cht": "利用固定航線航空器沿飛行路徑所取得的大氣垂直或準垂直觀測資料。"}, {"english": "air-line well", "traditional_chinese": "導氣井", "definition_cht": "為量測地下壓力或抽取地下氣體而設置，藉由氣體導管與觀測系統連接的井設施。"}, {"english": "air–earth conduction current", "traditional_chinese": "空氣—地球傳導電流", "definition_cht": "在晴天電場下，由大氣離子導電所形成、於空氣與地表之間流動的微弱電流。"}, {"english": "air–earth current", "traditional_chinese": "空氣—地球電流", "definition_cht": "大氣與地表之間流動的電流總稱，可包含傳導電流及其他與大氣電現象相關的分量。"}, {"english": "air–fuel ratio", "traditional_chinese": "空燃比", "definition_cht": "燃燒過程中空氣與燃料的質量比或體積比，影響燃燒效率、污染排放與火焰特性。"}, {"english": "air–sea interaction", "traditional_chinese": "海氣交互作用", "definition_cht": "海洋與大氣之間透過動量、熱量、水氣、氣體與輻射交換所產生的雙向耦合過程。"}, {"english": "airborne expendable bathythermograph", "traditional_chinese": "機載投棄式海水溫深儀", "definition_cht": "由航空器投放入海、一次性使用的儀器，用以量測上層海洋溫度隨深度之分布。"}, {"english": "airborne fraction", "traditional_chinese": "大氣滯留比例", "definition_cht": "某一時段人為碳排放中仍保留於大氣而未被海洋與陸地生態系吸收的比例。"}, {"english": "airborne particulates", "traditional_chinese": "空氣中懸浮微粒", "definition_cht": "漂浮於大氣中的固體或液體微粒，來源可為自然過程或人為排放。"}, {"english": "airborne weather radar", "traditional_chinese": "機載氣象雷達", "definition_cht": "裝載於航空器上的雷達，用以探測降水、對流胞、亂流或地形回波，支援飛航避險與天氣監測。"}, {"english": "aircraft ceiling", "traditional_chinese": "航空器升限", "definition_cht": "航空器在特定載重與大氣條件下，仍能維持規定爬升性能或平飛性能的最大高度。"}, {"english": "aircraft electrification", "traditional_chinese": "航空器帶電", "definition_cht": "航空器因摩擦、降水粒子碰撞、雷暴環境或感應作用而累積電荷的現象。"}, {"english": "aircraft ice accretion", "traditional_chinese": "航空器積冰附著", "definition_cht": "過冷水滴在航空器表面撞擊後凍結並逐漸堆積的過程，會改變空氣動力與操作安全。"}, {"english": "aircraft icing", "traditional_chinese": "航空器結冰", "definition_cht": "航空器在飛行中因遭遇過冷雲滴、凍雨或濕雪而於機體表面形成冰層的現象。"}, {"english": "aircraft meteorological station", "traditional_chinese": "航空器氣象觀測站", "definition_cht": "以航空器為觀測平台，定期或即時回傳飛行途中的氣象資料之觀測系統。"}, {"english": "aircraft observation", "traditional_chinese": "航空器觀測", "definition_cht": "由航空器於飛行中取得並回報的大氣、雲、亂流、結冰或其他環境觀測資料。"}, {"english": "aircraft report", "traditional_chinese": "航空器報告", "definition_cht": "飛行員或機載系統依規定格式傳送的飛航與氣象觀測報告，常簡稱為 AIREP 或相關自動報。"}, {"english": "aircraft sounding", "traditional_chinese": "航空器探空", "definition_cht": "利用航空器升降或巡航過程所量得之溫度、風、濕度與壓力資料重建大氣垂直結構的方法。"}, {"english": "aircraft thermometry", "traditional_chinese": "航空器測溫", "definition_cht": "在航空器上量測外界空氣溫度的技術與方法，需校正氣流壓縮與儀器加熱效應。"}, {"english": "aircraft turbulence", "traditional_chinese": "航空器遭遇亂流", "definition_cht": "航空器在飛行中受大氣紊流、風切變或對流擾動影響而產生顛簸的現象。"}, {"english": "aircraft weather reconnaissance", "traditional_chinese": "航空氣象偵察", "definition_cht": "以航空器主動進入目標天氣系統進行觀測，蒐集颱風、鋒面或對流系統之關鍵資料。"}, {"english": "aircraft-to-satellite data relay", "traditional_chinese": "航空器至衛星資料中繼", "definition_cht": "透過衛星通訊系統將航空器觀測或飛航資料即時傳送至地面站的技術。"}, {"english": "AIREP", "traditional_chinese": "航空器報告", "definition_cht": "航空器於飛行中依標準格式提交的例行或特別報告，內容可包括位置、時間、風、溫度、亂流與結冰等。"}, {"english": "airfield color code", "traditional_chinese": "機場顏色代碼", "definition_cht": "以顏色分級表示機場附近天氣條件對飛航作業影響程度的簡明編碼系統。"}, {"english": "airglow", "traditional_chinese": "氣輝", "definition_cht": "高層大氣中的原子、分子或自由基受化學反應與輻射激發後所發出的微弱自然輝光。"}, {"english": "airlight", "traditional_chinese": "空氣光", "definition_cht": "由大氣分子或粒子散射進入視線的光，會降低目標與背景之對比並影響能見度。"}, {"english": "airlight formula", "traditional_chinese": "空氣光公式", "definition_cht": "描述大氣散射所產生視線亮度與目標對比衰減關係的數學表示式。"}, {"english": "airmass analysis", "traditional_chinese": "氣團分析", "definition_cht": "依氣團的溫濕特性、源地與移動路徑，分析其分布、邊界及對天氣的影響。"}, {"english": "airmass classification", "traditional_chinese": "氣團分類", "definition_cht": "按照氣團形成區、溫度與濕度特徵，將氣團區分為熱帶、極地、大陸性、海洋性等類型。"}, {"english": "airmass climatology", "traditional_chinese": "氣團氣候學", "definition_cht": "研究各類氣團在不同地區與季節出現頻率、路徑、轉變及其氣候意義的學科。"}, {"english": "airmass modification", "traditional_chinese": "氣團變質", "definition_cht": "氣團在移動過程中受下墊面加熱、冷卻、蒸發或地形影響而改變原有熱力與水氣性質的過程。"}, {"english": "airmass precipitation", "traditional_chinese": "氣團性降水", "definition_cht": "在單一氣團內因局地加熱、不穩定或地形抬升所形成，而非直接由鋒面觸發的降水。"}, {"english": "airmass shower", "traditional_chinese": "氣團性陣雨", "definition_cht": "發生於不穩定氣團內，由局地對流發展所造成的短時、間歇性陣雨。"}, {"english": "airmass source region", "traditional_chinese": "氣團源區", "definition_cht": "氣團形成並取得其主要熱力與水氣特徵的廣大下墊面區域。"}, {"english": "airplane observation", "traditional_chinese": "飛機觀測", "definition_cht": "以飛機為平台取得的氣象或環境觀測資料，為 aircraft observation 的常用同義稱。"}, {"english": "airport elevation", "traditional_chinese": "機場標高", "definition_cht": "機場基準點或主要跑道附近代表位置相對平均海平面的高度。"}, {"english": "airport forecast", "traditional_chinese": "機場預報", "definition_cht": "針對特定機場及其鄰近空域所發布的短期飛航空氣象預報，通常包括風、能見度、天氣與雲底高度。"}, {"english": "airshed model", "traditional_chinese": "氣域模式", "definition_cht": "將某地區視為污染物輸送與轉化之空氣盆地或氣域，模擬其排放、擴散、反應與沉降的數值模式。"}, {"english": "airspeed", "traditional_chinese": "空速", "definition_cht": "航空器相對周圍空氣的速度，是飛行性能與操縱的重要參數。"}, {"english": "airway", "traditional_chinese": "航路", "definition_cht": "供航空器依規定導航設施與程序飛行的空中通道。"}, {"english": "airways shelter", "traditional_chinese": "百葉觀測箱", "definition_cht": "用以保護溫度計或濕度計免受陽光直射與降水干擾，同時保持通風的標準氣象儀器遮蔽箱。"}, {"english": "Aitken dust counter", "traditional_chinese": "艾特肯塵粒計數器", "definition_cht": "早期用於估計空氣中凝結核或微粒數量的儀器，藉由觀察膨脹後凝結成霧滴的粒子數進行計數。"}, {"english": "Aitken nucleus", "traditional_chinese": "艾特肯凝結核", "definition_cht": "粒徑極小、可作為水氣凝結核心的氣膠粒子，通常指細粒徑凝結核族群。"}, {"english": "alarm level", "traditional_chinese": "警戒濃度", "definition_cht": "當觀測值達到某一預設門檻時，需啟動警報、管制或應變措施的臨界水準。"}, {"english": "Alaska Current", "traditional_chinese": "阿拉斯加洋流", "definition_cht": "北太平洋東北部沿阿拉斯加灣流動的暖流，為副極地環流的一部分。"}, {"english": "Alaskan Stream", "traditional_chinese": "阿拉斯加海流", "definition_cht": "沿阿留申群島南側向西流動的北太平洋強勁海流，與副極地環流密切相關。"}, {"english": "albedo", "traditional_chinese": "反照率", "definition_cht": "物體表面將入射短波輻射反射回去的比例，是地表輻射平衡的重要參數。"}, {"english": "albedometer", "traditional_chinese": "反照率計", "definition_cht": "同時量測向上與向下短波輻射，以求得地表或目標物反照率的儀器。"}, {"english": "Alberta clipper", "traditional_chinese": "亞伯達快移低壓", "definition_cht": "源自加拿大亞伯達省、移動快速且常帶來寒冷、陣風與降雪的中緯度低壓系統。"}, {"english": "Alberta low", "traditional_chinese": "亞伯達低壓", "definition_cht": "在加拿大亞伯達地區形成或增強的低壓系統，常為北美寒季天氣系統的重要一環。"}, {"english": "aldehydes", "traditional_chinese": "醛類", "definition_cht": "含有醛基的有機化合物族群，可由燃燒、光化學反應與生物排放產生，部分成員屬重要空氣污染物。"}, {"english": "Aleutian Current", "traditional_chinese": "阿留申洋流", "definition_cht": "北太平洋副極地環流中沿阿留申群島附近流動的海流分支。"}, {"english": "Aleutian low", "traditional_chinese": "阿留申低壓", "definition_cht": "冬季常駐於北太平洋阿留申群島附近的半永久性低壓中心，對北太平洋風暴路徑影響顯著。"}, {"english": "Alexander's dark band", "traditional_chinese": "亞歷山大暗帶", "definition_cht": "主虹與副虹之間因光線折射與反射分布造成相對較暗的天空帶。"}, {"english": "Alfvén wave", "traditional_chinese": "阿耳芬波", "definition_cht": "在磁化電漿中沿磁力線傳播的磁流體波，恢復力主要來自磁張力。"}, {"english": "Algerian Current", "traditional_chinese": "阿爾及利亞洋流", "definition_cht": "地中海南部沿阿爾及利亞岸外流動的海流，與地中海環流及水團交換有關。"}, {"english": "algorithm", "traditional_chinese": "演算法", "definition_cht": "為求解特定問題而設計的明確步驟與運算規則，在資料處理、遙測反演與數值模式中廣泛使用。"}, {"english": "aliasing", "traditional_chinese": "混疊", "definition_cht": "因取樣頻率不足或離散化限制，使高頻訊號誤映為較低頻或錯誤結構的現象。"}, {"english": "alidade", "traditional_chinese": "照準儀", "definition_cht": "用於測量方位角或瞄準目標方向的測繪與導航裝置。"}, {"english": "alimentation", "traditional_chinese": "補給作用", "definition_cht": "指系統獲得物質或能量供應的過程；於水文或冰川學中常指補注、補給或補充來源。"}, {"english": "Alisov's classification of climate", "traditional_chinese": "阿利索夫氣候分類", "definition_cht": "以行星風帶、氣團活動與環流型態為基礎所建立的氣候分類方法。"}, {"english": "alkalinity", "traditional_chinese": "鹼度", "definition_cht": "水體中中和酸的能力，主要與重碳酸鹽、碳酸鹽及氫氧根等鹼性成分有關。"}, {"english": "alkanes", "traditional_chinese": "烷類", "definition_cht": "僅含單鍵的飽和烴類，為大氣揮發性有機化合物的一類來源。"}, {"english": "alkenes", "traditional_chinese": "烯類", "definition_cht": "含有至少一個碳碳雙鍵的不飽和烴，反應性較高，常參與對流層光化學反應。"}, {"english": "alkylperoxy radicals", "traditional_chinese": "烷基過氧自由基", "definition_cht": "有機揮發物氧化過程中的重要中間產物，對臭氧生成與光化學煙霧演變具有關鍵作用。"}, {"english": "alkynes", "traditional_chinese": "炔類", "definition_cht": "含有至少一個碳碳三鍵的不飽和烴，為大氣化學中的有機痕量成分之一。"}, {"english": "All-hallown summer", "traditional_chinese": "萬聖暖期", "definition_cht": "秋季晚期短暫再現溫暖、晴朗天氣的一段期間，類似晚秋回暖現象。"}, {"english": "all-sky photometer", "traditional_chinese": "全天空光度計", "definition_cht": "可對整個天空半球進行亮度或輻射分布量測的光學儀器。"}, {"english": "all-weather airport", "traditional_chinese": "全天候機場", "definition_cht": "具備導航、照明與作業設施，可在較廣泛天氣條件下維持飛航起降運作的機場。"}, {"english": "Allard's law", "traditional_chinese": "阿拉德定律", "definition_cht": "描述光在大氣中傳播時，其強度隨距離及大氣消光共同衰減的關係定律。"}, {"english": "allerheiligenwind", "traditional_chinese": "萬聖風", "definition_cht": "中歐地區與萬聖節前後相關的地方性或節令性風名。"}, {"english": "allobaric", "traditional_chinese": "變壓的", "definition_cht": "與氣壓隨時間變化有關的；氣象上常指由氣壓變化所引起的風場分量或運動。"}, {"english": "allohypsography", "traditional_chinese": "海陸高程分布學", "definition_cht": "研究地球表面陸地高程與海洋深度面積分布特徵的學門。"}, {"english": "allowed transitions", "traditional_chinese": "允許躍遷", "definition_cht": "依量子力學選擇定則可發生、且發生機率相對較高的能階躍遷。"}, {"english": "alluvial", "traditional_chinese": "沖積的", "definition_cht": "由河流搬運與沉積作用形成或與之相關的地形、沉積物或土壤。"}, {"english": "alluvial aquifer", "traditional_chinese": "沖積含水層", "definition_cht": "由河流沖積沉積物構成、具有儲水與導水能力的地下含水地層。"}, {"english": "almanac", "traditional_chinese": "年鑑", "definition_cht": "按日、月或年編列天文、氣象、潮汐或曆法資料的參考出版物。"}, {"english": "Almeria–Oran front", "traditional_chinese": "阿爾梅里亞—奧蘭鋒", "definition_cht": "位於西地中海阿爾梅里亞與奧蘭一帶海域的海洋鋒面或水團交界帶。"}, {"english": "almwind", "traditional_chinese": "高山牧場風", "definition_cht": "阿爾卑斯山區與高山草場地帶相關的地方性風名，通常受山谷與坡面熱力差異控制。"}, {"english": "aloegoe", "traditional_chinese": "阿洛戈風", "definition_cht": "特定地區使用的地方風名，指具有區域性來源與季節特徵的局地風。"}, {"english": "along-slope wind systems", "traditional_chinese": "沿坡風系", "definition_cht": "受山坡加熱與冷卻所驅動，沿坡面向上或向下流動的局地風系總稱。"}, {"english": "along-valley wind systems", "traditional_chinese": "沿谷風系", "definition_cht": "在山谷地形中受熱力與壓力梯度影響，沿谷軸方向形成的日夜局地環流系統。"}, {"english": "along-valley winds", "traditional_chinese": "沿谷風", "definition_cht": "沿山谷主軸吹送的局地風，常表現為白天上谷風與夜間下谷風。"}, {"english": "aloup de vent", "traditional_chinese": "阿盧風", "definition_cht": "地方性風名，指某特定地區依地形與季節而出現的局地風。"}, {"english": "alpenglow", "traditional_chinese": "高山霞光", "definition_cht": "日出前或日落後，高山或高雲因太陽低角度散射而呈現紅、橙色輝光的現象。"}, {"english": "alpha particle", "traditional_chinese": "α粒子", "definition_cht": "由兩個質子與兩個中子組成的帶正電粒子，為某些放射性衰變所釋出的粒子。"}, {"english": "alpha ray", "traditional_chinese": "α射線", "definition_cht": "由放射性物質放出、實質上由 α 粒子組成的電離輻射。"}, {"english": "alpine glacier", "traditional_chinese": "高山冰川", "definition_cht": "發育於山區谷地或山坡上的冰川，其流動與形態受地形強烈控制。"}, {"english": "alpine tundra", "traditional_chinese": "高山凍原", "definition_cht": "位於高海拔樹木生長上限以上、植被低矮且生長季短的寒冷生態環境。"}, {"english": "Alter shield", "traditional_chinese": "奧特防風罩", "definition_cht": "裝設於降水量器周圍，用以減少風對降水收集效率影響的防風裝置。"}, {"english": "alternate airport", "traditional_chinese": "備降機場", "definition_cht": "當原定目的地或起降機場無法安全使用時，可供航空器改降的替代機場。"}, {"english": "alternate forecast", "traditional_chinese": "備降預報", "definition_cht": "針對備降機場所發布的航空氣象預報，用於飛航計畫與備援決策。"}, {"english": "alternating unit tensor", "traditional_chinese": "交替單位張量", "definition_cht": "在向量與張量分析中用以表示完全反對稱性質的單位張量，亦常稱 Levi-Civita 張量。"}, {"english": "alti-electrograph", "traditional_chinese": "高度電記儀", "definition_cht": "以電性方式自動記錄高度變化的儀器。"}, {"english": "altigraph", "traditional_chinese": "高度記錄儀", "definition_cht": "能連續記錄高度或高度變化的儀器。"}, {"english": "altimeter", "traditional_chinese": "高度計", "definition_cht": "用於測定相對某一基準面的高度之儀器，航空上常依氣壓推算飛行高度。"}, {"english": "altimeter corrections", "traditional_chinese": "高度計修正", "definition_cht": "為消除氣壓、高度、溫度或儀器誤差對高度計讀值的影響而施加的修正量。"}, {"english": "altimeter equation", "traditional_chinese": "測高方程式", "definition_cht": "描述氣壓隨高度變化並用以由壓力推算高度的方程式。"}, {"english": "altimeter setting", "traditional_chinese": "高度計撥定值", "definition_cht": "為使航空器高度計在特定基準條件下顯示所需高度而設定的參考氣壓值。"}, {"english": "altimeter-setting indicator", "traditional_chinese": "高度計撥定指示器", "definition_cht": "顯示或設定高度計基準氣壓值的裝置或指示部分。"}, {"english": "altimetry", "traditional_chinese": "測高學", "definition_cht": "量測地表、海面、雲頂或飛行體高度及其變化的技術與學科。"}, {"english": "altithermal period", "traditional_chinese": "高溫期", "definition_cht": "全新世早中期某些地區氣候較現代顯著偏暖的時段。"}, {"english": "altitude", "traditional_chinese": "高度", "definition_cht": "某一位置相對於指定基準面，如平均海平面或地面的垂直距離。"}, {"english": "altocumulus", "traditional_chinese": "高積雲", "definition_cht": "中層雲的一類，通常呈塊狀、片狀或波狀分布，雲體多帶有白與灰的明暗變化。"}, {"english": "altostratus", "traditional_chinese": "高層雲", "definition_cht": "中層層狀雲，常呈灰或藍灰色均勻雲幕，可覆蓋大範圍天空並使日月輪廓模糊。"}, {"english": "aluminum oxide humidity element", "traditional_chinese": "氧化鋁濕度感測元件", "definition_cht": "利用氧化鋁薄膜吸附水氣後電性改變來量測濕度的感測元件。"}, {"english": "ambient air", "traditional_chinese": "周遭空氣", "definition_cht": "某地點自然存在、未受局部採樣系統或製程改變的外界空氣。"}, {"english": "ambient pressure", "traditional_chinese": "環境壓力", "definition_cht": "物體或系統周圍外界介質所施加的壓力。"}, {"english": "ambient temperature", "traditional_chinese": "環境溫度", "definition_cht": "物體或儀器所在周圍介質的溫度，通常指外部環境的實際溫度。"}, {"english": "ambiguity function", "traditional_chinese": "模糊函數", "definition_cht": "描述訊號或量測系統在時延、頻移或空間定位上可分辨能力與不確定性的函數。"}, {"english": "ammonia", "traditional_chinese": "氨", "definition_cht": "化學式 NH3 的鹼性氣體，來自農業、工業與生物分解，為大氣氮循環與氣膠生成的重要前驅物。"}, {"english": "ammonification", "traditional_chinese": "氨化作用", "definition_cht": "有機含氮物質經微生物分解轉化為氨或銨鹽的生物地球化學過程。"}, {"english": "ammonium chloride", "traditional_chinese": "氯化銨", "definition_cht": "由氨與氯化氫反應可形成的銨鹽，亦可存在於大氣細懸浮微粒中。"}, {"english": "ammonium ion", "traditional_chinese": "銨離子", "definition_cht": "化學式 NH4+ 的帶正電離子，常存在於降水、氣膠與土壤溶液中。"}, {"english": "ammonium nitrate", "traditional_chinese": "硝酸銨", "definition_cht": "由氨與硝酸形成的銨鹽，是大氣細懸浮微粒的重要二次無機成分之一。"}, {"english": "ammonium sulfate", "traditional_chinese": "硫酸銨", "definition_cht": "由氨中和硫酸所形成的銨鹽，為大氣二次氣膠的重要組成。"}, {"english": "amorphous clouds", "traditional_chinese": "無定形雲", "definition_cht": "外形不明顯、缺乏固定輪廓或結構特徵的雲。"}, {"english": "amorphous frost", "traditional_chinese": "無定形霜", "definition_cht": "未形成明顯晶體幾何形狀、呈鬆散或不規則外觀的霜層。"}, {"english": "amorphous sky", "traditional_chinese": "無定形天空", "definition_cht": "天空雲層或亮度分布缺乏清楚紋理與形狀區分的狀態。"}, {"english": "amount of precipitation", "traditional_chinese": "降水量", "definition_cht": "在一定時間內降落至地面之液態與固態降水折算成水深的總量。"}, {"english": "amphidrome", "traditional_chinese": "無潮點", "definition_cht": "潮汐振幅接近零，且潮波相位圍繞其作旋轉分布的海域中心點。"}, {"english": "amplitude", "traditional_chinese": "振幅", "definition_cht": "週期或波動量相對其平衡值或平均值所達最大偏離量。"}, {"english": "amplitude modulation", "traditional_chinese": "振幅調變", "definition_cht": "以訊號改變載波振幅而保持頻率基本不變的調變方式。"}, {"english": "amplitude spectrum", "traditional_chinese": "振幅譜", "definition_cht": "將訊號分解至各頻率成分後，表示各頻率振幅大小的頻譜分布。"}, {"english": "amplitude-modulated indicator", "traditional_chinese": "振幅調變指示器", "definition_cht": "利用振幅調變原理進行顯示、識別或量測的裝置。"}, {"english": "Amsu", "traditional_chinese": "先進微波探測單元", "definition_cht": "Advanced Microwave Sounding Unit 的簡稱，為衛星上用於探測大氣溫度與濕度垂直結構的微波遙測儀器。"}, {"english": "anabatic", "traditional_chinese": "上坡的", "definition_cht": "指沿山坡向上移動的氣流或與此相關的熱力現象。"}, {"english": "anabatic wind", "traditional_chinese": "上坡風", "definition_cht": "白天地表受熱後，近坡面空氣增暖而沿山坡向上吹送的局地風。"}, {"english": "Anadyr Current", "traditional_chinese": "阿納德爾洋流", "definition_cht": "白令海或其鄰近海域中與阿納德爾地區相關的寒流系統。"}, {"english": "anaerobic condition", "traditional_chinese": "厭氧條件", "definition_cht": "缺乏游離氧或氧濃度極低，以致生物與化學過程在無氧環境下進行的狀態。"}, {"english": "anafront", "traditional_chinese": "上滑鋒", "definition_cht": "鋒面附近暖空氣沿鋒面向上滑升，主要雲雨區位於鋒面後側或近鋒區的鋒面型態。"}, {"english": "anallobaric", "traditional_chinese": "無變壓性的", "definition_cht": "不伴隨顯著氣壓時間變化，或與變壓效應無關的。"}, {"english": "analog", "traditional_chinese": "類比", "definition_cht": "以連續變化形式表示資訊或以相似關係對應另一現象的表示方式。"}, {"english": "analog climate model", "traditional_chinese": "類比氣候模式", "definition_cht": "利用歷史上與目標狀態相似的大氣或海洋型態，推估氣候演變或異常的經驗式方法。"}, {"english": "analog method", "traditional_chinese": "類比法", "definition_cht": "尋找過去與當前狀況相似的個例，據以推估未來天氣或環境變化的預報方法。"}, {"english": "analog model", "traditional_chinese": "類比模式", "definition_cht": "以不同但數學性質相似的系統模擬目標系統行為的模型。"}, {"english": "analogs", "traditional_chinese": "類比個例", "definition_cht": "在分析或預報中，用來對照當前情況的歷史相似案例集合。"}, {"english": "analogue", "traditional_chinese": "類比", "definition_cht": "analog 的英式拼法，指性質相似可供對照或連續式表示的對象。"}, {"english": "analysis", "traditional_chinese": "分析", "definition_cht": "將觀測、理論與模式資訊加以整合，以描述某時刻或某區域大氣、海洋或環境狀態的作業與結果。"}, {"english": "analysis of variance", "traditional_chinese": "變異數分析", "definition_cht": "比較不同群組平均值差異是否顯著的統計方法，以總變異分解為不同來源成分。"}, {"english": "analyzed chart", "traditional_chinese": "分析圖", "definition_cht": "經過資料整併與專家或客觀分析程序後繪製的氣象、海洋或環境場圖。"}, {"english": "anchor balloon", "traditional_chinese": "繫留氣球", "definition_cht": "以纜繩固定於地面或船上的氣球，用以觀測近地層風、溫度或其他大氣要素。"}, {"english": "anchor ice", "traditional_chinese": "底著冰", "definition_cht": "在河床、湖底或水中物體表面形成並附著其上的冰。"}, {"english": "anelastic approximation", "traditional_chinese": "非彈性近似", "definition_cht": "在流體力學中忽略聲波傳播、保留密度垂直變化對浮力影響的近似，可用於大氣與海洋緩變流動。"}, {"english": "anemoclinometer", "traditional_chinese": "風傾角儀", "definition_cht": "量測風向垂直傾角或氣流偏斜角度的儀器。"}, {"english": "anemometer", "traditional_chinese": "風速計", "definition_cht": "用於量測風速大小的儀器，可分為杯式、螺旋槳式、超音波式等多種類型。"}, {"english": "anemometer level", "traditional_chinese": "風速計高度", "definition_cht": "安裝風速計以進行標準觀測的離地高度。"}, {"english": "anemometry", "traditional_chinese": "測風學", "definition_cht": "關於風速、風向及其量測技術、儀器與理論的學門。"}, {"english": "anemoscope", "traditional_chinese": "風向儀", "definition_cht": "用於指示風向變化的裝置，通常不直接量測風速。"}, {"english": "anemovane", "traditional_chinese": "風向風速儀", "definition_cht": "可同時量測風向與風速的組合式儀器。"}, {"english": "aneroid", "traditional_chinese": "空盒式氣壓儀元件", "definition_cht": "利用彈性金屬盒受外界氣壓變化而伸縮的原理進行量測的儀器元件或裝置。"}, {"english": "aneroid barograph", "traditional_chinese": "空盒自記氣壓計", "definition_cht": "以空盒感壓元件連續記錄氣壓隨時間變化的儀器。"}, {"english": "aneroid barometer", "traditional_chinese": "空盒氣壓計", "definition_cht": "以抽空金屬盒受壓變形測量大氣壓力的氣壓計，不需使用水銀。"}, {"english": "aneroid capsule", "traditional_chinese": "空盒囊", "definition_cht": "空盒氣壓計中對壓力變化敏感的密封彈性金屬囊。"}, {"english": "angel", "traditional_chinese": "天使回波", "definition_cht": "雷達上由昆蟲、鳥群、湍流或折射率不均勻體造成的非降水弱回波。"}, {"english": "angin", "traditional_chinese": "安金風", "definition_cht": "地方性風名，通常指東南亞語境中的某類局地風或一般風之稱。"}, {"english": "angle of arrival", "traditional_chinese": "到達角", "definition_cht": "波動、訊號或粒子到達接收面時，相對某基準方向的入射方向角。"}, {"english": "angle of incidence", "traditional_chinese": "入射角", "definition_cht": "入射光線、波束或粒子方向與界面法線之間的夾角。"}, {"english": "angle of reflection", "traditional_chinese": "反射角", "definition_cht": "反射光線或波束方向與界面法線之間的夾角。"}, {"english": "angle of refraction", "traditional_chinese": "折射角", "definition_cht": "折射光線或波束方向與界面法線之間的夾角。"}, {"english": "Angola Current", "traditional_chinese": "安哥拉洋流", "definition_cht": "非洲西南岸安哥拉附近向南流動的暖流，與本格拉海流系統互動明顯。"}, {"english": "Angola–Benguela front", "traditional_chinese": "安哥拉—本格拉鋒", "definition_cht": "安哥拉暖流與本格拉寒流交會形成的海洋鋒面，伴隨明顯溫鹽梯度與生態差異。"}, {"english": "angstrom", "traditional_chinese": "埃", "definition_cht": "長度單位，等於 10^-10 公尺，常用於表示分子尺度或光波長。"}, {"english": "angular drift", "traditional_chinese": "角漂移", "definition_cht": "方向或角位置隨時間逐漸偏移的現象。"}, {"english": "angular momentum", "traditional_chinese": "角動量", "definition_cht": "物體繞某軸旋轉運動所具有的動量量度，與質量分布、速度及轉軸位置有關。"}, {"english": "angular resolution", "traditional_chinese": "角解析度", "definition_cht": "儀器、感測器或觀測系統區分兩個鄰近方向目標的最小角距能力。"}, {"english": "angular spreading", "traditional_chinese": "角向展寬", "definition_cht": "波束、輻射或粒子群在傳播中於角度方向擴散變寬的現象。"}, {"english": "angular velocity", "traditional_chinese": "角速度", "definition_cht": "物體繞軸旋轉時，單位時間內轉角變化的速率。"}, {"english": "angular velocity of the earth", "traditional_chinese": "地球角速度", "definition_cht": "地球自轉的角速度，是科氏力與地轉運動理論中的基本常數。"}, {"english": "angular wavenumber", "traditional_chinese": "角波數", "definition_cht": "以弧度表示之波數，通常等於 2π 除以波長。"}, {"english": "angular-momentum balance", "traditional_chinese": "角動量平衡", "definition_cht": "系統中角動量的輸送、生成與耗散達成守恆或收支平衡的關係。"}, {"english": "angular-spreading factor", "traditional_chinese": "角向展寬因子", "definition_cht": "量化波束或輻射在角度方向擴散程度的參數。"}, {"english": "angularity correction", "traditional_chinese": "角度修正", "definition_cht": "為補償量測系統在不同入射或觀測角度下響應差異而施加的訂正。"}, {"english": "anhyetism", "traditional_chinese": "少雨性", "definition_cht": "某地區在氣候上呈現降水偏少或乾旱傾向的特性。"}, {"english": "anisotropic", "traditional_chinese": "各向異性的", "definition_cht": "物理性質隨方向不同而改變的。"}, {"english": "anisotropy", "traditional_chinese": "各向異性", "definition_cht": "介質或場的性質對不同方向呈現不同強度或行為的特徵。"}, {"english": "anniversary winds", "traditional_chinese": "周年風", "definition_cht": "在每年大致相同日期或季節規律出現的地方性風現象。"}, {"english": "annual cycle", "traditional_chinese": "年週期", "definition_cht": "氣象或環境變數隨季節變化而在一年內重複出現的週期性變動。"}, {"english": "annual exceedance series", "traditional_chinese": "年超越序列", "definition_cht": "依每年超過某一門檻值的事件或極值所建立的統計序列。"}, {"english": "annual flood", "traditional_chinese": "年洪水", "definition_cht": "某一年內發生的代表性洪峰，常指該年最大洪水事件。"}, {"english": "annual flood series", "traditional_chinese": "年洪水序列", "definition_cht": "由各年份代表洪水值，如年最大洪峰流量，所組成的水文統計序列。"}, {"english": "annual maximum series", "traditional_chinese": "年最大值序列", "definition_cht": "每年取單一最大觀測值而形成的統計序列，常用於極值分析。"}, {"english": "annual minimum series", "traditional_chinese": "年最小值序列", "definition_cht": "每年取單一最小觀測值而形成的統計序列。"}, {"english": "annual range", "traditional_chinese": "年較差", "definition_cht": "某一氣象要素在一年內最高值與最低值之差，或最暖月與最冷月平均值之差。"}, {"english": "annual runoff", "traditional_chinese": "年逕流量", "definition_cht": "流域在一年期間內流出之總逕流量，常以水深或體積表示。"}, {"english": "annual series", "traditional_chinese": "年序列", "definition_cht": "按年取樣或彙整而成的資料序列。"}, {"english": "annual storage", "traditional_chinese": "年蓄水量", "definition_cht": "在一年尺度上水庫、土壤、雪冰或地下水系統所儲存之水量，或其年變化。"}, {"english": "anomalous", "traditional_chinese": "異常的", "definition_cht": "顯著偏離氣候平均、常態分布或預期行為的。"}, {"english": "anomalous propagation", "traditional_chinese": "異常傳播", "definition_cht": "電磁波因大氣折射率垂直分布異常而產生超折射、導波或波束彎折，致使傳播路徑偏離正常情況的現象。"}, {"english": "anomalous refraction", "traditional_chinese": "異常折射", "definition_cht": "由大氣折射率異常梯度引起之光波或電磁波折射偏差現象。"}, {"english": "Anomaly", "traditional_chinese": "距平", "definition_cht": "某一觀測值相對於長期平均、基準值或理論值的偏差。"}, {"english": "anomaly correlation", "traditional_chinese": "距平相關係數", "definition_cht": "以預報場與分析場相對各自氣候平均之偏差進行比較所得的相關指標，常用於評估數值預報技巧。"}, {"english": "antarctic air", "traditional_chinese": "南極氣團", "definition_cht": "源自南極冰原或其周邊高緯地區、極冷且通常乾燥穩定的空氣。"}, {"english": "antarctic anticyclone", "traditional_chinese": "南極高壓", "definition_cht": "覆蓋南極高原並由強烈輻射冷卻維持的高壓系統。"}, {"english": "Antarctic Bottom Water", "traditional_chinese": "南極底層水", "definition_cht": "在南極沿岸形成、密度極高並下沉至全球海洋深底層的水團，是深層海洋環流的重要組成。"}, {"english": "Antarctic Circle", "traditional_chinese": "南極圈", "definition_cht": "南緯約 66.5 度的緯線，為南極地區極晝與極夜現象的天文界線。"}, {"english": "Antarctic Circumpolar Current", "traditional_chinese": "南極繞極流", "definition_cht": "環繞南極洲、由西向東流動且幾乎無陸地阻隔的全球最強海流系統。"}, {"english": "antarctic divergence", "traditional_chinese": "南極輻散", "definition_cht": "南極高原附近近地層冷空氣向四周外流所形成的水平輻散帶。"}, {"english": "antarctic front", "traditional_chinese": "南極鋒", "definition_cht": "南極周邊高緯海域中冷暖水團或氣團之間的顯著交界帶。"}, {"english": "Antarctic Ice Sheet", "traditional_chinese": "南極冰蓋", "definition_cht": "覆蓋南極大陸的大規模永久冰體，為地球最大的冰儲存體。"}, {"english": "Antarctic Intermediate Water", "traditional_chinese": "南極中層水", "definition_cht": "形成於南大洋並向北擴散至中層海洋的低鹽水團，為全球海洋中層環流的重要成分。"}, {"english": "antarctic ozone hole", "traditional_chinese": "南極臭氧洞", "definition_cht": "南極春季平流層臭氧柱總量大幅減少所形成的區域性臭氧稀薄現象。"}, {"english": "Antarctic Polar Front", "traditional_chinese": "南極極鋒", "definition_cht": "南大洋中南極冷水與較暖副南極水團之間的重要海洋鋒面。"}, {"english": "antarctic sea smoke", "traditional_chinese": "南極海煙", "definition_cht": "極冷空氣流過較暖開放水面時，強烈蒸發與凝結形成貼近海面的霧狀蒸氣。"}, {"english": "antarctic stratospheric vortex", "traditional_chinese": "南極平流層極渦", "definition_cht": "冬春季圍繞南極平流層形成的強大環狀西風渦旋，與臭氧洞演變密切相關。"}, {"english": "Antarctic Surface Water", "traditional_chinese": "南極表層水", "definition_cht": "分布於南大洋高緯表層、受海冰與季節性熱鹽交換影響顯著的水團。"}, {"english": "Antarctic Zone", "traditional_chinese": "南極帶", "definition_cht": "位於南極鋒以南、具有南極特徵氣候與海洋條件的高緯區域。"}, {"english": "antecedent", "traditional_chinese": "先行的", "definition_cht": "在時間上先於某事件或狀態而發生，並可能對後續過程產生影響的。"}, {"english": "antecedent precipitation index", "traditional_chinese": "前期降水指數", "definition_cht": "依先前一段時間降水量及其遞減權重估計流域或土壤濕潤程度的指標。"}, {"english": "antecedent soil moisture", "traditional_chinese": "前期土壤濕度", "definition_cht": "某次降雨或事件發生前，土壤中已存在的含水狀態。"}, {"english": "antenna", "traditional_chinese": "天線", "definition_cht": "用於發射或接收電磁波的裝置，是雷達、通訊與遙測系統的核心元件。"}, {"english": "antenna feed", "traditional_chinese": "天線饋源", "definition_cht": "將訊號輸送至天線輻射體，或由天線接收後導回系統的饋入裝置。"}, {"english": "antenna gain", "traditional_chinese": "天線增益", "definition_cht": "衡量天線將能量集中於特定方向能力的指標，通常相對於理想基準天線表示。"}, {"english": "antenna limit", "traditional_chinese": "天線極限", "definition_cht": "天線系統在方向掃描、功率、靈敏度或幾何配置上所能達到的操作界限。"}, {"english": "antenna pattern", "traditional_chinese": "天線方向圖", "definition_cht": "描述天線輻射或接收能力隨方向變化的角度分布圖形。"}, {"english": "antenna temperature", "traditional_chinese": "天線溫度", "definition_cht": "以等效溫度表示天線所接收背景輻射能量強度的量，常用於微波遙測與射電觀測。"}, {"english": "anthelic arcs", "traditional_chinese": "反日弧", "definition_cht": "圍繞反日點附近、由冰晶反射或折射形成的一組罕見大氣光象弧。"}, {"english": "anthelion", "traditional_chinese": "反日點光斑", "definition_cht": "出現在天空反日點附近的亮斑光象，常與冰晶或粒子散射有關。"}, {"english": "anthropoclimatology", "traditional_chinese": "人類氣候學", "definition_cht": "研究氣候條件對人類健康、活動、居住與社會適應影響的學科。"}, {"english": "anthropogenic", "traditional_chinese": "人為的", "definition_cht": "由人類活動直接或間接造成的。"}, {"english": "anthropogenic climate change", "traditional_chinese": "人為氣候變遷", "definition_cht": "主要由溫室氣體排放、土地利用改變與氣膠排放等人類活動驅動的氣候系統長期變化。"}, {"english": "anthropogenic emissions", "traditional_chinese": "人為排放", "definition_cht": "由工業、能源、交通、農業及其他人類活動排入大氣的污染物或溫室氣體。"}, {"english": "anthropogenic heat", "traditional_chinese": "人為熱", "definition_cht": "由建築、交通、工業及能源使用釋放至環境中的熱量，常為都市熱島的重要來源。"}, {"english": "anti-icing", "traditional_chinese": "防冰", "definition_cht": "在冰形成之前採取加熱、塗層或化學處理等措施，以防止表面結冰。"}, {"english": "anti-sea breeze", "traditional_chinese": "反海風", "definition_cht": "與正常海風方向相反的近岸局地風，通常在特殊壓力場或地形條件下出現。"}, {"english": "anticrepuscular rays", "traditional_chinese": "反曙暮光束", "definition_cht": "在天空反太陽方向因透視效應看似匯聚的光束與暗影帶，實際上與曙暮光束近乎平行。"}, {"english": "anticyclogenesis", "traditional_chinese": "反氣旋生成", "definition_cht": "高壓或反氣旋環流形成、發展或增強的過程。"}, {"english": "anticyclolysis", "traditional_chinese": "反氣旋消散", "definition_cht": "反氣旋或高壓系統減弱、瓦解或消失的過程。"}, {"english": "anticyclone", "traditional_chinese": "反氣旋", "definition_cht": "以高壓中心為特徵、在北半球呈順時針、南半球呈逆時針旋轉的天氣系統，通常伴隨下沉與較穩定天氣。"}, {"english": "anticyclonic", "traditional_chinese": "反氣旋性的", "definition_cht": "具有反氣旋旋轉方向或與高壓環流相關性質的。"}, {"english": "anticyclonic circulation", "traditional_chinese": "反氣旋環流", "definition_cht": "圍繞高壓中心的環狀流動型態，在北、南半球旋轉方向相反。"}, {"english": "anticyclonic rotation", "traditional_chinese": "反氣旋式旋轉", "definition_cht": "與反氣旋環流一致的旋轉方向；北半球為順時針，南半球為逆時針。"}, {"english": "anticyclonic shear", "traditional_chinese": "反氣旋式切變", "definition_cht": "速度場或風場中具有促成反氣旋性渦度之水平切變分布。"}, {"english": "antihail rocket", "traditional_chinese": "防雹火箭", "definition_cht": "用於人工影響天氣作業、向對流雲播撒試劑以抑制冰雹形成或減小雹徑的火箭。"}, {"english": "Antilles Current", "traditional_chinese": "安地列斯洋流", "definition_cht": "西北大西洋安地列斯群島外海沿岸流動的暖流，為北大西洋副熱帶環流的一部分。"}, {"english": "antilog", "traditional_chinese": "反對數", "definition_cht": "與某對數值相對應的原數，即對數運算的逆運算結果。"}, {"english": "Antineutron", "traditional_chinese": "反中子", "definition_cht": "中子的反粒子，具有與中子相同質量但相反的重子數等量子性質。"}, {"english": "Antiparticle", "traditional_chinese": "反粒子", "definition_cht": "與某基本粒子質量相同而電荷及其他量子數相反的粒子。"}, {"english": "antipleion", "traditional_chinese": "反普列昂現象", "definition_cht": "與普列昂現象相反的特殊氣象光學或輻射觀測表徵，使用上多依原始專門文獻語境界定。"}, {"english": "antiproton", "traditional_chinese": "反質子", "definition_cht": "質子的反粒子，帶一單位負電荷而質量與質子相同。"}, {"english": "antisolar point", "traditional_chinese": "反日點", "definition_cht": "天空中與太陽方向相對、位於觀測者視野球面上正對太陽的位置，為多種大氣光象的幾何基準點。"}, {"english": "antitrades", "traditional_chinese": "反信風", "definition_cht": "指熱帶對流層上部與信風方向相反的高空氣流，通常自赤道附近流向副熱帶，為哈德里環流上層分支的一部分。"}, {"english": "antitwilight arch", "traditional_chinese": "反曙暮光弧", "definition_cht": "出現在與太陽相對方向地平附近的淡色弧狀光帶，由大氣散射造成，常見於曙暮光時段並位於地球影之上。"}, {"english": "Anvil", "traditional_chinese": "鐵砧雲頂", "definition_cht": "指強烈積雨雲頂部在接近對流層頂時向下風方向水平擴展而形成的砧狀雲體。"}, {"english": "anvil cloud", "traditional_chinese": "砧狀雲", "definition_cht": "指積雨雲上部受穩定層抑制而向外平展形成的砧形雲區，常與深對流及雷暴活動相關。"}, {"english": "AP", "traditional_chinese": "假性回波", "definition_cht": "為 radar anomalous propagation 的縮寫，指雷達波因異常折射而偵測到地物或非降水目標所產生的虛假回波。"}, {"english": "Ap index", "traditional_chinese": "Ap 地磁指數", "definition_cht": "由全球多個觀測站 Kp 指數換算而得的行星尺度地磁活動指數，用以表示某日地磁擾動的平均強度。"}, {"english": "apaapaa", "traditional_chinese": "阿帕阿帕風", "definition_cht": "夏威夷地區對特定局地風的傳統名稱，實際性質與風向須依地方用法與地形背景判定。"}, {"english": "aperiodic", "traditional_chinese": "非週期的", "definition_cht": "指現象或訊號不具有固定重複週期，其變化不遵循規則循環。"}, {"english": "aperture", "traditional_chinese": "孔徑", "definition_cht": "儀器或天線接收、發射能量的有效開口尺寸，會影響解析度、方向性與通量。"}, {"english": "aperwind", "traditional_chinese": "乾熱山風", "definition_cht": "南非地區對一種乾燥、溫暖且由內陸吹向海岸的離岸風之名稱，常伴隨焚風式增溫與低濕度。"}, {"english": "aphelion", "traditional_chinese": "遠日點", "definition_cht": "地球或其他天體在繞太陽運行軌道上距太陽最遠的位置。"}, {"english": "Apheliotes", "traditional_chinese": "東風", "definition_cht": "古典氣象中對東風的名稱，用於傳統風向分類。"}, {"english": "apob", "traditional_chinese": "高空觀測速報", "definition_cht": "一種與高空氣象觀測有關的資料或電碼縮寫，常用於航空或氣象通報；實際意義須依作業系統定義判讀。"}, {"english": "apocenter", "traditional_chinese": "遠心點", "definition_cht": "天體在繞行另一中心天體之軌道上距中心最遠的位置；若中心為地球則稱遠地點，為太陽則稱遠日點。"}, {"english": "apogean tide", "traditional_chinese": "遠地點潮", "definition_cht": "月球位於遠地點附近時所出現的潮汐，其潮差通常較近地點潮為小。"}, {"english": "apogean winds", "traditional_chinese": "遠地點風", "definition_cht": "與月球位於遠地點時大氣潮汐效應相關的微弱週期性風場變化。"}, {"english": "apogee", "traditional_chinese": "遠地點", "definition_cht": "天體繞地球運行時距地球最遠的位置。"}, {"english": "apparent force", "traditional_chinese": "表觀力", "definition_cht": "在非慣性參考系中因座標系本身運動而引入的虛擬力，如科氏力與離心力。"}, {"english": "apparent gravity", "traditional_chinese": "視重力", "definition_cht": "觀測者在地球自轉座標系內感受到的有效重力，為真重力與離心力合成後的結果。"}, {"english": "apparent groundwater velocity", "traditional_chinese": "表觀地下水流速", "definition_cht": "以總流量除以含水層整體截面積所估得的地下水速度，未扣除孔隙率影響，通常小於實際孔隙水流速。"}, {"english": "apparent horizon", "traditional_chinese": "視地平", "definition_cht": "觀測者所見天空與地表或海面相接的界線，其位置可能受地形、折射與觀測高度影響。"}, {"english": "apparent solar day", "traditional_chinese": "視太陽日", "definition_cht": "以真太陽連續兩次通過同一子午線的時間間隔定義的一日，其長度因地球軌道偏心與黃赤交角而略有變化。"}, {"english": "apparent stress", "traditional_chinese": "表觀應力", "definition_cht": "依整體外力與總截面積估算之應力，未考慮材料內部實際受力分布的非均勻性。"}, {"english": "Applications Technology Satellite", "traditional_chinese": "應用技術衛星", "definition_cht": "美國早期一系列實驗性衛星，用於通訊、遙測及氣象觀測等太空應用技術測試。"}, {"english": "applied climatology", "traditional_chinese": "應用氣候學", "definition_cht": "研究如何將氣候資料與氣候知識應用於農業、水資源、工程、健康、能源及風險管理等實務領域的學科。"}, {"english": "applied hydrology", "traditional_chinese": "應用水文學", "definition_cht": "將水文原理用於洪水預報、水資源規劃、排水設計、灌溉與流域管理等實務問題的學科。"}, {"english": "applied meteorology", "traditional_chinese": "應用氣象學", "definition_cht": "將氣象觀測、分析與預報知識應用於航空、農業、能源、環境、災防與工程等實務領域的學科。"}, {"english": "approach channel", "traditional_chinese": "進港航道", "definition_cht": "船舶自外海進入港口或河口時所使用的導引水道，常受潮汐、流速與泥沙淤積影響。"}, {"english": "approach velocity", "traditional_chinese": "接近流速", "definition_cht": "流體進入結構物、量測面或控制斷面前的代表性來流速度。"}, {"english": "approach visibility", "traditional_chinese": "進場能見度", "definition_cht": "航空器進場階段沿飛航路徑可辨識跑道、燈光或地面參考物的能見條件。"}, {"english": "approach-light contact height", "traditional_chinese": "進場燈初見高度", "definition_cht": "飛機進場時首次目視辨識跑道進場燈系的高度，用於評估低能見度著陸條件。"}, {"english": "APT", "traditional_chinese": "自動圖片傳輸", "definition_cht": "automatic picture transmission 的縮寫，指氣象衛星以類比方式即時傳送雲圖或影像資料的系統。"}, {"english": "aquiclude", "traditional_chinese": "隔水層", "definition_cht": "可儲水但幾乎不透水的地層，難以有效傳導地下水。"}, {"english": "aquifer", "traditional_chinese": "含水層", "definition_cht": "具有足夠孔隙與滲透性，可儲存並傳導可利用地下水的地質層體。"}, {"english": "aquifer system", "traditional_chinese": "含水層系統", "definition_cht": "由多個含水層及其間隔水或弱透水層所組成、在水文上相互關聯的地下水系統。"}, {"english": "aquifer test", "traditional_chinese": "含水層試驗", "definition_cht": "透過抽水、注水或觀測水位反應以估算含水層傳導係數、儲水係數等水文參數的試驗。"}, {"english": "aquifuge", "traditional_chinese": "絕對隔水層", "definition_cht": "既不含有可排出地下水、亦幾乎不透水的地層。"}, {"english": "aquitard", "traditional_chinese": "弱透水層", "definition_cht": "透水性低於含水層、能延緩但非完全阻止地下水流動的地層。"}, {"english": "aracaty", "traditional_chinese": "阿拉卡蒂風", "definition_cht": "巴西東北部沿岸地區對一種局地風的名稱，常與海陸風或區域壓力場配置有關。"}, {"english": "Arago distance", "traditional_chinese": "阿拉戈距", "definition_cht": "大氣光學中描述偏振現象幾何位置的量，與阿拉戈中性點的位置分析有關。"}, {"english": "Arago point", "traditional_chinese": "阿拉戈中性點", "definition_cht": "天空偏振場中線偏振度為零的中性點之一，通常出現在反太陽方向附近。"}, {"english": "Arakawa Jacobian", "traditional_chinese": "荒川雅可比算子", "definition_cht": "數值模式中常用的離散 Jacobian 形式，可較好守恆能量與渦度，廣泛應用於大氣與海洋模式。"}, {"english": "arc cloud", "traditional_chinese": "弧雲", "definition_cht": "位於雷暴冷出流前緣、呈弧形或滾軸狀的低雲，常為架狀雲或卷軸雲的一種外觀描述。"}, {"english": "Arc discharge", "traditional_chinese": "弧光放電", "definition_cht": "電流穿越氣體介質時形成持續高溫發光電弧的放電現象。"}, {"english": "Arched squall", "traditional_chinese": "弓形颮線", "definition_cht": "在天氣圖或雷達上呈弓狀外凸的颮線或對流線，常與強陣風、下擊暴流或破壞性風害有關。"}, {"english": "Archimedes's principle", "traditional_chinese": "阿基米德原理", "definition_cht": "浸入流體中的物體所受浮力大小等於其所排開流體的重量。"}, {"english": "arcs of Lowitz", "traditional_chinese": "洛維茨弧", "definition_cht": "日暈現象的一種，由定向冰晶折射陽光形成，常出現在太陽左右兩側並與幻日相連。"}, {"english": "arctic air", "traditional_chinese": "北極氣團", "definition_cht": "源自高緯冰雪覆蓋區、極為寒冷且通常乾燥的氣團，性質比一般極地氣團更冷。"}, {"english": "Arctic Bottom Water", "traditional_chinese": "北極底層水", "definition_cht": "存在於北極海盆底層的高密度水團，受海冰形成、鹽度增加及深層混合影響。"}, {"english": "Arctic Circle", "traditional_chinese": "北極圈", "definition_cht": "北緯約 66.5 度的緯圈，為一年中至少有一日出現極晝或極夜現象的界線。"}, {"english": "arctic desert", "traditional_chinese": "北極荒漠", "definition_cht": "高緯地區降水稀少、植被稀疏且氣候極冷的荒漠型環境。"}, {"english": "arctic front", "traditional_chinese": "北極鋒", "definition_cht": "北極氣團與較暖空氣之間的鋒面帶，常為強冷空氣南侵的重要界面。"}, {"english": "arctic haze", "traditional_chinese": "北極霾", "definition_cht": "春季常見於北極地區的持續性霾層，主要由中高緯度輸送而來的氣膠與污染物累積形成。"}, {"english": "arctic high", "traditional_chinese": "北極高壓", "definition_cht": "形成於北極地區的冷性高壓系統，多與強烈輻射冷卻及冷密空氣堆積有關。"}, {"english": "Arctic Intermediate Water", "traditional_chinese": "北極中層水", "definition_cht": "位於北極海或鄰近海域中層、具有特定溫鹽特徵的水團。"}, {"english": "arctic mist", "traditional_chinese": "北極霧靄", "definition_cht": "寒冷高緯地區近地層由微小水滴或冰晶造成的低能見度現象。"}, {"english": "arctic pack", "traditional_chinese": "北極浮冰群", "definition_cht": "北極海域大範圍連續或密集分布的海冰區。"}, {"english": "Arctic Polar Front", "traditional_chinese": "北極極鋒", "definition_cht": "分隔北極氣團與較低緯極地氣團的鋒區，用於描述高緯大氣環流中的重要熱力邊界。"}, {"english": "arctic sea smoke", "traditional_chinese": "北極海煙", "definition_cht": "極冷空氣流經相對較暖開放水面時，近海面水汽迅速蒸發並凝結而成的蒸汽霧。"}, {"english": "arctic stratospheric vortex", "traditional_chinese": "北極平流層渦旋", "definition_cht": "冬季北半球平流層中環繞北極的強烈環流系統，對臭氧分布與寒潮活動具有重要影響。"}, {"english": "Arctic Surface Water", "traditional_chinese": "北極表層水", "definition_cht": "北極海最上層受海冰融化、河川逕流與大氣交換影響顯著的低鹽表層水團。"}, {"english": "arctic tree line", "traditional_chinese": "北極樹線", "definition_cht": "高緯地區因熱量條件限制而樹木無法自然生長的界線。"}, {"english": "Arctic Zone", "traditional_chinese": "北極帶", "definition_cht": "泛指北極圈內或受北極氣候主導的地理與氣候區域。"}, {"english": "arctic-alpine", "traditional_chinese": "北極—高山型", "definition_cht": "指同時見於北極地區與高山寒冷環境的氣候、生態或地貌特徵。"}, {"english": "arcticization", "traditional_chinese": "北極化", "definition_cht": "某區域氣候、環境或海況向更接近北極型態轉變的過程。"}, {"english": "arcus", "traditional_chinese": "弧狀雲", "definition_cht": "附屬雲的一類，常位於積雨雲前緣，呈棚狀或滾軸狀，與陣風鋒或冷出流有關。"}, {"english": "area average", "traditional_chinese": "面平均", "definition_cht": "某變數在指定區域範圍內的平均值，常用於降水、溫度、通量或污染濃度分析。"}, {"english": "area forecast", "traditional_chinese": "區域預報", "definition_cht": "針對特定地理區域所發布的天氣預報。"}, {"english": "area of influence", "traditional_chinese": "影響範圍", "definition_cht": "某測站、事件、源區或控制因子對周遭空間產生主要作用的區域。"}, {"english": "area–elevation curve", "traditional_chinese": "面積—高程曲線", "definition_cht": "描述湖庫、流域或地形在不同高程下所對應面積關係的曲線。"}, {"english": "areal precipitation", "traditional_chinese": "面雨量", "definition_cht": "一特定區域內平均降水量的代表值，常由多站觀測或雷達估計計算而得。"}, {"english": "areal reduction factor", "traditional_chinese": "面積折減係數", "definition_cht": "將點雨量換算為某面積平均雨量時所用之比例係數，通常隨面積增大而減小。"}, {"english": "ARFOR", "traditional_chinese": "區域預報", "definition_cht": "航空氣象中 area forecast 的縮寫，用於特定飛航區域天氣預報產品。"}, {"english": "ARFOT", "traditional_chinese": "航路預報", "definition_cht": "航空氣象作業中與飛航航線或區域天氣預報有關的縮寫，實際定義依所採用之通報系統而定。"}, {"english": "argon", "traditional_chinese": "氬", "definition_cht": "大氣中的惰性氣體之一，體積混合比約為 0.93%，常用於大氣組成與同位素研究。"}, {"english": "Argos", "traditional_chinese": "阿爾戈斯系統", "definition_cht": "利用衛星進行遙測資料蒐集、定位與傳輸的國際系統，廣用於海洋浮標、野生動物與環境監測。"}, {"english": "arheic", "traditional_chinese": "無流域外排的", "definition_cht": "指區域內幾乎無明顯地表水系外流，降水多由蒸發或下滲消散的水文特性。"}, {"english": "arid zone", "traditional_chinese": "乾旱帶", "definition_cht": "年降水量少、蒸發需求高且長期水分不足的氣候區。"}, {"english": "arid-zone hydrology", "traditional_chinese": "乾旱區水文學", "definition_cht": "研究乾旱與半乾旱地區降水、蒸發、逕流、地下水及水資源管理特性的水文學分支。"}, {"english": "aridity", "traditional_chinese": "乾旱性", "definition_cht": "描述地區長期水分供應不足程度的氣候特性。"}, {"english": "aridity coefficient", "traditional_chinese": "乾旱係數", "definition_cht": "用於量化地區乾旱程度的指標，通常由降水與蒸發或潛在蒸散之比值推得。"}, {"english": "aridity index", "traditional_chinese": "乾旱指數", "definition_cht": "衡量氣候乾濕程度的指數，多以降水量與潛在蒸散量之比表示。"}, {"english": "arithmetic mean", "traditional_chinese": "算術平均", "definition_cht": "各數值總和除以數量所得之平均值。"}, {"english": "ARMET", "traditional_chinese": "航空氣象訊息", "definition_cht": "航空氣象通報中的縮寫，通常指與區域或航路天氣資訊有關之作業產品；實際全名依系統定義而定。"}, {"english": "armouring", "traditional_chinese": "護甲化", "definition_cht": "河床或坡面細顆粒被沖蝕後，表層殘留粗粒物質形成保護層，進而降低後續侵蝕的現象。"}, {"english": "aromatic hydrocarbons", "traditional_chinese": "芳香烴", "definition_cht": "含有芳香環結構的碳氫化合物，為大氣化學與污染研究中的重要揮發性有機物類別。"}, {"english": "Arrhenius equation", "traditional_chinese": "阿瑞尼士方程", "definition_cht": "描述化學反應速率常數與溫度關係的經典方程，廣用於大氣化學反應動力學。"}, {"english": "arroyo", "traditional_chinese": "旱溪谷", "definition_cht": "乾旱區平時多乾涸、僅在暴雨後短暫有水流的沖蝕溝谷。"}, {"english": "ARS", "traditional_chinese": "聲雷達系統", "definition_cht": "可作為 acoustic radar system 等用語的縮寫；具體所指儀器或系統須依上下文判讀。"}, {"english": "artesian aquifer", "traditional_chinese": "承壓含水層", "definition_cht": "被低透水層上下夾持、內部地下水具有壓力，鑽井後水位可上升至含水層頂面以上的含水層。"}, {"english": "artesian basin", "traditional_chinese": "承壓盆地", "definition_cht": "具區域性承壓含水層系統的盆地地質構造，地下水受壓並可產生自流井。"}, {"english": "artesian well", "traditional_chinese": "自流井", "definition_cht": "鑽達承壓含水層後，井中水位因壓力作用上升，甚至可自然湧出地表的井。"}, {"english": "artificial climate", "traditional_chinese": "人工氣候", "definition_cht": "由人為控制或強烈人類活動所形成的局地氣候環境，如溫室、建築物內部或都市微氣候。"}, {"english": "artificial control", "traditional_chinese": "人工控制", "definition_cht": "透過工程設施或人為操作改變自然系統狀態的控制措施，例如水位、流量或雲物理過程之調節。"}, {"english": "Artificial horizon", "traditional_chinese": "人工地平", "definition_cht": "供天文或導航觀測使用的人造水平參考面，用以替代不清晰或不可見的自然地平。"}, {"english": "artificial ice nucleus", "traditional_chinese": "人工冰核", "definition_cht": "人為施放至雲中的成冰粒子，用以促進過冷水滴凍結，常用於人工增雨或雲物理實驗。"}, {"english": "artificial intelligence", "traditional_chinese": "人工智慧", "definition_cht": "利用演算法與資料使系統具備學習、推論、辨識或決策能力的技術，在氣象預報、資料同化與遙測分析中應用日增。"}, {"english": "artificial precipitation", "traditional_chinese": "人工降水", "definition_cht": "以人工方式改變雲中微物理過程，促使降水形成或增強的作業與現象。"}, {"english": "artificial recharge", "traditional_chinese": "人工補注", "definition_cht": "透過滲池、注水井或其他工程方式將地表水導入地下，以增加含水層儲水量的措施。"}, {"english": "ascendent", "traditional_chinese": "上升的", "definition_cht": "指具有向上運動或上升趨勢的氣流、軌道節點或其他物理量。"}, {"english": "ascending node", "traditional_chinese": "升交點", "definition_cht": "天體軌道由參考平面南側穿越至北側時的交會點。"}, {"english": "ASDAR", "traditional_chinese": "機載資料中繼系統", "definition_cht": "Aircraft to Satellite Data Relay 的縮寫，指航空器透過衛星回傳氣象或飛行資料的系統。"}, {"english": "ash", "traditional_chinese": "火山灰", "definition_cht": "火山噴發所產生之細碎岩屑顆粒，也可泛指燃燒後殘留的灰分；在氣象上多指火山灰雲相關物質。"}, {"english": "ash devils", "traditional_chinese": "灰塵旋風", "definition_cht": "在高溫地表上由熱對流形成的小尺度旋風，能捲起火山灰、塵土或細粒物質。"}, {"english": "aspect", "traditional_chinese": "坡向", "definition_cht": "地形坡面所朝向的方位，會影響受光、積雪、蒸發與植生分布。"}, {"english": "aspect ratio", "traditional_chinese": "長寬比", "definition_cht": "幾何體或影像在兩個尺度方向上的比例關係；在流體與對流研究中亦可指水平與垂直尺度比。"}, {"english": "aspirated thermometer", "traditional_chinese": "通風溫度計", "definition_cht": "利用強制通風使感應部周圍氣流穩定流過，以減少輻射誤差並提升量測準確度的溫度計。"}, {"english": "aspiration condenser", "traditional_chinese": "抽吸冷凝器", "definition_cht": "以抽吸方式導引空氣通過冷卻表面，使其中水汽冷凝的裝置。"}, {"english": "aspiration meteorograph", "traditional_chinese": "通風式氣象記錄儀", "definition_cht": "具抽吸或通風裝置的自記氣象儀器，可連續記錄溫度、濕度等要素並減少輻射影響。"}, {"english": "aspiration psychrometer", "traditional_chinese": "通風乾濕表", "definition_cht": "利用強制通風使乾球與濕球溫度計周圍氣流穩定流動，以較精確求取空氣濕度的濕度儀。"}, {"english": "Aspiration thermograph", "traditional_chinese": "通風式溫度自記儀", "definition_cht": "具抽吸通風設備、可連續記錄氣溫變化並降低輻射誤差的自記溫度儀。"}, {"english": "aspirator", "traditional_chinese": "抽吸器", "definition_cht": "用於抽引空氣或氣體流經儀器、樣品或量測腔體的裝置。"}, {"english": "aspre", "traditional_chinese": "阿斯普雷風", "definition_cht": "法國南部地區對一種局地風的名稱，常與地形導引及區域壓力梯度有關。"}, {"english": "Assmann psychrometer", "traditional_chinese": "阿斯曼通風乾濕表", "definition_cht": "一種標準化通風乾濕表，以金屬外殼遮蔽輻射並藉機械通風提升濕度量測精度。"}, {"english": "Astronomical horizon", "traditional_chinese": "天文地平", "definition_cht": "通過觀測者位置且垂直於鉛直線的理論水平面所對應之地平。"}, {"english": "astronomical refraction", "traditional_chinese": "天文折射", "definition_cht": "天體光線穿越大氣時因折射而使其視位置偏離真位置的現象。"}, {"english": "astronomical twilight", "traditional_chinese": "天文曙暮光", "definition_cht": "太陽中心位於地平下 12 至 18 度時的曙暮光階段，此時天光極弱但仍受散射影響。"}, {"english": "asymmetry factor", "traditional_chinese": "不對稱因子", "definition_cht": "描述散射相函數偏向前向或後向散射程度的參數，常定義為散射角餘弦的平均值。"}, {"english": "asymptotic expansion", "traditional_chinese": "漸近展開", "definition_cht": "在某參數趨近特定極限時，以一系列近似項表示函數行為的數學方法。"}, {"english": "asynchronous communication", "traditional_chinese": "非同步通訊", "definition_cht": "傳送與接收不需共用同一時脈或同時進行的資料通訊方式。"}, {"english": "asynoptic observation", "traditional_chinese": "非同時觀測", "definition_cht": "不在標準綜觀觀測時刻進行的氣象觀測。"}, {"english": "Athos fall wind", "traditional_chinese": "阿索斯下坡風", "definition_cht": "希臘阿索斯半島附近由山地向下吹送的局地下降風。"}, {"english": "Atlantic Water", "traditional_chinese": "大西洋水", "definition_cht": "泛指源自大西洋、具有較高溫鹽特徵並可輸送至高緯或鄰近海盆的水團。"}, {"english": "atmidometry", "traditional_chinese": "蒸發測定法", "definition_cht": "測量自由水面、土壤或植物表面蒸發量的技術或方法總稱。"}, {"english": "atmometer", "traditional_chinese": "蒸發計", "definition_cht": "用於量測蒸發或蒸散潛勢的儀器。"}, {"english": "atmometry", "traditional_chinese": "蒸發測定學", "definition_cht": "研究蒸發量之量測原理、儀器與方法的學科。"}, {"english": "atmoradiograph", "traditional_chinese": "大氣輻射自記儀", "definition_cht": "連續記錄大氣輻射變化的儀器。"}, {"english": "atmosphere", "traditional_chinese": "大氣", "definition_cht": "環繞地球或其他天體的氣體包層，受重力束縛並參與能量、水分及動量交換。"}, {"english": "atmosphere–mixed layer ocean model", "traditional_chinese": "大氣—混合層海洋模式", "definition_cht": "將大氣模式與上層海洋混合層模式耦合，用以模擬短至季節尺度海氣交互作用的數值模式。"}, {"english": "atmosphere–ocean interaction", "traditional_chinese": "海氣交互作用", "definition_cht": "大氣與海洋間透過熱量、水汽、動量及氣體交換所產生的雙向耦合作用。"}, {"english": "atmospheric attenuation", "traditional_chinese": "大氣衰減", "definition_cht": "電磁波、聲波或輻射穿越大氣時，因吸收、散射等作用而使能量減弱的現象。"}, {"english": "atmospheric boundary layer", "traditional_chinese": "大氣邊界層", "definition_cht": "直接受地表摩擦、感熱、潛熱與粗糙度影響，且能在約一小時內對地表強迫作出反應的近地層大氣。"}, {"english": "atmospheric chemistry", "traditional_chinese": "大氣化學", "definition_cht": "研究大氣中化學成分的來源、轉化、傳輸、沉降及其與輻射、雲微物理和生物地球化學循環交互作用的學科。"}, {"english": "atmospheric circulation model", "traditional_chinese": "大氣環流模式", "definition_cht": "以數值方法模擬大氣三維運動、熱力與水文過程的模式，是天氣與氣候模擬的核心工具。"}, {"english": "atmospheric correction", "traditional_chinese": "大氣校正", "definition_cht": "遙測資料處理中，去除大氣吸收、散射與鄰近效應對感測訊號影響，以還原地表或雲頂真實輻射特性的程序。"}, {"english": "atmospheric demand", "traditional_chinese": "大氣蒸發需求", "definition_cht": "大氣對地表水分蒸發或植物蒸散的潛在需求程度，受溫度、濕度、風速與輻射控制。"}, {"english": "atmospheric disturbance", "traditional_chinese": "大氣擾動", "definition_cht": "相對於平均狀態的天氣或環流偏差，可表現為波動、低壓、鋒面、對流系統等。"}, {"english": "Atmospheric ducting", "traditional_chinese": "大氣波導效應", "definition_cht": "因垂直折射率梯度特殊配置，使電磁波在大氣某層中被限制傳播而造成超常傳輸的現象。"}, {"english": "atmospheric dust", "traditional_chinese": "大氣塵埃", "definition_cht": "懸浮於大氣中的細小固體顆粒，可來自沙塵、土壤、海鹽、火山或人為排放。"}, {"english": "atmospheric dynamics", "traditional_chinese": "大氣動力學", "definition_cht": "研究大氣運動及其受力、守恆定律與波渦過程控制機制的學科。"}, {"english": "atmospheric electric field", "traditional_chinese": "大氣電場", "definition_cht": "大氣中由電荷分布所形成的電場，晴空與雷暴條件下之結構與強度差異顯著。"}, {"english": "atmospheric electricity", "traditional_chinese": "大氣電學", "definition_cht": "研究大氣中電荷、電場、電流、離子、雷電及全球電路的學科。"}, {"english": "atmospheric ionization", "traditional_chinese": "大氣游離", "definition_cht": "大氣分子或原子因宇宙射線、太陽輻射、放電等作用失去或獲得電子而形成離子的過程。"}, {"english": "atmospheric layer", "traditional_chinese": "大氣層", "definition_cht": "依熱力、化學或動力特性劃分的大氣垂直層次，如對流層、平流層、中氣層與熱層。"}, {"english": "atmospheric model", "traditional_chinese": "大氣模式", "definition_cht": "以數學方程與參數化方案描述大氣狀態演變的數值模擬系統。"}, {"english": "atmospheric optics", "traditional_chinese": "大氣光學", "definition_cht": "研究光線在大氣中之散射、折射、吸收與偏振現象，以及彩虹、日暈、曙暮光等光象的學科。"}, {"english": "atmospheric oscillation", "traditional_chinese": "大氣振盪", "definition_cht": "大氣系統在時間上呈現準週期性或振盪式變化的模態，如北大西洋振盪與南方振盪。"}, {"english": "atmospheric ozone", "traditional_chinese": "大氣臭氧", "definition_cht": "存在於對流層與平流層中的臭氧，其中平流層臭氧層可吸收紫外線，而對流層臭氧則屬重要污染物與氧化劑。"}, {"english": "atmospheric phenomenon", "traditional_chinese": "大氣現象", "definition_cht": "凡發生於大氣中的可觀測現象，如雲、降水、雷電、霧、光象與環流擾動等。"}, {"english": "atmospheric polarization", "traditional_chinese": "大氣偏振", "definition_cht": "天空光經分子或粒子散射後所呈現的偏振特性。"}, {"english": "atmospheric pressure", "traditional_chinese": "大氣壓力", "definition_cht": "大氣柱因重力作用對單位面積所施加的壓力。"}, {"english": "atmospheric radiation", "traditional_chinese": "大氣輻射", "definition_cht": "大氣本身吸收並發射的電磁輻射，主要集中於紅外波段，亦受氣體、雲與氣膠影響。"}, {"english": "atmospheric radiation budget", "traditional_chinese": "大氣輻射收支", "definition_cht": "大氣系統吸收、散射、反射與放射短波及長波輻射後的淨能量平衡。"}, {"english": "atmospheric refraction", "traditional_chinese": "大氣折射", "definition_cht": "光線、無線電波或其他電磁波穿越大氣時，因折射率隨高度變化而偏折的現象。"}, {"english": "atmospheric region", "traditional_chinese": "大氣區域", "definition_cht": "依特定動力、熱力、化學或地理條件所界定的大氣空間範圍。"}, {"english": "atmospheric river", "traditional_chinese": "大氣河流", "definition_cht": "狹長而集中的強水汽輸送帶，常出現在暖區低空急流中，對中高緯豪雨與洪災具有重要影響。"}, {"english": "atmospheric science", "traditional_chinese": "大氣科學", "definition_cht": "研究大氣組成、結構、運動、輻射、化學與其與海洋、陸地、生物圈交互作用的綜合性學科。"}, {"english": "atmospheric shell", "traditional_chinese": "大氣殼層", "definition_cht": "環繞天體之外、具有一定厚度與層結特徵的氣體包層。"}, {"english": "atmospheric sounding", "traditional_chinese": "大氣探空", "definition_cht": "利用探空儀、雷達、遙測或其他手段量測大氣垂直結構之觀測作業。"}, {"english": "atmospheric thermodynamics", "traditional_chinese": "大氣熱力學", "definition_cht": "研究大氣中溫度、壓力、濕度、相變與能量轉換關係的學科。"}, {"english": "atmospheric tide", "traditional_chinese": "大氣潮汐", "definition_cht": "由太陽加熱或月球、太陽引潮力所激發之全球尺度週期性大氣振盪。"}, {"english": "atmospheric transport", "traditional_chinese": "大氣輸送", "definition_cht": "大氣環流將熱量、水汽、動量、污染物、氣膠或化學成分由一地移送至另一地的過程。"}, {"english": "atmospheric water budget", "traditional_chinese": "大氣水分收支", "definition_cht": "在一定區域與時間內，大氣中水汽含量、水平輸送、蒸發與降水之間的平衡關係。"}, {"english": "atmospheric wave", "traditional_chinese": "大氣波動", "definition_cht": "大氣中受浮力、旋轉、剪切或壓力梯度驅動而傳播的擾動，如重力波、羅士比波與聲波。"}, {"english": "atmospheric window", "traditional_chinese": "大氣窗", "definition_cht": "大氣對特定波段吸收較弱、使輻射得以相對有效穿透的光譜區間。"}, {"english": "atmospherics", "traditional_chinese": "大氣電干擾", "definition_cht": "由雷電等自然電現象產生的無線電雜訊或電磁干擾。"}, {"english": "ATN", "traditional_chinese": "高空測報網", "definition_cht": "可指 atmospheric telecommunication network 或其他作業系統縮寫，需依上下文判讀其實際意義。"}, {"english": "atomic number", "traditional_chinese": "原子序", "definition_cht": "原子核中質子數目，用以決定元素種類。"}, {"english": "ATS", "traditional_chinese": "應用技術衛星", "definition_cht": "Applications Technology Satellite 的縮寫，為美國早期之應用技術與氣象相關實驗衛星系列。"}, {"english": "attached thermometer", "traditional_chinese": "附屬溫度計", "definition_cht": "裝設於其他量測儀器上，用以校正、補償或監控儀器溫度狀態的溫度計。"}, {"english": "attachment", "traditional_chinese": "附著", "definition_cht": "粒子、液滴、冰晶或生物體黏附於表面、界面或其他顆粒上的現象。"}, {"english": "attenuation", "traditional_chinese": "衰減", "definition_cht": "波動、訊號或輻射在傳播過程中因吸收、散射、阻尼或幾何擴散而強度減弱的現象。"}, {"english": "Attenuation coefficient", "traditional_chinese": "衰減係數", "definition_cht": "定量表示波或輻射在介質中衰減速率的係數。"}, {"english": "Attractor", "traditional_chinese": "吸引子", "definition_cht": "動力系統在長時間演化後，其狀態軌跡所趨近的集合，可為定點、極限環或混沌吸引子。"}, {"english": "audibility zone", "traditional_chinese": "可聞區", "definition_cht": "聲音在特定背景噪音與傳播條件下可被人耳或儀器辨識的空間範圍。"}, {"english": "aufeis", "traditional_chinese": "層狀河冰", "definition_cht": "寒冷地區地下水或河水反覆溢流並在地表逐層凍結所形成的大面積層狀冰體。"}, {"english": "aureole", "traditional_chinese": "光暈帶", "definition_cht": "圍繞太陽、月亮或明亮目標周圍，由散射形成的亮暈區。"}, {"english": "Aurora", "traditional_chinese": "極光", "definition_cht": "高能帶電粒子沿地磁場進入高層大氣並激發氣體發光所形成的光象。"}, {"english": "aurora australis", "traditional_chinese": "南極光", "definition_cht": "發生於南半球高緯地區的極光現象。"}, {"english": "aurora borealis", "traditional_chinese": "北極光", "definition_cht": "發生於北半球高緯地區的極光現象。"}, {"english": "aurora polaris", "traditional_chinese": "極區極光", "definition_cht": "泛指出現在地磁高緯區的極光現象。"}, {"english": "auroral arc", "traditional_chinese": "極光弧", "definition_cht": "呈弧帶狀分布的極光結構，常沿地磁緯圈延展。"}, {"english": "auroral bands", "traditional_chinese": "極光帶", "definition_cht": "由多條極光弧或亮帶組成的帶狀發光區。"}, {"english": "auroral corona", "traditional_chinese": "極光冠", "definition_cht": "當多條極光射線在視覺上匯聚至頭頂附近時形成的冠狀極光形態。"}, {"english": "auroral curtains", "traditional_chinese": "極光幕", "definition_cht": "外觀如垂幕般起伏的極光結構，常由許多平行射線組成。"}, {"english": "Auroral oval", "traditional_chinese": "極光橢圓帶", "definition_cht": "環繞地磁極附近、極光發生頻率最高的橢圓形區域。"}, {"english": "auroral rays", "traditional_chinese": "極光射線", "definition_cht": "沿地磁力線方向伸展的細長亮柱狀極光結構。"}, {"english": "auroral zone", "traditional_chinese": "極光帶", "definition_cht": "地球上最常出現極光的高緯區域，通常位於地磁極周圍。"}, {"english": "austausch", "traditional_chinese": "交換作用", "definition_cht": "德語借詞，指湍流或其他物理過程所造成的動量、熱量或物質交換。"}, {"english": "austausch coefficients", "traditional_chinese": "交換係數", "definition_cht": "用以參數化湍流混合中動量、熱量或物質垂直交換效率的係數。"}, {"english": "Australasian Mediterranean Water", "traditional_chinese": "澳大拉西亞地中海型水", "definition_cht": "源自澳大拉西亞邊緣海並向外海輸出的高鹽中層水團，屬區域性地中海型外流海水。"}, {"english": "austru", "traditional_chinese": "奧斯楚風", "definition_cht": "羅馬尼亞等地對南風或暖風的地方名稱，屬局地或區域風系稱呼。"}, {"english": "autan", "traditional_chinese": "奧唐風", "definition_cht": "法國西南部的一種地方風，通常為溫暖乾燥且陣性明顯的東南風。"}, {"english": "autobarotropic", "traditional_chinese": "自成正壓的", "definition_cht": "指流體密度僅為壓力函數，或等壓面與等密面一致，因而不產生斜壓項的狀態。"}, {"english": "autobarotropy", "traditional_chinese": "自成正壓性", "definition_cht": "流體呈正壓狀態、密度主要由壓力決定且無斜壓效應的性質。"}, {"english": "autoconvection", "traditional_chinese": "自發對流", "definition_cht": "當流體垂直密度梯度本身即違反靜力穩定條件時，不需外加擾動便可自行發生的對流。"}, {"english": "autoconvective lapse rate", "traditional_chinese": "自發對流直減率", "definition_cht": "使大氣密度隨高度增加、導致絕對不穩定並可自發對流的臨界溫度直減率。"}, {"english": "autoconversion", "traditional_chinese": "自轉換", "definition_cht": "雲微物理中，小雲滴透過碰併或成長而轉變為雨滴的過程。"}, {"english": "autocorrelation", "traditional_chinese": "自相關", "definition_cht": "同一序列在不同時間或空間位移下之間的相關程度，用於分析持續性與特徵尺度。"}, {"english": "autogenous electrification", "traditional_chinese": "自生電化", "definition_cht": "物質系統內部因摩擦、破裂、相變或分離作用而自行產生電荷分離與帶電的現象。"}, {"english": "automated search", "traditional_chinese": "自動搜尋", "definition_cht": "由演算法自動執行的資料檢索、特徵辨識或目標搜尋程序。"}, {"english": "automatic data processing", "traditional_chinese": "自動資料處理", "definition_cht": "利用計算機系統自動完成資料接收、檢查、轉換、分析與輸出的流程。"}, {"english": "automatic evaporation station", "traditional_chinese": "自動蒸發站", "definition_cht": "可自動量測並傳輸蒸發量及相關氣象資料的觀測站。"}, {"english": "automatic gain control", "traditional_chinese": "自動增益控制", "definition_cht": "電子系統依輸入訊號強弱自動調整放大倍率，以維持輸出在適當範圍內的控制機制。"}, {"english": "automatic picture transmission", "traditional_chinese": "自動圖片傳輸", "definition_cht": "氣象衛星將影像資料自動傳送至地面接收站的系統，常縮寫為 APT。"}, {"english": "automatic station", "traditional_chinese": "自動測站", "definition_cht": "可自動量測、記錄並傳送氣象或水文資料的無人值守觀測站。"}, {"english": "automatic tide gauge", "traditional_chinese": "自動驗潮儀", "definition_cht": "可連續自動量測並記錄海面水位變化的儀器。"}, {"english": "automatic weather station", "traditional_chinese": "自動氣象站", "definition_cht": "自動量測氣溫、濕度、風、壓力、降水等要素並即時傳輸資料的地面觀測站。"}, {"english": "autoregressive process", "traditional_chinese": "自迴歸過程", "definition_cht": "時間序列中目前值可由其過去若干值線性表示並加上隨機誤差的隨機過程。"}, {"english": "autoregressive series", "traditional_chinese": "自迴歸序列", "definition_cht": "符合自迴歸模型結構的時間序列。"}, {"english": "Autumn", "traditional_chinese": "秋季", "definition_cht": "一年四季之一，位於夏季之後、冬季之前；在氣候學上常指北半球 9 至 11 月。"}, {"english": "autumn ice", "traditional_chinese": "秋冰", "definition_cht": "秋季開始形成或於秋季初期存在的海冰、湖冰或河冰。"}, {"english": "autumnal", "traditional_chinese": "秋季的", "definition_cht": "與秋季時節、氣候或現象有關的。"}, {"english": "Autumnal equinox", "traditional_chinese": "秋分", "definition_cht": "太陽視黃經為 180 度時的節氣，晝夜長度大致相等；北半球標誌秋季中點。"}, {"english": "auvergnasse", "traditional_chinese": "奧維涅濕風", "definition_cht": "法國地方性風名，常指攜帶濕氣、影響奧維涅地區的區域風。"}, {"english": "auxiliary ship", "traditional_chinese": "輔助船", "definition_cht": "執行支援、補給、觀測或作業任務之船舶，在海洋與氣象觀測中可作為調查或支援平台。"}, {"english": "auxiliary thermometer", "traditional_chinese": "輔助溫度計", "definition_cht": "用於補助主儀器校正、比對或監測環境溫度的溫度計。"}, {"english": "available head", "traditional_chinese": "可用水頭", "definition_cht": "在水力系統中可供做功或驅動流動的有效水頭差。"}, {"english": "available potential energy", "traditional_chinese": "可用位能", "definition_cht": "流體系統相對於最低位能參考狀態所具有、可轉換為動能的位能成分。"}, {"english": "available soil moisture", "traditional_chinese": "有效土壤水分", "definition_cht": "土壤中可被植物根系吸收利用的水分量，通常介於田間容水量與永久凋萎點之間。"}, {"english": "available solar radiation", "traditional_chinese": "可利用太陽輻射", "definition_cht": "在特定條件下可供地表、作物、儀器或能源系統實際利用的太陽輻射量。"}, {"english": "available storage capacity", "traditional_chinese": "可用蓄水容量", "definition_cht": "水庫、土壤、含水層或其他儲存系統中可供額外蓄存之有效容量。"}, {"english": "available water", "traditional_chinese": "有效水量", "definition_cht": "可被植物、工程系統或人類活動實際利用的水量；在土壤學中常指植物可利用水。"}, {"english": "avalaison", "traditional_chinese": "雪崩風", "definition_cht": "伴隨雪崩下滑而產生的強烈局地氣流或雪煙。"}, {"english": "avalanche", "traditional_chinese": "雪崩", "definition_cht": "積雪、冰塊或夾帶碎屑沿山坡快速下滑的重力運動。"}, {"english": "avalanche wind", "traditional_chinese": "雪崩風", "definition_cht": "由雪崩高速移動推擠空氣所形成的強陣風。"}, {"english": "Average", "traditional_chinese": "平均值", "definition_cht": "代表一組數據集中趨勢的量，可依算術、加權或其他方式定義。"}, {"english": "average drag coefficient", "traditional_chinese": "平均阻力係數", "definition_cht": "在一定時間、空間或條件下，描述阻力相對於流速與流體密度之平均無因次係數。"}, {"english": "average interstitial velocity", "traditional_chinese": "平均孔隙流速", "definition_cht": "流體在多孔介質實際孔隙空間中移動的平均速度，通常為達西流速除以有效孔隙率。"}, {"english": "average limit of ice", "traditional_chinese": "平均冰界", "definition_cht": "多年平均條件下海冰或其他冰體分布所達到的典型邊界位置。"}, {"english": "average net balance", "traditional_chinese": "平均淨平衡", "definition_cht": "冰川或其他收支系統在一定期間內，累積與消融或收入與支出相抵後之平均淨值。"}, {"english": "average over the spectrum", "traditional_chinese": "頻譜平均", "definition_cht": "對某變數於整個頻譜範圍內進行平均的操作。"}, {"english": "average power", "traditional_chinese": "平均功率", "definition_cht": "單位時間內能量傳遞或轉換率的時間平均值。"}, {"english": "average velocity", "traditional_chinese": "平均速度", "definition_cht": "物體或流體在一定時間或空間區間內位移率的平均值。"}, {"english": "AVHRR", "traditional_chinese": "先進甚高解析度輻射儀", "definition_cht": "Advanced Very High Resolution Radiometer 的縮寫，為 NOAA 系列氣象衛星上的多光譜掃描儀器，廣用於雲、海表溫度、植生與火點監測。"}, {"english": "aviation forecast", "traditional_chinese": "航空氣象預報", "definition_cht": "供飛航作業使用之天氣預報，內容包括風、雲、能見度、亂流、結冰與對流等資訊。"}, {"english": "aviation observation", "traditional_chinese": "航空氣象觀測", "definition_cht": "為航空起降與航行安全所進行的地面或高空氣象觀測。"}, {"english": "aviation weather forecast", "traditional_chinese": "航空天氣預報", "definition_cht": "針對機場、航路或飛航區域提供的專業天氣預報。"}, {"english": "aviation weather observation", "traditional_chinese": "航空天氣觀測", "definition_cht": "供航空用途之例行或特別天氣觀測，通常包含雲底高、能見度、風與顯著天氣。"}, {"english": "Avogadro's law", "traditional_chinese": "阿伏加德羅定律", "definition_cht": "在相同溫度與壓力下，相同體積的任何氣體含有相同數目的分子。"}, {"english": "Avogadro's number", "traditional_chinese": "阿伏加德羅常數", "definition_cht": "每莫耳物質所含基本粒子數，約為 6.022×10^23。"}, {"english": "avre", "traditional_chinese": "阿弗爾風", "definition_cht": "地方性風名，具體所指風向與性質須依地區傳統用法判定。"}, {"english": "avulsion", "traditional_chinese": "河道改道", "definition_cht": "河流因洪水、沉積或侵蝕作用而突然改變主流路徑、轉入新河道的現象。"}, {"english": "AXBT", "traditional_chinese": "機投式溫度探測器", "definition_cht": "Airborne Expendable Bathythermograph 的縮寫，為自飛機投放、用以量測上層海洋溫度剖面的拋棄式探測器。"}, {"english": "axial symmetry", "traditional_chinese": "軸對稱", "definition_cht": "系統繞某一軸旋轉後仍保持不變的對稱性。"}, {"english": "axis of anticyclone", "traditional_chinese": "反氣旋軸", "definition_cht": "反氣旋中心連成之延伸方向，或高壓脊線所對應的主要軸向。"}, {"english": "axis of contraction", "traditional_chinese": "收縮軸", "definition_cht": "應變或流場中發生最大收縮的方向軸。"}, {"english": "axis of depression", "traditional_chinese": "低壓軸", "definition_cht": "低壓區或低壓槽延伸的主要軸線。"}, {"english": "axis of dilatation", "traditional_chinese": "伸張軸", "definition_cht": "應變或流場中發生最大伸張的方向軸。"}, {"english": "axisymmetric", "traditional_chinese": "軸對稱的", "definition_cht": "指系統相對某中心軸呈旋轉對稱的性質。"}, {"english": "axisymmetric flow", "traditional_chinese": "軸對稱流", "definition_cht": "繞中心軸在方位方向上近似不變的流場，常用於龍捲風、颱風眼牆或渦流理論分析。"}, {"english": "axisymmetric turbulence", "traditional_chinese": "軸對稱湍流", "definition_cht": "統計特性相對某一優選軸呈旋轉對稱的湍流狀態。"}, {"english": "ayalas", "traditional_chinese": "阿亞拉斯風", "definition_cht": "地方性風名，實際風向與形成機制依地區傳統氣象用法而定。"}, {"english": "azimuth", "traditional_chinese": "方位角", "definition_cht": "在水平面上自基準方向（通常為正北或正南）順時針量至目標方向的角度。"}, {"english": "azimuth resolution", "traditional_chinese": "方位解析度", "definition_cht": "雷達、聲納或掃描系統在方位方向上區分兩個相鄰目標的能力。"}, {"english": "azimuth scale", "traditional_chinese": "方位刻度", "definition_cht": "表示方位角大小的標度或刻劃系統。"}, {"english": "Azores Current", "traditional_chinese": "亞速爾海流", "definition_cht": "北大西洋副熱帶環流中的東向海流，位於亞速爾群島附近並與副熱帶鋒面結構有關。"}, {"english": "Azores high", "traditional_chinese": "亞速爾高壓", "definition_cht": "北大西洋副熱帶高壓系統在亞速爾群島附近的主要活動中心，對歐洲、北非與大西洋風暴路徑有重要影響。"}];
+let filtered = [...glossaryData];
+let currentPage = 1;
+let pageSize = 50;
+const body = document.getElementById('tableBody');
+const matchCount = document.getElementById('matchCount');
+const pageIndicator = document.getElementById('pageIndicator');
+const searchInput = document.getElementById('searchInput');
+const pageSizeSelect = document.getElementById('pageSize');
+function escapeHtml(s){return s.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+function render(){
+  const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+  if (currentPage > totalPages) currentPage = totalPages;
+  const start = (currentPage - 1) * pageSize;
+  const pageRows = filtered.slice(start, start + pageSize);
+  body.innerHTML = pageRows.map(r => `<tr><td>${escapeHtml(r.english)}</td><td>${escapeHtml(r.traditional_chinese)}</td><td>${escapeHtml(r.definition_cht)}</td></tr>`).join('');
+  matchCount.textContent = `目前顯示：${filtered.length} 筆`;
+  pageIndicator.textContent = `第 ${currentPage} 頁 / 共 ${totalPages} 頁`;
+}
+function applyFilter(){
+  const q = searchInput.value.trim().toLowerCase();
+  filtered = !q ? [...glossaryData] : glossaryData.filter(r =>
+    r.english.toLowerCase().includes(q) ||
+    r.traditional_chinese.toLowerCase().includes(q) ||
+    r.definition_cht.toLowerCase().includes(q)
+  );
+  currentPage = 1;
+  render();
+}
+searchInput.addEventListener('input', applyFilter);
+pageSizeSelect.addEventListener('change', () => { pageSize = Number(pageSizeSelect.value); currentPage = 1; render(); });
+document.getElementById('resetBtn').addEventListener('click', () => { searchInput.value=''; applyFilter(); });
+document.getElementById('prevBtn').addEventListener('click', () => { if (currentPage > 1) { currentPage--; render(); } });
+document.getElementById('nextBtn').addEventListener('click', () => { const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize)); if (currentPage < totalPages) { currentPage++; render(); } });
+document.getElementById('firstBtn').addEventListener('click', () => { currentPage = 1; render(); });
+document.getElementById('lastBtn').addEventListener('click', () => { currentPage = Math.max(1, Math.ceil(filtered.length / pageSize)); render(); });
+render();
+</script>
 </body>
 </html>
