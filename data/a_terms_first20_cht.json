@@ -1,0 +1,102 @@
+[
+  {
+    "english": "A-display",
+    "traditional_chinese": "A型顯示",
+    "definition_cht": "一種以距離與方位方式呈現回波或目標位置的顯示形式，常用於早期雷達或量測儀器中，將訊號強度沿著掃描方向顯示出來。"
+  },
+  {
+    "english": "AABW",
+    "traditional_chinese": "南極底層水",
+    "definition_cht": "指南極海域形成、沿海底向外擴散的高密度深層水團，對全球海洋深層環流與熱鹽輸送非常重要。"
+  },
+  {
+    "english": "AAMW",
+    "traditional_chinese": "南極中層水",
+    "definition_cht": "指南極附近形成並位於中層海洋的水團，具有特定溫鹽特徵，常作為辨識大洋中層環流的重要水體。"
+  },
+  {
+    "english": "ab-polar current",
+    "traditional_chinese": "離極流",
+    "definition_cht": "指大氣或海洋中流動方向偏離極地、朝較低緯度移動的流系，用來描述相對於極區向外輸送的流動。"
+  },
+  {
+    "english": "abatement",
+    "traditional_chinese": "減弱",
+    "definition_cht": "指某種天氣現象、污染程度或物理過程的強度降低、趨於緩和的狀態。"
+  },
+  {
+    "english": "abbreviated ship code",
+    "traditional_chinese": "船舶簡碼",
+    "definition_cht": "指用於船舶氣象觀測或通訊傳輸的簡化代碼格式，便於在有限通訊條件下快速傳送資料。"
+  },
+  {
+    "english": "abduction",
+    "traditional_chinese": "外展",
+    "definition_cht": "原義為偏離中心線的移動；在專業術語中可指某些流動、位移或構造向外側偏移的過程，須依具體學科脈絡判讀。"
+  },
+  {
+    "english": "ABI",
+    "traditional_chinese": "先進基線成像儀",
+    "definition_cht": "美國新一代靜止氣象衛星上的主要成像儀器，可提供多光譜、高時間解析度的雲、地表與大氣觀測資料。"
+  },
+  {
+    "english": "abiotic",
+    "traditional_chinese": "非生物的",
+    "definition_cht": "指與生物活動無直接關聯的物理或化學環境因子，例如溫度、岩石、水分或輻射條件。"
+  },
+  {
+    "english": "ABL",
+    "traditional_chinese": "大氣邊界層",
+    "definition_cht": "指大氣最接近地表的一層，受地表摩擦、加熱、冷卻與水氣交換影響最明顯，日變化特徵強。"
+  },
+  {
+    "english": "ablation",
+    "traditional_chinese": "消融",
+    "definition_cht": "指冰雪、冰川或其他物質因融化、蒸發、昇華、侵蝕等作用而造成質量減少的過程。"
+  },
+  {
+    "english": "ablation area",
+    "traditional_chinese": "消融區",
+    "definition_cht": "指冰川或積雪體中，以消融量大於累積量為主的區域，通常位於較低海拔或較暖環境。"
+  },
+  {
+    "english": "abnormal",
+    "traditional_chinese": "異常的",
+    "definition_cht": "指某個狀態、數值或現象偏離一般、平均或預期範圍，不屬於通常情況。"
+  },
+  {
+    "english": "abnormality",
+    "traditional_chinese": "異常現象",
+    "definition_cht": "指偏離正常條件的特徵或狀態，可用於描述氣候、天氣或觀測資料中的不尋常表現。"
+  },
+  {
+    "english": "Abrolhos squalls",
+    "traditional_chinese": "阿布羅柳斯颮",
+    "definition_cht": "指南大西洋特定海域與阿布羅柳斯群島附近出現的強陣風或颮性天氣，通常與局地海洋和對流條件有關。"
+  },
+  {
+    "english": "abscissa",
+    "traditional_chinese": "橫座標",
+    "definition_cht": "在座標系統中表示水平方向位置的座標量，常用於圖表或數學表示中的 x 軸數值。"
+  },
+  {
+    "english": "absolute",
+    "traditional_chinese": "絕對的",
+    "definition_cht": "表示某個量是相對於固定基準或本質定義而定，不依賴比較對象或相對參考系。"
+  },
+  {
+    "english": "absolute altitude",
+    "traditional_chinese": "絕對高度",
+    "definition_cht": "指某物體相對於地面或特定基準面之上的實際垂直高度，用於飛航與地形相關描述。"
+  },
+  {
+    "english": "absolute angular momentum",
+    "traditional_chinese": "絕對角動量",
+    "definition_cht": "指物體或氣流相對地球自轉軸所具有的角動量，包含相對運動與地球自轉兩部分。"
+  },
+  {
+    "english": "absolute annual range of temperature",
+    "traditional_chinese": "絕對年溫差",
+    "definition_cht": "指一年中觀測到的最高氣溫與最低氣溫之間的差值，用來表示全年溫度變化幅度。"
+  }
+]
