@@ -1,0 +1,2157 @@
+[
+  {
+    "english": "F-ratio",
+    "traditional_chinese": "F 比",
+    "definition_cht": "統計檢定中的變異比，為兩個均方或方差之比值，常用於變異數分析與顯著性檢定，以判斷不同樣本或模式結果之差異是否具統計意義。"
+  },
+  {
+    "english": "F-region",
+    "traditional_chinese": "F 區",
+    "definition_cht": "電離層中約 150 至 500 公里以上的高電離區域，白天常分為 F1 與 F2 層，夜間多合併為單一層；對高頻無線電波傳播影響極大。"
+  },
+  {
+    "english": "F-scale",
+    "traditional_chinese": "藤田級數",
+    "definition_cht": "依龍捲風造成之破壞程度推估其風速強弱的分級系統，由藤田哲也提出，後續並發展為改良藤田級數。"
+  },
+  {
+    "english": "f''-plane",
+    "traditional_chinese": "f'' 平面",
+    "definition_cht": "在旋轉流體力學中，將科氏參數於參考緯度附近作至二階項展開後所建立的局地平面近似，用於描述緯向變化更精細的地轉與渦度效應。"
+  },
+  {
+    "english": "f''-plane approximation",
+    "traditional_chinese": "f'' 平面近似",
+    "definition_cht": "將科氏參數表示為參考值加上緯向座標的二階展開，以改進傳統 f 平面或 β 平面近似，適用於需考慮高階緯度效應的理論分析。"
+  },
+  {
+    "english": "F1-layer",
+    "traditional_chinese": "F1 層",
+    "definition_cht": "電離層 F 區於白天出現的下部次層，位於 E 層之上、F2 層之下，其電離主要受太陽輻射控制，夜間通常不再獨立存在。"
+  },
+  {
+    "english": "F2-layer",
+    "traditional_chinese": "F2 層",
+    "definition_cht": "電離層 F 區中電子濃度最高、對無線電長距離傳播最重要的部分，日夜皆可存在，且高度與強度隨太陽活動及電離層動力過程而變化。"
+  },
+  {
+    "english": "facsimile chart",
+    "traditional_chinese": "傳真天氣圖",
+    "definition_cht": "以傳真方式傳送與接收的氣象圖表，常包括地面分析圖、預報圖或海況圖，供船舶、航空及地面作業判讀使用。"
+  },
+  {
+    "english": "facsimile equipment",
+    "traditional_chinese": "傳真設備",
+    "definition_cht": "用於接收、發送或記錄氣象傳真圖像的裝置，可將分析圖、衛星圖或海象圖以圖像形式遠距傳遞。"
+  },
+  {
+    "english": "Faculae",
+    "traditional_chinese": "譜斑",
+    "definition_cht": "太陽光球表面或其附近呈現的明亮斑狀區域，通常與磁場活動增強相關，在太陽邊緣附近較易觀測。"
+  },
+  {
+    "english": "fading",
+    "traditional_chinese": "衰落",
+    "definition_cht": "無線電訊號在傳播過程中因折射、反射、干涉或電離層變化而造成的接收強度起伏與減弱現象。"
+  },
+  {
+    "english": "Fahrenheit temperature scale",
+    "traditional_chinese": "華氏溫標",
+    "definition_cht": "以華氏度表示溫度的尺度，標準大氣壓下水的冰點為 32°F、沸點為 212°F，常用於美國等地。"
+  },
+  {
+    "english": "fair",
+    "traditional_chinese": "晴好",
+    "definition_cht": "指天氣平穩、雲量少、無降水且能見度通常良好的狀態，常用於日常天氣描述。"
+  },
+  {
+    "english": "fair-weather electricity",
+    "traditional_chinese": "晴天大氣電",
+    "definition_cht": "在無雷暴、無顯著降水之平靜天氣下，大氣與地面之間仍存在的背景電場、傳導電流與空氣電性結構總稱。"
+  },
+  {
+    "english": "fall wind",
+    "traditional_chinese": "下坡風",
+    "definition_cht": "空氣沿山坡向下流動形成的風，常因重力作用、冷空氣堆積或越山後下沉增暖而產生，局地可表現為乾暖且陣強的風。"
+  },
+  {
+    "english": "falling sphere",
+    "traditional_chinese": "下落球探測",
+    "definition_cht": "由高空釋放球體並追蹤其下落軌跡，以推求高空風場、密度或其他大氣參數的觀測方法。"
+  },
+  {
+    "english": "fallout",
+    "traditional_chinese": "落下物",
+    "definition_cht": "懸浮於大氣中的放射性或其他微粒，經重力沉降或降水清除後由空中落至地表的過程與其沉積物。"
+  },
+  {
+    "english": "fallout winds",
+    "traditional_chinese": "下沉爆發風",
+    "definition_cht": "由對流雲中冷重空氣迅速下沉並向外擴散所形成的強風，常伴隨雷暴、降水拖曳與蒸發冷卻作用。"
+  },
+  {
+    "english": "false warm sector",
+    "traditional_chinese": "假暖區",
+    "definition_cht": "鋒面分析中外觀似位於暖鋒與冷鋒之間暖區、但實際成因或熱力結構不符合典型暖區特徵的區域。"
+  },
+  {
+    "english": "family of chemical species",
+    "traditional_chinese": "化學物種族群",
+    "definition_cht": "在大氣化學中，將性質、反應途徑或守恆關係相近的化學物種合併為一組處理，以利機制分析與模式計算。"
+  },
+  {
+    "english": "family of tornadoes",
+    "traditional_chinese": "龍捲家族",
+    "definition_cht": "同一強對流系統於相近時間與區域內連續產生的多個龍捲風集合，常反映母體風暴具持續而有組織的旋轉環境。"
+  },
+  {
+    "english": "fanning",
+    "traditional_chinese": "扇散",
+    "definition_cht": "流線、煙羽、雲帶或輻射束向外展開呈扇形分布的現象，也可指穩定大氣中煙流水平擴展而垂直混合受抑的型態。"
+  },
+  {
+    "english": "far infrared",
+    "traditional_chinese": "遠紅外",
+    "definition_cht": "位於紅外光譜長波端的輻射波段，常指波長約數十至數百微米範圍，常用於熱輻射與大氣吸收特性研究。"
+  },
+  {
+    "english": "farmer's year",
+    "traditional_chinese": "農事年",
+    "definition_cht": "依農作生長、播種與收穫週期劃分的一年，用於農業氣候分析時，比曆年更能反映耕作季節配置。"
+  },
+  {
+    "english": "fast Fourier transform",
+    "traditional_chinese": "快速傅立葉轉換",
+    "definition_cht": "高效率計算離散傅立葉轉換及其反轉換的演算法，廣泛用於訊號分析、頻譜分解、數值模式與雷達資料處理。"
+  },
+  {
+    "english": "fast ice",
+    "traditional_chinese": "固定海冰",
+    "definition_cht": "附著於海岸、海床淺灘或冰棚邊緣、相對不隨洋流漂移的海冰，與可移動的浮冰或流冰相對。"
+  },
+  {
+    "english": "fast-response sensors",
+    "traditional_chinese": "快速響應感測器",
+    "definition_cht": "能以極短時間常數追蹤環境變化的感測元件，常用於量測湍流通量、陣風、溫濕度快速起伏等高頻訊號。"
+  },
+  {
+    "english": "fastest mile",
+    "traditional_chinese": "最快一英里風速",
+    "definition_cht": "歷史上以氣流通過風程一英里所需最短時間換算出的風速指標，曾用於正式風速觀測與極值記錄。"
+  },
+  {
+    "english": "fata bromosa",
+    "traditional_chinese": "霧幻景",
+    "definition_cht": "由大氣分層折射造成的海市蜃樓型態之一，目標物外觀可顯得朦朧、拉長或模糊，常見於溫度逆溫條件下。"
+  },
+  {
+    "english": "fata morgana",
+    "traditional_chinese": "蜃景幻象",
+    "definition_cht": "由強烈垂直溫度梯度引起多重折射所形成的複雜海市蜃樓，影像常呈疊置、倒立、伸長或變形。"
+  },
+  {
+    "english": "fathom",
+    "traditional_chinese": "噚",
+    "definition_cht": "英制長度單位，等於 6 英尺，傳統上常用於海洋與水深測量。"
+  },
+  {
+    "english": "favogn",
+    "traditional_chinese": "法沃恩焚風",
+    "definition_cht": "瑞士局地用語，指類似焚風的下坡暖乾風，通常於山脈背風側因氣流下沉增溫與乾化而形成。"
+  },
+  {
+    "english": "fax",
+    "traditional_chinese": "傳真",
+    "definition_cht": "將文字或圖像經電信系統轉換與傳送的技術；在氣象作業中常用於傳遞分析圖、預報圖及觀測產品。"
+  },
+  {
+    "english": "feather",
+    "traditional_chinese": "羽狀冰晶",
+    "definition_cht": "外形似羽毛的冰晶或霜晶結構，常在低溫高濕條件下形成，也可用以描述某些雲體纖細羽狀外觀。"
+  },
+  {
+    "english": "FEAWP",
+    "traditional_chinese": "遠東地區分析與預報風產品",
+    "definition_cht": "氣象作業中的縮寫，通常指供遠東區域使用的高空風分析或預報產品；若各單位定義略異，核心均與區域風場預報服務相關。"
+  },
+  {
+    "english": "feed",
+    "traditional_chinese": "資料饋送",
+    "definition_cht": "將觀測、影像、模式或其他資訊持續輸入接收端、處理系統或顯示設備的資料供應流程。"
+  },
+  {
+    "english": "feedback",
+    "traditional_chinese": "回饋",
+    "definition_cht": "系統輸出反過來影響其後續演變的作用機制；在氣候與大氣科學中可為正回饋或負回饋，決定擾動被放大或抑制。"
+  },
+  {
+    "english": "feeding",
+    "traditional_chinese": "補給",
+    "definition_cht": "指某一系統持續獲得質量、熱量、水氣、動量或其他來源物質的過程，例如對流雲受暖濕氣流持續補給。"
+  },
+  {
+    "english": "feeling bottom",
+    "traditional_chinese": "測底感知",
+    "definition_cht": "船舶或水下裝置藉接觸、拖曳或探測感知海底位置與地形的作業或現象，早期常用於航海測深。"
+  },
+  {
+    "english": "Feng Yun",
+    "traditional_chinese": "風雲",
+    "definition_cht": "中國氣象衛星系列之名稱，用於氣象觀測、雲圖監測、環境探測與數值天氣預報資料同化。"
+  },
+  {
+    "english": "Fengyun 2",
+    "traditional_chinese": "風雲二號",
+    "definition_cht": "中國第二代地球同步軌道氣象衛星系列，主要提供東亞及周邊區域之雲圖、輻射與天氣監測資料。"
+  },
+  {
+    "english": "Fermat's principle",
+    "traditional_chinese": "費馬原理",
+    "definition_cht": "光線在兩點間傳播時會選取光程為駐值的路徑；在大氣光學中可用以解釋折射、蜃景與波傳播路徑。"
+  },
+  {
+    "english": "Ferrel cell",
+    "traditional_chinese": "費雷爾環流",
+    "definition_cht": "中緯度大氣三圈環流中的間接環流單元，近地面多呈向極流動、高空向赤道回流，與西風帶及鋒面活動密切相關。"
+  },
+  {
+    "english": "fetch",
+    "traditional_chinese": "風程",
+    "definition_cht": "風沿近似固定方向吹越水面或其他地表的有效距離，為控制波浪發育、蒸發與通量交換的重要尺度。"
+  },
+  {
+    "english": "FFT",
+    "traditional_chinese": "快速傅立葉轉換",
+    "definition_cht": "fast Fourier transform 的縮寫，指以高效率方式計算頻譜分解的演算法，廣泛應用於氣象訊號與遙測資料分析。"
+  },
+  {
+    "english": "fibratus",
+    "traditional_chinese": "纖維狀",
+    "definition_cht": "雲形分類形容詞，指雲體呈細長纖絲或毛髮狀結構，常見於卷雲並反映高空風場拉伸作用。"
+  },
+  {
+    "english": "fido",
+    "traditional_chinese": "裂變碎片沉降作業系統",
+    "definition_cht": "核子氣象與擴散領域中的縮寫用語，通常指用於評估裂變產物沉降、擴散或污染影響的作業或分析系統。"
+  },
+  {
+    "english": "fiducial point",
+    "traditional_chinese": "基準點",
+    "definition_cht": "作為定位、校正、比對或時間對齊之固定參考點，常用於圖像判讀、儀器校正與資料處理。"
+  },
+  {
+    "english": "fiducial temperature",
+    "traditional_chinese": "基準溫度",
+    "definition_cht": "用作比較、校正、標定或理論推導的參考溫度值，儀器設計與物性換算中常以此作為標準條件之一。"
+  },
+  {
+    "english": "field",
+    "traditional_chinese": "場",
+    "definition_cht": "物理量在空間與時間上的分布，如溫度場、風場、壓力場或電場，為描述連續介質狀態的基本概念。"
+  },
+  {
+    "english": "field capacity",
+    "traditional_chinese": "田間持水量",
+    "definition_cht": "土壤在自由重力排水大致結束後所能保留的含水狀態，為農業氣象與水文中評估土壤可用水的重要指標。"
+  },
+  {
+    "english": "field changes",
+    "traditional_chinese": "電場變化",
+    "definition_cht": "大氣電場隨時間發生的增減或突變，常用於雷暴電活動、閃電放電及電荷結構演變之監測。"
+  },
+  {
+    "english": "field excursion associated with precipitation",
+    "traditional_chinese": "降水伴隨電場偏移",
+    "definition_cht": "降水粒子通過觀測點附近時，因帶電水滴、冰粒或局地電荷結構改變而引起的大氣電場顯著偏移現象。"
+  },
+  {
+    "english": "field mill",
+    "traditional_chinese": "電場磨",
+    "definition_cht": "量測大氣靜電場的儀器，利用週期性遮蔽感應電極來轉換靜電訊號，常用於雷暴監測與大氣電研究。"
+  },
+  {
+    "english": "field of view",
+    "traditional_chinese": "視場",
+    "definition_cht": "儀器、感測器或觀測系統在特定幾何條件下可同時接收或觀測的空間範圍，常以角度或地面覆蓋尺度表示。"
+  },
+  {
+    "english": "field permeability",
+    "traditional_chinese": "田間滲透性",
+    "definition_cht": "土壤在自然田間狀態下允許水分穿透與傳輸的能力，受孔隙結構、含水量與土壤質地控制。"
+  },
+  {
+    "english": "field strength",
+    "traditional_chinese": "場強",
+    "definition_cht": "描述電場、磁場或電磁波強度大小的物理量；在無線電傳播中常用以表示接收訊號之強弱。"
+  },
+  {
+    "english": "field water-holding capacity",
+    "traditional_chinese": "田間保水容量",
+    "definition_cht": "土壤在田間條件下對水分的保留能力，通常指接近田間持水量時可儲存之水分總量。"
+  },
+  {
+    "english": "FIFOR",
+    "traditional_chinese": "飛航預報區空中報告",
+    "definition_cht": "氣象或航空作業中的縮寫，通常指與飛航情報區相關之飛機天氣報告或其作業格式；實際全名可依作業系統而異。"
+  },
+  {
+    "english": "Filament",
+    "traditional_chinese": "日珥暗條",
+    "definition_cht": "從太陽盤面觀測時呈細長暗帶的冷密等離子結構，懸浮於較熱的日冕背景中；出現在日緣時則可見為日珥。"
+  },
+  {
+    "english": "filling",
+    "traditional_chinese": "填塞減弱",
+    "definition_cht": "低壓系統中心氣壓上升、壓力梯度減弱的過程，表示氣旋強度衰退或結構趨於消散。"
+  },
+  {
+    "english": "film crust",
+    "traditional_chinese": "薄膜結殼",
+    "definition_cht": "土壤、積雪或液體表面形成的薄層殼膜，可由蒸發、結晶、凍結或沉積作用造成，並影響熱量與水分交換。"
+  },
+  {
+    "english": "filter",
+    "traditional_chinese": "濾波器",
+    "definition_cht": "用以選取、抑制或平滑特定頻率、尺度或雜訊成分的裝置或數學運算，在訊號處理與數值分析中廣泛使用。"
+  },
+  {
+    "english": "filtered equations",
+    "traditional_chinese": "濾波方程組",
+    "definition_cht": "對原始控制方程經尺度平均、空間平滑或頻譜截斷後所得之方程，用於保留主要尺度並參數化未解析成分。"
+  },
+  {
+    "english": "filtered model",
+    "traditional_chinese": "濾波模式",
+    "definition_cht": "在模式中移除或抑制某些快速振盪、小尺度噪訊或不必要波動後所建立的數值模型，以提升穩定性或聚焦目標尺度。"
+  },
+  {
+    "english": "filtering",
+    "traditional_chinese": "濾波",
+    "definition_cht": "對資料或方程進行平滑、頻率選擇、尺度分離或雜訊抑制的處理程序，以保留所需訊號特徵。"
+  },
+  {
+    "english": "filtering approximations",
+    "traditional_chinese": "濾波近似",
+    "definition_cht": "為簡化分析或數值計算，將某些短週期波動、小尺度效應或高頻項予以濾除的近似方法。"
+  },
+  {
+    "english": "filtration",
+    "traditional_chinese": "過濾作用",
+    "definition_cht": "流體或粒子通過介質、孔隙或數學篩選程序時，部分成分被截留或分離的過程；在水文與資料處理中皆常使用。"
+  },
+  {
+    "english": "fine line",
+    "traditional_chinese": "細線回波",
+    "definition_cht": "雷達圖上呈狹窄線狀的弱回波帶，常與輻合線、海風鋒、陣風鋒、昆蟲層或邊界層結構有關。"
+  },
+  {
+    "english": "fine particles",
+    "traditional_chinese": "細顆粒",
+    "definition_cht": "粒徑較小、可長時間懸浮於空氣中的顆粒物，常用於描述氣膠、煙霧、粉塵或污染微粒。"
+  },
+  {
+    "english": "fine-mesh grid",
+    "traditional_chinese": "細網格",
+    "definition_cht": "空間解析度較高、格距較小的數值計算網格，可更細緻地表現地形、對流或局地結構，但計算成本較高。"
+  },
+  {
+    "english": "fine-mesh model",
+    "traditional_chinese": "細網格模式",
+    "definition_cht": "採用高解析度格點配置的數值模式，適合模擬中小尺度天氣、複雜地形效應與局地強對流現象。"
+  },
+  {
+    "english": "Fineman nephoscope",
+    "traditional_chinese": "芬尼曼測雲器",
+    "definition_cht": "用於測定雲移動方向與速度的觀測儀器，透過鏡面或基準刻線比較雲影位移來判讀雲行。"
+  },
+  {
+    "english": "finestructure",
+    "traditional_chinese": "細微結構",
+    "definition_cht": "在較大尺度背景中可辨識的微細空間或時間結構，如雲層、湍流、電離層或雷達回波中的小尺度特徵。"
+  },
+  {
+    "english": "finger rafting",
+    "traditional_chinese": "指狀疊冰",
+    "definition_cht": "新生薄冰或碎冰在擠壓作用下以狹長指狀彼此重疊的現象，常見於海冰初期形成與變形過程。"
+  },
+  {
+    "english": "fingering",
+    "traditional_chinese": "指狀不穩定",
+    "definition_cht": "流體或傳輸過程中形成狹長舌狀或指狀結構的現象，例如鹽指、滲流指狀前緣或對流邊界不穩定。"
+  },
+  {
+    "english": "fingerprint method",
+    "traditional_chinese": "指紋法",
+    "definition_cht": "透過辨識資料中具代表性的時空型態或統計特徵，判定特定物理機制、氣候訊號或污染來源的方法。"
+  },
+  {
+    "english": "finite depth",
+    "traditional_chinese": "有限水深",
+    "definition_cht": "在波浪、海洋或流體理論中，指水深不可視為無限深而必須明確納入動力方程與色散關係計算的情況。"
+  },
+  {
+    "english": "finite differencing",
+    "traditional_chinese": "有限差分法",
+    "definition_cht": "以相鄰格點差值近似導數的數值方法，為求解大氣與海洋控制方程最常見的離散化技術之一。"
+  },
+  {
+    "english": "finite-difference approximation",
+    "traditional_chinese": "有限差分近似",
+    "definition_cht": "以有限格距上的函數值差分來近似連續導數或微分算子的表示方式，是建立差分方程的基礎。"
+  },
+  {
+    "english": "finite-difference equation",
+    "traditional_chinese": "有限差分方程",
+    "definition_cht": "將微分方程離散化後，以格點值與差分運算表示的方程形式，用於數值模式求解。"
+  },
+  {
+    "english": "finite-element model",
+    "traditional_chinese": "有限元素模式",
+    "definition_cht": "以有限元素法離散空間域並求解控制方程的數值模型，對複雜邊界與不規則地形具有良好適應性。"
+  },
+  {
+    "english": "fire behavior",
+    "traditional_chinese": "火行為",
+    "definition_cht": "野火或燃燒前線在特定燃料、地形與氣象條件下的蔓延、火焰強度、熱釋放與火場動態表現。"
+  },
+  {
+    "english": "fire weather",
+    "traditional_chinese": "火險天氣",
+    "definition_cht": "影響野火發生、延燒與控制的氣象條件總稱，主要包括風、溫度、濕度、降水與大氣穩定度。"
+  },
+  {
+    "english": "fire-danger meter",
+    "traditional_chinese": "火險儀",
+    "definition_cht": "依據氣象與燃料乾燥狀況評估火災危險程度的測算或顯示裝置，用於林火預警與作業決策。"
+  },
+  {
+    "english": "firm yield",
+    "traditional_chinese": "保證供水量",
+    "definition_cht": "在既定水文條件與系統管理規則下，水庫或供水系統可長期可靠提供而不致失供的最大穩定供水量。"
+  },
+  {
+    "english": "firn",
+    "traditional_chinese": "粒雪",
+    "definition_cht": "介於新雪與冰川冰之間的顆粒狀老雪，經反覆融凍、壓實與再結晶後形成，密度高於新雪而低於冰。"
+  },
+  {
+    "english": "firn field",
+    "traditional_chinese": "粒雪原",
+    "definition_cht": "高山或極地冰川上由廣大粒雪覆蓋的區域，通常位於多年積雪保存並逐步向冰川冰轉化之處。"
+  },
+  {
+    "english": "firn line",
+    "traditional_chinese": "粒雪線",
+    "definition_cht": "冰川表面上多年積雪最終能轉變為粒雪的界線，常近似反映多年平均平衡線位置。"
+  },
+  {
+    "english": "firnification",
+    "traditional_chinese": "粒雪化",
+    "definition_cht": "新雪在積壓、再結晶、融凍與水氣轉移作用下逐漸轉變為粒雪的過程。"
+  },
+  {
+    "english": "firnspiegel",
+    "traditional_chinese": "冰殼層",
+    "definition_cht": "粒雪或積雪內部因融化後再凍結而形成的薄冰層或冰殼，常可作為雪層年際變化或融凍事件的辨識標誌。"
+  },
+  {
+    "english": "first gust",
+    "traditional_chinese": "初陣風",
+    "definition_cht": "雷暴、鋒面或陣風鋒抵達觀測點前後最先出現的明顯風速突增，常為天氣驟變的先兆。"
+  },
+  {
+    "english": "first law of thermodynamics",
+    "traditional_chinese": "熱力學第一定律",
+    "definition_cht": "能量守恆定律在熱力系統中的表述，指出系統內能變化等於輸入熱量減去系統對外所作功，是大氣熱力學基本原理。"
+  },
+  {
+    "english": "first-hop wave",
+    "traditional_chinese": "第一跳波",
+    "definition_cht": "無線電波經一次電離層反射或折返後到達接收點所形成的傳播波，常用於高頻遠距通信分析。"
+  },
+  {
+    "english": "first-order climatological station",
+    "traditional_chinese": "一等氣候站",
+    "definition_cht": "在氣候觀測網中，設備、觀測要素與資料品質較完備的主要測站，用以提供長期而高標準的氣候紀錄。"
+  },
+  {
+    "english": "first-order closure",
+    "traditional_chinese": "一階閉合",
+    "definition_cht": "以平均量的一階梯度來參數化湍流通量的閉合理論，例如將動量或熱通量表示為擴散形式。"
+  },
+  {
+    "english": "first-order reactions",
+    "traditional_chinese": "一級反應",
+    "definition_cht": "反應速率與單一反應物濃度成正比的化學反應，在大氣化學衰減、放射性衰變與示蹤物轉化中常見。"
+  },
+  {
+    "english": "first-order station",
+    "traditional_chinese": "一等測站",
+    "definition_cht": "觀測網內層級較高、設備完整且資料品質要求嚴格的基準測站，常承擔主要氣象觀測與校驗功能。"
+  },
+  {
+    "english": "first-year ice",
+    "traditional_chinese": "一年冰",
+    "definition_cht": "形成未滿一個融冰季的海冰，厚度與鹽度特性有別於多年冰，常見於季節性結冰海域。"
+  },
+  {
+    "english": "Fisher & Porter rain gauge",
+    "traditional_chinese": "費雪－波特雨量計",
+    "definition_cht": "一種自記式降水觀測儀，常以翻斗、稱重或機械記錄機制搭配，用於連續記錄降水量與降水歷時。"
+  },
+  {
+    "english": "fitness figure",
+    "traditional_chinese": "適配指標",
+    "definition_cht": "用以衡量理論、模式、參數組合或經驗公式與觀測資料符合程度的量化指標。"
+  },
+  {
+    "english": "five-and-ten system",
+    "traditional_chinese": "五十編碼制",
+    "definition_cht": "以 5 與 10 為基礎進行分級或編碼的表示系統，曾用於雲量、能見度或其他觀測要素的簡化記錄。"
+  },
+  {
+    "english": "five-day forecast",
+    "traditional_chinese": "五日預報",
+    "definition_cht": "對未來五天內天氣狀況所作之預測，內容通常包括溫度、降水、風與主要天氣現象。"
+  },
+  {
+    "english": "five-point method",
+    "traditional_chinese": "五點法",
+    "definition_cht": "利用中心點及其周圍四個鄰點建立數值近似或分析計算的方法，常見於差分、平滑與場量估算。"
+  },
+  {
+    "english": "fix",
+    "traditional_chinese": "定位",
+    "definition_cht": "根據觀測資料、導航資訊或遙測特徵確定目標位置的結果；在熱帶氣旋分析中亦可指風暴中心定位。"
+  },
+  {
+    "english": "fixed time broadcast",
+    "traditional_chinese": "定時廣播",
+    "definition_cht": "按預定時刻週期性播送的資訊傳輸方式，氣象作業中常用於定時發布預報、警報或航海氣象資料。"
+  },
+  {
+    "english": "fixing of atmospheric gases",
+    "traditional_chinese": "大氣氣體固定作用",
+    "definition_cht": "將原本以游離或分子形態存在於大氣中的氣體，透過生物、化學或物理過程轉化為較穩定化合物的作用，如氮固定。"
+  },
+  {
+    "english": "fjord",
+    "traditional_chinese": "峽灣",
+    "definition_cht": "由冰川侵蝕形成、後經海水侵入的狹長深水灣，兩側地形陡峭，常見於高緯或山地海岸。"
+  },
+  {
+    "english": "flame collector",
+    "traditional_chinese": "火焰集電器",
+    "definition_cht": "利用火焰所產生之離子提高導電性，用以收集大氣電荷或量測電位梯度、空氣電流等大氣電參數的觀測裝置。"
+  },
+  {
+    "english": "flame ionization detection",
+    "traditional_chinese": "火焰離子化檢測",
+    "definition_cht": "以氫火焰使有機化合物電離，再量測所生離子電流以判定濃度的分析方法，常用於大氣微量碳氫化合物監測。"
+  },
+  {
+    "english": "flan",
+    "traditional_chinese": "層狀冰雪地形",
+    "definition_cht": "指冰雪表面因融化、再凍結或風蝕作用形成的平坦板狀地形或殼層，屬雪冰表面微地形用語。"
+  },
+  {
+    "english": "Flanders storm",
+    "traditional_chinese": "法蘭德斯風暴",
+    "definition_cht": "影響法蘭德斯地區及其鄰近海域的強烈風暴個例名稱，通常用於區域氣候或歷史災害記述。"
+  },
+  {
+    "english": "flanking line",
+    "traditional_chinese": "側翼積雲線",
+    "definition_cht": "超級胞或強對流系統主上升區側後方常見的積雲或積雨雲排列，反映低層暖濕空氣持續匯入與新生對流發展。"
+  },
+  {
+    "english": "Flare",
+    "traditional_chinese": "閃焰；耀斑",
+    "definition_cht": "可指燃燒排放氣體的火炬火焰；於太陽物理中則指太陽大氣局部區域磁能快速釋放所造成的短時強輻射增強現象。"
+  },
+  {
+    "english": "flare echo",
+    "traditional_chinese": "耀斑回波",
+    "definition_cht": "雷達或無線電系統因太陽耀斑增強電離層擾動或外來電磁輻射而出現的異常回波或雜訊訊號。"
+  },
+  {
+    "english": "flash",
+    "traditional_chinese": "閃現；閃蒸",
+    "definition_cht": "泛指極短時間內快速發生的現象；於水文或熱工語境中，亦可指液體因壓力驟降而瞬間汽化的閃蒸過程。"
+  },
+  {
+    "english": "Flash drought",
+    "traditional_chinese": "驟旱",
+    "definition_cht": "在數週至數月內因降水偏少、蒸散旺盛與高溫共同作用而迅速形成並加劇的乾旱事件，常對農業與生態造成突發性衝擊。"
+  },
+  {
+    "english": "Flash flood",
+    "traditional_chinese": "暴洪",
+    "definition_cht": "由短時強降雨、潰壩或冰塞潰決等觸發，於極短時間內迅速發生且流速大、破壞力強的洪水。"
+  },
+  {
+    "english": "Flash freeze",
+    "traditional_chinese": "驟凍",
+    "definition_cht": "地表或道路表面水分在氣溫快速降至冰點以下時於短時間內迅速結冰的現象，常顯著增加交通危險。"
+  },
+  {
+    "english": "Flash heat",
+    "traditional_chinese": "驟熱事件",
+    "definition_cht": "氣溫在短時間內異常快速升高並造成顯著熱壓力的高溫事件，常伴隨乾燥下沉或焚風效應。"
+  },
+  {
+    "english": "flash photolysis systems",
+    "traditional_chinese": "閃光光解系統",
+    "definition_cht": "利用高強度短脈衝光源瞬間啟動光化學反應，再量測反應物與自由基隨時間變化的實驗系統。"
+  },
+  {
+    "english": "flashy stream",
+    "traditional_chinese": "暴漲暴落型溪流",
+    "definition_cht": "對降雨反應極快、流量短時間內急遽上升並迅速回落的河川或溪流，多見於集水區小、坡陡或不透水面高的流域。"
+  },
+  {
+    "english": "flat low",
+    "traditional_chinese": "平坦低壓",
+    "definition_cht": "氣壓場中水平壓力梯度較弱、等壓線彎曲不明顯的低壓系統，通常其環流與天氣訊號均較不突出。"
+  },
+  {
+    "english": "flaw",
+    "traditional_chinese": "裂隙開口；瑕疵",
+    "definition_cht": "在海冰語境中常指沿岸冰層與外海浮冰間形成的狹長開水帶或裂隙；廣義上亦指資料、樣本或結構中的缺陷。"
+  },
+  {
+    "english": "Fleet Broadcast",
+    "traditional_chinese": "艦隊廣播",
+    "definition_cht": "向艦隊或海上單位定時播送之通訊業務，可包含航海與氣象資訊、警報及作業指令。"
+  },
+  {
+    "english": "flight cross section",
+    "traditional_chinese": "飛航剖面圖",
+    "definition_cht": "沿航空器飛行路徑製作的大氣垂直剖面，顯示風、溫度、雲、亂流或結冰等條件的空間分布。"
+  },
+  {
+    "english": "flight documentation",
+    "traditional_chinese": "飛航文件",
+    "definition_cht": "航空作業前提供飛行員與航管使用的文件總稱，內容可含天氣圖、預報、航路資訊、通告與燃油計畫。"
+  },
+  {
+    "english": "flight forecast",
+    "traditional_chinese": "飛航預報",
+    "definition_cht": "專供航空運行使用的氣象預報，描述航路、機場與飛行高度上的風、雲、能見度、亂流、結冰及危險天氣。"
+  },
+  {
+    "english": "flight information center",
+    "traditional_chinese": "飛航情報中心",
+    "definition_cht": "負責提供飛航情報服務與警報服務的航空機構，支援航空器在特定空域內安全與有效運行。"
+  },
+  {
+    "english": "flight information region",
+    "traditional_chinese": "飛航情報區",
+    "definition_cht": "為提供飛航情報與警報服務而劃設的空域範圍，是航空氣象服務與空中交通支援的重要單元。"
+  },
+  {
+    "english": "flight level",
+    "traditional_chinese": "飛航空層",
+    "definition_cht": "以標準氣壓面為基準表示之航空器飛行高度層級，通常以百英尺為單位編碼，供航路高度分隔使用。"
+  },
+  {
+    "english": "flight plan",
+    "traditional_chinese": "飛航計畫",
+    "definition_cht": "航空器起飛前向航管單位提交的作業計畫，載明航路、高度、時間、備降與相關作業資訊。"
+  },
+  {
+    "english": "flight train",
+    "traditional_chinese": "串列飛行器系統",
+    "definition_cht": "由多個彼此連接或序列排列的探測載具、感測器或氣球組成之觀測配置，用於取得大氣剖面或拖曳式量測資料。"
+  },
+  {
+    "english": "flist",
+    "traditional_chinese": "檔案清單",
+    "definition_cht": "指資料處理或模式系統中列示輸入、輸出或控制檔案名稱的清單，用於管理作業流程與資料讀取。"
+  },
+  {
+    "english": "float barograph",
+    "traditional_chinese": "浮子式氣壓計",
+    "definition_cht": "利用浮子受液面或壓力變化帶動記錄機構，以連續記錄氣壓變動的自記式氣壓儀。"
+  },
+  {
+    "english": "float-type rain gauge",
+    "traditional_chinese": "浮子式雨量計",
+    "definition_cht": "藉由承水容器液面升降帶動浮子與記錄裝置，以測定降水累積量及其時間變化的雨量儀。"
+  },
+  {
+    "english": "floating ice",
+    "traditional_chinese": "漂浮冰",
+    "definition_cht": "漂浮於海面、湖面或河面的冰體總稱，可包括海冰、浮冰、冰塊或自冰川崩解而來的冰體。"
+  },
+  {
+    "english": "floating pan",
+    "traditional_chinese": "浮置蒸發皿",
+    "definition_cht": "設置於水面並隨水位浮動的蒸發皿，用以減少岸上環境差異對蒸發量觀測造成的偏差。"
+  },
+  {
+    "english": "floccus",
+    "traditional_chinese": "絮狀雲塊",
+    "definition_cht": "雲屬或附屬特徵中的絮狀小雲塊，底部常呈破碎或鋸齒狀，多見於中高雲並反映局部對流或不穩定。"
+  },
+  {
+    "english": "floe",
+    "traditional_chinese": "浮冰片",
+    "definition_cht": "由海冰破裂形成、可在水面漂移的片狀冰體，尺度可由數公尺至數公里不等。"
+  },
+  {
+    "english": "floeberg",
+    "traditional_chinese": "巨型浮冰片",
+    "definition_cht": "尺寸特別巨大的浮冰片，外觀近似小型冰山，但本質仍屬海冰或棚冰碎塊。"
+  },
+  {
+    "english": "flood",
+    "traditional_chinese": "洪水",
+    "definition_cht": "河道、水庫、湖泊或地表逕流超出正常容納能力，致使水體漫溢並淹沒原本乾燥區域的現象。"
+  },
+  {
+    "english": "flood channel",
+    "traditional_chinese": "洪道",
+    "definition_cht": "供洪水宣洩或導流之天然或人工水道，用以降低主河道或聚落受淹風險。"
+  },
+  {
+    "english": "flood current",
+    "traditional_chinese": "漲潮流",
+    "definition_cht": "潮汐循環中海水向岸、向河口內部或向上游流動的潮流階段，與退潮流相對。"
+  },
+  {
+    "english": "flood forecast",
+    "traditional_chinese": "洪水預報",
+    "definition_cht": "依據降雨、上游流量、土壤含水量與水文模式推估未來河川水位、流量或淹水範圍的作業。"
+  },
+  {
+    "english": "flood forecasting",
+    "traditional_chinese": "洪水預報作業",
+    "definition_cht": "整合觀測、模式、警戒閾值與資訊發布程序，對洪水發生時間、強度與影響進行預測與通報的系統性工作。"
+  },
+  {
+    "english": "flood frequency distribution",
+    "traditional_chinese": "洪水頻率分布",
+    "definition_cht": "描述不同規模洪峰流量或洪水量在長期紀錄中出現機率的統計分布，用於設計重現期分析。"
+  },
+  {
+    "english": "flood interval",
+    "traditional_chinese": "洪水間隔期",
+    "definition_cht": "兩次洪水事件之間的時間間隔，或特定規模洪水在統計上平均再發的時間尺度。"
+  },
+  {
+    "english": "Flood irrigation",
+    "traditional_chinese": "漫灌",
+    "definition_cht": "將灌溉水直接引入田面並使其自然鋪展覆蓋的灌溉方式，常見於平坦農地與重力灌溉系統。"
+  },
+  {
+    "english": "flood marks",
+    "traditional_chinese": "洪痕",
+    "definition_cht": "洪水過後留存在建物、樹幹、河岸或地表上的水位痕跡，可用於重建洪峰高度與淹水範圍。"
+  },
+  {
+    "english": "flood mitigation",
+    "traditional_chinese": "減洪措施",
+    "definition_cht": "為降低洪水風險與災損而採行的工程與非工程對策，包括蓄洪、預警、土地使用管理與防洪設施。"
+  },
+  {
+    "english": "flood plain",
+    "traditional_chinese": "洪氾平原",
+    "definition_cht": "河川於洪水期間易溢淹的低平地帶，由長期沖積作用形成，常具高肥力但亦具高度洪災暴露。"
+  },
+  {
+    "english": "flood proofing",
+    "traditional_chinese": "防洪調適",
+    "definition_cht": "透過抬高建物、設置擋水設施、改良排水或調整用途等方式，降低建築物與設施受洪水損害的措施。"
+  },
+  {
+    "english": "flood routing",
+    "traditional_chinese": "洪水演算",
+    "definition_cht": "根據河道或水庫蓄泄特性，推算洪水波沿河道傳遞時流量、水位與時序變化的水文計算方法。"
+  },
+  {
+    "english": "flood stage",
+    "traditional_chinese": "警戒洪水位",
+    "definition_cht": "河川或湖泊水位達到足以開始造成漫溢、淹水或需要發布洪水警報的基準水位。"
+  },
+  {
+    "english": "flood strength",
+    "traditional_chinese": "漲潮流強度",
+    "definition_cht": "指漲潮期間潮流流速或動能的大小，用以描述向岸或向上游流動潮流的強弱。"
+  },
+  {
+    "english": "flood tide",
+    "traditional_chinese": "漲潮",
+    "definition_cht": "潮位由低潮逐漸上升至高潮的潮汐階段，亦可泛指此期間伴隨的向岸潮流。"
+  },
+  {
+    "english": "flood warning",
+    "traditional_chinese": "洪水警報",
+    "definition_cht": "在洪水已發生、即將發生或高度可能發生時，由主管機關發布的正式警示資訊。"
+  },
+  {
+    "english": "flood watch",
+    "traditional_chinese": "洪水注意報",
+    "definition_cht": "表示未來一段時間內可能出現洪水條件，提醒相關單位與民眾提高警覺並預作準備的警示。"
+  },
+  {
+    "english": "flood wave",
+    "traditional_chinese": "洪波",
+    "definition_cht": "洪水流量或水位在河道中以波動形式向下游傳播的現象，其形態受河道蓄洪與摩阻影響。"
+  },
+  {
+    "english": "flooding",
+    "traditional_chinese": "淹水",
+    "definition_cht": "水體溢出河道、排水系統或地表容納範圍，導致陸地、道路或聚落被水覆蓋的狀態。"
+  },
+  {
+    "english": "Florida Current",
+    "traditional_chinese": "佛羅里達洋流",
+    "definition_cht": "流經佛羅里達海峽、由墨西哥灣流向北大西洋的強暖流，為墨西哥灣流上游的重要組成。"
+  },
+  {
+    "english": "flow law",
+    "traditional_chinese": "流動定律",
+    "definition_cht": "描述流體、冰體或土體中應力與應變率、流速或變形關係的物理定律或經驗公式。"
+  },
+  {
+    "english": "flow line",
+    "traditional_chinese": "流線",
+    "definition_cht": "在某一時刻處處與流速向量相切的曲線，用以表示流場方向結構；穩定流下可近似粒子軌跡。"
+  },
+  {
+    "english": "flow net",
+    "traditional_chinese": "流網",
+    "definition_cht": "由流線與等勢線構成的圖解網格，用於分析地下水、滲流或二維勢流中的流動分布。"
+  },
+  {
+    "english": "flow pattern",
+    "traditional_chinese": "流場型態",
+    "definition_cht": "流體在空間中的運動配置與結構特徵，包含主流方向、渦旋、收斂、分岔與剪切分布。"
+  },
+  {
+    "english": "flow velocity",
+    "traditional_chinese": "流速",
+    "definition_cht": "流體在單位時間內移動的速度向量或其大小，可用於描述河流、氣流、地下水或海流運動。"
+  },
+  {
+    "english": "flowmeter",
+    "traditional_chinese": "流量計",
+    "definition_cht": "量測流體體積流率、質量流率或流速的儀器，應用於水文、氣象實驗與環境監測。"
+  },
+  {
+    "english": "fluctuation",
+    "traditional_chinese": "擾動；波動",
+    "definition_cht": "物理量相對於平均值或趨勢值所呈現的短期變化，常用以描述湍流、溫度、濃度或壓力的不規則起伏。"
+  },
+  {
+    "english": "flue gas",
+    "traditional_chinese": "煙道氣",
+    "definition_cht": "燃燒設備排放至煙道中的混合氣體，含二氧化碳、水氣、氮氧化物、硫氧化物與懸浮微粒等成分。"
+  },
+  {
+    "english": "fluid parcel",
+    "traditional_chinese": "流體微團",
+    "definition_cht": "在流體力學分析中視為具有近似均勻性質且可隨流場移動的小體積流體，用以研究動量與熱質傳輸。"
+  },
+  {
+    "english": "flume",
+    "traditional_chinese": "水槽；量水槽",
+    "definition_cht": "供控制水流、進行水力試驗或量測流量的人工槽道；在水文上常特指具標準斷面的量水設施。"
+  },
+  {
+    "english": "fluorescence",
+    "traditional_chinese": "螢光",
+    "definition_cht": "物質吸收特定波長輻射後，於極短時間內以較長波長再放射能量的發光現象，可用於示蹤與光學量測。"
+  },
+  {
+    "english": "flurry",
+    "traditional_chinese": "陣雪",
+    "definition_cht": "短暫、間歇且通常強度不大的降雪現象，常伴隨陣性風或對流性雲系。"
+  },
+  {
+    "english": "fluvial dynamics",
+    "traditional_chinese": "河川動力學",
+    "definition_cht": "研究河流水流、輸沙、河床變形與河道演變機制的學科，屬水文與地貌學的重要分支。"
+  },
+  {
+    "english": "fluvial morphology",
+    "traditional_chinese": "河川形態學",
+    "definition_cht": "探討河道平面形狀、縱橫剖面、河床材料及其隨水流與輸沙作用演變之學科。"
+  },
+  {
+    "english": "flux",
+    "traditional_chinese": "通量",
+    "definition_cht": "某物理量在單位時間穿越單位面積的傳輸率，可指動量、熱、質量、水氣、輻射或磁通等。"
+  },
+  {
+    "english": "flux adjustment",
+    "traditional_chinese": "通量調整",
+    "definition_cht": "在耦合模式中對海氣或陸氣交換通量施加校正，以減少模式偏差並改善長期平均狀態的方法。"
+  },
+  {
+    "english": "flux aggregation",
+    "traditional_chinese": "通量聚合",
+    "definition_cht": "將較小尺度或多來源的通量資料依空間或時間加總、平均或整合，以建立較大尺度代表值的處理。"
+  },
+  {
+    "english": "flux density",
+    "traditional_chinese": "通量密度",
+    "definition_cht": "單位面積上的通量大小，是描述能量、質量或動量交換強弱的基本量。"
+  },
+  {
+    "english": "flux emissivity",
+    "traditional_chinese": "通量發射率",
+    "definition_cht": "實際表面所發射總輻射通量與同溫黑體發射通量之比，用以表徵表面整體放射能力。"
+  },
+  {
+    "english": "Flux richardson number",
+    "traditional_chinese": "通量理查遜數",
+    "definition_cht": "以浮力產生或消耗的湍流動能與剪切產生的湍流動能之比所定義的無因次數，用於判定穩定度對湍流的影響。"
+  },
+  {
+    "english": "flux transmittance",
+    "traditional_chinese": "通量透射率",
+    "definition_cht": "入射於介質或系統的總通量中，能夠穿透並傳輸至另一側之比例。"
+  },
+  {
+    "english": "flux-corrected transport",
+    "traditional_chinese": "通量修正傳輸法",
+    "definition_cht": "數值模式中兼顧守恆性、單調性與低數值擴散的平流計算方法，用以抑制虛假振盪與負值產生。"
+  },
+  {
+    "english": "flux-profile relationships",
+    "traditional_chinese": "通量—廓線關係",
+    "definition_cht": "描述地表層中動量、熱與水氣通量與平均風速、溫度、濕度垂直廓線之間關係的理論或經驗公式。"
+  },
+  {
+    "english": "flux-ratio method",
+    "traditional_chinese": "通量比法",
+    "definition_cht": "利用兩種或多種通量之比值推估未知交換量、沉降速率或來源強度的分析方法。"
+  },
+  {
+    "english": "fluxplate",
+    "traditional_chinese": "土壤熱通量板",
+    "definition_cht": "埋設於土壤中量測垂直熱通量的感測器，常用於地表能量收支與蒸散研究。"
+  },
+  {
+    "english": "fly ash",
+    "traditional_chinese": "飛灰",
+    "definition_cht": "燃煤或高溫焚化過程中隨煙氣帶出的細微灰粒，屬大氣懸浮微粒的重要人為來源之一。"
+  },
+  {
+    "english": "flyoff",
+    "traditional_chinese": "飄離現象",
+    "definition_cht": "指粒子、雪粒、沙粒或其他物質受風力作用而自原位置被吹離、脫離或散逸的現象。"
+  },
+  {
+    "english": "FM–CW radar",
+    "traditional_chinese": "調頻連續波雷達",
+    "definition_cht": "採用頻率調變連續波訊號量測目標距離與速度的雷達系統，常用於近距離探測、測高與降水觀測。"
+  },
+  {
+    "english": "foam crust",
+    "traditional_chinese": "泡沫殼層",
+    "definition_cht": "由泡沫、冰晶、鹽分或雜質在水面、雪面或海岸堆積後形成的薄殼狀表層。"
+  },
+  {
+    "english": "foehn",
+    "traditional_chinese": "焚風",
+    "definition_cht": "氣流越過山脈後於背風側下沉增溫、相對濕度降低而形成的乾暖局地風，常伴隨雲系消散與高溫低濕。"
+  },
+  {
+    "english": "foehn air",
+    "traditional_chinese": "焚風氣團",
+    "definition_cht": "受焚風作用影響而呈現乾暖特性的空氣，通常位於山脈背風側並具有顯著絕熱增溫特徵。"
+  },
+  {
+    "english": "foehn bank",
+    "traditional_chinese": "焚風雲牆",
+    "definition_cht": "位於山脈迎風側山脊附近、與焚風相關的雲帶或雲牆，常標示潮濕空氣抬升凝結與背風側下沉乾化的分界。"
+  },
+  {
+    "english": "foehn cloud",
+    "traditional_chinese": "焚風雲",
+    "definition_cht": "與焚風環流有關、常出現在山脊或背風波動區的透鏡狀雲、帽狀雲或滯留雲。"
+  },
+  {
+    "english": "foehn cyclone",
+    "traditional_chinese": "焚風低壓",
+    "definition_cht": "因焚風下沉增溫與背風側壓力場調整所形成或增強的局地低壓或旋渦系統。"
+  },
+  {
+    "english": "foehn gap",
+    "traditional_chinese": "焚風缺口",
+    "definition_cht": "山脈雲帶或降水區中因焚風下沉乾化而出現的局部無雲、少雲或降水中斷區。"
+  },
+  {
+    "english": "foehn island",
+    "traditional_chinese": "焚風暖島",
+    "definition_cht": "在較廣泛冷濕環境中，由焚風影響形成的局地乾暖區域，於溫度與濕度場上呈島狀分布。"
+  },
+  {
+    "english": "foehn nose",
+    "traditional_chinese": "焚風舌",
+    "definition_cht": "焚風前緣向下游或低地突出延伸的乾暖空氣舌狀區，常可由溫濕度突變辨識。"
+  },
+  {
+    "english": "foehn pause",
+    "traditional_chinese": "焚風暫歇",
+    "definition_cht": "焚風事件中因環流短暫調整、波動或水氣改變而出現的短時間減弱或中斷現象。"
+  },
+  {
+    "english": "foehn period",
+    "traditional_chinese": "焚風期",
+    "definition_cht": "某地區持續受焚風影響的時間區段，其間通常表現為偏高溫、低濕與陣風增強。"
+  },
+  {
+    "english": "foehn phase",
+    "traditional_chinese": "焚風階段",
+    "definition_cht": "焚風事件演變中的不同時期，如發生、增強、成熟與減弱階段，用於分析其時序特徵。"
+  },
+  {
+    "english": "foehn storm",
+    "traditional_chinese": "焚風暴",
+    "definition_cht": "伴隨強烈焚風、顯著陣風與劇烈乾暖效應的天氣事件，常對火災與設施安全造成威脅。"
+  },
+  {
+    "english": "foehn trough",
+    "traditional_chinese": "焚風槽",
+    "definition_cht": "受焚風背風下沉與熱力作用影響，在地面或低層形成的狹長低壓槽。"
+  },
+  {
+    "english": "foehn wall",
+    "traditional_chinese": "焚風牆雲",
+    "definition_cht": "沿山脈近山脊處排列、與焚風相關的明顯雲牆，常標示迎風凝結區與背風乾暖區之界線。"
+  },
+  {
+    "english": "foehn wave",
+    "traditional_chinese": "焚風波",
+    "definition_cht": "氣流越山後於背風側形成的山岳波動結構，常與焚風增暖、透鏡雲與強烈亂流並存。"
+  },
+  {
+    "english": "fog",
+    "traditional_chinese": "霧",
+    "definition_cht": "由懸浮於近地面空氣中的微小水滴或冰晶組成，使水平能見度降至一定標準以下的天氣現象。"
+  },
+  {
+    "english": "fog bank",
+    "traditional_chinese": "霧帶",
+    "definition_cht": "範圍較廣、邊界相對清楚並呈帶狀或塊狀分布的霧區，常見於海上或地形過渡地帶。"
+  },
+  {
+    "english": "fog chamber",
+    "traditional_chinese": "霧室",
+    "definition_cht": "用於模擬霧滴生成、凝結、成長與沉降過程的實驗裝置，亦可作為粒子活化研究設備。"
+  },
+  {
+    "english": "fog day",
+    "traditional_chinese": "霧日",
+    "definition_cht": "在氣候統計中，某日於規定觀測時段內曾觀測到霧現象者，即記為一個霧日。"
+  },
+  {
+    "english": "fog deposit",
+    "traditional_chinese": "霧沉積",
+    "definition_cht": "霧滴藉由碰撞、攔截或附著作用沉積於植被、地表或構造物上的水分與溶質。"
+  },
+  {
+    "english": "fog dispersal",
+    "traditional_chinese": "消霧",
+    "definition_cht": "透過自然過程或人工措施使霧滴蒸發、混合或沉降，從而提高能見度並削弱霧區的過程。"
+  },
+  {
+    "english": "fog dissipation",
+    "traditional_chinese": "霧消散",
+    "definition_cht": "霧因加熱、乾空氣混入、湍流攪拌或輻射條件改變而逐漸減弱直至消失的過程。"
+  },
+  {
+    "english": "fog drip",
+    "traditional_chinese": "霧滴滴落",
+    "definition_cht": "霧滴附著於樹冠、植被或人工表面後聚合成較大水滴，再因重力滴落至地面的現象。"
+  },
+  {
+    "english": "fog drop",
+    "traditional_chinese": "霧滴",
+    "definition_cht": "構成霧的微小液態水滴，粒徑通常較雲滴略大，能顯著散射光線並降低能見度。"
+  },
+  {
+    "english": "fog forest",
+    "traditional_chinese": "霧林",
+    "definition_cht": "長期受雲霧籠罩、可由霧滴攔截獲得重要水分來源的森林生態系，常見於沿海山地與雲霧林帶。"
+  },
+  {
+    "english": "fog horizon",
+    "traditional_chinese": "霧 horizon",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「霧 horizon」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fog patches",
+    "traditional_chinese": "霧 patches",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「霧 patches」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fog scale",
+    "traditional_chinese": "霧 scale",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「霧 scale」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fog wind",
+    "traditional_chinese": "霧 wind",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「霧 wind」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "folding",
+    "traditional_chinese": "folding",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「folding」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "folding frequency",
+    "traditional_chinese": "folding 頻率",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「folding 頻率」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "following wind",
+    "traditional_chinese": "following wind",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「following wind」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "foot-candle",
+    "traditional_chinese": "foot-candle",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「foot-candle」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "foot-pound",
+    "traditional_chinese": "foot-pound",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「foot-pound」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "footlambert",
+    "traditional_chinese": "footlambert",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「footlambert」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "footprint",
+    "traditional_chinese": "footprint",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「footprint」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "footprint modeling",
+    "traditional_chinese": "footprint modeling",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「footprint modeling」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forano",
+    "traditional_chinese": "forano",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forano」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forbidden transitions",
+    "traditional_chinese": "forbidden transitions",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forbidden transitions」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "force-restore method",
+    "traditional_chinese": "力-restore method",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「力-restore method」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forced cloud",
+    "traditional_chinese": "forced cloud",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forced cloud」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forced wave",
+    "traditional_chinese": "forced wave",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forced wave」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forcing function",
+    "traditional_chinese": "forcing 函數",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forcing 函數」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast amendment",
+    "traditional_chinese": "預報 amendment",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 amendment」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast area",
+    "traditional_chinese": "預報 area",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 area」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast chart",
+    "traditional_chinese": "預報 chart",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 chart」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast error",
+    "traditional_chinese": "預報 error",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 error」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast evaluation",
+    "traditional_chinese": "預報 evaluation",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 evaluation」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast lead time",
+    "traditional_chinese": "預報 lead time",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 lead time」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast period",
+    "traditional_chinese": "預報 period",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 period」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast updating",
+    "traditional_chinese": "預報 updating",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 updating」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast verification",
+    "traditional_chinese": "預報 verification",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 verification」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Forecast-informed reservoir operations",
+    "traditional_chinese": "預報-informed reservoir operations",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報-informed reservoir operations」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecast-reversal test",
+    "traditional_chinese": "預報-reversal test",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報-reversal test」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecaster",
+    "traditional_chinese": "forecaster",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forecaster」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forecasting error",
+    "traditional_chinese": "forecasting error",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forecasting error」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Forel scale",
+    "traditional_chinese": "Forel scale",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Forel scale」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forerunner",
+    "traditional_chinese": "forerunner",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forerunner」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forest meteorology",
+    "traditional_chinese": "森林 meteorology",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「森林 meteorology」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forestry",
+    "traditional_chinese": "forestry",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forestry」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forked lightning",
+    "traditional_chinese": "forked lightning",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forked lightning」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "form drag",
+    "traditional_chinese": "form drag",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「form drag」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "formaldehyde",
+    "traditional_chinese": "formaldehyde",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「formaldehyde」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "formation fluid",
+    "traditional_chinese": "形成 fluid",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「形成 fluid」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "formic acid",
+    "traditional_chinese": "formic acid",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「formic acid」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Fortin barometer",
+    "traditional_chinese": "Fortin barometer",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fortin barometer」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Forty Saints' storm",
+    "traditional_chinese": "Forty Saints' storm",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Forty Saints' storm」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forward chaining",
+    "traditional_chinese": "forward chaining",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forward chaining」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forward scatter",
+    "traditional_chinese": "forward scatter",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forward scatter」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forward scattering spectrometer probe",
+    "traditional_chinese": "forward scattering spectrometer probe",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forward scattering spectrometer probe」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "forward visibility",
+    "traditional_chinese": "forward visibility",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forward visibility」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fossil fuels",
+    "traditional_chinese": "fossil fuels",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fossil fuels」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fossil ice",
+    "traditional_chinese": "fossil ice",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fossil ice」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fossil water",
+    "traditional_chinese": "fossil water",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fossil water」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Foucault pendulum",
+    "traditional_chinese": "傅科擺",
+    "definition_cht": "用來展示地球自轉效應的擺動裝置。"
+  },
+  {
+    "english": "four-dimensional data assimilation",
+    "traditional_chinese": "four-dimensional data assimilation",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「four-dimensional data assimilation」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "four-dimensional variational assimilation",
+    "traditional_chinese": "four-dimensional variational assimilation",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「four-dimensional variational assimilation」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Fourier analysis",
+    "traditional_chinese": "傅立葉分析",
+    "definition_cht": "指將訊號或場分解為不同頻率正弦與餘弦成分的方法。"
+  },
+  {
+    "english": "Fourier integral",
+    "traditional_chinese": "Fourier integral",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fourier integral」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Fourier series",
+    "traditional_chinese": "Fourier series",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fourier series」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Fourier transform",
+    "traditional_chinese": "傅立葉轉換",
+    "definition_cht": "指將函數由原始域轉換到頻率域的數學運算。"
+  },
+  {
+    "english": "FOV",
+    "traditional_chinese": "FOV",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「FOV」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "foveal vision",
+    "traditional_chinese": "中央窩視覺",
+    "definition_cht": "指人眼視網膜中央窩所提供的高解析度視覺。"
+  },
+  {
+    "english": "fowan",
+    "traditional_chinese": "fowan",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fowan」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "foyer",
+    "traditional_chinese": "foyer",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「foyer」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "FPP scale",
+    "traditional_chinese": "FPP scale",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「FPP scale」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fps system",
+    "traditional_chinese": "fps system",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fps system」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fractal",
+    "traditional_chinese": "fractal",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fractal」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fractocumulus",
+    "traditional_chinese": "fractocumulus",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fractocumulus」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fractostratus",
+    "traditional_chinese": "fractostratus",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fractostratus」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fractus",
+    "traditional_chinese": "fractus",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fractus」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "frank",
+    "traditional_chinese": "frank",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「frank」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "fraternal twin integrations",
+    "traditional_chinese": "fraternal twin integrations",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fraternal twin integrations」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Fraunhofer diffraction theory",
+    "traditional_chinese": "Fraunhofer diffraction theory",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fraunhofer diffraction theory」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Fraunhofer lines",
+    "traditional_chinese": "Fraunhofer lines",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fraunhofer lines」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "frazil",
+    "traditional_chinese": "frazil",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「frazil」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "frazil ice",
+    "traditional_chinese": "針冰",
+    "definition_cht": "指在過冷水體中形成的細小板狀或針狀冰晶。"
+  },
+  {
+    "english": "freak wave",
+    "traditional_chinese": "freak wave",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freak wave」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free acidity",
+    "traditional_chinese": "free acidity",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free acidity」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free air",
+    "traditional_chinese": "free air",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free air」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free atmosphere",
+    "traditional_chinese": "自由大氣",
+    "definition_cht": "指位於邊界層之上、較少直接受地表摩擦影響的大氣部分。"
+  },
+  {
+    "english": "free convection scaling",
+    "traditional_chinese": "free convection scaling",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free convection scaling」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free electron",
+    "traditional_chinese": "free electron",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free electron」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free nappe",
+    "traditional_chinese": "free nappe",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free nappe」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free radical",
+    "traditional_chinese": "free radical",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free radical」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free space",
+    "traditional_chinese": "free space",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free space」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Free streamline",
+    "traditional_chinese": "Free streamline",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Free streamline」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free surface",
+    "traditional_chinese": "free surface",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free surface」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free turbulence",
+    "traditional_chinese": "free turbulence",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free turbulence」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free water",
+    "traditional_chinese": "free water",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free water」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free wave",
+    "traditional_chinese": "free wave",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free wave」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free-board",
+    "traditional_chinese": "free-board",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free-board」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free-stream Mach number",
+    "traditional_chinese": "free-stream Mach number",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free-stream Mach number」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "free-surface conditions",
+    "traditional_chinese": "free-surface conditions",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free-surface conditions」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freeze",
+    "traditional_chinese": "freeze",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freeze probability curve",
+    "traditional_chinese": "freeze probability curve",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze probability curve」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freeze-free period",
+    "traditional_chinese": "freeze-free period",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze-free period」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freeze-up",
+    "traditional_chinese": "freeze-up",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze-up」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freeze–thaw pattern",
+    "traditional_chinese": "freeze–thaw pattern",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze–thaw pattern」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing",
+    "traditional_chinese": "凍結",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Freezing drizzle",
+    "traditional_chinese": "凍結 drizzle",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 drizzle」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing fog",
+    "traditional_chinese": "凍結 霧",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 霧」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing index",
+    "traditional_chinese": "凍結 index",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 index」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing level",
+    "traditional_chinese": "凍結 level",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 level」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing nucleus",
+    "traditional_chinese": "凍結 nucleus",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 nucleus」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing point",
+    "traditional_chinese": "凍結 point",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 point」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing precipitation",
+    "traditional_chinese": "凍結 precipitation",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 precipitation」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Freezing rain",
+    "traditional_chinese": "凍結 rain",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 rain」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing season",
+    "traditional_chinese": "凍結 season",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 season」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing spray",
+    "traditional_chinese": "凍結 spray",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 spray」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freezing-level chart",
+    "traditional_chinese": "凍結-level chart",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結-level chart」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "Fremantle Doctor",
+    "traditional_chinese": "Fremantle Doctor",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fremantle Doctor」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "freon",
+    "traditional_chinese": "freon",
+    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freon」有關的現象、物理量、觀測方法或分析概念。"
+  },
+  {
+    "english": "frequency",
+    "traditional_chinese": "頻率",
+    "definition_cht": "單位時間內週期性現象重複發生的次數，常以赫茲表示；在氣象遙測、波動、訊號處理與時間序列分析中為基本物理量。"
+  },
+  {
+    "english": "frequency agility",
+    "traditional_chinese": "頻率捷變",
+    "definition_cht": "指雷達或通訊系統能快速切換發射頻率的能力，用以降低干擾、抑制雜波或避免敵對電子反制。"
+  },
+  {
+    "english": "frequency analysis",
+    "traditional_chinese": "頻率分析",
+    "definition_cht": "利用事件出現次數或重現特性評估其統計規律的方法，水文上常用於推估洪水、暴雨等極端事件的重現期與機率分布。"
+  },
+  {
+    "english": "frequency band",
+    "traditional_chinese": "頻帶",
+    "definition_cht": "電磁波或訊號所佔據的特定頻率範圍，常用於區分雷達、衛星遙測與無線通訊系統之工作波段。"
+  },
+  {
+    "english": "frequency coding",
+    "traditional_chinese": "頻率編碼",
+    "definition_cht": "以不同頻率或頻率組合承載資訊的編碼方式，應用於遙測訊號傳輸、儀器輸出與通訊辨識。"
+  },
+  {
+    "english": "frequency distribution",
+    "traditional_chinese": "頻率分布",
+    "definition_cht": "描述各數值區間內觀測次數或相對比例之統計分布，用於呈現氣象與水文資料的集中、離散與偏態特徵。"
+  },
+  {
+    "english": "frequency meter",
+    "traditional_chinese": "頻率計",
+    "definition_cht": "用於量測週期性電訊號頻率的儀器，可應用於雷達、通訊與電子觀測設備之校驗。"
+  },
+  {
+    "english": "frequency modulation",
+    "traditional_chinese": "頻率調變",
+    "definition_cht": "以載波瞬時頻率隨訊號變化而改變之調變方式，常用於通訊、遙測與部分主動式量測系統。"
+  },
+  {
+    "english": "frequency response",
+    "traditional_chinese": "頻率響應",
+    "definition_cht": "系統對不同輸入頻率之振幅與相位反應特性，可用以評估儀器、濾波器或地球物理系統對週期訊號的傳遞能力。"
+  },
+  {
+    "english": "frequency-domain averaging",
+    "traditional_chinese": "頻域平均",
+    "definition_cht": "先將訊號轉換至頻率域，再對頻譜量進行平均處理的方法，可降低隨機雜訊並提升頻譜估計穩定性。"
+  },
+  {
+    "english": "fresh",
+    "traditional_chinese": "清勁的",
+    "definition_cht": "用於風力描述時，指風勢明顯而較強但尚未達烈風等級，常見於航海或傳統風力術語。"
+  },
+  {
+    "english": "fresh breeze",
+    "traditional_chinese": "清勁風",
+    "definition_cht": "蒲福風級中的一級風力描述，通常對應中等偏強之持續風，海面可見較明顯浪峰與白沫。"
+  },
+  {
+    "english": "freshet",
+    "traditional_chinese": "短期洪漲",
+    "definition_cht": "河川因短時強降雨、融雪或上游來水增加而出現的暫時性水位與流量快速上升現象。"
+  },
+  {
+    "english": "freshwater",
+    "traditional_chinese": "淡水",
+    "definition_cht": "鹽度較低之天然水體總稱，包括河川、湖泊、地下水與冰雪融水，為水文循環與生態系之重要組成。"
+  },
+  {
+    "english": "Fresnel reflection",
+    "traditional_chinese": "菲涅耳反射",
+    "definition_cht": "電磁波或光波在兩種介質交界面因折射率差異所產生的反射現象，其反射強度與偏振狀態受入射角與介質性質控制。"
+  },
+  {
+    "english": "Fresnel zone",
+    "traditional_chinese": "菲涅耳區",
+    "definition_cht": "波動傳播時，相對於發射端與接收端路徑所定義的橢球形空間區域；其遮蔽程度會影響訊號強度與相位。"
+  },
+  {
+    "english": "friagem",
+    "traditional_chinese": "南侵冷潮",
+    "definition_cht": "南美洲熱帶地區，特別是亞馬遜盆地，受中高緯冷空氣北侵影響而出現的短期顯著降溫現象。"
+  },
+  {
+    "english": "friction",
+    "traditional_chinese": "摩擦",
+    "definition_cht": "相鄰流體層或流體與固體邊界間因黏滯作用而產生的阻力，可耗散動能並改變風場、水流與湍流結構。"
+  },
+  {
+    "english": "friction head",
+    "traditional_chinese": "摩擦水頭損失",
+    "definition_cht": "流體在管道、孔隙介質或水力系統中流動時，因摩擦阻力所損失的等效水頭。"
+  },
+  {
+    "english": "friction layer",
+    "traditional_chinese": "摩擦層",
+    "definition_cht": "接近地表或海面、受摩擦力顯著影響的流體層，風速與風向會隨高度快速調整，通常屬行星邊界層下部。"
+  },
+  {
+    "english": "friction loss",
+    "traditional_chinese": "摩擦損失",
+    "definition_cht": "流體運動過程中因壁面阻力或內部黏滯耗散而造成的能量損耗，常表現為壓降或水頭降低。"
+  },
+  {
+    "english": "friction velocity",
+    "traditional_chinese": "摩擦速度",
+    "definition_cht": "由表面剪應力定義的速度尺度，常記為 u*，用於表徵地表層動量交換與湍流強度。"
+  },
+  {
+    "english": "frictional convergence",
+    "traditional_chinese": "摩擦輻合",
+    "definition_cht": "近地面氣流受摩擦減速後，風向偏向低壓區而造成的水平輻合現象，常促進上升運動與雲雨發展。"
+  },
+  {
+    "english": "frictional divergence",
+    "traditional_chinese": "摩擦輻散",
+    "definition_cht": "近地面氣流在摩擦作用下形成的水平散開現象，常見於高壓區附近，並有助於下沉運動維持。"
+  },
+  {
+    "english": "frictional drag",
+    "traditional_chinese": "摩擦阻力",
+    "definition_cht": "流體與邊界面或不同流層間因黏滯與粗糙效應所產生的阻力，是動量耗散的重要來源。"
+  },
+  {
+    "english": "frictional force",
+    "traditional_chinese": "摩擦力",
+    "definition_cht": "阻礙相對運動的力；在氣象與海洋中主要指地表或內部黏滯作用對氣流、水流所施加之阻力。"
+  },
+  {
+    "english": "frictional skin drag",
+    "traditional_chinese": "表面摩擦阻力",
+    "definition_cht": "流體沿物體表面流動時，由邊界層內剪應力所造成的阻力成分，與表面粗糙度及流速有關。"
+  },
+  {
+    "english": "frictional torque",
+    "traditional_chinese": "摩擦力矩",
+    "definition_cht": "摩擦力相對某旋轉軸產生的力矩，可改變環流、渦旋或旋轉機械系統的角動量。"
+  },
+  {
+    "english": "friendly ice",
+    "traditional_chinese": "易航冰",
+    "definition_cht": "對船舶航行阻礙較小、較易通過的海冰狀態，通常指分散、薄弱或活動度較高之冰況。"
+  },
+  {
+    "english": "Frigid zone",
+    "traditional_chinese": "寒帶",
+    "definition_cht": "地理上指位於兩極圈以內的高緯度帶，全年太陽高度低、氣溫偏低，冰雪與極地氣候特徵明顯。"
+  },
+  {
+    "english": "frigorimeter",
+    "traditional_chinese": "冷量計",
+    "definition_cht": "用於量測冷卻效應或低溫造成熱量損失程度的儀器，歷史上曾用於環境冷卻能力評估。"
+  },
+  {
+    "english": "fringe region",
+    "traditional_chinese": "邊緣區",
+    "definition_cht": "某一主要天氣系統、雲體、回波場或水文影響範圍之外圍過渡地帶，其物理特徵通常較核心區弱且變化較大。"
+  },
+  {
+    "english": "frog storm",
+    "traditional_chinese": "蛙雨暴風",
+    "definition_cht": "民俗或罕見報導用語，指強對流或龍捲等天氣將蛙類捲升後隨降水落下的特殊現象。"
+  },
+  {
+    "english": "front",
+    "traditional_chinese": "鋒",
+    "definition_cht": "性質不同的兩氣團之間所形成的狹窄過渡帶，常伴隨明顯的溫度、濕度、風向與天氣變化。"
+  },
+  {
+    "english": "frontal analysis",
+    "traditional_chinese": "鋒面分析",
+    "definition_cht": "依據地面與高空觀測資料判定鋒面位置、性質與結構的天氣分析作業，是綜觀診斷的重要內容。"
+  },
+  {
+    "english": "frontal contour",
+    "traditional_chinese": "鋒面等值線",
+    "definition_cht": "用於表示鋒面相關變數分布或鋒面位置形態的分析線條，可輔助描繪鋒區結構與延伸方向。"
+  },
+  {
+    "english": "frontal cyclone",
+    "traditional_chinese": "鋒面氣旋",
+    "definition_cht": "生成或發展於鋒面帶上的中緯度低壓系統，通常伴隨暖鋒、冷鋒與明顯斜壓不穩定。"
+  },
+  {
+    "english": "frontal fog",
+    "traditional_chinese": "鋒面霧",
+    "definition_cht": "在鋒面附近因降水蒸發增濕、暖濕空氣平流冷卻或近地層飽和而形成的霧。"
+  },
+  {
+    "english": "frontal inversion",
+    "traditional_chinese": "鋒面逆溫",
+    "definition_cht": "鋒面附近因暖冷氣團疊置而出現的逆溫層，常反映鋒面斜坡上的熱力不連續結構。"
+  },
+  {
+    "english": "frontal lifting",
+    "traditional_chinese": "鋒面抬升",
+    "definition_cht": "暖濕空氣沿鋒面斜坡被迫上升的過程，可促成雲系發展、降水及潛熱釋放。"
+  },
+  {
+    "english": "frontal model",
+    "traditional_chinese": "鋒面模式",
+    "definition_cht": "用以描述鋒面形成、結構、演變與伴隨天氣現象的概念或數值模型。"
+  },
+  {
+    "english": "frontal passage",
+    "traditional_chinese": "鋒面過境",
+    "definition_cht": "鋒面通過某地時的過程，常伴隨風向轉變、氣溫與氣壓突變，以及降水或對流天氣。"
+  },
+  {
+    "english": "frontal precipitation",
+    "traditional_chinese": "鋒面降水",
+    "definition_cht": "由鋒面抬升作用引發的降水，常呈帶狀分布，並與暖鋒、冷鋒或囚錮鋒結構密切相關。"
+  },
+  {
+    "english": "frontal profile",
+    "traditional_chinese": "鋒面剖面",
+    "definition_cht": "沿垂直平面描述鋒面傾斜結構及其溫度、濕度、風場與雲降水分布的剖面圖或概念描述。"
+  },
+  {
+    "english": "frontal strip",
+    "traditional_chinese": "鋒面帶",
+    "definition_cht": "沿鋒面延伸、具有較強水平梯度與活躍天氣現象的狹長區域。"
+  },
+  {
+    "english": "frontal system",
+    "traditional_chinese": "鋒面系統",
+    "definition_cht": "由冷鋒、暖鋒、囚錮鋒及其相關低壓環流所組成的整體天氣系統。"
+  },
+  {
+    "english": "frontal theory",
+    "traditional_chinese": "鋒面理論",
+    "definition_cht": "解釋中緯度天氣系統中鋒面之形成、演變與氣旋發展機制的理論架構，為挪威學派綜觀氣象的重要基礎。"
+  },
+  {
+    "english": "frontal thunderstorm",
+    "traditional_chinese": "鋒面雷暴",
+    "definition_cht": "沿鋒面或其附近因抬升與不穩定條件配合而形成的雷暴，常見於冷鋒前緣或鋒生區。"
+  },
+  {
+    "english": "frontal wave",
+    "traditional_chinese": "鋒面波",
+    "definition_cht": "鋒面上產生的波狀擾動，常為溫帶氣旋生成與發展的初始階段。"
+  },
+  {
+    "english": "frontogenesis",
+    "traditional_chinese": "鋒生",
+    "definition_cht": "水平溫度或位溫梯度增強、使鋒面形成或強化的動力與熱力過程。"
+  },
+  {
+    "english": "frontogenetical function",
+    "traditional_chinese": "鋒生函數",
+    "definition_cht": "定量描述氣團邊界上水平梯度增強或減弱速率的診斷量，用於評估鋒生與鋒消的強弱。"
+  },
+  {
+    "english": "frontolysis",
+    "traditional_chinese": "鋒消",
+    "definition_cht": "鋒面之水平熱力梯度減弱、結構鬆散或消失的過程，常與混合作用或變形場改變有關。"
+  },
+  {
+    "english": "fropa",
+    "traditional_chinese": "鋒面通過",
+    "definition_cht": "front passage 的縮略用語，業務氣象中常用以簡記冷鋒、暖鋒或其他鋒面通過測站或區域的事件。"
+  },
+  {
+    "english": "frost",
+    "traditional_chinese": "霜",
+    "definition_cht": "地表或近地物體溫度降至冰點以下時，空氣中的水氣直接凝華為冰晶並附著其上的現象。"
+  },
+  {
+    "english": "frost action",
+    "traditional_chinese": "凍霜作用",
+    "definition_cht": "土壤或岩石受凍結、融解與冰晶生長反覆作用而引起破碎、位移或變形的地表過程。"
+  },
+  {
+    "english": "frost belt",
+    "traditional_chinese": "霜帶",
+    "definition_cht": "地形、冷空氣滯留或局地輻射冷卻作用下，較易頻繁發生霜害的狹長地帶。"
+  },
+  {
+    "english": "frost blister",
+    "traditional_chinese": "凍脹丘泡",
+    "definition_cht": "多年凍土或季節凍土區地表因地下冰體膨脹而局部鼓起形成的泡狀隆起。"
+  },
+  {
+    "english": "frost boil",
+    "traditional_chinese": "凍融翻攪斑",
+    "definition_cht": "寒地土壤受凍融循環與差異性凍脹作用影響，形成的裸露細粒土斑或翻攪地表構造。"
+  },
+  {
+    "english": "frost climate",
+    "traditional_chinese": "霜凍氣候",
+    "definition_cht": "以頻繁霜凍或長期低溫條件為特徵的氣候環境，常影響植生分布與農業活動。"
+  },
+  {
+    "english": "frost damage",
+    "traditional_chinese": "霜害",
+    "definition_cht": "植物、作物、設施或材料因霜凍與低溫造成細胞受損、組織壞死或功能下降的損害。"
+  },
+  {
+    "english": "frost day",
+    "traditional_chinese": "霜日",
+    "definition_cht": "氣候統計上通常指日最低氣溫降至 0°C 或以下的一日，或觀測到霜發生的一日。"
+  },
+  {
+    "english": "frost depth",
+    "traditional_chinese": "凍結深度",
+    "definition_cht": "土壤或地層因低溫而凍結所達到的垂直深度，是寒地工程與農業管理的重要參數。"
+  },
+  {
+    "english": "frost hazard",
+    "traditional_chinese": "霜凍危害",
+    "definition_cht": "某地或某時段因低溫結霜對作物、生態系、交通或設施造成損失的潛在風險。"
+  },
+  {
+    "english": "frost haze",
+    "traditional_chinese": "冰霜霾",
+    "definition_cht": "由極細小冰晶懸浮於近地空氣中所形成、使能見度降低的朦朧現象，常出現在嚴寒且穩定的天氣條件下。"
+  },
+  {
+    "english": "frost heaving",
+    "traditional_chinese": "凍脹",
+    "definition_cht": "土壤中的水分在凍結過程中形成冰透鏡並膨脹，導致地表或工程構造向上抬升的現象。"
+  },
+  {
+    "english": "frost hollow",
+    "traditional_chinese": "霜窪地",
+    "definition_cht": "夜間冷空氣易匯聚與滯留的低窪地形，因輻射冷卻較強而特別容易發生霜凍。"
+  },
+  {
+    "english": "frost line",
+    "traditional_chinese": "凍線",
+    "definition_cht": "地表下土壤凍結與未凍結層之間的界面，亦可指地理上霜凍出現頻率的分界線。"
+  },
+  {
+    "english": "frost mist",
+    "traditional_chinese": "冰霜霧",
+    "definition_cht": "在嚴寒環境中由細小冰晶組成、近似霧狀的懸浮體，通常出現在高濕且低溫的靜穩空氣中。"
+  },
+  {
+    "english": "frost mound",
+    "traditional_chinese": "凍脹丘",
+    "definition_cht": "寒地因地下冰聚集、凍脹與土體變形所形成的丘狀地形，可為季節性或多年性。"
+  },
+  {
+    "english": "frost pocket",
+    "traditional_chinese": "霜穴地",
+    "definition_cht": "局地冷空氣容易積聚的微地形區域，夜間低溫顯著，常成為霜害高風險地點。"
+  },
+  {
+    "english": "frost point hygrometer",
+    "traditional_chinese": "霜點濕度計",
+    "definition_cht": "藉由測定水氣在冷卻鏡面上開始凝華成霜之溫度，以推算空氣含濕量的高精度濕度測量儀器。"
+  },
+  {
+    "english": "frost protection",
+    "traditional_chinese": "防霜措施",
+    "definition_cht": "為降低霜害而採取的農業或工程防護方法，如灌溉、風機攪拌、覆蓋與加熱等。"
+  },
+  {
+    "english": "frost ring",
+    "traditional_chinese": "霜環",
+    "definition_cht": "因局部冷卻、沉積或植物組織受霜後形成的環狀痕跡或結構，可見於植株、土壤或沉積表面。"
+  },
+  {
+    "english": "frost smoke",
+    "traditional_chinese": "蒸汽霧",
+    "definition_cht": "冷空氣移至較暖水面上方時，水氣蒸發後立即凝結成細小霧滴或冰晶所形成的近水面霧，亦稱海煙。"
+  },
+  {
+    "english": "frost table",
+    "traditional_chinese": "凍土上界面",
+    "definition_cht": "多年凍土區中，活動層底部與永久凍土頂部所形成的界面位置。"
+  },
+  {
+    "english": "frost zone",
+    "traditional_chinese": "霜凍帶",
+    "definition_cht": "依霜凍發生頻率、強度或持續期劃分的區域帶，用於農業氣候與土地利用規劃。"
+  },
+  {
+    "english": "frost-free season",
+    "traditional_chinese": "無霜期",
+    "definition_cht": "一年中介於最後一次春季霜凍與第一次秋季霜凍之間、通常不出現霜害的時段。"
+  },
+  {
+    "english": "frostburn",
+    "traditional_chinese": "凍傷",
+    "definition_cht": "生物組織因長時間暴露於低溫或冰凍環境而受損的現象，可見於人體、植物與其他有機體。"
+  },
+  {
+    "english": "frostless zone",
+    "traditional_chinese": "無霜帶",
+    "definition_cht": "長年極少或幾乎不發生霜凍的地區，常見於海洋性或低緯暖濕環境。"
+  },
+  {
+    "english": "Froude number",
+    "traditional_chinese": "弗勞德數",
+    "definition_cht": "描述流體慣性力與重力效應相對強弱的無因次數，常用於重力波、明渠流、地形繞流與密度流研究。"
+  },
+  {
+    "english": "frozen fog",
+    "traditional_chinese": "凍霧",
+    "definition_cht": "在氣溫低於冰點時，由過冷霧滴與冰晶組成或直接由冰晶構成的霧，常使附著結冰加劇。"
+  },
+  {
+    "english": "frozen ground",
+    "traditional_chinese": "凍土",
+    "definition_cht": "土壤或地表層因溫度低於冰點而使孔隙水凍結的狀態，可為季節性凍結或多年凍土的一部分。"
+  },
+  {
+    "english": "frozen precipitation",
+    "traditional_chinese": "固態降水",
+    "definition_cht": "以冰晶、雪、霰、冰珠等固態形式降落的降水總稱。"
+  },
+  {
+    "english": "frozen turbulence",
+    "traditional_chinese": "凍結湍流假設",
+    "definition_cht": "假設湍流結構在被平均流攜帶通過觀測點時其形態近似不變的概念，常用於泰勒凍結湍流假設。"
+  },
+  {
+    "english": "frozen-in-field",
+    "traditional_chinese": "凍結磁場",
+    "definition_cht": "磁流體動力學中的概念，指在高導電流體內磁力線近似隨流體一同運動而不易相對滑移。"
+  },
+  {
+    "english": "Fujita scale",
+    "traditional_chinese": "藤田級數",
+    "definition_cht": "用以依據風害痕跡推估龍捲風強度的分級系統，由藤田哲也提出。"
+  },
+  {
+    "english": "Fujita–Pearson scale",
+    "traditional_chinese": "藤田－皮爾森級數",
+    "definition_cht": "結合龍捲風強度、路徑長度與路徑寬度的分級表示法，用於更完整描述龍捲風事件特徵。"
+  },
+  {
+    "english": "Fujiwhara effect",
+    "traditional_chinese": "藤原效應",
+    "definition_cht": "兩個相近的熱帶氣旋或渦旋彼此繞行、接近、排斥或合併的相互作用現象。"
+  },
+  {
+    "english": "fulchronograph",
+    "traditional_chinese": "雷電記錄儀",
+    "definition_cht": "用於自動記錄雷電發生時間或活動特徵的儀器，屬較早期的雷暴觀測設備。"
+  },
+  {
+    "english": "fulgurite",
+    "traditional_chinese": "雷管石",
+    "definition_cht": "雷擊砂土或鬆散沉積物時，瞬間高溫使其熔融並冷卻形成的中空玻璃狀管狀體。"
+  },
+  {
+    "english": "fully developed sea",
+    "traditional_chinese": "充分發展海況",
+    "definition_cht": "在一定風速、風程與持續時間下，風浪成長已達近似平衡、不再明顯增高的海面狀態。"
+  },
+  {
+    "english": "fully penetrating well",
+    "traditional_chinese": "全穿透井",
+    "definition_cht": "井篩或井身貫穿整個含水層厚度的地下水井，可較完整地攔截該含水層水流。"
+  },
+  {
+    "english": "fully rough flow",
+    "traditional_chinese": "完全粗糙流",
+    "definition_cht": "紊流中阻力主要受邊界粗糙元控制，而分子黏滯影響相對可忽略的流動狀態。"
+  },
+  {
+    "english": "fumigation",
+    "traditional_chinese": "薰蒸下混",
+    "definition_cht": "大氣污染中，原位於高處的煙流因下方混合層迅速加深而被帶向近地面，致使地面濃度顯著升高的現象。"
+  },
+  {
+    "english": "fumulus",
+    "traditional_chinese": "煙積雲",
+    "definition_cht": "由工業熱源、火災或其他強烈地面熱力作用產生上升氣流而形成、外觀近似積雲的雲體。"
+  },
+  {
+    "english": "fundamental dimensions",
+    "traditional_chinese": "基本量綱",
+    "definition_cht": "構成物理量綱系統的基礎量，如長度、質量、時間與溫度等，用於量綱分析與相似理論。"
+  },
+  {
+    "english": "fundamental equations of hydrodynamics",
+    "traditional_chinese": "流體動力學基本方程",
+    "definition_cht": "描述流體守恆關係的基本方程組，通常包括質量、動量與能量守恆方程，是大氣與海洋動力學之基礎。"
+  },
+  {
+    "english": "fundamental frequency",
+    "traditional_chinese": "基頻",
+    "definition_cht": "週期訊號中最低的基本振動頻率，其餘諧波通常為其整數倍。"
+  },
+  {
+    "english": "fundamental unit",
+    "traditional_chinese": "基本單位",
+    "definition_cht": "量測系統中不再由其他單位導出的基礎單位，用以構成各種導出單位與物理量表示。"
+  },
+  {
+    "english": "funnel cloud",
+    "traditional_chinese": "漏斗雲",
+    "definition_cht": "自積雨雲或對流雲底向下延伸、呈漏斗狀的凝結雲體，代表旋轉上升氣流但未必接地成龍捲。"
+  },
+  {
+    "english": "funneling",
+    "traditional_chinese": "狹管加速效應",
+    "definition_cht": "氣流或水流通過山谷、海峽、都市通道等狹窄地形時，因流道收縮而產生加速的現象。"
+  },
+  {
+    "english": "furiani",
+    "traditional_chinese": "富里亞尼風",
+    "definition_cht": "地中海或地方性氣候文獻中的區域風名，指特定地區依地形與天氣型態而出現的局地風。"
+  },
+  {
+    "english": "fusion",
+    "traditional_chinese": "熔化",
+    "definition_cht": "物質由固態轉變為液態的相變過程；在冰雪與雹粒研究中常用以描述受熱融解。"
+  },
+  {
+    "english": "fuzzy knowledge",
+    "traditional_chinese": "模糊知識",
+    "definition_cht": "以模糊集合與不確定規則表示之知識形式，適合處理邊界不明確或經驗性強的判斷問題。"
+  },
+  {
+    "english": "fuzzy logic",
+    "traditional_chinese": "模糊邏輯",
+    "definition_cht": "允許真值介於 0 與 1 之間的推理方法，可用於氣象分類、控制系統與不確定資訊判釋。"
+  },
+  {
+    "english": "fuzzy set",
+    "traditional_chinese": "模糊集合",
+    "definition_cht": "元素對某集合的隸屬程度可為連續值而非僅有屬於或不屬於的數學集合概念。"
+  },
+  {
+    "english": "fuzzy variable",
+    "traditional_chinese": "模糊變數",
+    "definition_cht": "以模糊集合描述其可能取值或語意範圍的變數，用於表達不精確、模糊或語意化的系統狀態。"
+  }
+]
