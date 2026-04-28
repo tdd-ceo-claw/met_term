@@ -1,0 +1,2497 @@
+[
+  {
+    "english": "D-analysis",
+    "traditional_chinese": "D-分析",
+    "definition_cht": "「D-分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "D-region",
+    "traditional_chinese": "D區",
+    "definition_cht": "指與「D區」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "D-value",
+    "traditional_chinese": "D值",
+    "definition_cht": "用於表示「D值」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "d'Alembert's paradox",
+    "traditional_chinese": "達朗貝爾悖論",
+    "definition_cht": "指「達朗貝爾悖論」所描述的理論悖論或表面矛盾，用於說明流體運動、動力平衡或物理假設在特定條件下所呈現的限制與特殊結果。"
+  },
+  {
+    "english": "dadur",
+    "traditional_chinese": "達杜爾",
+    "definition_cht": "「達杜爾」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "daily forecast",
+    "traditional_chinese": "每日預報",
+    "definition_cht": "指「每日預報」這類預報產品或預測作業，用以說明未來一定時段內之天氣、氣候或相關環境條件變化。"
+  },
+  {
+    "english": "daily maximum temperature",
+    "traditional_chinese": "每日最高溫",
+    "definition_cht": "指與「每日最高溫」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "daily mean",
+    "traditional_chinese": "每日平均值",
+    "definition_cht": "「每日平均值」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "daily minimum temperature",
+    "traditional_chinese": "每日最低溫",
+    "definition_cht": "指與「每日最低溫」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "daily range of temperature",
+    "traditional_chinese": "每日溫度範圍",
+    "definition_cht": "指與「每日溫度範圍」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "daily storage",
+    "traditional_chinese": "日常儲存",
+    "definition_cht": "「日常儲存」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dalton's law",
+    "traditional_chinese": "道爾頓定律",
+    "definition_cht": "與「道爾頓定律」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "Damming",
+    "traditional_chinese": "達明",
+    "definition_cht": "「達明」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "damp haze",
+    "traditional_chinese": "濕霧",
+    "definition_cht": "指與「濕霧」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "damped wave",
+    "traditional_chinese": "阻尼波",
+    "definition_cht": "指「阻尼波」這類波動或振盪現象，常用於描述大氣、海洋或其他地球流體介質中的能量傳播與週期性變化。"
+  },
+  {
+    "english": "damping",
+    "traditional_chinese": "避震",
+    "definition_cht": "指與「避震」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "dancing devil",
+    "traditional_chinese": "跳舞的惡魔",
+    "definition_cht": "「跳舞的惡魔」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dangerous semicircle",
+    "traditional_chinese": "危險的半圓",
+    "definition_cht": "「危險的半圓」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dansgaard–Oeschger events",
+    "traditional_chinese": "丹斯加德-厄施格事件",
+    "definition_cht": "指與「丹斯加德-厄施格事件」相關的時間尺度、事件型態或週期變化，常用於記述天氣、氣候或環境條件在一定時段內的表現。"
+  },
+  {
+    "english": "Darcian velocity",
+    "traditional_chinese": "達西速度",
+    "definition_cht": "指描述「達西速度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "Darcy's law",
+    "traditional_chinese": "達西定律",
+    "definition_cht": "與「達西定律」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "dark",
+    "traditional_chinese": "黑暗的",
+    "definition_cht": "「黑暗的」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dark adaptation",
+    "traditional_chinese": "暗適應",
+    "definition_cht": "「暗適應」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dark lightning",
+    "traditional_chinese": "黑暗閃電",
+    "definition_cht": "「黑暗閃電」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dark segment",
+    "traditional_chinese": "暗段",
+    "definition_cht": "「暗段」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Darling shower",
+    "traditional_chinese": "親愛的淋浴",
+    "definition_cht": "「親愛的淋浴」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dart leader",
+    "traditional_chinese": "飛鏢隊長",
+    "definition_cht": "「飛鏢隊長」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "data acquisition system",
+    "traditional_chinese": "數據採集系統",
+    "definition_cht": "「數據採集系統」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "data assimilation",
+    "traditional_chinese": "資料同化",
+    "definition_cht": "「資料同化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "data collection platform",
+    "traditional_chinese": "數據採集平台",
+    "definition_cht": "「數據採集平台」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "data collection system",
+    "traditional_chinese": "數據採集系統",
+    "definition_cht": "「數據採集系統」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "data directory",
+    "traditional_chinese": "數據目錄",
+    "definition_cht": "「數據目錄」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "data logger",
+    "traditional_chinese": "數據記錄器",
+    "definition_cht": "「數據記錄器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "data window",
+    "traditional_chinese": "資料視窗",
+    "definition_cht": "指與「資料視窗」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "dataset",
+    "traditional_chinese": "數據集",
+    "definition_cht": "「數據集」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dataset catalog",
+    "traditional_chinese": "資料集目錄",
+    "definition_cht": "「資料集目錄」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dataset directory",
+    "traditional_chinese": "資料集目錄",
+    "definition_cht": "「資料集目錄」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "datum",
+    "traditional_chinese": "基準",
+    "definition_cht": "「基準」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "datum level",
+    "traditional_chinese": "基準面",
+    "definition_cht": "「基準面」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Davidson Current",
+    "traditional_chinese": "戴維森電流",
+    "definition_cht": "指與「戴維森電流」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "Davies number",
+    "traditional_chinese": "戴維斯數",
+    "definition_cht": "用於表示「戴維斯數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "dawn",
+    "traditional_chinese": "黎明",
+    "definition_cht": "「黎明」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "day",
+    "traditional_chinese": "天",
+    "definition_cht": "指與「天」相關的時間尺度、事件型態或週期變化，常用於記述天氣、氣候或環境條件在一定時段內的表現。"
+  },
+  {
+    "english": "days with snow cover",
+    "traditional_chinese": "有積雪的日子",
+    "definition_cht": "指與「有積雪的日子」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dB''Z",
+    "traditional_chinese": "分貝Z",
+    "definition_cht": "「分貝Z」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "DCAPE",
+    "traditional_chinese": "迪卡普",
+    "definition_cht": "「迪卡普」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "DCS",
+    "traditional_chinese": "分散式控制系統",
+    "definition_cht": "「分散式控制系統」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "DCVZ",
+    "traditional_chinese": "DCVZ",
+    "definition_cht": "「DCVZ」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "DDA",
+    "traditional_chinese": "直接數據分析法",
+    "definition_cht": "「直接數據分析法」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "de-briefing",
+    "traditional_chinese": "報告",
+    "definition_cht": "「報告」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "de-icing",
+    "traditional_chinese": "除冰",
+    "definition_cht": "「除冰」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "De-Saint Venant equation",
+    "traditional_chinese": "德聖維南方程",
+    "definition_cht": "與「德聖維南方程」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "Deacon wind profile parameter",
+    "traditional_chinese": "迪肯風廓線參數",
+    "definition_cht": "用於表示「迪肯風廓線參數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "dead glacier",
+    "traditional_chinese": "死亡冰川",
+    "definition_cht": "「死亡冰川」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dead water",
+    "traditional_chinese": "死水",
+    "definition_cht": "「死水」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dealiasing",
+    "traditional_chinese": "去鋸齒",
+    "definition_cht": "「去鋸齒」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Deardorff velocity",
+    "traditional_chinese": "迪爾多夫速度",
+    "definition_cht": "指描述「迪爾多夫速度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "deasil",
+    "traditional_chinese": "德西爾",
+    "definition_cht": "「德西爾」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "debacle",
+    "traditional_chinese": "崩潰",
+    "definition_cht": "「崩潰」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "decay",
+    "traditional_chinese": "衰變",
+    "definition_cht": "「衰變」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "decay area",
+    "traditional_chinese": "腐爛區",
+    "definition_cht": "「腐爛區」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "decay distance",
+    "traditional_chinese": "衰減距離",
+    "definition_cht": "「衰減距離」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "decibar",
+    "traditional_chinese": "分巴",
+    "definition_cht": "「分巴」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "decibel",
+    "traditional_chinese": "分貝",
+    "definition_cht": "「分貝」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "decile",
+    "traditional_chinese": "十分位數",
+    "definition_cht": "「十分位數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "decision tree",
+    "traditional_chinese": "決策樹",
+    "definition_cht": "「決策樹」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "declination",
+    "traditional_chinese": "赤緯",
+    "definition_cht": "「赤緯」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deconvolution",
+    "traditional_chinese": "反捲積",
+    "definition_cht": "「反捲積」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "decoupling",
+    "traditional_chinese": "解耦",
+    "definition_cht": "「解耦」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deduction",
+    "traditional_chinese": "扣除",
+    "definition_cht": "「扣除」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deep percolation",
+    "traditional_chinese": "深層滲透",
+    "definition_cht": "「深層滲透」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deep sound channel",
+    "traditional_chinese": "深沉的聲道",
+    "definition_cht": "「深沉的聲道」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deep water",
+    "traditional_chinese": "深水",
+    "definition_cht": "「深水」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deep well",
+    "traditional_chinese": "深井",
+    "definition_cht": "「深井」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deep-water wave",
+    "traditional_chinese": "深水波",
+    "definition_cht": "指「深水波」這類波動或振盪現象，常用於描述大氣、海洋或其他地球流體介質中的能量傳播與週期性變化。"
+  },
+  {
+    "english": "deepening",
+    "traditional_chinese": "深化",
+    "definition_cht": "「深化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deepening of a depression",
+    "traditional_chinese": "憂鬱症加深",
+    "definition_cht": "指與「憂鬱症加深」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "Defense Meteorological Satellite Program",
+    "traditional_chinese": "國防氣象衛星計畫",
+    "definition_cht": "「國防氣象衛星計畫」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Definitive Geomagnetic Reference Field",
+    "traditional_chinese": "確定的地磁參考場",
+    "definition_cht": "「確定的地磁參考場」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deflation",
+    "traditional_chinese": "通貨緊縮",
+    "definition_cht": "「通貨緊縮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deflecting force",
+    "traditional_chinese": "偏轉力",
+    "definition_cht": "「偏轉力」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deformation",
+    "traditional_chinese": "形變",
+    "definition_cht": "「形變」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deformation axis",
+    "traditional_chinese": "變形軸",
+    "definition_cht": "「變形軸」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deformation thermometer",
+    "traditional_chinese": "變形溫度計",
+    "definition_cht": "與「變形溫度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "deformation zone",
+    "traditional_chinese": "變形區",
+    "definition_cht": "指與「變形區」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "deformation zone cloud system",
+    "traditional_chinese": "變形區雲系統",
+    "definition_cht": "指與「變形區雲系統」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "deformed ice",
+    "traditional_chinese": "變形冰",
+    "definition_cht": "指與「變形冰」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "degenerate amphidrome",
+    "traditional_chinese": "簡併雙峰",
+    "definition_cht": "「簡併雙峰」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deglaciation",
+    "traditional_chinese": "冰消作用",
+    "definition_cht": "「冰消作用」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "degradation",
+    "traditional_chinese": "降解",
+    "definition_cht": "「降解」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "degree",
+    "traditional_chinese": "程度",
+    "definition_cht": "「程度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "degree of polarization",
+    "traditional_chinese": "偏振度",
+    "definition_cht": "「偏振度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "degree of saturation",
+    "traditional_chinese": "飽和度",
+    "definition_cht": "用於表示「飽和度」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "Degree-day",
+    "traditional_chinese": "學位日",
+    "definition_cht": "指與「學位日」相關的時間尺度、事件型態或週期變化，常用於記述天氣、氣候或環境條件在一定時段內的表現。"
+  },
+  {
+    "english": "degree-hour",
+    "traditional_chinese": "學位時數",
+    "definition_cht": "「學位時數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "degrees of freedom",
+    "traditional_chinese": "自由度",
+    "definition_cht": "「自由度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "degrees of frost",
+    "traditional_chinese": "霜度",
+    "definition_cht": "指與「霜度」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "deicer",
+    "traditional_chinese": "除冰劑",
+    "definition_cht": "指與「除冰劑」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "Del operator",
+    "traditional_chinese": "刪除運算符",
+    "definition_cht": "「刪除運算符」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "delay",
+    "traditional_chinese": "延遲",
+    "definition_cht": "「延遲」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deliquescence",
+    "traditional_chinese": "潮解",
+    "definition_cht": "「潮解」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "delta Eddington",
+    "traditional_chinese": "三角洲愛丁頓",
+    "definition_cht": "「三角洲愛丁頓」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "delta region",
+    "traditional_chinese": "三角洲地區",
+    "definition_cht": "指與「三角洲地區」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "delta rule",
+    "traditional_chinese": "德爾塔法則",
+    "definition_cht": "「德爾塔法則」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dendritic crystal",
+    "traditional_chinese": "樹枝狀晶體",
+    "definition_cht": "「樹枝狀晶體」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dendrochore",
+    "traditional_chinese": "樹粒細胞",
+    "definition_cht": "「樹粒細胞」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dendrochronology",
+    "traditional_chinese": "樹木年代學",
+    "definition_cht": "「樹木年代學」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dendrohydrology",
+    "traditional_chinese": "樹木水文學",
+    "definition_cht": "指「樹木水文學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。"
+  },
+  {
+    "english": "denitrification",
+    "traditional_chinese": "反硝化作用",
+    "definition_cht": "「反硝化作用」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "density",
+    "traditional_chinese": "密度",
+    "definition_cht": "「密度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "density altitude",
+    "traditional_chinese": "密度高度",
+    "definition_cht": "「密度高度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "density channel",
+    "traditional_chinese": "密度通道",
+    "definition_cht": "「密度通道」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "density correction",
+    "traditional_chinese": "密度校正",
+    "definition_cht": "「密度校正」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "density current",
+    "traditional_chinese": "密度電流",
+    "definition_cht": "指與「密度電流」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "density function",
+    "traditional_chinese": "密度函數",
+    "definition_cht": "「密度函數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "density of snow",
+    "traditional_chinese": "雪的密度",
+    "definition_cht": "指與「雪的密度」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "Density-weighted mean wind",
+    "traditional_chinese": "密度加權平均風",
+    "definition_cht": "指與「密度加權平均風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "denudation",
+    "traditional_chinese": "剝削",
+    "definition_cht": "「剝削」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Denver convergence–vorticity zone",
+    "traditional_chinese": "丹佛輻合渦度帶",
+    "definition_cht": "指與「丹佛輻合渦度帶」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "Denver cyclone",
+    "traditional_chinese": "丹佛氣旋",
+    "definition_cht": "指與「丹佛氣旋」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "depegram",
+    "traditional_chinese": "德佩格拉姆",
+    "definition_cht": "「德佩格拉姆」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dependent meteorological office",
+    "traditional_chinese": "附屬氣象局",
+    "definition_cht": "指與「附屬氣象局」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dependent variable",
+    "traditional_chinese": "因變數",
+    "definition_cht": "「因變數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "depéq",
+    "traditional_chinese": "德佩克",
+    "definition_cht": "「德佩克」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "depergelation",
+    "traditional_chinese": "解凝結",
+    "definition_cht": "「解凝結」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "depletion curve",
+    "traditional_chinese": "耗盡曲線",
+    "definition_cht": "「耗盡曲線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "depolarization",
+    "traditional_chinese": "去極化",
+    "definition_cht": "「去極化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "depolarization ratio",
+    "traditional_chinese": "退偏比",
+    "definition_cht": "用於表示「退偏比」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "deposit gauge",
+    "traditional_chinese": "存款表",
+    "definition_cht": "與「存款表」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "deposition",
+    "traditional_chinese": "沉積",
+    "definition_cht": "「沉積」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deposition nucleus",
+    "traditional_chinese": "沉積核",
+    "definition_cht": "「沉積核」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deposition velocity",
+    "traditional_chinese": "沉積速度",
+    "definition_cht": "指描述「沉積速度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "depression",
+    "traditional_chinese": "沮喪",
+    "definition_cht": "指與「沮喪」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "depression angle",
+    "traditional_chinese": "俯角",
+    "definition_cht": "指與「俯角」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "depression storage",
+    "traditional_chinese": "憂鬱症儲存",
+    "definition_cht": "指與「憂鬱症儲存」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "depth hoar",
+    "traditional_chinese": "深灰白",
+    "definition_cht": "指描述「深灰白」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "depth marker",
+    "traditional_chinese": "深度標記",
+    "definition_cht": "指描述「深度標記」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "depth of compensation",
+    "traditional_chinese": "補償深度",
+    "definition_cht": "指描述「補償深度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "depth of frictional influence",
+    "traditional_chinese": "摩擦影響深度",
+    "definition_cht": "指描述「摩擦影響深度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "depth of runoff",
+    "traditional_chinese": "徑流深度",
+    "definition_cht": "指描述「徑流深度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "depth of snow",
+    "traditional_chinese": "雪深",
+    "definition_cht": "指與「雪深」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "depth-first search",
+    "traditional_chinese": "深度優先搜尋",
+    "definition_cht": "指描述「深度優先搜尋」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "depth-integration sediment sampling",
+    "traditional_chinese": "深度積分沉積物採樣",
+    "definition_cht": "用於表示「深度積分沉積物採樣」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "depth–area curve",
+    "traditional_chinese": "深度-面積曲線",
+    "definition_cht": "指描述「深度-面積曲線」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "depth–area–duration analysis",
+    "traditional_chinese": "深度-面積-持續時間分析",
+    "definition_cht": "用於表示「深度-面積-持續時間分析」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "depth–area–duration curves",
+    "traditional_chinese": "深度-面積-持續時間曲線",
+    "definition_cht": "用於表示「深度-面積-持續時間曲線」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "depth–duration curve",
+    "traditional_chinese": "深度-持續時間曲線",
+    "definition_cht": "用於表示「深度-持續時間曲線」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "depth–duration–area value",
+    "traditional_chinese": "深度-持續時間-面積值",
+    "definition_cht": "用於表示「深度-持續時間-面積值」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "depth–duration–frequency curve",
+    "traditional_chinese": "深度-持續時間-頻率曲線",
+    "definition_cht": "用於表示「深度-持續時間-頻率曲線」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "depth–velocity integration method",
+    "traditional_chinese": "深度-速度積分法",
+    "definition_cht": "用於表示「深度-速度積分法」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "Derecho",
+    "traditional_chinese": "德雷喬",
+    "definition_cht": "「德雷喬」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "DERF",
+    "traditional_chinese": "德爾福",
+    "definition_cht": "「德爾福」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "derived gust velocity",
+    "traditional_chinese": "導出的陣風速度",
+    "definition_cht": "指與「導出的陣風速度」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "Descartes ray",
+    "traditional_chinese": "笛卡兒射線",
+    "definition_cht": "「笛卡兒射線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "descendent",
+    "traditional_chinese": "後裔",
+    "definition_cht": "「後裔」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "descending node",
+    "traditional_chinese": "降交點",
+    "definition_cht": "「降交點」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "descriptive meteorology",
+    "traditional_chinese": "描述性氣象學",
+    "definition_cht": "指「描述性氣象學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。"
+  },
+  {
+    "english": "desert",
+    "traditional_chinese": "沙漠",
+    "definition_cht": "「沙漠」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "desert climate",
+    "traditional_chinese": "沙漠氣候",
+    "definition_cht": "「沙漠氣候」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "desert wind",
+    "traditional_chinese": "沙漠風",
+    "definition_cht": "指與「沙漠風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "desertification",
+    "traditional_chinese": "荒漠化",
+    "definition_cht": "「荒漠化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "desiccation",
+    "traditional_chinese": "乾燥",
+    "definition_cht": "「乾燥」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "design flood",
+    "traditional_chinese": "設計洪水",
+    "definition_cht": "「設計洪水」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "design storm",
+    "traditional_chinese": "設計風暴",
+    "definition_cht": "指與「設計風暴」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "design wave",
+    "traditional_chinese": "設計浪潮",
+    "definition_cht": "指「設計浪潮」這類波動或振盪現象，常用於描述大氣、海洋或其他地球流體介質中的能量傳播與週期性變化。"
+  },
+  {
+    "english": "designated pollutant",
+    "traditional_chinese": "指定污染物",
+    "definition_cht": "「指定污染物」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Desulfurization",
+    "traditional_chinese": "脫硫",
+    "definition_cht": "「脫硫」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Detection",
+    "traditional_chinese": "偵測",
+    "definition_cht": "「偵測」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "detention storage",
+    "traditional_chinese": "拘留儲存",
+    "definition_cht": "「拘留儲存」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deterministic",
+    "traditional_chinese": "確定性的",
+    "definition_cht": "「確定性的」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deterministic forecast",
+    "traditional_chinese": "確定性預測",
+    "definition_cht": "指「確定性預測」這類預報產品或預測作業，用以說明未來一定時段內之天氣、氣候或相關環境條件變化。"
+  },
+  {
+    "english": "deterministic hydrology",
+    "traditional_chinese": "確定性水文學",
+    "definition_cht": "指「確定性水文學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。"
+  },
+  {
+    "english": "detrainment",
+    "traditional_chinese": "脫軌",
+    "definition_cht": "指與「脫軌」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "detrend",
+    "traditional_chinese": "去趨勢",
+    "definition_cht": "「去趨勢」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deuterium",
+    "traditional_chinese": "氘",
+    "definition_cht": "「氘」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deuteron",
+    "traditional_chinese": "氘核",
+    "definition_cht": "「氘核」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "development",
+    "traditional_chinese": "發展",
+    "definition_cht": "「發展」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "deviation",
+    "traditional_chinese": "偏差",
+    "definition_cht": "「偏差」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "devil",
+    "traditional_chinese": "魔鬼",
+    "definition_cht": "「魔鬼」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dew",
+    "traditional_chinese": "露",
+    "definition_cht": "指與「露」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dew cell",
+    "traditional_chinese": "露水池",
+    "definition_cht": "指與「露水池」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "dew gauge",
+    "traditional_chinese": "露水計",
+    "definition_cht": "與「露水計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "dewbow",
+    "traditional_chinese": "露弓",
+    "definition_cht": "指與「露弓」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dewpoint",
+    "traditional_chinese": "露點",
+    "definition_cht": "指與「露點」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dewpoint depression",
+    "traditional_chinese": "露點降低",
+    "definition_cht": "指與「露點降低」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "dewpoint formula",
+    "traditional_chinese": "露點公式",
+    "definition_cht": "與「露點公式」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "dewpoint hygrometer",
+    "traditional_chinese": "露點濕度計",
+    "definition_cht": "與「露點濕度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "DGRF",
+    "traditional_chinese": "直腸生長因子受體",
+    "definition_cht": "「直腸生長因子受體」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diabatic process",
+    "traditional_chinese": "非絕熱過程",
+    "definition_cht": "「非絕熱過程」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diagnostic equation",
+    "traditional_chinese": "診斷方程",
+    "definition_cht": "與「診斷方程」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "DIAL thermometer",
+    "traditional_chinese": "錶盤溫度計",
+    "definition_cht": "與「錶盤溫度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "diamond dust",
+    "traditional_chinese": "鑽石粉",
+    "definition_cht": "「鑽石粉」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diapycnal",
+    "traditional_chinese": "錐壁",
+    "definition_cht": "「錐壁」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diapycnal mixing",
+    "traditional_chinese": "異重混合",
+    "definition_cht": "指與「異重混合」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "dichroism",
+    "traditional_chinese": "二色性",
+    "definition_cht": "「二色性」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diel",
+    "traditional_chinese": "迪爾",
+    "definition_cht": "「迪爾」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dielectric",
+    "traditional_chinese": "電介質",
+    "definition_cht": "「電介質」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dielectric factor",
+    "traditional_chinese": "介電係數",
+    "definition_cht": "「介電係數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dielectric strength",
+    "traditional_chinese": "介電強度",
+    "definition_cht": "「介電強度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential (scattering) cross section",
+    "traditional_chinese": "微分（散射）截面",
+    "definition_cht": "「微分（散射）截面」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential absorption hygrometer",
+    "traditional_chinese": "差示吸收濕度計",
+    "definition_cht": "與「差示吸收濕度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "differential absorption lidar thermometer",
+    "traditional_chinese": "差分吸收光達溫度計",
+    "definition_cht": "與「差分吸收光達溫度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "differential analysis",
+    "traditional_chinese": "差異分析",
+    "definition_cht": "「差異分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential attenuation",
+    "traditional_chinese": "差分衰減",
+    "definition_cht": "「差分衰減」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential backscattering cross section",
+    "traditional_chinese": "差分後向散射截面",
+    "definition_cht": "「差分後向散射截面」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential ballistic wind",
+    "traditional_chinese": "差分彈道風",
+    "definition_cht": "指與「差分彈道風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "differential chart",
+    "traditional_chinese": "微分圖",
+    "definition_cht": "指呈現「微分圖」資訊的圖表、影像或紀錄資料，用於分析大氣結構、天氣系統分布及其時空變化。"
+  },
+  {
+    "english": "differential kinematics",
+    "traditional_chinese": "微分運動學",
+    "definition_cht": "「微分運動學」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential mobility analyzer",
+    "traditional_chinese": "微分遷移率分析儀",
+    "definition_cht": "與「微分遷移率分析儀」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "differential optical absorption",
+    "traditional_chinese": "微分光吸收",
+    "definition_cht": "「微分光吸收」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential phase shift",
+    "traditional_chinese": "微分相移",
+    "definition_cht": "「微分相移」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential reflectivity",
+    "traditional_chinese": "微分反射率",
+    "definition_cht": "「微分反射率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential thermal advection",
+    "traditional_chinese": "差熱平流",
+    "definition_cht": "指與「差熱平流」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "differential water capacity",
+    "traditional_chinese": "差異水容量",
+    "definition_cht": "「差異水容量」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "differential wind",
+    "traditional_chinese": "微分風",
+    "definition_cht": "指與「微分風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "diffluence",
+    "traditional_chinese": "分流",
+    "definition_cht": "「分流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffluent thermal ridge",
+    "traditional_chinese": "分流熱脊",
+    "definition_cht": "指與「分流熱脊」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "diffluent thermal trough",
+    "traditional_chinese": "分流熱槽",
+    "definition_cht": "指與「分流熱槽」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "diffraction",
+    "traditional_chinese": "繞射",
+    "definition_cht": "「繞射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffraction pattern",
+    "traditional_chinese": "衍射圖樣",
+    "definition_cht": "「衍射圖樣」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffraction peak",
+    "traditional_chinese": "繞射峰",
+    "definition_cht": "「繞射峰」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffraction phenomenon",
+    "traditional_chinese": "繞射現象",
+    "definition_cht": "「繞射現象」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffuse front",
+    "traditional_chinese": "擴散前沿",
+    "definition_cht": "指與「擴散前沿」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "diffuse light",
+    "traditional_chinese": "漫射光",
+    "definition_cht": "「漫射光」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffuse radiation",
+    "traditional_chinese": "漫射輻射",
+    "definition_cht": "「漫射輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffuse reflection",
+    "traditional_chinese": "漫反射",
+    "definition_cht": "「漫反射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffuse reflector",
+    "traditional_chinese": "漫反射器",
+    "definition_cht": "「漫反射器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffuse sky radiation",
+    "traditional_chinese": "漫射天空輻射",
+    "definition_cht": "「漫射天空輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffuse solar radiation",
+    "traditional_chinese": "太陽漫射輻射",
+    "definition_cht": "「太陽漫射輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffusion",
+    "traditional_chinese": "擴散",
+    "definition_cht": "指與「擴散」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "diffusion coefficient",
+    "traditional_chinese": "擴散係數",
+    "definition_cht": "用於表示「擴散係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "diffusion denuder technique",
+    "traditional_chinese": "擴散剝離器技術",
+    "definition_cht": "指與「擴散剝離器技術」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "diffusion hygrometer",
+    "traditional_chinese": "擴散濕度計",
+    "definition_cht": "與「擴散濕度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "diffusion model",
+    "traditional_chinese": "擴散模型",
+    "definition_cht": "指與「擴散模型」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "diffusion velocity",
+    "traditional_chinese": "擴散速度",
+    "definition_cht": "指與「擴散速度」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "diffusive convection",
+    "traditional_chinese": "擴散對流",
+    "definition_cht": "指與「擴散對流」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "diffusive equilibrium",
+    "traditional_chinese": "擴散平衡",
+    "definition_cht": "「擴散平衡」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diffusivity",
+    "traditional_chinese": "擴散率",
+    "definition_cht": "「擴散率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Digging trough",
+    "traditional_chinese": "挖槽",
+    "definition_cht": "「挖槽」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "digital",
+    "traditional_chinese": "數位的",
+    "definition_cht": "「數位的」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "digital filter",
+    "traditional_chinese": "數位濾波器",
+    "definition_cht": "「數位濾波器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dimensional analysis",
+    "traditional_chinese": "維度分析",
+    "definition_cht": "「維度分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dimensionless group",
+    "traditional_chinese": "無量綱群",
+    "definition_cht": "「無量綱群」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dimethyl disulfide",
+    "traditional_chinese": "二甲基二硫醚",
+    "definition_cht": "「二甲基二硫醚」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dimethyl sulfide",
+    "traditional_chinese": "二甲硫醚",
+    "definition_cht": "「二甲硫醚」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dimethyl sulfoxide",
+    "traditional_chinese": "二甲亞砜",
+    "definition_cht": "「二甲亞砜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dimmerfoehn",
+    "traditional_chinese": "調暗焚風",
+    "definition_cht": "「調暗焚風」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dines anemometer",
+    "traditional_chinese": "迪尼斯風速計",
+    "definition_cht": "與「迪尼斯風速計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "Dines compensation",
+    "traditional_chinese": "用餐補償",
+    "definition_cht": "「用餐補償」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dines radiometer",
+    "traditional_chinese": "迪尼斯輻射計",
+    "definition_cht": "與「迪尼斯輻射計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "dinitrogen pentoxide",
+    "traditional_chinese": "五氧化二氮",
+    "definition_cht": "「五氧化二氮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diode laser",
+    "traditional_chinese": "二極體雷射",
+    "definition_cht": "「二極體雷射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dioxane (-1, 4)",
+    "traditional_chinese": "二噁烷 (-1, 4)",
+    "definition_cht": "「二噁烷 (-1, 4)」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dip circle",
+    "traditional_chinese": "傾角圈",
+    "definition_cht": "「傾角圈」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dip of the horizon",
+    "traditional_chinese": "地平線的傾斜",
+    "definition_cht": "「地平線的傾斜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dip pole",
+    "traditional_chinese": "浸極",
+    "definition_cht": "「浸極」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dipole",
+    "traditional_chinese": "偶極子",
+    "definition_cht": "「偶極子」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dipole antenna",
+    "traditional_chinese": "偶極天線",
+    "definition_cht": "「偶極天線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dipole moment",
+    "traditional_chinese": "偶極矩",
+    "definition_cht": "「偶極矩」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "direct cell",
+    "traditional_chinese": "直接細胞",
+    "definition_cht": "指與「直接細胞」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "direct flow",
+    "traditional_chinese": "直接流動",
+    "definition_cht": "指與「直接流動」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "direct interaction approximation",
+    "traditional_chinese": "直接相互作用近似",
+    "definition_cht": "「直接相互作用近似」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "direct numerical simulation",
+    "traditional_chinese": "直接數值模擬",
+    "definition_cht": "「直接數值模擬」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "direct route",
+    "traditional_chinese": "直達路線",
+    "definition_cht": "「直達路線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "direct runoff",
+    "traditional_chinese": "直接徑流",
+    "definition_cht": "「直接徑流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "direct solar radiation",
+    "traditional_chinese": "太陽直接輻射",
+    "definition_cht": "「太陽直接輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "direct tide",
+    "traditional_chinese": "直潮",
+    "definition_cht": "「直潮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "direct-vision nephoscope",
+    "traditional_chinese": "直視腎鏡",
+    "definition_cht": "「直視腎鏡」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "direction finder",
+    "traditional_chinese": "測向儀",
+    "definition_cht": "「測向儀」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "directional distribution",
+    "traditional_chinese": "定向分佈",
+    "definition_cht": "「定向分佈」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "directional hydraulic conductivity",
+    "traditional_chinese": "定向導水率",
+    "definition_cht": "「定向導水率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "directional-hemispherical reflectance",
+    "traditional_chinese": "定向半球反射率",
+    "definition_cht": "「定向半球反射率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "directivity",
+    "traditional_chinese": "方向性",
+    "definition_cht": "「方向性」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "discharge",
+    "traditional_chinese": "釋放",
+    "definition_cht": "「釋放」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "discharge area",
+    "traditional_chinese": "放電區",
+    "definition_cht": "「放電區」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "discharge coefficient",
+    "traditional_chinese": "流量係數",
+    "definition_cht": "用於表示「流量係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "discharge section line",
+    "traditional_chinese": "卸料段線",
+    "definition_cht": "指與「卸料段線」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "discontinuity",
+    "traditional_chinese": "不連續性",
+    "definition_cht": "「不連續性」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "discontinuous turbulence",
+    "traditional_chinese": "不連續湍流",
+    "definition_cht": "「不連續湍流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "discrete spectrum",
+    "traditional_chinese": "離散譜",
+    "definition_cht": "「離散譜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "discretization",
+    "traditional_chinese": "離散化",
+    "definition_cht": "「離散化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "discriminant analysis",
+    "traditional_chinese": "判別分析",
+    "definition_cht": "「判別分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "disdrometer",
+    "traditional_chinese": "距離計",
+    "definition_cht": "與「距離計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "dish",
+    "traditional_chinese": "盤子",
+    "definition_cht": "「盤子」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dishpan experiments",
+    "traditional_chinese": "洗碗實驗",
+    "definition_cht": "「洗碗實驗」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Disjunct eddy covariance",
+    "traditional_chinese": "分離渦度協方差",
+    "definition_cht": "「分離渦度協方差」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "disk hardness gauge",
+    "traditional_chinese": "圓盤硬度計",
+    "definition_cht": "與「圓盤硬度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "dispersion",
+    "traditional_chinese": "分散",
+    "definition_cht": "「分散」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dispersion coefficient",
+    "traditional_chinese": "色散係數",
+    "definition_cht": "用於表示「色散係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "dispersion diagram",
+    "traditional_chinese": "色散圖",
+    "definition_cht": "指呈現「色散圖」資訊的圖表、影像或紀錄資料，用於分析大氣結構、天氣系統分布及其時空變化。"
+  },
+  {
+    "english": "dispersion equation",
+    "traditional_chinese": "色散方程",
+    "definition_cht": "與「色散方程」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "dispersion relation",
+    "traditional_chinese": "色散關係",
+    "definition_cht": "「色散關係」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dispersion relationship",
+    "traditional_chinese": "色散關係",
+    "definition_cht": "「色散關係」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dispersive flux",
+    "traditional_chinese": "色散通量",
+    "definition_cht": "「色散通量」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dispersive medium",
+    "traditional_chinese": "色散介質",
+    "definition_cht": "「色散介質」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dispersivity",
+    "traditional_chinese": "分散性",
+    "definition_cht": "「分散性」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "display",
+    "traditional_chinese": "展示",
+    "definition_cht": "與「展示」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "dissipation",
+    "traditional_chinese": "耗散",
+    "definition_cht": "「耗散」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dissipation constant",
+    "traditional_chinese": "耗散常數",
+    "definition_cht": "用於表示「耗散常數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "dissipation length scale",
+    "traditional_chinese": "耗散長度尺度",
+    "definition_cht": "用於表示「耗散長度尺度」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "dissipation rate",
+    "traditional_chinese": "耗散率",
+    "definition_cht": "「耗散率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dissipation trail",
+    "traditional_chinese": "耗散尾跡",
+    "definition_cht": "「耗散尾跡」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dissociation",
+    "traditional_chinese": "解離",
+    "definition_cht": "「解離」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "distortion",
+    "traditional_chinese": "失真",
+    "definition_cht": "「失真」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "distributed target",
+    "traditional_chinese": "分散式目標",
+    "definition_cht": "「分散式目標」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "distribution",
+    "traditional_chinese": "分配",
+    "definition_cht": "「分配」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "distribution coefficient",
+    "traditional_chinese": "分配係數",
+    "definition_cht": "用於表示「分配係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "distribution function",
+    "traditional_chinese": "分佈函數",
+    "definition_cht": "「分佈函數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "distribution graph",
+    "traditional_chinese": "分佈圖",
+    "definition_cht": "「分佈圖」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "district forecast",
+    "traditional_chinese": "地區預報",
+    "definition_cht": "指「地區預報」這類預報產品或預測作業，用以說明未來一定時段內之天氣、氣候或相關環境條件變化。"
+  },
+  {
+    "english": "disturbance",
+    "traditional_chinese": "幹擾",
+    "definition_cht": "指與「幹擾」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "disturbed soil sample",
+    "traditional_chinese": "擾動土壤樣本",
+    "definition_cht": "「擾動土壤樣本」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Diurnal",
+    "traditional_chinese": "晝夜",
+    "definition_cht": "「晝夜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diurnal cooling",
+    "traditional_chinese": "晝夜降溫",
+    "definition_cht": "「晝夜降溫」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diurnal heating",
+    "traditional_chinese": "晝夜供暖",
+    "definition_cht": "指與「晝夜供暖」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "diurnal inequality",
+    "traditional_chinese": "日間不平等",
+    "definition_cht": "「日間不平等」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diurnal tide",
+    "traditional_chinese": "日潮",
+    "definition_cht": "「日潮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "diurnal vertical migration",
+    "traditional_chinese": "日垂直遷移",
+    "definition_cht": "用於表示「日垂直遷移」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "divergence",
+    "traditional_chinese": "分歧",
+    "definition_cht": "指描述「分歧」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "divergence equation",
+    "traditional_chinese": "散度方程",
+    "definition_cht": "與「散度方程」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "divergence line",
+    "traditional_chinese": "發散線",
+    "definition_cht": "指與「發散線」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "divergence signature",
+    "traditional_chinese": "分歧簽名",
+    "definition_cht": "指描述「分歧簽名」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "divergence theorem",
+    "traditional_chinese": "散度定理",
+    "definition_cht": "與「散度定理」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "divergence theory of cyclones",
+    "traditional_chinese": "氣旋發散理論",
+    "definition_cht": "與「氣旋發散理論」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "diversion of water",
+    "traditional_chinese": "引水",
+    "definition_cht": "「引水」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "divide",
+    "traditional_chinese": "劃分",
+    "definition_cht": "「劃分」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dividing streamline",
+    "traditional_chinese": "分割流線",
+    "definition_cht": "指與「分割流線」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "DMO",
+    "traditional_chinese": "二甲氧基苯甲醚",
+    "definition_cht": "「二甲氧基苯甲醚」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "DMSP",
+    "traditional_chinese": "DMSP",
+    "definition_cht": "「DMSP」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dobson spectrophotometer",
+    "traditional_chinese": "多布森分光光度計",
+    "definition_cht": "與「多布森分光光度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "Dobson unit",
+    "traditional_chinese": "多布森單位",
+    "definition_cht": "「多布森單位」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "doctor",
+    "traditional_chinese": "醫生",
+    "definition_cht": "「醫生」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dog days",
+    "traditional_chinese": "三伏天",
+    "definition_cht": "指與「三伏天」相關的時間尺度、事件型態或週期變化，常用於記述天氣、氣候或環境條件在一定時段內的表現。"
+  },
+  {
+    "english": "doister",
+    "traditional_chinese": "多斯特",
+    "definition_cht": "「多斯特」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "doldrums",
+    "traditional_chinese": "低迷",
+    "definition_cht": "「低迷」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "domain",
+    "traditional_chinese": "領域",
+    "definition_cht": "「領域」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "domain expert",
+    "traditional_chinese": "領域專家",
+    "definition_cht": "「領域專家」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "domain knowledge",
+    "traditional_chinese": "領域知識",
+    "definition_cht": "「領域知識」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler broadening",
+    "traditional_chinese": "多普勒展寬",
+    "definition_cht": "「多普勒展寬」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler effect",
+    "traditional_chinese": "多普勒效應",
+    "definition_cht": "「多普勒效應」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler error",
+    "traditional_chinese": "多普勒誤差",
+    "definition_cht": "「多普勒誤差」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler frequency shift",
+    "traditional_chinese": "多普勒頻移",
+    "definition_cht": "「多普勒頻移」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler lidar",
+    "traditional_chinese": "多普勒光達",
+    "definition_cht": "「多普勒光達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler radar",
+    "traditional_chinese": "多普勒雷達",
+    "definition_cht": "「多普勒雷達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler sodar",
+    "traditional_chinese": "多普勒聲雷達",
+    "definition_cht": "「多普勒聲雷達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler spectral broadening",
+    "traditional_chinese": "多普勒頻譜展寬",
+    "definition_cht": "「多普勒頻譜展寬」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler spectral moments",
+    "traditional_chinese": "多普勒頻譜矩",
+    "definition_cht": "「多普勒頻譜矩」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler spectrum",
+    "traditional_chinese": "多普勒頻譜",
+    "definition_cht": "「多普勒頻譜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler spread",
+    "traditional_chinese": "多普勒傳播",
+    "definition_cht": "「多普勒傳播」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Doppler velocity",
+    "traditional_chinese": "多普勒速度",
+    "definition_cht": "指描述「多普勒速度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "dosimeter",
+    "traditional_chinese": "劑量計",
+    "definition_cht": "與「劑量計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "double correlation",
+    "traditional_chinese": "雙相關",
+    "definition_cht": "「雙相關」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "double diffusive convection",
+    "traditional_chinese": "雙擴散對流",
+    "definition_cht": "指與「雙擴散對流」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "double layer",
+    "traditional_chinese": "雙層",
+    "definition_cht": "指與「雙層」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "double refraction",
+    "traditional_chinese": "雙折射",
+    "definition_cht": "「雙折射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "double tide",
+    "traditional_chinese": "雙潮",
+    "definition_cht": "「雙潮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "double-mass analysis",
+    "traditional_chinese": "雙質量分析",
+    "definition_cht": "「雙質量分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "double-mass curve",
+    "traditional_chinese": "雙質量曲線",
+    "definition_cht": "「雙質量曲線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "double-theodolite observation",
+    "traditional_chinese": "雙經緯儀觀測",
+    "definition_cht": "「雙經緯儀觀測」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "doubly stochastic matrix",
+    "traditional_chinese": "雙重隨機矩陣",
+    "definition_cht": "「雙重隨機矩陣」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "down-gradient diffusion",
+    "traditional_chinese": "向下梯度擴散",
+    "definition_cht": "指與「向下梯度擴散」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "down-gradient transport",
+    "traditional_chinese": "向下梯度傳輸",
+    "definition_cht": "「向下梯度傳輸」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Downburst",
+    "traditional_chinese": "下擊暴流",
+    "definition_cht": "「下擊暴流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downdraft",
+    "traditional_chinese": "下沉氣流",
+    "definition_cht": "「下沉氣流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downdraft convective available potential energy",
+    "traditional_chinese": "下吸式對流可用位能",
+    "definition_cht": "「下吸式對流可用位能」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downrush",
+    "traditional_chinese": "下衝",
+    "definition_cht": "「下衝」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downslope wind",
+    "traditional_chinese": "下坡風",
+    "definition_cht": "指與「下坡風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "downslope windstorm",
+    "traditional_chinese": "下坡風暴",
+    "definition_cht": "指與「下坡風暴」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "downstream",
+    "traditional_chinese": "下游",
+    "definition_cht": "「下游」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downvalley wind",
+    "traditional_chinese": "下谷風",
+    "definition_cht": "指與「下谷風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "downward terrestrial radiation",
+    "traditional_chinese": "地面向下輻射",
+    "definition_cht": "「地面向下輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downward total radiation",
+    "traditional_chinese": "總輻射向下",
+    "definition_cht": "「總輻射向下」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downwash",
+    "traditional_chinese": "下洗",
+    "definition_cht": "「下洗」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downwelling",
+    "traditional_chinese": "下降流",
+    "definition_cht": "「下降流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "downwind",
+    "traditional_chinese": "順風",
+    "definition_cht": "指與「順風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "draft",
+    "traditional_chinese": "草稿",
+    "definition_cht": "「草稿」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drag",
+    "traditional_chinese": "拖",
+    "definition_cht": "「拖」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drag anemometer",
+    "traditional_chinese": "阻力風速計",
+    "definition_cht": "與「阻力風速計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "drag coefficient",
+    "traditional_chinese": "阻力係數",
+    "definition_cht": "用於表示「阻力係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "drag law",
+    "traditional_chinese": "阻力定律",
+    "definition_cht": "與「阻力定律」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "drag sphere anemometer",
+    "traditional_chinese": "拖球風速計",
+    "definition_cht": "與「拖球風速計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "dragon",
+    "traditional_chinese": "龍",
+    "definition_cht": "「龍」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drain",
+    "traditional_chinese": "流走",
+    "definition_cht": "指與「流走」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drainage area",
+    "traditional_chinese": "流域",
+    "definition_cht": "指與「流域」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drainage basin",
+    "traditional_chinese": "流域",
+    "definition_cht": "指與「流域」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drainage density",
+    "traditional_chinese": "排水密度",
+    "definition_cht": "指與「排水密度」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drainage divide",
+    "traditional_chinese": "排水分水嶺",
+    "definition_cht": "指與「排水分水嶺」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drainage well",
+    "traditional_chinese": "排水井",
+    "definition_cht": "指與「排水井」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drainage wind",
+    "traditional_chinese": "排水風",
+    "definition_cht": "指與「排水風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drawdown",
+    "traditional_chinese": "回撤",
+    "definition_cht": "「回撤」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drawdown curve",
+    "traditional_chinese": "回撤曲線",
+    "definition_cht": "「回撤曲線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drawoff",
+    "traditional_chinese": "提取",
+    "definition_cht": "「提取」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dreikanter",
+    "traditional_chinese": "德賴坎特",
+    "definition_cht": "「德賴坎特」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dried ice",
+    "traditional_chinese": "乾冰",
+    "definition_cht": "指與「乾冰」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drift",
+    "traditional_chinese": "漂移",
+    "definition_cht": "指與「漂移」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drift bottle",
+    "traditional_chinese": "漂流瓶",
+    "definition_cht": "指與「漂流瓶」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drift card",
+    "traditional_chinese": "漂移卡",
+    "definition_cht": "指與「漂移卡」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drift current",
+    "traditional_chinese": "漂移電流",
+    "definition_cht": "指與「漂移電流」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drift ice",
+    "traditional_chinese": "浮冰",
+    "definition_cht": "指與「浮冰」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drift station",
+    "traditional_chinese": "漂流站",
+    "definition_cht": "指與「漂流站」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drift-correction angle",
+    "traditional_chinese": "漂移校正角",
+    "definition_cht": "指與「漂移校正角」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drifter",
+    "traditional_chinese": "漂流者",
+    "definition_cht": "指與「漂流者」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drifting buoy",
+    "traditional_chinese": "漂流浮標",
+    "definition_cht": "指與「漂流浮標」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drifting dust",
+    "traditional_chinese": "飄塵",
+    "definition_cht": "指與「飄塵」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drifting sand",
+    "traditional_chinese": "流沙",
+    "definition_cht": "指與「流沙」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "drifting snow",
+    "traditional_chinese": "飄雪",
+    "definition_cht": "指與「飄雪」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "driller's log",
+    "traditional_chinese": "司鑽日誌",
+    "definition_cht": "「司鑽日誌」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drip",
+    "traditional_chinese": "滴",
+    "definition_cht": "「滴」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "driven snow",
+    "traditional_chinese": "積雪",
+    "definition_cht": "指與「積雪」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "driving-rain index",
+    "traditional_chinese": "驅動降雨指數",
+    "definition_cht": "用於表示「驅動降雨指數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "Drizzle",
+    "traditional_chinese": "細雨",
+    "definition_cht": "指與「細雨」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drizzle drop",
+    "traditional_chinese": "毛毛雨滴",
+    "definition_cht": "指與「毛毛雨滴」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "drogue",
+    "traditional_chinese": "錐套",
+    "definition_cht": "「錐套」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drop",
+    "traditional_chinese": "降低",
+    "definition_cht": "「降低」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drop breakup",
+    "traditional_chinese": "分手",
+    "definition_cht": "「分手」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drop-size distribution",
+    "traditional_chinese": "液滴尺寸分佈",
+    "definition_cht": "「液滴尺寸分佈」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drop-size spectrometer",
+    "traditional_chinese": "液滴尺寸光譜儀",
+    "definition_cht": "與「液滴尺寸光譜儀」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "droplet",
+    "traditional_chinese": "水滴",
+    "definition_cht": "「水滴」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dropsonde",
+    "traditional_chinese": "下投探空儀",
+    "definition_cht": "「下投探空儀」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dropsonde observation",
+    "traditional_chinese": "下投探空儀觀測",
+    "definition_cht": "「下投探空儀觀測」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drosometer",
+    "traditional_chinese": "里程計",
+    "definition_cht": "與「里程計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "Drought",
+    "traditional_chinese": "乾旱",
+    "definition_cht": "「乾旱」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "drought index",
+    "traditional_chinese": "乾旱指數",
+    "definition_cht": "用於表示「乾旱指數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "droxtal",
+    "traditional_chinese": "德羅斯塔爾",
+    "definition_cht": "「德羅斯塔爾」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry adiabat",
+    "traditional_chinese": "乾絕熱岩",
+    "definition_cht": "「乾絕熱岩」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry air",
+    "traditional_chinese": "乾燥空氣",
+    "definition_cht": "「乾燥空氣」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry climate",
+    "traditional_chinese": "氣候乾燥",
+    "definition_cht": "「氣候乾燥」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry convection",
+    "traditional_chinese": "乾對流",
+    "definition_cht": "指與「乾對流」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "dry deposition",
+    "traditional_chinese": "乾沉積",
+    "definition_cht": "「乾沉積」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry fog",
+    "traditional_chinese": "乾霧",
+    "definition_cht": "指與「乾霧」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dry freeze",
+    "traditional_chinese": "乾凍",
+    "definition_cht": "「乾凍」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry growth",
+    "traditional_chinese": "乾燥生長",
+    "definition_cht": "「乾燥生長」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry haze",
+    "traditional_chinese": "乾霧",
+    "definition_cht": "指與「乾霧」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dry ice",
+    "traditional_chinese": "乾冰",
+    "definition_cht": "指與「乾冰」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dry permafrost",
+    "traditional_chinese": "乾燥的永凍土",
+    "definition_cht": "指與「乾燥的永凍土」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dry season",
+    "traditional_chinese": "旱季",
+    "definition_cht": "「旱季」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry snow",
+    "traditional_chinese": "乾雪",
+    "definition_cht": "指與「乾雪」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。"
+  },
+  {
+    "english": "dry spell",
+    "traditional_chinese": "乾旱期",
+    "definition_cht": "「乾旱期」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry stage",
+    "traditional_chinese": "乾燥階段",
+    "definition_cht": "「乾燥階段」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry static energy",
+    "traditional_chinese": "乾靜態能量",
+    "definition_cht": "「乾靜態能量」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry tongue",
+    "traditional_chinese": "舌頭乾燥",
+    "definition_cht": "「舌頭乾燥」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry year",
+    "traditional_chinese": "旱年",
+    "definition_cht": "「旱年」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dry-adiabatic process",
+    "traditional_chinese": "乾絕熱過程",
+    "definition_cht": "「乾絕熱過程」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dry-bulb temperature",
+    "traditional_chinese": "乾球溫度",
+    "definition_cht": "指與「乾球溫度」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "dry-bulb thermometer",
+    "traditional_chinese": "乾球溫度計",
+    "definition_cht": "與「乾球溫度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "dryline",
+    "traditional_chinese": "幹線",
+    "definition_cht": "指與「幹線」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "dryth",
+    "traditional_chinese": "乾燥",
+    "definition_cht": "「乾燥」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dual-channel radar",
+    "traditional_chinese": "雙通道雷達",
+    "definition_cht": "「雙通道雷達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dual-Doppler analysis",
+    "traditional_chinese": "雙多普勒分析",
+    "definition_cht": "「雙多普勒分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dual-polarization radar",
+    "traditional_chinese": "雙偏振雷達",
+    "definition_cht": "「雙偏振雷達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dual-wavelength radar",
+    "traditional_chinese": "雙波長雷達",
+    "definition_cht": "指「雙波長雷達」這類波動或振盪現象，常用於描述大氣、海洋或其他地球流體介質中的能量傳播與週期性變化。"
+  },
+  {
+    "english": "duct",
+    "traditional_chinese": "管",
+    "definition_cht": "「管」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "duff",
+    "traditional_chinese": "達夫",
+    "definition_cht": "「達夫」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "duplexer",
+    "traditional_chinese": "雙工器",
+    "definition_cht": "「雙工器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "duplicatus",
+    "traditional_chinese": "重複",
+    "definition_cht": "「重複」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dupuit–Forchheimer assumptions",
+    "traditional_chinese": "杜普伊-福希海默假設",
+    "definition_cht": "「杜普伊-福希海默假設」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "duration",
+    "traditional_chinese": "期間",
+    "definition_cht": "用於表示「期間」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "duration curve",
+    "traditional_chinese": "持續時間曲線",
+    "definition_cht": "用於表示「持續時間曲線」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "duration statistics",
+    "traditional_chinese": "持續時間統計",
+    "definition_cht": "用於表示「持續時間統計」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。"
+  },
+  {
+    "english": "düsenwind",
+    "traditional_chinese": "杜森溫德",
+    "definition_cht": "指與「杜森溫德」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。"
+  },
+  {
+    "english": "dusk",
+    "traditional_chinese": "黃昏",
+    "definition_cht": "「黃昏」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dust",
+    "traditional_chinese": "灰塵",
+    "definition_cht": "「灰塵」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dust avalanche",
+    "traditional_chinese": "沙塵雪崩",
+    "definition_cht": "「沙塵雪崩」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dust Bowl",
+    "traditional_chinese": "集塵碗",
+    "definition_cht": "「集塵碗」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dust counter",
+    "traditional_chinese": "灰塵計數器",
+    "definition_cht": "「灰塵計數器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dust devil",
+    "traditional_chinese": "塵魔",
+    "definition_cht": "「塵魔」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dust electrification",
+    "traditional_chinese": "粉塵帶電",
+    "definition_cht": "「粉塵帶電」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dust horizon",
+    "traditional_chinese": "塵埃地平線",
+    "definition_cht": "「塵埃地平線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dust wall",
+    "traditional_chinese": "防塵牆",
+    "definition_cht": "「防塵牆」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dust well",
+    "traditional_chinese": "除塵好",
+    "definition_cht": "「除塵好」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dust whirl",
+    "traditional_chinese": "塵埃旋風",
+    "definition_cht": "「塵埃旋風」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dust-devil effect",
+    "traditional_chinese": "塵魔效應",
+    "definition_cht": "「塵魔效應」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dustfall jars",
+    "traditional_chinese": "降塵罐",
+    "definition_cht": "「降塵罐」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "duststorm",
+    "traditional_chinese": "沙塵暴",
+    "definition_cht": "指與「沙塵暴」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。"
+  },
+  {
+    "english": "duty of water",
+    "traditional_chinese": "水的義務",
+    "definition_cht": "「水的義務」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dvorak technique",
+    "traditional_chinese": "德沃夏克技術",
+    "definition_cht": "「德沃夏克技術」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dwigh",
+    "traditional_chinese": "德懷格",
+    "definition_cht": "「德懷格」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dye laser",
+    "traditional_chinese": "染料雷射",
+    "definition_cht": "「染料雷射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dynamic boundary condition",
+    "traditional_chinese": "動態邊界條件",
+    "definition_cht": "指與「動態邊界條件」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "dynamic climatology",
+    "traditional_chinese": "動態氣候學",
+    "definition_cht": "指「動態氣候學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。"
+  },
+  {
+    "english": "dynamic flux",
+    "traditional_chinese": "動態通量",
+    "definition_cht": "「動態通量」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dynamic height",
+    "traditional_chinese": "動態高度",
+    "definition_cht": "指描述「動態高度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "dynamic initialization",
+    "traditional_chinese": "動態初始化",
+    "definition_cht": "「動態初始化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dynamic instability",
+    "traditional_chinese": "動態不穩定性",
+    "definition_cht": "指與「動態不穩定性」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "dynamic meteorology",
+    "traditional_chinese": "動態氣象學",
+    "definition_cht": "指「動態氣象學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。"
+  },
+  {
+    "english": "dynamic meter",
+    "traditional_chinese": "動態計",
+    "definition_cht": "與「動態計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。"
+  },
+  {
+    "english": "dynamic oceanography",
+    "traditional_chinese": "動態海洋學",
+    "definition_cht": "指「動態海洋學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。"
+  },
+  {
+    "english": "Dynamic pipe effect",
+    "traditional_chinese": "動態管道效果",
+    "definition_cht": "「動態管道效果」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dynamic pressure",
+    "traditional_chinese": "動壓",
+    "definition_cht": "指與「動壓」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。"
+  },
+  {
+    "english": "dynamic range",
+    "traditional_chinese": "動態範圍",
+    "definition_cht": "「動態範圍」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dynamic similarity",
+    "traditional_chinese": "動態相似度",
+    "definition_cht": "「動態相似度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "Dynamic stability",
+    "traditional_chinese": "動態穩定性",
+    "definition_cht": "指與「動態穩定性」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。"
+  },
+  {
+    "english": "dynamic viscosity",
+    "traditional_chinese": "動力黏度",
+    "definition_cht": "指描述「動力黏度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "dynamic-height anomaly",
+    "traditional_chinese": "動態高度異常",
+    "definition_cht": "指描述「動態高度異常」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。"
+  },
+  {
+    "english": "dynamical extended range forecasting",
+    "traditional_chinese": "動態擴展範圍預測",
+    "definition_cht": "指「動態擴展範圍預測」這類預報產品或預測作業，用以說明未來一定時段內之天氣、氣候或相關環境條件變化。"
+  },
+  {
+    "english": "dynamical sublayer",
+    "traditional_chinese": "動力子層",
+    "definition_cht": "指與「動力子層」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。"
+  },
+  {
+    "english": "dynamical system",
+    "traditional_chinese": "動力系統",
+    "definition_cht": "「動力系統」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  },
+  {
+    "english": "dynamo theory",
+    "traditional_chinese": "發電機理論",
+    "definition_cht": "與「發電機理論」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。"
+  },
+  {
+    "english": "dyne",
+    "traditional_chinese": "達因",
+    "definition_cht": "「達因」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。"
+  }
+]

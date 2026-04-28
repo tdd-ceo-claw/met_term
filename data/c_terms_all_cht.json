@@ -1,0 +1,4717 @@
+[
+  {
+    "english": "C figure",
+    "traditional_chinese": "C圖",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "C index",
+    "traditional_chinese": "C指數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "C weather",
+    "traditional_chinese": "C 天氣",
+    "definition_cht": "指「C 天氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cabbeling",
+    "traditional_chinese": "混合增密",
+    "definition_cht": "指兩個不同溫鹽特性的水團混合後，混合水體密度高於原兩水團密度內插值的海洋物理現象，常影響水團轉化與垂直運動。"
+  },
+  {
+    "english": "cable",
+    "traditional_chinese": "電纜",
+    "definition_cht": "指「電纜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cacimbo",
+    "traditional_chinese": "卡辛​​博",
+    "definition_cht": "指「卡辛​​博」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cajú rains",
+    "traditional_chinese": "卡茹雨",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "cake ice",
+    "traditional_chinese": "盤冰",
+    "definition_cht": "指海面上呈盤狀或塊狀分散漂浮的碎冰，多由薄冰破裂或重組形成，屬海冰演變過程中的一種型態。"
+  },
+  {
+    "english": "Cal",
+    "traditional_chinese": "卡/卡爾",
+    "definition_cht": "指「卡/卡爾」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calendar year",
+    "traditional_chinese": "曆年",
+    "definition_cht": "指「曆年」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calibration",
+    "traditional_chinese": "校準",
+    "definition_cht": "指將儀器、感測器或量測系統之輸出與標準參考值比對校正的作業或結果，用以提升觀測資料之準確度與一致性。"
+  },
+  {
+    "english": "calibration of an instrument",
+    "traditional_chinese": "儀器的校準",
+    "definition_cht": "指對儀器、感測器或量測系統進行校準的作業程序，以建立觀測值與標準值之間的對應關係，確保資料準確性與可比性。"
+  },
+  {
+    "english": "calibration tank",
+    "traditional_chinese": "校準罐",
+    "definition_cht": "指將儀器、感測器或量測系統之輸出與標準參考值比對校正的作業或結果，用以提升觀測資料之準確度與一致性。"
+  },
+  {
+    "english": "California Current",
+    "traditional_chinese": "加州海流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "California method",
+    "traditional_chinese": "加州方法",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "California plotting position",
+    "traditional_chinese": "加州繪圖位置",
+    "definition_cht": "指「加州繪圖位置」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calina",
+    "traditional_chinese": "卡利納",
+    "definition_cht": "指「卡利納」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calm",
+    "traditional_chinese": "冷靜的",
+    "definition_cht": "指「冷靜的」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calm belt",
+    "traditional_chinese": "冷靜帶",
+    "definition_cht": "指「冷靜帶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calms of Cancer",
+    "traditional_chinese": "癌症的平靜",
+    "definition_cht": "指「癌症的平靜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calorie",
+    "traditional_chinese": "卡路里",
+    "definition_cht": "指「卡路里」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calorimeter",
+    "traditional_chinese": "熱量計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "calved ice",
+    "traditional_chinese": "碎冰",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "calving",
+    "traditional_chinese": "產犢",
+    "definition_cht": "指「產犢」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "calvus",
+    "traditional_chinese": "小腿骨",
+    "definition_cht": "指「小腿骨」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Campbell–Stokes recorder",
+    "traditional_chinese": "坎貝爾-斯托克斯錄音機",
+    "definition_cht": "指「坎貝爾-斯托克斯錄音機」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "campos",
+    "traditional_chinese": "坎波斯",
+    "definition_cht": "指「坎波斯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Canadian hardness-gauge",
+    "traditional_chinese": "加拿大硬度計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "Canary Current",
+    "traditional_chinese": "加那利洋流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "cancellation ratio",
+    "traditional_chinese": "取消率",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "candela",
+    "traditional_chinese": "燭光",
+    "definition_cht": "指「燭光」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "candle",
+    "traditional_chinese": "蠟燭",
+    "definition_cht": "指「蠟燭」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "candle ice",
+    "traditional_chinese": "蠟燭冰",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "Candlemas Eve winds",
+    "traditional_chinese": "聖燭節前夕的風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "canopy",
+    "traditional_chinese": "天篷",
+    "definition_cht": "指「天篷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "canopy temperature",
+    "traditional_chinese": "冠層溫度",
+    "definition_cht": "指「冠層溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Canterbury northwester",
+    "traditional_chinese": "坎特伯雷西北",
+    "definition_cht": "指「坎特伯雷西北」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Canting angle",
+    "traditional_chinese": "傾斜角",
+    "definition_cht": "指「傾斜角」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "canyon wind",
+    "traditional_chinese": "峽谷風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "cap",
+    "traditional_chinese": "帽子",
+    "definition_cht": "指「帽子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cap cloud",
+    "traditional_chinese": "帽雲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "capacitance rain gauge",
+    "traditional_chinese": "電容式雨量計",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "capacity correction",
+    "traditional_chinese": "容量修正",
+    "definition_cht": "指「容量修正」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capacity of the wind",
+    "traditional_chinese": "風的容量",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "CAPE",
+    "traditional_chinese": "CAPE",
+    "definition_cht": "CAPE 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "Cape doctor",
+    "traditional_chinese": "開普醫生",
+    "definition_cht": "指「開普醫生」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillarity",
+    "traditional_chinese": "毛細現象",
+    "definition_cht": "指「毛細現象」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillarity correction",
+    "traditional_chinese": "毛細管現象校正",
+    "definition_cht": "指「毛細管現象校正」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary action",
+    "traditional_chinese": "毛細作用",
+    "definition_cht": "指「毛細作用」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary collector",
+    "traditional_chinese": "毛細管收集器",
+    "definition_cht": "指「毛細管收集器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary conductivity",
+    "traditional_chinese": "毛細管電導率",
+    "definition_cht": "指「毛細管電導率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary depression",
+    "traditional_chinese": "毛細血管凹陷",
+    "definition_cht": "指「毛細血管凹陷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary diffusion",
+    "traditional_chinese": "毛細管擴散",
+    "definition_cht": "指「毛細管擴散」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary electrometer",
+    "traditional_chinese": "毛細管靜電計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "capillary forces",
+    "traditional_chinese": "毛細力",
+    "definition_cht": "指「毛細力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary fringe",
+    "traditional_chinese": "毛細管邊緣",
+    "definition_cht": "指「毛細管邊緣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary head",
+    "traditional_chinese": "毛細管頭",
+    "definition_cht": "指「毛細管頭」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary hysteresis",
+    "traditional_chinese": "毛細管滯後現象",
+    "definition_cht": "指「毛細管滯後現象」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary interstice",
+    "traditional_chinese": "微血管間隙",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "capillary potential",
+    "traditional_chinese": "毛細血管電位",
+    "definition_cht": "指「毛細血管電位」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary pressure",
+    "traditional_chinese": "毛細管壓力",
+    "definition_cht": "指「毛細管壓力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary rise",
+    "traditional_chinese": "毛細管上升",
+    "definition_cht": "指「毛細管上升」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary suction",
+    "traditional_chinese": "毛細管抽吸",
+    "definition_cht": "指「毛細管抽吸」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillary water",
+    "traditional_chinese": "毛細管水",
+    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。"
+  },
+  {
+    "english": "capillary wave",
+    "traditional_chinese": "毛細波",
+    "definition_cht": "指「毛細波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capillatus",
+    "traditional_chinese": "毛毛蟲",
+    "definition_cht": "指「毛毛蟲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capped column",
+    "traditional_chinese": "加蓋柱",
+    "definition_cht": "指「加蓋柱」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CAPPI",
+    "traditional_chinese": "CAPPI",
+    "definition_cht": "CAPPI 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "capping inversion",
+    "traditional_chinese": "封頂反轉",
+    "definition_cht": "指「封頂反轉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "captive balloon sounding",
+    "traditional_chinese": "系留氣球探測",
+    "definition_cht": "指「系留氣球探測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "capture",
+    "traditional_chinese": "捕獲",
+    "definition_cht": "指「捕獲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carabiné",
+    "traditional_chinese": "卡賓槍",
+    "definition_cht": "指「卡賓槍」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon",
+    "traditional_chinese": "碳",
+    "definition_cht": "指「碳」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon assimilation",
+    "traditional_chinese": "碳同化",
+    "definition_cht": "指「碳同化」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon bond mechanism",
+    "traditional_chinese": "碳鍵機制",
+    "definition_cht": "指「碳鍵機制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon budget",
+    "traditional_chinese": "碳預算",
+    "definition_cht": "指「碳預算」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon dioxide",
+    "traditional_chinese": "二氧化碳",
+    "definition_cht": "指「二氧化碳」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Carbon dioxide atmospheric concentrations",
+    "traditional_chinese": "二氧化碳大氣濃度",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "carbon dioxide band",
+    "traditional_chinese": "二氧化碳帶",
+    "definition_cht": "指「二氧化碳帶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon dioxide equivalence",
+    "traditional_chinese": "二氧化碳當量",
+    "definition_cht": "指「二氧化碳當量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon dioxide fertilization",
+    "traditional_chinese": "二氧化碳施肥",
+    "definition_cht": "指「二氧化碳施肥」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon dioxide fertilizing effect",
+    "traditional_chinese": "二氧化碳肥效",
+    "definition_cht": "指「二氧化碳肥效」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon disulfide",
+    "traditional_chinese": "二硫化碳",
+    "definition_cht": "指「二硫化碳」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon monoxide",
+    "traditional_chinese": "一氧化碳",
+    "definition_cht": "指「一氧化碳」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon pool",
+    "traditional_chinese": "碳池",
+    "definition_cht": "指某種物質、能量或成分在地表、生態系或大氣海洋系統中的儲存庫或蓄積區。"
+  },
+  {
+    "english": "carbon sink",
+    "traditional_chinese": "碳匯",
+    "definition_cht": "指能持續吸收、移除或固定某種物質的匯區或作用過程，在氣候與生地化循環研究中常用以描述淨吸收端。"
+  },
+  {
+    "english": "carbon source",
+    "traditional_chinese": "碳源",
+    "definition_cht": "指某種物質、能量或成分的釋放來源或供給端，常用以描述其生成、排放或輸送起始區。"
+  },
+  {
+    "english": "carbon tetrachloride",
+    "traditional_chinese": "四氯化碳",
+    "definition_cht": "指「四氯化碳」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon-black seeding",
+    "traditional_chinese": "炭黑播種",
+    "definition_cht": "指「炭黑播種」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbon-film hygrometer element",
+    "traditional_chinese": "碳膜濕度計元件",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "carbonyl compounds",
+    "traditional_chinese": "羰基化合物",
+    "definition_cht": "指「羰基化合物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carbonyl sulfide",
+    "traditional_chinese": "羰基硫",
+    "definition_cht": "指「羰基硫」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carburetor icing",
+    "traditional_chinese": "化油器結冰",
+    "definition_cht": "指「化油器結冰」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carcenet",
+    "traditional_chinese": "卡塞內特",
+    "definition_cht": "指「卡塞內特」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cardinal temperatures",
+    "traditional_chinese": "基本溫度",
+    "definition_cht": "指「基本溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cardinal winds",
+    "traditional_chinese": "基本風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "Caribbean Current",
+    "traditional_chinese": "加勒比海洋流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "Carnot cycle",
+    "traditional_chinese": "卡諾循環",
+    "definition_cht": "指「卡諾循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Carnot engine",
+    "traditional_chinese": "卡諾發動機",
+    "definition_cht": "指「卡諾發動機」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carrier",
+    "traditional_chinese": "載體",
+    "definition_cht": "指「載體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carrier frequency",
+    "traditional_chinese": "載波頻率",
+    "definition_cht": "指「載波頻率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carrier wave",
+    "traditional_chinese": "載波",
+    "definition_cht": "指「載波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "carry-over",
+    "traditional_chinese": "結轉",
+    "definition_cht": "指「結轉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Cartesian coordinates",
+    "traditional_chinese": "笛卡爾座標",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "Cartesian tensor",
+    "traditional_chinese": "笛卡兒張量",
+    "definition_cht": "指「笛卡兒張量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cascade",
+    "traditional_chinese": "級聯",
+    "definition_cht": "指「級聯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cascade impactor",
+    "traditional_chinese": "級聯衝擊器",
+    "definition_cht": "指「級聯衝擊器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cascade of energy",
+    "traditional_chinese": "能量級聯",
+    "definition_cht": "指「能量級聯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cascade shower",
+    "traditional_chinese": "瀑布淋浴",
+    "definition_cht": "指「瀑布淋浴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cascading water",
+    "traditional_chinese": "層疊水",
+    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。"
+  },
+  {
+    "english": "case weather",
+    "traditional_chinese": "案例天氣",
+    "definition_cht": "指「案例天氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "case-based reasoning",
+    "traditional_chinese": "基於案例的推理",
+    "definition_cht": "指「基於案例的推理」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Cassegrainian mirror",
+    "traditional_chinese": "卡塞格倫鏡",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "Cassegrainian telescope",
+    "traditional_chinese": "卡塞格倫望遠鏡",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "castellanus",
+    "traditional_chinese": "卡斯特拉努斯",
+    "definition_cht": "指「卡斯特拉努斯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "castellatus",
+    "traditional_chinese": "卡斯泰拉圖斯",
+    "definition_cht": "指「卡斯泰拉圖斯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CAT",
+    "traditional_chinese": "CAT",
+    "definition_cht": "CAT 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "cat's nose",
+    "traditional_chinese": "貓的鼻子",
+    "definition_cht": "指「貓的鼻子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cat's paw",
+    "traditional_chinese": "貓的爪子",
+    "definition_cht": "指「貓的爪子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Catalina eddy",
+    "traditional_chinese": "卡塔利娜渦流",
+    "definition_cht": "指「卡塔利娜渦流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "catalytic converters",
+    "traditional_chinese": "觸媒轉換器",
+    "definition_cht": "指「觸媒轉換器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "catalytic cycles",
+    "traditional_chinese": "催化循環",
+    "definition_cht": "指「催化循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "catch",
+    "traditional_chinese": "抓住",
+    "definition_cht": "指「抓住」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "catchment area",
+    "traditional_chinese": "集水區",
+    "definition_cht": "指「集水區」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cathode-ray oscillograph",
+    "traditional_chinese": "陰極射線示波器",
+    "definition_cht": "指「陰極射線示波器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cathode-ray oscilloscope",
+    "traditional_chinese": "陰極射線示波器",
+    "definition_cht": "指「陰極射線示波器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cathode-ray radiogoniometer",
+    "traditional_chinese": "陰極射線放射測角儀",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "cathode-ray tube",
+    "traditional_chinese": "陰極射線管",
+    "definition_cht": "指「陰極射線管」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cation exchange capacity",
+    "traditional_chinese": "陽離子交換容量",
+    "definition_cht": "指「陽離子交換容量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Cauchy number",
+    "traditional_chinese": "柯西數",
+    "definition_cht": "指「柯西數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cavaburd",
+    "traditional_chinese": "卡瓦布爾德",
+    "definition_cht": "指「卡瓦布爾德」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cavaliers",
+    "traditional_chinese": "騎士隊",
+    "definition_cht": "指「騎士隊」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "caver",
+    "traditional_chinese": "探洞者",
+    "definition_cht": "指「探洞者」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cavity",
+    "traditional_chinese": "空腔",
+    "definition_cht": "指「空腔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cavity radiometer",
+    "traditional_chinese": "腔體輻射計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "CAVOK",
+    "traditional_chinese": "CAVOK",
+    "definition_cht": "CAVOK 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "CAVT",
+    "traditional_chinese": "CAVT",
+    "definition_cht": "CAVT 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "CAVU",
+    "traditional_chinese": "CAVU",
+    "definition_cht": "CAVU 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "Cavum",
+    "traditional_chinese": "腔",
+    "definition_cht": "指「腔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CBL",
+    "traditional_chinese": "CBL",
+    "definition_cht": "CBL 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "CCL",
+    "traditional_chinese": "CCL",
+    "definition_cht": "CCL 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "CCN",
+    "traditional_chinese": "CCN",
+    "definition_cht": "CCN 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "CCS",
+    "traditional_chinese": "CCS",
+    "definition_cht": "CCS 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "cd",
+    "traditional_chinese": "光碟",
+    "definition_cht": "指「光碟」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CDR",
+    "traditional_chinese": "CDR",
+    "definition_cht": "CDR 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "ceiling",
+    "traditional_chinese": "天花板",
+    "definition_cht": "指「天花板」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "ceiling balloon",
+    "traditional_chinese": "天花板氣球",
+    "definition_cht": "指「天花板氣球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "ceiling classification",
+    "traditional_chinese": "天花板分類",
+    "definition_cht": "指「天花板分類」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "ceiling light",
+    "traditional_chinese": "吸頂燈",
+    "definition_cht": "指「吸頂燈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "ceiling-height indicator",
+    "traditional_chinese": "天花板高度指示器",
+    "definition_cht": "指「天花板高度指示器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "ceilometer",
+    "traditional_chinese": "雲端高計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "celerity",
+    "traditional_chinese": "迅速",
+    "definition_cht": "指「迅速」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "celestial equator",
+    "traditional_chinese": "天球赤道",
+    "definition_cht": "指「天球赤道」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "celestial pole",
+    "traditional_chinese": "天極",
+    "definition_cht": "指「天極」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "celestial sphere",
+    "traditional_chinese": "天球",
+    "definition_cht": "指「天球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cell",
+    "traditional_chinese": "細胞",
+    "definition_cht": "指「細胞」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cellular circulation",
+    "traditional_chinese": "細胞循環",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cellular cloud pattern",
+    "traditional_chinese": "蜂巢雲圖案",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cellular convection",
+    "traditional_chinese": "細胞對流",
+    "definition_cht": "指「細胞對流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Celsius temperature scale",
+    "traditional_chinese": "攝氏溫標",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "center jump",
+    "traditional_chinese": "中心跳躍",
+    "definition_cht": "指「中心跳躍」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "center of action",
+    "traditional_chinese": "行動中心",
+    "definition_cht": "指「行動中心」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "center of gravity",
+    "traditional_chinese": "重心",
+    "definition_cht": "指「重心」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "centered difference",
+    "traditional_chinese": "中心差異",
+    "definition_cht": "指「中心差異」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "centibar",
+    "traditional_chinese": "厘巴",
+    "definition_cht": "指「厘巴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "centigrade temperature scale",
+    "traditional_chinese": "攝氏溫標",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "centimeter–gram–second system",
+    "traditional_chinese": "厘米-克-秒系統",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "centipoise",
+    "traditional_chinese": "厘泊",
+    "definition_cht": "指「厘泊」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "central dense overcast",
+    "traditional_chinese": "中部濃雲",
+    "definition_cht": "指「中部濃雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "central forecasting office",
+    "traditional_chinese": "中央預測辦公室",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "central moment",
+    "traditional_chinese": "中心矩",
+    "definition_cht": "指「中心矩」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "central pressure",
+    "traditional_chinese": "中心壓力",
+    "definition_cht": "指「中心壓力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "central tendency",
+    "traditional_chinese": "集中趨勢",
+    "definition_cht": "指「集中趨勢」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "central water",
+    "traditional_chinese": "中央水",
+    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。"
+  },
+  {
+    "english": "centrifugal force",
+    "traditional_chinese": "離心力",
+    "definition_cht": "指「離心力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "centrifugal instability",
+    "traditional_chinese": "離心不穩定性",
+    "definition_cht": "指「離心不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "centripetal acceleration",
+    "traditional_chinese": "向心加速度",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "ceraunograph",
+    "traditional_chinese": "陶瓷畫法",
+    "definition_cht": "指「陶瓷畫法」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "ceraunometer",
+    "traditional_chinese": "測孔儀",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "cers",
+    "traditional_chinese": "cer",
+    "definition_cht": "指「cer」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "certainty factor",
+    "traditional_chinese": "確定性因素",
+    "definition_cht": "指「確定性因素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cetane",
+    "traditional_chinese": "十六烷",
+    "definition_cht": "指「十六烷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CFL",
+    "traditional_chinese": "CFL",
+    "definition_cht": "CFL 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "CFLOS",
+    "traditional_chinese": "CFLOS",
+    "definition_cht": "CFLOS 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "cfs",
+    "traditional_chinese": "立方英尺每秒",
+    "definition_cht": "cfs 為 cubic feet per second 的縮寫，為流量單位，表示每秒通過某一斷面的體積流量為若干立方英尺。"
+  },
+  {
+    "english": "cgs system",
+    "traditional_chinese": "CG系統",
+    "definition_cht": "指「CG系統」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chaff",
+    "traditional_chinese": "糠",
+    "definition_cht": "指「糠」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chaff seeding",
+    "traditional_chinese": "穀殼播種",
+    "definition_cht": "指「穀殼播種」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chain length",
+    "traditional_chinese": "鍊長",
+    "definition_cht": "指「鍊長」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chain reaction",
+    "traditional_chinese": "連鎖反應",
+    "definition_cht": "指「連鎖反應」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chain rule",
+    "traditional_chinese": "鍊式法則",
+    "definition_cht": "指「鍊式法則」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "challiho",
+    "traditional_chinese": "查利霍",
+    "definition_cht": "指「查利霍」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chanduy",
+    "traditional_chinese": "尚杜伊",
+    "definition_cht": "指「尚杜伊」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "change chart",
+    "traditional_chinese": "變化圖",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "change of phase",
+    "traditional_chinese": "相變",
+    "definition_cht": "指「相變」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "change of state",
+    "traditional_chinese": "狀態改變",
+    "definition_cht": "指「狀態改變」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "channel",
+    "traditional_chinese": "頻道",
+    "definition_cht": "指「頻道」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "channel control",
+    "traditional_chinese": "通道控制",
+    "definition_cht": "指「通道控制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "channel storage",
+    "traditional_chinese": "頻道儲存",
+    "definition_cht": "指「頻道儲存」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "channeling",
+    "traditional_chinese": "通靈",
+    "definition_cht": "指「通靈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chaos",
+    "traditional_chinese": "混亂",
+    "definition_cht": "指「混亂」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Chapman layer",
+    "traditional_chinese": "查普曼層",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "Chapman mechanism",
+    "traditional_chinese": "查普曼機制",
+    "definition_cht": "指「查普曼機制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Chappuis bands",
+    "traditional_chinese": "查普伊斯樂隊",
+    "definition_cht": "指「查普伊斯樂隊」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "characteristic equation",
+    "traditional_chinese": "特徵方程",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "characteristic length",
+    "traditional_chinese": "特徵長度",
+    "definition_cht": "指「特徵長度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "characteristic of the pressure tendency",
+    "traditional_chinese": "壓力趨勢特徵",
+    "definition_cht": "指「壓力趨勢特徵」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "characteristic velocity",
+    "traditional_chinese": "特徵速度",
+    "definition_cht": "指「特徵速度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "characteristic-value problem",
+    "traditional_chinese": "特徵值問題",
+    "definition_cht": "指「特徵值問題」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "characteristics",
+    "traditional_chinese": "特徵",
+    "definition_cht": "指「特徵」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "charge separation",
+    "traditional_chinese": "電荷分離",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "Charles–Gay–Lussac law",
+    "traditional_chinese": "查理-蓋-呂薩克定律",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "Charnock's relation",
+    "traditional_chinese": "查諾克關係",
+    "definition_cht": "指「查諾克關係」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chart",
+    "traditional_chinese": "圖表",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "chart datum",
+    "traditional_chinese": "海圖數據",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "chart plotting",
+    "traditional_chinese": "圖表繪製",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "check observation",
+    "traditional_chinese": "檢查觀察",
+    "definition_cht": "指「檢查觀察」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chemical composition of precipitation",
+    "traditional_chinese": "降水化學成分",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "chemical energy",
+    "traditional_chinese": "化學能",
+    "definition_cht": "指「化學能」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chemical hygrometer",
+    "traditional_chinese": "化學濕度計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "chemisorption",
+    "traditional_chinese": "化學吸附",
+    "definition_cht": "指「化學吸附」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chemosphere",
+    "traditional_chinese": "化學圈",
+    "definition_cht": "指「化學圈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chergui",
+    "traditional_chinese": "切爾吉",
+    "definition_cht": "指「切爾吉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Chezy equation",
+    "traditional_chinese": "切齊方程",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "chi-square test",
+    "traditional_chinese": "卡方檢定",
+    "definition_cht": "指「卡方檢定」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chili",
+    "traditional_chinese": "辣椒",
+    "definition_cht": "指「辣椒」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chill factor",
+    "traditional_chinese": "寒冷因素",
+    "definition_cht": "指「寒冷因素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chill hour",
+    "traditional_chinese": "寒冷時刻",
+    "definition_cht": "指「寒冷時刻」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chill unit",
+    "traditional_chinese": "冷卻裝置",
+    "definition_cht": "指「冷卻裝置」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chilled-mirror hygrometer",
+    "traditional_chinese": "冷鏡濕度計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "chilling",
+    "traditional_chinese": "令人不寒而慄",
+    "definition_cht": "指「令人不寒而慄」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chilling injury",
+    "traditional_chinese": "冷傷",
+    "definition_cht": "指「冷傷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chimney cloud",
+    "traditional_chinese": "煙囪雲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "chimney plume",
+    "traditional_chinese": "煙囪羽流",
+    "definition_cht": "指「煙囪羽流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "China Coastal Current",
+    "traditional_chinese": "中國沿岸流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "chinook",
+    "traditional_chinese": "奇努克",
+    "definition_cht": "指「奇努克」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chinook arch",
+    "traditional_chinese": "奇努克拱門",
+    "definition_cht": "指「奇努克拱門」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chinophile",
+    "traditional_chinese": "中國愛好者",
+    "definition_cht": "指「中國愛好者」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chip log",
+    "traditional_chinese": "晶片日誌",
+    "definition_cht": "指「晶片日誌」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorine compounds",
+    "traditional_chinese": "氯化合物",
+    "definition_cht": "指「氯化合物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorine dioxide",
+    "traditional_chinese": "二氧化氯",
+    "definition_cht": "指「二氧化氯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorine monoxide dimer",
+    "traditional_chinese": "一氧化氯二聚體",
+    "definition_cht": "指「一氧化氯二聚體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorine monoxide radical",
+    "traditional_chinese": "一氧化氯自由基",
+    "definition_cht": "指「一氧化氯自由基」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorine nitrate",
+    "traditional_chinese": "硝酸氯",
+    "definition_cht": "指「硝酸氯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorine oxides",
+    "traditional_chinese": "氯氧化物",
+    "definition_cht": "指「氯氧化物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorinity",
+    "traditional_chinese": "氯度",
+    "definition_cht": "指「氯度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorofluorocarbons",
+    "traditional_chinese": "氯氟烴",
+    "definition_cht": "指「氯氟烴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chloroform",
+    "traditional_chinese": "氯仿",
+    "definition_cht": "指「氯仿」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chlorosity",
+    "traditional_chinese": "氯度",
+    "definition_cht": "指「氯度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chocolatero",
+    "traditional_chinese": "巧克力羅",
+    "definition_cht": "指「巧克力羅」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chocolatta north",
+    "traditional_chinese": "北巧克力",
+    "definition_cht": "指「北巧克力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chop",
+    "traditional_chinese": "劈",
+    "definition_cht": "指「劈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "choppy sea",
+    "traditional_chinese": "波濤洶湧的大海",
+    "definition_cht": "指「波濤洶湧的大海」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chota bursát",
+    "traditional_chinese": "喬塔布爾薩特",
+    "definition_cht": "指「喬塔布爾薩特」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chou lao hu",
+    "traditional_chinese": "臭老虎",
+    "definition_cht": "指「臭老虎」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Chromosphere",
+    "traditional_chinese": "色球層",
+    "definition_cht": "指「色球層」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chronograph",
+    "traditional_chinese": "計時碼表",
+    "definition_cht": "指「計時碼表」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chronometric radiosonde",
+    "traditional_chinese": "計時無線電探空儀",
+    "definition_cht": "指「計時無線電探空儀」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chronothermometer",
+    "traditional_chinese": "計時溫度計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "chubasco",
+    "traditional_chinese": "丘巴斯科",
+    "definition_cht": "指「丘巴斯科」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chun fung",
+    "traditional_chinese": "駿豐",
+    "definition_cht": "指「駿豐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "chunyuh",
+    "traditional_chinese": "春雨",
+    "definition_cht": "指「春雨」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "churada",
+    "traditional_chinese": "丘拉達",
+    "definition_cht": "指「丘拉達」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cierzo",
+    "traditional_chinese": "謝爾索",
+    "definition_cht": "指「謝爾索」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CIN",
+    "traditional_chinese": "CIN",
+    "definition_cht": "CIN 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "circular depolarization ratio",
+    "traditional_chinese": "圓消偏比",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "circular polarization",
+    "traditional_chinese": "圓偏振",
+    "definition_cht": "指「圓偏振」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "circular variable",
+    "traditional_chinese": "循環變數",
+    "definition_cht": "指「循環變數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "circular vortex",
+    "traditional_chinese": "圓形渦流",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "circulation",
+    "traditional_chinese": "循環",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "circulation index",
+    "traditional_chinese": "流通指數",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "circulation integral",
+    "traditional_chinese": "循環積分",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "circulation pattern",
+    "traditional_chinese": "循環模式",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "circulation theorem",
+    "traditional_chinese": "循環定理",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "circulation type",
+    "traditional_chinese": "循環型",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "circumhorizontal arc",
+    "traditional_chinese": "環水平弧",
+    "definition_cht": "指「環水平弧」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "circumpolar whirl",
+    "traditional_chinese": "繞極渦旋",
+    "definition_cht": "指「繞極渦旋」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "circumscribed halo",
+    "traditional_chinese": "限制光環",
+    "definition_cht": "指「限制光環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "circumzenithal arc",
+    "traditional_chinese": "環天頂弧",
+    "definition_cht": "指「環天頂弧」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cirque glacier",
+    "traditional_chinese": "冰斗冰川",
+    "definition_cht": "指「冰斗冰川」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cirriform",
+    "traditional_chinese": "卷狀",
+    "definition_cht": "指「卷狀」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cirrocumulus",
+    "traditional_chinese": "卷積雲",
+    "definition_cht": "指「卷積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cirrostratus",
+    "traditional_chinese": "卷層雲",
+    "definition_cht": "指「卷層雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cirrus",
+    "traditional_chinese": "卷雲",
+    "definition_cht": "指「卷雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cirrus intortus",
+    "traditional_chinese": "卷雲",
+    "definition_cht": "指「卷雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cirrus spissatus",
+    "traditional_chinese": "密卷雲",
+    "definition_cht": "指「密卷雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cirrus uncinus",
+    "traditional_chinese": "鉤卷雲",
+    "definition_cht": "指「鉤卷雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CISK",
+    "traditional_chinese": "CISK",
+    "definition_cht": "CISK 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "cistern",
+    "traditional_chinese": "蓄水池",
+    "definition_cht": "指「蓄水池」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cistern barometer",
+    "traditional_chinese": "水箱氣壓計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "Citation",
+    "traditional_chinese": "引文",
+    "definition_cht": "指「引文」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "civil day",
+    "traditional_chinese": "公民日",
+    "definition_cht": "指「公民日」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "civil twilight",
+    "traditional_chinese": "公民黃昏",
+    "definition_cht": "指「公民黃昏」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clapotis",
+    "traditional_chinese": "克拉波蒂斯",
+    "definition_cht": "指「克拉波蒂斯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "class interval",
+    "traditional_chinese": "課間間隔",
+    "definition_cht": "指「課間間隔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "class-A evaporation pan",
+    "traditional_chinese": "A級蒸發鍋",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "classical condensation theory",
+    "traditional_chinese": "經典凝聚理論",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "clathrate hydrate",
+    "traditional_chinese": "籠形水合物",
+    "definition_cht": "指「籠形水合物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Clausius-Clapeyron equation",
+    "traditional_chinese": "克勞修斯-克拉佩龍方程",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "clay atmometer",
+    "traditional_chinese": "黏土氣壓計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "Clayden effect",
+    "traditional_chinese": "克萊登效應",
+    "definition_cht": "指「克萊登效應」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clean air",
+    "traditional_chinese": "乾淨的空氣",
+    "definition_cht": "指「乾淨的空氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clear",
+    "traditional_chinese": "清除",
+    "definition_cht": "指「清除」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clear air",
+    "traditional_chinese": "清澈的空氣",
+    "definition_cht": "指「清澈的空氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clear ice",
+    "traditional_chinese": "清澈的冰",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "clear line of sight",
+    "traditional_chinese": "視線清晰",
+    "definition_cht": "指「視線清晰」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clear sky",
+    "traditional_chinese": "晴朗的天空",
+    "definition_cht": "指「晴朗的天空」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clear-air echo",
+    "traditional_chinese": "晴空迴聲",
+    "definition_cht": "指「晴空迴聲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clear-air turbulence",
+    "traditional_chinese": "晴空湍流",
+    "definition_cht": "指「晴空湍流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clearance",
+    "traditional_chinese": "清除",
+    "definition_cht": "指「清除」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clearing",
+    "traditional_chinese": "清算",
+    "definition_cht": "指「清算」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climagram",
+    "traditional_chinese": "氣候圖",
+    "definition_cht": "指「氣候圖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CLIMAP",
+    "traditional_chinese": "CLIMAP",
+    "definition_cht": "CLIMAP 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "climat",
+    "traditional_chinese": "氣候",
+    "definition_cht": "指「氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CLIMAT broadcast",
+    "traditional_chinese": "氣候廣播",
+    "definition_cht": "指「氣候廣播」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate",
+    "traditional_chinese": "氣候",
+    "definition_cht": "指「氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate analogs",
+    "traditional_chinese": "氣候類似物",
+    "definition_cht": "指「氣候類似物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate anomaly",
+    "traditional_chinese": "氣候異常",
+    "definition_cht": "指「氣候異常」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate change",
+    "traditional_chinese": "氣候變遷",
+    "definition_cht": "指「氣候變遷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate change detection",
+    "traditional_chinese": "氣候變遷檢測",
+    "definition_cht": "指「氣候變遷檢測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate control",
+    "traditional_chinese": "氣候控制",
+    "definition_cht": "指「氣候控制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate drift",
+    "traditional_chinese": "氣候漂移",
+    "definition_cht": "指「氣候漂移」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate fluctuations",
+    "traditional_chinese": "氣候波動",
+    "definition_cht": "指「氣候波動」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate impact assessments",
+    "traditional_chinese": "氣候影響評估",
+    "definition_cht": "指「氣候影響評估」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate model",
+    "traditional_chinese": "氣候模型",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "climate modification",
+    "traditional_chinese": "氣候改變",
+    "definition_cht": "指「氣候改變」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate monitoring",
+    "traditional_chinese": "氣候監測",
+    "definition_cht": "指「氣候監測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate noise",
+    "traditional_chinese": "氣候噪音",
+    "definition_cht": "指「氣候噪音」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate periodicity",
+    "traditional_chinese": "氣候週期性",
+    "definition_cht": "指「氣候週期性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate prediction",
+    "traditional_chinese": "氣候預測",
+    "definition_cht": "指「氣候預測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate sensitivity",
+    "traditional_chinese": "氣候敏感度",
+    "definition_cht": "指「氣候敏感度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Climate services",
+    "traditional_chinese": "氣候服務",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "climate signal",
+    "traditional_chinese": "氣候訊號",
+    "definition_cht": "指「氣候訊號」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate snow line",
+    "traditional_chinese": "氣候雪線",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "climate system",
+    "traditional_chinese": "氣候系統",
+    "definition_cht": "指「氣候系統」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climate variability",
+    "traditional_chinese": "氣候變遷",
+    "definition_cht": "指「氣候變遷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic classification",
+    "traditional_chinese": "氣候分類",
+    "definition_cht": "指「氣候分類」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic control",
+    "traditional_chinese": "氣候控制",
+    "definition_cht": "指「氣候控制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic cycle",
+    "traditional_chinese": "氣候循環",
+    "definition_cht": "指「氣候循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic diagram",
+    "traditional_chinese": "氣候圖",
+    "definition_cht": "指「氣候圖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic discontinuity",
+    "traditional_chinese": "氣候不連續性",
+    "definition_cht": "指「氣候不連續性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic divide",
+    "traditional_chinese": "氣候分水嶺",
+    "definition_cht": "指「氣候分水嶺」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic element",
+    "traditional_chinese": "氣候因素",
+    "definition_cht": "指「氣候因素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic factor",
+    "traditional_chinese": "氣候因素",
+    "definition_cht": "指「氣候因素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic fluctuation",
+    "traditional_chinese": "氣候波動",
+    "definition_cht": "指「氣候波動」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic index",
+    "traditional_chinese": "氣候指數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "Climatic Optimum",
+    "traditional_chinese": "最適宜的氣候",
+    "definition_cht": "指「最適宜的氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Climatic province",
+    "traditional_chinese": "氣候省份",
+    "definition_cht": "指「氣候省份」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic record",
+    "traditional_chinese": "氣候記錄",
+    "definition_cht": "指「氣候記錄」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic region",
+    "traditional_chinese": "氣候區",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "climatic risk",
+    "traditional_chinese": "氣候風險",
+    "definition_cht": "指「氣候風險」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic trend",
+    "traditional_chinese": "氣候趨勢",
+    "definition_cht": "指「氣候趨勢」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic year",
+    "traditional_chinese": "氣候年",
+    "definition_cht": "指「氣候年」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatic zone",
+    "traditional_chinese": "氣候帶",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "climatography",
+    "traditional_chinese": "氣候學",
+    "definition_cht": "指「氣候學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological atlas",
+    "traditional_chinese": "氣候圖集",
+    "definition_cht": "指「氣候圖集」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological chart",
+    "traditional_chinese": "氣候圖",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "climatological data",
+    "traditional_chinese": "氣候數據",
+    "definition_cht": "指「氣候數據」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological division",
+    "traditional_chinese": "氣候分區",
+    "definition_cht": "指「氣候分區」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Climatological field",
+    "traditional_chinese": "氣候領域",
+    "definition_cht": "指「氣候領域」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological forecast",
+    "traditional_chinese": "氣候預報",
+    "definition_cht": "指「氣候預報」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Climatological mean field",
+    "traditional_chinese": "氣候平均場",
+    "definition_cht": "指「氣候平均場」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological network",
+    "traditional_chinese": "氣候網路",
+    "definition_cht": "指「氣候網路」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological observation",
+    "traditional_chinese": "氣候觀測",
+    "definition_cht": "指「氣候觀測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological standard normals",
+    "traditional_chinese": "氣候標準常態",
+    "definition_cht": "指「氣候標準常態」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological station",
+    "traditional_chinese": "氣候站",
+    "definition_cht": "指「氣候站」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological station elevation",
+    "traditional_chinese": "氣候站海拔",
+    "definition_cht": "指「氣候站海拔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological station pressure",
+    "traditional_chinese": "氣候站壓力",
+    "definition_cht": "指「氣候站壓力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological substation",
+    "traditional_chinese": "氣候變電站",
+    "definition_cht": "指「氣候變電站」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological summary",
+    "traditional_chinese": "氣候總結",
+    "definition_cht": "指「氣候總結」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatological year",
+    "traditional_chinese": "氣候年",
+    "definition_cht": "指「氣候年」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Climatology",
+    "traditional_chinese": "氣候學",
+    "definition_cht": "指「氣候學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "climatonomy",
+    "traditional_chinese": "氣候學",
+    "definition_cht": "指「氣候學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clinometer",
+    "traditional_chinese": "測角儀",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "clo",
+    "traditional_chinese": "克洛",
+    "definition_cht": "指「克洛」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CLOS",
+    "traditional_chinese": "CLOS",
+    "definition_cht": "CLOS 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "close pack ice",
+    "traditional_chinese": "密冰",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "closed basin",
+    "traditional_chinese": "封閉盆地",
+    "definition_cht": "指「封閉盆地」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closed cells",
+    "traditional_chinese": "閉孔",
+    "definition_cht": "指「閉孔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closed circulation",
+    "traditional_chinese": "閉路循環",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "closed drainage",
+    "traditional_chinese": "封閉排水",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "closed high",
+    "traditional_chinese": "收高",
+    "definition_cht": "指「收高」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closed lake",
+    "traditional_chinese": "封閉湖",
+    "definition_cht": "指「封閉湖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closed low",
+    "traditional_chinese": "低收",
+    "definition_cht": "指「低收」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closed system",
+    "traditional_chinese": "封閉系統",
+    "definition_cht": "指「封閉系統」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closed weather",
+    "traditional_chinese": "封閉天氣",
+    "definition_cht": "指「封閉天氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closed-cell stratocumulus",
+    "traditional_chinese": "閉孔層積雲",
+    "definition_cht": "指「閉孔層積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closure assumptions",
+    "traditional_chinese": "封閉假設",
+    "definition_cht": "指「封閉假設」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "closure problem",
+    "traditional_chinese": "閉包問題",
+    "definition_cht": "指「閉包問題」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cloud",
+    "traditional_chinese": "雲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud absorption",
+    "traditional_chinese": "雲吸收",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud albedo",
+    "traditional_chinese": "雲反照率",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud amount",
+    "traditional_chinese": "雲量",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud attenuation",
+    "traditional_chinese": "雲衰減",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud band",
+    "traditional_chinese": "雲帶",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud bank",
+    "traditional_chinese": "雲端銀行",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud bar",
+    "traditional_chinese": "雲吧",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud base",
+    "traditional_chinese": "雲基地",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud camera",
+    "traditional_chinese": "雲端相機",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud ceiling",
+    "traditional_chinese": "雲頂",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud chamber",
+    "traditional_chinese": "雲室",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud chart",
+    "traditional_chinese": "雲圖",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud classification",
+    "traditional_chinese": "雲分類",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud cluster",
+    "traditional_chinese": "雲端集群",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud condensation nuclei",
+    "traditional_chinese": "雲凝結核",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud condensation nuclei counter",
+    "traditional_chinese": "雲凝結核計數器",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud cover",
+    "traditional_chinese": "雲層",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud drop",
+    "traditional_chinese": "雲滴",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud droplet",
+    "traditional_chinese": "雲滴",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud echo",
+    "traditional_chinese": "雲迴聲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud electrification",
+    "traditional_chinese": "雲端電氣化",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud element",
+    "traditional_chinese": "雲端元素",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud etage",
+    "traditional_chinese": "雲端運算",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud feedback",
+    "traditional_chinese": "雲端回饋",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud flash",
+    "traditional_chinese": "雲閃",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud formation",
+    "traditional_chinese": "雲的形成",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud genus",
+    "traditional_chinese": "雲屬",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud gun",
+    "traditional_chinese": "雲槍",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud height",
+    "traditional_chinese": "雲端高",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud image animation",
+    "traditional_chinese": "雲圖動畫",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud layer",
+    "traditional_chinese": "雲層",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud level",
+    "traditional_chinese": "雲層",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud line",
+    "traditional_chinese": "雲線",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud microphysics",
+    "traditional_chinese": "雲微物理",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud microstructure",
+    "traditional_chinese": "雲狀微觀結構",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud mirror",
+    "traditional_chinese": "雲鏡",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud model",
+    "traditional_chinese": "雲端模型",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud modification",
+    "traditional_chinese": "雲端修改",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud motion vector",
+    "traditional_chinese": "雲運動向量",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud nucleus",
+    "traditional_chinese": "雲核",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud optical depth",
+    "traditional_chinese": "雲光學深度",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud particle",
+    "traditional_chinese": "雲粒子",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud physics",
+    "traditional_chinese": "雲物理",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud radar",
+    "traditional_chinese": "雲雷達",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud radiative forcing",
+    "traditional_chinese": "雲輻射強迫",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud searchlight",
+    "traditional_chinese": "雲探照燈",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud sector",
+    "traditional_chinese": "雲端部門",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud seeding",
+    "traditional_chinese": "雲端播種",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud shield",
+    "traditional_chinese": "雲盾",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud streets",
+    "traditional_chinese": "雲街",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud symbol",
+    "traditional_chinese": "雲符號",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud system",
+    "traditional_chinese": "雲端系統",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud top",
+    "traditional_chinese": "雲頂",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud tracer",
+    "traditional_chinese": "雲端追蹤器",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud winds",
+    "traditional_chinese": "雲風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "cloud-detection radar",
+    "traditional_chinese": "雲偵測雷達",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud-drop sampler",
+    "traditional_chinese": "雲滴採樣器",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud-free line of sight",
+    "traditional_chinese": "無雲視線",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud-height indicator",
+    "traditional_chinese": "雲高指示器",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud-height measurement method",
+    "traditional_chinese": "雲高測量方法",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud-to-ground flash",
+    "traditional_chinese": "雲地閃光",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloud-top entrainment instability",
+    "traditional_chinese": "雲頂夾帶不穩定性",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloudbow",
+    "traditional_chinese": "雲弓",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloudburst",
+    "traditional_chinese": "暴雨",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloudy",
+    "traditional_chinese": "多雲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloudy day",
+    "traditional_chinese": "陰天",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cloudy sky",
+    "traditional_chinese": "多雲的天空",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "cluster ions",
+    "traditional_chinese": "簇離子",
+    "definition_cht": "指「簇離子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clutter",
+    "traditional_chinese": "雜亂",
+    "definition_cht": "指「雜亂」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "clutter rejection",
+    "traditional_chinese": "雜波抑制",
+    "definition_cht": "指「雜波抑制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CME",
+    "traditional_chinese": "CME",
+    "definition_cht": "CME 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "co-cumulative spectrum",
+    "traditional_chinese": "共累積譜",
+    "definition_cht": "指「共累積譜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "co-latitude",
+    "traditional_chinese": "共緯度",
+    "definition_cht": "指「共緯度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Co-rotating Interaction Region",
+    "traditional_chinese": "同向旋轉交互區域",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "coagulation",
+    "traditional_chinese": "凝固",
+    "definition_cht": "指「凝固」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coalescence",
+    "traditional_chinese": "合併",
+    "definition_cht": "指「合併」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coalescence efficiency",
+    "traditional_chinese": "聚結效率",
+    "definition_cht": "指「聚結效率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coarse particles",
+    "traditional_chinese": "粗顆粒",
+    "definition_cht": "指「粗顆粒」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coarse-mesh grid",
+    "traditional_chinese": "粗目網格",
+    "definition_cht": "指「粗目網格」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coastal climate",
+    "traditional_chinese": "沿海氣候",
+    "definition_cht": "指「沿海氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coastal front",
+    "traditional_chinese": "沿海前線",
+    "definition_cht": "指「沿海前線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coastal upwelling",
+    "traditional_chinese": "沿海上升流",
+    "definition_cht": "指「沿海上升流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coastal zone",
+    "traditional_chinese": "沿海地區",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "Coastal Zone Color Scanner",
+    "traditional_chinese": "沿海地區彩色掃描儀",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "coastally trapped waves",
+    "traditional_chinese": "沿海睏波",
+    "definition_cht": "指「沿海睏波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coaxial cable",
+    "traditional_chinese": "同軸電纜",
+    "definition_cht": "指「同軸電纜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cockeyed bob",
+    "traditional_chinese": "斜眼鮑勃",
+    "definition_cht": "指「斜眼鮑勃」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "code forms",
+    "traditional_chinese": "代碼形式",
+    "definition_cht": "指「代碼形式」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coefficient of barotropy",
+    "traditional_chinese": "正壓係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of compressibility",
+    "traditional_chinese": "壓縮係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of consolidation",
+    "traditional_chinese": "固結係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of correlation",
+    "traditional_chinese": "相關係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of diffusion",
+    "traditional_chinese": "擴散係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of eddy viscosity",
+    "traditional_chinese": "渦粘係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of mutual diffusion",
+    "traditional_chinese": "相互擴散係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of piezotropy",
+    "traditional_chinese": "壓電係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of tension",
+    "traditional_chinese": "張力係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of thermal expansion",
+    "traditional_chinese": "熱膨脹係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of transparency",
+    "traditional_chinese": "透明度係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coefficient of viscosity",
+    "traditional_chinese": "黏度係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coffin corner",
+    "traditional_chinese": "棺材角",
+    "definition_cht": "指「棺材角」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cognitive task analysis",
+    "traditional_chinese": "認知任務分析",
+    "definition_cht": "指「認知任務分析」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coherence",
+    "traditional_chinese": "連貫性",
+    "definition_cht": "指「連貫性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coherence element",
+    "traditional_chinese": "連貫性元素",
+    "definition_cht": "指「連貫性元素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coherence time",
+    "traditional_chinese": "相干時間",
+    "definition_cht": "指「相干時間」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coherent detection",
+    "traditional_chinese": "相干檢測",
+    "definition_cht": "指「相干檢測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coherent echo",
+    "traditional_chinese": "相干回波",
+    "definition_cht": "指「相干回波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coherent integration",
+    "traditional_chinese": "相干積分",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "coherent radar",
+    "traditional_chinese": "相干雷達",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "coherent scattering",
+    "traditional_chinese": "相干散射",
+    "definition_cht": "指「相干散射」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coherent structures",
+    "traditional_chinese": "連貫結構",
+    "definition_cht": "指「連貫結構」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coherent target",
+    "traditional_chinese": "相干目標",
+    "definition_cht": "指「相干目標」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "COHMAP",
+    "traditional_chinese": "COHMAP",
+    "definition_cht": "COHMAP 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "coho",
+    "traditional_chinese": "科霍",
+    "definition_cht": "指「科霍」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "col",
+    "traditional_chinese": "坳",
+    "definition_cht": "指「坳」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold cap",
+    "traditional_chinese": "涼帽",
+    "definition_cht": "指「涼帽」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold conveyor belt",
+    "traditional_chinese": "冷輸送帶",
+    "definition_cht": "指「冷輸送帶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold dome",
+    "traditional_chinese": "冷穹頂",
+    "definition_cht": "指「冷穹頂」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold front",
+    "traditional_chinese": "冷鋒",
+    "definition_cht": "指「冷鋒」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold high",
+    "traditional_chinese": "冷高",
+    "definition_cht": "指「冷高」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold low",
+    "traditional_chinese": "冷低",
+    "definition_cht": "指「冷低」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold pole",
+    "traditional_chinese": "冷極",
+    "definition_cht": "指「冷極」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold pool",
+    "traditional_chinese": "冷池",
+    "definition_cht": "指某種物質、能量或成分在地表、生態系或大氣海洋系統中的儲存庫或蓄積區。"
+  },
+  {
+    "english": "cold sector",
+    "traditional_chinese": "冷區",
+    "definition_cht": "指「冷區」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Cold snap",
+    "traditional_chinese": "寒流",
+    "definition_cht": "指「寒流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold soak",
+    "traditional_chinese": "冷浸",
+    "definition_cht": "指「冷浸」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold tongue",
+    "traditional_chinese": "冷舌",
+    "definition_cht": "指「冷舌」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold top",
+    "traditional_chinese": "冷頂",
+    "definition_cht": "指「冷頂」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold trough",
+    "traditional_chinese": "冷槽",
+    "definition_cht": "指「冷槽」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold type occlusion",
+    "traditional_chinese": "冷型閉塞",
+    "definition_cht": "指「冷型閉塞」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold wave",
+    "traditional_chinese": "寒潮",
+    "definition_cht": "指「寒潮」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold-air injection",
+    "traditional_chinese": "冷空氣噴射",
+    "definition_cht": "指「冷空氣噴射」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold-air pool",
+    "traditional_chinese": "冷空氣池",
+    "definition_cht": "指某種物質、能量或成分在地表、生態系或大氣海洋系統中的儲存庫或蓄積區。"
+  },
+  {
+    "english": "cold-core rings",
+    "traditional_chinese": "冷芯環",
+    "definition_cht": "指「冷芯環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold-front thunderstorm",
+    "traditional_chinese": "冷鋒雷暴",
+    "definition_cht": "指「冷鋒雷暴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cold-front wave",
+    "traditional_chinese": "冷鋒波",
+    "definition_cht": "指「冷鋒波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "colla",
+    "traditional_chinese": "科拉",
+    "definition_cht": "指「科拉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "collada",
+    "traditional_chinese": "科拉達",
+    "definition_cht": "指「科拉達」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "collar cloud",
+    "traditional_chinese": "領雲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "collection efficiency",
+    "traditional_chinese": "收集效率",
+    "definition_cht": "指「收集效率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "collective",
+    "traditional_chinese": "集體",
+    "definition_cht": "指「集體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "collector",
+    "traditional_chinese": "集電極",
+    "definition_cht": "指「集電極」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "colligative property",
+    "traditional_chinese": "依數性質",
+    "definition_cht": "指「依數性質」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "collision broadening",
+    "traditional_chinese": "碰撞展寬",
+    "definition_cht": "指「碰撞展寬」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "collision efficiency",
+    "traditional_chinese": "碰撞效率",
+    "definition_cht": "指「碰撞效率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "collision theory",
+    "traditional_chinese": "碰撞理論",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "collision–coalescence process",
+    "traditional_chinese": "碰撞-聚結過程",
+    "definition_cht": "指「碰撞-聚結過程」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "colloidal instability",
+    "traditional_chinese": "膠體不穩定性",
+    "definition_cht": "指「膠體不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "colloidal suspension",
+    "traditional_chinese": "膠體懸浮液",
+    "definition_cht": "指「膠體懸浮液」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "colloidal system",
+    "traditional_chinese": "膠體系統",
+    "definition_cht": "指「膠體系統」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "color look-up table",
+    "traditional_chinese": "顏色查找表",
+    "definition_cht": "指「顏色查找表」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "color temperature",
+    "traditional_chinese": "色溫",
+    "definition_cht": "指「色溫」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Colorado low",
+    "traditional_chinese": "科羅拉多低",
+    "definition_cht": "指「科羅拉多低」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Colorado sunken pan",
+    "traditional_chinese": "科羅拉多沉底鍋",
+    "definition_cht": "指「科羅拉多沉底鍋」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "colored rain",
+    "traditional_chinese": "彩色雨",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "colorimetry",
+    "traditional_chinese": "比色法",
+    "definition_cht": "指「比色法」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "column",
+    "traditional_chinese": "柱子",
+    "definition_cht": "指「柱子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "column abundance",
+    "traditional_chinese": "柱豐度",
+    "definition_cht": "指「柱豐度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "column model",
+    "traditional_chinese": "柱模型",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "columnar resistance",
+    "traditional_chinese": "柱狀電阻",
+    "definition_cht": "指「柱狀電阻」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "comb nephoscope",
+    "traditional_chinese": "梳狀腎鏡",
+    "definition_cht": "指「梳狀腎鏡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "COMBAR code",
+    "traditional_chinese": "COMBAR代碼",
+    "definition_cht": "指「COMBAR代碼」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "comber",
+    "traditional_chinese": "精梳機",
+    "definition_cht": "指「精梳機」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "combination coefficient",
+    "traditional_chinese": "組合係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "combustion nucleus",
+    "traditional_chinese": "燃燒核",
+    "definition_cht": "指「燃燒核」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "comfort chart",
+    "traditional_chinese": "舒適度圖表",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "comfort curve",
+    "traditional_chinese": "舒適曲線",
+    "definition_cht": "指「舒適曲線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "comfort zone",
+    "traditional_chinese": "舒適圈",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "comma cloud system",
+    "traditional_chinese": "逗號雲端系統",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "comma head",
+    "traditional_chinese": "逗號頭",
+    "definition_cht": "指「逗號頭」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "comma tail",
+    "traditional_chinese": "逗號尾",
+    "definition_cht": "指「逗號尾」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "comminution",
+    "traditional_chinese": "粉碎",
+    "definition_cht": "指「粉碎」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "communication center",
+    "traditional_chinese": "通訊中心",
+    "definition_cht": "指「通訊中心」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "commutator",
+    "traditional_chinese": "換向器",
+    "definition_cht": "指「換向器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "compact differencing",
+    "traditional_chinese": "緊緻差分",
+    "definition_cht": "指「緊緻差分」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "compaction",
+    "traditional_chinese": "壓實",
+    "definition_cht": "指「壓實」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "comparative rabal",
+    "traditional_chinese": "比較拉巴爾",
+    "definition_cht": "指「比較拉巴爾」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "compass",
+    "traditional_chinese": "羅盤",
+    "definition_cht": "指「羅盤」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "compensated scale barometer",
+    "traditional_chinese": "補償刻度氣壓計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "compensation of instruments",
+    "traditional_chinese": "儀器補償",
+    "definition_cht": "指「儀器補償」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "competence of the wind",
+    "traditional_chinese": "風的能力",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "complete freeze-up",
+    "traditional_chinese": "完全凍結",
+    "definition_cht": "指「完全凍結」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "complex index of refraction",
+    "traditional_chinese": "複折射率",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "complex low",
+    "traditional_chinese": "複雜低",
+    "definition_cht": "指「複雜低」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "complex refractive index",
+    "traditional_chinese": "複折射率",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "complex signal",
+    "traditional_chinese": "複雜訊號",
+    "definition_cht": "指「複雜訊號」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "complex terrain",
+    "traditional_chinese": "地形複雜",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "composite forecast chart",
+    "traditional_chinese": "綜合預測圖",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "composite reflectivity",
+    "traditional_chinese": "複合反射率",
+    "definition_cht": "指「複合反射率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "composite vertical cross section",
+    "traditional_chinese": "複合材料垂直截面",
+    "definition_cht": "指「複合材料垂直截面」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "composite water sample",
+    "traditional_chinese": "複合水樣",
+    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。"
+  },
+  {
+    "english": "compound hydrograph",
+    "traditional_chinese": "複合過程線",
+    "definition_cht": "指「複合過程線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "compressibility",
+    "traditional_chinese": "壓縮性",
+    "definition_cht": "指「壓縮性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "compression wave",
+    "traditional_chinese": "壓縮波",
+    "definition_cht": "指「壓縮波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "compressional wave",
+    "traditional_chinese": "壓縮波",
+    "definition_cht": "指「壓縮波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Compton effect",
+    "traditional_chinese": "康普頓效應",
+    "definition_cht": "指「康普頓效應」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "computational mode",
+    "traditional_chinese": "計算模式",
+    "definition_cht": "指「計算模式」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "concentration",
+    "traditional_chinese": "專注",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "concentration basin",
+    "traditional_chinese": "濃縮池",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "concentration gradient",
+    "traditional_chinese": "濃度梯度",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "concentration variance",
+    "traditional_chinese": "濃度方差",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "concentric eyewall cycle",
+    "traditional_chinese": "同心眼壁循環",
+    "definition_cht": "指「同心眼壁循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "concentric eyewalls",
+    "traditional_chinese": "同心眼壁",
+    "definition_cht": "指「同心眼壁」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "concrete minimum temperature",
+    "traditional_chinese": "混凝土最低溫度",
+    "definition_cht": "指「混凝土最低溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "condensation",
+    "traditional_chinese": "縮合",
+    "definition_cht": "指「縮合」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "condensation level",
+    "traditional_chinese": "凝結程度",
+    "definition_cht": "指「凝結程度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "condensation nuclei counter",
+    "traditional_chinese": "凝聚核計數器",
+    "definition_cht": "指「凝聚核計數器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "condensation nucleus",
+    "traditional_chinese": "凝聚核",
+    "definition_cht": "指「凝聚核」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "condensation pressure",
+    "traditional_chinese": "冷凝壓力",
+    "definition_cht": "指「冷凝壓力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "condensation temperature",
+    "traditional_chinese": "冷凝溫度",
+    "definition_cht": "指「冷凝溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "condensation trail",
+    "traditional_chinese": "凝結痕跡",
+    "definition_cht": "指「凝結痕跡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conditional distribution",
+    "traditional_chinese": "條件分佈",
+    "definition_cht": "指「條件分佈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conditional instability",
+    "traditional_chinese": "條件不穩定性",
+    "definition_cht": "指「條件不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conditional instability of the second kind",
+    "traditional_chinese": "第二類條件不穩定性",
+    "definition_cht": "指「第二類條件不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conditional mean",
+    "traditional_chinese": "條件均值",
+    "definition_cht": "指「條件均值」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conditional probability",
+    "traditional_chinese": "條件機率",
+    "definition_cht": "指「條件機率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conditional sampling",
+    "traditional_chinese": "條件抽樣",
+    "definition_cht": "指「條件抽樣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conditions of readiness",
+    "traditional_chinese": "準備條件",
+    "definition_cht": "指「準備條件」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conductance for moisture",
+    "traditional_chinese": "濕氣電導率",
+    "definition_cht": "指「濕氣電導率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conduction",
+    "traditional_chinese": "傳導",
+    "definition_cht": "指「傳導」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conduction current",
+    "traditional_chinese": "傳導電流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "conductivity",
+    "traditional_chinese": "電導率",
+    "definition_cht": "指「電導率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conductivity–temperature–depth profiler",
+    "traditional_chinese": "電導率-溫度-深度剖面儀",
+    "definition_cht": "指「電導率-溫度-深度剖面儀」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cone of depression",
+    "traditional_chinese": "憂鬱錐體",
+    "definition_cht": "指「憂鬱錐體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cone of escape",
+    "traditional_chinese": "逃生錐",
+    "definition_cht": "指「逃生錐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cone of impression",
+    "traditional_chinese": "印象錐",
+    "definition_cht": "指「印象錐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cone of visibility",
+    "traditional_chinese": "能見度錐體",
+    "definition_cht": "指「能見度錐體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cone of vision",
+    "traditional_chinese": "視錐",
+    "definition_cht": "指「視錐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "confidence interval",
+    "traditional_chinese": "信賴區間",
+    "definition_cht": "指「信賴區間」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "confined aquifer",
+    "traditional_chinese": "承壓含水層",
+    "definition_cht": "指「承壓含水層」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "confined groundwater",
+    "traditional_chinese": "承壓地下水",
+    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。"
+  },
+  {
+    "english": "confluence",
+    "traditional_chinese": "合流",
+    "definition_cht": "指「合流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conformal map",
+    "traditional_chinese": "等角映射",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "congelifraction",
+    "traditional_chinese": "凝固性骨折",
+    "definition_cht": "指「凝固性骨折」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "congeliturbation",
+    "traditional_chinese": "昏迷不醒",
+    "definition_cht": "指「昏迷不醒」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "congestus",
+    "traditional_chinese": "充血",
+    "definition_cht": "指「充血」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conical beam",
+    "traditional_chinese": "錐形梁",
+    "definition_cht": "指「錐形梁」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conical scanning",
+    "traditional_chinese": "錐形掃描",
+    "definition_cht": "指「錐形掃描」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coning",
+    "traditional_chinese": "錐進",
+    "definition_cht": "指「錐進」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conjunction",
+    "traditional_chinese": "連接詞",
+    "definition_cht": "指「連接詞」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conjunctive use",
+    "traditional_chinese": "聯合使用",
+    "definition_cht": "指「聯合使用」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "connate water",
+    "traditional_chinese": "原生水",
+    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。"
+  },
+  {
+    "english": "consecutive mean",
+    "traditional_chinese": "連續平均值",
+    "definition_cht": "指「連續平均值」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "consensus average",
+    "traditional_chinese": "共識平均數",
+    "definition_cht": "指「共識平均數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "consensus averaging",
+    "traditional_chinese": "共識平均",
+    "definition_cht": "指「共識平均」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "consequent",
+    "traditional_chinese": "結果",
+    "definition_cht": "指「結果」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservation of angular momentum",
+    "traditional_chinese": "角動量守恆",
+    "definition_cht": "指「角動量守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservation of energy",
+    "traditional_chinese": "能量守恆",
+    "definition_cht": "指「能量守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservation of mass",
+    "traditional_chinese": "質量守恆",
+    "definition_cht": "指「質量守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservation of momentum",
+    "traditional_chinese": "動量守恆",
+    "definition_cht": "指「動量守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservation of vorticity",
+    "traditional_chinese": "渦度守恆",
+    "definition_cht": "指「渦度守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservatism",
+    "traditional_chinese": "保守主義",
+    "definition_cht": "指「保守主義」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservative field",
+    "traditional_chinese": "保守場",
+    "definition_cht": "指「保守場」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservative pollutants",
+    "traditional_chinese": "保守污染物",
+    "definition_cht": "指「保守污染物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conservative property",
+    "traditional_chinese": "保守財產",
+    "definition_cht": "指「保守財產」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conserved variable diagram",
+    "traditional_chinese": "保守變數圖",
+    "definition_cht": "指「保守變數圖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "consistent numerical scheme",
+    "traditional_chinese": "一致的數值方案",
+    "definition_cht": "指「一致的數值方案」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "consolidated ice",
+    "traditional_chinese": "合併冰",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "consolidation",
+    "traditional_chinese": "合併",
+    "definition_cht": "指「合併」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "constancy",
+    "traditional_chinese": "恆心",
+    "definition_cht": "指「恆心」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "constant absolute vorticity trajectory",
+    "traditional_chinese": "恆定絕對渦度軌跡",
+    "definition_cht": "指「恆定絕對渦度軌跡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "constant flux layer",
+    "traditional_chinese": "恆定通量層",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "constant-height chart",
+    "traditional_chinese": "等高圖表",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "constant-height surface",
+    "traditional_chinese": "等高表面",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "constant-level balloon",
+    "traditional_chinese": "等位氣球",
+    "definition_cht": "指「等位氣球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "constant-pressure balloon",
+    "traditional_chinese": "恆壓氣球",
+    "definition_cht": "指「恆壓氣球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "constant-pressure chart",
+    "traditional_chinese": "恆壓圖",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "constant-pressure surface",
+    "traditional_chinese": "恆壓面",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "constant-pressure-pattern flight",
+    "traditional_chinese": "恆壓模式飛行",
+    "definition_cht": "指「恆壓模式飛行」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "constant-rate dilution gauging",
+    "traditional_chinese": "恆速稀釋計量",
+    "definition_cht": "指「恆速稀釋計量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "consultation",
+    "traditional_chinese": "諮詢",
+    "definition_cht": "指「諮詢」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "consumption",
+    "traditional_chinese": "消耗",
+    "definition_cht": "指「消耗」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "consumptive use",
+    "traditional_chinese": "消費性使用",
+    "definition_cht": "指「消費性使用」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contact angle",
+    "traditional_chinese": "接觸角",
+    "definition_cht": "指「接觸角」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contact flight",
+    "traditional_chinese": "聯絡航班",
+    "definition_cht": "指「聯絡航班」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contact nucleus",
+    "traditional_chinese": "接觸核",
+    "definition_cht": "指「接觸核」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contact weather",
+    "traditional_chinese": "聯繫天氣",
+    "definition_cht": "指「聯繫天氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contaminant",
+    "traditional_chinese": "污染物",
+    "definition_cht": "指「污染物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contaminate",
+    "traditional_chinese": "污染",
+    "definition_cht": "指「污染」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contessa di vento",
+    "traditional_chinese": "文托伯爵夫人",
+    "definition_cht": "指「文托伯爵夫人」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental aerosol",
+    "traditional_chinese": "大陸氣溶膠",
+    "definition_cht": "指「大陸氣溶膠」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental air",
+    "traditional_chinese": "大陸航空",
+    "definition_cht": "指「大陸航空」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental borderland",
+    "traditional_chinese": "大陸邊境",
+    "definition_cht": "指「大陸邊境」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental climate",
+    "traditional_chinese": "大陸性氣候",
+    "definition_cht": "指「大陸性氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental cloud",
+    "traditional_chinese": "大陸雲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "continental drift",
+    "traditional_chinese": "大陸漂移",
+    "definition_cht": "指「大陸漂移」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental glacier",
+    "traditional_chinese": "大陸冰川",
+    "definition_cht": "指「大陸冰川」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental high",
+    "traditional_chinese": "大陸高",
+    "definition_cht": "指「大陸高」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental platform",
+    "traditional_chinese": "大陸台地",
+    "definition_cht": "指「大陸台地」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental shelf",
+    "traditional_chinese": "陸棚",
+    "definition_cht": "指「陸棚」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental shelf wave",
+    "traditional_chinese": "大陸棚波",
+    "definition_cht": "指「大陸棚波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continental slope",
+    "traditional_chinese": "大陸坡",
+    "definition_cht": "指「大陸坡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Continental Water Boundary",
+    "traditional_chinese": "大陸水邊界",
+    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。"
+  },
+  {
+    "english": "continentality",
+    "traditional_chinese": "大陸性",
+    "definition_cht": "指「大陸性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continentality index",
+    "traditional_chinese": "大陸性指數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "contingency table",
+    "traditional_chinese": "列聯表",
+    "definition_cht": "指「列聯表」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continuing current",
+    "traditional_chinese": "持續電流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "continuity",
+    "traditional_chinese": "連續性",
+    "definition_cht": "指「連續性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continuity chart",
+    "traditional_chinese": "連續性圖",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "continuous spectrum",
+    "traditional_chinese": "連續光譜",
+    "definition_cht": "指「連續光譜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "continuous-wave radar",
+    "traditional_chinese": "連續波雷達",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "continuum absorption",
+    "traditional_chinese": "連續吸收",
+    "definition_cht": "指「連續吸收」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contour",
+    "traditional_chinese": "輪廓",
+    "definition_cht": "指「輪廓」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contour chart",
+    "traditional_chinese": "等值線圖",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "contour interval",
+    "traditional_chinese": "等高線間隔",
+    "definition_cht": "指「等高線間隔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contour line",
+    "traditional_chinese": "輪廓線",
+    "definition_cht": "指「輪廓線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contour map",
+    "traditional_chinese": "等高線圖",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "contour microclimate",
+    "traditional_chinese": "輪廓微氣候",
+    "definition_cht": "指「輪廓微氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contra solem",
+    "traditional_chinese": "反莊嚴",
+    "definition_cht": "指「反莊嚴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contraction coefficient",
+    "traditional_chinese": "收縮係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "contrail",
+    "traditional_chinese": "軌跡",
+    "definition_cht": "指「軌跡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contrail-formation graph",
+    "traditional_chinese": "軌跡形成圖",
+    "definition_cht": "指「軌跡形成圖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contrast",
+    "traditional_chinese": "對比",
+    "definition_cht": "指「對比」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contrast stretching",
+    "traditional_chinese": "對比拉伸",
+    "definition_cht": "指「對比拉伸」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contraste",
+    "traditional_chinese": "對比",
+    "definition_cht": "指「對比」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "contributing region",
+    "traditional_chinese": "貢獻區域",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "control area",
+    "traditional_chinese": "控制區",
+    "definition_cht": "指「控制區」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "control day",
+    "traditional_chinese": "控制日",
+    "definition_cht": "指「控制日」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "control section",
+    "traditional_chinese": "控制部分",
+    "definition_cht": "指「控制部分」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "control well",
+    "traditional_chinese": "控制得好",
+    "definition_cht": "指「控制得好」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "control-tower visibility",
+    "traditional_chinese": "控制塔可視性",
+    "definition_cht": "指「控制塔可視性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convection",
+    "traditional_chinese": "對流",
+    "definition_cht": "指「對流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convection cell",
+    "traditional_chinese": "對流池",
+    "definition_cht": "指「對流池」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convection current",
+    "traditional_chinese": "對流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "Convection initiation",
+    "traditional_chinese": "對流引發",
+    "definition_cht": "指「對流引發」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convection theory of cyclones",
+    "traditional_chinese": "旋風對流理論",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "Convection-allowing model",
+    "traditional_chinese": "允許對流模型",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "convective activity",
+    "traditional_chinese": "對流活動",
+    "definition_cht": "指「對流活動」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective adjustment",
+    "traditional_chinese": "對流調整",
+    "definition_cht": "指「對流調整」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Convective available potential energy",
+    "traditional_chinese": "對流可用位能",
+    "definition_cht": "指「對流可用位能」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective boundary layer",
+    "traditional_chinese": "對流邊界層",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "convective cloud",
+    "traditional_chinese": "對流雲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "convective condensation level",
+    "traditional_chinese": "對流凝結水平",
+    "definition_cht": "指「對流凝結水平」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Convective inhibition",
+    "traditional_chinese": "對流抑制",
+    "definition_cht": "指「對流抑制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective instability",
+    "traditional_chinese": "對流不穩定性",
+    "definition_cht": "指「對流不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective mass flux",
+    "traditional_chinese": "對流質量通量",
+    "definition_cht": "指「對流質量通量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective mixed layer",
+    "traditional_chinese": "對流混合層",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "convective overturn",
+    "traditional_chinese": "對流翻轉",
+    "definition_cht": "指「對流翻轉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective plume",
+    "traditional_chinese": "對流羽流",
+    "definition_cht": "指「對流羽流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective precipitation",
+    "traditional_chinese": "對流降水",
+    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。"
+  },
+  {
+    "english": "convective region",
+    "traditional_chinese": "對流區",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "convective Richardson number",
+    "traditional_chinese": "對流理查森數",
+    "definition_cht": "指「對流理查森數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective showers",
+    "traditional_chinese": "對流陣雨",
+    "definition_cht": "指「對流陣雨」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective storm",
+    "traditional_chinese": "對流風暴",
+    "definition_cht": "指「對流風暴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective temperature",
+    "traditional_chinese": "對流溫度",
+    "definition_cht": "指「對流溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective term",
+    "traditional_chinese": "對流項",
+    "definition_cht": "指「對流項」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective transport",
+    "traditional_chinese": "對流傳輸",
+    "definition_cht": "指「對流傳輸」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convective transport theory",
+    "traditional_chinese": "對流傳輸理論",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "convective turbulence",
+    "traditional_chinese": "對流湍流",
+    "definition_cht": "指「對流湍流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convergence",
+    "traditional_chinese": "收斂",
+    "definition_cht": "指「收斂」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convergence band",
+    "traditional_chinese": "收斂帶",
+    "definition_cht": "指「收斂帶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convergence line",
+    "traditional_chinese": "收斂線",
+    "definition_cht": "指「收斂線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convergent numerical scheme",
+    "traditional_chinese": "收斂數值格式",
+    "definition_cht": "指「收斂數值格式」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conversion factor",
+    "traditional_chinese": "換算係數",
+    "definition_cht": "指「換算係數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "conveyance",
+    "traditional_chinese": "輸送",
+    "definition_cht": "指「輸送」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "convolution",
+    "traditional_chinese": "卷積",
+    "definition_cht": "指「卷積」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Cool change",
+    "traditional_chinese": "酷變",
+    "definition_cht": "指「酷變」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cooling power",
+    "traditional_chinese": "冷卻功率",
+    "definition_cht": "指「冷卻功率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cooling temperature",
+    "traditional_chinese": "冷卻溫度",
+    "definition_cht": "指「冷卻溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cooling-power anemometer",
+    "traditional_chinese": "冷卻功率風速計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "coolometer",
+    "traditional_chinese": "冷卻計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "cooperative observer",
+    "traditional_chinese": "合作觀察員",
+    "definition_cht": "指「合作觀察員」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coplane scanning",
+    "traditional_chinese": "共面掃描",
+    "definition_cht": "指「共面掃描」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "copolarized signal",
+    "traditional_chinese": "共極化訊號",
+    "definition_cht": "指「共極化訊號」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "corange line",
+    "traditional_chinese": "橘子線",
+    "definition_cht": "指「橘子線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cordonazo",
+    "traditional_chinese": "科爾多納佐",
+    "definition_cht": "指「科爾多納佐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cordonazo de San Francisco",
+    "traditional_chinese": "舊金山科爾多納佐",
+    "definition_cht": "指「舊金山科爾多納佐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "core sample",
+    "traditional_chinese": "核心樣本",
+    "definition_cht": "指「核心樣本」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Coriolis acceleration",
+    "traditional_chinese": "科里奧利加速度",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "Coriolis effect",
+    "traditional_chinese": "科氏效應",
+    "definition_cht": "指「科氏效應」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Coriolis force",
+    "traditional_chinese": "科里奧利力",
+    "definition_cht": "指「科里奧利力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Coriolis parameter",
+    "traditional_chinese": "科氏參數",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "corn heat unit",
+    "traditional_chinese": "玉米熱量單位",
+    "definition_cht": "指「玉米熱量單位」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "corner reflector",
+    "traditional_chinese": "角反射器",
+    "definition_cht": "指「角反射器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cornice",
+    "traditional_chinese": "簷口",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "coromell",
+    "traditional_chinese": "科羅梅爾",
+    "definition_cht": "指「科羅梅爾」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Corona",
+    "traditional_chinese": "科羅娜",
+    "definition_cht": "指「科羅娜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "corona current",
+    "traditional_chinese": "電暈電流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "corona discharge",
+    "traditional_chinese": "電暈放電",
+    "definition_cht": "指「電暈放電」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coronagraph",
+    "traditional_chinese": "日冕儀",
+    "definition_cht": "指「日冕儀」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Coronal hole",
+    "traditional_chinese": "冠狀洞",
+    "definition_cht": "指「冠狀洞」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Coronal mass ejection",
+    "traditional_chinese": "日冕物質拋射",
+    "definition_cht": "指「日冕物質拋射」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "corpuscular theory of light",
+    "traditional_chinese": "光的粒子理論",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "corrasion",
+    "traditional_chinese": "侵蝕",
+    "definition_cht": "指「侵蝕」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "corrected altitude",
+    "traditional_chinese": "修正高度",
+    "definition_cht": "指「修正高度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "correction",
+    "traditional_chinese": "更正",
+    "definition_cht": "指「更正」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "correlated-k",
+    "traditional_chinese": "相關k",
+    "definition_cht": "指「相關k」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "correlation",
+    "traditional_chinese": "相關性",
+    "definition_cht": "指「相關性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "correlation coefficient",
+    "traditional_chinese": "相關係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "correlation ratio",
+    "traditional_chinese": "相關比",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "correlation triangle",
+    "traditional_chinese": "相關三角形",
+    "definition_cht": "指「相關三角形」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "correlative meteorology",
+    "traditional_chinese": "相關氣象",
+    "definition_cht": "指「相關氣象」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "correlogram",
+    "traditional_chinese": "相關圖",
+    "definition_cht": "指「相關圖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "corresponding point",
+    "traditional_chinese": "對應點",
+    "definition_cht": "指「對應點」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "corrosion",
+    "traditional_chinese": "腐蝕",
+    "definition_cht": "指「腐蝕」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cosine law of illumination",
+    "traditional_chinese": "照度餘弦定律",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "cosmic radiation",
+    "traditional_chinese": "宇宙輻射",
+    "definition_cht": "指「宇宙輻射」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cosmic rays",
+    "traditional_chinese": "宇宙射線",
+    "definition_cht": "指「宇宙射線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cosmic-ray ionization",
+    "traditional_chinese": "宇宙射線電離",
+    "definition_cht": "指「宇宙射線電離」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cosmogenic radioisotopes",
+    "traditional_chinese": "宇宙成因放射性同位素",
+    "definition_cht": "指「宇宙成因放射性同位素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cospectrum",
+    "traditional_chinese": "共譜",
+    "definition_cht": "指「共譜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cotidal hour",
+    "traditional_chinese": "潮汐時",
+    "definition_cht": "指「潮汐時」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cotidal line",
+    "traditional_chinese": "潮汐線",
+    "definition_cht": "指「潮汐線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cotton-belt climate",
+    "traditional_chinese": "棉帶氣候",
+    "definition_cht": "指「棉帶氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cotton-region shelter",
+    "traditional_chinese": "棉區庇護所",
+    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。"
+  },
+  {
+    "english": "Couette flow",
+    "traditional_chinese": "庫埃特流",
+    "definition_cht": "指「庫埃特流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "counter",
+    "traditional_chinese": "櫃檯",
+    "definition_cht": "指「櫃檯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "counter-gradient",
+    "traditional_chinese": "反梯度",
+    "definition_cht": "指「反梯度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "counter-gradient flux",
+    "traditional_chinese": "反梯度通量",
+    "definition_cht": "指「反梯度通量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "countercurrent",
+    "traditional_chinese": "逆流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "countergradient wind",
+    "traditional_chinese": "逆梯度風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "counterradiation",
+    "traditional_chinese": "反輻射",
+    "definition_cht": "指「反輻射」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "countertrades",
+    "traditional_chinese": "對銷貿易",
+    "definition_cht": "指「對銷貿易」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "counts",
+    "traditional_chinese": "計數",
+    "definition_cht": "指「計數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "coupled model",
+    "traditional_chinese": "耦合模型",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "coupled ocean–atmosphere general circulation model",
+    "traditional_chinese": "海-大氣耦合大氣環流模型",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "Courant–Friederichs–Lewy condition",
+    "traditional_chinese": "庫朗-弗里德里希-路易條件",
+    "definition_cht": "指「庫朗-弗里德里希-路易條件」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "course",
+    "traditional_chinese": "課程",
+    "definition_cht": "指「課程」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "covariance",
+    "traditional_chinese": "協方差",
+    "definition_cht": "指「協方差」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "covariance matrix",
+    "traditional_chinese": "協方差矩陣",
+    "definition_cht": "指「協方差矩陣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "covariate",
+    "traditional_chinese": "協變數",
+    "definition_cht": "指「協變數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cow storm",
+    "traditional_chinese": "牛風暴",
+    "definition_cht": "指「牛風暴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cow-quaker",
+    "traditional_chinese": "牛貴格會",
+    "definition_cht": "指「牛貴格會」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crabbing",
+    "traditional_chinese": "螃蟹",
+    "definition_cht": "指「螃蟹」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crachin",
+    "traditional_chinese": "克拉欽",
+    "definition_cht": "指「克拉欽」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crack",
+    "traditional_chinese": "裂縫",
+    "definition_cht": "指「裂縫」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crankcase ventilation",
+    "traditional_chinese": "曲軸箱通風",
+    "definition_cht": "指「曲軸箱通風」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "creep",
+    "traditional_chinese": "蠕動",
+    "definition_cht": "指「蠕動」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "creeping",
+    "traditional_chinese": "爬行",
+    "definition_cht": "指「爬行」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "creeping flow",
+    "traditional_chinese": "蠕動流",
+    "definition_cht": "指「蠕動流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crepuscular rays",
+    "traditional_chinese": "黃昏射線",
+    "definition_cht": "指「黃昏射線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crest cloud",
+    "traditional_chinese": "波峰雲",
+    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。"
+  },
+  {
+    "english": "crest gauge",
+    "traditional_chinese": "波峰規",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "crest stage",
+    "traditional_chinese": "頂峰階段",
+    "definition_cht": "指「頂峰階段」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crevasse",
+    "traditional_chinese": "裂縫",
+    "definition_cht": "指「裂縫」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crevasse hoar",
+    "traditional_chinese": "裂縫灰白",
+    "definition_cht": "指「裂縫灰白」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "criador",
+    "traditional_chinese": "克里多爾",
+    "definition_cht": "指「克里多爾」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Criegee intermediate",
+    "traditional_chinese": "克里格中間體",
+    "definition_cht": "指「克里格中間體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crisp variable",
+    "traditional_chinese": "清晰變數",
+    "definition_cht": "指「清晰變數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Criteria pollutants",
+    "traditional_chinese": "標準污染物",
+    "definition_cht": "指「標準污染物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical area",
+    "traditional_chinese": "臨界區",
+    "definition_cht": "指「臨界區」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical depth",
+    "traditional_chinese": "臨界深度",
+    "definition_cht": "指「臨界深度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical depth control",
+    "traditional_chinese": "臨界深度控制",
+    "definition_cht": "指「臨界深度控制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical discharge",
+    "traditional_chinese": "臨界放電",
+    "definition_cht": "指「臨界放電」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical drop radius",
+    "traditional_chinese": "臨界落差半徑",
+    "definition_cht": "指「臨界落差半徑」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical flow",
+    "traditional_chinese": "臨界流量",
+    "definition_cht": "指「臨界流量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical frequency",
+    "traditional_chinese": "臨界頻率",
+    "definition_cht": "指「臨界頻率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical gradient",
+    "traditional_chinese": "臨界梯度",
+    "definition_cht": "指「臨界梯度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical height",
+    "traditional_chinese": "臨界高度",
+    "definition_cht": "指「臨界高度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical level",
+    "traditional_chinese": "臨界水平",
+    "definition_cht": "指「臨界水平」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical level of escape",
+    "traditional_chinese": "逃生臨界水平",
+    "definition_cht": "指「逃生臨界水平」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical point",
+    "traditional_chinese": "臨界點",
+    "definition_cht": "指「臨界點」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Critical richardson number",
+    "traditional_chinese": "臨界理查森數",
+    "definition_cht": "指「臨界理查森數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical tidal level",
+    "traditional_chinese": "臨界潮位",
+    "definition_cht": "指「臨界潮位」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "critical velocity",
+    "traditional_chinese": "臨界速度",
+    "definition_cht": "指「臨界速度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crivetz",
+    "traditional_chinese": "克里維茲",
+    "definition_cht": "指「克里維茲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crop calendar",
+    "traditional_chinese": "作物日曆",
+    "definition_cht": "指「作物日曆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crop coefficient",
+    "traditional_chinese": "作物係數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "crop moisture index",
+    "traditional_chinese": "作物水分指數",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "cross correlation",
+    "traditional_chinese": "互相關",
+    "definition_cht": "指「互相關」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cross sea",
+    "traditional_chinese": "跨海",
+    "definition_cht": "指「跨海」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cross section",
+    "traditional_chinese": "橫斷面",
+    "definition_cht": "指「橫斷面」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cross-isobar angle",
+    "traditional_chinese": "交叉等壓線角",
+    "definition_cht": "指「交叉等壓線角」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cross-polarized signal",
+    "traditional_chinese": "交叉極化訊號",
+    "definition_cht": "指「交叉極化訊號」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cross-sectional analysis",
+    "traditional_chinese": "橫斷面分析",
+    "definition_cht": "指「橫斷面分析」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cross-spectrum",
+    "traditional_chinese": "交叉譜",
+    "definition_cht": "指「交叉譜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cross-valley wind",
+    "traditional_chinese": "跨谷風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "crossover experiment",
+    "traditional_chinese": "交叉實驗",
+    "definition_cht": "指「交叉實驗」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crosswind",
+    "traditional_chinese": "側風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "crosswise vorticity",
+    "traditional_chinese": "橫向渦度",
+    "definition_cht": "指「橫向渦度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CRT",
+    "traditional_chinese": "CRT",
+    "definition_cht": "CRT 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "cryochore",
+    "traditional_chinese": "冷凍球",
+    "definition_cht": "指「冷凍球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryoconite hole",
+    "traditional_chinese": "冰石洞",
+    "definition_cht": "指「冰石洞」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryogenic hygrometer",
+    "traditional_chinese": "低溫濕度計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "cryogenic period",
+    "traditional_chinese": "低溫期",
+    "definition_cht": "指「低溫期」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryology",
+    "traditional_chinese": "冷凍學",
+    "definition_cht": "指「冷凍學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryopedology",
+    "traditional_chinese": "冷凍土壤學",
+    "definition_cht": "指「冷凍土壤學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryoplanation",
+    "traditional_chinese": "冷凍平移術",
+    "definition_cht": "指「冷凍平移術」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryoplankton",
+    "traditional_chinese": "冰凍浮游生物",
+    "definition_cht": "指「冰凍浮游生物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryosphere",
+    "traditional_chinese": "冰凍圈",
+    "definition_cht": "指「冰凍圈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryptoclimate",
+    "traditional_chinese": "隱性氣候",
+    "definition_cht": "指「隱性氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cryptoclimatology",
+    "traditional_chinese": "隱氣候學",
+    "definition_cht": "指「隱氣候學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crystal",
+    "traditional_chinese": "水晶",
+    "definition_cht": "指「水晶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crystal habit",
+    "traditional_chinese": "晶體習性",
+    "definition_cht": "指「晶體習性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crystal lattice",
+    "traditional_chinese": "晶格",
+    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。"
+  },
+  {
+    "english": "crystalline frost",
+    "traditional_chinese": "結晶霜",
+    "definition_cht": "指「結晶霜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crystallization",
+    "traditional_chinese": "結晶",
+    "definition_cht": "指「結晶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "crystallization nucleus",
+    "traditional_chinese": "結晶核",
+    "definition_cht": "指「結晶核」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CSI",
+    "traditional_chinese": "CSI",
+    "definition_cht": "CSI 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "CTA",
+    "traditional_chinese": "CTA",
+    "definition_cht": "CTA 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "CTD",
+    "traditional_chinese": "CTD",
+    "definition_cht": "CTD 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  },
+  {
+    "english": "cum sole",
+    "traditional_chinese": "暨鞋底",
+    "definition_cht": "指「暨鞋底」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumuliform",
+    "traditional_chinese": "積狀",
+    "definition_cht": "指「積狀」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumulonimbus",
+    "traditional_chinese": "積雨雲",
+    "definition_cht": "指「積雨雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumulonimbus calvus",
+    "traditional_chinese": "積雨雲",
+    "definition_cht": "指「積雨雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumulonimbus capillatus",
+    "traditional_chinese": "毛積雨雲",
+    "definition_cht": "指「毛積雨雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumulus",
+    "traditional_chinese": "積雲",
+    "definition_cht": "指「積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumulus congestus",
+    "traditional_chinese": "濃積雲",
+    "definition_cht": "指「濃積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumulus fractus",
+    "traditional_chinese": "碎積雲",
+    "definition_cht": "指「碎積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumulus humilis",
+    "traditional_chinese": "矮積雲",
+    "definition_cht": "指「矮積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cumulus mediocris",
+    "traditional_chinese": "平積雲",
+    "definition_cht": "指「平積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Cunnane plotting position",
+    "traditional_chinese": "坎南繪圖位置",
+    "definition_cht": "指「坎南繪圖位置」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Cunningham slip correction",
+    "traditional_chinese": "坎寧安滑移修正",
+    "definition_cht": "指「坎寧安滑移修正」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cup anemometer",
+    "traditional_chinese": "盃式風速計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "cup crystal",
+    "traditional_chinese": "杯水晶",
+    "definition_cht": "指「杯水晶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "curie",
+    "traditional_chinese": "居禮",
+    "definition_cht": "指「居禮」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "Curie temperature",
+    "traditional_chinese": "居禮溫度",
+    "definition_cht": "指「居禮溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "curl",
+    "traditional_chinese": "捲曲",
+    "definition_cht": "指「捲曲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "current",
+    "traditional_chinese": "目前的",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current chart",
+    "traditional_chinese": "當前圖表",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current cross section",
+    "traditional_chinese": "目前橫斷面",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current curve",
+    "traditional_chinese": "電流曲線",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current ellipse",
+    "traditional_chinese": "目前橢圓",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current function",
+    "traditional_chinese": "目前功能",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current meter",
+    "traditional_chinese": "電流表",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current pole",
+    "traditional_chinese": "當前極點",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current profiler",
+    "traditional_chinese": "電流分析器",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current rose",
+    "traditional_chinese": "目前玫瑰",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "current tables",
+    "traditional_chinese": "目前表",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "Curtis–Godson approximation",
+    "traditional_chinese": "柯蒂斯-戈德森近似",
+    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。"
+  },
+  {
+    "english": "curve fitting",
+    "traditional_chinese": "曲線擬合",
+    "definition_cht": "指「曲線擬合」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "curve of growth",
+    "traditional_chinese": "生長曲線",
+    "definition_cht": "指「生長曲線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "curvilinear coordinates",
+    "traditional_chinese": "曲線座標",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "custard winds",
+    "traditional_chinese": "蛋奶風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "cutoff high",
+    "traditional_chinese": "截止高",
+    "definition_cht": "指「截止高」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cutoff low",
+    "traditional_chinese": "截止低",
+    "definition_cht": "指「截止低」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cutting-off process",
+    "traditional_chinese": "切斷過程",
+    "definition_cht": "指「切斷過程」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "CW radar",
+    "traditional_chinese": "連續波雷達",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "cyanometer",
+    "traditional_chinese": "氰度計",
+    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。"
+  },
+  {
+    "english": "cycle",
+    "traditional_chinese": "循環",
+    "definition_cht": "指「循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cycle per second",
+    "traditional_chinese": "每秒週期",
+    "definition_cht": "指「每秒週期」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cyclo-geostrophic current",
+    "traditional_chinese": "環地轉流",
+    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。"
+  },
+  {
+    "english": "cyclogenesis",
+    "traditional_chinese": "旋迴發生",
+    "definition_cht": "指「旋迴發生」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cyclohexane",
+    "traditional_chinese": "環己烷",
+    "definition_cht": "指「環己烷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cyclolysis",
+    "traditional_chinese": "環化作用",
+    "definition_cht": "指「環化作用」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cyclone",
+    "traditional_chinese": "氣旋",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cyclone collector",
+    "traditional_chinese": "旋風收集器",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cyclone family",
+    "traditional_chinese": "旋風家族",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cyclone model",
+    "traditional_chinese": "旋風分離器模型",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cyclone precipitation",
+    "traditional_chinese": "旋風降水",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cyclone wave",
+    "traditional_chinese": "旋風波",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cyclonette",
+    "traditional_chinese": "氣旋",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cyclonic",
+    "traditional_chinese": "氣旋式",
+    "definition_cht": "指「氣旋式」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cyclonic circulation",
+    "traditional_chinese": "氣旋環流",
+    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。"
+  },
+  {
+    "english": "cyclonic rotation",
+    "traditional_chinese": "氣旋旋轉",
+    "definition_cht": "指「氣旋旋轉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cyclonic scale",
+    "traditional_chinese": "氣旋規模",
+    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。"
+  },
+  {
+    "english": "cyclonic shear",
+    "traditional_chinese": "旋風剪切",
+    "definition_cht": "指「旋風剪切」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cyclostrophic flow",
+    "traditional_chinese": "旋旋流",
+    "definition_cht": "指「旋旋流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cyclostrophic wind",
+    "traditional_chinese": "旋風",
+    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。"
+  },
+  {
+    "english": "cyclotron frequency",
+    "traditional_chinese": "迴旋頻率",
+    "definition_cht": "指「迴旋頻率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+  },
+  {
+    "english": "cylindrical coordinates",
+    "traditional_chinese": "圓柱座標",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "cylindrical projection",
+    "traditional_chinese": "圓柱投影",
+    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+  },
+  {
+    "english": "CZCS",
+    "traditional_chinese": "CZCS",
+    "definition_cht": "CZCS 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。"
+  }
+]
