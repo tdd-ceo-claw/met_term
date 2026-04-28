@@ -421,8 +421,8 @@
   },
   {
     "english": "carbon pool",
-    "traditional_chinese": "碳池",
-    "definition_cht": "指某種物質、能量或成分在地表、生態系或大氣海洋系統中的儲存庫或蓄積區。"
+    "traditional_chinese": "碳庫",
+    "definition_cht": "生物地球化學循環中以碳為主要儲存成分的庫體或儲集區，如大氣、海洋、土壤、植被與沉積物。"
   },
   {
     "english": "carbon sink",
@@ -1417,12 +1417,12 @@
   {
     "english": "cirrus",
     "traditional_chinese": "卷雲",
-    "definition_cht": "指「卷雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "definition_cht": "高雲族的一類纖維狀或絲羽狀白色雲，主要由冰晶組成，常呈透明或半透明外觀。"
   },
   {
     "english": "cirrus intortus",
-    "traditional_chinese": "卷雲",
-    "definition_cht": "指「卷雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "traditional_chinese": "纏曲卷雲",
+    "definition_cht": "卷雲的一種雲種，其絲狀雲體彎曲紊亂、呈鋸齒狀或互相纏結的外觀。"
   },
   {
     "english": "cirrus spissatus",
@@ -1592,7 +1592,7 @@
   {
     "english": "climate change",
     "traditional_chinese": "氣候變遷",
-    "definition_cht": "指「氣候變遷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "definition_cht": "氣候要素長期統計特徵（如氣溫、降水、風場或氣壓）在數十年以上尺度上出現持續且具系統性的改變。"
   },
   {
     "english": "climate change detection",
@@ -1676,8 +1676,8 @@
   },
   {
     "english": "climate variability",
-    "traditional_chinese": "氣候變遷",
-    "definition_cht": "指「氣候變遷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "traditional_chinese": "氣候變率",
+    "definition_cht": "在未必形成長期趨勢的情況下，氣候平均態、頻率或極端事件於季節至多年際乃至年代際尺度上的自然起伏。"
   },
   {
     "english": "climatic classification",
@@ -1771,8 +1771,8 @@
   },
   {
     "english": "climatography",
-    "traditional_chinese": "氣候學",
-    "definition_cht": "指「氣候學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "traditional_chinese": "氣候描述學",
+    "definition_cht": "著重氣候要素時空分布與區域特徵之描述、整理與呈現的氣候研究取向，相對於偏重成因解釋的物理氣候學。"
   },
   {
     "english": "climatological atlas",
@@ -1782,17 +1782,17 @@
   {
     "english": "climatological chart",
     "traditional_chinese": "氣候圖",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。"
+    "definition_cht": "依長期平均或統計資料編製、用以表現某地區氣候要素空間分布或季節變化的圖表。"
   },
   {
     "english": "climatological data",
-    "traditional_chinese": "氣候數據",
-    "definition_cht": "指「氣候數據」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "traditional_chinese": "氣候資料",
+    "definition_cht": "由長期氣象觀測彙整而成、可用於描述某地氣候平均態、變率與極端特徵的資料集合。"
   },
   {
     "english": "climatological division",
     "traditional_chinese": "氣候分區",
-    "definition_cht": "指「氣候分區」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "definition_cht": "依氣候特徵、地理條件或觀測一致性劃分出的區域單元，常用於氣候統計與業務分析。"
   },
   {
     "english": "Climatological field",
@@ -1802,7 +1802,7 @@
   {
     "english": "climatological forecast",
     "traditional_chinese": "氣候預報",
-    "definition_cht": "指「氣候預報」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "definition_cht": "根據長期統計特徵、背景環流條件與相關預測訊號，對未來一段期間氣候偏暖、偏冷、偏乾或偏濕等機率所作的預報。"
   },
   {
     "english": "Climatological mean field",
@@ -1817,7 +1817,7 @@
   {
     "english": "climatological observation",
     "traditional_chinese": "氣候觀測",
-    "definition_cht": "指「氣候觀測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "definition_cht": "為建立長期氣候紀錄而按固定時間、方法與品質規範持續進行的氣象觀測。"
   },
   {
     "english": "climatological standard normals",
@@ -1827,7 +1827,7 @@
   {
     "english": "climatological station",
     "traditional_chinese": "氣候站",
-    "definition_cht": "指「氣候站」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "definition_cht": "以長期、連續觀測氣溫、降水、濕度、風、氣壓等要素為主要任務，用以建立氣候資料紀錄的測站。"
   },
   {
     "english": "climatological station elevation",
@@ -1861,8 +1861,8 @@
   },
   {
     "english": "climatonomy",
-    "traditional_chinese": "氣候學",
-    "definition_cht": "指「氣候學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "traditional_chinese": "氣候規律學",
+    "definition_cht": "探討氣候型態、區域分異與支配規律之學門，用以歸納不同地區氣候的系統性特徵與關聯。"
   },
   {
     "english": "clinometer",
@@ -2326,8 +2326,8 @@
   },
   {
     "english": "coalescence",
-    "traditional_chinese": "合併",
-    "definition_cht": "指「合併」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "traditional_chinese": "聚結",
+    "definition_cht": "兩個或多個液滴、粒子或小單元在碰撞後合併成較大單體的過程；在雲物理中為雨滴成長的重要機制。"
   },
   {
     "english": "coalescence efficiency",
@@ -2562,7 +2562,7 @@
   {
     "english": "cold pool",
     "traditional_chinese": "冷池",
-    "definition_cht": "指某種物質、能量或成分在地表、生態系或大氣海洋系統中的儲存庫或蓄積區。"
+    "definition_cht": "被較暖空氣包圍的相對冷空氣區，常指具有一定垂直厚度並與周圍環境分離的冷空氣團。"
   },
   {
     "english": "cold sector",
@@ -2612,7 +2612,7 @@
   {
     "english": "cold-air pool",
     "traditional_chinese": "冷空氣池",
-    "definition_cht": "指某種物質、能量或成分在地表、生態系或大氣海洋系統中的儲存庫或蓄積區。"
+    "definition_cht": "地形低窪處如山谷或盆地內蓄積的冷空氣，常因夜間輻射冷卻與排水流作用而形成。"
   },
   {
     "english": "cold-core rings",
@@ -3241,8 +3241,8 @@
   },
   {
     "english": "consolidation",
-    "traditional_chinese": "合併",
-    "definition_cht": "指「合併」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。"
+    "traditional_chinese": "固結",
+    "definition_cht": "飽和土壤或鬆散沉積物在外加荷重下，因孔隙水逐步排出而體積縮減、強度增加的過程。"
   },
   {
     "english": "constancy",

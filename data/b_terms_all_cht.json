@@ -176,13 +176,13 @@
   },
   {
     "english": "ballonet",
-    "traditional_chinese": "氣球",
-    "definition_cht": "指與「氣球」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。"
+    "traditional_chinese": "調壓氣囊",
+    "definition_cht": "裝設於非剛性飛船或特定高空氣球內、容積可變的密閉氣囊，用以調節內部壓力並控制升降。"
   },
   {
     "english": "Balloon",
     "traditional_chinese": "氣球",
-    "definition_cht": "指與「氣球」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。"
+    "definition_cht": "充填比周圍空氣更輕之氣體或利用熱空氣提供浮力的囊體平台，可搭載儀器進行高空風場、溫濕壓等大氣觀測。"
   },
   {
     "english": "balloon ceiling",
@@ -366,8 +366,8 @@
   },
   {
     "english": "barometric",
-    "traditional_chinese": "氣壓計",
-    "definition_cht": "指與「氣壓計」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。"
+    "traditional_chinese": "氣壓的",
+    "definition_cht": "形容與大氣壓力、氣壓測定或氣壓計讀數有關之性質、變化或作業。"
   },
   {
     "english": "barometric characteristic",
@@ -411,8 +411,8 @@
   },
   {
     "english": "barometry",
-    "traditional_chinese": "氣壓計",
-    "definition_cht": "指與「氣壓計」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。"
+    "traditional_chinese": "氣壓測定",
+    "definition_cht": "以氣壓計量測大氣壓力及其變化的技術與學理，為天氣分析、預報與高度推算的重要基礎。"
   },
   {
     "english": "baromil",
@@ -1027,7 +1027,7 @@
   {
     "english": "bioclimatology",
     "traditional_chinese": "生物氣候學",
-    "definition_cht": "指與「生物氣候學」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。"
+    "definition_cht": "氣候學的分支，研究氣候與生命之間的關係，尤其包括氣候對人類健康、活動，以及動植物分布與適應的影響。"
   },
   {
     "english": "biogenic ice nucleus",
