@@ -1,0 +1,225 @@
+N weather
+N.T.P.
+n'aschi
+NAAQS
+NACA Standard Atmosphere
+nacreous clouds
+nadir
+NADW
+Nansen bottle
+Nansen cast
+nappe
+narbonnais
+narrow-sector recorder
+narrowband radiation
+NASA Scatterometer
+National Ambient Air Quality Standards
+national standard barometer
+National Tidal Datum Epoch
+natural control
+natural coordinates
+natural flow
+natural frequency
+natural remanent magnetization
+natural sulfur cycle
+natural synoptic period
+natural synoptic region
+natural synoptic season
+naulu
+nautical mile
+nautical system
+nautical twilight
+Navier–Stokes equations
+navigable semicircle
+navigation
+NDVI
+neap range
+neap tide
+near gale
+near-infrared
+near-infrared radiation
+NEBUL code
+nebule
+nebulosus
+NEC
+NECC
+needle ice
+negative cloud-to-ground lightning
+negative feedback
+negative isothermal vorticity advection
+negative rain
+negative viscosity
+nemere
+Neoglacial
+neon
+neper
+nephanalysis
+nephcurve
+nephelometer
+nephelometry
+nepheloscope
+nephology
+nephometer
+nephoscope
+nested grids
+net balance
+net primary production
+net pyranometer
+net pyrgeometer
+net pyrradiometer
+net radiation
+net radiometer
+net solar radiation
+net terrestrial radiation
+network
+network density
+neural network
+Neutercane
+neutral atmosphere
+neutral equilibrium
+neutral mode
+neutral surfaces
+neutron
+neutron logging
+neutron-scattering method
+neutrosphere
+nevada
+névé
+New Guinea Coastal Current
+New Guinea Coastal Undercurrent
+new snow
+newton
+Newton's law of cooling
+Newton's laws of motion
+Newtonian fluid
+Newtonian friction law
+Newtonian mechanics
+NEXRAD
+night visual range
+night wind
+nilas
+nimbostratus
+Nimbus
+nine-light indicator
+Nipher shield
+nitrate
+nitrate ion
+nitrate radical
+nitric acid
+nitric acid trihydrate
+nitric oxide
+nitrification
+nitrogen
+nitrogen cycle
+nitrogen dioxide
+nitrogen fixation
+nitrogen oxides
+nitrogen-fixing plants
+nitrous acid
+nitrous oxide
+nival
+NOAA
+NOAA space weather scales
+noble gases
+noctilucent clouds
+nocturnal boundary layer
+nocturnal cooling
+nocturnal jet
+nocturnal minimum temperature
+nocturnal radiation
+nodal factors
+nodal increment
+nodal period
+node
+Noise
+noise figure
+noise filtering
+noise level
+noise power
+Noise temperature
+Noise threshold
+nomogram
+noncoherent echo
+noncoherent target
+nondeterministic
+nondimensional equation
+nondimensional number
+nondimensional parameter
+nondispersive infrared spectrometry
+nonharmonic tidal analysis
+nonhydrostatic model
+noninductive charging mechanism
+nonlinear
+nonlinear instability
+nonlinearity of the equation of state
+nonlocal closure
+nonlocal flux
+nonlocal mixing
+nonlocal static stability
+nonmethane hydrocarbons
+nonrecording rain gauge
+nonsupercell tornado
+nonwetting liquid
+nor'easter
+nor'wester
+Nor’west Arch
+Nordenskjöld line
+normal
+normal aeration
+normal barometer
+normal chart
+normal curve of error
+normal distribution
+normal mode initialization
+normal modes
+normal population
+normal stresses
+normal temperature and pressure
+normal water
+normalize
+Normalized Difference Vegetation Index
+Normand's theorem
+nortada
+norte
+North American high
+North Atlantic Current
+North Atlantic Deep Water
+North Brazil Current
+North Equatorial Countercurrent
+North Equatorial Current
+north foehn
+North Korea Cold Current
+North Pacific Current
+North Wall
+northeast storm
+northeast trades
+northeaster
+norther
+northern lights
+northern nanny
+northwester
+Norwegian Current
+Norwegian Sea Deep Water
+NOTAM
+Notos
+Nova Zemlya
+nowcast
+NOx
+Noxon cliff
+NRM
+NRM wind scale
+NSCAT
+nT
+nuclear winter
+nucleation
+Nucleus
+Nucleus counter
+nudging
+numerical dispersion
+numerical forecasting
+numerical integration
+numerical modeling
+numerical simulation
+Nusselt number
+NWP
+Nyquist frequency

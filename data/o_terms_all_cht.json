@@ -1,0 +1,887 @@
+[
+  {
+    "english": "O'Brien cubic polynomial",
+    "traditional_chinese": "O'Brien 三次多項式",
+    "definition_cht": "「O'Brien 三次多項式」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oasis effect",
+    "traditional_chinese": "綠洲效應",
+    "definition_cht": "「綠洲效應」指特定環境條件所造成的影響或響應，常用以描述大氣、海洋或地表系統中的可辨識機制。"
+  },
+  {
+    "english": "ob",
+    "traditional_chinese": "觀測值",
+    "definition_cht": "「觀測值」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oberwind",
+    "traditional_chinese": "奧伯風",
+    "definition_cht": "「奧伯風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "objective analysis",
+    "traditional_chinese": "客觀分析",
+    "definition_cht": "「客觀分析」指對觀測、模式或遙測資料所進行的系統化分析方法或成果，用於診斷環境場的結構與演變。"
+  },
+  {
+    "english": "objective forecast",
+    "traditional_chinese": "客觀預報",
+    "definition_cht": "「客觀預報」指依據觀測、統計或數值模式對未來大氣或海洋狀態所作之預報產品或方法。"
+  },
+  {
+    "english": "oblique visual range",
+    "traditional_chinese": "斜視範圍",
+    "definition_cht": "「斜視範圍」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "obliquity of the ecliptic",
+    "traditional_chinese": "黃道傾角",
+    "definition_cht": "「黃道傾角」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "obscuration",
+    "traditional_chinese": "遮蔽",
+    "definition_cht": "「遮蔽」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "obscuring phenomenon",
+    "traditional_chinese": "模糊現象",
+    "definition_cht": "「模糊現象」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "observation well",
+    "traditional_chinese": "觀察井",
+    "definition_cht": "「觀察井」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "observational day",
+    "traditional_chinese": "觀察日",
+    "definition_cht": "「觀察日」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "observational error",
+    "traditional_chinese": "觀測誤差",
+    "definition_cht": "「觀測誤差」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "observational network",
+    "traditional_chinese": "觀測網",
+    "definition_cht": "「觀測網」指由多個觀測站、感測器、資料節點或計算單元組成的系統，用於資料蒐集、傳輸、分析或預報。"
+  },
+  {
+    "english": "observer",
+    "traditional_chinese": "觀測員",
+    "definition_cht": "「觀測員」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "observing systems simulation experiment",
+    "traditional_chinese": "觀測系統模擬實驗",
+    "definition_cht": "「觀測系統模擬實驗」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "obstacle flow signature",
+    "traditional_chinese": "障礙流特徵",
+    "definition_cht": "「障礙流特徵」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "obstruction to vision",
+    "traditional_chinese": "視線障礙",
+    "definition_cht": "「視線障礙」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Obukhov length",
+    "traditional_chinese": "奧布霍夫長度",
+    "definition_cht": "「奧布霍夫長度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "occluded cyclone",
+    "traditional_chinese": "閉塞氣旋",
+    "definition_cht": "「閉塞氣旋」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "occluded depression",
+    "traditional_chinese": "閉塞性凹陷",
+    "definition_cht": "「閉塞性凹陷」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "occluded front",
+    "traditional_chinese": "囚錮鋒",
+    "definition_cht": "「囚錮鋒」為不同性質氣團或水團之間的過渡帶或鋒面結構，常伴隨風場、溫度、濕度與降水分布的顯著變化。"
+  },
+  {
+    "english": "occlusion",
+    "traditional_chinese": "囚錮作用",
+    "definition_cht": "「囚錮作用」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ocean",
+    "traditional_chinese": "海洋",
+    "definition_cht": "「海洋」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "ocean conveyor belt",
+    "traditional_chinese": "海洋輸送帶",
+    "definition_cht": "「海洋輸送帶」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "ocean current",
+    "traditional_chinese": "洋流",
+    "definition_cht": "「洋流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。"
+  },
+  {
+    "english": "ocean mixing",
+    "traditional_chinese": "海洋混合",
+    "definition_cht": "「海洋混合」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "ocean station",
+    "traditional_chinese": "海洋站",
+    "definition_cht": "「海洋站」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "ocean station vessel",
+    "traditional_chinese": "海洋氣象船",
+    "definition_cht": "「海洋氣象船」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "Ocean Topography Experiment",
+    "traditional_chinese": "海洋地形實驗",
+    "definition_cht": "「海洋地形實驗」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "ocean waves",
+    "traditional_chinese": "海浪",
+    "definition_cht": "「海浪」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "ocean weather station",
+    "traditional_chinese": "海洋氣象站",
+    "definition_cht": "「海洋氣象站」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "oceanic meteorology",
+    "traditional_chinese": "海洋氣象學",
+    "definition_cht": "「海洋氣象學」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "oceanicity",
+    "traditional_chinese": "海洋性",
+    "definition_cht": "「海洋性」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "oceanography",
+    "traditional_chinese": "海洋學",
+    "definition_cht": "「海洋學」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。"
+  },
+  {
+    "english": "octa",
+    "traditional_chinese": "八分雲量單位",
+    "definition_cht": "「八分雲量單位」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "octane",
+    "traditional_chinese": "辛烷值",
+    "definition_cht": "「辛烷值」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "odd chlorine",
+    "traditional_chinese": "奇數氯",
+    "definition_cht": "「奇數氯」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "odd hydrogen",
+    "traditional_chinese": "奇數氫",
+    "definition_cht": "「奇數氫」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Odd oxygen",
+    "traditional_chinese": "奇數氧",
+    "definition_cht": "「奇數氧」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "odd-oxygen system",
+    "traditional_chinese": "奇氧系統",
+    "definition_cht": "「奇氧系統」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oe",
+    "traditional_chinese": "厄",
+    "definition_cht": "「厄」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oersted",
+    "traditional_chinese": "奧斯特",
+    "definition_cht": "「奧斯特」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "off-airways",
+    "traditional_chinese": "停航",
+    "definition_cht": "「停航」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "off-center PPI scope",
+    "traditional_chinese": "偏心 PPI 範圍",
+    "definition_cht": "「偏心 PPI 範圍」為觀測、顯示或量測用途之儀器，用於呈現特定氣象或物理訊號的空間與時間變化。"
+  },
+  {
+    "english": "offshore wind",
+    "traditional_chinese": "離岸風",
+    "definition_cht": "「離岸風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。"
+  },
+  {
+    "english": "Ogasawara high",
+    "traditional_chinese": "小笠原高中",
+    "definition_cht": "「小笠原高中」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ogive",
+    "traditional_chinese": "尖頂",
+    "definition_cht": "「尖頂」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ohmic current",
+    "traditional_chinese": "歐姆電流",
+    "definition_cht": "「歐姆電流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。"
+  },
+  {
+    "english": "oil slick",
+    "traditional_chinese": "浮油",
+    "definition_cht": "「浮油」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "old snow",
+    "traditional_chinese": "老雪",
+    "definition_cht": "「老雪」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Old Wives' summer",
+    "traditional_chinese": "老婦人的夏天",
+    "definition_cht": "「老婦人的夏天」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Olland cycle",
+    "traditional_chinese": "奧蘭循環",
+    "definition_cht": "「奧蘭循環」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "OLS",
+    "traditional_chinese": "最小平方法",
+    "definition_cht": "「最小平方法」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。"
+  },
+  {
+    "english": "ombrometer",
+    "traditional_chinese": "測光儀",
+    "definition_cht": "「測光儀」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ombroscope",
+    "traditional_chinese": "顯微鏡",
+    "definition_cht": "「顯微鏡」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "omega equation",
+    "traditional_chinese": "歐米伽方程",
+    "definition_cht": "「歐米伽方程」為描述物理量之間關係的方程式，常用於大氣動力、海洋過程或數值分析研究。"
+  },
+  {
+    "english": "omega sun",
+    "traditional_chinese": "歐米茄太陽",
+    "definition_cht": "「歐米茄太陽」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "on and off instruments",
+    "traditional_chinese": "打開和關閉儀器",
+    "definition_cht": "「打開和關閉儀器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "on top",
+    "traditional_chinese": "在上面",
+    "definition_cht": "「在上面」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "one-and-a-half order closure",
+    "traditional_chinese": "一年半訂單關閉",
+    "definition_cht": "「一年半訂單關閉」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "one-dimensional model",
+    "traditional_chinese": "一維模式",
+    "definition_cht": "「一維模式」為用以描述、模擬或預測大氣、海洋、水文或環境系統的概念性、統計性或數值性模式。"
+  },
+  {
+    "english": "one-way entrainment process",
+    "traditional_chinese": "單向夾帶過程",
+    "definition_cht": "「單向夾帶過程」為一種物理、化學或動力演變過程，用於說明系統隨時間發生的轉變機制。"
+  },
+  {
+    "english": "onshore wind",
+    "traditional_chinese": "向岸風",
+    "definition_cht": "「向岸風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。"
+  },
+  {
+    "english": "opacity",
+    "traditional_chinese": "不透明度",
+    "definition_cht": "「不透明度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "opacus",
+    "traditional_chinese": "暗雲",
+    "definition_cht": "「暗雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "opaque sky cover",
+    "traditional_chinese": "不透明雲量",
+    "definition_cht": "「不透明雲量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "open cells",
+    "traditional_chinese": "開放胞狀對流",
+    "definition_cht": "「開放胞狀對流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "open channel flow",
+    "traditional_chinese": "明渠流",
+    "definition_cht": "「明渠流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "open system",
+    "traditional_chinese": "開放系統",
+    "definition_cht": "「開放系統」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "open-cell cumulus",
+    "traditional_chinese": "開放胞狀積雲",
+    "definition_cht": "「開放胞狀積雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Operational Linescan System",
+    "traditional_chinese": "作業線掃描系統",
+    "definition_cht": "「作業線掃描系統」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "operational numerical model",
+    "traditional_chinese": "作業數值模式",
+    "definition_cht": "「作業數值模式」為用以描述、模擬或預測大氣、海洋、水文或環境系統的概念性、統計性或數值性模式。"
+  },
+  {
+    "english": "operational weather limits",
+    "traditional_chinese": "作業天氣限制",
+    "definition_cht": "「作業天氣限制」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "operative temperature",
+    "traditional_chinese": "作用溫度",
+    "definition_cht": "「作用溫度」為與溫度狀態、代表性熱環境或溫度診斷有關之術語，常用於描述熱力條件與能量交換。"
+  },
+  {
+    "english": "operator",
+    "traditional_chinese": "算子",
+    "definition_cht": "「算子」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "opposing wind",
+    "traditional_chinese": "逆風",
+    "definition_cht": "「逆風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。"
+  },
+  {
+    "english": "opposition",
+    "traditional_chinese": "衝位",
+    "definition_cht": "「衝位」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical air mass",
+    "traditional_chinese": "光學氣團質量",
+    "definition_cht": "「光學氣團質量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical counter",
+    "traditional_chinese": "光學粒子計數器",
+    "definition_cht": "「光學粒子計數器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical depth",
+    "traditional_chinese": "光學厚度",
+    "definition_cht": "「光學厚度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical hygrometer",
+    "traditional_chinese": "光學濕度計",
+    "definition_cht": "「光學濕度計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical imaging probe",
+    "traditional_chinese": "光學成像探頭",
+    "definition_cht": "「光學成像探頭」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical mass",
+    "traditional_chinese": "光學品質",
+    "definition_cht": "「光學品質」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical meteor",
+    "traditional_chinese": "光學流星",
+    "definition_cht": "「光學流星」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical particle probe",
+    "traditional_chinese": "光學粒子探針",
+    "definition_cht": "「光學粒子探針」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical path",
+    "traditional_chinese": "光路",
+    "definition_cht": "「光路」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical pathlength",
+    "traditional_chinese": "光路長度",
+    "definition_cht": "「光路長度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical rain gauge",
+    "traditional_chinese": "光學雨量計",
+    "definition_cht": "「光學雨量計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical scattering probe",
+    "traditional_chinese": "光學散射探頭",
+    "definition_cht": "「光學散射探頭」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optical thickness",
+    "traditional_chinese": "光學厚度",
+    "definition_cht": "「光學厚度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Optical Transient Detector",
+    "traditional_chinese": "光學瞬態探測器",
+    "definition_cht": "「光學瞬態探測器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optically homogeneous",
+    "traditional_chinese": "光學均勻",
+    "definition_cht": "「光學均勻」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optically smooth",
+    "traditional_chinese": "光學平滑",
+    "definition_cht": "「光學平滑」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optimal perturbation",
+    "traditional_chinese": "最優擾動",
+    "definition_cht": "「最優擾動」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optimal yield",
+    "traditional_chinese": "最佳產量",
+    "definition_cht": "「最佳產量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optimum flight",
+    "traditional_chinese": "最佳飛行",
+    "definition_cht": "「最佳飛行」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "optimum interpolation",
+    "traditional_chinese": "最適內插",
+    "definition_cht": "「最適內插」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ora",
+    "traditional_chinese": "奧拉",
+    "definition_cht": "「奧拉」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orbit",
+    "traditional_chinese": "軌道",
+    "definition_cht": "「軌道」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orbit number",
+    "traditional_chinese": "軌道數",
+    "definition_cht": "「軌道數」為無因次數或特徵指標，用以衡量特定物理過程中各作用力、傳輸效應或尺度關係的重要性。"
+  },
+  {
+    "english": "orbital elements",
+    "traditional_chinese": "軌道元素",
+    "definition_cht": "「軌道元素」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orbital motion",
+    "traditional_chinese": "軌道運動",
+    "definition_cht": "「軌道運動」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orbital velocity",
+    "traditional_chinese": "軌道速度",
+    "definition_cht": "「軌道速度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ordinary cell",
+    "traditional_chinese": "普通細胞",
+    "definition_cht": "「普通細胞」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ordinary ray",
+    "traditional_chinese": "普通射線",
+    "definition_cht": "「普通射線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ordinate",
+    "traditional_chinese": "縱座標",
+    "definition_cht": "「縱座標」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "organic acids",
+    "traditional_chinese": "有機酸",
+    "definition_cht": "「有機酸」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "organic nitrates",
+    "traditional_chinese": "有機硝酸鹽",
+    "definition_cht": "「有機硝酸鹽」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "organic peroxides",
+    "traditional_chinese": "有機過氧化物",
+    "definition_cht": "「有機過氧化物」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "organized large eddies",
+    "traditional_chinese": "有組織的大漩渦",
+    "definition_cht": "「有組織的大漩渦」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oriented overgrowth",
+    "traditional_chinese": "定向過度生長",
+    "definition_cht": "「定向過度生長」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic",
+    "traditional_chinese": "地形",
+    "definition_cht": "「地形」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic cloud",
+    "traditional_chinese": "地形雲",
+    "definition_cht": "「地形雲」為特定雲類、雲體結構或與雲有關的光學／動力現象名稱，用於描述其形態、形成機制與觀測特徵。"
+  },
+  {
+    "english": "orographic fog",
+    "traditional_chinese": "地形霧",
+    "definition_cht": "「地形霧」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic isobar",
+    "traditional_chinese": "地形等壓線",
+    "definition_cht": "「地形等壓線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic lifting",
+    "traditional_chinese": "地形抬升",
+    "definition_cht": "「地形抬升」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic occlusion",
+    "traditional_chinese": "地形閉塞",
+    "definition_cht": "「地形閉塞」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic precipitation",
+    "traditional_chinese": "地形性降水",
+    "definition_cht": "「地形性降水」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic rainfall",
+    "traditional_chinese": "地形降雨量",
+    "definition_cht": "「地形降雨量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic snow line",
+    "traditional_chinese": "地形雪線",
+    "definition_cht": "「地形雪線」指具有診斷、統計或空間界定用途的線狀特徵，可代表邊界、軸線、趨勢或帶狀結構。"
+  },
+  {
+    "english": "orographic storm",
+    "traditional_chinese": "地形風暴",
+    "definition_cht": "「地形風暴」為一類風暴、擾動或強天氣現象名稱；通常用以描述其形成背景、結構特徵及可能造成的影響。"
+  },
+  {
+    "english": "orographic vortex",
+    "traditional_chinese": "地形渦",
+    "definition_cht": "「地形渦」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orographic wind flow",
+    "traditional_chinese": "地形風流",
+    "definition_cht": "「地形風流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orography",
+    "traditional_chinese": "地形學",
+    "definition_cht": "「地形學」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oroshi",
+    "traditional_chinese": "奧羅西",
+    "definition_cht": "「奧羅西」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orsure",
+    "traditional_chinese": "奧蘇爾",
+    "definition_cht": "「奧蘇爾」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orthogonal",
+    "traditional_chinese": "正交",
+    "definition_cht": "「正交」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orthogonal antennas",
+    "traditional_chinese": "正交天線",
+    "definition_cht": "「正交天線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orthogonal functions",
+    "traditional_chinese": "正交函數",
+    "definition_cht": "「正交函數」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "orthogonal lines",
+    "traditional_chinese": "正交線",
+    "definition_cht": "「正交線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Oscillation",
+    "traditional_chinese": "振盪",
+    "definition_cht": "「振盪」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oscillator",
+    "traditional_chinese": "振盪器",
+    "definition_cht": "「振盪器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "osmometer",
+    "traditional_chinese": "滲透壓計",
+    "definition_cht": "「滲透壓計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "osmosis",
+    "traditional_chinese": "滲透作用",
+    "definition_cht": "「滲透作用」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Osos wind",
+    "traditional_chinese": "奧索斯風",
+    "definition_cht": "「奧索斯風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。"
+  },
+  {
+    "english": "OSSE",
+    "traditional_chinese": "OSSE",
+    "definition_cht": "「OSSE」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。"
+  },
+  {
+    "english": "ostria",
+    "traditional_chinese": "奧斯特里亞",
+    "definition_cht": "「奧斯特里亞」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "OSV",
+    "traditional_chinese": "OSV",
+    "definition_cht": "「OSV」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。"
+  },
+  {
+    "english": "OTD",
+    "traditional_chinese": "OTD",
+    "definition_cht": "「OTD」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。"
+  },
+  {
+    "english": "ouari",
+    "traditional_chinese": "烏阿里",
+    "definition_cht": "「烏阿里」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "outer atmosphere",
+    "traditional_chinese": "外層大氣",
+    "definition_cht": "「外層大氣」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "outer layer",
+    "traditional_chinese": "外層",
+    "definition_cht": "「外層」指大氣、海洋、冰雪或地表環境中的一個特定層次，具有相對明確的熱力、動力或組成特徵。"
+  },
+  {
+    "english": "outer vortex",
+    "traditional_chinese": "外渦",
+    "definition_cht": "「外渦」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "outflow",
+    "traditional_chinese": "外流",
+    "definition_cht": "「外流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "outflow boundary",
+    "traditional_chinese": "流出邊界",
+    "definition_cht": "「流出邊界」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "outflow jet",
+    "traditional_chinese": "流出射流",
+    "definition_cht": "「流出射流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "outgoing longwave radiation",
+    "traditional_chinese": "出射長波輻射",
+    "definition_cht": "「出射長波輻射」指輻射能量之發射、傳輸、吸收或收支相關概念，常用於大氣輻射、地表能量平衡與遙測分析。"
+  },
+  {
+    "english": "outlet glacier",
+    "traditional_chinese": "出口冰川",
+    "definition_cht": "「出口冰川」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "outlook",
+    "traditional_chinese": "前景",
+    "definition_cht": "「前景」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "output",
+    "traditional_chinese": "輸出",
+    "definition_cht": "「輸出」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overcast",
+    "traditional_chinese": "陰天",
+    "definition_cht": "「陰天」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overflow",
+    "traditional_chinese": "溢流",
+    "definition_cht": "「溢流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overland flow",
+    "traditional_chinese": "地表逕流",
+    "definition_cht": "「地表逕流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overlap",
+    "traditional_chinese": "重疊",
+    "definition_cht": "「重疊」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overrunning",
+    "traditional_chinese": "暖平流越流",
+    "definition_cht": "「暖平流越流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overseeding",
+    "traditional_chinese": "監督",
+    "definition_cht": "「監督」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overshooting top",
+    "traditional_chinese": "穿頂雲頂",
+    "definition_cht": "「穿頂雲頂」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overtrades",
+    "traditional_chinese": "越赤道信風",
+    "definition_cht": "「越赤道信風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "overturn",
+    "traditional_chinese": "翻轉",
+    "definition_cht": "「翻轉」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Owens dust recorder",
+    "traditional_chinese": "歐文斯塵埃記錄器",
+    "definition_cht": "「歐文斯塵埃記錄器」為可連續記錄特定環境變數或觀測結果之儀器，有助於掌握時間變化特性。"
+  },
+  {
+    "english": "ox's eye",
+    "traditional_chinese": "牛眼雲區",
+    "definition_cht": "「牛眼雲區」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oxidant",
+    "traditional_chinese": "氧化劑",
+    "definition_cht": "「氧化劑」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oxidation",
+    "traditional_chinese": "氧化作用",
+    "definition_cht": "「氧化作用」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oxidizing capacity of atmosphere",
+    "traditional_chinese": "大氣氧化能力",
+    "definition_cht": "「大氣氧化能力」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oxygen",
+    "traditional_chinese": "氧",
+    "definition_cht": "「氧」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "oxygen band",
+    "traditional_chinese": "氧吸收帶",
+    "definition_cht": "「氧吸收帶」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Oyashio",
+    "traditional_chinese": "親潮",
+    "definition_cht": "「親潮」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "Ozmidov scale",
+    "traditional_chinese": "奧茲米多夫尺度",
+    "definition_cht": "「奧茲米多夫尺度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  },
+  {
+    "english": "ozone",
+    "traditional_chinese": "臭氧",
+    "definition_cht": "「臭氧」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。"
+  },
+  {
+    "english": "ozone hole",
+    "traditional_chinese": "臭氧洞",
+    "definition_cht": "「臭氧洞」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。"
+  },
+  {
+    "english": "ozone isopleth plot",
+    "traditional_chinese": "臭氧等值圖",
+    "definition_cht": "「臭氧等值圖」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。"
+  },
+  {
+    "english": "ozone layer",
+    "traditional_chinese": "臭氧層",
+    "definition_cht": "「臭氧層」指大氣、海洋、冰雪或地表環境中的一個特定層次，具有相對明確的熱力、動力或組成特徵。"
+  },
+  {
+    "english": "ozone shield",
+    "traditional_chinese": "臭氧屏障",
+    "definition_cht": "「臭氧屏障」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。"
+  },
+  {
+    "english": "ozone-depleting potential",
+    "traditional_chinese": "臭氧消耗潛勢",
+    "definition_cht": "「臭氧消耗潛勢」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。"
+  },
+  {
+    "english": "ozonesonde",
+    "traditional_chinese": "臭氧探空儀",
+    "definition_cht": "「臭氧探空儀」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。"
+  },
+  {
+    "english": "ozonosphere",
+    "traditional_chinese": "臭氧層區",
+    "definition_cht": "「臭氧層區」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。"
+  }
+]
