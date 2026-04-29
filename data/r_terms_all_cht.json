@@ -1,0 +1,2522 @@
+[
+  {
+    "english": "R-meter",
+    "traditional_chinese": "R計",
+    "definition_cht": "指與「R計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "R-scale",
+    "traditional_chinese": "R 尺度",
+    "definition_cht": "指與「R 尺度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "R-scope",
+    "traditional_chinese": "R 顯示器",
+    "definition_cht": "指與「R 顯示器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rabal",
+    "traditional_chinese": "拉巴爾",
+    "definition_cht": "指與「拉巴爾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "racoon",
+    "traditional_chinese": "浣熊",
+    "definition_cht": "指與「浣熊」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radar",
+    "traditional_chinese": "雷達",
+    "definition_cht": "指與「雷達」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar algorithm",
+    "traditional_chinese": "雷達演算法",
+    "definition_cht": "指與「雷達演算法」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar altimeter",
+    "traditional_chinese": "雷達高度計",
+    "definition_cht": "指與「雷達高度計」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar altitude",
+    "traditional_chinese": "雷達高度",
+    "definition_cht": "指與「雷達高度」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar band",
+    "traditional_chinese": "雷達波段",
+    "definition_cht": "指與「雷達波段」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar beam",
+    "traditional_chinese": "雷達波束",
+    "definition_cht": "指與「雷達波束」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar calibration",
+    "traditional_chinese": "雷達校準",
+    "definition_cht": "指與「雷達校準」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar climatology",
+    "traditional_chinese": "雷達氣候學",
+    "definition_cht": "指與「雷達氣候學」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar coded message",
+    "traditional_chinese": "雷達編碼訊息",
+    "definition_cht": "指與「雷達編碼訊息」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar constant",
+    "traditional_chinese": "雷達常數",
+    "definition_cht": "指與「雷達常數」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar cross section",
+    "traditional_chinese": "雷達截面",
+    "definition_cht": "指與「雷達截面」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar displays",
+    "traditional_chinese": "雷達顯示器",
+    "definition_cht": "指與「雷達顯示器」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar duct",
+    "traditional_chinese": "雷達導管",
+    "definition_cht": "指與「雷達導管」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar equation",
+    "traditional_chinese": "雷達方程",
+    "definition_cht": "指與「雷達方程」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar frequency band",
+    "traditional_chinese": "雷達頻段",
+    "definition_cht": "指與「雷達頻段」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar hydrology",
+    "traditional_chinese": "雷達水文學",
+    "definition_cht": "指與「雷達水文學」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar interferometry",
+    "traditional_chinese": "雷達干涉測量",
+    "definition_cht": "指與「雷達干涉測量」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar meteorological observation",
+    "traditional_chinese": "雷達氣象觀測",
+    "definition_cht": "指與「雷達氣象觀測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar meteorology",
+    "traditional_chinese": "雷達氣象學",
+    "definition_cht": "指與「雷達氣象學」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar mile",
+    "traditional_chinese": "雷達英里",
+    "definition_cht": "指與「雷達英里」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar observation",
+    "traditional_chinese": "雷達觀測",
+    "definition_cht": "指與「雷達觀測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar polarimetry",
+    "traditional_chinese": "雷達極化測量",
+    "definition_cht": "指與「雷達極化測量」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar reflectivity",
+    "traditional_chinese": "雷達反射率",
+    "definition_cht": "指與「雷達反射率」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "Radar reflectivity factor",
+    "traditional_chinese": "雷達反射率係數",
+    "definition_cht": "指與「雷達反射率係數」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar report",
+    "traditional_chinese": "雷達報告",
+    "definition_cht": "指與「雷達報告」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar resolution",
+    "traditional_chinese": "雷達分辨率",
+    "definition_cht": "指與「雷達分辨率」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar return",
+    "traditional_chinese": "雷達回波",
+    "definition_cht": "指與「雷達回波」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar scatterometer",
+    "traditional_chinese": "雷達散射儀",
+    "definition_cht": "指與「雷達散射儀」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar signal spectrograph",
+    "traditional_chinese": "雷達訊號頻譜儀",
+    "definition_cht": "指與「雷達訊號頻譜儀」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar sounding",
+    "traditional_chinese": "雷達偵測",
+    "definition_cht": "指與「雷達偵測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar storm detection",
+    "traditional_chinese": "雷達風暴偵測",
+    "definition_cht": "指與「雷達風暴偵測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar theodolite",
+    "traditional_chinese": "雷達經緯儀",
+    "definition_cht": "指與「雷達經緯儀」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar weather observation",
+    "traditional_chinese": "雷達氣象觀測",
+    "definition_cht": "指與「雷達氣象觀測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar wind sounding",
+    "traditional_chinese": "雷達測風",
+    "definition_cht": "指與「雷達測風」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar wind system",
+    "traditional_chinese": "雷達測風系統",
+    "definition_cht": "指與「雷達測風系統」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radar–rain gauge comparison",
+    "traditional_chinese": "雷達與雨量計比較",
+    "definition_cht": "指與「雷達與雨量計比較」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radarscope",
+    "traditional_chinese": "雷達示波器",
+    "definition_cht": "指與「雷達示波器」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。"
+  },
+  {
+    "english": "radial inflow",
+    "traditional_chinese": "徑向流入",
+    "definition_cht": "指與「徑向流入」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radial symmetry",
+    "traditional_chinese": "徑向對稱",
+    "definition_cht": "指與「徑向對稱」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radial velocity",
+    "traditional_chinese": "徑向速度",
+    "definition_cht": "指與「徑向速度」相關的速度向量、運移速度或流速結構。"
+  },
+  {
+    "english": "radial wind",
+    "traditional_chinese": "徑向風",
+    "definition_cht": "指與「徑向風」相關的風場、局地風、環流或風速風向特徵。"
+  },
+  {
+    "english": "radian",
+    "traditional_chinese": "弧度",
+    "definition_cht": "指與「弧度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiance",
+    "traditional_chinese": "輻射",
+    "definition_cht": "指與「輻射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant",
+    "traditional_chinese": "容光煥發的",
+    "definition_cht": "指與「容光煥發的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant density",
+    "traditional_chinese": "輻射密度",
+    "definition_cht": "指與「輻射密度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant energy",
+    "traditional_chinese": "輻射能",
+    "definition_cht": "指與「輻射能」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant exitance",
+    "traditional_chinese": "輻射出射度",
+    "definition_cht": "指與「輻射出射度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant exposure",
+    "traditional_chinese": "輻射暴露",
+    "definition_cht": "指與「輻射暴露」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant flux",
+    "traditional_chinese": "輻射通量",
+    "definition_cht": "指與「輻射通量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant flux density",
+    "traditional_chinese": "輻射通量密度",
+    "definition_cht": "指與「輻射通量密度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant intensity",
+    "traditional_chinese": "輻射強度",
+    "definition_cht": "指與「輻射強度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiant-energy thermometer",
+    "traditional_chinese": "輻射能量溫度計",
+    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。"
+  },
+  {
+    "english": "radiation",
+    "traditional_chinese": "輻射",
+    "definition_cht": "指與「輻射」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation belts",
+    "traditional_chinese": "輻射帶",
+    "definition_cht": "指與「輻射帶」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation chart",
+    "traditional_chinese": "輻射圖",
+    "definition_cht": "指與「輻射圖」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation fog",
+    "traditional_chinese": "輻射霧",
+    "definition_cht": "指與「輻射霧」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation frost",
+    "traditional_chinese": "輻射霜",
+    "definition_cht": "指與「輻射霜」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation inversion",
+    "traditional_chinese": "輻射逆演",
+    "definition_cht": "指與「輻射逆演」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation laws",
+    "traditional_chinese": "輻射定律",
+    "definition_cht": "指與「輻射定律」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation model",
+    "traditional_chinese": "輻射模型",
+    "definition_cht": "指與「輻射模型」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation pattern",
+    "traditional_chinese": "輻射方向圖",
+    "definition_cht": "指與「輻射方向圖」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation pressure",
+    "traditional_chinese": "輻射壓力",
+    "definition_cht": "指與「輻射壓力」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation shield",
+    "traditional_chinese": "輻射屏蔽",
+    "definition_cht": "指與「輻射屏蔽」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiation torque",
+    "traditional_chinese": "輻射扭矩",
+    "definition_cht": "指與「輻射扭矩」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiational cooling",
+    "traditional_chinese": "輻射冷卻",
+    "definition_cht": "指與「輻射冷卻」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiational tide",
+    "traditional_chinese": "輻射潮",
+    "definition_cht": "指與「輻射潮」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。"
+  },
+  {
+    "english": "radiative cooling",
+    "traditional_chinese": "輻射冷卻",
+    "definition_cht": "指與「輻射冷卻」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiative equilibrium",
+    "traditional_chinese": "輻射平衡",
+    "definition_cht": "指與「輻射平衡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiative flux density",
+    "traditional_chinese": "輻射通量密度",
+    "definition_cht": "指與「輻射通量密度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiative flux divergence",
+    "traditional_chinese": "輻射通量發散度",
+    "definition_cht": "指與「輻射通量發散度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiative forcing",
+    "traditional_chinese": "輻射強迫",
+    "definition_cht": "指與「輻射強迫」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiative heating",
+    "traditional_chinese": "輻射加熱",
+    "definition_cht": "指與「輻射加熱」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiative transfer",
+    "traditional_chinese": "輻射傳輸",
+    "definition_cht": "指與「輻射傳輸」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiative–convective equilibrium",
+    "traditional_chinese": "輻射-對流平衡",
+    "definition_cht": "指與「輻射-對流平衡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiative–convective model",
+    "traditional_chinese": "輻射-對流模型",
+    "definition_cht": "指模擬或描述「輻射-對流模型」相關現象之概念模型、數值模式或理論架構。"
+  },
+  {
+    "english": "radiatively active gas",
+    "traditional_chinese": "輻射活性氣體",
+    "definition_cht": "指與「輻射活性氣體」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiator",
+    "traditional_chinese": "散熱器",
+    "definition_cht": "指與「散熱器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiatus",
+    "traditional_chinese": "放射狀",
+    "definition_cht": "指與「放射狀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio acoustic sounding system",
+    "traditional_chinese": "無線電聲學探測系統",
+    "definition_cht": "指與「無線電聲學探測系統」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio atmometer",
+    "traditional_chinese": "無線電氣壓計",
+    "definition_cht": "指與「無線電氣壓計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio beacon",
+    "traditional_chinese": "無線電信標",
+    "definition_cht": "指與「無線電信標」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Radio blackout",
+    "traditional_chinese": "無線電停電",
+    "definition_cht": "指與「無線電停電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio climatology",
+    "traditional_chinese": "無線電氣候學",
+    "definition_cht": "指與「無線電氣候學」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio direction finder",
+    "traditional_chinese": "無線電測向儀",
+    "definition_cht": "指與「無線電測向儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio direction finding",
+    "traditional_chinese": "無線電測向",
+    "definition_cht": "指與「無線電測向」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Radio duct",
+    "traditional_chinese": "無線電導管",
+    "definition_cht": "指與「無線電導管」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio frequency",
+    "traditional_chinese": "無線電頻率",
+    "definition_cht": "指與「無線電頻率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio frequency band",
+    "traditional_chinese": "無線電頻段",
+    "definition_cht": "指與「無線電頻段」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio hole",
+    "traditional_chinese": "無線電孔",
+    "definition_cht": "指與「無線電孔」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio horizon",
+    "traditional_chinese": "無線電地平線",
+    "definition_cht": "指與「無線電地平線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio meteorology",
+    "traditional_chinese": "無線電氣象學",
+    "definition_cht": "指與「無線電氣象學」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio navigation aid",
+    "traditional_chinese": "無線電導航設備",
+    "definition_cht": "指與「無線電導航設備」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio sounding",
+    "traditional_chinese": "無線電探測",
+    "definition_cht": "指與「無線電探測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio source",
+    "traditional_chinese": "無線電源",
+    "definition_cht": "指與「無線電源」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radio wave",
+    "traditional_chinese": "無線電波",
+    "definition_cht": "指與「無線電波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。"
+  },
+  {
+    "english": "radio waves",
+    "traditional_chinese": "無線電波",
+    "definition_cht": "指與「無線電波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。"
+  },
+  {
+    "english": "radio wind observation",
+    "traditional_chinese": "無線電風觀測",
+    "definition_cht": "指與「無線電風觀測」相關的風場、局地風、環流或風速風向特徵。"
+  },
+  {
+    "english": "radioactive carbon",
+    "traditional_chinese": "放射性碳",
+    "definition_cht": "指與「放射性碳」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radioactive dating",
+    "traditional_chinese": "放射性定年",
+    "definition_cht": "指與「放射性定年」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radioactive decay",
+    "traditional_chinese": "放射性衰變",
+    "definition_cht": "指與「放射性衰變」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radioactive fallout",
+    "traditional_chinese": "放射性沉降物",
+    "definition_cht": "指與「放射性沉降物」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radioactive gas",
+    "traditional_chinese": "放射性氣體",
+    "definition_cht": "指與「放射性氣體」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radioactive precipitation",
+    "traditional_chinese": "放射性降水",
+    "definition_cht": "指與降水型態、降水量、形成機制或其統計分布相關的專業術語。"
+  },
+  {
+    "english": "radioactive snow gauge",
+    "traditional_chinese": "放射性雪計",
+    "definition_cht": "指與「放射性雪計」相關的降雪、積雪、雪晶微物理或雪文過程。"
+  },
+  {
+    "english": "radioactive-particle ionization",
+    "traditional_chinese": "放射性粒子電離",
+    "definition_cht": "指與「放射性粒子電離」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radioactivity",
+    "traditional_chinese": "放射性",
+    "definition_cht": "指與「放射性」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiomaximograph",
+    "traditional_chinese": "放射最大記錄儀",
+    "definition_cht": "指與「放射最大記錄儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiometer",
+    "traditional_chinese": "輻射計",
+    "definition_cht": "指與「輻射計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiometry",
+    "traditional_chinese": "輻射測量",
+    "definition_cht": "指與「輻射測量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Radiosonde",
+    "traditional_chinese": "無線電探空儀",
+    "definition_cht": "指與「無線電探空儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiosonde balloon",
+    "traditional_chinese": "無線電探空儀氣球",
+    "definition_cht": "指與「無線電探空儀氣球」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radiosonde ground equipment",
+    "traditional_chinese": "無線電探空儀地面設備",
+    "definition_cht": "指與「無線電探空儀地面設備」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Radiosonde observation",
+    "traditional_chinese": "無線電探空儀觀測",
+    "definition_cht": "指與「無線電探空儀觀測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Radiosonde recorder",
+    "traditional_chinese": "無線電探空儀記錄器",
+    "definition_cht": "指與「無線電探空儀記錄器」相關的觀測紀錄、資料登錄或長期統計結果。"
+  },
+  {
+    "english": "radiosonde station",
+    "traditional_chinese": "無線電探空站",
+    "definition_cht": "指觀測站、測站、基地或固定量測位置相關之專業名稱。"
+  },
+  {
+    "english": "radiosonde system",
+    "traditional_chinese": "無線電探空儀系統",
+    "definition_cht": "指與「無線電探空儀系統」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Radiosonde transmitter",
+    "traditional_chinese": "無線電探空儀發射機",
+    "definition_cht": "指與「無線電探空儀發射機」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radius of protection",
+    "traditional_chinese": "保護半徑",
+    "definition_cht": "指與「保護半徑」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radix layer",
+    "traditional_chinese": "基數層",
+    "definition_cht": "指大氣、海洋、土壤、冰雪或介質中的層狀結構與其物理性質。"
+  },
+  {
+    "english": "RADOB",
+    "traditional_chinese": "拉多布",
+    "definition_cht": "「RADOB」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "radome",
+    "traditional_chinese": "天線罩",
+    "definition_cht": "指與「天線罩」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "radon",
+    "traditional_chinese": "氡",
+    "definition_cht": "指與「氡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "raffiche",
+    "traditional_chinese": "拉菲什",
+    "definition_cht": "指與「拉菲什」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "RAFOS technology",
+    "traditional_chinese": "拉福斯技術",
+    "definition_cht": "指與「拉福斯技術」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rafted ice",
+    "traditional_chinese": "筏冰",
+    "definition_cht": "指與「筏冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ragged ceiling",
+    "traditional_chinese": "破爛的天花板",
+    "definition_cht": "指與「破爛的天花板」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "raggiatura",
+    "traditional_chinese": "拉賈圖拉",
+    "definition_cht": "指與「拉賈圖拉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rain",
+    "traditional_chinese": "雨",
+    "definition_cht": "指與「雨」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain and snow mixed",
+    "traditional_chinese": "雨雪混合",
+    "definition_cht": "指與「雨雪混合」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain attenuation",
+    "traditional_chinese": "雨衰",
+    "definition_cht": "指與「雨衰」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain cloud",
+    "traditional_chinese": "雨雲",
+    "definition_cht": "指與「雨雲」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain crust",
+    "traditional_chinese": "雨殼",
+    "definition_cht": "指與「雨殼」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain day",
+    "traditional_chinese": "下雨天",
+    "definition_cht": "指與「下雨天」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain factor",
+    "traditional_chinese": "降雨因素",
+    "definition_cht": "指與「降雨因素」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain forest",
+    "traditional_chinese": "雨林",
+    "definition_cht": "指與「雨林」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain forest climate",
+    "traditional_chinese": "雨林氣候",
+    "definition_cht": "指與「雨林氣候」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain gauge",
+    "traditional_chinese": "雨量計",
+    "definition_cht": "指與「雨量計」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain making",
+    "traditional_chinese": "造雨",
+    "definition_cht": "指與「造雨」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain shadow",
+    "traditional_chinese": "雨影",
+    "definition_cht": "指與「雨影」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain shower",
+    "traditional_chinese": "陣雨",
+    "definition_cht": "指與「陣雨」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain simulator",
+    "traditional_chinese": "雨模擬器",
+    "definition_cht": "指與「雨模擬器」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain stage",
+    "traditional_chinese": "雨階段",
+    "definition_cht": "指與「雨階段」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain stimulation by artificial means",
+    "traditional_chinese": "人工降雨刺激",
+    "definition_cht": "指與「人工降雨刺激」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain washout",
+    "traditional_chinese": "雨水沖刷",
+    "definition_cht": "指與「雨水沖刷」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain-gauge shield",
+    "traditional_chinese": "雨量計防護罩",
+    "definition_cht": "指與「雨量計防護罩」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain-intensity gauge",
+    "traditional_chinese": "雨強計",
+    "definition_cht": "指與「雨強計」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rain-out",
+    "traditional_chinese": "下雨",
+    "definition_cht": "指與「下雨」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainband",
+    "traditional_chinese": "雨帶",
+    "definition_cht": "指與「雨帶」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainbow",
+    "traditional_chinese": "彩虹",
+    "definition_cht": "指與「彩虹」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "raindrop",
+    "traditional_chinese": "雨滴",
+    "definition_cht": "指與「雨滴」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "raindrop size distribution",
+    "traditional_chinese": "雨滴尺寸分佈",
+    "definition_cht": "指與「雨滴尺寸分佈」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "raindrop spectrograph",
+    "traditional_chinese": "雨滴光譜儀",
+    "definition_cht": "指與「雨滴光譜儀」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall",
+    "traditional_chinese": "雨量",
+    "definition_cht": "指與「雨量」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall distribution",
+    "traditional_chinese": "降雨分佈",
+    "definition_cht": "指與「降雨分佈」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall duration",
+    "traditional_chinese": "降雨持續時間",
+    "definition_cht": "指與「降雨持續時間」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall excess",
+    "traditional_chinese": "降雨過多",
+    "definition_cht": "指與「降雨過多」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall frequency",
+    "traditional_chinese": "降雨頻率",
+    "definition_cht": "指與「降雨頻率」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall intensity pattern",
+    "traditional_chinese": "降雨強度模式",
+    "definition_cht": "指與「降雨強度模式」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall intensity return period",
+    "traditional_chinese": "降雨強度再現期",
+    "definition_cht": "指與「降雨強度再現期」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall loss",
+    "traditional_chinese": "降雨量損失",
+    "definition_cht": "指與「降雨量損失」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall rate",
+    "traditional_chinese": "降雨率",
+    "definition_cht": "指與「降雨率」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall regime",
+    "traditional_chinese": "降雨狀況",
+    "definition_cht": "指與「降雨狀況」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainfall station",
+    "traditional_chinese": "雨量站",
+    "definition_cht": "指與「雨量站」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainstorm",
+    "traditional_chinese": "暴雨",
+    "definition_cht": "指與「暴雨」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainy climate",
+    "traditional_chinese": "多雨的氣候",
+    "definition_cht": "指與「多雨的氣候」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "rainy season",
+    "traditional_chinese": "雨季",
+    "definition_cht": "指與「雨季」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "ram penetrometer",
+    "traditional_chinese": "柱塞貫入儀",
+    "definition_cht": "指與「柱塞貫入儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ramp structure",
+    "traditional_chinese": "坡道結構",
+    "definition_cht": "指與「坡道結構」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ramsonde",
+    "traditional_chinese": "拉姆松德",
+    "definition_cht": "指與「拉姆松德」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "random",
+    "traditional_chinese": "隨機的",
+    "definition_cht": "指與「隨機的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "random error",
+    "traditional_chinese": "隨機誤差",
+    "definition_cht": "指與「隨機誤差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "random forecast",
+    "traditional_chinese": "隨機預測",
+    "definition_cht": "指與「隨機預測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "random numbers",
+    "traditional_chinese": "隨機數",
+    "definition_cht": "指與「隨機數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "random process",
+    "traditional_chinese": "隨機過程",
+    "definition_cht": "指與「隨機過程」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "random sample",
+    "traditional_chinese": "隨機樣本",
+    "definition_cht": "指與「隨機樣本」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "random sea",
+    "traditional_chinese": "隨機海",
+    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。"
+  },
+  {
+    "english": "random variable",
+    "traditional_chinese": "隨機變數",
+    "definition_cht": "指與「隨機變數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "random walk model",
+    "traditional_chinese": "隨機遊走模型",
+    "definition_cht": "指模擬或描述「隨機遊走模型」相關現象之概念模型、數值模式或理論架構。"
+  },
+  {
+    "english": "randomization",
+    "traditional_chinese": "隨機化",
+    "definition_cht": "指與「隨機化」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "randomized seeding trial",
+    "traditional_chinese": "隨機播種試驗",
+    "definition_cht": "指與「隨機播種試驗」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "randomness",
+    "traditional_chinese": "隨機性",
+    "definition_cht": "指與「隨機性」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "range",
+    "traditional_chinese": "範圍",
+    "definition_cht": "指與「範圍」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range aliasing",
+    "traditional_chinese": "範圍別名",
+    "definition_cht": "指與「範圍別名」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range attenuation",
+    "traditional_chinese": "距離衰減",
+    "definition_cht": "指與「距離衰減」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range distortion",
+    "traditional_chinese": "範圍失真",
+    "definition_cht": "指與「範圍失真」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range error",
+    "traditional_chinese": "範圍誤差",
+    "definition_cht": "指與「範圍誤差」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range gate",
+    "traditional_chinese": "距離門",
+    "definition_cht": "指與「距離門」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range marker",
+    "traditional_chinese": "範圍標記",
+    "definition_cht": "指與「範圍標記」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range normalization",
+    "traditional_chinese": "範圍歸一化",
+    "definition_cht": "指與「範圍歸一化」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range resolution",
+    "traditional_chinese": "距離分辨率",
+    "definition_cht": "指與「距離分辨率」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "range–height indicator",
+    "traditional_chinese": "範圍-高度指示器",
+    "definition_cht": "指與「範圍-高度指示器」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "Rankine temperature scale",
+    "traditional_chinese": "朗肯溫標",
+    "definition_cht": "指與「朗肯溫標」相關的溫度量、溫度場或熱狀態特徵。"
+  },
+  {
+    "english": "Rankine vortex",
+    "traditional_chinese": "朗肯渦旋",
+    "definition_cht": "指與渦旋、旋渦或旋轉流場相關的動力結構。"
+  },
+  {
+    "english": "RAOB",
+    "traditional_chinese": "RAOB",
+    "definition_cht": "「RAOB」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "Raoult's law",
+    "traditional_chinese": "拉烏爾定律",
+    "definition_cht": "指與「拉烏爾定律」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rapid distortion theory",
+    "traditional_chinese": "快速畸變理論",
+    "definition_cht": "指與「快速畸變理論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。"
+  },
+  {
+    "english": "rapid interval imaging",
+    "traditional_chinese": "快速間隔成像",
+    "definition_cht": "指與「快速間隔成像」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rapid interval scan",
+    "traditional_chinese": "快速間隔掃描",
+    "definition_cht": "指與「快速間隔掃描」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rare gases",
+    "traditional_chinese": "稀有氣體",
+    "definition_cht": "指與「稀有氣體」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rare optical phenomenon",
+    "traditional_chinese": "罕見的光現象",
+    "definition_cht": "指與「罕見的光現象」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "RAREP",
+    "traditional_chinese": "雷普",
+    "definition_cht": "「RAREP」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "RASAPH",
+    "traditional_chinese": "拉薩菲",
+    "definition_cht": "「RASAPH」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "RASS",
+    "traditional_chinese": "拉斯",
+    "definition_cht": "「RASS」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "rate coefficient",
+    "traditional_chinese": "比率係數",
+    "definition_cht": "指與「比率係數」相關的變化率、速率或通量強度，用於量化單位時間內的增減情形。"
+  },
+  {
+    "english": "rate constants",
+    "traditional_chinese": "速率常數",
+    "definition_cht": "指與「速率常數」相關的變化率、速率或通量強度，用於量化單位時間內的增減情形。"
+  },
+  {
+    "english": "rate of accretion",
+    "traditional_chinese": "吸積率",
+    "definition_cht": "指與「吸積率」相關的變化率、速率或通量強度，用於量化單位時間內的增減情形。"
+  },
+  {
+    "english": "rate-of-climb indicator",
+    "traditional_chinese": "爬升率指標",
+    "definition_cht": "指與「爬升率指標」相關的變化率、速率或通量強度，用於量化單位時間內的增減情形。"
+  },
+  {
+    "english": "rating curve",
+    "traditional_chinese": "評級曲線",
+    "definition_cht": "指與「評級曲線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rating flume",
+    "traditional_chinese": "額定水槽",
+    "definition_cht": "指與「額定水槽」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rational method",
+    "traditional_chinese": "理性方法",
+    "definition_cht": "指「理性方法」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。"
+  },
+  {
+    "english": "raw",
+    "traditional_chinese": "生的",
+    "definition_cht": "指與「生的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "raw moment",
+    "traditional_chinese": "原始時刻",
+    "definition_cht": "指與「原始時刻」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "raw water",
+    "traditional_chinese": "原水",
+    "definition_cht": "指與「原水」相關的水體、水文狀態、水量平衡或含水特徵。"
+  },
+  {
+    "english": "rawin",
+    "traditional_chinese": "羅文",
+    "definition_cht": "指與「羅文」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rawin target",
+    "traditional_chinese": "羅文目標",
+    "definition_cht": "指與「羅文目標」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rawinsonde",
+    "traditional_chinese": "羅溫探空儀",
+    "definition_cht": "指與「羅溫探空儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rawinsonde observation",
+    "traditional_chinese": "羅文探空儀觀測",
+    "definition_cht": "指與「羅文探空儀觀測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ray",
+    "traditional_chinese": "射線",
+    "definition_cht": "指與「射線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ray tracing",
+    "traditional_chinese": "光線追蹤",
+    "definition_cht": "指與「光線追蹤」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rayleigh atmosphere",
+    "traditional_chinese": "瑞利氣氛",
+    "definition_cht": "指與「瑞利氣氛」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rayleigh number",
+    "traditional_chinese": "瑞利數",
+    "definition_cht": "指與「瑞利數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rayleigh optical depth",
+    "traditional_chinese": "瑞利光學深度",
+    "definition_cht": "指與「瑞利光學深度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rayleigh phase function",
+    "traditional_chinese": "瑞利相函數",
+    "definition_cht": "指與「瑞利相函數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rayleigh scattering",
+    "traditional_chinese": "瑞利散射",
+    "definition_cht": "指與「瑞利散射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rayleigh wave",
+    "traditional_chinese": "瑞利波",
+    "definition_cht": "指與「瑞利波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。"
+  },
+  {
+    "english": "Rayleigh–Bénard convection",
+    "traditional_chinese": "瑞利-貝納德對流",
+    "definition_cht": "指與「瑞利-貝納德對流」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rayleigh's formula",
+    "traditional_chinese": "瑞利公式",
+    "definition_cht": "指與「瑞利公式」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rayleigh's scattering law",
+    "traditional_chinese": "瑞利散射定律",
+    "definition_cht": "指與「瑞利散射定律」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "RDF",
+    "traditional_chinese": "RDF",
+    "definition_cht": "「RDF」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "reach",
+    "traditional_chinese": "抵達",
+    "definition_cht": "指與「抵達」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reaction kinetics",
+    "traditional_chinese": "反應動力學",
+    "definition_cht": "指與「反應動力學」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reaction order",
+    "traditional_chinese": "反應順序",
+    "definition_cht": "指與「反應順序」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reaction rate",
+    "traditional_chinese": "反應速度",
+    "definition_cht": "指與「反應速度」相關的變化率、速率或通量強度，用於量化單位時間內的增減情形。"
+  },
+  {
+    "english": "real time",
+    "traditional_chinese": "即時的",
+    "definition_cht": "指與「即時的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "real-time processing",
+    "traditional_chinese": "即時處理",
+    "definition_cht": "指與「即時處理」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "real-time transmission",
+    "traditional_chinese": "即時傳輸",
+    "definition_cht": "指與「即時傳輸」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reanalysis",
+    "traditional_chinese": "重新分析",
+    "definition_cht": "指與「重新分析」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rear of a depression",
+    "traditional_chinese": "凹陷的後方",
+    "definition_cht": "指與「凹陷的後方」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rear-inflow jet",
+    "traditional_chinese": "後流入噴射",
+    "definition_cht": "指與「後流入噴射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Reaumur temperature scale",
+    "traditional_chinese": "雷奧米爾溫標",
+    "definition_cht": "指與「雷奧米爾溫標」相關的溫度量、溫度場或熱狀態特徵。"
+  },
+  {
+    "english": "rebat",
+    "traditional_chinese": "回扣",
+    "definition_cht": "指與「回扣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reboyo",
+    "traditional_chinese": "雷博約",
+    "definition_cht": "指與「雷博約」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recco",
+    "traditional_chinese": "雷科",
+    "definition_cht": "指與「雷科」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "RECCO code",
+    "traditional_chinese": "雷科代碼",
+    "definition_cht": "指與「雷科代碼」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "received power",
+    "traditional_chinese": "接收功率",
+    "definition_cht": "指與「接收功率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "receiver",
+    "traditional_chinese": "接收者",
+    "definition_cht": "指與「接收者」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "receiver (noise) temperature",
+    "traditional_chinese": "接收器（雜訊）溫度",
+    "definition_cht": "指與「接收器（雜訊）溫度」相關的溫度量、溫度場或熱狀態特徵。"
+  },
+  {
+    "english": "receiver gain",
+    "traditional_chinese": "接收器增益",
+    "definition_cht": "指與「接收器增益」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recession",
+    "traditional_chinese": "經濟衰退",
+    "definition_cht": "指與「經濟衰退」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recession curve",
+    "traditional_chinese": "衰退曲線",
+    "definition_cht": "指與「衰退曲線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recharge",
+    "traditional_chinese": "儲值",
+    "definition_cht": "指與「儲值」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recharge area",
+    "traditional_chinese": "補給區",
+    "definition_cht": "指與「補給區」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recharge capacity",
+    "traditional_chinese": "充電能力",
+    "definition_cht": "指與「充電能力」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recirculation",
+    "traditional_chinese": "再循環",
+    "definition_cht": "指與「再循環」相關的環流型態、閉合流動結構或大尺度運動配置。"
+  },
+  {
+    "english": "recombination",
+    "traditional_chinese": "重組",
+    "definition_cht": "指與「重組」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recombination coefficient",
+    "traditional_chinese": "複合係數",
+    "definition_cht": "指「複合係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。"
+  },
+  {
+    "english": "recombination energy",
+    "traditional_chinese": "重組能",
+    "definition_cht": "指與「重組能」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recon",
+    "traditional_chinese": "偵察",
+    "definition_cht": "指與「偵察」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reconnaissance",
+    "traditional_chinese": "偵察",
+    "definition_cht": "指與「偵察」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "record observation",
+    "traditional_chinese": "記錄觀察",
+    "definition_cht": "指與「記錄觀察」相關的觀測紀錄、資料登錄或長期統計結果。"
+  },
+  {
+    "english": "recording albedometer",
+    "traditional_chinese": "記錄反照率計",
+    "definition_cht": "指與「記錄反照率計」相關的觀測紀錄、資料登錄或長期統計結果。"
+  },
+  {
+    "english": "recording instrument",
+    "traditional_chinese": "錄音儀器",
+    "definition_cht": "指與「錄音儀器」相關的觀測紀錄、資料登錄或長期統計結果。"
+  },
+  {
+    "english": "recording potentiometer",
+    "traditional_chinese": "錄音電位器",
+    "definition_cht": "指與「錄音電位器」相關的觀測紀錄、資料登錄或長期統計結果。"
+  },
+  {
+    "english": "recording rain gauge",
+    "traditional_chinese": "記錄雨量計",
+    "definition_cht": "指與「記錄雨量計」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "recovery test",
+    "traditional_chinese": "恢復測試",
+    "definition_cht": "指與「恢復測試」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recovery time",
+    "traditional_chinese": "恢復時間",
+    "definition_cht": "指與「恢復時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recurrence formula",
+    "traditional_chinese": "遞推公式",
+    "definition_cht": "指與「遞推公式」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recurvature",
+    "traditional_chinese": "反曲",
+    "definition_cht": "指與「反曲」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Recurving tropical cyclone",
+    "traditional_chinese": "捲土重來的熱帶氣旋",
+    "definition_cht": "指與「捲土重來的熱帶氣旋」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "recycled water",
+    "traditional_chinese": "循環水",
+    "definition_cht": "指與「循環水」相關的水體、水文狀態、水量平衡或含水特徵。"
+  },
+  {
+    "english": "red flash",
+    "traditional_chinese": "紅色閃光",
+    "definition_cht": "指與「紅色閃光」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "red noise",
+    "traditional_chinese": "紅噪音",
+    "definition_cht": "指與「紅噪音」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Red Sea Water",
+    "traditional_chinese": "紅色海水",
+    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。"
+  },
+  {
+    "english": "red snow",
+    "traditional_chinese": "紅雪",
+    "definition_cht": "指與「紅雪」相關的降雪、積雪、雪晶微物理或雪文過程。"
+  },
+  {
+    "english": "red tide",
+    "traditional_chinese": "赤潮",
+    "definition_cht": "指與「赤潮」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reduced gravity",
+    "traditional_chinese": "重力減小",
+    "definition_cht": "指與「重力減小」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reduced grid",
+    "traditional_chinese": "縮小網格",
+    "definition_cht": "指與「縮小網格」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reduced pressure",
+    "traditional_chinese": "減壓",
+    "definition_cht": "指與「減壓」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。"
+  },
+  {
+    "english": "reduction",
+    "traditional_chinese": "減少",
+    "definition_cht": "指與「減少」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reduction of pressure to a standard level",
+    "traditional_chinese": "將壓力降低至標準水平",
+    "definition_cht": "指與「將壓力降低至標準水平」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。"
+  },
+  {
+    "english": "reduction of temperature to mean sea level",
+    "traditional_chinese": "溫度降低至平均海平面",
+    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。"
+  },
+  {
+    "english": "Reech number",
+    "traditional_chinese": "里奇數",
+    "definition_cht": "指與「里奇數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reference crop evaporation",
+    "traditional_chinese": "參考作物蒸發量",
+    "definition_cht": "指「參考作物蒸發量」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。"
+  },
+  {
+    "english": "reflectance",
+    "traditional_chinese": "反射率",
+    "definition_cht": "指與「反射率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reflection",
+    "traditional_chinese": "反射",
+    "definition_cht": "指與「反射」相關的反射作用、反照特性或回波訊號，用於輻射、遙測或波動傳播分析。"
+  },
+  {
+    "english": "reflection coefficient",
+    "traditional_chinese": "反射係數",
+    "definition_cht": "指與「反射係數」相關的反射作用、反照特性或回波訊號，用於輻射、遙測或波動傳播分析。"
+  },
+  {
+    "english": "reflection rainbow",
+    "traditional_chinese": "反射彩虹",
+    "definition_cht": "指與「反射彩虹」相關的降雨、雨量、雨滴微物理或降水分析概念。"
+  },
+  {
+    "english": "reflectivity",
+    "traditional_chinese": "反射率",
+    "definition_cht": "指與「反射率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reflectivity factor",
+    "traditional_chinese": "反射率係數",
+    "definition_cht": "指與「反射率係數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reflector",
+    "traditional_chinese": "反射鏡",
+    "definition_cht": "指與「反射鏡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "refraction",
+    "traditional_chinese": "折射",
+    "definition_cht": "指與「折射」相關的折射現象，即波動或輻射通過介質時因速度改變而偏折。"
+  },
+  {
+    "english": "refraction coefficient",
+    "traditional_chinese": "折射係數",
+    "definition_cht": "指與「折射係數」相關的折射現象，即波動或輻射通過介質時因速度改變而偏折。"
+  },
+  {
+    "english": "refraction diagram",
+    "traditional_chinese": "折射圖",
+    "definition_cht": "指與「折射圖」相關的折射現象，即波動或輻射通過介質時因速度改變而偏折。"
+  },
+  {
+    "english": "refraction of water waves",
+    "traditional_chinese": "水波的折射",
+    "definition_cht": "指與「水波的折射」相關的折射現象，即波動或輻射通過介質時因速度改變而偏折。"
+  },
+  {
+    "english": "refractive index",
+    "traditional_chinese": "折射率",
+    "definition_cht": "指以「折射率」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱與變化。"
+  },
+  {
+    "english": "refractivity",
+    "traditional_chinese": "折射率",
+    "definition_cht": "指與「折射率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "refractometer",
+    "traditional_chinese": "折射計",
+    "definition_cht": "指與「折射計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "regelation",
+    "traditional_chinese": "重新凝結",
+    "definition_cht": "指與「重新凝結」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "regeneration of a depression",
+    "traditional_chinese": "憂鬱症的再生",
+    "definition_cht": "指「憂鬱症的再生」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。"
+  },
+  {
+    "english": "regime",
+    "traditional_chinese": "政權",
+    "definition_cht": "指與「政權」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "regime channel",
+    "traditional_chinese": "政權頻道",
+    "definition_cht": "指與「政權頻道」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "region of influence",
+    "traditional_chinese": "影響範圍",
+    "definition_cht": "指以「影響範圍」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "regional air pollution",
+    "traditional_chinese": "區域空氣污染",
+    "definition_cht": "指以「區域空氣污染」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "regional analysis",
+    "traditional_chinese": "區域分析",
+    "definition_cht": "指以「區域分析」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "regional basic synoptic network",
+    "traditional_chinese": "區域基礎天氣網",
+    "definition_cht": "指以「區域基礎天氣網」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "regional broadcast",
+    "traditional_chinese": "區域廣播",
+    "definition_cht": "指以「區域廣播」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "regional climate model",
+    "traditional_chinese": "區域氣候模型",
+    "definition_cht": "指以「區域氣候模型」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "regional forecast",
+    "traditional_chinese": "區域預報",
+    "definition_cht": "指以「區域預報」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "Regional Meteorological Center",
+    "traditional_chinese": "區域氣像中心",
+    "definition_cht": "指以「區域氣像中心」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "Regional Meteorological Telecommunications Network",
+    "traditional_chinese": "區域氣象通訊網",
+    "definition_cht": "指以「區域氣象通訊網」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。"
+  },
+  {
+    "english": "register",
+    "traditional_chinese": "登記",
+    "definition_cht": "指與「登記」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "regression",
+    "traditional_chinese": "回歸",
+    "definition_cht": "指與「回歸」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "regression analysis",
+    "traditional_chinese": "迴歸分析",
+    "definition_cht": "指與「迴歸分析」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "regression coefficient",
+    "traditional_chinese": "迴歸係數",
+    "definition_cht": "指「迴歸係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。"
+  },
+  {
+    "english": "regression equation",
+    "traditional_chinese": "迴歸方程",
+    "definition_cht": "描述「迴歸方程」相關物理量之間關係、守恆條件或近似動力平衡的方程式。"
+  },
+  {
+    "english": "regression line",
+    "traditional_chinese": "迴歸線",
+    "definition_cht": "指與「迴歸線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "regular broadcast",
+    "traditional_chinese": "定期廣播",
+    "definition_cht": "指與「定期廣播」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative angular momentum",
+    "traditional_chinese": "相對角動量",
+    "definition_cht": "指與「相對角動量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative coordinate system",
+    "traditional_chinese": "相對座標系",
+    "definition_cht": "指與「相對座標系」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative current",
+    "traditional_chinese": "相對電流",
+    "definition_cht": "指與「相對電流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。"
+  },
+  {
+    "english": "relative evaporation",
+    "traditional_chinese": "相對蒸發量",
+    "definition_cht": "指「相對蒸發量」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。"
+  },
+  {
+    "english": "relative frequency",
+    "traditional_chinese": "相對頻率",
+    "definition_cht": "指與「相對頻率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Relative humidity",
+    "traditional_chinese": "相對濕度",
+    "definition_cht": "指與空氣濕度、水汽含量及其時空分布相關的物理量或概念。"
+  },
+  {
+    "english": "relative humidity with respect to ice",
+    "traditional_chinese": "相對於冰的相對濕度",
+    "definition_cht": "指與空氣濕度、水汽含量及其時空分布相關的物理量或概念。"
+  },
+  {
+    "english": "relative ionospheric opacity meter",
+    "traditional_chinese": "相對電離層不透明度計",
+    "definition_cht": "指與「相對電離層不透明度計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative momentum",
+    "traditional_chinese": "相對動量",
+    "definition_cht": "指與「相對動量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative permeability",
+    "traditional_chinese": "相對滲透率",
+    "definition_cht": "指與「相對滲透率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative permittivity",
+    "traditional_chinese": "相對介電常數",
+    "definition_cht": "指與「相對介電常數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative reduction",
+    "traditional_chinese": "相對減少",
+    "definition_cht": "指與「相對減少」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative sea level",
+    "traditional_chinese": "相對海平面",
+    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。"
+  },
+  {
+    "english": "Relative sunspot number",
+    "traditional_chinese": "相對太陽黑子數",
+    "definition_cht": "指與「相對太陽黑子數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relative velocity",
+    "traditional_chinese": "相對速度",
+    "definition_cht": "指與「相對速度」相關的速度向量、運移速度或流速結構。"
+  },
+  {
+    "english": "relative vorticity",
+    "traditional_chinese": "相對渦度",
+    "definition_cht": "指與「相對渦度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relaxation method",
+    "traditional_chinese": "放鬆法",
+    "definition_cht": "指用於分析、估算、觀測、計算或作業處理「放鬆法」之方法、程序或技術。"
+  },
+  {
+    "english": "relaxation of a trough",
+    "traditional_chinese": "波谷鬆弛",
+    "definition_cht": "指與槽線、低壓槽或波谷結構相關的天氣與流場特徵。"
+  },
+  {
+    "english": "relaxation time",
+    "traditional_chinese": "放鬆時間",
+    "definition_cht": "指與「放鬆時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "relaxed eddy accumulation",
+    "traditional_chinese": "鬆弛渦流累積",
+    "definition_cht": "指與「鬆弛渦流累積」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "remote sensing",
+    "traditional_chinese": "遙感",
+    "definition_cht": "指與「遙感」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "representative basin",
+    "traditional_chinese": "代表性盆地",
+    "definition_cht": "指與「代表性盆地」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "representative meteorological observation",
+    "traditional_chinese": "代表性氣象觀測",
+    "definition_cht": "指與「代表性氣象觀測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "representativeness",
+    "traditional_chinese": "代表性",
+    "definition_cht": "指與「代表性」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Research to Operations",
+    "traditional_chinese": "研究到運營",
+    "definition_cht": "指「研究到運營」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。"
+  },
+  {
+    "english": "réseau",
+    "traditional_chinese": "網格",
+    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。"
+  },
+  {
+    "english": "reservoir",
+    "traditional_chinese": "水庫",
+    "definition_cht": "指與「水庫」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reservoir compounds",
+    "traditional_chinese": "儲庫化合物",
+    "definition_cht": "指與「儲庫化合物」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reshabar",
+    "traditional_chinese": "雷沙巴爾",
+    "definition_cht": "指與「雷沙巴爾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "residence time",
+    "traditional_chinese": "停留時間",
+    "definition_cht": "指與「停留時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "residual",
+    "traditional_chinese": "殘差",
+    "definition_cht": "指與「殘差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "residual depression storage",
+    "traditional_chinese": "殘餘憂鬱儲存",
+    "definition_cht": "指與「殘餘憂鬱儲存」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "residual layer",
+    "traditional_chinese": "殘留層",
+    "definition_cht": "指大氣、海洋、土壤、冰雪或介質中的層狀結構與其物理性質。"
+  },
+  {
+    "english": "residual mass curve",
+    "traditional_chinese": "殘餘質量曲線",
+    "definition_cht": "指與「殘餘質量曲線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Residual variance",
+    "traditional_chinese": "殘差方差",
+    "definition_cht": "指與「殘差方差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Resistance",
+    "traditional_chinese": "反抗",
+    "definition_cht": "指與「反抗」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "resistance thermometer",
+    "traditional_chinese": "電阻溫度計",
+    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。"
+  },
+  {
+    "english": "resistivity",
+    "traditional_chinese": "電阻率",
+    "definition_cht": "指與「電阻率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Resolution",
+    "traditional_chinese": "解決",
+    "definition_cht": "指與「解決」相關的解析度或分辨能力，可描述時間、空間、光譜或儀器辨識精細程度。"
+  },
+  {
+    "english": "resonance",
+    "traditional_chinese": "諧振",
+    "definition_cht": "指與「諧振」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "resonance fluorescence",
+    "traditional_chinese": "共振螢光",
+    "definition_cht": "指與「共振螢光」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "resonance theory",
+    "traditional_chinese": "共振理論",
+    "definition_cht": "指與「共振理論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。"
+  },
+  {
+    "english": "resonance trough",
+    "traditional_chinese": "共振槽",
+    "definition_cht": "指與槽線、低壓槽或波谷結構相關的天氣與流場特徵。"
+  },
+  {
+    "english": "resonance waves over hills",
+    "traditional_chinese": "山上的共振波",
+    "definition_cht": "指與「山上的共振波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。"
+  },
+  {
+    "english": "resonance waves over thermals",
+    "traditional_chinese": "熱氣流上的共振波",
+    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。"
+  },
+  {
+    "english": "resonator",
+    "traditional_chinese": "諧振器",
+    "definition_cht": "指與「諧振器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "responder",
+    "traditional_chinese": "回應者",
+    "definition_cht": "指與「回應者」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "response analysis",
+    "traditional_chinese": "回應分析",
+    "definition_cht": "指系統對「回應分析」所代表外力、擾動或邊界條件變化的反應特徵。"
+  },
+  {
+    "english": "response function",
+    "traditional_chinese": "回應函數",
+    "definition_cht": "指系統對「回應函數」所代表外力、擾動或邊界條件變化的反應特徵。"
+  },
+  {
+    "english": "responsive parameterization",
+    "traditional_chinese": "響應式參數化",
+    "definition_cht": "指與「響應式參數化」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rest mass",
+    "traditional_chinese": "靜止品質",
+    "definition_cht": "指與「靜止品質」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "restoring",
+    "traditional_chinese": "恢復",
+    "definition_cht": "指與「恢復」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "resultant",
+    "traditional_chinese": "結果",
+    "definition_cht": "指與「結果」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "resultant wind",
+    "traditional_chinese": "合成風",
+    "definition_cht": "指與「合成風」相關的風場、局地風、環流或風速風向特徵。"
+  },
+  {
+    "english": "retarded flow",
+    "traditional_chinese": "延遲串流",
+    "definition_cht": "指與「延遲串流」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "retarding basin",
+    "traditional_chinese": "緩緩凝池",
+    "definition_cht": "指與「緩緩凝池」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "retention curve",
+    "traditional_chinese": "保留曲線",
+    "definition_cht": "指與「保留曲線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "retention storage",
+    "traditional_chinese": "保留儲存",
+    "definition_cht": "指與「保留儲存」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "retreater",
+    "traditional_chinese": "撤退者",
+    "definition_cht": "指與「撤退者」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "retrograde depression",
+    "traditional_chinese": "逆行性憂鬱症",
+    "definition_cht": "指與「逆行性憂鬱症」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "retrograde wave",
+    "traditional_chinese": "逆行波",
+    "definition_cht": "指與「逆行波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。"
+  },
+  {
+    "english": "retrogression",
+    "traditional_chinese": "倒退",
+    "definition_cht": "指與「倒退」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "retroreflection",
+    "traditional_chinese": "逆反射",
+    "definition_cht": "指與「逆反射」相關的反射作用、反照特性或回波訊號，用於輻射、遙測或波動傳播分析。"
+  },
+  {
+    "english": "retroreflector",
+    "traditional_chinese": "後向反射器",
+    "definition_cht": "指與「後向反射器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "return flow",
+    "traditional_chinese": "回流",
+    "definition_cht": "指與「回流」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "return period",
+    "traditional_chinese": "回報期間",
+    "definition_cht": "指與「回報期間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "return stroke",
+    "traditional_chinese": "回程",
+    "definition_cht": "指與「回程」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "returning polar maritime air",
+    "traditional_chinese": "返回極地海洋空氣",
+    "definition_cht": "指與「返回極地海洋空氣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reversal of the monsoon",
+    "traditional_chinese": "季風逆轉",
+    "definition_cht": "指與「季風逆轉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reversal temperature",
+    "traditional_chinese": "反轉溫度",
+    "definition_cht": "指與「反轉溫度」相關的溫度量、溫度場或熱狀態特徵。"
+  },
+  {
+    "english": "reverse cell",
+    "traditional_chinese": "反向單元",
+    "definition_cht": "指與「反向單元」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reverse flow thermometer housing",
+    "traditional_chinese": "逆流溫度計外殼",
+    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。"
+  },
+  {
+    "english": "reverse-oriented monsoon trough",
+    "traditional_chinese": "反向季風槽",
+    "definition_cht": "指與槽線、低壓槽或波谷結構相關的天氣與流場特徵。"
+  },
+  {
+    "english": "reversible moist-adiabatic process",
+    "traditional_chinese": "可逆濕絕熱過程",
+    "definition_cht": "指與「可逆濕絕熱過程」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reversible process",
+    "traditional_chinese": "可逆過程",
+    "definition_cht": "指與「可逆過程」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "reversing current",
+    "traditional_chinese": "反向電流",
+    "definition_cht": "指與「反向電流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。"
+  },
+  {
+    "english": "reversing thermometer",
+    "traditional_chinese": "可逆溫度計",
+    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。"
+  },
+  {
+    "english": "revised local reference",
+    "traditional_chinese": "修訂後的本地參考",
+    "definition_cht": "指與「修訂後的本地參考」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "revolving storm",
+    "traditional_chinese": "旋轉風暴",
+    "definition_cht": "指與「旋轉風暴」相關的風暴系統、劇烈天氣現象或其演變特徵。"
+  },
+  {
+    "english": "Reynolds averaging",
+    "traditional_chinese": "雷諾平均",
+    "definition_cht": "指與「雷諾平均」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Reynolds effect",
+    "traditional_chinese": "雷諾效應",
+    "definition_cht": "指與「雷諾效應」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Reynolds number",
+    "traditional_chinese": "雷諾數",
+    "definition_cht": "指與「雷諾數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Reynolds stresses",
+    "traditional_chinese": "雷諾強調",
+    "definition_cht": "指流體、固體或界面所受之應力、剪應力或力學作用量。"
+  },
+  {
+    "english": "RF",
+    "traditional_chinese": "射頻",
+    "definition_cht": "「RF」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "RF signal",
+    "traditional_chinese": "射頻訊號",
+    "definition_cht": "指與「射頻訊號」相關的訊號特徵、波形、傳輸或分析結果。"
+  },
+  {
+    "english": "RHI",
+    "traditional_chinese": "RHI",
+    "definition_cht": "「RHI」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "rhumb-line course",
+    "traditional_chinese": "恆向線航向",
+    "definition_cht": "指與「恆向線航向」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ribbon lightning",
+    "traditional_chinese": "帶狀閃電",
+    "definition_cht": "指與「帶狀閃電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ribut",
+    "traditional_chinese": "肋布特",
+    "definition_cht": "指與「肋布特」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Richardson number",
+    "traditional_chinese": "理查森數",
+    "definition_cht": "指與「理查森數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ridge",
+    "traditional_chinese": "嶺",
+    "definition_cht": "指與「嶺」相關的高壓脊、波脊或地形脊狀結構，常用於描述場型延伸與分布。"
+  },
+  {
+    "english": "ridge line",
+    "traditional_chinese": "山脊線",
+    "definition_cht": "指與「山脊線」相關的高壓脊、波脊或地形脊狀結構，常用於描述場型延伸與分布。"
+  },
+  {
+    "english": "riefne",
+    "traditional_chinese": "里夫訥",
+    "definition_cht": "指與「里夫訥」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "right ascension",
+    "traditional_chinese": "赤經",
+    "definition_cht": "指與「赤經」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "right-hand rotation",
+    "traditional_chinese": "右旋",
+    "definition_cht": "指與「右旋」相關的旋轉、轉動或渦旋運動特徵，可用於描述流體、地球或儀器系統之運動。"
+  },
+  {
+    "english": "right-handed rectangular coordinates",
+    "traditional_chinese": "右手直角座標",
+    "definition_cht": "指與「右手直角座標」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rime",
+    "traditional_chinese": "霧凇",
+    "definition_cht": "指與「霧凇」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rime fog",
+    "traditional_chinese": "霧凇",
+    "definition_cht": "指與「霧凇」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rime ice",
+    "traditional_chinese": "霧凇冰",
+    "definition_cht": "指與「霧凇冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rime rod",
+    "traditional_chinese": "霧凇棒",
+    "definition_cht": "指與「霧凇棒」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rinehart projection",
+    "traditional_chinese": "萊因哈特投影",
+    "definition_cht": "指與「萊因哈特投影」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Ringelmann chart",
+    "traditional_chinese": "林格曼圖",
+    "definition_cht": "指與「林格曼圖」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rip",
+    "traditional_chinese": "撕裂",
+    "definition_cht": "指與「撕裂」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rip current",
+    "traditional_chinese": "離岸電流",
+    "definition_cht": "指與「離岸電流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。"
+  },
+  {
+    "english": "ripe",
+    "traditional_chinese": "成熟",
+    "definition_cht": "指與「成熟」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ripening of snow",
+    "traditional_chinese": "雪的成熟",
+    "definition_cht": "指與「雪的成熟」相關的降雪、積雪、雪晶微物理或雪文過程。"
+  },
+  {
+    "english": "ripple",
+    "traditional_chinese": "波紋",
+    "definition_cht": "指與「波紋」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ripple wave",
+    "traditional_chinese": "波紋波",
+    "definition_cht": "指與「波紋波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。"
+  },
+  {
+    "english": "rise time",
+    "traditional_chinese": "上升時間",
+    "definition_cht": "指與「上升時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rising limb",
+    "traditional_chinese": "上升肢體",
+    "definition_cht": "指與「上升肢體」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rising tide",
+    "traditional_chinese": "漲潮",
+    "definition_cht": "指與「漲潮」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "river",
+    "traditional_chinese": "河",
+    "definition_cht": "指與「河」相關的河川、水道或其水文地貌特徵。"
+  },
+  {
+    "english": "river basin",
+    "traditional_chinese": "流域",
+    "definition_cht": "指與「流域」相關的河川、水道或其水文地貌特徵。"
+  },
+  {
+    "english": "river forecast",
+    "traditional_chinese": "河川預報",
+    "definition_cht": "指與「河川預報」相關的河川、水道或其水文地貌特徵。"
+  },
+  {
+    "english": "river gauge",
+    "traditional_chinese": "河規",
+    "definition_cht": "指與「河規」相關的河川、水道或其水文地貌特徵。"
+  },
+  {
+    "english": "river stage",
+    "traditional_chinese": "河流舞台",
+    "definition_cht": "指與「河流舞台」相關的河川、水道或其水文地貌特徵。"
+  },
+  {
+    "english": "river surface temperature",
+    "traditional_chinese": "河川表面溫度",
+    "definition_cht": "指與「河川表面溫度」相關的河川、水道或其水文地貌特徵。"
+  },
+  {
+    "english": "river system",
+    "traditional_chinese": "河流系統",
+    "definition_cht": "指與「河流系統」相關的河川、水道或其水文地貌特徵。"
+  },
+  {
+    "english": "rmse",
+    "traditional_chinese": "均方根誤差",
+    "definition_cht": "指與「均方根誤差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "RMTN",
+    "traditional_chinese": "RMTN",
+    "definition_cht": "「RMTN」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "Road weather",
+    "traditional_chinese": "道路天氣",
+    "definition_cht": "指與「道路天氣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "roaring forties",
+    "traditional_chinese": "咆哮的四十年代",
+    "definition_cht": "指與「咆哮的四十年代」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ROB",
+    "traditional_chinese": "搶",
+    "definition_cht": "「ROB」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "Robin Hood's wind",
+    "traditional_chinese": "羅賓漢之風",
+    "definition_cht": "指與「羅賓漢之風」相關的風場、局地風、環流或風速風向特徵。"
+  },
+  {
+    "english": "robin sphere",
+    "traditional_chinese": "知更鳥球",
+    "definition_cht": "指與「知更鳥球」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Robitzsch actinograph",
+    "traditional_chinese": "羅比茲光動記錄儀",
+    "definition_cht": "指與「羅比茲光動記錄儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rockair",
+    "traditional_chinese": "搖滾樂",
+    "definition_cht": "指與「搖滾樂」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rocket",
+    "traditional_chinese": "火箭",
+    "definition_cht": "指與「火箭」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rocket lightning",
+    "traditional_chinese": "火箭閃電",
+    "definition_cht": "指與「火箭閃電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rocket-triggered lightning",
+    "traditional_chinese": "火箭引發的閃電",
+    "definition_cht": "指與「火箭引發的閃電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rocketsonde",
+    "traditional_chinese": "火箭探空儀",
+    "definition_cht": "指與「火箭探空儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ROFOR",
+    "traditional_chinese": "羅福爾",
+    "definition_cht": "「ROFOR」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "ROFOT",
+    "traditional_chinese": "羅福特",
+    "definition_cht": "「ROFOT」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "Roll",
+    "traditional_chinese": "卷",
+    "definition_cht": "指與「卷」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "roll cloud",
+    "traditional_chinese": "卷雲",
+    "definition_cht": "指與「卷雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。"
+  },
+  {
+    "english": "rollers",
+    "traditional_chinese": "滾筒",
+    "definition_cht": "指與「滾筒」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rolls",
+    "traditional_chinese": "卷",
+    "definition_cht": "指與「卷」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "ROMET",
+    "traditional_chinese": "羅美特",
+    "definition_cht": "「ROMET」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。"
+  },
+  {
+    "english": "rondada",
+    "traditional_chinese": "隆達達",
+    "definition_cht": "指與「隆達達」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Röntgen ray",
+    "traditional_chinese": "倫琴射線",
+    "definition_cht": "指與「倫琴射線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "root-mean-square error",
+    "traditional_chinese": "均方根誤差",
+    "definition_cht": "指與「均方根誤差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rope cloud",
+    "traditional_chinese": "繩雲",
+    "definition_cht": "指與「繩雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。"
+  },
+  {
+    "english": "rosau",
+    "traditional_chinese": "羅紹",
+    "definition_cht": "指與「羅紹」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rosemount temperature housing",
+    "traditional_chinese": "羅斯蒙特溫度外殼",
+    "definition_cht": "指與「羅斯蒙特溫度外殼」相關的溫度量、溫度場或熱狀態特徵。"
+  },
+  {
+    "english": "Rossby number",
+    "traditional_chinese": "羅斯比數",
+    "definition_cht": "指與「羅斯比數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rossby number similarity",
+    "traditional_chinese": "羅斯比數相似度",
+    "definition_cht": "指與「羅斯比數相似度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rossby parameter",
+    "traditional_chinese": "羅斯比參數",
+    "definition_cht": "指與「羅斯比參數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rossby radius of deformation",
+    "traditional_chinese": "羅斯貝變形半徑",
+    "definition_cht": "指與「羅斯貝變形半徑」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rossby regime",
+    "traditional_chinese": "羅斯比政權",
+    "definition_cht": "指與「羅斯比政權」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rossby wave",
+    "traditional_chinese": "羅斯比波",
+    "definition_cht": "指與「羅斯比波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。"
+  },
+  {
+    "english": "Rossby–gravity wave",
+    "traditional_chinese": "羅斯比——重力波",
+    "definition_cht": "指與「羅斯比——重力波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。"
+  },
+  {
+    "english": "rotary current",
+    "traditional_chinese": "旋轉電流",
+    "definition_cht": "指與「旋轉電流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。"
+  },
+  {
+    "english": "rotating multicylinder",
+    "traditional_chinese": "旋轉多缸",
+    "definition_cht": "指與「旋轉多缸」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rotating Reynolds number",
+    "traditional_chinese": "旋轉雷諾數",
+    "definition_cht": "指與「旋轉雷諾數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rotational",
+    "traditional_chinese": "旋轉的",
+    "definition_cht": "指與「旋轉的」相關的旋轉、轉動或渦旋運動特徵，可用於描述流體、地球或儀器系統之運動。"
+  },
+  {
+    "english": "rotational instability",
+    "traditional_chinese": "旋轉不穩定",
+    "definition_cht": "指與「旋轉不穩定」相關的旋轉、轉動或渦旋運動特徵，可用於描述流體、地球或儀器系統之運動。"
+  },
+  {
+    "english": "rotenturm wind",
+    "traditional_chinese": "旋轉風",
+    "definition_cht": "指與「旋轉風」相關的風場、局地風、環流或風速風向特徵。"
+  },
+  {
+    "english": "Rotor",
+    "traditional_chinese": "轉子",
+    "definition_cht": "指與「轉子」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "Rotor cloud",
+    "traditional_chinese": "轉子雲",
+    "definition_cht": "指與「轉子雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。"
+  },
+  {
+    "english": "rotoscope",
+    "traditional_chinese": "旋轉鏡",
+    "definition_cht": "指與「旋轉鏡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rotten ice",
+    "traditional_chinese": "爛冰",
+    "definition_cht": "指與「爛冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rough air",
+    "traditional_chinese": "惡劣的空氣",
+    "definition_cht": "指與「惡劣的空氣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "roughness sublayer",
+    "traditional_chinese": "粗糙度子層",
+    "definition_cht": "指地表、介面或材質之粗糙程度，會影響阻力、湍流交換與流場結構。"
+  },
+  {
+    "english": "roundoff error",
+    "traditional_chinese": "捨入誤差",
+    "definition_cht": "指與「捨入誤差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "route component",
+    "traditional_chinese": "路線組件",
+    "definition_cht": "指與「路線組件」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "route cross section",
+    "traditional_chinese": "路線橫斷面",
+    "definition_cht": "指與「路線橫斷面」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "route forecast",
+    "traditional_chinese": "路線預測",
+    "definition_cht": "指與「路線預測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rubber ice",
+    "traditional_chinese": "橡膠冰",
+    "definition_cht": "指與「橡膠冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rule",
+    "traditional_chinese": "規則",
+    "definition_cht": "指與「規則」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rule-based system",
+    "traditional_chinese": "基於規則的系統",
+    "definition_cht": "指與「基於規則的系統」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "rules of inference",
+    "traditional_chinese": "推理規則",
+    "definition_cht": "指與「推理規則」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。"
+  },
+  {
+    "english": "runoff",
+    "traditional_chinese": "徑流",
+    "definition_cht": "指與「徑流」相關的地表逕流、流域集水或水文輸送過程。"
+  },
+  {
+    "english": "runoff coefficient",
+    "traditional_chinese": "徑流係數",
+    "definition_cht": "指與「徑流係數」相關的地表逕流、流域集水或水文輸送過程。"
+  },
+  {
+    "english": "runoff cycle",
+    "traditional_chinese": "徑流循環",
+    "definition_cht": "指與「徑流循環」相關的地表逕流、流域集水或水文輸送過程。"
+  },
+  {
+    "english": "runoff plot",
+    "traditional_chinese": "徑流圖",
+    "definition_cht": "指與「徑流圖」相關的地表逕流、流域集水或水文輸送過程。"
+  },
+  {
+    "english": "runway elevation",
+    "traditional_chinese": "跑道標高",
+    "definition_cht": "指與航空跑道之觀測、狀態、能見度或作業條件相關的專業術語。"
+  },
+  {
+    "english": "runway observation",
+    "traditional_chinese": "跑道觀察",
+    "definition_cht": "指與航空跑道之觀測、狀態、能見度或作業條件相關的專業術語。"
+  },
+  {
+    "english": "runway temperature",
+    "traditional_chinese": "跑道溫度",
+    "definition_cht": "指與航空跑道之觀測、狀態、能見度或作業條件相關的專業術語。"
+  },
+  {
+    "english": "runway visibility",
+    "traditional_chinese": "跑道能見度",
+    "definition_cht": "指與航空跑道之觀測、狀態、能見度或作業條件相關的專業術語。"
+  },
+  {
+    "english": "runway visual range",
+    "traditional_chinese": "跑道視程",
+    "definition_cht": "指與「跑道視程」相關的距離範圍、變動區間或量測可及範圍。"
+  },
+  {
+    "english": "rush of snowmelt flood",
+    "traditional_chinese": "融雪洪流",
+    "definition_cht": "指與「融雪洪流」相關的降雪、積雪、雪晶微物理或雪文過程。"
+  },
+  {
+    "english": "RVR",
+    "traditional_chinese": "跑道視程",
+    "definition_cht": "航空氣象中用以表示飛行員在跑道中心線上可見跑道標誌或燈光距離的能見度指標，常作為起降作業與低能見度程序的重要依據。"
+  }
+]
