@@ -1,0 +1,2192 @@
+[
+  {
+    "english": "I and Q channels",
+    "traditional_chinese": "同相與正交通道",
+    "definition_cht": "在遙測、雷達或通訊接收中，將複數訊號分解為同相（I）與正交（Q）兩個分量的通道，用以重建振幅、相位與多普勒資訊。"
+  },
+  {
+    "english": "IAC",
+    "traditional_chinese": "IAC 指數／類別",
+    "definition_cht": "「IAC」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。"
+  },
+  {
+    "english": "IAS",
+    "traditional_chinese": "指示空速",
+    "definition_cht": "航空上依空速表直接讀得、尚未完全校正位置與儀器誤差的空速，是飛航操作常用之基本速度量。"
+  },
+  {
+    "english": "Ibe wind",
+    "traditional_chinese": "伊貝風",
+    "definition_cht": "指與「伊貝風」相關的風系、局地風或風場型態，著重其形成機制、風向風速分布及天氣影響。"
+  },
+  {
+    "english": "IBL",
+    "traditional_chinese": "內邊界層",
+    "definition_cht": "指下墊面性質突變後，近地層因動量、熱量與水氣重新調整而形成的內部邊界層。"
+  },
+  {
+    "english": "ICAO",
+    "traditional_chinese": "國際民用航空組織",
+    "definition_cht": "制定國際民航標準與作業程序的專門機構，其規範廣泛用於航空氣象觀測、報告、預報與飛航安全。"
+  },
+  {
+    "english": "ice",
+    "traditional_chinese": "冰",
+    "definition_cht": "水在0°C 以下或適當壓力條件下形成的固態相，在雲微物理、冰凍圈與航空結冰研究中為重要介質。"
+  },
+  {
+    "english": "ice accretion",
+    "traditional_chinese": "冰積聚",
+    "definition_cht": "過冷水滴、雪粒或冰晶附著於物體表面並持續增長的結冰過程，常見於機體、電線與地面結構。"
+  },
+  {
+    "english": "ice age",
+    "traditional_chinese": "冰期",
+    "definition_cht": "地球氣候長期偏冷、冰蓋與冰川大幅擴張的地質時期。"
+  },
+  {
+    "english": "ice and snow albedo–temperature feedback",
+    "traditional_chinese": "冰雪 反照率—溫度回饋",
+    "definition_cht": "冰雪高反照率使地表吸收太陽能減少而降溫，降溫又促進冰雪維持或擴張的正回饋機制。"
+  },
+  {
+    "english": "ice apron",
+    "traditional_chinese": "冰裙",
+    "definition_cht": "指與「冰裙」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice band",
+    "traditional_chinese": "冰帶",
+    "definition_cht": "由海冰、冰山或浮冰沿一定方向聚集形成的帶狀區域。"
+  },
+  {
+    "english": "ice bands",
+    "traditional_chinese": "冰帶",
+    "definition_cht": "由海冰、冰山或浮冰沿一定方向聚集形成的多條帶狀區域。"
+  },
+  {
+    "english": "ice bay",
+    "traditional_chinese": "冰灣",
+    "definition_cht": "指與「冰灣」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice blink",
+    "traditional_chinese": "冰映光",
+    "definition_cht": "低雲底部受大片冰雪反射而呈現的白色亮光，可作為遠方海冰或積雪存在的視覺指標。"
+  },
+  {
+    "english": "ice breakup",
+    "traditional_chinese": "冰裂解",
+    "definition_cht": "河冰、湖冰或海冰因升溫、流動或機械作用而破裂解體的過程。"
+  },
+  {
+    "english": "ice cap",
+    "traditional_chinese": "冰冠",
+    "definition_cht": "覆蓋範圍較冰原小、通常覆蓋高地或島嶼的穹形冰體。"
+  },
+  {
+    "english": "ice cover",
+    "traditional_chinese": "冰覆蓋",
+    "definition_cht": "指與「冰覆蓋」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice crust",
+    "traditional_chinese": "冰殼",
+    "definition_cht": "指與「冰殼」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice crystal",
+    "traditional_chinese": "冰晶",
+    "definition_cht": "大氣中由水汽凝華形成的固態冰粒，是高雲、降雪與結冰現象的重要微物理成分。"
+  },
+  {
+    "english": "ice day",
+    "traditional_chinese": "冰日",
+    "definition_cht": "一日內最高氣溫持續低於0°C 的日子。"
+  },
+  {
+    "english": "ice desert",
+    "traditional_chinese": "冰荒漠",
+    "definition_cht": "指與「冰荒漠」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice drift",
+    "traditional_chinese": "冰漂移",
+    "definition_cht": "海冰在風力、海流與科氏力共同作用下的漂移運動。"
+  },
+  {
+    "english": "ice edge",
+    "traditional_chinese": "冰緣",
+    "definition_cht": "海冰區與開放水面之間的邊界。"
+  },
+  {
+    "english": "ice feathers",
+    "traditional_chinese": "冰羽",
+    "definition_cht": "指與「冰羽」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice field",
+    "traditional_chinese": "冰原區",
+    "definition_cht": "指與「冰原區」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice flow",
+    "traditional_chinese": "冰流",
+    "definition_cht": "指與「冰流」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice flowers",
+    "traditional_chinese": "冰花",
+    "definition_cht": "指與「冰花」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice fog",
+    "traditional_chinese": "冰霧",
+    "definition_cht": "由大量懸浮冰晶組成、常出現在極寒環境中的霧。"
+  },
+  {
+    "english": "ice foot",
+    "traditional_chinese": "岸冰緣",
+    "definition_cht": "指與「岸冰緣」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice forecast",
+    "traditional_chinese": "冰預報",
+    "definition_cht": "針對海冰分布、濃度、厚度、漂移與冰緣變化所作的預報。"
+  },
+  {
+    "english": "ice formation on aircraft",
+    "traditional_chinese": "航空器結冰",
+    "definition_cht": "飛機表面因過冷水滴撞擊凍結或冰晶沉積所造成的結冰現象，會影響升力、阻力與飛航安全。"
+  },
+  {
+    "english": "ice front",
+    "traditional_chinese": "冰緣面",
+    "definition_cht": "海冰或冰蓋前緣與鄰近海域、陸地或其他冰體之交界。"
+  },
+  {
+    "english": "ice island",
+    "traditional_chinese": "冰島體",
+    "definition_cht": "指與「冰島體」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice jam",
+    "traditional_chinese": "冰塞",
+    "definition_cht": "河道中浮冰或碎冰壅塞聚積，造成水位抬升與回水效應的現象。"
+  },
+  {
+    "english": "ice keel",
+    "traditional_chinese": "冰脊龍骨",
+    "definition_cht": "海冰下方延伸至水中的脊狀部分，常為壓積冰構造的一部分。"
+  },
+  {
+    "english": "ice layer",
+    "traditional_chinese": "冰層",
+    "definition_cht": "指與「冰層」相關的層狀結構，常用於描述大氣、海洋或地表附近具有相對一致性質的區域。"
+  },
+  {
+    "english": "ice limit",
+    "traditional_chinese": "冰界限",
+    "definition_cht": "指與「冰界限」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice mixing ratio",
+    "traditional_chinese": "冰相混合比",
+    "definition_cht": "單位質量乾空氣中所含冰相水成分的質量。"
+  },
+  {
+    "english": "ice mound",
+    "traditional_chinese": "冰丘",
+    "definition_cht": "指與「冰丘」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice multiplication",
+    "traditional_chinese": "冰晶增殖",
+    "definition_cht": "雲中冰晶數目藉由次生冰生成機制而增加的現象。"
+  },
+  {
+    "english": "ice needle",
+    "traditional_chinese": "冰針",
+    "definition_cht": "呈細長針狀的冰晶，常在低溫高濕環境中形成。"
+  },
+  {
+    "english": "ice nuclei counter",
+    "traditional_chinese": "冰核 計數器",
+    "definition_cht": "用以量測空氣中冰核濃度或活化數目的儀器。"
+  },
+  {
+    "english": "ice nucleus",
+    "traditional_chinese": "冰冰核",
+    "definition_cht": "可促使過冷水滴凍結或促進水汽直接凝華成冰的微粒。"
+  },
+  {
+    "english": "Ice pellets",
+    "traditional_chinese": "冰冰粒",
+    "definition_cht": "雨滴或融雪再凍結後形成的小型透明或半透明冰粒，屬凍結性降水之一。"
+  },
+  {
+    "english": "ice plain",
+    "traditional_chinese": "冰原平地",
+    "definition_cht": "冰體表面相對平坦、起伏較小的區域。"
+  },
+  {
+    "english": "ice point",
+    "traditional_chinese": "冰點",
+    "definition_cht": "純水與純冰在標準壓力下達相平衡時的溫度，常取為0°C。"
+  },
+  {
+    "english": "ice pole",
+    "traditional_chinese": "冰極",
+    "definition_cht": "指與「冰極」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice prisms",
+    "traditional_chinese": "冰稜晶",
+    "definition_cht": "指與「冰稜晶」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice raft",
+    "traditional_chinese": "冰筏",
+    "definition_cht": "指與「冰筏」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice regime phase",
+    "traditional_chinese": "冰況相位",
+    "definition_cht": "指與「冰況相位」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice rind",
+    "traditional_chinese": "薄冰殼",
+    "definition_cht": "指與「薄冰殼」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice rise",
+    "traditional_chinese": "冰丘隆起",
+    "definition_cht": "指與「冰丘隆起」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice run",
+    "traditional_chinese": "流冰",
+    "definition_cht": "指與「流冰」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "Ice Saints",
+    "traditional_chinese": "冰聖徒期",
+    "definition_cht": "指與「冰聖徒期」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice shelf",
+    "traditional_chinese": "冰棚",
+    "definition_cht": "由陸上冰川或冰蓋向海面延伸並漂浮於海上的厚大冰板。"
+  },
+  {
+    "english": "ice storm",
+    "traditional_chinese": "冰暴",
+    "definition_cht": "以凍雨或大量結冰為主要特徵、會在地物表面形成顯著覆冰的風暴。"
+  },
+  {
+    "english": "ice stream",
+    "traditional_chinese": "冰流帶",
+    "definition_cht": "冰蓋或冰原中流速顯著較快、受基底與應力條件控制的狹長流動帶。"
+  },
+  {
+    "english": "ice structure",
+    "traditional_chinese": "冰結構",
+    "definition_cht": "指與「冰結構」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice tongue",
+    "traditional_chinese": "冰舌",
+    "definition_cht": "由冰川前緣向海或湖面伸出的狹長舌狀冰體。"
+  },
+  {
+    "english": "ice-accretion indicator",
+    "traditional_chinese": "積冰指示器",
+    "definition_cht": "指與「積冰指示器」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ice-bulb temperature",
+    "traditional_chinese": "冰球溫度",
+    "definition_cht": "指與「冰球溫度」相關的溫度量、特徵溫標或熱力診斷參數。"
+  },
+  {
+    "english": "ice-crystal cloud",
+    "traditional_chinese": "冰晶雲",
+    "definition_cht": "指與「冰晶雲」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "ice-crystal haze",
+    "traditional_chinese": "冰晶霾",
+    "definition_cht": "指與「冰晶霾」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "iceberg",
+    "traditional_chinese": "冰山",
+    "definition_cht": "自冰川或冰棚崩解後漂浮於海上的大型淡水冰塊。"
+  },
+  {
+    "english": "iced firn",
+    "traditional_chinese": "結冰粒雪",
+    "definition_cht": "經融化再凍結而含有顯著冰層或冰透鏡的粒雪。"
+  },
+  {
+    "english": "icefall",
+    "traditional_chinese": "冰瀑",
+    "definition_cht": "冰川在陡坡上因流動加速與張裂而形成的破碎冰瀑地形。"
+  },
+  {
+    "english": "Icelandic low",
+    "traditional_chinese": "冰島低壓",
+    "definition_cht": "位於北大西洋冰島附近的半永久性低壓中心，對北大西洋風暴路徑與歐洲天氣有重要影響。"
+  },
+  {
+    "english": "icicle",
+    "traditional_chinese": "冰柱",
+    "definition_cht": "「冰柱」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "icing",
+    "traditional_chinese": "積冰",
+    "definition_cht": "過冷水滴或冰晶在物體表面形成積冰的現象。"
+  },
+  {
+    "english": "icing intensity",
+    "traditional_chinese": "積冰強度",
+    "definition_cht": "表示結冰累積快慢與嚴重程度的強度分級。"
+  },
+  {
+    "english": "icing level",
+    "traditional_chinese": "積冰高度",
+    "definition_cht": "大氣中容易發生結冰或積冰的重要高度層。"
+  },
+  {
+    "english": "icing-rate meter",
+    "traditional_chinese": "積冰速率計",
+    "definition_cht": "量測單位時間內積冰厚度或質量增長率的儀器。"
+  },
+  {
+    "english": "ideal fluid",
+    "traditional_chinese": "理想流體",
+    "definition_cht": "理論上不具黏滯性且常假設不可壓縮的流體，用於流體力學推導。"
+  },
+  {
+    "english": "ideal gas",
+    "traditional_chinese": "理想氣體",
+    "definition_cht": "滿足理想氣體方程式、假設分子體積與分子間作用可忽略的氣體模型。"
+  },
+  {
+    "english": "identical twin integrations",
+    "traditional_chinese": "同型雙重積分試驗",
+    "definition_cht": "以幾乎相同模式配置進行成對數值積分，用來檢驗敏感度、可預報度或資料同化效果的實驗設計。"
+  },
+  {
+    "english": "IF",
+    "traditional_chinese": "中頻",
+    "definition_cht": "在無線電、雷達與遙測系統中，將接收訊號經混頻轉換後所得之中間頻率。"
+  },
+  {
+    "english": "IF signal",
+    "traditional_chinese": "中頻訊號",
+    "definition_cht": "經混頻後落於中頻範圍、便於放大與濾波處理的訊號。"
+  },
+  {
+    "english": "IF–THEN rule",
+    "traditional_chinese": "IF–THEN 規則",
+    "definition_cht": "以條件與結果表示的規則形式，常用於專家系統、推論引擎與自動判識流程。"
+  },
+  {
+    "english": "IFF",
+    "traditional_chinese": "敵我識別系統",
+    "definition_cht": "供航空與雷達系統辨識友軍、敵軍或未知目標身分的電子識別系統。"
+  },
+  {
+    "english": "IFR",
+    "traditional_chinese": "儀器飛航規則",
+    "definition_cht": "飛航在能見度或雲高不足時，依儀器與航管程序而非目視條件進行之飛航規則。"
+  },
+  {
+    "english": "IFR terminal minimums",
+    "traditional_chinese": "儀器進場最低標準",
+    "definition_cht": "「儀器進場最低標準」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "IFR weather",
+    "traditional_chinese": "儀器飛航天氣",
+    "definition_cht": "「儀器飛航天氣」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "igneous meteor",
+    "traditional_chinese": "igneous meteor",
+    "definition_cht": "「igneous meteor」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "IGRF",
+    "traditional_chinese": "國際地磁參考場",
+    "definition_cht": "描述地球主磁場全球平均分布及其長期變化的國際參考模型。"
+  },
+  {
+    "english": "illuminance",
+    "traditional_chinese": "illuminance",
+    "definition_cht": "單位面積上接受之可見光通量，通常以勒克斯表示。"
+  },
+  {
+    "english": "illumination",
+    "traditional_chinese": "illumination",
+    "definition_cht": "光源對目標或觀測面的照明狀態與光照分布。"
+  },
+  {
+    "english": "ILS",
+    "traditional_chinese": "儀器降落系統",
+    "definition_cht": "協助航空器依地面無線電導引進場與降落的精密導航系統。"
+  },
+  {
+    "english": "image",
+    "traditional_chinese": "影像",
+    "definition_cht": "由觀測、攝影、雷達或衛星感測所形成之空間分布圖像，用以呈現目標輻射、反射或回波特徵。"
+  },
+  {
+    "english": "image enhancement",
+    "traditional_chinese": "影像 enhancement",
+    "definition_cht": "透過對比增強、濾波、色階轉換等方式提升圖像可辨識度的處理。"
+  },
+  {
+    "english": "image processing",
+    "traditional_chinese": "影像處理",
+    "definition_cht": "對數位影像進行校正、濾波、分類、特徵萃取與顯示轉換的技術流程。"
+  },
+  {
+    "english": "imbibition",
+    "traditional_chinese": "imbibition",
+    "definition_cht": "多孔介質因毛細作用而吸入液體的過程。"
+  },
+  {
+    "english": "immiscible displacement",
+    "traditional_chinese": "immiscible displacement",
+    "definition_cht": "在多孔介質中，一種與原流體不互溶的流體將其推替的過程。"
+  },
+  {
+    "english": "impactor",
+    "traditional_chinese": "impactor",
+    "definition_cht": "利用顆粒慣性撞擊原理分離或收集氣膠粒子的取樣裝置。"
+  },
+  {
+    "english": "impinger",
+    "traditional_chinese": "impinger",
+    "definition_cht": "藉由氣流通過液體並使粒子或氣體被捕集的取樣器。"
+  },
+  {
+    "english": "implicit time difference",
+    "traditional_chinese": "implicit time difference",
+    "definition_cht": "數值方法中使用未來時間層未知量建立差分式的時間離散法，通常較具穩定性。"
+  },
+  {
+    "english": "Improved TIROS Operational System",
+    "traditional_chinese": "改良型 TIROS 作業系統",
+    "definition_cht": "早期氣象衛星作業系統之一，承接 TIROS 計畫並提升全球雲圖與環境觀測能力。"
+  },
+  {
+    "english": "IN counter",
+    "traditional_chinese": "冰核計數器",
+    "definition_cht": "用於統計空氣中活化冰核數目之儀器。"
+  },
+  {
+    "english": "inaccuracy",
+    "traditional_chinese": "inaccuracy",
+    "definition_cht": "「inaccuracy」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inactive front",
+    "traditional_chinese": "inactive 鋒",
+    "definition_cht": "指與「inactive 鋒」相關的鋒面、鋒區或其空間邊界結構，常用於描述不同氣團之間的過渡帶。"
+  },
+  {
+    "english": "inadvertent climate modification",
+    "traditional_chinese": "無意的 climate 改變",
+    "definition_cht": "指與「無意的 climate 改變」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "inadvertent cloud modification",
+    "traditional_chinese": "無意的雲 改變",
+    "definition_cht": "指與「無意的雲 改變」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "inadvertent weather modification",
+    "traditional_chinese": "無意的 weather 改變",
+    "definition_cht": "指與「無意的 weather 改變」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "inch of mercury",
+    "traditional_chinese": "inch mercury",
+    "definition_cht": "「inch mercury」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inclination",
+    "traditional_chinese": "傾角",
+    "definition_cht": "指與「傾角」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "inclination of the axis of a cyclone",
+    "traditional_chinese": "傾角軸 a cyclone",
+    "definition_cht": "指與「傾角軸 a cyclone」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "inclination of the axis of an anticyclone",
+    "traditional_chinese": "傾角軸 an anticyclone",
+    "definition_cht": "指與「傾角軸 an anticyclone」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "inclination of the wind",
+    "traditional_chinese": "傾角風",
+    "definition_cht": "指與「傾角風」相關的風系、局地風或風場型態，著重其形成機制、風向風速分布及天氣影響。"
+  },
+  {
+    "english": "incoherent echo",
+    "traditional_chinese": "非相干 echo",
+    "definition_cht": "「非相干 echo」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "incoherent scatter radar",
+    "traditional_chinese": "非相干 scatter 雷達",
+    "definition_cht": "用於偵測目標位置、回波或電離層／大氣結構的雷達系統或觀測方法。"
+  },
+  {
+    "english": "incoherent scattering",
+    "traditional_chinese": "非相干 scattering",
+    "definition_cht": "「非相干 scattering」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "incompressibility",
+    "traditional_chinese": "incompressibility",
+    "definition_cht": "「incompressibility」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "incompressible fluid",
+    "traditional_chinese": "incompressible 流體",
+    "definition_cht": "為流體力學中的理想化或特定性質流體概念，用於描述其動力與熱力行為。"
+  },
+  {
+    "english": "incus",
+    "traditional_chinese": "incus",
+    "definition_cht": "「incus」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "indefinite ceiling",
+    "traditional_chinese": "indefinite ceiling",
+    "definition_cht": "「indefinite ceiling」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "independence",
+    "traditional_chinese": "independence",
+    "definition_cht": "「independence」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "independent pixel approximation",
+    "traditional_chinese": "獨立 pixel approximation",
+    "definition_cht": "指與「獨立 pixel approximation」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "independent variable",
+    "traditional_chinese": "獨立 variable",
+    "definition_cht": "「獨立 variable」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "independently distributed",
+    "traditional_chinese": "independently distributed",
+    "definition_cht": "「independently distributed」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "index",
+    "traditional_chinese": "index",
+    "definition_cht": "用以量化「index」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "index correction",
+    "traditional_chinese": "指數校正",
+    "definition_cht": "用以量化「指數校正」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "index cycle",
+    "traditional_chinese": "指數循環",
+    "definition_cht": "用以量化「指數循環」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "index error",
+    "traditional_chinese": "指數誤差",
+    "definition_cht": "用以量化「指數誤差」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "index of aridity",
+    "traditional_chinese": "乾燥度指數",
+    "definition_cht": "用以量化「乾燥度指數」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "index of continentality",
+    "traditional_chinese": "大陸性指數",
+    "definition_cht": "用以量化「大陸性指數」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "index of evaporating surface of horizontal area",
+    "traditional_chinese": "水平蒸發面指數",
+    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。"
+  },
+  {
+    "english": "index of wetness",
+    "traditional_chinese": "濕潤度指數",
+    "definition_cht": "用以量化「濕潤度指數」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "Indian Deep Water",
+    "traditional_chinese": "印度深層水",
+    "definition_cht": "指與「印度深層水」相關的水團或水體類型，著重其形成區域、溫鹽結構與輸送特性。"
+  },
+  {
+    "english": "Indian equatorial jet",
+    "traditional_chinese": "印度 equatorial jet",
+    "definition_cht": "「印度 equatorial jet」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "Indian National Satellite System",
+    "traditional_chinese": "印度國家衛星系統",
+    "definition_cht": "指與「印度國家衛星系統」相關的衛星、作業系統或整合觀測架構，用於資料蒐集、傳輸或環境監測。"
+  },
+  {
+    "english": "Indian spring low water",
+    "traditional_chinese": "印度 spring 低壓水",
+    "definition_cht": "指與「印度 spring 低壓水」相關的水團或水體類型，著重其形成區域、溫鹽結構與輸送特性。"
+  },
+  {
+    "english": "Indian summer",
+    "traditional_chinese": "印度 summer",
+    "definition_cht": "「印度 summer」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "indicated airspeed",
+    "traditional_chinese": "indicated airspeed",
+    "definition_cht": "由空速表直接讀得並經有限校正後表示的飛機相對氣流速度。"
+  },
+  {
+    "english": "indicated altitude",
+    "traditional_chinese": "indicated altitude",
+    "definition_cht": "由高度表在既定設定值下直接顯示的高度。"
+  },
+  {
+    "english": "indicator",
+    "traditional_chinese": "指示器",
+    "definition_cht": "「指示器」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "indicator function",
+    "traditional_chinese": "指示器 function",
+    "definition_cht": "指與「指示器 function」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "indirect cell",
+    "traditional_chinese": "間接 cell",
+    "definition_cht": "熱力驅動方向與實際質量環流方向相反的環流胞，如中緯度費瑞耳環流。"
+  },
+  {
+    "english": "indirect circulation",
+    "traditional_chinese": "間接環流",
+    "definition_cht": "藉由外部強迫或動力調整維持、其質量輸送方向與局地熱力驅動相反的環流。"
+  },
+  {
+    "english": "individual derivative",
+    "traditional_chinese": "individual derivative",
+    "definition_cht": "「individual derivative」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "Indonesian Throughflow",
+    "traditional_chinese": "印尼穿流",
+    "definition_cht": "太平洋海水經印尼群島海峽流入印度洋的跨海盆海流系統，對熱量與鹽度輸送極為重要。"
+  },
+  {
+    "english": "induced recharge",
+    "traditional_chinese": "induced recharge",
+    "definition_cht": "「induced recharge」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "induction",
+    "traditional_chinese": "感應",
+    "definition_cht": "指與「感應」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "induction charging mechanism",
+    "traditional_chinese": "感應 charging mechanism",
+    "definition_cht": "粒子在外加電場或鄰近帶電體影響下產生電荷分離並帶電的機制。"
+  },
+  {
+    "english": "induction icing",
+    "traditional_chinese": "感應積冰",
+    "definition_cht": "因進氣或導流結構使過冷水滴易於撞擊並凍結而形成的結冰。"
+  },
+  {
+    "english": "industrial climatology",
+    "traditional_chinese": "工業 climatology",
+    "definition_cht": "研究氣候條件對工業設施、流程、能源需求與作業管理影響的應用氣候學分支。"
+  },
+  {
+    "english": "industrial meteorology",
+    "traditional_chinese": "工業 meteorology",
+    "definition_cht": "將氣象資料與預報應用於工業安全、生產調度、污染擴散及能源管理的專業領域。"
+  },
+  {
+    "english": "inert gases",
+    "traditional_chinese": "inert gases",
+    "definition_cht": "「inert gases」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inertia wave",
+    "traditional_chinese": "慣性波",
+    "definition_cht": "受慣性力主導、振動頻率接近科氏參數的波動。"
+  },
+  {
+    "english": "inertial circle",
+    "traditional_chinese": "慣性 circle",
+    "definition_cht": "在無壓力梯度與無摩擦近似下，流體質點因科氏力而作之圓形運動軌跡。"
+  },
+  {
+    "english": "inertial coordinate system",
+    "traditional_chinese": "慣性座標系統",
+    "definition_cht": "「慣性座標系統」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inertial current",
+    "traditional_chinese": "慣性流",
+    "definition_cht": "主要受地轉偏向力與慣性作用控制的海流或流速振盪。"
+  },
+  {
+    "english": "inertial flow",
+    "traditional_chinese": "慣性流動",
+    "definition_cht": "以慣性效應為主導、外力影響相對較小的流動。"
+  },
+  {
+    "english": "inertial force",
+    "traditional_chinese": "慣性 force",
+    "definition_cht": "在非慣性參考系中為維持牛頓運動定律形式而引入的表觀力。"
+  },
+  {
+    "english": "inertial forecast",
+    "traditional_chinese": "慣性預報",
+    "definition_cht": "「慣性預報」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inertial instability",
+    "traditional_chinese": "慣性不穩定",
+    "definition_cht": "流體受擾動後若角動量分布不穩定而使擾動增長的動力不穩定。"
+  },
+  {
+    "english": "inertial lag",
+    "traditional_chinese": "慣性 lag",
+    "definition_cht": "「慣性 lag」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inertial oscillation",
+    "traditional_chinese": "慣性 oscillation",
+    "definition_cht": "在近乎無摩擦且無顯著壓力梯度下，由科氏力控制的週期性速度振盪。"
+  },
+  {
+    "english": "inertial period",
+    "traditional_chinese": "慣性週期",
+    "definition_cht": "慣性振盪完成一個週期所需的時間，與所在地緯度及科氏參數有關。"
+  },
+  {
+    "english": "inertial range",
+    "traditional_chinese": "慣性 range",
+    "definition_cht": "湍流能譜中能量主要由大尺度傳向小尺度、但尚未被黏滯耗散主導的尺度範圍。"
+  },
+  {
+    "english": "inertial reference frame",
+    "traditional_chinese": "慣性 reference frame",
+    "definition_cht": "「慣性 reference frame」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inertial stability",
+    "traditional_chinese": "慣性 stability",
+    "definition_cht": "描述流體對軸對稱擾動所具抗拒離心失穩能力的性質。"
+  },
+  {
+    "english": "inertial sublayer",
+    "traditional_chinese": "慣性 sublayer",
+    "definition_cht": "指與「慣性 sublayer」相關的層狀結構，常用於描述大氣、海洋或地表附近具有相對一致性質的區域。"
+  },
+  {
+    "english": "inertial subrange",
+    "traditional_chinese": "慣性子範圍",
+    "definition_cht": "「慣性子範圍」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inertial wave",
+    "traditional_chinese": "慣性波",
+    "definition_cht": "指與「慣性波」相關的波動現象，著重其恢復力來源、傳播特徵與能量交換。"
+  },
+  {
+    "english": "inertial-convective subrange",
+    "traditional_chinese": "慣性—convective 子範圍",
+    "definition_cht": "「慣性—convective 子範圍」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inertial-diffusive subrange",
+    "traditional_chinese": "慣性—diffusive 子範圍",
+    "definition_cht": "「慣性—diffusive 子範圍」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inertio-gravity wave",
+    "traditional_chinese": "inertio—重力波",
+    "definition_cht": "指與「inertio—重力波」相關的波動現象，著重其恢復力來源、傳播特徵與能量交換。"
+  },
+  {
+    "english": "inference",
+    "traditional_chinese": "推論",
+    "definition_cht": "「推論」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inference engine",
+    "traditional_chinese": "推論 engine",
+    "definition_cht": "「推論 engine」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inferior mirage",
+    "traditional_chinese": "inferior mirage",
+    "definition_cht": "近地層強烈增溫致折射率垂直梯度異常時，遠物影像出現在真實物體下方的海市蜃樓。"
+  },
+  {
+    "english": "infiltration",
+    "traditional_chinese": "infiltration",
+    "definition_cht": "地表水經土壤孔隙向下進入土層的過程。"
+  },
+  {
+    "english": "infiltration capacity",
+    "traditional_chinese": "infiltration capacity",
+    "definition_cht": "在既有土壤條件下，土壤可吸納入滲水量的最大速率。"
+  },
+  {
+    "english": "infiltration coefficient",
+    "traditional_chinese": "infiltration 係數",
+    "definition_cht": "表示「infiltration 係數」所對應成分相對於基準量之比例或混合關係。"
+  },
+  {
+    "english": "infiltration gallery",
+    "traditional_chinese": "infiltration gallery",
+    "definition_cht": "表示「infiltration gallery」所對應成分相對於基準量之比例或混合關係。"
+  },
+  {
+    "english": "infiltration index",
+    "traditional_chinese": "infiltration index",
+    "definition_cht": "用以量化「infiltration index」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "infiltration rate",
+    "traditional_chinese": "infiltration rate",
+    "definition_cht": "表示「infiltration rate」所對應成分相對於基準量之比例或混合關係。"
+  },
+  {
+    "english": "infiltration routing",
+    "traditional_chinese": "infiltration routing",
+    "definition_cht": "表示「infiltration routing」所對應成分相對於基準量之比例或混合關係。"
+  },
+  {
+    "english": "infiltration well",
+    "traditional_chinese": "infiltration well",
+    "definition_cht": "表示「infiltration well」所對應成分相對於基準量之比例或混合關係。"
+  },
+  {
+    "english": "infiltrometer",
+    "traditional_chinese": "infiltrometer",
+    "definition_cht": "量測土壤入滲能力或入滲速率的儀器。"
+  },
+  {
+    "english": "Inflow",
+    "traditional_chinese": "流入",
+    "definition_cht": "「流入」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "influent seepage",
+    "traditional_chinese": "influent seepage",
+    "definition_cht": "「influent seepage」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "Infralateral tangent arcs",
+    "traditional_chinese": "Infralateral tangent arcs",
+    "definition_cht": "「Infralateral tangent arcs」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "infrared",
+    "traditional_chinese": "紅外",
+    "definition_cht": "波長長於可見紅光、短於微波之電磁輻射區段。"
+  },
+  {
+    "english": "infrared image",
+    "traditional_chinese": "紅外影像",
+    "definition_cht": "以紅外輻射亮溫或輻射強度生成的影像，常用於觀測雲頂溫度與地表熱特徵。"
+  },
+  {
+    "english": "Infrared Interferometer Spectrometer",
+    "traditional_chinese": "紅外干涉光譜儀",
+    "definition_cht": "用於解析「紅外干涉光譜儀」波段光譜分布與物質特性的儀器。"
+  },
+  {
+    "english": "infrared radiation",
+    "traditional_chinese": "紅外輻射",
+    "definition_cht": "波長位於紅外區之電磁輻射，是地球長波放射與遙測觀測的重要波段。"
+  },
+  {
+    "english": "infrared radiometry",
+    "traditional_chinese": "紅外輻射測量",
+    "definition_cht": "量測目標紅外輻射強度、亮溫或光譜特性的技術。"
+  },
+  {
+    "english": "infrared spectrometer",
+    "traditional_chinese": "紅外光譜儀",
+    "definition_cht": "量測紅外光譜分布以分析物質組成、溫度或輻射特性的儀器。"
+  },
+  {
+    "english": "infrared spectroscopy",
+    "traditional_chinese": "紅外 spectroscopy",
+    "definition_cht": "「紅外 spectroscopy」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "infrasonic",
+    "traditional_chinese": "次聲的",
+    "definition_cht": "「次聲的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "infrasonic observatory",
+    "traditional_chinese": "次聲觀測站",
+    "definition_cht": "「次聲觀測站」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "infrasound",
+    "traditional_chinese": "infrasound",
+    "definition_cht": "頻率低於人耳可聽範圍下限的聲波，常用於監測火山、爆炸、雷暴或大氣波動。"
+  },
+  {
+    "english": "ingesting",
+    "traditional_chinese": "ingesting",
+    "definition_cht": "「ingesting」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "initial condition",
+    "traditional_chinese": "初始 condition",
+    "definition_cht": "數值模式或微分方程在起算時刻所指定的狀態場。"
+  },
+  {
+    "english": "initial rainfall",
+    "traditional_chinese": "初始降雨",
+    "definition_cht": "「初始降雨」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "initial-value problem",
+    "traditional_chinese": "初始—value 問題",
+    "definition_cht": "已知起始時刻或起始位置條件，求解方程隨時間或空間演變的問題。"
+  },
+  {
+    "english": "initialization",
+    "traditional_chinese": "initialization",
+    "definition_cht": "為使數值模式初始場與控制方程及觀測條件更相容而進行的調整程序。"
+  },
+  {
+    "english": "injection temperature",
+    "traditional_chinese": "injection 溫度",
+    "definition_cht": "指與「injection 溫度」相關的溫度量、特徵溫標或熱力診斷參數。"
+  },
+  {
+    "english": "inland ice",
+    "traditional_chinese": "內陸冰",
+    "definition_cht": "指與「內陸冰」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "inland sea breeze",
+    "traditional_chinese": "內陸 sea breeze",
+    "definition_cht": "由內陸大型湖泊或海面與鄰近陸地受熱差異所驅動、白天由水域吹向陸地的局地風。"
+  },
+  {
+    "english": "inner layer",
+    "traditional_chinese": "inner 層",
+    "definition_cht": "邊界層中最接近下墊面的區域，其流場主要受地表粗糙度與局地通量控制。"
+  },
+  {
+    "english": "input",
+    "traditional_chinese": "input",
+    "definition_cht": "「input」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "INS",
+    "traditional_chinese": "慣性導航系統",
+    "definition_cht": "利用加速度計與陀螺儀推算位置、速度與姿態的自主導航系統。"
+  },
+  {
+    "english": "INSAT",
+    "traditional_chinese": "印度國家衛星",
+    "definition_cht": "印度用於氣象、通訊及相關應用之國家衛星系列。"
+  },
+  {
+    "english": "insolation",
+    "traditional_chinese": "insolation",
+    "definition_cht": "太陽輻射入射至地表或大氣頂的能量通量。"
+  },
+  {
+    "english": "insolation duration",
+    "traditional_chinese": "insolation 持續時間",
+    "definition_cht": "表示「insolation 持續時間」所對應成分相對於基準量之比例或混合關係。"
+  },
+  {
+    "english": "inspectional analysis",
+    "traditional_chinese": "inspectional 分析",
+    "definition_cht": "指與「inspectional 分析」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "instability",
+    "traditional_chinese": "不穩定",
+    "definition_cht": "系統受微小擾動後會使擾動增大而偏離原平衡狀態的性質。"
+  },
+  {
+    "english": "instability chart",
+    "traditional_chinese": "不穩定圖",
+    "definition_cht": "描述流體或大氣系統對微小擾動易於增幅的性質，是對流與動力發展的重要條件。"
+  },
+  {
+    "english": "instability line",
+    "traditional_chinese": "不穩定線",
+    "definition_cht": "大氣中不穩定度顯著集中、常伴隨對流發展的線狀區域。"
+  },
+  {
+    "english": "instantaneous field of view",
+    "traditional_chinese": "instantaneous 場 view",
+    "definition_cht": "遙測儀器在某一瞬間所對應的地面或目標視場範圍。"
+  },
+  {
+    "english": "instantaneous unit hydrograph",
+    "traditional_chinese": "instantaneous unit hydrograph",
+    "definition_cht": "假設有效降雨脈衝於瞬時輸入時，流域出口產生之單位歷線。"
+  },
+  {
+    "english": "instrument correction",
+    "traditional_chinese": "儀器 correction",
+    "definition_cht": "指與「儀器 correction」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "instrument error",
+    "traditional_chinese": "儀器 error",
+    "definition_cht": "「儀器 error」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "instrument exposure",
+    "traditional_chinese": "儀器 exposure",
+    "definition_cht": "「儀器 exposure」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "instrument flight",
+    "traditional_chinese": "儀器飛航",
+    "definition_cht": "「儀器飛航」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "instrument flight rules",
+    "traditional_chinese": "儀器飛航 rules",
+    "definition_cht": "規範航空器在依賴機載與地面儀器資訊下飛航的程序與最低條件。"
+  },
+  {
+    "english": "instrument landing system",
+    "traditional_chinese": "儀器降落系統",
+    "definition_cht": "透過航向台與下滑道提供精密橫向及垂直導引的降落系統。"
+  },
+  {
+    "english": "instrument shelter",
+    "traditional_chinese": "儀器 shelter",
+    "definition_cht": "保護氣象儀器免受直射日光與降水干擾、同時維持良好通風的百葉箱或類似設施。"
+  },
+  {
+    "english": "instrument weather",
+    "traditional_chinese": "儀器氣象條件",
+    "definition_cht": "「儀器氣象條件」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "insulated stream",
+    "traditional_chinese": "insulated 流",
+    "definition_cht": "指與「insulated 流」相關的氣流、冰流或水流帶狀結構，著重其主軸、速度分布及動力特徵。"
+  },
+  {
+    "english": "insulation",
+    "traditional_chinese": "insulation",
+    "definition_cht": "指與「insulation」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "integral depth scale",
+    "traditional_chinese": "integral depth scale",
+    "definition_cht": "描述湍流或流體結構在垂直方向上具有主要相關性的代表深度尺度。"
+  },
+  {
+    "english": "integral length scales",
+    "traditional_chinese": "integral length scales",
+    "definition_cht": "由相關函數積分定義之代表性大尺度渦旋尺寸。"
+  },
+  {
+    "english": "integration method",
+    "traditional_chinese": "integration method",
+    "definition_cht": "表示「integration method」所對應成分相對於基準量之比例或混合關係。"
+  },
+  {
+    "english": "intensity",
+    "traditional_chinese": "強度",
+    "definition_cht": "「強度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "intensity modulation",
+    "traditional_chinese": "強度 modulation",
+    "definition_cht": "指與「強度 modulation」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "intensity-modulated indicator",
+    "traditional_chinese": "強度—modulated 指示器",
+    "definition_cht": "「強度—modulated 指示器」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "intensity–duration–frequency curve",
+    "traditional_chinese": "強度—持續時間—頻率 curve",
+    "definition_cht": "描述降雨強度、持續時間與重現期之間關係的工程水文曲線。"
+  },
+  {
+    "english": "intensive quantity",
+    "traditional_chinese": "intensive quantity",
+    "definition_cht": "「intensive quantity」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "interactive image processing",
+    "traditional_chinese": "interactive 影像處理",
+    "definition_cht": "指以感測器觀測結果形成之「interactive 影像處理」圖像或其處理產品，用於判識空間結構與場分布。"
+  },
+  {
+    "english": "interception",
+    "traditional_chinese": "interception",
+    "definition_cht": "降水被植被冠層、建築物或其他地表覆蓋截留而未立即到達地面的過程。"
+  },
+  {
+    "english": "interceptometer",
+    "traditional_chinese": "interceptometer",
+    "definition_cht": "「interceptometer」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "interchange coefficient",
+    "traditional_chinese": "interchange 係數",
+    "definition_cht": "表徵動量、熱量或物質在湍流中交換效率的係數。"
+  },
+  {
+    "english": "interdiurnal variation",
+    "traditional_chinese": "interdiurnal 變化",
+    "definition_cht": "指與「interdiurnal 變化」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "interface",
+    "traditional_chinese": "interface",
+    "definition_cht": "兩種介質、氣團、水團或物理性質明顯不同區域之間的交界面。"
+  },
+  {
+    "english": "interfacial tension",
+    "traditional_chinese": "interfacial tension",
+    "definition_cht": "指與「interfacial tension」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "interference",
+    "traditional_chinese": "interference",
+    "definition_cht": "兩個或多個波動、訊號或輻射場疊加後產生增強或抵銷的現象。"
+  },
+  {
+    "english": "interference region",
+    "traditional_chinese": "interference region",
+    "definition_cht": "指與「interference region」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "interferometer",
+    "traditional_chinese": "interferometer",
+    "definition_cht": "利用波相位差或光程差進行精密量測的儀器。"
+  },
+  {
+    "english": "interferometry",
+    "traditional_chinese": "interferometry",
+    "definition_cht": "藉由分析干涉條紋或相位差來推求幾何、位移或輻射資訊的技術。"
+  },
+  {
+    "english": "interflow",
+    "traditional_chinese": "interflow",
+    "definition_cht": "土壤中在地表以下、沿較淺土層側向流動的地下水流。"
+  },
+  {
+    "english": "interglacial",
+    "traditional_chinese": "interglacial",
+    "definition_cht": "兩次冰期之間較為溫暖、冰量相對減少的時期。"
+  },
+  {
+    "english": "interglacial phase",
+    "traditional_chinese": "interglacial 相",
+    "definition_cht": "「interglacial 相」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "interleaving",
+    "traditional_chinese": "interleaving",
+    "definition_cht": "「interleaving」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "intermediate frequency",
+    "traditional_chinese": "中層頻率",
+    "definition_cht": "介於射頻與基帶之間、經混頻後用於後續放大處理的頻率。"
+  },
+  {
+    "english": "intermediate ion",
+    "traditional_chinese": "中層離子",
+    "definition_cht": "指與「中層離子」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "intermediate standard times",
+    "traditional_chinese": "中層標準 times",
+    "definition_cht": "「中層標準 times」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "intermediate water",
+    "traditional_chinese": "中層水",
+    "definition_cht": "位於海洋中層、介於表層水與深層水之間且具有特定溫鹽特性的水團。"
+  },
+  {
+    "english": "intermittency",
+    "traditional_chinese": "intermittency",
+    "definition_cht": "「intermittency」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "intermittent stream",
+    "traditional_chinese": "intermittent 流",
+    "definition_cht": "指與「intermittent 流」相關的氣流、冰流或水流帶狀結構，著重其主軸、速度分布及動力特徵。"
+  },
+  {
+    "english": "intermonthly variation",
+    "traditional_chinese": "intermonthly 變化",
+    "definition_cht": "指與「intermonthly 變化」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "Internal boundary layer",
+    "traditional_chinese": "內部邊界層",
+    "definition_cht": "指與「內部邊界層」相關的層狀結構，常用於描述大氣、海洋或地表附近具有相對一致性質的區域。"
+  },
+  {
+    "english": "internal energy",
+    "traditional_chinese": "內部能量",
+    "definition_cht": "系統內部分子平動、轉動、振動與相互作用所包含的總能量。"
+  },
+  {
+    "english": "internal gravity wave",
+    "traditional_chinese": "內部重力波",
+    "definition_cht": "因浮力恢復力作用而在穩定成層流體內傳播的重力波。"
+  },
+  {
+    "english": "internal tides",
+    "traditional_chinese": "內部內潮汐",
+    "definition_cht": "由潮汐流越過地形後在海洋密度分層內激發的內波型潮汐。"
+  },
+  {
+    "english": "internal water circulation",
+    "traditional_chinese": "內部水 環流",
+    "definition_cht": "指與「內部水 環流」相關的環流型態，著重質量輸送、熱量交換與動力平衡。"
+  },
+  {
+    "english": "internal wave",
+    "traditional_chinese": "內部波",
+    "definition_cht": "存在於流體內部密度界面或穩定分層中的波動。"
+  },
+  {
+    "english": "international analysis code",
+    "traditional_chinese": "國際分析代碼",
+    "definition_cht": "國際間用於交換分析資料或天氣圖資訊的標準編碼系統。"
+  },
+  {
+    "english": "international candle",
+    "traditional_chinese": "國際 candle",
+    "definition_cht": "指與「國際 candle」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "International Geomagnetic Reference Field",
+    "traditional_chinese": "國際地磁參考場",
+    "definition_cht": "指與「國際地磁參考場」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "international index numbers",
+    "traditional_chinese": "國際 index numbers",
+    "definition_cht": "用以量化「國際 index numbers」相關狀態、強度、頻率或特性的指標。"
+  },
+  {
+    "english": "International Pyrheliometric Scale",
+    "traditional_chinese": "國際直接日射量表",
+    "definition_cht": "指與「國際直接日射量表」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "International Satellite Cloud Climatology Project",
+    "traditional_chinese": "國際衛星雲氣候計畫",
+    "definition_cht": "指與「國際衛星雲氣候計畫」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "international standard atmosphere",
+    "traditional_chinese": "國際標準大氣",
+    "definition_cht": "供航空、工程與儀器校準使用的標準大氣垂直結構。"
+  },
+  {
+    "english": "international synoptic code",
+    "traditional_chinese": "國際天氣代碼",
+    "definition_cht": "國際天氣觀測與綜觀報告所使用的標準代碼。"
+  },
+  {
+    "english": "international synoptic surface observation code",
+    "traditional_chinese": "國際天氣面 observation 代碼",
+    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。"
+  },
+  {
+    "english": "International System of Units",
+    "traditional_chinese": "國際單位制",
+    "definition_cht": "指與「國際單位制」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "International Table calorie",
+    "traditional_chinese": "國際表卡路里",
+    "definition_cht": "指與「國際表卡路里」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "International Units",
+    "traditional_chinese": "國際單位",
+    "definition_cht": "指與「國際單位」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "interplanetary dust",
+    "traditional_chinese": "行星際塵",
+    "definition_cht": "分布於行星際空間、由彗星、隕石或其他天體來源產生的微粒。"
+  },
+  {
+    "english": "Interplanetary magnetic field",
+    "traditional_chinese": "行星際磁場",
+    "definition_cht": "「行星際磁場」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "interpluvial",
+    "traditional_chinese": "interpluvial",
+    "definition_cht": "「interpluvial」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "interpolation",
+    "traditional_chinese": "interpolation",
+    "definition_cht": "依已知資料點推估其間未知值的方法。"
+  },
+  {
+    "english": "interpulse period",
+    "traditional_chinese": "interpulse 週期",
+    "definition_cht": "「interpulse 週期」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "interrupted stream",
+    "traditional_chinese": "interrupted 流",
+    "definition_cht": "指與「interrupted 流」相關的氣流、冰流或水流帶狀結構，著重其主軸、速度分布及動力特徵。"
+  },
+  {
+    "english": "interstadial",
+    "traditional_chinese": "interstadial",
+    "definition_cht": "「interstadial」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "interstellar dust",
+    "traditional_chinese": "interstellar 塵",
+    "definition_cht": "「interstellar 塵」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "interstice",
+    "traditional_chinese": "interstice",
+    "definition_cht": "指與「interstice」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。"
+  },
+  {
+    "english": "intertropical convergence zone",
+    "traditional_chinese": "熱帶輻合 convergence 帶",
+    "definition_cht": "赤道附近東北與東南信風匯聚、對流旺盛且降雨頻繁的帶狀區域。"
+  },
+  {
+    "english": "intertropical front",
+    "traditional_chinese": "熱帶輻合鋒",
+    "definition_cht": "熱帶區域兩支不同來源氣流交會形成的鋒狀過渡帶。"
+  },
+  {
+    "english": "intortus",
+    "traditional_chinese": "intortus",
+    "definition_cht": "「intortus」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "intracloud flash",
+    "traditional_chinese": "intracloud flash",
+    "definition_cht": "發生於同一雲體內不同電荷區之間的閃電放電。"
+  },
+  {
+    "english": "intrinsic permeability",
+    "traditional_chinese": "intrinsic permeability",
+    "definition_cht": "多孔介質本身在不考慮流體性質時對流動能力的固有表徵。"
+  },
+  {
+    "english": "intrinsic wave frequency",
+    "traditional_chinese": "intrinsic 波頻率",
+    "definition_cht": "指與「intrinsic 波頻率」相關的波動現象，著重其恢復力來源、傳播特徵與能量交換。"
+  },
+  {
+    "english": "intromission",
+    "traditional_chinese": "intromission",
+    "definition_cht": "指與「intromission」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "intromission zone",
+    "traditional_chinese": "intromission 帶",
+    "definition_cht": "指與「intromission 帶」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "invasion of air",
+    "traditional_chinese": "invasion air",
+    "definition_cht": "指與「invasion air」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "inventories of anthropogenic pollutants",
+    "traditional_chinese": "inventories anthropogenic pollutants",
+    "definition_cht": "「inventories anthropogenic pollutants」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inverna",
+    "traditional_chinese": "inverna",
+    "definition_cht": "「inverna」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "inverse-square law",
+    "traditional_chinese": "inverse—square law",
+    "definition_cht": "某些場量或輻射強度隨距離平方反比衰減的定律。"
+  },
+  {
+    "english": "inversion",
+    "traditional_chinese": "逆溫",
+    "definition_cht": "氣溫隨高度上升反而增加的穩定層結。"
+  },
+  {
+    "english": "inversion of rainfall",
+    "traditional_chinese": "逆溫降雨",
+    "definition_cht": "指與「逆溫降雨」相關的逆轉或逆溫結構，常用於描述垂直分布與穩定度異常。"
+  },
+  {
+    "english": "inverted barometer effect",
+    "traditional_chinese": "inverted barometer effect",
+    "definition_cht": "海面或水面高度對大氣壓變化的近似反向響應，高壓時水位偏低、低壓時水位偏高。"
+  },
+  {
+    "english": "Inverted trough",
+    "traditional_chinese": "倒槽",
+    "definition_cht": "在天氣圖上向高壓一側延伸、形狀與一般槽線相反的低壓槽。"
+  },
+  {
+    "english": "inviscid fluid",
+    "traditional_chinese": "inviscid 流體",
+    "definition_cht": "假設黏滯性可忽略的理想化流體。"
+  },
+  {
+    "english": "ion",
+    "traditional_chinese": "離子",
+    "definition_cht": "原子或分子因失去或獲得電子而帶有淨電荷的粒子。"
+  },
+  {
+    "english": "ion chromatography",
+    "traditional_chinese": "離子 chromatography",
+    "definition_cht": "利用離子交換與檢測技術分離並定量離子成分的分析方法。"
+  },
+  {
+    "english": "Ion cloud",
+    "traditional_chinese": "離子雲",
+    "definition_cht": "指與「離子雲」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ion counter",
+    "traditional_chinese": "離子計數器",
+    "definition_cht": "指與「離子計數器」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ion density",
+    "traditional_chinese": "離子 density",
+    "definition_cht": "指與「離子 density」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ion mean life",
+    "traditional_chinese": "離子 mean life",
+    "definition_cht": "指與「離子 mean life」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ion mobility",
+    "traditional_chinese": "離子 mobility",
+    "definition_cht": "指與「離子 mobility」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ion pair",
+    "traditional_chinese": "離子 pair",
+    "definition_cht": "指與「離子 pair」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ion-capture theory",
+    "traditional_chinese": "離子—capture theory",
+    "definition_cht": "指與「離子—capture theory」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ionic conduction",
+    "traditional_chinese": "ionic conduction",
+    "definition_cht": "指與「ionic conduction」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ionization",
+    "traditional_chinese": "游離",
+    "definition_cht": "中性原子或分子因能量作用而形成離子的過程。"
+  },
+  {
+    "english": "ionization chamber",
+    "traditional_chinese": "游離 chamber",
+    "definition_cht": "量測游離輻射或帶電粒子通量時，利用氣體游離電流原理的偵測器。"
+  },
+  {
+    "english": "ionization potential",
+    "traditional_chinese": "游離位勢",
+    "definition_cht": "指與「游離位勢」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "Ionizing radiation",
+    "traditional_chinese": "游離輻射",
+    "definition_cht": "指與「游離輻射」相關的電磁輻射或其能量傳輸過程。"
+  },
+  {
+    "english": "ionogram",
+    "traditional_chinese": "ionogram",
+    "definition_cht": "以離子探測儀量測並繪示電離層反射回波延遲與頻率關係的圖。"
+  },
+  {
+    "english": "ionosonde",
+    "traditional_chinese": "ionosonde",
+    "definition_cht": "用以探測電離層高度與電子密度結構的垂直探空雷達。"
+  },
+  {
+    "english": "ionosphere",
+    "traditional_chinese": "電離層",
+    "definition_cht": "位於高層大氣中、受太陽紫外與粒子輻射作用而含有大量離子與自由電子的區域。"
+  },
+  {
+    "english": "ionospheric potential",
+    "traditional_chinese": "電離層位勢",
+    "definition_cht": "指與「電離層位勢」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ionospheric radar",
+    "traditional_chinese": "電離層雷達",
+    "definition_cht": "用於偵測目標位置、回波或電離層／大氣結構的雷達系統或觀測方法。"
+  },
+  {
+    "english": "ionospheric recorder",
+    "traditional_chinese": "電離層記錄器",
+    "definition_cht": "用於連續記錄「電離層記錄器」相關觀測量隨時間變化的儀器。"
+  },
+  {
+    "english": "ionospheric storm",
+    "traditional_chinese": "電離層暴風",
+    "definition_cht": "受太陽活動與地磁擾動影響，電離層電子密度與結構出現顯著異常變化的現象。"
+  },
+  {
+    "english": "ionospheric tides",
+    "traditional_chinese": "電離層內潮汐",
+    "definition_cht": "指與「電離層內潮汐」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "ionospheric trough",
+    "traditional_chinese": "電離層 trough",
+    "definition_cht": "指與「電離層 trough」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "IPS",
+    "traditional_chinese": "圖像處理系統",
+    "definition_cht": "「IPS」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。"
+  },
+  {
+    "english": "IR",
+    "traditional_chinese": "紅外線",
+    "definition_cht": "「IR」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。"
+  },
+  {
+    "english": "iridescent clouds",
+    "traditional_chinese": "iridescent clouds",
+    "definition_cht": "雲滴或細小冰晶對陽光繞射所產生的彩虹般雲色現象。"
+  },
+  {
+    "english": "IRIS",
+    "traditional_chinese": "虹彩現象／IRIS 系統",
+    "definition_cht": "「IRIS」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。"
+  },
+  {
+    "english": "irisation",
+    "traditional_chinese": "irisation",
+    "definition_cht": "指與「irisation」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "iron winds",
+    "traditional_chinese": "iron winds",
+    "definition_cht": "指與「iron winds」相關的風系、局地風或風場型態，著重其形成機制、風向風速分布及天氣影響。"
+  },
+  {
+    "english": "irradiance",
+    "traditional_chinese": "irradiance",
+    "definition_cht": "單位面積所接收的輻射通量密度。"
+  },
+  {
+    "english": "irradiation",
+    "traditional_chinese": "irradiation",
+    "definition_cht": "物體表面或介質接受輻射照射的作用過程。"
+  },
+  {
+    "english": "irregular crystal",
+    "traditional_chinese": "irregular crystal",
+    "definition_cht": "「irregular crystal」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "irreversible process",
+    "traditional_chinese": "irreversible 過程",
+    "definition_cht": "「irreversible 過程」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "irrigation",
+    "traditional_chinese": "irrigation",
+    "definition_cht": "將水人工引入土壤或作物根區以補充天然降水不足的農業供水措施。"
+  },
+  {
+    "english": "irrigation return flow",
+    "traditional_chinese": "irrigation return 流動",
+    "definition_cht": "指與「irrigation return 流動」相關的離子、游離作用或電離層物理現象。"
+  },
+  {
+    "english": "irrotational",
+    "traditional_chinese": "irrotational",
+    "definition_cht": "流場局部渦度為零或可視為無旋的性質。"
+  },
+  {
+    "english": "isabnormal line",
+    "traditional_chinese": "isabnormal 線",
+    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。"
+  },
+  {
+    "english": "isallobar",
+    "traditional_chinese": "isallobar",
+    "definition_cht": "表示同一氣壓變化量的等值線。"
+  },
+  {
+    "english": "isallobaric",
+    "traditional_chinese": "等變壓的",
+    "definition_cht": "「等變壓的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isallobaric chart",
+    "traditional_chinese": "等變壓圖",
+    "definition_cht": "「等變壓圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isallobaric wind",
+    "traditional_chinese": "isallobaric 風",
+    "definition_cht": "由水平氣壓變化梯度驅動、與氣壓傾向分布有關的年齡不平衡風分量。"
+  },
+  {
+    "english": "isallohypsic wind",
+    "traditional_chinese": "isallohypsic 風",
+    "definition_cht": "指與「isallohypsic 風」相關的風系、局地風或風場型態，著重其形成機制、風向風速分布及天氣影響。"
+  },
+  {
+    "english": "isallotherm",
+    "traditional_chinese": "isallotherm",
+    "definition_cht": "表示同一氣溫變化量的等值線。"
+  },
+  {
+    "english": "isametric",
+    "traditional_chinese": "isametric",
+    "definition_cht": "「isametric」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isanabat",
+    "traditional_chinese": "isanabat",
+    "definition_cht": "「isanabat」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isanakatabar",
+    "traditional_chinese": "isanakatabar",
+    "definition_cht": "「isanakatabar」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isanomalous line",
+    "traditional_chinese": "isanomalous 線",
+    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。"
+  },
+  {
+    "english": "isanomaly",
+    "traditional_chinese": "isanomaly",
+    "definition_cht": "「isanomaly」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isanthesic line",
+    "traditional_chinese": "isanthesic 線",
+    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。"
+  },
+  {
+    "english": "ISCCP",
+    "traditional_chinese": "國際衛星雲氣候計畫",
+    "definition_cht": "以衛星資料建立全球雲量、雲頂與輻射氣候資料集的國際合作計畫。"
+  },
+  {
+    "english": "isentrope",
+    "traditional_chinese": "isentrope",
+    "definition_cht": "位溫相同各點連成的線。"
+  },
+  {
+    "english": "isentropic",
+    "traditional_chinese": "等熵的",
+    "definition_cht": "「等熵的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isentropic analysis",
+    "traditional_chinese": "isentropic 分析",
+    "definition_cht": "在等熵或等位溫面上分析大氣運動與熱力結構的方法。"
+  },
+  {
+    "english": "isentropic chart",
+    "traditional_chinese": "isentropic 圖",
+    "definition_cht": "「isentropic 圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isentropic mixing",
+    "traditional_chinese": "isentropic 混合",
+    "definition_cht": "「isentropic 混合」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isentropic surface",
+    "traditional_chinese": "isentropic 面",
+    "definition_cht": "位溫處處相同的曲面。"
+  },
+  {
+    "english": "isentropic thickness chart",
+    "traditional_chinese": "isentropic 厚度圖",
+    "definition_cht": "「isentropic 厚度圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isentropic vertical coordinate",
+    "traditional_chinese": "isentropic vertical 座標",
+    "definition_cht": "「isentropic vertical 座標」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isentropic weight chart",
+    "traditional_chinese": "isentropic weight 圖",
+    "definition_cht": "「isentropic weight 圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "iso-D",
+    "traditional_chinese": "iso—D",
+    "definition_cht": "「iso—D」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobar",
+    "traditional_chinese": "isobar",
+    "definition_cht": "表示同一氣壓值的等值線。"
+  },
+  {
+    "english": "isobaric",
+    "traditional_chinese": "等壓的",
+    "definition_cht": "「等壓的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobaric analysis",
+    "traditional_chinese": "isobaric 分析",
+    "definition_cht": "在等壓面上分析高度、溫度、風場與其他氣象要素的綜觀方法。"
+  },
+  {
+    "english": "isobaric chart",
+    "traditional_chinese": "等壓面圖",
+    "definition_cht": "「等壓面圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobaric contour chart",
+    "traditional_chinese": "isobaric contour 圖",
+    "definition_cht": "「isobaric contour 圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobaric divergence",
+    "traditional_chinese": "isobaric divergence",
+    "definition_cht": "「isobaric divergence」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobaric mixing",
+    "traditional_chinese": "isobaric 混合",
+    "definition_cht": "「isobaric 混合」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobaric surface",
+    "traditional_chinese": "isobaric 面",
+    "definition_cht": "氣壓相同各點所構成的曲面。"
+  },
+  {
+    "english": "isobaric thickness chart",
+    "traditional_chinese": "isobaric 厚度圖",
+    "definition_cht": "「isobaric 厚度圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobaric tube",
+    "traditional_chinese": "isobaric tube",
+    "definition_cht": "「isobaric tube」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobaric vorticity",
+    "traditional_chinese": "isobaric vorticity",
+    "definition_cht": "「isobaric vorticity」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobaric–isosteric solenoid",
+    "traditional_chinese": "isobaric—isosteric solenoid",
+    "definition_cht": "「isobaric—isosteric solenoid」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobath",
+    "traditional_chinese": "isobath",
+    "definition_cht": "表示同一水深的等值線。"
+  },
+  {
+    "english": "isobathytherm",
+    "traditional_chinese": "isobathytherm",
+    "definition_cht": "「isobathytherm」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isobront",
+    "traditional_chinese": "isobront",
+    "definition_cht": "表示雷暴同時發生時間的等值線。"
+  },
+  {
+    "english": "isoceraunic",
+    "traditional_chinese": "isoceraunic",
+    "definition_cht": "「isoceraunic」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isoceraunic line",
+    "traditional_chinese": "isoceraunic 線",
+    "definition_cht": "連接年平均雷日數相同地點的等值線。"
+  },
+  {
+    "english": "isochasm",
+    "traditional_chinese": "isochasm",
+    "definition_cht": "表示極光出現頻率相同的等值線。"
+  },
+  {
+    "english": "isochoric",
+    "traditional_chinese": "等容的",
+    "definition_cht": "「等容的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isochrone",
+    "traditional_chinese": "isochrone",
+    "definition_cht": "表示事件同時到達或發生時間相同的等時線。"
+  },
+  {
+    "english": "isocline",
+    "traditional_chinese": "isocline",
+    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。"
+  },
+  {
+    "english": "isoclinic line",
+    "traditional_chinese": "isoclinic 線",
+    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。"
+  },
+  {
+    "english": "isodef",
+    "traditional_chinese": "isodef",
+    "definition_cht": "「isodef」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isodrosotherm",
+    "traditional_chinese": "isodrosotherm",
+    "definition_cht": "表示相同露點溫度的等值線。"
+  },
+  {
+    "english": "isodynamic",
+    "traditional_chinese": "等磁力的",
+    "definition_cht": "「等磁力的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isoecho",
+    "traditional_chinese": "isoecho",
+    "definition_cht": "表示雷達回波強度相同的等值線。"
+  },
+  {
+    "english": "isofronts–preiso code",
+    "traditional_chinese": "isofronts—preiso 代碼",
+    "definition_cht": "指與「isofronts—preiso 代碼」相關的鋒面、鋒區或其空間邊界結構，常用於描述不同氣團之間的過渡帶。"
+  },
+  {
+    "english": "isogeotherm",
+    "traditional_chinese": "isogeotherm",
+    "definition_cht": "表示相同地溫的等值線。"
+  },
+  {
+    "english": "isogon",
+    "traditional_chinese": "isogon",
+    "definition_cht": "表示相同磁偏角的等值線。"
+  },
+  {
+    "english": "isogonic line",
+    "traditional_chinese": "isogonic 線",
+    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。"
+  },
+  {
+    "english": "isogram",
+    "traditional_chinese": "isogram",
+    "definition_cht": "「isogram」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isohaline",
+    "traditional_chinese": "isohaline",
+    "definition_cht": "表示相同鹽度的等值線。"
+  },
+  {
+    "english": "isohel",
+    "traditional_chinese": "isohel",
+    "definition_cht": "表示日照量或日照時數相同的等值線。"
+  },
+  {
+    "english": "isohume",
+    "traditional_chinese": "isohume",
+    "definition_cht": "表示相同濕度值的等值線。"
+  },
+  {
+    "english": "isohyet",
+    "traditional_chinese": "isohyet",
+    "definition_cht": "表示相同降水量的等值線。"
+  },
+  {
+    "english": "isohyetal map",
+    "traditional_chinese": "等雨量圖",
+    "definition_cht": "「等雨量圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isohypsic",
+    "traditional_chinese": "isohypsic",
+    "definition_cht": "「isohypsic」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isokinetic",
+    "traditional_chinese": "等速的",
+    "definition_cht": "「等速的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isokinetic sampling",
+    "traditional_chinese": "isokinetic sampling",
+    "definition_cht": "使採樣口流速與外界來流速度相同，以降低粒子取樣偏差的方法。"
+  },
+  {
+    "english": "isolated system",
+    "traditional_chinese": "isolated 系統",
+    "definition_cht": "「isolated 系統」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isoline",
+    "traditional_chinese": "isoline",
+    "definition_cht": "表示某一物理量相同的通用等值線。"
+  },
+  {
+    "english": "isomer",
+    "traditional_chinese": "isomer",
+    "definition_cht": "「isomer」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isoneph",
+    "traditional_chinese": "isoneph",
+    "definition_cht": "表示雲量相同的等值線。"
+  },
+  {
+    "english": "isonival",
+    "traditional_chinese": "isonival",
+    "definition_cht": "「isonival」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isophane",
+    "traditional_chinese": "isophane",
+    "definition_cht": "「isophane」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isopleth",
+    "traditional_chinese": "isopleth",
+    "definition_cht": "「isopleth」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isopluvial",
+    "traditional_chinese": "isopluvial",
+    "definition_cht": "表示相同降雨條件或降雨量的等值線或分布。"
+  },
+  {
+    "english": "isoprene",
+    "traditional_chinese": "isoprene",
+    "definition_cht": "「isoprene」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isopycnal",
+    "traditional_chinese": "isopycnal",
+    "definition_cht": "表示相同密度的等值線或等密度面。"
+  },
+  {
+    "english": "isopycnal mixing",
+    "traditional_chinese": "isopycnal 混合",
+    "definition_cht": "沿等密度面進行的物質或熱鹽交換。"
+  },
+  {
+    "english": "isopycnal surface",
+    "traditional_chinese": "isopycnal 面",
+    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。"
+  },
+  {
+    "english": "isopycnic",
+    "traditional_chinese": "等密度的",
+    "definition_cht": "「等密度的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isopycnic line",
+    "traditional_chinese": "isopycnic 線",
+    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。"
+  },
+  {
+    "english": "isopycnic surface",
+    "traditional_chinese": "isopycnic 面",
+    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。"
+  },
+  {
+    "english": "isoshear",
+    "traditional_chinese": "isoshear",
+    "definition_cht": "「isoshear」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isostatic adjustment",
+    "traditional_chinese": "isostatic adjustment",
+    "definition_cht": "「isostatic adjustment」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isostere",
+    "traditional_chinese": "isostere",
+    "definition_cht": "「isostere」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isosteric",
+    "traditional_chinese": "等容吸附的",
+    "definition_cht": "「等容吸附的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isosteric surface",
+    "traditional_chinese": "isosteric 面",
+    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。"
+  },
+  {
+    "english": "isotach",
+    "traditional_chinese": "isotach",
+    "definition_cht": "表示相同風速的等值線。"
+  },
+  {
+    "english": "isotach analysis",
+    "traditional_chinese": "isotach 分析",
+    "definition_cht": "「isotach 分析」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isotach chart",
+    "traditional_chinese": "等風速圖",
+    "definition_cht": "「等風速圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isotherm",
+    "traditional_chinese": "isotherm",
+    "definition_cht": "表示相同溫度的等值線。"
+  },
+  {
+    "english": "isotherm ribbon",
+    "traditional_chinese": "isotherm ribbon",
+    "definition_cht": "「isotherm ribbon」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isothermal",
+    "traditional_chinese": "等溫的",
+    "definition_cht": "「等溫的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isothermal atmosphere",
+    "traditional_chinese": "isothermal 大氣",
+    "definition_cht": "垂直方向上溫度近似不隨高度變化的大氣。"
+  },
+  {
+    "english": "isothermal equilibrium",
+    "traditional_chinese": "isothermal equilibrium",
+    "definition_cht": "「isothermal equilibrium」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isothermal process",
+    "traditional_chinese": "isothermal 過程",
+    "definition_cht": "「isothermal 過程」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isotimic",
+    "traditional_chinese": "isotimic",
+    "definition_cht": "「isotimic」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isotimic line",
+    "traditional_chinese": "isotimic 線",
+    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。"
+  },
+  {
+    "english": "isotimic surface",
+    "traditional_chinese": "isotimic 面",
+    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。"
+  },
+  {
+    "english": "isotope",
+    "traditional_chinese": "isotope",
+    "definition_cht": "「isotope」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isotopic tracer",
+    "traditional_chinese": "isotopic tracer",
+    "definition_cht": "利用同位素作為示蹤物以追蹤物質來源、混合與傳輸的技術。"
+  },
+  {
+    "english": "isotropic",
+    "traditional_chinese": "各向同性的",
+    "definition_cht": "「各向同性的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isotropic radiation",
+    "traditional_chinese": "isotropic 輻射",
+    "definition_cht": "指與「isotropic 輻射」相關的電磁輻射或其能量傳輸過程。"
+  },
+  {
+    "english": "isotropic radiator",
+    "traditional_chinese": "isotropic radiator",
+    "definition_cht": "「isotropic radiator」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isotropic target",
+    "traditional_chinese": "isotropic target",
+    "definition_cht": "「isotropic target」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "isotropic turbulence",
+    "traditional_chinese": "isotropic turbulence",
+    "definition_cht": "各方向統計性質近似相同的湍流。"
+  },
+  {
+    "english": "ITcal",
+    "traditional_chinese": "國際表卡路里",
+    "definition_cht": "「國際表卡路里」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。"
+  },
+  {
+    "english": "ITCZ",
+    "traditional_chinese": "熱帶輻合帶",
+    "definition_cht": "位於熱帶低緯、由兩半球信風輻合而成的主要對流與降雨帶。"
+  },
+  {
+    "english": "ITOS",
+    "traditional_chinese": "改良型 TIROS 作業系統",
+    "definition_cht": "「ITOS」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。"
+  },
+  {
+    "english": "ivory point",
+    "traditional_chinese": "ivory 點",
+    "definition_cht": "早期濕度觀測中以象牙材料製成、利用吸濕變形特性作為指示元件的測濕點或構件。"
+  }
+]
