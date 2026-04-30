@@ -1250,121 +1250,121 @@
   {
     "english": "aerologation",
     "traditional_chinese": "高空觀測",
-    "definition_cht": "對自由大氣進行探測與記錄之作業，現多以 aerological observation 表示。",
+    "definition_cht": "指對自由大氣進行之觀測與記錄作業，通常包含高空氣壓、溫度、濕度與風的探測；現多以高空氣象觀測（aerological observation）稱之。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerologation"
   },
   {
     "english": "aerological analysis",
     "traditional_chinese": "高空氣象分析",
-    "definition_cht": "根據探空、飛機或遙測資料分析自由大氣溫度、濕度、風場與穩定度結構的作業。",
+    "definition_cht": "根據探空、飛機或遙測等高空觀測資料，分析自由大氣中溫度、濕度、風場與穩定度垂直結構的作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerological_analysis"
   },
   {
     "english": "aerological days",
     "traditional_chinese": "高空觀測日",
-    "definition_cht": "依國際或業務規範實施例行高空探測與資料交換的指定日期或作業時段。",
+    "definition_cht": "依國際交換或業務規範，定期實施高空探測與資料傳輸的指定日期或作業時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerological_days"
   },
   {
     "english": "aerological station",
     "traditional_chinese": "高空氣象站",
-    "definition_cht": "進行探空、測風或其他自由大氣觀測之測站。",
+    "definition_cht": "專門施放探空氣球或進行其他自由大氣觀測，以取得高空氣象資料的測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerological_station"
   },
   {
     "english": "aerological table",
     "traditional_chinese": "高空氣象表",
-    "definition_cht": "彙列探空或高空氣象觀測資料的表格，內容可含壓力、高度、溫度、濕度與風。",
+    "definition_cht": "彙整高空觀測資料的表格，通常列有氣壓、高度、氣溫、濕度、風向與風速等要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerological_table"
   },
   {
     "english": "aerology",
     "traditional_chinese": "高空氣象學",
-    "definition_cht": "研究自由大氣物理性質、結構與過程的學科。",
+    "definition_cht": "研究自由大氣在整個垂直範圍內之性質、結構與變化的學科，著重近地表以上大氣之觀測與分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerology"
   },
   {
     "english": "aerometeorograph",
     "traditional_chinese": "航空氣象記錄儀",
-    "definition_cht": "裝載於飛行器上，自動記錄飛行途中氣象要素之儀器。",
+    "definition_cht": "裝設於航空器上的氣象記錄儀器，用以自動測記飛行途中之氣壓、氣溫與濕度等要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerometeorograph"
   },
   {
     "english": "aeronautical climatology",
     "traditional_chinese": "航空氣候學",
-    "definition_cht": "研究與航空作業相關之氣候特徵、頻率與風險的應用氣候學分支。",
+    "definition_cht": "研究機場、航路與飛航作業相關氣候特徵及其頻率分布的應用氣候學分支，用於飛行規劃與風險評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/aeronautical_climatology"
   },
   {
     "english": "aeronautical meteorological service",
     "traditional_chinese": "航空氣象服務",
-    "definition_cht": "為航空器與機場運作提供觀測、預報、警報與氣象諮詢的專業服務。",
+    "definition_cht": "為航空與國際空中航行提供氣象觀測、預報、警報、簡報及相關諮詢之專業服務。",
     "source_url": "https://glossary.ametsoc.org/wiki/aeronautical_meteorological_service"
   },
   {
     "english": "aeronautical meteorological station",
     "traditional_chinese": "航空氣象站",
-    "definition_cht": "設於機場或航空設施附近，專門支援飛航作業之氣象觀測站。",
+    "definition_cht": "指定為國際或一般空中航行製作觀測並發布氣象報告的氣象站，通常設於機場或其附近。",
     "source_url": "https://glossary.ametsoc.org/wiki/aeronautical_meteorological_station"
   },
   {
     "english": "aeronautical meteorology",
     "traditional_chinese": "航空氣象學",
-    "definition_cht": "研究並應用與飛航安全、航路規劃及機場作業相關之氣象現象與資料的學科。",
+    "definition_cht": "將氣象學應用於航空活動的學科，著重天氣對飛航安全、航路規劃與機場作業之影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/aeronautical_meteorology"
   },
   {
     "english": "aeronomy",
     "traditional_chinese": "高層大氣學",
-    "definition_cht": "研究中高層大氣之化學、電離、輻射與動力過程的學科。",
+    "definition_cht": "研究高層大氣物理、化學與電離過程，以及其與太空環境交互作用的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/aeronomy"
   },
   {
     "english": "Aerosol",
     "traditional_chinese": "氣膠",
-    "definition_cht": "懸浮於氣體中的固體或液體微粒系統，包含天然與人為來源。",
+    "definition_cht": "固體或液體微粒懸浮於氣體（通常為空氣）中的分散系統；在大氣科學中亦常指這些懸浮粒子本身。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aerosol"
   },
   {
     "english": "aerosol optical depth",
     "traditional_chinese": "氣膠光學厚度",
-    "definition_cht": "表示整層大氣氣膠對輻射消光總效應的無因次量，常用於衛星與地基遙測。",
+    "definition_cht": "表徵整層大氣中氣膠對輻射消光強弱的無因次量，可反映懸浮粒子對光的散射與吸收總效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerosol_optical_depth"
   },
   {
     "english": "Aerosol size distribution",
     "traditional_chinese": "氣膠粒徑分布",
-    "definition_cht": "描述氣膠粒子數量、表面積或質量隨粒徑變化的分布關係。",
+    "definition_cht": "描述氣膠粒子數目、表面積或質量隨粒徑變化之分布關係，是分析粒子來源、成長與移除的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aerosol_size_distribution"
   },
   {
     "english": "Aerospace Meteorology",
     "traditional_chinese": "航太氣象學",
-    "definition_cht": "研究大氣與太空環境對航空與太空飛行器設計、運作與安全影響的學科。",
+    "definition_cht": "研究大氣與近太空環境對航空器、火箭及太空飛行器之設計、發射、運作與安全影響的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aerospace_Meteorology"
   },
   {
     "english": "aerostatic balance",
-    "traditional_chinese": "靜氣平衡",
-    "definition_cht": "流體中垂直壓力梯度力與重力達成平衡的狀態，與靜力平衡概念相近。",
+    "traditional_chinese": "流體靜力平衡",
+    "definition_cht": "流體靜止時，垂直壓力梯度力與重力互相平衡的狀態；在大氣中相當於靜力平衡（hydrostatic balance）。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerostatic_balance"
   },
   {
     "english": "aestival",
     "traditional_chinese": "夏季的",
-    "definition_cht": "與夏季有關或發生於夏季的。",
+    "definition_cht": "指與夏季有關、屬於夏季，或發生於夏季的。",
     "source_url": "https://glossary.ametsoc.org/wiki/aestival"
   },
   {
     "english": "aestivation",
     "traditional_chinese": "夏眠",
-    "definition_cht": "某些生物於高溫或乾旱季節進入代謝降低之休眠狀態。",
+    "definition_cht": "某些動物在炎熱或乾旱季節進入活動與代謝降低的休眠狀態，性質近似冬眠但發生於夏季。",
     "source_url": "https://glossary.ametsoc.org/wiki/aestivation"
   },
   {
     "english": "Afer",
     "traditional_chinese": "阿非風",
-    "definition_cht": "古典氣象或地方風名之一，通常指源自非洲方向的暖風或南風。",
+    "definition_cht": "古典風名，原意為來自非洲方向的風；在地中海傳統中多指西南風或偏南的暖風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Afer"
   },
   {
