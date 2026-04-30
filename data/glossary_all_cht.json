@@ -1130,121 +1130,121 @@
   {
     "english": "advisory area",
     "traditional_chinese": "通報區",
-    "definition_cht": "發布顧問通報、預警或作業建議所涵蓋的地理區域。",
+    "definition_cht": "指某一氣象建議或通報預報所適用的地理範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/advisory_area"
   },
   {
     "english": "AE",
     "traditional_chinese": "極光電流指數",
-    "definition_cht": "auroral electrojet index 的縮寫，用於表示高緯極光帶電流系統活動強度的地磁指標。",
+    "definition_cht": "auroral electrojet index 的縮寫，為表示極光電流活動強度的地磁指數，常以奈特斯拉表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/AE"
   },
   {
     "english": "aeolian",
-    "traditional_chinese": "風成的",
-    "definition_cht": "由風力搬運、侵蝕或堆積作用形成或控制的。",
+    "traditional_chinese": "風成的；受風作用的",
+    "definition_cht": "指與風的作用或其影響有關，常用於描述由風力造成的搬運、侵蝕、堆積或相關現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/aeolian"
   },
   {
     "english": "aeolian tones",
     "traditional_chinese": "風鳴音",
-    "definition_cht": "氣流通過線狀或柱狀物體時因渦流脫落而產生的規則聲音。",
+    "definition_cht": "氣流繞過電線、樹枝等障礙物時，因尾流渦旋與壓力擾動所產生的可聽聲音。",
     "source_url": "https://glossary.ametsoc.org/wiki/aeolian_tones"
   },
   {
     "english": "aeration",
     "traditional_chinese": "曝氣",
-    "definition_cht": "使空氣進入水體、土壤或其他介質以增加氧氣交換或改變其物理化學狀態的過程。",
+    "definition_cht": "使空氣進入水體、土壤或其他介質，以促進氣體交換並改變其物理或化學狀態的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/aeration"
   },
   {
     "english": "aerial",
-    "traditional_chinese": "空中的；天線",
-    "definition_cht": "作形容詞時指與空中觀測或航空有關；作名詞時可指用於收發電磁波的天線。",
+    "traditional_chinese": "天線；空中的；大氣的；航空的",
+    "definition_cht": "作名詞時同 antenna，指用於發射或接收無線電能量的天線；作形容詞時指與空中、大氣或航空有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerial"
   },
   {
     "english": "aerial perspective",
     "traditional_chinese": "空氣透視",
-    "definition_cht": "因大氣散射與吸收使遠處景物對比降低、色調偏淡或偏藍的視覺現象。",
+    "definition_cht": "因大氣散射與吸收作用，使遠處景物的對比、清晰度與色彩飽和度降低的視覺現象，又稱 atmospheric perspective。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerial_perspective"
   },
   {
     "english": "AERO code",
-    "traditional_chinese": "航空氣象電碼",
-    "definition_cht": "用於航空氣象通報、觀測或預報資料傳輸的專用編碼格式。",
+    "traditional_chinese": "AERO 電碼；航空氣象電碼",
+    "definition_cht": "一種國際綜觀氣象電碼，用五位數一組編碼傳送對航空作業特別重要的觀測氣象要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/AERO_code"
   },
   {
     "english": "aerobiology",
     "traditional_chinese": "空氣生物學",
-    "definition_cht": "研究花粉、孢子、微生物等生物性粒子在大氣中的來源、傳播與影響的學科。",
+    "definition_cht": "研究懸浮於大氣中的生物體或生物性粒子，如微生物、花粉、孢子、種子及部分昆蟲之分布、傳輸與影響的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerobiology"
   },
   {
     "english": "aerodrome meteorological minima",
     "traditional_chinese": "機場氣象最低標準",
-    "definition_cht": "航空器在某機場進場、起降或作業所需滿足之最低能見度、雲高等氣象條件標準。",
+    "definition_cht": "為判定機場是否可供航空器起飛或降落所規定的最低雲底高與最低能見度等氣象條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerodrome_meteorological_minima"
   },
   {
     "english": "aerodynamic",
     "traditional_chinese": "空氣動力的",
-    "definition_cht": "與物體在空氣中運動時所受力及流場特性有關的。",
+    "definition_cht": "指與物體在空氣中運動時之氣流作用、受力特性及其相關現象有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerodynamic"
   },
   {
     "english": "aerodynamic balance",
-    "traditional_chinese": "空氣動力平衡",
-    "definition_cht": "物體所受升力、阻力、壓力梯度與慣性等氣動作用達平衡的狀態。",
+    "traditional_chinese": "氣動力測力儀",
+    "definition_cht": "用以測量流動空氣作用於物體表面之力的儀器，常用於風洞中對模型進行測試。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerodynamic_balance"
   },
   {
     "english": "aerodynamic force",
-    "traditional_chinese": "空氣動力",
-    "definition_cht": "流體作用於物體表面所產生的力，包括升力、阻力與側向力等。",
+    "traditional_chinese": "氣動力",
+    "definition_cht": "流動流體，尤其是空氣，作用於浸沒其中物體上的力；其沿流向的分量稱為阻力。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerodynamic_force"
   },
   {
     "english": "aerodynamic resistance",
-    "traditional_chinese": "空氣動力阻抗",
-    "definition_cht": "描述地表與大氣之間熱量、水氣或動量傳輸受湍流與風場限制程度的參數。",
+    "traditional_chinese": "空氣動力阻力",
+    "definition_cht": "空氣作用於液體或固體物體上的力中，與相對流向平行且方向相反的分量，亦稱拖曳或氣動阻力。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerodynamic_resistance"
   },
   {
     "english": "Aerodynamic roughness length",
     "traditional_chinese": "空氣動力粗糙度長度",
-    "definition_cht": "表徵地表粗糙元對近地層風速剖面影響的特徵長度，常記為 z0。",
+    "definition_cht": "表示地表粗糙度對近地層風速剖面影響的特徵長度；將對數風速剖面向下外推至平均風速為零時所對應的高度，常記為 z0。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aerodynamic_roughness_length"
   },
   {
     "english": "aerodynamically rough surface",
     "traditional_chinese": "空氣動力粗糙表面",
-    "definition_cht": "其表面粗糙元足以明顯破壞近壁層黏性次層並增強湍流交換的表面。",
+    "definition_cht": "其粗糙元高度超出層流（黏性）次層，因而明顯影響近地層流動與湍流交換的表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerodynamically_rough_surface"
   },
   {
     "english": "aerodynamically smooth surface",
     "traditional_chinese": "空氣動力光滑表面",
-    "definition_cht": "粗糙元相對於黏性次層很小，對近地風場與湍流交換影響有限的表面。",
+    "definition_cht": "其粗糙元尺度小於層流（黏性）次層，對近地層流動的影響主要受分子黏性控制的表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerodynamically_smooth_surface"
   },
   {
     "english": "aerodynamics",
     "traditional_chinese": "空氣動力學",
-    "definition_cht": "研究空氣流動及其與物體交互作用所產生力、能量與運動特性的學科。",
+    "definition_cht": "研究空氣及其他氣體流動，以及其與物體交互作用所產生受力與運動特性的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerodynamics"
   },
   {
     "english": "aerograph",
-    "traditional_chinese": "高空氣象記錄儀",
-    "definition_cht": "早期搭載於探空器或航空平台，用於連續記錄氣壓、溫度與濕度等要素的儀器。",
+    "traditional_chinese": "高空自記氣象儀",
+    "definition_cht": "泛指藉由各種方式攜帶升空、可自動記錄氣象資料的儀器。參見 meteorograph。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerograph"
   },
   {
     "english": "aerography",
-    "traditional_chinese": "高空氣象學",
-    "definition_cht": "舊稱，指研究自由大氣性質、結構與現象的學問。",
+    "traditional_chinese": "氣象記述；描述氣象學",
+    "definition_cht": "舊稱，指偏重觀測、繪圖、紀錄等實務性工作的氣象作業；亦可指不著重理論的描述氣象學。",
     "source_url": "https://glossary.ametsoc.org/wiki/aerography"
   },
   {
