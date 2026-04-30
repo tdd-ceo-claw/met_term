@@ -313,8 +313,8 @@
   },
   {
     "english": "absorptivity",
-    "traditional_chinese": "吸收能力",
-    "definition_cht": "物質對入射能量之吸收效能，常作為其吸收輻射能力的材料性質參數。",
+    "traditional_chinese": "吸收率",
+    "definition_cht": "物體或介質對入射輻射之吸收比例，用以表示其吸收入射能量的能力，常作為輻射傳輸與熱交換計算的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorptivity"
   },
   {
@@ -356,13 +356,13 @@
   {
     "english": "acceptance region",
     "traditional_chinese": "接受域",
-    "definition_cht": "在統計檢定、訊號處理或儀器設計中，判定資料或訊號可被接受的數值範圍或相空間區域。",
+    "definition_cht": "在統計假設檢定中，指檢定統計量落於此範圍時，不拒絕虛無假設的取值區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/acceptance_region"
   },
   {
     "english": "accessory cloud",
     "traditional_chinese": "附屬雲",
-    "definition_cht": "依附於主要雲體或伴隨其生成的次級雲形，如壁雲、碎雲或旗雲等。",
+    "definition_cht": "依賴較大母雲生成與維持的附屬雲體，常為母雲的附加部分或緊鄰其旁的雲塊，如弧狀雲、壁雲、碎雲或帽狀雲等。",
     "source_url": "https://glossary.ametsoc.org/wiki/accessory_cloud"
   },
   {
@@ -380,13 +380,13 @@
   {
     "english": "accretion",
     "traditional_chinese": "積聚",
-    "definition_cht": "物質因附著、凝結、凍結或沉積而逐漸增加的過程；在結冰天氣中亦指冰層附著增厚。",
+    "definition_cht": "物質因附著、凝結、凍結或沉積而逐步增厚的過程；在氣象上尤指過冷水滴或冰粒附著於粒子或固體表面而形成冰層。",
     "source_url": "https://glossary.ametsoc.org/wiki/accretion"
   },
   {
     "english": "accumulated cooling",
     "traditional_chinese": "累積冷卻量",
-    "definition_cht": "一定期間內溫度低於某基準所累計的冷卻效應，可用於能源或農業分析。",
+    "definition_cht": "邊界層氣象中指地表冷卻所造成的累積位溫缺額，量綱為溫度乘長度；可用來表徵穩定邊界層的整體冷卻強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/accumulated_cooling"
   },
   {
@@ -398,13 +398,13 @@
   {
     "english": "accumulation",
     "traditional_chinese": "累積",
-    "definition_cht": "某物理量、物質或能量隨時間逐步增加並聚集的過程或結果。",
+    "definition_cht": "在氣象與冰河學中，指積雪的累積，或雪與其他固態水分加入冰川、雪原的過程與總量，與消融相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/accumulation"
   },
   {
     "english": "accumulation area",
-    "traditional_chinese": "累積區",
-    "definition_cht": "冰川或積雪體中年累積量大於年消融量之區域，通常位於較高海拔或較冷環境。",
+    "traditional_chinese": "積累區",
+    "definition_cht": "冰川或常年積雪體上年累積量大於年消融量的區域，多位於較高海拔或較低溫環境，為雪轉化為粒雪與冰川冰的主要地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/accumulation_area"
   },
   {
