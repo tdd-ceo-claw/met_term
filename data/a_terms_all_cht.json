@@ -770,121 +770,121 @@
   {
     "english": "active front",
     "traditional_chinese": "活躍鋒",
-    "definition_cht": "伴隨顯著溫濕梯度、上升運動與天氣現象的發展中鋒面。",
+    "definition_cht": "指會產生明顯雲系與降水的鋒面或鋒面區段，與不活躍鋒相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/active_front"
   },
   {
     "english": "active layer",
     "traditional_chinese": "活動層",
-    "definition_cht": "多年凍土上方每年季節性融化與再凍結的土層。",
+    "definition_cht": "多年凍土上方每年夏季解凍、冬季再凍結的近地表土層。",
     "source_url": "https://glossary.ametsoc.org/wiki/active_layer"
   },
   {
     "english": "active nitrogen",
     "traditional_chinese": "活性氮",
-    "definition_cht": "在大氣化學中指可參與反應的含氮化合物總稱，如 NO、NO2、HNO3、PAN 與銨鹽等。",
+    "definition_cht": "大氣化學中可快速參與反應的含氮物種總稱，通常指 NO、NO2 及其氧化產物等反應性氮化合物。",
     "source_url": "https://glossary.ametsoc.org/wiki/active_nitrogen"
   },
   {
     "english": "active permafrost",
-    "traditional_chinese": "活動凍土層",
-    "definition_cht": "常為活動層之舊稱或泛稱，指多年凍土上方隨季節解凍與結凍的近地表層。",
+    "traditional_chinese": "活性多年凍土",
+    "definition_cht": "在現行氣候條件下即使局部融化，仍可再度凍結並持續存在的多年凍土；與被動多年凍土相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/active_permafrost"
   },
   {
     "english": "Active region",
     "traditional_chinese": "活動區",
-    "definition_cht": "在太陽物理中指磁場強烈、易發生日珥、耀斑或日冕物質拋射的太陽表面區域。",
+    "definition_cht": "太陽大氣中因強磁場增強而形成的局部暫現區域，常伴隨黑子、譜斑、耀斑或日冕物質拋射。",
     "source_url": "https://glossary.ametsoc.org/wiki/Active_region"
   },
   {
     "english": "active site",
     "traditional_chinese": "活性位",
-    "definition_cht": "化學反應、吸附或催化作用最易發生之特定分子位置、表面區域或晶格缺陷。",
+    "definition_cht": "酵素、催化劑或反應表面上可與反應物結合並最易發生催化反應的特定位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/active_site"
   },
   {
     "english": "active system",
     "traditional_chinese": "主動式系統",
-    "definition_cht": "需自行發射能量訊號以進行探測、通訊或量測的系統，如雷達與 lidar。",
+    "definition_cht": "需自行發射電磁波、雷射或聲波等訊號，再量測其回波或散射以進行探測的系統，如雷達或 lidar。",
     "source_url": "https://glossary.ametsoc.org/wiki/active_system"
   },
   {
     "english": "activity",
     "traditional_chinese": "活度",
-    "definition_cht": "在化學熱力學中表示物質有效濃度的量；在放射學中亦可指單位時間之衰變率，須依上下文判定。",
+    "definition_cht": "在化學熱力學中指物質的有效濃度；在放射性學中則指單位時間內的衰變數，須依上下文判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/activity"
   },
   {
     "english": "activity coefficient",
     "traditional_chinese": "活度係數",
-    "definition_cht": "描述實際溶液或混合系統偏離理想行為程度之係數。",
+    "definition_cht": "活度與濃度、莫耳分率等組成量之比值，用以表徵溶液或混合系統偏離理想行為的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/activity_coefficient"
   },
   {
     "english": "actual elevation",
     "traditional_chinese": "實際高程",
-    "definition_cht": "某地點或儀器相對於平均海平面或指定基準面的真實高度。",
+    "definition_cht": "某一地點、地物或儀器相對於平均海平面或指定高程基準面的真實高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/actual_elevation"
   },
   {
     "english": "actual evaporation",
     "traditional_chinese": "實際蒸發量",
-    "definition_cht": "在當前水分供應、能量與氣象條件限制下，實際發生的蒸發量。",
+    "definition_cht": "在當下水分供應、能量與氣象條件共同限制下實際發生的蒸發量，通常不超過潛在蒸發量。",
     "source_url": "https://glossary.ametsoc.org/wiki/actual_evaporation"
   },
   {
     "english": "actual pressure",
-    "traditional_chinese": "實際壓力",
-    "definition_cht": "系統、氣體或大氣在當下條件下實際存在的壓力值。",
+    "traditional_chinese": "實際氣壓",
+    "definition_cht": "氣象上指氣壓計所在高度的實測大氣壓，並已校正溫度、重力與儀器誤差；不一定等同測站氣壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/actual_pressure"
   },
   {
     "english": "actual time of observation",
     "traditional_chinese": "實際觀測時間",
-    "definition_cht": "儀器或觀測人員真正完成觀測或取得資料的時間。",
+    "definition_cht": "氣象要素實際被觀測、量得或記錄的時刻；報告內容應盡量反映該時刻的狀況。",
     "source_url": "https://glossary.ametsoc.org/wiki/actual_time_of_observation"
   },
   {
     "english": "adaptability",
     "traditional_chinese": "適應能力",
-    "definition_cht": "系統、生物或社會對環境變化、壓力或風險作出調整並維持功能的能力。",
+    "definition_cht": "系統、生態系、群體或社會面對環境變化與風險時，調整並維持功能、降低衝擊的能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/adaptability"
   },
   {
     "english": "adaptation luminance",
     "traditional_chinese": "適應亮度",
-    "definition_cht": "視覺系統在某環境中完成明暗適應後所對應的背景亮度水準。",
+    "definition_cht": "觀測者在估計視程或進行視覺判別時，其周遭物體與表面的平均亮度，也就是眼睛所適應的亮度水準。",
     "source_url": "https://glossary.ametsoc.org/wiki/adaptation_luminance"
   },
   {
     "english": "adaptation strategies",
     "traditional_chinese": "調適策略",
-    "definition_cht": "為降低氣候變遷或環境風險衝擊而採取的規劃、工程、管理或制度措施。",
+    "definition_cht": "為降低氣候變遷或其他環境風險衝擊而採取的規劃、工程、管理或制度性因應措施。",
     "source_url": "https://glossary.ametsoc.org/wiki/adaptation_strategies"
   },
   {
     "english": "adaptive grid",
     "traditional_chinese": "自適應網格",
-    "definition_cht": "可依解場梯度、誤差估計或物理需求動態調整解析度的數值計算網格。",
+    "definition_cht": "可依解場變化、誤差估計或物理需求，自動調整網格位置或解析度的數值計算網格。",
     "source_url": "https://glossary.ametsoc.org/wiki/adaptive_grid"
   },
   {
     "english": "adaptive observational network",
     "traditional_chinese": "自適應觀測網",
-    "definition_cht": "依天氣系統敏感區、預報不確定度或任務需求調整佈站與取樣策略的觀測網。",
+    "definition_cht": "為降低特定天氣系統的預報誤差，依敏感區與任務需求動態調整觀測配置的觀測網。",
     "source_url": "https://glossary.ametsoc.org/wiki/adaptive_observational_network"
   },
   {
     "english": "adaptive observations",
     "traditional_chinese": "自適應觀測",
-    "definition_cht": "針對預報敏感區或高不確定區域，加強特定時間與地點觀測的策略。",
+    "definition_cht": "又稱目標觀測，指為改進特定天氣系統的數值預報初始場或降低預報誤差，而加強特定區域與時段的觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/adaptive_observations"
   },
   {
     "english": "ADCP",
     "traditional_chinese": "聲學都卜勒流速剖面儀",
-    "definition_cht": "Acoustic Doppler Current Profiler 的縮寫，用於量測水體垂直流速結構。",
+    "definition_cht": "Acoustic Doppler Current Profiler 的縮寫，利用聲波都卜勒頻移量測水柱中不同深度的流速與流向。",
     "source_url": "https://glossary.ametsoc.org/wiki/ADCP"
   },
   {
