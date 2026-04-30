@@ -1490,19 +1490,19 @@
   {
     "english": "agroclimatic index",
     "traditional_chinese": "農業氣候指數",
-    "definition_cht": "綜合溫度、降水、日照或蒸發等因子，用以評估農業生產環境之指標。",
+    "definition_cht": "指對農業具有特定意義的氣候指標，常綜合氣溫、降水、日照、蒸發或生長度日等因子，用以評估作物生長環境與農業生產潛力。",
     "source_url": "https://glossary.ametsoc.org/wiki/agroclimatic_index"
   },
   {
     "english": "agrometeorological forecasting",
     "traditional_chinese": "農業氣象預報",
-    "definition_cht": "針對作物生長、病蟲害、灌溉、收穫或農損風險所作的專門氣象預報。",
+    "definition_cht": "針對作物生育、病蟲害、灌溉、收穫與農損風險等農業需求，結合天氣、氣候與作物資訊所作的專門氣象預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/agrometeorological_forecasting"
   },
   {
     "english": "Agulhas Current",
     "traditional_chinese": "阿古拉斯海流",
-    "definition_cht": "沿非洲東南岸向西南流動的暖流，為印度洋西邊界流之一，對南大洋與大西洋交換具重要作用。",
+    "definition_cht": "南印度洋的西邊界暖流，沿莫三比克與南非東南岸大致向南至西南流動，並與阿古拉斯回流及跨洋熱鹽交換密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Agulhas_Current"
   },
   {
@@ -1513,8 +1513,8 @@
   },
   {
     "english": "air acoustic ranging sensor",
-    "traditional_chinese": "空氣聲測測距感測器",
-    "definition_cht": "利用聲波在空氣中的傳播與回波時間量測距離或目標位置的感測器。",
+    "traditional_chinese": "聲波測風遙測儀",
+    "definition_cht": "利用聲波在大氣中的散射與回波特性遙測近地邊界層風速、風向等垂直剖面的儀器，概念上相當於聲波雷達（SODAR）類設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/air_acoustic_ranging_sensor"
   },
   {
@@ -1525,8 +1525,8 @@
   },
   {
     "english": "air discharge",
-    "traditional_chinese": "空氣排放",
-    "definition_cht": "氣體自系統、管道、孔口或自然通道排出之過程或流量。",
+    "traditional_chinese": "雲對空放電",
+    "definition_cht": "一種閃電放電形式，放電通道自雲內電荷中心向外延伸至看似晴空的空氣中而終止，屬雲對空的電放電。",
     "source_url": "https://glossary.ametsoc.org/wiki/air_discharge"
   },
   {
@@ -1538,13 +1538,13 @@
   {
     "english": "air hoar",
     "traditional_chinese": "霜華",
-    "definition_cht": "空氣中水汽直接凝華於物體表面所形成的白色羽毛狀或針狀冰晶。",
+    "definition_cht": "附著於地表上方物體表面的霜華，即水汽直接凝華形成的白色羽毛狀或針狀冰晶沉積。",
     "source_url": "https://glossary.ametsoc.org/wiki/air_hoar"
   },
   {
     "english": "air line correction",
     "traditional_chinese": "空氣線修正",
-    "definition_cht": "在儀器量測、聲學、雷達或輻射傳輸中，對空氣傳播路徑造成之延遲、折射或衰減所進行的修正。",
+    "definition_cht": "在量測或觀測系統中，對空氣傳輸管線（air line）所造成的時間延遲、壓力損失或訊號偏差進行的修正。",
     "source_url": "https://glossary.ametsoc.org/wiki/air_line_correction"
   },
   {
@@ -1567,8 +1567,8 @@
   },
   {
     "english": "air pocket",
-    "traditional_chinese": "氣穴",
-    "definition_cht": "大氣中局部性質與周圍顯著不同的小範圍空氣區，飛航上常指造成顛簸或突然下沉感的局地擾動區。",
+    "traditional_chinese": "氣穴（航空俗稱）",
+    "definition_cht": "航空上的俗稱，指飛機遭遇局地強上升氣流、下沉氣流或風速突變時所感受的突然下墜與顛簸；並非實際存在的中空空氣洞。",
     "source_url": "https://glossary.ametsoc.org/wiki/air_pocket"
   },
   {
@@ -1604,7 +1604,7 @@
   {
     "english": "air quality criteria",
     "traditional_chinese": "空氣品質準則",
-    "definition_cht": "根據毒理、流行病與環境效應資料所建立，用以評估污染物可接受濃度或暴露風險的科學依據。",
+    "definition_cht": "依據毒理、流行病學與環境效應資料建立的科學判據，供訂定、檢討或評估空氣品質標準及容許暴露水準之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/air_quality_criteria"
   },
   {
