@@ -1976,7 +1976,7 @@
   {
     "english": "Algerian Current",
     "traditional_chinese": "阿爾及利亞洋流",
-    "definition_cht": "地中海南部沿阿爾及利亞岸外流動的海流，與地中海環流及水團交換有關。",
+    "definition_cht": "地中海南部沿阿爾及利亞外海向東流動的表層海流，主要輸送改性大西洋水，並與阿爾及利亞渦旋及西地中海環流密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Algerian_Current"
   },
   {
@@ -1994,25 +1994,25 @@
   {
     "english": "alidade",
     "traditional_chinese": "照準儀",
-    "definition_cht": "用於測量方位角或瞄準目標方向的測繪與導航裝置。",
+    "definition_cht": "用於照準目標並測量其仰角、方位角或視線方向的儀器；在氣象觀測中可配合測雲設備推算雲底高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/alidade"
   },
   {
     "english": "alimentation",
     "traditional_chinese": "補給作用",
-    "definition_cht": "指系統獲得物質或能量供應的過程；於水文或冰川學中常指補注、補給或補充來源。",
+    "definition_cht": "指對系統提供物質或能量的補給過程；在水文與冰川學中常指流域、地下水或冰川的補注與補給來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/alimentation"
   },
   {
     "english": "Alisov's classification of climate",
     "traditional_chinese": "阿利索夫氣候分類",
-    "definition_cht": "以行星風帶、氣團活動與環流型態為基礎所建立的氣候分類方法。",
+    "definition_cht": "由阿利索夫提出的成因型氣候分類，依大尺度環流、氣團與鋒面活動的季節分布來劃分氣候帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/Alisov%27s_classification_of_climate"
   },
   {
     "english": "alkalinity",
     "traditional_chinese": "鹼度",
-    "definition_cht": "水體中中和酸的能力，主要與重碳酸鹽、碳酸鹽及氫氧根等鹼性成分有關。",
+    "definition_cht": "水體中和外加酸的能力，亦即其緩衝酸化、維持 pH 相對穩定的能力，主要由重碳酸鹽、碳酸鹽與氫氧根等成分決定。",
     "source_url": "https://glossary.ametsoc.org/wiki/alkalinity"
   },
   {
@@ -2042,49 +2042,49 @@
   {
     "english": "All-hallown summer",
     "traditional_chinese": "萬聖暖期",
-    "definition_cht": "秋季晚期短暫再現溫暖、晴朗天氣的一段期間，類似晚秋回暖現象。",
+    "definition_cht": "指萬聖節前後或晚秋時節短暫出現的異常溫暖、晴和天氣，性質近似於歐洲所稱的晚秋回暖。",
     "source_url": "https://glossary.ametsoc.org/wiki/All-hallown_summer"
   },
   {
     "english": "all-sky photometer",
     "traditional_chinese": "全天空光度計",
-    "definition_cht": "可對整個天空半球進行亮度或輻射分布量測的光學儀器。",
+    "definition_cht": "可對整個天空半球的亮度或輻射分布進行量測的光學儀器，常用於天空光度與大氣光學觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/all-sky_photometer"
   },
   {
     "english": "all-weather airport",
     "traditional_chinese": "全天候機場",
-    "definition_cht": "具備導航、照明與作業設施，可在較廣泛天氣條件下維持飛航起降運作的機場。",
+    "definition_cht": "配備足以支援合格航空器與機組員在各種作業天氣條件下進場、降落與起飛的導航、燈光及相關助航設施之機場。",
     "source_url": "https://glossary.ametsoc.org/wiki/all-weather_airport"
   },
   {
     "english": "Allard's law",
     "traditional_chinese": "阿拉德定律",
-    "definition_cht": "描述光在大氣中傳播時，其強度隨距離及大氣消光共同衰減的關係定律。",
+    "definition_cht": "描述點光源照度隨距離平方反比遞減，並受大氣透明度或消光共同衰減的關係定律。",
     "source_url": "https://glossary.ametsoc.org/wiki/Allard%27s_law"
   },
   {
     "english": "allerheiligenwind",
     "traditional_chinese": "萬聖風",
-    "definition_cht": "中歐地區與萬聖節前後相關的地方性或節令性風名。",
+    "definition_cht": "中歐地區與萬聖節前後相關的地方性節令風名。",
     "source_url": "https://glossary.ametsoc.org/wiki/allerheiligenwind"
   },
   {
     "english": "allobaric",
     "traditional_chinese": "變壓的",
-    "definition_cht": "與氣壓隨時間變化有關的；氣象上常指由氣壓變化所引起的風場分量或運動。",
+    "definition_cht": "與氣壓變率（pressure tendency）有關的；氣象上常指由氣壓隨時間變化所造成的風場分量、力場或運動特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/allobaric"
   },
   {
     "english": "allohypsography",
     "traditional_chinese": "海陸高程分布學",
-    "definition_cht": "研究地球表面陸地高程與海洋深度面積分布特徵的學門。",
+    "definition_cht": "研究地球表面陸地高程與海洋深度之面積分布及其高程—面積關係的學門。",
     "source_url": "https://glossary.ametsoc.org/wiki/allohypsography"
   },
   {
     "english": "allowed transitions",
     "traditional_chinese": "允許躍遷",
-    "definition_cht": "依量子力學選擇定則可發生、且發生機率相對較高的能階躍遷。",
+    "definition_cht": "依量子力學選擇定則可發生且機率相對較高的能階躍遷，在原子與分子光譜中通常形成較強的譜線。",
     "source_url": "https://glossary.ametsoc.org/wiki/allowed_transitions"
   },
   {
