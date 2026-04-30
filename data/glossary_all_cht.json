@@ -92,7 +92,7 @@
   {
     "english": "Abrolhos squalls",
     "traditional_chinese": "阿布羅柳斯颮",
-    "definition_cht": "巴西外海阿布羅柳斯群島附近出現的局地強陣風或颮線性天氣，常與海陸熱力對比及對流活動有關。",
+    "definition_cht": "指巴西外海阿布羅柳斯群島附近主要在 5 至 8 月出現的鋒面型降雨颮或雷颮。",
     "source_url": "https://glossary.ametsoc.org/wiki/Abrolhos_squalls"
   },
   {
@@ -128,7 +128,7 @@
   {
     "english": "absolute cavity radiometer",
     "traditional_chinese": "絕對腔體輻射計",
-    "definition_cht": "利用高吸收率腔體量測入射輻射能量的高精度標準儀器，常用於太陽輻射與輻射校正。",
+    "definition_cht": "以電替代原理量測入射輻射能量的高精度腔體輻射標準儀器，現多用於直接太陽輻照度的基準量測與校正。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_cavity_radiometer"
   },
   {
@@ -152,7 +152,7 @@
   {
     "english": "absolute instability",
     "traditional_chinese": "絕對不穩定",
-    "definition_cht": "大氣垂直溫度遞減率大於乾絕熱遞減率之狀態，使不飽和與飽和氣塊抬升後皆比環境暖而持續上升。",
+    "definition_cht": "指氣柱的環境直減率大於自發對流直減率（autoconvective lapse rate）的狀態，此時密度隨高度反增，屬力學上極端不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_instability"
   },
   {
@@ -164,7 +164,7 @@
   {
     "english": "absolute isohypse",
     "traditional_chinese": "絕對等位勢高度線",
-    "definition_cht": "連結具有相同絕對位勢高度點的等值線，用於表示空間中位勢面之高度分布。",
+    "definition_cht": "兼具定壓與定海平面高度性質的線；可表現在定壓圖上的等高線，或定高度圖上的等壓線。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_isohypse"
   },
   {
