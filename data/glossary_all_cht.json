@@ -530,7 +530,7 @@
   {
     "english": "acoustic dispersion",
     "traditional_chinese": "聲學色散",
-    "definition_cht": "聲波傳播速度隨頻率而異的現象。",
+    "definition_cht": "聲速（尤其相速）隨頻率而改變的現象，因此不同頻率成分會以不同速率傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_dispersion"
   },
   {
@@ -542,13 +542,13 @@
   {
     "english": "acoustic echo sounding",
     "traditional_chinese": "聲學回聲測深",
-    "definition_cht": "利用聲波往返時間量測水深或水下目標距離的方法。",
+    "definition_cht": "以聲納向水下發射聲脈衝，依回波往返時間推算水深或海床深度的測深方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_echo_sounding"
   },
   {
     "english": "acoustic imaging",
     "traditional_chinese": "聲學成像",
-    "definition_cht": "利用聲波反射、散射或傳播特性重建物體或介質結構影像的技術。",
+    "definition_cht": "利用聲波或超音波的反射、散射與傳播特性重建目標或介質內部結構影像的技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_imaging"
   },
   {
@@ -560,19 +560,19 @@
   {
     "english": "acoustic intensity",
     "traditional_chinese": "聲強",
-    "definition_cht": "單位面積、單位時間通過之聲能量通量。",
+    "definition_cht": "垂直於聲波傳播方向之單位面積、單位時間通過的聲能通量，常以瓦每平方公尺表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_intensity"
   },
   {
     "english": "acoustic lens",
     "traditional_chinese": "聲透鏡",
-    "definition_cht": "藉由控制聲波折射或聚焦來改變波束形狀的裝置。",
+    "definition_cht": "利用不同介質中的聲速差造成折射或聚焦，以控制聲束方向與擴散形態的裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_lens"
   },
   {
     "english": "acoustic ocean current meter",
     "traditional_chinese": "聲學海流計",
-    "definition_cht": "利用聲波傳播時間差或都卜勒效應量測海流速度與方向的儀器。",
+    "definition_cht": "利用聲波傳播時間差或都卜勒頻移量測海流流速與流向的海洋觀測儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_ocean_current_meter"
   },
   {
@@ -590,19 +590,19 @@
   {
     "english": "acoustic rain gauge",
     "traditional_chinese": "聲學雨量計",
-    "definition_cht": "依據雨滴撞擊聲訊號或聲波特徵估算降雨強度與累積雨量的儀器。",
+    "definition_cht": "利用雨滴撞擊海面或感測面所產生的聲訊號估算降雨強度、雨型或累積雨量的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_rain_gauge"
   },
   {
     "english": "acoustic reflection profiling",
     "traditional_chinese": "聲學反射剖面測量",
-    "definition_cht": "利用不同地層或水體界面之聲波反射訊號建立垂直結構剖面的探測方法。",
+    "definition_cht": "利用聲波反射探測海床下各地層界面，建立海底底下地層構造剖面的聲學測勘方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_reflection_profiling"
   },
   {
     "english": "acoustic reflectivity",
     "traditional_chinese": "聲反射率",
-    "definition_cht": "介質或界面反射入射聲能的能力，通常以反射係數或相對強度表示。",
+    "definition_cht": "介質或表面將入射聲能反射回介質中的相對能力，反映其偏向反射而非吸收聲能的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_reflectivity"
   },
   {
@@ -632,7 +632,7 @@
   {
     "english": "acoustic scintillation",
     "traditional_chinese": "聲閃爍",
-    "definition_cht": "聲波穿越具湍流或折射率擾動介質時，振幅或相位快速起伏的現象。",
+    "definition_cht": "聲波穿越受湍流或小尺度密度擾動影響的介質時，振幅與相位產生快速隨機起伏的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_scintillation"
   },
   {
@@ -644,7 +644,7 @@
   {
     "english": "acoustic sounding",
     "traditional_chinese": "聲測",
-    "definition_cht": "利用聲波探測大氣、水體或地下介質垂直結構的量測方法。",
+    "definition_cht": "利用聲波回波、散射或傳播時間差探測大氣、水體或地下介質垂直結構的測深或遙測方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_sounding"
   },
   {
