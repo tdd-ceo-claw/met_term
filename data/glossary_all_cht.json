@@ -1850,121 +1850,121 @@
   {
     "english": "airplane observation",
     "traditional_chinese": "飛機觀測",
-    "definition_cht": "以飛機為平台取得的氣象或環境觀測資料，為 aircraft observation 的常用同義稱。",
+    "definition_cht": "飛機觀測，為 aircraft observation 的舊稱，尤指以飛機搭載航空氣象儀在自由大氣中量測氣壓、氣溫與相對濕度等要素的觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/airplane_observation"
   },
   {
     "english": "airport elevation",
     "traditional_chinese": "機場標高",
-    "definition_cht": "機場基準點或主要跑道附近代表位置相對平均海平面的高度。",
+    "definition_cht": "機場標高，指機場各可用跑道中最高點相對平均海平面的高度，為航空氣象與飛航作業常用的基準資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/airport_elevation"
   },
   {
     "english": "airport forecast",
     "traditional_chinese": "機場預報",
-    "definition_cht": "針對特定機場及其鄰近空域所發布的短期飛航空氣象預報，通常包括風、能見度、天氣與雲底高度。",
+    "definition_cht": "機場預報，指針對特定機場及其鄰近空域發布的短期航空氣象預報，通常包含風、能見度、顯著天氣與雲況等要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/airport_forecast"
   },
   {
     "english": "airshed model",
     "traditional_chinese": "氣域模式",
-    "definition_cht": "將某地區視為污染物輸送與轉化之空氣盆地或氣域，模擬其排放、擴散、反應與沉降的數值模式。",
+    "definition_cht": "氣域模式，將特定區域視為一個空氣盆地或氣域，模擬污染物的排放、傳輸、擴散、化學轉化與沉降等過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/airshed_model"
   },
   {
     "english": "airspeed",
     "traditional_chinese": "空速",
-    "definition_cht": "航空器相對周圍空氣的速度，是飛行性能與操縱的重要參數。",
+    "definition_cht": "空速，指航空器相對周圍空氣的速度，為判定飛行性能、操縱與升力條件的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/airspeed"
   },
   {
     "english": "airway",
     "traditional_chinese": "航路",
-    "definition_cht": "供航空器依規定導航設施與程序飛行的空中通道。",
+    "definition_cht": "航路，指為引導航空器飛航並利於提供航管服務而規劃的指定空中通道或航線。",
     "source_url": "https://glossary.ametsoc.org/wiki/airway"
   },
   {
     "english": "airways shelter",
     "traditional_chinese": "百葉觀測箱",
-    "definition_cht": "用以保護溫度計或濕度計免受陽光直射與降水干擾，同時保持通風的標準氣象儀器遮蔽箱。",
+    "definition_cht": "百葉觀測箱，為設於航空或地面氣象站的通風式儀器箱，用以遮蔽日照與降水，保護溫度計、濕度計等觀測儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/airways_shelter"
   },
   {
     "english": "Aitken dust counter",
     "traditional_chinese": "艾特肯塵粒計數器",
-    "definition_cht": "早期用於估計空氣中凝結核或微粒數量的儀器，藉由觀察膨脹後凝結成霧滴的粒子數進行計數。",
+    "definition_cht": "艾特肯塵粒計數器，為早期用於偵測與概估大氣塵粒或凝結核數量的儀器，藉空氣膨脹冷卻後使水氣在粒子上凝結成霧滴，再加以計數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aitken_dust_counter"
   },
   {
     "english": "Aitken nucleus",
     "traditional_chinese": "艾特肯凝結核",
-    "definition_cht": "粒徑極小、可作為水氣凝結核心的氣膠粒子，通常指細粒徑凝結核族群。",
+    "definition_cht": "艾特肯凝結核，指粒徑極小的氣膠粒子，常約為 0.005 至 0.2 微米，可作為凝結核心，但通常需在較高過飽和條件下才易促成雲滴形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aitken_nucleus"
   },
   {
     "english": "alarm level",
     "traditional_chinese": "警戒濃度",
-    "definition_cht": "當觀測值達到某一預設門檻時，需啟動警報、管制或應變措施的臨界水準。",
+    "definition_cht": "警戒濃度，指污染物或其他監測量達到預設門檻時，應發布警報或啟動管制、應變措施的臨界水準。",
     "source_url": "https://glossary.ametsoc.org/wiki/alarm_level"
   },
   {
     "english": "Alaska Current",
     "traditional_chinese": "阿拉斯加洋流",
-    "definition_cht": "北太平洋東北部沿阿拉斯加灣流動的暖流，為副極地環流的一部分。",
+    "definition_cht": "阿拉斯加洋流，為阿拉斯加灣內呈反時鐘方向流動的暖性表層海流，屬北太平洋副極地環流的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/Alaska_Current"
   },
   {
     "english": "Alaskan Stream",
     "traditional_chinese": "阿拉斯加海流",
-    "definition_cht": "沿阿留申群島南側向西流動的北太平洋強勁海流，與副極地環流密切相關。",
+    "definition_cht": "阿拉斯加海流，指沿阿拉斯加半島與阿留申群島南側向西流動的強勁海流，為北太平洋副極地環流的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/Alaskan_Stream"
   },
   {
     "english": "albedo",
     "traditional_chinese": "反照率",
-    "definition_cht": "物體表面將入射短波輻射反射回去的比例，是地表輻射平衡的重要參數。",
+    "definition_cht": "反照率，指表面將入射太陽短波輻射反射回去的比例，是衡量地表或雲層反射能力的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/albedo"
   },
   {
     "english": "albedometer",
     "traditional_chinese": "反照率計",
-    "definition_cht": "同時量測向上與向下短波輻射，以求得地表或目標物反照率的儀器。",
+    "definition_cht": "反照率計，通常由一組向上與向下配置的短波輻射計組成，用以量測入射與反射輻射，進而求得表面反照率。",
     "source_url": "https://glossary.ametsoc.org/wiki/albedometer"
   },
   {
     "english": "Alberta clipper",
     "traditional_chinese": "亞伯達快移低壓",
-    "definition_cht": "源自加拿大亞伯達省、移動快速且常帶來寒冷、陣風與降雪的中緯度低壓系統。",
+    "definition_cht": "亞伯達快移低壓，指源自加拿大亞伯達省附近並快速向東南移動的中緯度低壓系統，常在冬季帶來強風、降溫與降雪。",
     "source_url": "https://glossary.ametsoc.org/wiki/Alberta_clipper"
   },
   {
     "english": "Alberta low",
     "traditional_chinese": "亞伯達低壓",
-    "definition_cht": "在加拿大亞伯達地區形成或增強的低壓系統，常為北美寒季天氣系統的重要一環。",
+    "definition_cht": "亞伯達低壓，指在加拿大亞伯達地區形成或於越過洛磯山後再發展的低壓系統，常於寒季向東移動並伴隨降雪、強風與寒冷天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/Alberta_low"
   },
   {
     "english": "aldehydes",
     "traditional_chinese": "醛類",
-    "definition_cht": "含有醛基的有機化合物族群，可由燃燒、光化學反應與生物排放產生，部分成員屬重要空氣污染物。",
+    "definition_cht": "醛類，為含有醛基（-CHO）的一類有機化合物，可由燃燒、光化學氧化與生物排放產生，其中部分物種是重要且具反應性的空氣污染物。",
     "source_url": "https://glossary.ametsoc.org/wiki/aldehydes"
   },
   {
     "english": "Aleutian Current",
     "traditional_chinese": "阿留申洋流",
-    "definition_cht": "北太平洋副極地環流中沿阿留申群島附近流動的海流分支。",
+    "definition_cht": "阿留申洋流，亦稱副極地洋流，為北太平洋中高緯度向東流動的表層海流，接近北美西岸後再分支為其他沿岸洋流系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aleutian_Current"
   },
   {
     "english": "Aleutian low",
     "traditional_chinese": "阿留申低壓",
-    "definition_cht": "冬季常駐於北太平洋阿留申群島附近的半永久性低壓中心，對北太平洋風暴路徑影響顯著。",
+    "definition_cht": "阿留申低壓，為北太平洋阿留申群島附近冬季常見的半永久性低壓中心，夏季則減弱並北移，對北太平洋風暴路徑與區域氣候影響顯著。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aleutian_low"
   },
   {
     "english": "Alexander's dark band",
     "traditional_chinese": "亞歷山大暗帶",
-    "definition_cht": "主虹與副虹之間因光線折射與反射分布造成相對較暗的天空帶。",
+    "definition_cht": "亞歷山大暗帶，指主虹與副虹之間因不同出射角度缺乏足夠散射光進入觀測者視線，而呈現相對較暗的天空帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/Alexander%27s_dark_band"
   },
   {
