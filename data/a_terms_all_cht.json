@@ -650,7 +650,7 @@
   {
     "english": "acoustic thermometer",
     "traditional_chinese": "聲學溫度計",
-    "definition_cht": "根據聲速與介質溫度關係推算溫度的量測儀器。",
+    "definition_cht": "根據聲波傳播速度與介質溫度之關係推算溫度的儀器；在大氣觀測中常見於利用聲脈衝飛行時間估算氣溫的量測配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_thermometer"
   },
   {
@@ -668,7 +668,7 @@
   {
     "english": "acoustic transponder",
     "traditional_chinese": "聲學應答器",
-    "definition_cht": "接收特定聲訊號後自動發出回應訊號的裝置，常用於水下定位與導航。",
+    "definition_cht": "接收船舶或其他設備發出的詢問聲訊號後，自動回傳特定聲碼的裝置，常用於水下導航、定位與測距。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_transponder"
   },
   {
@@ -680,13 +680,13 @@
   {
     "english": "acoustic wave",
     "traditional_chinese": "聲波",
-    "definition_cht": "介質中因壓力擾動而傳播的機械波。",
+    "definition_cht": "介質中傳播的機械性壓力波，主要表現為沿傳播方向的壓縮與稀疏擾動；廣義上即聲波。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_wave"
   },
   {
     "english": "acoustic–gravity wave",
     "traditional_chinese": "聲重力波",
-    "definition_cht": "受壓縮性與重力共同控制的波動，可在大氣或海洋中傳播，包含聲波與重力波特性。",
+    "definition_cht": "受浮力（重力）與流體可壓縮性共同控制的波動；在大氣或海洋中可同時呈現重力波與聲波的傳播特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic%E2%80%93gravity_wave"
   },
   {
@@ -710,43 +710,43 @@
   {
     "english": "actinic flux",
     "traditional_chinese": "光化通量",
-    "definition_cht": "從各方向抵達某點、可引發光化學反應之輻射通量總和，是大氣光化學的重要量。",
+    "definition_cht": "大氣中由太陽直達輻射與散射輻射共同組成、可自各方向抵達某點的球面積分輻射通量；其大小直接影響大氣光化學反應速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/actinic_flux"
   },
   {
     "english": "actinogram",
     "traditional_chinese": "日射記錄圖",
-    "definition_cht": "記錄太陽輻射強度隨時間變化的圖形或紀錄。",
+    "definition_cht": "由日射記錄儀（actinograph）或類似儀器產生的太陽輻射隨時間變化紀錄圖。",
     "source_url": "https://glossary.ametsoc.org/wiki/actinogram"
   },
   {
     "english": "actinograph",
     "traditional_chinese": "日射記錄儀",
-    "definition_cht": "連續記錄太陽輻射強度變化的儀器。",
+    "definition_cht": "連續記錄太陽輻射強度隨時間變化的儀器，常用於取得日射變化曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/actinograph"
   },
   {
     "english": "actinometer",
     "traditional_chinese": "輻射計",
-    "definition_cht": "量測太陽或其他輻射強度的儀器，歷史上常特指量測日射之裝置。",
+    "definition_cht": "量測輻射強度或加熱效應的儀器；在氣象上通常指測量太陽直接、散射或總輻射的裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/actinometer"
   },
   {
     "english": "actinometry",
     "traditional_chinese": "測輻射學",
-    "definition_cht": "研究與量測輻射，尤其是太陽輻射之方法、儀器與理論的學科。",
+    "definition_cht": "測量輻射的技術與方法總稱；現今亦常特指利用化學或物理方法量測光輻射，尤其紫外輻射的技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/actinometry"
   },
   {
     "english": "actinon",
     "traditional_chinese": "錒射氣",
-    "definition_cht": "氡的放射性同位素之一，為某些放射性衰變鏈中的惰性氣體成分。",
+    "definition_cht": "歷史名稱，指氡-219（Rn-219），為放射性惰性氣體，屬鈾－錒系衰變鏈成員。",
     "source_url": "https://glossary.ametsoc.org/wiki/actinon"
   },
   {
     "english": "activated complex theory",
     "traditional_chinese": "活化複合體理論",
-    "definition_cht": "化學反應速率理論之一，認為反應物需先形成高能過渡態或活化複合體，方能轉變為生成物。",
+    "definition_cht": "又稱過渡態理論（transition state theory）；以反應物與活化複合體之間的準平衡關係說明化學反應速率的理論。",
     "source_url": "https://glossary.ametsoc.org/wiki/activated_complex_theory"
   },
   {
@@ -758,13 +758,13 @@
   {
     "english": "active basin area",
     "traditional_chinese": "活動流域面積",
-    "definition_cht": "在某水文事件或特定水位條件下，實際參與逕流產生與輸送的流域面積。",
+    "definition_cht": "在特定降雨或逕流事件條件下，實際參與逕流生成與匯流過程的有效流域面積。",
     "source_url": "https://glossary.ametsoc.org/wiki/active_basin_area"
   },
   {
     "english": "active cloud",
     "traditional_chinese": "活躍雲",
-    "definition_cht": "具有明顯發展、強上升運動或持續微物理過程的雲體，常與降水或對流活動相關。",
+    "definition_cht": "已達自由對流層次、其凝結潛熱可維持正浮力的積雲類別；這類雲常可把邊界層中的空氣污染物輸送到自由大氣中。",
     "source_url": "https://glossary.ametsoc.org/wiki/active_cloud"
   },
   {
