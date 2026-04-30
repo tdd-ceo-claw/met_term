@@ -170,121 +170,121 @@
   {
     "english": "absolute momentum",
     "traditional_chinese": "絕對動量",
-    "definition_cht": "在包含地球自轉效應的參考架構下，物體或流體所具有的總動量。",
+    "definition_cht": "在絕對座標系中量得的線動量；於氣象學中，指粒子或氣塊相對地球的動量與地球自轉所賦予動量的向量和。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_momentum"
   },
   {
     "english": "absolute monthly maximum temperature",
     "traditional_chinese": "絕對月最高溫",
-    "definition_cht": "某月份歷年或該月觀測紀錄中曾出現的最高氣溫。",
+    "definition_cht": "某一曆月在指定多年期間內所觀測到的最高日最高氣溫，亦即該月的歷史極端高溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_monthly_maximum_temperature"
   },
   {
     "english": "absolute monthly minimum temperature",
     "traditional_chinese": "絕對月最低溫",
-    "definition_cht": "某月份歷年或該月觀測紀錄中曾出現的最低氣溫。",
+    "definition_cht": "某一曆月在指定多年期間內所觀測到的最低日最低氣溫，亦即該月的歷史極端低溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_monthly_minimum_temperature"
   },
   {
     "english": "Absolute Radiation Scale",
     "traditional_chinese": "絕對輻射尺度",
-    "definition_cht": "以基本輻射量測標準建立之輻射定標尺度，用於不同輻射儀器之校正與互相比對。",
+    "definition_cht": "以基本輻射量測標準建立的輻射定標基準尺度，用於將各類輻射儀器之觀測值校正到可互相比對的一致基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/Absolute_Radiation_Scale"
   },
   {
     "english": "absolute refractive index",
     "traditional_chinese": "絕對折射率",
-    "definition_cht": "光在真空中的速率與其在某介質中的速率之比，是描述介質折射性質的基本量。",
+    "definition_cht": "光在真空中的速率與其在某介質中相速度之比，用以表徵該介質使光減速與折射的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_refractive_index"
   },
   {
     "english": "absolute stability",
     "traditional_chinese": "絕對穩定",
-    "definition_cht": "大氣垂直溫度遞減率小於濕絕熱遞減率之狀態，使任何氣塊受抬升後均較環境冷而傾向回復原位。",
+    "definition_cht": "大氣柱溫度遞減率小於飽和絕熱遞減率的狀態；氣塊受抬升後即使達飽和，仍較環境緻密而傾向回復原位。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_stability"
   },
   {
     "english": "absolute standard barometer",
     "traditional_chinese": "絕對標準氣壓計",
-    "definition_cht": "可直接由力學或液柱平衡原理測得真實氣壓之標準氣壓量測儀器。",
+    "definition_cht": "可依液柱或力學平衡原理直接測得真實氣壓、作為基準校正之標準氣壓計。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_standard_barometer"
   },
   {
     "english": "absolute temperature extremes",
     "traditional_chinese": "絕對氣溫極值",
-    "definition_cht": "某地或某時段觀測紀錄中出現過的最高與最低氣溫。",
+    "definition_cht": "某地點在指定觀測期間內曾出現的最高氣溫與最低氣溫總稱，即該地的氣溫絕對極值。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_temperature_extremes"
   },
   {
     "english": "absolute temperature scale",
     "traditional_chinese": "絕對溫標",
-    "definition_cht": "以絕對零度為起點建立之溫標，最常見者為凱氏溫標。",
+    "definition_cht": "以絕對零度為零點建立的溫標；國際制中最常用者為凱氏溫標。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_temperature_scale"
   },
   {
     "english": "absolute velocity",
     "traditional_chinese": "絕對速度",
-    "definition_cht": "相對固定參考架構測得之真實速度，非相對於移動介質或觀測者之相對速度。",
+    "definition_cht": "在絕對座標系中量得的速度；於氣象學中，指氣塊相對地球的速度與地球自轉所造成速度的向量和。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_velocity"
   },
   {
     "english": "absolute vorticity",
     "traditional_chinese": "絕對渦度",
-    "definition_cht": "流體相對渦度與行星渦度之和，為描述地球自轉下流場旋轉性的基本動力量。",
+    "definition_cht": "相對於絕對座標系所定義的流體渦度，等於相對渦度與行星渦度之和，用以描述包含地球自轉效應的旋轉強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_vorticity"
   },
   {
     "english": "absolute zero",
     "traditional_chinese": "絕對零度",
-    "definition_cht": "熱力學溫度最低理論極限，為 0 K，即攝氏零下 273.15 度。",
+    "definition_cht": "熱力學溫標的最低理論溫度，為 0 K（約等於 −273.15°C），對應系統內能趨於最低的極限。",
     "source_url": "https://glossary.ametsoc.org/wiki/absolute_zero"
   },
   {
     "english": "absorbance",
     "traditional_chinese": "吸光度",
-    "definition_cht": "表示介質對入射輻射吸收程度的對數量，常定義為入射與透射輻射強度比值的常用對數。",
+    "definition_cht": "表示樣品削弱入射光程度的對數量，通常定義為透射率倒數的常用對數，即透射率的負常用對數。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorbance"
   },
   {
     "english": "absorbed solar radiation",
     "traditional_chinese": "被吸收的太陽輻射",
-    "definition_cht": "地表、大氣或其他介質吸收而未被反射或透射的太陽短波輻射能量。",
+    "definition_cht": "入射太陽輻射中被地表、大氣或其他介質吸收而轉為內能或熱能的部分，不包括反射與透射部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorbed_solar_radiation"
   },
   {
     "english": "absorptance",
     "traditional_chinese": "吸收率",
-    "definition_cht": "入射輻射能量中被某物體或介質吸收之比例。",
+    "definition_cht": "物體或介質所吸收的輻射能與入射輻射能之比，表示其吸收輻射的效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorptance"
   },
   {
     "english": "absorption",
     "traditional_chinese": "吸收",
-    "definition_cht": "物質將入射輻射、聲波或其他能量轉換為內能的過程。",
+    "definition_cht": "物質攝取入射輻射、聲波或其他能量並轉換為內能或其他形式能量的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorption"
   },
   {
     "english": "absorption band",
     "traditional_chinese": "吸收帶",
-    "definition_cht": "介質在某一波長範圍內對電磁輻射有顯著吸收的光譜區段。",
+    "definition_cht": "吸收光譜中某物質對特定波長、頻率或能量範圍呈顯著吸收的區段，常表現為較暗的光譜帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorption_band"
   },
   {
     "english": "absorption coefficient",
     "traditional_chinese": "吸收係數",
-    "definition_cht": "表示介質對輻射或波動吸收強度的係數，通常描述單位路徑長度內訊號衰減的程度。",
+    "definition_cht": "描述介質對輻射或波動吸收強弱的參數，表示訊號沿單位路徑長傳播時強度衰減的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorption_coefficient"
   },
   {
     "english": "absorption cross section",
     "traditional_chinese": "吸收截面",
-    "definition_cht": "用以量化單一粒子、分子或原子對入射輻射吸收能力之等效面積。",
+    "definition_cht": "量化原子、分子或粒子吸收入射輻射機率的等效面積參數，常用以表示其吸收能力強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorption_cross_section"
   },
   {
     "english": "absorption hygrometer",
     "traditional_chinese": "吸收式濕度計",
-    "definition_cht": "利用吸濕材料吸收水氣後之質量、電性或化學變化來測定空氣濕度的儀器。",
+    "definition_cht": "以吸濕性化學物質吸收空氣中水氣來測定水汽含量或濕度的濕度計，亦稱化學式濕度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/absorption_hygrometer"
   },
   {
