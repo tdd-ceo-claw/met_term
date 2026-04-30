@@ -2090,121 +2090,121 @@
   {
     "english": "alluvial",
     "traditional_chinese": "沖積的",
-    "definition_cht": "由河流搬運與沉積作用形成或與之相關的地形、沉積物或土壤。",
+    "definition_cht": "指由河流或流水搬運並沉積所形成，或與沖積物、沖積平原等河成沉積環境有關的。",
     "source_url": "https://glossary.ametsoc.org/wiki/alluvial"
   },
   {
     "english": "alluvial aquifer",
     "traditional_chinese": "沖積含水層",
-    "definition_cht": "由河流沖積沉積物構成、具有儲水與導水能力的地下含水地層。",
+    "definition_cht": "由河流沖積形成的砂、礫、粉砂等沉積物所構成的含水層，通常與形成該沉積物的河川具有水力連通性。",
     "source_url": "https://glossary.ametsoc.org/wiki/alluvial_aquifer"
   },
   {
     "english": "almanac",
     "traditional_chinese": "年鑑",
-    "definition_cht": "按日、月或年編列天文、氣象、潮汐或曆法資料的參考出版物。",
+    "definition_cht": "按年定期出版的參考資料集，通常彙整曆法、天文、潮汐、氣候或氣象等逐日或逐月資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/almanac"
   },
   {
     "english": "Almeria–Oran front",
     "traditional_chinese": "阿爾梅里亞—奧蘭鋒",
-    "definition_cht": "位於西地中海阿爾梅里亞與奧蘭一帶海域的海洋鋒面或水團交界帶。",
+    "definition_cht": "位於西地中海阿爾沃蘭海東部、介於西班牙阿爾梅里亞與阿爾及利亞奧蘭之間的海洋鋒面，為大西洋來源與地中海來源表層水交會的顯著密度／溫鹽梯度帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/Almeria%E2%80%93Oran_front"
   },
   {
     "english": "almwind",
     "traditional_chinese": "高山牧場風",
-    "definition_cht": "阿爾卑斯山區與高山草場地帶相關的地方性風名，通常受山谷與坡面熱力差異控制。",
+    "definition_cht": "塔特拉山區一帶的地方性焚風名稱，見於匈牙利與波蘭相關文獻，指背風側下沉增溫、偏乾的越山風。",
     "source_url": "https://glossary.ametsoc.org/wiki/almwind"
   },
   {
     "english": "aloegoe",
     "traditional_chinese": "阿洛戈風",
-    "definition_cht": "特定地區使用的地方風名，指具有區域性來源與季節特徵的局地風。",
+    "definition_cht": "印尼蘇門答臘托巴湖地區記載的地方性風名，屬湖區局地風系中的一種；現有可得資料多僅載其為當地風名。",
     "source_url": "https://glossary.ametsoc.org/wiki/aloegoe"
   },
   {
     "english": "along-slope wind systems",
     "traditional_chinese": "沿坡風系",
-    "definition_cht": "受山坡加熱與冷卻所驅動，沿坡面向上或向下流動的局地風系總稱。",
+    "definition_cht": "山谷坡面受日夜加熱與冷卻所驅動、沿坡向上或向下吹送的熱力局地風系，必要時亦可伴隨反向補償氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/along-slope_wind_systems"
   },
   {
     "english": "along-valley wind systems",
     "traditional_chinese": "沿谷風系",
-    "definition_cht": "在山谷地形中受熱力與壓力梯度影響，沿谷軸方向形成的日夜局地環流系統。",
+    "definition_cht": "沿山谷主軸吹送的熱力驅動局地風系，包括白天的上谷風、夜間的下谷風，並可伴隨高空反向回流。",
     "source_url": "https://glossary.ametsoc.org/wiki/along-valley_wind_systems"
   },
   {
     "english": "along-valley winds",
     "traditional_chinese": "沿谷風",
-    "definition_cht": "沿山谷主軸吹送的局地風，常表現為白天上谷風與夜間下谷風。",
+    "definition_cht": "地形所產生且平行於山谷軸線的局地風，常在綜觀尺度風弱或近於靜風時出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/along-valley_winds"
   },
   {
     "english": "aloup de vent",
     "traditional_chinese": "阿盧風",
-    "definition_cht": "地方性風名，指某特定地區依地形與季節而出現的局地風。",
+    "definition_cht": "法國布雷旺河谷附近的地方性冷夜風。",
     "source_url": "https://glossary.ametsoc.org/wiki/aloup_de_vent"
   },
   {
     "english": "alpenglow",
     "traditional_chinese": "高山霞光",
-    "definition_cht": "日出前或日落後，高山或高雲因太陽低角度散射而呈現紅、橙色輝光的現象。",
+    "definition_cht": "日出前或日落後，山峰尤其雪峰表面出現的紅、橙、粉紫色輝光現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/alpenglow"
   },
   {
     "english": "alpha particle",
     "traditional_chinese": "α粒子",
-    "definition_cht": "由兩個質子與兩個中子組成的帶正電粒子，為某些放射性衰變所釋出的粒子。",
+    "definition_cht": "由兩個質子與兩個中子組成、帶 +2 電荷的粒子，等同於氦-4 原子核，常在放射性核種發生 α 衰變時射出。",
     "source_url": "https://glossary.ametsoc.org/wiki/alpha_particle"
   },
   {
     "english": "alpha ray",
     "traditional_chinese": "α射線",
-    "definition_cht": "由放射性物質放出、實質上由 α 粒子組成的電離輻射。",
+    "definition_cht": "由 α 粒子組成的游離輻射，亦稱 α 輻射，其穿透力低、在空氣中的作用距離短。",
     "source_url": "https://glossary.ametsoc.org/wiki/alpha_ray"
   },
   {
     "english": "alpine glacier",
     "traditional_chinese": "高山冰川",
-    "definition_cht": "發育於山區谷地或山坡上的冰川，其流動與形態受地形強烈控制。",
+    "definition_cht": "受周圍山地地形約束、發育於高山坡面或谷地中的冰川，亦稱山岳冰川。",
     "source_url": "https://glossary.ametsoc.org/wiki/alpine_glacier"
   },
   {
     "english": "alpine tundra",
     "traditional_chinese": "高山凍原",
-    "definition_cht": "位於高海拔樹木生長上限以上、植被低矮且生長季短的寒冷生態環境。",
+    "definition_cht": "位於高海拔樹線以上、因氣候寒冷而無法生長喬木的凍原型生態環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/alpine_tundra"
   },
   {
     "english": "Alter shield",
     "traditional_chinese": "奧特防風罩",
-    "definition_cht": "裝設於降水量器周圍，用以減少風對降水收集效率影響的防風裝置。",
+    "definition_cht": "裝設於雨量器或雪量器外圍的一種環形防風罩，由可自由擺動的間隔葉片組成，用以降低風致少收並提升降水量測準確度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Alter_shield"
   },
   {
     "english": "alternate airport",
     "traditional_chinese": "備降機場",
-    "definition_cht": "當原定目的地或起降機場無法安全使用時，可供航空器改降的替代機場。",
+    "definition_cht": "當航空器無法或不宜於原定機場落地時，可供改降的備用機場；航空上亦常稱 alternate aerodrome。",
     "source_url": "https://glossary.ametsoc.org/wiki/alternate_airport"
   },
   {
     "english": "alternate forecast",
     "traditional_chinese": "備降預報",
-    "definition_cht": "針對備降機場所發布的航空氣象預報，用於飛航計畫與備援決策。",
+    "definition_cht": "供飛航計畫選定備降機場時使用的航空氣象預報，通常指備降機場的機場預報（如 TAF）及其是否高於備降適用最低標準。",
     "source_url": "https://glossary.ametsoc.org/wiki/alternate_forecast"
   },
   {
     "english": "alternating unit tensor",
     "traditional_chinese": "交替單位張量",
-    "definition_cht": "在向量與張量分析中用以表示完全反對稱性質的單位張量，亦常稱 Levi-Civita 張量。",
+    "definition_cht": "用以表示完全反對稱性的單位張量，常記為 εijk，亦稱 Levi-Civita 符號或張量，常用於向量叉積、旋度與運動方程中的科氏力項表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/alternating_unit_tensor"
   },
   {
     "english": "alti-electrograph",
     "traditional_chinese": "高度電記儀",
-    "definition_cht": "以電性方式自動記錄高度變化的儀器。",
+    "definition_cht": "以電性方式記錄高度或氣壓高度變化的自記儀器，舊式文獻中亦見於高空觀測或探空相關記錄裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/alti-electrograph"
   },
   {
