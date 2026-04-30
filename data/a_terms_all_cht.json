@@ -1730,121 +1730,121 @@
   {
     "english": "aircraft meteorological station",
     "traditional_chinese": "航空器氣象觀測站",
-    "definition_cht": "以航空器為觀測平台，定期或即時回傳飛行途中的氣象資料之觀測系統。",
+    "definition_cht": "設於航空器上的氣象觀測站，於飛行途中觀測並回傳溫度、風、濕度等氣象資料，供航空氣象服務與數值天氣預報使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_meteorological_station"
   },
   {
     "english": "aircraft observation",
     "traditional_chinese": "航空器觀測",
-    "definition_cht": "由航空器於飛行中取得並回報的大氣、雲、亂流、結冰或其他環境觀測資料。",
+    "definition_cht": "由航空器在飛行中對溫度、濕度、風向風速、亂流、結冰、天氣現象、雲況或特定氣壓面高度等所作的氣象觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_observation"
   },
   {
     "english": "aircraft report",
     "traditional_chinese": "航空器報告",
-    "definition_cht": "飛行員或機載系統依規定格式傳送的飛航與氣象觀測報告，常簡稱為 AIREP 或相關自動報。",
+    "definition_cht": "航空器於飛行中傳送至地面站的報告，通常包含位置、時間、飛行高度及所觀測到的氣象資訊；可為例行或特別報。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_report"
   },
   {
     "english": "aircraft sounding",
     "traditional_chinese": "航空器探空",
-    "definition_cht": "利用航空器升降或巡航過程所量得之溫度、風、濕度與壓力資料重建大氣垂直結構的方法。",
+    "definition_cht": "利用航空器於起降或飛行過程取得的連續觀測資料，描繪大氣垂直方向之溫度、風、濕度等結構的探空方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_sounding"
   },
   {
     "english": "aircraft thermometry",
     "traditional_chinese": "航空器測溫",
-    "definition_cht": "在航空器上量測外界空氣溫度的技術與方法，需校正氣流壓縮與儀器加熱效應。",
+    "definition_cht": "在航空器上量測外界氣溫的技術，通常須校正氣流壓縮、機體受熱與感測器安裝位置等效應，以求接近自由大氣溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_thermometry"
   },
   {
     "english": "aircraft turbulence",
     "traditional_chinese": "航空器遭遇亂流",
-    "definition_cht": "航空器在飛行中受大氣紊流、風切變或對流擾動影響而產生顛簸的現象。",
+    "definition_cht": "航空器在飛行中因大氣風速或風向快速變化而產生的不規則顛簸運動，可出現在雲中或晴空區。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_turbulence"
   },
   {
     "english": "aircraft weather reconnaissance",
     "traditional_chinese": "航空氣象偵察",
-    "definition_cht": "以航空器主動進入目標天氣系統進行觀測，蒐集颱風、鋒面或對流系統之關鍵資料。",
+    "definition_cht": "利用飛行中的航空器進行詳細天氣觀測與調查的作業，常用於颱風、強對流等重要天氣系統之監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_weather_reconnaissance"
   },
   {
     "english": "aircraft-to-satellite data relay",
     "traditional_chinese": "航空器至衛星資料中繼",
-    "definition_cht": "透過衛星通訊系統將航空器觀測或飛航資料即時傳送至地面站的技術。",
+    "definition_cht": "航空器經由衛星中繼將觀測或飛航資料傳送至其他地點的通訊方式，可延伸超視距資料傳輸能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft-to-satellite_data_relay"
   },
   {
     "english": "AIREP",
     "traditional_chinese": "航空器報告",
-    "definition_cht": "航空器於飛行中依標準格式提交的例行或特別報告，內容可包括位置、時間、風、溫度、亂流與結冰等。",
+    "definition_cht": "air report 的縮寫，指航空器於飛行中發送的空中報；亦指傳送該類報文所使用的標準代碼。",
     "source_url": "https://glossary.ametsoc.org/wiki/AIREP"
   },
   {
     "english": "airfield color code",
     "traditional_chinese": "機場顏色代碼",
-    "definition_cht": "以顏色分級表示機場附近天氣條件對飛航作業影響程度的簡明編碼系統。",
+    "definition_cht": "以顏色代碼簡要表示機場及其附近天氣條件對飛航作業影響程度的系統，常綜合雲底高與能見度等要素分級。",
     "source_url": "https://glossary.ametsoc.org/wiki/airfield_color_code"
   },
   {
     "english": "airglow",
     "traditional_chinese": "氣輝",
-    "definition_cht": "高層大氣中的原子、分子或自由基受化學反應與輻射激發後所發出的微弱自然輝光。",
+    "definition_cht": "地球高層大氣中的原子、分子與自由基受光化學作用、再結合或輻射激發後所發出的微弱天然輝光。",
     "source_url": "https://glossary.ametsoc.org/wiki/airglow"
   },
   {
     "english": "airlight",
     "traditional_chinese": "空氣光",
-    "definition_cht": "由大氣分子或粒子散射進入視線的光，會降低目標與背景之對比並影響能見度。",
+    "definition_cht": "觀測目標與觀測者之間的大氣因散射而沿視線加入的亮度成分，會降低目標與背景之對比並影響視程判識。",
     "source_url": "https://glossary.ametsoc.org/wiki/airlight"
   },
   {
     "english": "airlight formula",
     "traditional_chinese": "空氣光公式",
-    "definition_cht": "描述大氣散射所產生視線亮度與目標對比衰減關係的數學表示式。",
+    "definition_cht": "描述視線方向空氣光亮度與大氣消光、背景天光及目標距離關係的公式，常用於日間視程估算；亦稱 Koschmieder 定律。",
     "source_url": "https://glossary.ametsoc.org/wiki/airlight_formula"
   },
   {
     "english": "airmass analysis",
     "traditional_chinese": "氣團分析",
-    "definition_cht": "依氣團的溫濕特性、源地與移動路徑，分析其分布、邊界及對天氣的影響。",
+    "definition_cht": "依氣團的源區、溫濕特性、邊界與移動情形所進行的天氣分析，用以判識不同氣團的分布及其對天氣的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/airmass_analysis"
   },
   {
     "english": "airmass classification",
     "traditional_chinese": "氣團分類",
-    "definition_cht": "按照氣團形成區、溫度與濕度特徵，將氣團區分為熱帶、極地、大陸性、海洋性等類型。",
+    "definition_cht": "依氣團源區及其溫度、濕度等性質，將氣團劃分為熱帶、極地、大陸性、海洋性等類型的分類方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/airmass_classification"
   },
   {
     "english": "airmass climatology",
     "traditional_chinese": "氣團氣候學",
-    "definition_cht": "研究各類氣團在不同地區與季節出現頻率、路徑、轉變及其氣候意義的學科。",
+    "definition_cht": "研究某地區各類氣團的性質、分類及其季節性或年際出現頻率，並據以說明該地反覆出現之天氣與氣候特徵的氣候學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/airmass_climatology"
   },
   {
     "english": "airmass modification",
     "traditional_chinese": "氣團變質",
-    "definition_cht": "氣團在移動過程中受下墊面加熱、冷卻、蒸發或地形影響而改變原有熱力與水氣性質的過程。",
+    "definition_cht": "氣團離開源區後，在移動途中受下墊面熱量與水氣通量、亂流混合或地形等影響而改變原有性質的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/airmass_modification"
   },
   {
     "english": "airmass precipitation",
     "traditional_chinese": "氣團性降水",
-    "definition_cht": "在單一氣團內因局地加熱、不穩定或地形抬升所形成，而非直接由鋒面觸發的降水。",
+    "definition_cht": "在未受鋒面或地形抬升直接影響時，僅由氣團內部之溫度與水氣分布所產生的降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/airmass_precipitation"
   },
   {
     "english": "airmass shower",
     "traditional_chinese": "氣團性陣雨",
-    "definition_cht": "發生於不穩定氣團內，由局地對流發展所造成的短時、間歇性陣雨。",
+    "definition_cht": "由不穩定氣團內局地對流所形成的陣雨，為氣團性降水中最常見的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/airmass_shower"
   },
   {
     "english": "airmass source region",
     "traditional_chinese": "氣團源區",
-    "definition_cht": "氣團形成並取得其主要熱力與水氣特徵的廣大下墊面區域。",
+    "definition_cht": "氣團生成並經長時間與下墊面接觸而取得近水平一致之溫度與濕度特性的地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/airmass_source_region"
   },
   {
