@@ -1370,121 +1370,121 @@
   {
     "english": "afghanets",
     "traditional_chinese": "阿富汗風",
-    "definition_cht": "阿富汗一帶的地方性風名，可指當地乾熱、夾塵或地形導引的風系。",
+    "definition_cht": "中亞特爾梅茲（Termez）一帶的強烈多塵地方風，常在冷空氣侵入暖熱的巴克特里亞平原時形成，並可夾帶沙塵。",
     "source_url": "https://glossary.ametsoc.org/wiki/afghanets"
   },
   {
     "english": "African Easterly Wave",
     "traditional_chinese": "非洲東風波",
-    "definition_cht": "沿非洲東風急流附近生成並向西傳播的熱帶擾動，常為大西洋熱帶氣旋胚胎。",
+    "definition_cht": "由非洲東風急流的斜壓與正壓不穩定所產生、向西傳播的熱帶東風波，常自非洲移入大西洋，並可發展為熱帶氣旋擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/African_Easterly_Wave"
   },
   {
     "english": "African jet",
     "traditional_chinese": "非洲急流",
-    "definition_cht": "通常指非洲東風急流，為北非與西非中低層因南北溫度梯度形成之狹強風帶。",
+    "definition_cht": "夏季出現在北非撒哈拉一帶的低層東風急流，常作為非洲東風波生成與向西傳播的重要動力背景。",
     "source_url": "https://glossary.ametsoc.org/wiki/African_jet"
   },
   {
     "english": "afterglow",
     "traditional_chinese": "餘暉",
-    "definition_cht": "日落後或日出前，因高空散射使天空仍維持明亮或呈現色彩的光學現象。",
+    "definition_cht": "日落後（有時亦指日出前）天際仍可見的暮曙光餘暉，常呈白、粉紅或紅紫色，屬大氣散射造成的光學現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/afterglow"
   },
   {
     "english": "afterheat",
     "traditional_chinese": "餘熱",
-    "definition_cht": "熱源移除後仍殘留於系統中的熱量，或白天受熱後地表與近地層持續釋放的熱能。",
+    "definition_cht": "熱源移除後仍殘留並持續釋出的熱量；在廣義用法中亦可指地表或物體受熱後的餘熱。",
     "source_url": "https://glossary.ametsoc.org/wiki/afterheat"
   },
   {
     "english": "afternoon effect",
     "traditional_chinese": "午後效應",
-    "definition_cht": "因日間加熱在午後最明顯而造成之邊界層發展、對流增強或觀測偏差現象。",
+    "definition_cht": "海洋與聲學氣象中指晴朗少風日下午因海表附近日間增溫而改變水中聲速結構，致使聲納探測效能下降的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/afternoon_effect"
   },
   {
     "english": "aftersummer",
     "traditional_chinese": "小陽春",
-    "definition_cht": "秋季或初冬短暫出現近似夏季的溫暖晴朗天氣。",
+    "definition_cht": "晚秋或初冬短暫出現的回暖晴和天氣，性質近似英語所稱的 Indian summer。",
     "source_url": "https://glossary.ametsoc.org/wiki/aftersummer"
   },
   {
     "english": "age",
     "traditional_chinese": "齡；年齡",
-    "definition_cht": "指物體、氣團、水團、氣膠或地質體自形成以來所經歷的時間。",
+    "definition_cht": "指氣團、水團、氣膠、冰體或其他物質自形成、分離或最後一次顯著混合以來所經歷的時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/age"
   },
   {
     "english": "ageostrophic advection",
     "traditional_chinese": "非地轉平流",
-    "definition_cht": "由非地轉風分量造成之物理量輸送，常與輻合、輻散及垂直運動有關。",
+    "definition_cht": "由非地轉風分量所造成的平流輸送；在天氣分析中常與輻合、輻散及垂直運動的發展有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/ageostrophic_advection"
   },
   {
     "english": "ageostrophic wind",
     "traditional_chinese": "非地轉風",
-    "definition_cht": "實際風中偏離地轉平衡的部分，可由摩擦、曲率、加速度或局地強迫所致。",
+    "definition_cht": "實際風與地轉風之向量差，即偏離地轉平衡的風分量，可由摩擦、曲率、加速度或局地強迫造成。",
     "source_url": "https://glossary.ametsoc.org/wiki/ageostrophic_wind"
   },
   {
     "english": "agglomeration",
     "traditional_chinese": "團聚",
-    "definition_cht": "細小粒子因碰撞、黏附或凝結而聚合成較大顆粒或團塊的過程。",
+    "definition_cht": "較舊的總稱，用於指雲滴或冰粒經碰撞黏附而併成較大粒子的過程；現代微物理中多改用 accretion、coalescence 或 aggregation 等較精確術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/agglomeration"
   },
   {
     "english": "aggregation",
     "traditional_chinese": "聚集",
-    "definition_cht": "個體、粒子、冰晶、資料單元或現象組成較大集合體的過程。",
+    "definition_cht": "降水微物理中指雪晶、雪片等冰粒彼此碰撞並黏結成較大冰粒的過程，對形成大片雪花特別重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/aggregation"
   },
   {
     "english": "aggressive water",
     "traditional_chinese": "侵蝕性水",
-    "definition_cht": "對碳酸鹽、金屬或建材具有較強溶蝕或腐蝕能力的水體。",
+    "definition_cht": "指性質偏軟且偏酸、對碳酸鹽、金屬或混凝土等材料具有較強溶蝕或腐蝕能力的水體。",
     "source_url": "https://glossary.ametsoc.org/wiki/aggressive_water"
   },
   {
     "english": "agnostic chart",
     "traditional_chinese": "無定見圖",
-    "definition_cht": "不預先假設特定物理模型或分類、僅以資料本身呈現分布特徵的分析圖。",
+    "definition_cht": "不預設特定物理模型、分類或機制，而主要依觀測或資料分布本身來呈現特徵的分析圖表。",
     "source_url": "https://glossary.ametsoc.org/wiki/agnostic_chart"
   },
   {
     "english": "agonic line",
     "traditional_chinese": "無偏線",
-    "definition_cht": "地表上磁偏角為零的連線，即真北與磁北一致的位置。",
+    "definition_cht": "地表上磁偏角為零的連線；沿此線真北與磁北一致，因此磁羅盤不需作磁偏角修正。",
     "source_url": "https://glossary.ametsoc.org/wiki/agonic_line"
   },
   {
     "english": "agricultural climatology",
     "traditional_chinese": "農業氣候學",
-    "definition_cht": "研究氣候條件對作物、生產制度與農業資源影響的應用氣候學分支。",
+    "definition_cht": "研究氣候條件及其長期變化對作物、畜牧、生產制度與農業資源影響的應用氣候學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/agricultural_climatology"
   },
   {
     "english": "agricultural drought",
     "traditional_chinese": "農業乾旱",
-    "definition_cht": "土壤水分不足以滿足作物生長需求，致使農作生產受損的乾旱型態。",
+    "definition_cht": "指降水不足、蒸發散需求偏高與土壤含水量下降等因素，致使作物可利用水分不足並影響農業生產的乾旱型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/agricultural_drought"
   },
   {
     "english": "agricultural meteorological station",
     "traditional_chinese": "農業氣象站",
-    "definition_cht": "以農業應用為目的，觀測氣象與農田環境要素之測站。",
+    "definition_cht": "為農業用途設置的氣象觀測站，通常以感測器與資料記錄設備持續量測土壤與近地表大氣要素，以代表特定農區環境條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/agricultural_meteorological_station"
   },
   {
     "english": "agricultural meteorology",
     "traditional_chinese": "農業氣象學",
-    "definition_cht": "研究天氣與氣候對農作物、畜牧、土壤與農業作業影響的應用氣象學。",
+    "definition_cht": "研究天氣、氣候與農田環境對作物、畜牧、土壤及農業作業影響，並將氣象知識應用於農業生產與管理的應用氣象學。",
     "source_url": "https://glossary.ametsoc.org/wiki/agricultural_meteorology"
   },
   {
     "english": "agro-met station",
     "traditional_chinese": "農業氣象站",
-    "definition_cht": "agricultural meteorological station 的簡稱，指提供農業相關氣象觀測與服務的測站。",
+    "definition_cht": "agricultural meteorological station 的縮稱，指提供農業相關氣象與農田環境觀測的測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/agro-met_station"
   },
   {
