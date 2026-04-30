@@ -1616,7 +1616,7 @@
   {
     "english": "air report",
     "traditional_chinese": "航空氣象報告",
-    "definition_cht": "由航空器於飛行中回報的氣象觀測資訊，內容可含風、溫度、雲、亂流、結冰與能見度等。",
+    "definition_cht": "航空器在飛行中所作的氣象報告，分為例行報與特別報，內容可含風、溫度、雲、亂流、結冰等飛航相關資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/air_report"
   },
   {
@@ -1646,7 +1646,7 @@
   {
     "english": "air-line sounding",
     "traditional_chinese": "航線探空",
-    "definition_cht": "利用固定航線航空器沿飛行路徑所取得的大氣垂直或準垂直觀測資料。",
+    "definition_cht": "利用定期航線航空器於飛行途中取得的大氣探空或高空觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/air-line_sounding"
   },
   {
@@ -1681,8 +1681,8 @@
   },
   {
     "english": "airborne expendable bathythermograph",
-    "traditional_chinese": "機載投棄式海水溫深儀",
-    "definition_cht": "由航空器投放入海、一次性使用的儀器，用以量測上層海洋溫度隨深度之分布。",
+    "traditional_chinese": "機載投棄式海洋溫深儀",
+    "definition_cht": "由航空器投放、一次性使用的海洋觀測儀器，用以量測海水溫度隨深度的剖面。",
     "source_url": "https://glossary.ametsoc.org/wiki/airborne_expendable_bathythermograph"
   },
   {
@@ -1705,8 +1705,8 @@
   },
   {
     "english": "aircraft ceiling",
-    "traditional_chinese": "航空器升限",
-    "definition_cht": "航空器在特定載重與大氣條件下，仍能維持規定爬升性能或平飛性能的最大高度。",
+    "traditional_chinese": "航空器觀測雲幕高",
+    "definition_cht": "依航空氣象觀測作業，指航空器在機場附近所判定的雲幕高；除雲底外，也可指上空遮蔽現象對應的垂直能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_ceiling"
   },
   {
@@ -1717,14 +1717,14 @@
   },
   {
     "english": "aircraft ice accretion",
-    "traditional_chinese": "航空器積冰附著",
-    "definition_cht": "過冷水滴在航空器表面撞擊後凍結並逐漸堆積的過程，會改變空氣動力與操作安全。",
+    "traditional_chinese": "航空器積冰",
+    "definition_cht": "航空器表面因過冷液態水滴撞擊凍結而產生冰層附著與累積的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_ice_accretion"
   },
   {
     "english": "aircraft icing",
     "traditional_chinese": "航空器結冰",
-    "definition_cht": "航空器在飛行中因遭遇過冷雲滴、凍雨或濕雪而於機體表面形成冰層的現象。",
+    "definition_cht": "航空器表面形成冰、霧淞或透明冰等積冰的現象，通常由過冷液態水滴撞擊並凍結所致。",
     "source_url": "https://glossary.ametsoc.org/wiki/aircraft_icing"
   },
   {
