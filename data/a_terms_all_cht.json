@@ -410,121 +410,121 @@
   {
     "english": "accumulation mode",
     "traditional_chinese": "累積模態",
-    "definition_cht": "大氣氣膠粒徑分布中的一類粒子族群，常指粒徑約介於細粒與粗粒之間、易由凝結與凝聚形成的模態。",
+    "definition_cht": "氣膠粒徑分布中的累積模態，通常指粒徑約 0.5–2 微米的粒子族群；此粒徑範圍的粒子不易快速沉降，也不易再凝聚成更大粒子，因此易在大氣中累積。",
     "source_url": "https://glossary.ametsoc.org/wiki/accumulation_mode"
   },
   {
     "english": "accumulation rain gauge",
     "traditional_chinese": "累積式雨量計",
-    "definition_cht": "將一定時間內總降水量累積收集並讀取的雨量量測儀器。",
+    "definition_cht": "將降水隨時間持續累積於容器中的雨量計；其累積降水深度通常可由浮子水位、稱重或其他讀值機制求得。",
     "source_url": "https://glossary.ametsoc.org/wiki/accumulation_rain_gauge"
   },
   {
     "english": "accumulation zone",
     "traditional_chinese": "累積帶",
-    "definition_cht": "與累積區同義，指冰川或雪體中淨累積為正的地帶。",
+    "definition_cht": "冰川或積雪體中淨累積量大於消融量的區域，亦即年內固態降水補給超過融化、昇華與崩解損失的地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/accumulation_zone"
   },
   {
     "english": "accuracy",
     "traditional_chinese": "準確度",
-    "definition_cht": "量測值或估計值接近真值的程度。",
+    "definition_cht": "量測或推算結果在完成必要校正後接近真值的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/accuracy"
   },
   {
     "english": "acdar",
-    "traditional_chinese": "飛機資料中繼系統",
-    "definition_cht": "通常指 aircraft to data relay 類型的機載資料傳輸或中繼系統，用於將飛行平台觀測資料回傳地面。",
+    "traditional_chinese": "聲波探測與測距",
+    "definition_cht": "聲波探測與測距；即 acoustical detection and ranging 的縮寫，也可指利用此法進行的大氣聲測。",
     "source_url": "https://glossary.ametsoc.org/wiki/acdar"
   },
   {
     "english": "acetaldehyde",
     "traditional_chinese": "乙醛",
-    "definition_cht": "一種揮發性有機化合物，可存在於大氣中並參與光化學反應與臭氧生成。",
+    "definition_cht": "乙醛是一種大氣中常見的羰基揮發性有機化合物，可來自燃燒、生物排放與碳氫化合物氧化，並參與光化學反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/acetaldehyde"
   },
   {
     "english": "acetic acid",
     "traditional_chinese": "乙酸",
-    "definition_cht": "常見有機酸，存在於大氣氣膠或降水中，對酸沉降化學有一定影響。",
+    "definition_cht": "乙酸為大氣中常見的有機酸，可由乙醛氧化生成，並會影響雲水、氣膠與降水的酸度。",
     "source_url": "https://glossary.ametsoc.org/wiki/acetic_acid"
   },
   {
     "english": "acetone",
     "traditional_chinese": "丙酮",
-    "definition_cht": "大氣中的揮發性有機化合物之一，可來自生物、工業與燃燒來源，並參與氧化化學。",
+    "definition_cht": "丙酮是大氣中常見的含氧揮發性有機化合物，來源包括生物排放、燃燒與溶劑使用，並參與對流層氧化化學。",
     "source_url": "https://glossary.ametsoc.org/wiki/acetone"
   },
   {
     "english": "acetonitrile",
     "traditional_chinese": "乙腈",
-    "definition_cht": "常作為生質燃燒示蹤物之一的揮發性有機化合物。",
+    "definition_cht": "乙腈是一種壽命相對較長的揮發性有機化合物，常作為生質燃燒與生物質焚燒排放的示蹤氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/acetonitrile"
   },
   {
     "english": "acetylene",
     "traditional_chinese": "乙炔",
-    "definition_cht": "一種不飽和碳氫化合物，可作為燃燒來源與大氣化學反應的指標氣體。",
+    "definition_cht": "乙炔為不飽和碳氫化合物，常見於燃燒排放，可作為追蹤燃燒來源與大氣光化學演變的指標氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/acetylene"
   },
   {
     "english": "acicular ice",
     "traditional_chinese": "針狀冰",
-    "definition_cht": "呈細長針形的冰晶或冰體，常見於特定過冷或凝華條件下。",
+    "definition_cht": "呈細長針狀的冰晶或冰體，常形成於過冷、凝華或近地表凍結條件下。",
     "source_url": "https://glossary.ametsoc.org/wiki/acicular_ice"
   },
   {
     "english": "acid deposition",
     "traditional_chinese": "酸沉降",
-    "definition_cht": "酸性物質以濕沉降或乾沉降形式自大氣移除並沉積於地表的過程。",
+    "definition_cht": "大氣中的酸性物質以濕沉降或乾沉降形式移除並沉積至地表的過程，主要涉及硫與氮的酸性化合物。",
     "source_url": "https://glossary.ametsoc.org/wiki/acid_deposition"
   },
   {
     "english": "acid fog",
     "traditional_chinese": "酸霧",
-    "definition_cht": "含有較高酸性成分、pH 值偏低的霧滴集合體。",
+    "definition_cht": "霧滴中溶有較高濃度酸性成分、因而 pH 值偏低的霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/acid_fog"
   },
   {
     "english": "acid pollution",
     "traditional_chinese": "酸性污染",
-    "definition_cht": "由酸性氣體、酸性氣膠或酸性沉降造成之環境污染現象。",
+    "definition_cht": "由酸性物質或酸性前驅物污染空氣、水體與地表環境的現象，常與硫氧化物、氮氧化物及其轉化產物有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/acid_pollution"
   },
   {
     "english": "acid rain",
     "traditional_chinese": "酸雨",
-    "definition_cht": "pH 值明顯低於天然背景值的降水，通常與二氧化硫與氮氧化物氧化生成之酸性物質有關。",
+    "definition_cht": "pH 值低於天然背景值（常以約 5.6 為參考）的降水，通常與二氧化硫及氮氧化物氧化後形成的酸性物質有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/acid_rain"
   },
   {
     "english": "acidity of water",
     "traditional_chinese": "水體酸度",
-    "definition_cht": "水體中可中和鹼的酸性成分總量，反映其酸性強弱與化學性質。",
+    "definition_cht": "水體中可中和強鹼的酸性成分總量，用以表示其酸性強弱及受溶解酸、酸性鹽類等影響的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/acidity_of_water"
   },
   {
     "english": "acidity profile",
     "traditional_chinese": "酸度剖面",
-    "definition_cht": "水體、土壤或大氣中酸度隨深度、高度或距離變化的分布。",
+    "definition_cht": "水體、土壤或大氣中酸度隨深度、高度或距離變化的剖面分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/acidity_profile"
   },
   {
     "english": "aclinic line",
     "traditional_chinese": "無磁傾線",
-    "definition_cht": "地磁傾角為零的地表連線，即磁針在垂直平面內不向下或向上傾斜之位置。",
+    "definition_cht": "地磁傾角為零的連線，亦即磁針在垂直面內不向上或向下傾斜的位置；磁赤道即屬此類。",
     "source_url": "https://glossary.ametsoc.org/wiki/aclinic_line"
   },
   {
     "english": "acoustic array",
     "traditional_chinese": "聲學陣列",
-    "definition_cht": "由多個聲學感測器或換能器組成的排列系統，用於測向、成像、定位或流場量測。",
+    "definition_cht": "由多個麥克風、水聽器或其他聲學換能器構成的陣列系統，用於波束形成、測向、定位、成像或流場量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_array"
   },
   {
     "english": "acoustic backscattering",
     "traditional_chinese": "聲學背向散射",
-    "definition_cht": "聲波遇到粒子、湍流或界面後向發射源方向散射的現象。",
+    "definition_cht": "聲波遭遇粒子、氣泡、湍流或介面後，向發射源方向散射返回的現象，常用於遙測與流場反演。",
     "source_url": "https://glossary.ametsoc.org/wiki/acoustic_backscattering"
   },
   {
