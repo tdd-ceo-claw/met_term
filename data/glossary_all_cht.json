@@ -2210,121 +2210,121 @@
   {
     "english": "altigraph",
     "traditional_chinese": "高度記錄儀",
-    "definition_cht": "能連續記錄高度或高度變化的儀器。",
+    "definition_cht": "可連續記錄高度或高度變化的儀器，常指附有記錄機構、能將高度計讀值繪成曲線的裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/altigraph"
   },
   {
     "english": "altimeter",
     "traditional_chinese": "高度計",
-    "definition_cht": "用於測定相對某一基準面的高度之儀器，航空上常依氣壓推算飛行高度。",
+    "definition_cht": "用以測定物體相對某一基準面高度的儀器；航空上常以氣壓高度計依大氣壓力推算海拔高度，亦有以電波量測距地高度的無線電高度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/altimeter"
   },
   {
     "english": "altimeter corrections",
     "traditional_chinese": "高度計修正",
-    "definition_cht": "為消除氣壓、高度、溫度或儀器誤差對高度計讀值的影響而施加的修正量。",
+    "definition_cht": "為修正高度計因非標準氣壓、溫度、安裝條件或儀器誤差所造成讀值偏差，而加於指示高度上的修正量。",
     "source_url": "https://glossary.ametsoc.org/wiki/altimeter_corrections"
   },
   {
     "english": "altimeter equation",
     "traditional_chinese": "測高方程式",
-    "definition_cht": "描述氣壓隨高度變化並用以由壓力推算高度的方程式。",
+    "definition_cht": "由靜力平衡與氣體狀態方程導出的氣壓—高度關係式，用以由壓力差估算高度、高差或位勢高度；航空上亦用於計算高度表撥定值。",
     "source_url": "https://glossary.ametsoc.org/wiki/altimeter_equation"
   },
   {
     "english": "altimeter setting",
-    "traditional_chinese": "高度計撥定值",
-    "definition_cht": "為使航空器高度計在特定基準條件下顯示所需高度而設定的參考氣壓值。",
+    "traditional_chinese": "高度表撥定值",
+    "definition_cht": "供航空器高度表設定的基準氣壓值，使儀表在特定基準下顯示相應高度；常用者如 QNH，可使地面讀值接近場站標高。",
     "source_url": "https://glossary.ametsoc.org/wiki/altimeter_setting"
   },
   {
     "english": "altimeter-setting indicator",
-    "traditional_chinese": "高度計撥定指示器",
-    "definition_cht": "顯示或設定高度計基準氣壓值的裝置或指示部分。",
+    "traditional_chinese": "高度表撥定指示器",
+    "definition_cht": "用以直接指示當地海平面高度表撥定值的精密空盒氣壓儀，或指高度表上顯示／設定該基準氣壓的部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/altimeter-setting_indicator"
   },
   {
     "english": "altimetry",
     "traditional_chinese": "測高學",
-    "definition_cht": "量測地表、海面、雲頂或飛行體高度及其變化的技術與學科。",
+    "definition_cht": "量測地表、海面、冰面、雲頂或飛行體高度及其時空變化的科學與技術，包含航空測高與衛星測高等應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/altimetry"
   },
   {
     "english": "altithermal period",
-    "traditional_chinese": "高溫期",
-    "definition_cht": "全新世早中期某些地區氣候較現代顯著偏暖的時段。",
+    "traditional_chinese": "全新世高溫期",
+    "definition_cht": "指全新世早至中期某些地區較現代明顯偏暖偏乾的氣候時段；此名稱多見於北美古氣候研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/altithermal_period"
   },
   {
     "english": "altitude",
     "traditional_chinese": "高度",
-    "definition_cht": "某一位置相對於指定基準面，如平均海平面或地面的垂直距離。",
+    "definition_cht": "某一位置相對指定基準面（通常為平均海平面或地面）的垂直距離；航空上可依基準不同區分為真高度、壓力高度等。",
     "source_url": "https://glossary.ametsoc.org/wiki/altitude"
   },
   {
     "english": "altocumulus",
     "traditional_chinese": "高積雲",
-    "definition_cht": "中層雲的一類，通常呈塊狀、片狀或波狀分布，雲體多帶有白與灰的明暗變化。",
+    "definition_cht": "中層積狀雲，通常呈白色或灰白色雲塊、雲片或波狀排列，常兼具明暗變化，單體尺度一般大於卷積雲而小於層積雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/altocumulus"
   },
   {
     "english": "altostratus",
     "traditional_chinese": "高層雲",
-    "definition_cht": "中層層狀雲，常呈灰或藍灰色均勻雲幕，可覆蓋大範圍天空並使日月輪廓模糊。",
+    "definition_cht": "中層層狀雲，常呈灰色或藍灰色均勻雲幕，可廣泛覆蓋天空，常使日月輪廓仍可隱約辨識但不清晰。",
     "source_url": "https://glossary.ametsoc.org/wiki/altostratus"
   },
   {
     "english": "aluminum oxide humidity element",
     "traditional_chinese": "氧化鋁濕度感測元件",
-    "definition_cht": "利用氧化鋁薄膜吸附水氣後電性改變來量測濕度的感測元件。",
+    "definition_cht": "以多孔氧化鋁薄膜吸附水氣後電容、阻抗或其他電性改變為原理，用於測定空氣濕度的感測元件。",
     "source_url": "https://glossary.ametsoc.org/wiki/aluminum_oxide_humidity_element"
   },
   {
     "english": "ambient air",
-    "traditional_chinese": "周遭空氣",
-    "definition_cht": "某地點自然存在、未受局部採樣系統或製程改變的外界空氣。",
+    "traditional_chinese": "周圍空氣",
+    "definition_cht": "某地點自然存在的外界空氣，通常指未受採樣系統、排放源或製程設備顯著改變的環境空氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/ambient_air"
   },
   {
     "english": "ambient pressure",
     "traditional_chinese": "環境壓力",
-    "definition_cht": "物體或系統周圍外界介質所施加的壓力。",
+    "definition_cht": "物體、儀器或系統周圍外界介質所施加的壓力，通常指其所處環境中的實際壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/ambient_pressure"
   },
   {
     "english": "ambient temperature",
     "traditional_chinese": "環境溫度",
-    "definition_cht": "物體或儀器所在周圍介質的溫度，通常指外部環境的實際溫度。",
+    "definition_cht": "物體、儀器或系統周圍介質的溫度，通常指其所在外部環境的實際氣溫或介質溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/ambient_temperature"
   },
   {
     "english": "ambiguity function",
     "traditional_chinese": "模糊函數",
-    "definition_cht": "描述訊號或量測系統在時延、頻移或空間定位上可分辨能力與不確定性的函數。",
+    "definition_cht": "描述訊號或量測系統對不同時延與都卜勒頻移之響應特性的函數，用於評估雷達、聲納等系統的距離與速度分辨能力及模糊性。",
     "source_url": "https://glossary.ametsoc.org/wiki/ambiguity_function"
   },
   {
     "english": "ammonia",
     "traditional_chinese": "氨",
-    "definition_cht": "化學式 NH3 的鹼性氣體，來自農業、工業與生物分解，為大氣氮循環與氣膠生成的重要前驅物。",
+    "definition_cht": "化學式 NH3 的鹼性氣體，來源包括農業排放、工業活動與有機物分解，為大氣氮循環及二次無機氣膠形成的重要前驅物。",
     "source_url": "https://glossary.ametsoc.org/wiki/ammonia"
   },
   {
     "english": "ammonification",
     "traditional_chinese": "氨化作用",
-    "definition_cht": "有機含氮物質經微生物分解轉化為氨或銨鹽的生物地球化學過程。",
+    "definition_cht": "有機含氮物質經微生物分解，轉化為氨或銨離子的生物地球化學過程，是氮循環的重要環節。",
     "source_url": "https://glossary.ametsoc.org/wiki/ammonification"
   },
   {
     "english": "ammonium chloride",
     "traditional_chinese": "氯化銨",
-    "definition_cht": "由氨與氯化氫反應可形成的銨鹽，亦可存在於大氣細懸浮微粒中。",
+    "definition_cht": "由氨與氯化氫反應形成的銨鹽，可存在於大氣細懸浮微粒中，亦是二次無機氣膠的常見成分之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/ammonium_chloride"
   },
   {
     "english": "ammonium ion",
     "traditional_chinese": "銨離子",
-    "definition_cht": "化學式 NH4+ 的帶正電離子，常存在於降水、氣膠與土壤溶液中。",
+    "definition_cht": "化學式 NH4+ 的帶正電離子，常存在於降水、氣膠、雲水、土壤溶液與天然水體中，為氮循環的重要化學型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/ammonium_ion"
   },
   {
