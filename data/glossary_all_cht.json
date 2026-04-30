@@ -2330,43 +2330,43 @@
   {
     "english": "ammonium nitrate",
     "traditional_chinese": "硝酸銨",
-    "definition_cht": "由氨與硝酸形成的銨鹽，是大氣細懸浮微粒的重要二次無機成分之一。",
+    "definition_cht": "由氨與硝酸反應形成的銨鹽，常以細懸浮微粒形式存在，為大氣中重要的二次無機氣膠成分之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/ammonium_nitrate"
   },
   {
     "english": "ammonium sulfate",
     "traditional_chinese": "硫酸銨",
-    "definition_cht": "由氨中和硫酸所形成的銨鹽，為大氣二次氣膠的重要組成。",
+    "definition_cht": "由氨中和硫酸所形成的銨鹽，常為大氣細懸浮微粒中的重要二次無機氣膠成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/ammonium_sulfate"
   },
   {
     "english": "amorphous clouds",
     "traditional_chinese": "無定形雲",
-    "definition_cht": "外形不明顯、缺乏固定輪廓或結構特徵的雲。",
+    "definition_cht": "外形鬆散、不具清楚輪廓或組織構造，難以依典型雲形辨識的雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/amorphous_clouds"
   },
   {
     "english": "amorphous frost",
     "traditional_chinese": "無定形霜",
-    "definition_cht": "未形成明顯晶體幾何形狀、呈鬆散或不規則外觀的霜層。",
+    "definition_cht": "未呈現明顯晶體幾何形狀，而呈不規則、鬆散外觀的霜層。",
     "source_url": "https://glossary.ametsoc.org/wiki/amorphous_frost"
   },
   {
     "english": "amorphous sky",
     "traditional_chinese": "無定形天空",
-    "definition_cht": "天空雲層或亮度分布缺乏清楚紋理與形狀區分的狀態。",
+    "definition_cht": "天空外觀缺乏明顯雲形、紋理或層次，呈均勻而難以辨識結構的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/amorphous_sky"
   },
   {
     "english": "amount of precipitation",
     "traditional_chinese": "降水量",
-    "definition_cht": "在一定時間內降落至地面之液態與固態降水折算成水深的總量。",
+    "definition_cht": "在一定時間內降達地面的液態與固態降水，折算為水深後的總量。",
     "source_url": "https://glossary.ametsoc.org/wiki/amount_of_precipitation"
   },
   {
     "english": "amphidrome",
     "traditional_chinese": "無潮點",
-    "definition_cht": "潮汐振幅接近零，且潮波相位圍繞其作旋轉分布的海域中心點。",
+    "definition_cht": "潮汐振幅接近零，且同潮時線繞其旋轉分布的海域中心點。",
     "source_url": "https://glossary.ametsoc.org/wiki/amphidrome"
   },
   {
@@ -2390,13 +2390,13 @@
   {
     "english": "amplitude-modulated indicator",
     "traditional_chinese": "振幅調變指示器",
-    "definition_cht": "利用振幅調變原理進行顯示、識別或量測的裝置。",
+    "definition_cht": "以訊號振幅變化來顯示強弱、方位或其他資訊的指示裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/amplitude-modulated_indicator"
   },
   {
     "english": "Amsu",
-    "traditional_chinese": "先進微波探測單元",
-    "definition_cht": "Advanced Microwave Sounding Unit 的簡稱，為衛星上用於探測大氣溫度與濕度垂直結構的微波遙測儀器。",
+    "traditional_chinese": "先進微波探測單元（AMSU）",
+    "definition_cht": "Advanced Microwave Sounding Unit 的縮寫，為裝載於氣象衛星上的多通道微波輻射計，用於探測大氣溫度與濕度的垂直結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Amsu"
   },
   {
@@ -2414,7 +2414,7 @@
   {
     "english": "Anadyr Current",
     "traditional_chinese": "阿納德爾洋流",
-    "definition_cht": "白令海或其鄰近海域中與阿納德爾地區相關的寒流系統。",
+    "definition_cht": "白令海西部與阿納德爾灣附近的寒流，將高緯冷水輸送至白令海中部與南部海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/Anadyr_Current"
   },
   {
@@ -2426,13 +2426,13 @@
   {
     "english": "anafront",
     "traditional_chinese": "上滑鋒",
-    "definition_cht": "鋒面附近暖空氣沿鋒面向上滑升，主要雲雨區位於鋒面後側或近鋒區的鋒面型態。",
+    "definition_cht": "一種鋒面型態，暖空氣沿鋒面作上滑運動，主要雲系與降水多位於地面鋒線後方或近鋒區。",
     "source_url": "https://glossary.ametsoc.org/wiki/anafront"
   },
   {
     "english": "anallobaric",
     "traditional_chinese": "無變壓性的",
-    "definition_cht": "不伴隨顯著氣壓時間變化，或與變壓效應無關的。",
+    "definition_cht": "指現象、風場或運動不伴隨顯著氣壓時間變化，或基本不受變壓效應影響的。",
     "source_url": "https://glossary.ametsoc.org/wiki/anallobaric"
   },
   {
@@ -2444,7 +2444,7 @@
   {
     "english": "analog climate model",
     "traditional_chinese": "類比氣候模式",
-    "definition_cht": "利用歷史上與目標狀態相似的大氣或海洋型態，推估氣候演變或異常的經驗式方法。",
+    "definition_cht": "利用與目標區域或時期在氣候條件上相似的歷史或現今個例作為類比，以推估其氣候特徵或可能演變的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/analog_climate_model"
   },
   {
