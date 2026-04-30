@@ -2450,121 +2450,121 @@
   {
     "english": "analog method",
     "traditional_chinese": "類比法",
-    "definition_cht": "尋找過去與當前狀況相似的個例，據以推估未來天氣或環境變化的預報方法。",
+    "definition_cht": "天氣預報中依據目前大氣配置或天氣型態，尋找歷史上相似個例，並參考其後續演變以推估未來天氣的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/analog_method"
   },
   {
     "english": "analog model",
     "traditional_chinese": "類比模式",
-    "definition_cht": "以不同但數學性質相似的系統模擬目標系統行為的模型。",
+    "definition_cht": "利用另一套物理系統或電路系統與目標系統之數學關係相似的特性，來模擬其行為的模型；早期常用於求解複雜動力問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/analog_model"
   },
   {
     "english": "analogs",
     "traditional_chinese": "類比個例",
-    "definition_cht": "在分析或預報中，用來對照當前情況的歷史相似案例集合。",
+    "definition_cht": "在診斷或預報時，與當前大氣狀態或環境條件相近、可供對照參考的一組歷史相似個例。",
     "source_url": "https://glossary.ametsoc.org/wiki/analogs"
   },
   {
     "english": "analogue",
     "traditional_chinese": "類比",
-    "definition_cht": "analog 的英式拼法，指性質相似可供對照或連續式表示的對象。",
+    "definition_cht": "analog 的英式拼法，可指性質相似而可供對照的對象，或指以連續訊號表示的類比形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/analogue"
   },
   {
     "english": "analysis",
     "traditional_chinese": "分析",
-    "definition_cht": "將觀測、理論與模式資訊加以整合，以描述某時刻或某區域大氣、海洋或環境狀態的作業與結果。",
+    "definition_cht": "將觀測資料、模式結果與理論判斷加以整合，以描繪某一時刻或時段大氣、海洋或環境場狀態的分析程序及其成果。",
     "source_url": "https://glossary.ametsoc.org/wiki/analysis"
   },
   {
     "english": "analysis of variance",
     "traditional_chinese": "變異數分析",
-    "definition_cht": "比較不同群組平均值差異是否顯著的統計方法，以總變異分解為不同來源成分。",
+    "definition_cht": "統計上將總變異分解為不同來源，並以 F 檢定比較各組平均數是否存在顯著差異的方法，常簡稱 ANOVA。",
     "source_url": "https://glossary.ametsoc.org/wiki/analysis_of_variance"
   },
   {
     "english": "analyzed chart",
     "traditional_chinese": "分析圖",
-    "definition_cht": "經過資料整併與專家或客觀分析程序後繪製的氣象、海洋或環境場圖。",
+    "definition_cht": "依據觀測資料經客觀或人工分析後繪成的圖表，通常以等值線、鋒面或其他符號呈現當時的氣象或海洋場分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/analyzed_chart"
   },
   {
     "english": "anchor balloon",
     "traditional_chinese": "繫留氣球",
-    "definition_cht": "以纜繩固定於地面或船上的氣球，用以觀測近地層風、溫度或其他大氣要素。",
+    "definition_cht": "以纜繩固定於地面或船上的繫留氣球，可用於觀測近地層風場、邊界層結構或其他低空大氣要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/anchor_balloon"
   },
   {
     "english": "anchor ice",
     "traditional_chinese": "底著冰",
-    "definition_cht": "在河床、湖底或水中物體表面形成並附著其上的冰。",
+    "definition_cht": "附著於河床、湖底或水中物體表面的水下冰體，常見於嚴寒且流動水體環境，亦稱底著冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/anchor_ice"
   },
   {
     "english": "anelastic approximation",
     "traditional_chinese": "非彈性近似",
-    "definition_cht": "在流體力學中忽略聲波傳播、保留密度垂直變化對浮力影響的近似，可用於大氣與海洋緩變流動。",
+    "definition_cht": "流體力學與大氣動力學中的近似法，假設密度擾動相對背景密度很小並濾除聲波，同時保留密度隨高度變化對浮力與質量守恆的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/anelastic_approximation"
   },
   {
     "english": "anemoclinometer",
     "traditional_chinese": "風傾角儀",
-    "definition_cht": "量測風向垂直傾角或氣流偏斜角度的儀器。",
+    "definition_cht": "用於量測氣流或風向相對水平面的傾角變化之儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/anemoclinometer"
   },
   {
     "english": "anemometer",
     "traditional_chinese": "風速計",
-    "definition_cht": "用於量測風速大小的儀器，可分為杯式、螺旋槳式、超音波式等多種類型。",
+    "definition_cht": "量測風速的儀器，常見型式包括杯式、螺旋槳式、壓差式與超音波式。",
     "source_url": "https://glossary.ametsoc.org/wiki/anemometer"
   },
   {
     "english": "anemometer level",
     "traditional_chinese": "風速計高度",
-    "definition_cht": "安裝風速計以進行標準觀測的離地高度。",
+    "definition_cht": "設置風速計進行觀測時的安裝高度；標準地面氣象觀測通常以離地 10 公尺為準。",
     "source_url": "https://glossary.ametsoc.org/wiki/anemometer_level"
   },
   {
     "english": "anemometry",
     "traditional_chinese": "測風學",
-    "definition_cht": "關於風速、風向及其量測技術、儀器與理論的學門。",
+    "definition_cht": "研究風速、風向及其量測方法、儀器與誤差特性的技術與學問。",
     "source_url": "https://glossary.ametsoc.org/wiki/anemometry"
   },
   {
     "english": "anemoscope",
     "traditional_chinese": "風向儀",
-    "definition_cht": "用於指示風向變化的裝置，通常不直接量測風速。",
+    "definition_cht": "僅用於指示風向變化的裝置，通常不直接提供風速量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/anemoscope"
   },
   {
     "english": "anemovane",
     "traditional_chinese": "風向風速儀",
-    "definition_cht": "可同時量測風向與風速的組合式儀器。",
+    "definition_cht": "可同時測定風向與風速的綜合式測風儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/anemovane"
   },
   {
     "english": "aneroid",
     "traditional_chinese": "空盒式氣壓儀元件",
-    "definition_cht": "利用彈性金屬盒受外界氣壓變化而伸縮的原理進行量測的儀器元件或裝置。",
+    "definition_cht": "利用抽空或部分抽空之彈性金屬盒隨外界氣壓變化而伸縮的感壓元件，亦可泛指採此原理的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/aneroid"
   },
   {
     "english": "aneroid barograph",
     "traditional_chinese": "空盒自記氣壓計",
-    "definition_cht": "以空盒感壓元件連續記錄氣壓隨時間變化的儀器。",
+    "definition_cht": "以空盒感壓元件連續記錄大氣壓力隨時間變化的自記儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/aneroid_barograph"
   },
   {
     "english": "aneroid barometer",
     "traditional_chinese": "空盒氣壓計",
-    "definition_cht": "以抽空金屬盒受壓變形測量大氣壓力的氣壓計，不需使用水銀。",
+    "definition_cht": "利用抽空彈性金屬盒受氣壓作用產生形變來測量大氣壓力的氣壓計，不需使用水銀。",
     "source_url": "https://glossary.ametsoc.org/wiki/aneroid_barometer"
   },
   {
     "english": "aneroid capsule",
     "traditional_chinese": "空盒囊",
-    "definition_cht": "空盒氣壓計中對壓力變化敏感的密封彈性金屬囊。",
+    "definition_cht": "空盒氣壓儀內對壓力變化敏感的薄壁密封彈性金屬囊，為其核心感壓元件。",
     "source_url": "https://glossary.ametsoc.org/wiki/aneroid_capsule"
   },
   {
