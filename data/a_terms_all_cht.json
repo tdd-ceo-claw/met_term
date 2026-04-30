@@ -890,121 +890,121 @@
   {
     "english": "ADEOS",
     "traditional_chinese": "先進地球觀測衛星",
-    "definition_cht": "Advanced Earth Observing Satellite 的縮寫，為日本發展之地球觀測衛星系列。",
+    "definition_cht": "Advanced Earth Observing Satellite 的縮寫，為日本開發的地球環境觀測衛星「Midori（綠號）」系列名稱，用於全球環境與海洋、大氣、陸域等觀測任務。",
     "source_url": "https://glossary.ametsoc.org/wiki/ADEOS"
   },
   {
     "english": "adfreezing",
-    "traditional_chinese": "凍著",
-    "definition_cht": "液態水滴接觸低於冰點的固體表面後迅速結冰並附著其上的過程。",
+    "traditional_chinese": "冰黏著",
+    "definition_cht": "兩個物體因其間形成冰層或冰橋而彼此黏結的過程；常見於凍雨、積冰或凍土環境中的附著現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/adfreezing"
   },
   {
     "english": "adhesion efficiency",
     "traditional_chinese": "附著效率",
-    "definition_cht": "粒子、液滴或冰晶與表面碰撞後成功附著的比例或機率。",
+    "definition_cht": "在碰撞或攔截之後，液滴、冰粒或其他粒子實際留附於目標表面的比例；於飛機積冰與雲微物理中，常用以描述撞擊後能形成附著或積冰的效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/adhesion_efficiency"
   },
   {
     "english": "adhesive water",
     "traditional_chinese": "附著水",
-    "definition_cht": "因分子吸附或表面張力而附著於顆粒、土壤或固體表面的水分。",
+    "definition_cht": "藉由分子引力吸附在土壤或顆粒表面的水分，通常束縛較強、流動性低，不屬於可自由排流的重力水。",
     "source_url": "https://glossary.ametsoc.org/wiki/adhesive_water"
   },
   {
     "english": "adiabat",
     "traditional_chinese": "絕熱線",
-    "definition_cht": "熱力圖上表示絕熱過程狀態變化的曲線，或泛指絕熱狀態方程所對應之路徑。",
+    "definition_cht": "在熱力圖上表示絕熱過程的曲線或線族；對大氣科學而言，常指氣塊在不與外界交換熱量時，其狀態隨壓力或高度改變所遵循的路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabat"
   },
   {
     "english": "adiabatic atmosphere",
     "traditional_chinese": "絕熱大氣",
-    "definition_cht": "假設空氣團運動與環境變化過程中不與外界交換熱量的大氣理想化狀態。",
+    "definition_cht": "一種理想化大氣，假設氣塊垂直移動時不與周圍環境交換熱量，因此其熱力結構可用絕熱關係描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_atmosphere"
   },
   {
     "english": "adiabatic chart",
     "traditional_chinese": "絕熱圖",
-    "definition_cht": "包含乾絕熱線、濕絕熱線與混合比線等，用於分析氣塊熱力狀態的氣象熱力圖。",
+    "definition_cht": "供氣象熱力分析使用的熱力圖，圖上通常包含乾絕熱線、濕（或飽和）絕熱線、等混合比線等，用以判讀探空、穩定度與對流條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_chart"
   },
   {
     "english": "adiabatic equilibrium",
     "traditional_chinese": "絕熱平衡",
-    "definition_cht": "在無熱交換條件下系統達成之平衡狀態。",
+    "definition_cht": "系統在不與外界交換熱量的條件下所達到的平衡狀態；在大氣應用中，亦可指與絕熱分層相容的理想平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_equilibrium"
   },
   {
     "english": "adiabatic lapse rate",
     "traditional_chinese": "絕熱遞減率",
-    "definition_cht": "空氣團在絕熱上升或下沉過程中溫度隨高度變化的速率。",
+    "definition_cht": "氣塊在絕熱上升或下沉時，溫度隨高度變化的速率；依含水狀態不同，可區分為乾絕熱遞減率與濕（或飽和）絕熱遞減率。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_lapse_rate"
   },
   {
     "english": "adiabatic process",
     "traditional_chinese": "絕熱過程",
-    "definition_cht": "系統與外界不發生熱量交換的熱力學過程。",
+    "definition_cht": "系統與外界之間沒有熱量交換的熱力學過程；氣體在此過程中仍可因膨脹或壓縮而改變溫度與壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_process"
   },
   {
     "english": "adiabatic saturation point",
     "traditional_chinese": "絕熱飽和點",
-    "definition_cht": "未飽和空氣在與水接觸並經絕熱蒸發後達到飽和時的終點狀態。",
+    "definition_cht": "未飽和空氣在定壓近似下與液態水接觸，經蒸發冷卻且不與外界交換熱量後，恰達飽和時所對應的終點狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_saturation_point"
   },
   {
     "english": "adiabatic saturation pressure",
     "traditional_chinese": "絕熱飽和壓力",
-    "definition_cht": "空氣達到絕熱飽和點時對應的壓力。",
+    "definition_cht": "空氣在絕熱飽和過程終了、達到絕熱飽和點時所對應的壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_saturation_pressure"
   },
   {
     "english": "adiabatic saturation temperature",
     "traditional_chinese": "絕熱飽和溫度",
-    "definition_cht": "空氣經絕熱蒸發冷卻至飽和時所達到的溫度，與濕球溫度概念相關。",
+    "definition_cht": "未飽和空氣在與水接觸並經絕熱蒸發後達到飽和時的溫度；在氣象與濕空氣學中，常與熱力濕球溫度相近。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_saturation_temperature"
   },
   {
     "english": "adiabatic temperature changes",
     "traditional_chinese": "絕熱溫度變化",
-    "definition_cht": "因膨脹或壓縮而產生、非由外界供熱或失熱造成的溫度變化。",
+    "definition_cht": "系統因膨脹或壓縮而產生、並非由外界加熱或冷卻所造成的溫度改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_temperature_changes"
   },
   {
     "english": "adiabatic temperature gradient",
     "traditional_chinese": "絕熱溫度梯度",
-    "definition_cht": "在絕熱條件下溫度隨空間位置，尤其隨高度變化的梯度。",
+    "definition_cht": "在絕熱條件下的溫度空間梯度；就大氣垂直方向而言，通常指與絕熱遞減率相對應的溫度梯度。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_temperature_gradient"
   },
   {
     "english": "adiabatic trial",
     "traditional_chinese": "絕熱試驗",
-    "definition_cht": "在假設絕熱條件下，對氣塊位移、穩定度或熱力狀態進行之理論檢驗或計算。",
+    "definition_cht": "在穩定度或熱力分析中，假設氣塊位移過程保持絕熱，用以檢驗其溫度變化、浮力或可能演變的理論試算。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatic_trial"
   },
   {
     "english": "adiabatically enclosed system",
     "traditional_chinese": "絕熱封閉系統",
-    "definition_cht": "邊界不與外界交換熱量，且通常亦不交換物質的理想化系統。",
+    "definition_cht": "邊界經良好隔熱而不與外界交換熱量的封閉系統；通常不交換物質，但仍可能與外界交換機械功。",
     "source_url": "https://glossary.ametsoc.org/wiki/adiabatically_enclosed_system"
   },
   {
     "english": "adjoint assimilation",
-    "traditional_chinese": "伴隨同化",
-    "definition_cht": "利用伴隨模式計算梯度，以最小化代價函數並進行資料同化的技術。",
+    "traditional_chinese": "伴隨資料同化",
+    "definition_cht": "利用伴隨方程或伴隨模式反向計算代價函數梯度，進而在變分架構下調整初始場、邊界條件或參數的資料同化方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/adjoint_assimilation"
   },
   {
     "english": "adjoint equation",
     "traditional_chinese": "伴隨方程",
-    "definition_cht": "由控制方程導出、用以反向傳播敏感度或梯度資訊的數學方程。",
+    "definition_cht": "由控制方程的線性化與其伴隨算子導出的方程組，用於將敏感度或梯度資訊自預報時刻反向傳播至較早時刻。",
     "source_url": "https://glossary.ametsoc.org/wiki/adjoint_equation"
   },
   {
     "english": "adjoint model",
     "traditional_chinese": "伴隨模式",
-    "definition_cht": "與前向模式相對應、可計算目標函數對初值或參數敏感度的數值模式。",
+    "definition_cht": "由伴隨方程構成、通常以反向時間方式積分的數值模式，用來求取目標函數對初始條件、參數或觀測影響的敏感度。",
     "source_url": "https://glossary.ametsoc.org/wiki/adjoint_model"
   },
   {
