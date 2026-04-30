@@ -2570,121 +2570,121 @@
   {
     "english": "angel",
     "traditional_chinese": "天使回波",
-    "definition_cht": "雷達上由昆蟲、鳥群、湍流或折射率不均勻體造成的非降水弱回波。",
+    "definition_cht": "雷達上由昆蟲、鳥群、大氣折射率不均或微弱湍流結構所產生的非降水性弱回波。",
     "source_url": "https://glossary.ametsoc.org/wiki/angel"
   },
   {
     "english": "angin",
-    "traditional_chinese": "安金風",
-    "definition_cht": "地方性風名，通常指東南亞語境中的某類局地風或一般風之稱。",
+    "traditional_chinese": "angin（風）",
+    "definition_cht": "馬來語／印尼語中意為「風」的詞，常見於東南亞地方風名或相關氣象用語之構詞中，本身並非特定單一風系名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/angin"
   },
   {
     "english": "angle of arrival",
     "traditional_chinese": "到達角",
-    "definition_cht": "波動、訊號或粒子到達接收面時，相對某基準方向的入射方向角。",
+    "definition_cht": "波動、輻射、訊號或粒子到達接收器、天線或界面時，相對於指定基準方向所形成的方向角。",
     "source_url": "https://glossary.ametsoc.org/wiki/angle_of_arrival"
   },
   {
     "english": "angle of incidence",
     "traditional_chinese": "入射角",
-    "definition_cht": "入射光線、波束或粒子方向與界面法線之間的夾角。",
+    "definition_cht": "入射光線、波束或粒子與界面法線之間的夾角，為反射與折射計算的基本幾何量。",
     "source_url": "https://glossary.ametsoc.org/wiki/angle_of_incidence"
   },
   {
     "english": "angle of reflection",
     "traditional_chinese": "反射角",
-    "definition_cht": "反射光線或波束方向與界面法線之間的夾角。",
+    "definition_cht": "反射光線或波束與界面法線之間的夾角；在鏡面反射條件下，其值等於入射角。",
     "source_url": "https://glossary.ametsoc.org/wiki/angle_of_reflection"
   },
   {
     "english": "angle of refraction",
     "traditional_chinese": "折射角",
-    "definition_cht": "折射光線或波束方向與界面法線之間的夾角。",
+    "definition_cht": "折射光線或波束進入另一介質後，與界面法線之間的夾角，其大小受兩介質折射率控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/angle_of_refraction"
   },
   {
     "english": "Angola Current",
     "traditional_chinese": "安哥拉洋流",
-    "definition_cht": "非洲西南岸安哥拉附近向南流動的暖流，與本格拉海流系統互動明顯。",
+    "definition_cht": "非洲西南岸近安哥拉海域的暖性表層海流，常視為幾內亞洋流向南的延伸，並與本格拉海流及沿岸上升流系統交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Angola_Current"
   },
   {
     "english": "Angola–Benguela front",
-    "traditional_chinese": "安哥拉—本格拉鋒",
-    "definition_cht": "安哥拉暖流與本格拉寒流交會形成的海洋鋒面，伴隨明顯溫鹽梯度與生態差異。",
+    "traditional_chinese": "安哥拉－本格拉鋒",
+    "definition_cht": "位於非洲西南外海、約南緯 15°至17°附近的半永久性海洋鋒面，分隔安哥拉洋流的暖鹽且低營養水體與本格拉海流的冷而富營養水體。",
     "source_url": "https://glossary.ametsoc.org/wiki/Angola%E2%80%93Benguela_front"
   },
   {
     "english": "angstrom",
     "traditional_chinese": "埃",
-    "definition_cht": "長度單位，等於 10^-10 公尺，常用於表示分子尺度或光波長。",
+    "definition_cht": "長度單位，符號為 Å，等於 10⁻¹⁰ 公尺，常用於表示原子尺度距離或電磁波波長。",
     "source_url": "https://glossary.ametsoc.org/wiki/angstrom"
   },
   {
     "english": "angular drift",
     "traditional_chinese": "角漂移",
-    "definition_cht": "方向或角位置隨時間逐漸偏移的現象。",
+    "definition_cht": "方向、方位或角位置隨時間逐漸偏移的現象，常用於描述儀器指向或旋轉狀態的緩慢變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular_drift"
   },
   {
     "english": "angular momentum",
     "traditional_chinese": "角動量",
-    "definition_cht": "物體繞某軸旋轉運動所具有的動量量度，與質量分布、速度及轉軸位置有關。",
+    "definition_cht": "物體相對某一基準點或轉軸之旋轉動量，反映質量分布與運動狀態，且在孤立系統中具有守恆性。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular_momentum"
   },
   {
     "english": "angular resolution",
     "traditional_chinese": "角解析度",
-    "definition_cht": "儀器、感測器或觀測系統區分兩個鄰近方向目標的最小角距能力。",
+    "definition_cht": "儀器、感測器或觀測系統分辨兩個鄰近方向目標所需最小角距的能力；所需角距愈小，解析度愈高。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular_resolution"
   },
   {
     "english": "angular spreading",
     "traditional_chinese": "角向展寬",
-    "definition_cht": "波束、輻射或粒子群在傳播中於角度方向擴散變寬的現象。",
+    "definition_cht": "波束、輻射或粒子束在傳播過程中於角度方向擴散而使角分布變寬的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular_spreading"
   },
   {
     "english": "angular velocity",
     "traditional_chinese": "角速度",
-    "definition_cht": "物體繞軸旋轉時，單位時間內轉角變化的速率。",
+    "definition_cht": "物體繞軸旋轉時單位時間內角位移的變化率，用以表示旋轉快慢與方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular_velocity"
   },
   {
     "english": "angular velocity of the earth",
     "traditional_chinese": "地球角速度",
-    "definition_cht": "地球自轉的角速度，是科氏力與地轉運動理論中的基本常數。",
+    "definition_cht": "地球自轉的角速度，約為 7.2921×10⁻⁵ 弧度每秒，是地轉偏向力與地球旋轉動力學的重要常數。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular_velocity_of_the_earth"
   },
   {
     "english": "angular wavenumber",
     "traditional_chinese": "角波數",
-    "definition_cht": "以弧度表示之波數，通常等於 2π 除以波長。",
+    "definition_cht": "以弧度表示的波數，通常記為 k，為每單位長度的相位變化量，亦可寫為 2π／波長。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular_wavenumber"
   },
   {
     "english": "angular-momentum balance",
     "traditional_chinese": "角動量平衡",
-    "definition_cht": "系統中角動量的輸送、生成與耗散達成守恆或收支平衡的關係。",
+    "definition_cht": "系統內角動量在輸送、交換、外力矩作用與耗散等過程下所呈現的收支平衡或守恆關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular-momentum_balance"
   },
   {
     "english": "angular-spreading factor",
     "traditional_chinese": "角向展寬因子",
-    "definition_cht": "量化波束或輻射在角度方向擴散程度的參數。",
+    "definition_cht": "用以量化波束、輻射場或粒子束在角度方向擴散程度的參數，數值愈大通常表示角分布愈寬。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular-spreading_factor"
   },
   {
     "english": "angularity correction",
     "traditional_chinese": "角度修正",
-    "definition_cht": "為補償量測系統在不同入射或觀測角度下響應差異而施加的訂正。",
+    "definition_cht": "為補償量測或觀測系統在不同入射、觀測或掃描角度下之響應差異而施加的校正或訂正。",
     "source_url": "https://glossary.ametsoc.org/wiki/angularity_correction"
   },
   {
     "english": "anhyetism",
     "traditional_chinese": "少雨性",
-    "definition_cht": "某地區在氣候上呈現降水偏少或乾旱傾向的特性。",
+    "definition_cht": "指一地區氣候上長期降水偏少的特性，常用以描述乾燥或近乾旱環境的雨量不足傾向。",
     "source_url": "https://glossary.ametsoc.org/wiki/anhyetism"
   },
   {
