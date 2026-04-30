@@ -25,8 +25,8 @@
   },
   {
     "english": "ab-polar current",
-    "traditional_chinese": "離極流",
-    "definition_cht": "相對於極區向外、朝較低緯度輸送之大氣或海洋流動，用於描述偏離極地方向的流系。",
+    "traditional_chinese": "離極氣流",
+    "definition_cht": "（舊稱）指自地球任一極地向外流出、朝較低緯度移動的氣流，用於描述背離極區的空氣運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/ab-polar_current"
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "english": "abbreviated ship code",
-    "traditional_chinese": "船舶簡碼",
-    "definition_cht": "用於船舶氣象觀測或通訊傳輸的簡化編碼格式，便於在有限頻寬下快速傳送觀測資料。",
+    "traditional_chinese": "船舶簡略天氣電碼",
+    "definition_cht": "船舶天氣綜觀電碼（ship synoptic code）的簡略形式，用於海上氣象觀測資料的編碼與傳輸，以便在通訊條件受限時快速通報。",
     "source_url": "https://glossary.ametsoc.org/wiki/abbreviated_ship_code"
   },
   {
     "english": "abduction",
-    "traditional_chinese": "外展",
-    "definition_cht": "原指向外偏離中心線之運動；在地球科學語境中可泛指某種位移、流動或構造朝外側偏移的過程。",
+    "traditional_chinese": "溯因推論",
+    "definition_cht": "依據已知觀測事實提出可能解釋假說的推論方式，常見於診斷式專家系統與天氣分析；可協助形成解釋，但亦可能導致誤判。",
     "source_url": "https://glossary.ametsoc.org/wiki/abduction"
   },
   {
