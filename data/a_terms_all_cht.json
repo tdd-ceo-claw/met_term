@@ -1010,121 +1010,121 @@
   {
     "english": "adjoint sensitivity",
     "traditional_chinese": "伴隨敏感度",
-    "definition_cht": "透過伴隨模式求得某目標量對控制變數、初始條件或觀測之變化敏感程度。",
+    "definition_cht": "利用伴隨模式將預報目標函數的敏感度回傳至較早時刻，用以量化該目標對初始條件、控制變數或觀測資料微小變動的反應程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/adjoint_sensitivity"
   },
   {
     "english": "adjustable cistern barometer",
-    "traditional_chinese": "可調式儲槽氣壓計",
-    "definition_cht": "水銀氣壓計之一，具可調整儲槽液面之設計，以提高讀值精度。",
+    "traditional_chinese": "可調式槽式氣壓計",
+    "definition_cht": "一種水銀氣壓計，其儲槽液面可調整至基準位置後再讀取水銀柱高度，以減少零點誤差並提升量測精度；福爾坦氣壓計即屬此類。",
     "source_url": "https://glossary.ametsoc.org/wiki/adjustable_cistern_barometer"
   },
   {
     "english": "admissible concentration limit",
     "traditional_chinese": "容許濃度限值",
-    "definition_cht": "為保護人體健康或環境而規定某物質可接受之最高濃度。",
+    "definition_cht": "為保障人體健康、作業安全或環境品質，對空氣中某物質所規定不得超過的容許最高濃度。",
     "source_url": "https://glossary.ametsoc.org/wiki/admissible_concentration_limit"
   },
   {
     "english": "adret",
     "traditional_chinese": "向陽坡",
-    "definition_cht": "山地中接受較多日照的一側坡面，通常較溫暖乾燥，與背陽坡相對。",
+    "definition_cht": "山區朝向陽光、受日照較多的坡面；在北半球多指南向或西南向坡，通常較溫暖、積雪較少且生長季較長，與背陽坡相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/adret"
   },
   {
     "english": "adsorption",
     "traditional_chinese": "吸附",
-    "definition_cht": "氣體、液體或溶質分子附著並聚集於固體或液體表面的過程。",
+    "definition_cht": "氣體、液體或溶質中的原子、離子或分子因表面作用力而附著並聚集於另一相的表面之過程，與進入材料內部的吸收不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/adsorption"
   },
   {
     "english": "adsorption isotherm",
     "traditional_chinese": "吸附等溫線",
-    "definition_cht": "在固定溫度下，吸附量與平衡濃度或壓力之間關係的曲線。",
+    "definition_cht": "在固定溫度下，描述吸附平衡時吸附量與氣體壓力或溶液濃度之間關係的曲線或數學關係式。",
     "source_url": "https://glossary.ametsoc.org/wiki/adsorption_isotherm"
   },
   {
     "english": "Advanced Baseline Imager",
     "traditional_chinese": "先進基線成像儀",
-    "definition_cht": "GOES-R 系列等新一代靜止衛星之主要多光譜成像儀，具高時間、高空間與多頻道觀測能力。",
+    "definition_cht": "GOES-R 系列靜止氣象衛星的主要多頻道被動成像輻射儀，可在 16 個光譜頻道提供高時間與高空間解析度的天氣、海洋與環境觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Advanced_Baseline_Imager"
   },
   {
     "english": "Advanced Earth Observing Satellite",
     "traditional_chinese": "先進地球觀測衛星",
-    "definition_cht": "日本發展的地球觀測衛星計畫名稱，用於海洋、大氣、陸地與輻射觀測。",
+    "definition_cht": "日本的地球觀測衛星計畫與衛星名稱，英文縮寫為 ADEOS（Midori），用於大氣、海洋、陸地、臭氧與地球輻射收支等全球環境監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Advanced_Earth_Observing_Satellite"
   },
   {
     "english": "Advanced microwave sounding unit",
-    "traditional_chinese": "先進微波探測儀",
-    "definition_cht": "一種衛星微波垂直探測儀器，可藉不同頻道反演大氣溫度與濕度結構。",
+    "traditional_chinese": "先進微波探空儀",
+    "definition_cht": "縮寫為 AMSU，為搭載於極軌氣象衛星的被動微波探測儀器，藉多個頻道反演大氣溫度與部分濕度垂直結構；其中 AMSU-A 主要用於溫度探空。",
     "source_url": "https://glossary.ametsoc.org/wiki/Advanced_microwave_sounding_unit"
   },
   {
     "english": "Advanced TIROS-N",
     "traditional_chinese": "先進 TIROS-N 系列衛星",
-    "definition_cht": "美國極軌氣象衛星系列之一，為多項後續 NOAA 衛星酬載的發展基礎。",
+    "definition_cht": "縮寫為 ATN，指 TIROS-N 後續改良的 NOAA 極軌作業環境衛星系列，約對應 NOAA-8 至 NOAA-14，為後續極軌氣象衛星酬載與資料系統的重要發展階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/Advanced_TIROS-N"
   },
   {
     "english": "Advanced Very High Resolution Radiometer",
     "traditional_chinese": "先進甚高解析度輻射儀",
-    "definition_cht": "AVHRR 的全名，為 NOAA 極軌衛星搭載之多光譜成像輻射儀，廣用於雲、海表溫度與植生監測。",
+    "definition_cht": "縮寫為 AVHRR，為 NOAA 極軌衛星搭載的多頻道跨軌掃描輻射儀，可觀測可見光、近紅外與熱紅外輻射，廣用於雲、海表溫度、植被與地表監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Advanced_Very_High_Resolution_Radiometer"
   },
   {
     "english": "advection",
     "traditional_chinese": "平流",
-    "definition_cht": "由流體整體運動所造成之物理量，如熱量、水氣、污染物或渦度的水平或三維輸送。",
+    "definition_cht": "流體中某物理量因整體質量運動而產生的輸送；在氣象上常特指風場所造成的熱量、水氣、污染物或渦度等水平輸送，也可包含垂直分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/advection"
   },
   {
     "english": "advection fog",
     "traditional_chinese": "平流霧",
-    "definition_cht": "暖濕空氣移流至較冷下墊面上方，因冷卻達飽和而形成的霧。",
+    "definition_cht": "暖濕空氣平流至較冷的下墊面（陸地或水面）上方後，因近地層冷卻達飽和而形成的霧，海上冷暖流交會區尤為常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/advection_fog"
   },
   {
     "english": "advection frost",
     "traditional_chinese": "平流霜凍",
-    "definition_cht": "由冷空氣移入造成氣溫降至冰點以下而產生的霜凍，常伴隨風與大範圍冷平流。",
+    "definition_cht": "冷空氣團平流侵入某地，使氣溫降至 0°C 以下而發生的霜凍；通常伴隨較強風、範圍較廣，與輻射霜凍不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/advection_frost"
   },
   {
     "english": "advective change of temperature",
     "traditional_chinese": "平流性溫度變化",
-    "definition_cht": "因空氣移流使某地溫度隨時間改變的部分。",
+    "definition_cht": "某地局地溫度變化中，由空氣的水平或垂直平流所造成的部分；在對流層中通常以水平平流分量最為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/advective_change_of_temperature"
   },
   {
     "english": "advective model",
     "traditional_chinese": "平流模式",
-    "definition_cht": "以平流項為主要控制機制的數值或概念模式，用於描述物質或熱量之輸送。",
+    "definition_cht": "以平流輸送為主導機制來描述大氣或海洋中物理量演變的理論、概念或數值模式，相對弱化局地源匯或擴散作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/advective_model"
   },
   {
     "english": "advective region",
-    "traditional_chinese": "平流區",
-    "definition_cht": "某物理量之輸送主要受平流作用支配的區域。",
+    "traditional_chinese": "平流層區",
+    "definition_cht": "舊稱，也作 advection region、advection layer 或 advective layer，指對流層頂以上、即平流層下部附近之大氣區域；因該處較穩定，局地溫度變化主要由平流而非對流所控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/advective_region"
   },
   {
     "english": "advective thunderstorm",
     "traditional_chinese": "平流性雷暴",
-    "definition_cht": "發展或維持與顯著水平輸送有關的雷暴，例如暖濕空氣持續平流至不穩定區所形成者。",
+    "definition_cht": "由平流造成的不穩定而形成的雷暴，例如高空較冷空氣或低層較暖空氣的輸送，使大氣靜力穩定度降低並促發對流。",
     "source_url": "https://glossary.ametsoc.org/wiki/advective_thunderstorm"
   },
   {
     "english": "advective-gravity flows",
     "traditional_chinese": "平流－重力流",
-    "definition_cht": "同時受背景平流與密度差驅動之重力流動系統。",
+    "definition_cht": "一類邊界層底部的冷空氣下坡流，其主要控制機制為平流與浮力（重力）作用；在持續冷空氣供應下可發展為近定常流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/advective-gravity_flows"
   },
   {
     "english": "advisory",
-    "traditional_chinese": "警報提示；顧問通報",
-    "definition_cht": "官方發布之較警報低一級但具提醒或作業指導性質的天氣、海象或災害資訊。",
+    "traditional_chinese": "提示報；注意性資訊",
+    "definition_cht": "氣象機關發布的一類提醒性資訊，表示實際或預期天氣雖未達警報等級，但可能造成不便、需提高注意，或提供作業參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/advisory"
   },
   {
