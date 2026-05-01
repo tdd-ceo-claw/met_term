@@ -3170,121 +3170,121 @@
   {
     "english": "apocenter",
     "traditional_chinese": "遠心點",
-    "definition_cht": "天體在繞行另一中心天體之軌道上距中心最遠的位置；若中心為地球則稱遠地點，為太陽則稱遠日點。",
+    "definition_cht": "天體沿軌道運行時距其引力中心最遠之點，與近心點相對；若引力中心為地球則稱遠地點，為太陽則稱遠日點。",
     "source_url": "https://glossary.ametsoc.org/wiki/apocenter"
   },
   {
     "english": "apogean tide",
     "traditional_chinese": "遠地點潮",
-    "definition_cht": "月球位於遠地點附近時所出現的潮汐，其潮差通常較近地點潮為小。",
+    "definition_cht": "月球位於遠地點附近時所出現的潮汐，潮差通常較小，潮流流速也往往較弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/apogean_tide"
   },
   {
     "english": "apogean winds",
     "traditional_chinese": "遠地點風",
-    "definition_cht": "與月球位於遠地點時大氣潮汐效應相關的微弱週期性風場變化。",
+    "definition_cht": "與月球位於遠地點時之大氣潮汐效應相關的微弱週期性風場分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/apogean_winds"
   },
   {
     "english": "apogee",
     "traditional_chinese": "遠地點",
-    "definition_cht": "天體繞地球運行時距地球最遠的位置。",
+    "definition_cht": "天體沿繞地軌道運行時距地球最遠之點。",
     "source_url": "https://glossary.ametsoc.org/wiki/apogee"
   },
   {
     "english": "apparent force",
     "traditional_chinese": "表觀力",
-    "definition_cht": "在非慣性參考系中因座標系本身運動而引入的虛擬力，如科氏力與離心力。",
+    "definition_cht": "在加速或旋轉等非慣性參考系中為使運動方程成立而引入的虛擬力，例如科氏力與離心力。",
     "source_url": "https://glossary.ametsoc.org/wiki/apparent_force"
   },
   {
     "english": "apparent gravity",
     "traditional_chinese": "視重力",
-    "definition_cht": "觀測者在地球自轉座標系內感受到的有效重力，為真重力與離心力合成後的結果。",
+    "definition_cht": "在旋轉地球上，由重力與離心力合成後所表現的有效重力。",
     "source_url": "https://glossary.ametsoc.org/wiki/apparent_gravity"
   },
   {
     "english": "apparent groundwater velocity",
     "traditional_chinese": "表觀地下水流速",
-    "definition_cht": "以總流量除以含水層整體截面積所估得的地下水速度，未扣除孔隙率影響，通常小於實際孔隙水流速。",
+    "definition_cht": "單位時間內穿過多孔介質單位總截面積的地下水流量，亦稱達西流速；未扣除有效孔隙率，故通常小於實際孔隙水流速。",
     "source_url": "https://glossary.ametsoc.org/wiki/apparent_groundwater_velocity"
   },
   {
     "english": "apparent horizon",
     "traditional_chinese": "視地平",
-    "definition_cht": "觀測者所見天空與地表或海面相接的界線，其位置可能受地形、折射與觀測高度影響。",
+    "definition_cht": "由觀測點所見天空與陸地或海面相接的界線；其位置會隨觀測高度及周遭地形而改變，亦受大氣折射影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/apparent_horizon"
   },
   {
     "english": "apparent solar day",
     "traditional_chinese": "視太陽日",
-    "definition_cht": "以真太陽連續兩次通過同一子午線的時間間隔定義的一日，其長度因地球軌道偏心與黃赤交角而略有變化。",
+    "definition_cht": "真太陽連續兩次通過同一子午線的時間間隔；因地球公轉軌道偏心與黃赤交角影響，其長度並非完全固定。",
     "source_url": "https://glossary.ametsoc.org/wiki/apparent_solar_day"
   },
   {
     "english": "apparent stress",
     "traditional_chinese": "表觀應力",
-    "definition_cht": "依整體外力與總截面積估算之應力，未考慮材料內部實際受力分布的非均勻性。",
+    "definition_cht": "雖非真實分子力或接觸力，卻能產生與應力相同力學效果的作用；例如雷諾應力可使流體微團產生類似受力變形。",
     "source_url": "https://glossary.ametsoc.org/wiki/apparent_stress"
   },
   {
     "english": "Applications Technology Satellite",
     "traditional_chinese": "應用技術衛星",
-    "definition_cht": "美國早期一系列實驗性衛星，用於通訊、遙測及氣象觀測等太空應用技術測試。",
+    "definition_cht": "美國 Applications Technology Satellite（ATS）實驗衛星系列，用於驗證同步軌道作業、通訊、氣象觀測及太空環境探測等技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/Applications_Technology_Satellite"
   },
   {
     "english": "applied climatology",
     "traditional_chinese": "應用氣候學",
-    "definition_cht": "研究如何將氣候資料與氣候知識應用於農業、水資源、工程、健康、能源及風險管理等實務領域的學科。",
+    "definition_cht": "為特定作業或實務目的，分析並運用氣候資料與氣候知識的學科，常見於農業、水資源、工程、健康及風險管理。",
     "source_url": "https://glossary.ametsoc.org/wiki/applied_climatology"
   },
   {
     "english": "applied hydrology",
     "traditional_chinese": "應用水文學",
-    "definition_cht": "將水文原理用於洪水預報、水資源規劃、排水設計、灌溉與流域管理等實務問題的學科。",
+    "definition_cht": "將水文學原理與研究成果用於解決實際技術問題的分支，如逕流預測、水庫與溢洪道設計、供水評估及水資源管理。",
     "source_url": "https://glossary.ametsoc.org/wiki/applied_hydrology"
   },
   {
     "english": "applied meteorology",
     "traditional_chinese": "應用氣象學",
-    "definition_cht": "將氣象觀測、分析與預報知識應用於航空、農業、能源、環境、災防與工程等實務領域的學科。",
+    "definition_cht": "將氣象知識與分析預報方法實際應用於航空、農業、空氣品質、能源、交通與災害防救等問題的領域。",
     "source_url": "https://glossary.ametsoc.org/wiki/applied_meteorology"
   },
   {
     "english": "approach channel",
     "traditional_chinese": "進港航道",
-    "definition_cht": "船舶自外海進入港口或河口時所使用的導引水道，常受潮汐、流速與泥沙淤積影響。",
+    "definition_cht": "船舶自外海進入港口、港池或河口前所行經的引航航道，通常經疏浚並設有浮標或其他助航設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/approach_channel"
   },
   {
     "english": "approach velocity",
     "traditional_chinese": "接近流速",
-    "definition_cht": "流體進入結構物、量測面或控制斷面前的代表性來流速度。",
+    "definition_cht": "在水工結構前方短距離上游處量得的平均來流流速。",
     "source_url": "https://glossary.ametsoc.org/wiki/approach_velocity"
   },
   {
     "english": "approach visibility",
     "traditional_chinese": "進場能見度",
-    "definition_cht": "航空器進場階段沿飛航路徑可辨識跑道、燈光或地面參考物的能見條件。",
+    "definition_cht": "航空器沿儀器進場下滑道進場時，飛行員能看見跑道入口著陸輔助設施的距離；亦稱斜程能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/approach_visibility"
   },
   {
     "english": "approach-light contact height",
     "traditional_chinese": "進場燈初見高度",
-    "definition_cht": "飛機進場時首次目視辨識跑道進場燈系的高度，用於評估低能見度著陸條件。",
+    "definition_cht": "航空器進場時首次目視接觸跑道進場燈系的高度，用以評估低能見度進場與著陸條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/approach-light_contact_height"
   },
   {
     "english": "APT",
     "traditional_chinese": "自動圖片傳輸",
-    "definition_cht": "automatic picture transmission 的縮寫，指氣象衛星以類比方式即時傳送雲圖或影像資料的系統。",
+    "definition_cht": "automatic picture transmission 的縮寫，指極軌氣象衛星以 VHF 類比方式連續傳送低解析度雲圖或 AVHRR 影像資料的系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/APT"
   },
   {
     "english": "aquiclude",
     "traditional_chinese": "隔水層",
-    "definition_cht": "可儲水但幾乎不透水的地層，難以有效傳導地下水。",
+    "definition_cht": "可含水但幾乎不傳導地下水的低滲透地層，常作為含水層之阻水或隔離層。",
     "source_url": "https://glossary.ametsoc.org/wiki/aquiclude"
   },
   {
