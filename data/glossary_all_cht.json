@@ -5210,121 +5210,121 @@
   {
     "english": "barotropy",
     "traditional_chinese": "正壓性",
-    "definition_cht": "指與「正壓性」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "流體中壓力梯度與密度梯度（或溫度梯度）平行的狀態，亦即無斜壓性；在此近似下，密度可視為僅隨壓力而變。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropy"
   },
   {
     "english": "barrens",
-    "traditional_chinese": "裸地",
-    "definition_cht": "指與「裸地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "荒原地",
+    "definition_cht": "植被極稀少、土壤或岩石多半裸露的貧瘠地表類型，常見於乾旱、極地、高海拔或冰川退縮區。",
     "source_url": "https://glossary.ametsoc.org/wiki/barrens"
   },
   {
     "english": "barrier",
-    "traditional_chinese": "障礙",
-    "definition_cht": "指與「障礙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "障壁",
+    "definition_cht": "對氣流、水流或其他地球物理運動形成阻擋作用的天然或人工屏障；在氣象上常指山脈等地形障礙。",
     "source_url": "https://glossary.ametsoc.org/wiki/barrier"
   },
   {
     "english": "barrier iceberg",
     "traditional_chinese": "障壁冰山",
-    "definition_cht": "指與「障壁冰山」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "definition_cht": "由冰棚、冰障或其他廣闊浮冰前緣崩解形成、外形長而陡直的大型冰山，常帶有平坦頂部。",
     "source_url": "https://glossary.ametsoc.org/wiki/barrier_iceberg"
   },
   {
     "english": "barrier jet",
     "traditional_chinese": "屏障急流",
-    "definition_cht": "氣流受山脈或高地阻擋後沿屏障平行加速形成的狹長強風帶。",
+    "definition_cht": "穩定低層氣流受山脈或高地阻擋後，在迎風側沿地形平行加速形成的狹長低空強風帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/barrier_jet"
   },
   {
     "english": "barrier layer",
     "traditional_chinese": "障壁層",
-    "definition_cht": "上層海洋中介於混合層底與等溫層底之間、受鹽度分層維持的穩定層，影響海氣熱交換與颱風增強。",
+    "definition_cht": "上層海洋中受鹽度分層維持、位於密度混合層底與等溫層頂之間的海水層，可抑制冷水上混並影響海氣熱交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/barrier_layer"
   },
   {
     "english": "barrier theory",
-    "traditional_chinese": "障礙理論",
-    "definition_cht": "指與「障礙理論」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "障壁理論",
+    "definition_cht": "認為近乎靜止的地形障壁或氣團可影響鄰近較快速移動的氣流，進而促成氣旋生成或反氣旋生成的學說。",
     "source_url": "https://glossary.ametsoc.org/wiki/barrier_theory"
   },
   {
     "english": "barye",
     "traditional_chinese": "巴里",
-    "definition_cht": "指與「巴里」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "厘米—克—秒制（CGS）中的壓力單位，等於每平方公分一達因，即 0.1 帕或 0.001 毫巴。",
     "source_url": "https://glossary.ametsoc.org/wiki/barye"
   },
   {
     "english": "basal sliding",
     "traditional_chinese": "基底滑移",
-    "definition_cht": "指與「基底滑移」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "冰川底部冰體相對於下伏基岩或底床發生的滑動，常受底部融水潤滑、床面粗糙度與底壓條件控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/basal_sliding"
   },
   {
     "english": "base flow",
     "traditional_chinese": "基流",
-    "definition_cht": "降雨事件後仍由地下水等緩慢補給維持的河川流量成分。",
+    "definition_cht": "河川在無降雨或暴雨逕流消退後，主要由地下水與其他延遲性地下補給所維持的流量部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/base_flow"
   },
   {
     "english": "base level of erosion",
     "traditional_chinese": "侵蝕基準面",
-    "definition_cht": "河流或侵蝕作用理論上可下切到的最低基準面，通常以海平面為最終基準。",
+    "definition_cht": "河流或流水侵蝕理論上可下切到的最低基準面；最終基準通常為海平面，也可存在局部基準面。",
     "source_url": "https://glossary.ametsoc.org/wiki/base_level_of_erosion"
   },
   {
     "english": "base line",
     "traditional_chinese": "基線",
-    "definition_cht": "指與「基線」相關的線性界面、基準線或分析線，常作為判讀場型與地形配置的輔助量。",
+    "definition_cht": "為測量、三角測量或 GPS 解算而設定的參考線段，用作定位、座標比對與後續量測的基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/base_line"
   },
   {
     "english": "base map",
     "traditional_chinese": "底圖",
-    "definition_cht": "指與「底圖」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "提供道路、水系、地形、行政界等背景地理資訊的基礎地圖，用以承載其他主題資料或分析圖層。",
     "source_url": "https://glossary.ametsoc.org/wiki/base_map"
   },
   {
     "english": "base width",
-    "traditional_chinese": "底寬",
-    "definition_cht": "指與「底寬」相關的寬度尺度或帶寬特徵，用於描述空間或頻率範圍。",
+    "traditional_chinese": "基底寬",
+    "definition_cht": "水文歷線或其他曲線在基線上的水平寬度；在洪水歷線分析中常指自起漲至回復基流的持續時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/base_width"
   },
   {
     "english": "baseflow recession curve",
     "traditional_chinese": "基流退水曲線",
-    "definition_cht": "指與「基流退水曲線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "由長時間無雨期間的流量歷線調整而成的退水曲線，其斜率可表示地下水補給衰減或耗減速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/baseflow_recession_curve"
   },
   {
     "english": "baseflow storage",
-    "traditional_chinese": "基流蓄存",
-    "definition_cht": "指與「基流蓄存」相關的蓄存量、滯蓄作用或暫時儲存過程。",
+    "traditional_chinese": "基流蓄水量",
+    "definition_cht": "支撐河川基流的地下水或流域蓄存水量，可藉退水分析估計，反映乾旱期間持續補給河道的能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/baseflow_storage"
   },
   {
     "english": "baseline check",
     "traditional_chinese": "基線檢查",
-    "definition_cht": "指與「基線檢查」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "探空儀施放前，將其感測器讀值與地面基準儀器比對的校準與品質保證程序，亦稱地面檢查。",
     "source_url": "https://glossary.ametsoc.org/wiki/baseline_check"
   },
   {
     "english": "baseline monitoring",
     "traditional_chinese": "基線監測",
-    "definition_cht": "為掌握環境背景狀態與長期變化而進行的基準監測作業。",
+    "definition_cht": "為建立環境背景基準並追蹤長期變化而持續進行的監測作業，常用於大氣成分、氣候與環境影響評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/baseline_monitoring"
   },
   {
     "english": "basic flow",
     "traditional_chinese": "基本流",
-    "definition_cht": "作為擾動分析基準的平均流場或背景流場。",
+    "definition_cht": "在大氣模型或理論分析中作為背景狀態的流場，用以研究嵌入其中之小振幅擾動的演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/basic_flow"
   },
   {
     "english": "basin",
-    "traditional_chinese": "流域",
-    "definition_cht": "集水與匯流的地形單元，可指河川流域、海盆或其他封閉或半封閉低地系統。",
+    "traditional_chinese": "流域／盆地",
+    "definition_cht": "由分水界圍定、負責匯集地表水與地下水至共同出口的區域；亦可泛指海盆等地形上的盆狀單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/basin"
   },
   {
