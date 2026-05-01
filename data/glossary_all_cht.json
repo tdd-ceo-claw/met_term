@@ -2930,31 +2930,31 @@
   {
     "english": "antenna pattern",
     "traditional_chinese": "天線方向圖",
-    "definition_cht": "描述天線輻射或接收能力隨方向變化的角度分布圖形。",
+    "definition_cht": "以圖形表示天線在不同空間方向上的發射或接收特性分布，常用於描述主波束、副瓣與增益方向性。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_pattern"
   },
   {
     "english": "antenna temperature",
     "traditional_chinese": "天線溫度",
-    "definition_cht": "以等效溫度表示天線所接收背景輻射能量強度的量，常用於微波遙測與射電觀測。",
+    "definition_cht": "以等效黑體溫度表示天線端所接收雜訊功率的量，常用於微波遙測、射電觀測與接收系統校正。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_temperature"
   },
   {
     "english": "anthelic arcs",
     "traditional_chinese": "反日弧",
-    "definition_cht": "圍繞反日點附近、由冰晶反射或折射形成的一組罕見大氣光象弧。",
+    "definition_cht": "一組會通過反日點的罕見暈弧，屬大氣光學中的冰晶暈象，形態可因冰晶取向與成因機制不同而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthelic_arcs"
   },
   {
     "english": "anthelion",
-    "traditional_chinese": "反日點光斑",
-    "definition_cht": "出現在天空反日點附近的亮斑光象，常與冰晶或粒子散射有關。",
+    "traditional_chinese": "反日點亮斑",
+    "definition_cht": "出現在與太陽同高度、位於對日方向之幻日環上的微弱白色亮斑，屬罕見冰晶暈象，常為多種反日弧交會增亮所致。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthelion"
   },
   {
     "english": "anthropoclimatology",
     "traditional_chinese": "人類氣候學",
-    "definition_cht": "研究氣候條件對人類健康、活動、居住與社會適應影響的學科。",
+    "definition_cht": "研究氣候與人類之間相互關係的氣候學分支，包括氣候對健康、聚落、活動與社會適應的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthropoclimatology"
   },
   {
@@ -2990,7 +2990,7 @@
   {
     "english": "anti-sea breeze",
     "traditional_chinese": "反海風",
-    "definition_cht": "與正常海風方向相反的近岸局地風，通常在特殊壓力場或地形條件下出現。",
+    "definition_cht": "方向與正常海風相反的沿岸局地風，亦即在原應吹向陸地的時段改為離岸氣流，通常與背景環流、壓力配置或地形效應有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/anti-sea_breeze"
   },
   {
@@ -3014,7 +3014,7 @@
   {
     "english": "anticyclone",
     "traditional_chinese": "反氣旋",
-    "definition_cht": "以高壓中心為特徵、在北半球呈順時針、南半球呈逆時針旋轉的天氣系統，通常伴隨下沉與較穩定天氣。",
+    "definition_cht": "圍繞高氣壓中心的閉合式大氣環流；北半球呈順時針、南半球呈逆時針旋轉，常伴隨下沉氣流與較穩定天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclone"
   },
   {
@@ -3038,13 +3038,13 @@
   {
     "english": "anticyclonic shear",
     "traditional_chinese": "反氣旋式切變",
-    "definition_cht": "速度場或風場中具有促成反氣旋性渦度之水平切變分布。",
+    "definition_cht": "會促使沿流線空氣質點產生反氣旋性旋轉的水平風切變；在北半球，若面向下風處時風速由左向右遞減，即屬此類切變。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclonic_shear"
   },
   {
     "english": "antihail rocket",
     "traditional_chinese": "防雹火箭",
-    "definition_cht": "用於人工影響天氣作業、向對流雲播撒試劑以抑制冰雹形成或減小雹徑的火箭。",
+    "definition_cht": "用於防雹人工影響天氣作業的火箭，將播雲試劑送入產雹對流雲中，以干擾冰雹形成或減輕雹害。",
     "source_url": "https://glossary.ametsoc.org/wiki/antihail_rocket"
   },
   {
