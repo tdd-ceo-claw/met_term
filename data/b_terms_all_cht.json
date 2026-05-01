@@ -1,1 +1,2678 @@
-[{"english":"B-display","traditional_chinese":"B型顯示","definition_cht":"雷達的二維顯示方式之一，通常以水平軸表示方位、垂直軸表示距離，回波亮度或強度顯示目標位置。","source_url":"https://glossary.ametsoc.org/wiki/B-display"},{"english":"Babinet point","traditional_chinese":"巴比涅中性點","definition_cht":"天空偏振觀測中常見的中性點之一，位於通過太陽的垂直圈上，通常出現在太陽上方約 15° 至 20°，該處天光偏振度接近零。","source_url":"https://glossary.ametsoc.org/wiki/Babinet_point"},{"english":"Babinet's principle","traditional_chinese":"巴比涅原理","definition_cht":"波動光學中的原理，指互補遮體與孔徑所形成的繞射圖樣除前向主束整體強度外近乎相同，常用於分析繞射與散射問題。","source_url":"https://glossary.ametsoc.org/wiki/Babinet%27s_principle"},{"english":"back-sheared anvil","traditional_chinese":"逆風砧狀雲","definition_cht":"雷暴砧狀雲向高空氣流上游伸展的現象，表示強烈上升氣流頂部附近具有顯著輻散，常暗示強對流與較高的劇烈天氣潛勢。","source_url":"https://glossary.ametsoc.org/wiki/back-sheared_anvil"},{"english":"backdoor cold front","traditional_chinese":"背門冷鋒","definition_cht":"沿美國大西洋沿岸向南或西南推進、由海上或東北側侵入的冷鋒，進入方向與中緯度典型西風帶冷鋒相反。","source_url":"https://glossary.ametsoc.org/wiki/backdoor_cold_front"},{"english":"background field","traditional_chinese":"背景場","definition_cht":"在資料同化中，指分析時刻之前由短期預報提供的先驗大氣狀態場，作為結合觀測進行分析的第一猜場。","source_url":"https://glossary.ametsoc.org/wiki/background_field"},{"english":"background level","traditional_chinese":"背景濃度","definition_cht":"背景污染的濃度水準，即在未受局地排放明顯加成時，環境中原已存在的污染物濃度。","source_url":"https://glossary.ametsoc.org/wiki/background_level"},{"english":"background pollution","traditional_chinese":"背景污染","definition_cht":"非由當地排放直接造成、而是由遠距輸送、區域累積或自然來源原本存在於環境中的污染成分。","source_url":"https://glossary.ametsoc.org/wiki/background_pollution"},{"english":"backing","traditional_chinese":"逆轉","definition_cht":"指風向隨時間或隨高度作逆時針變化的現象；在北半球常與冷平流有關，與順時針轉變的 veering 相對。","source_url":"https://glossary.ametsoc.org/wiki/backing"},{"english":"backing wind","traditional_chinese":"逆轉風","definition_cht":"風向呈逆時針轉變的風；可指隨時間轉向，亦可指隨高度轉向，在北半球常與冷平流相關。","source_url":"https://glossary.ametsoc.org/wiki/backing_wind"},{"english":"backlash","traditional_chinese":"回程間隙","definition_cht":"機械傳動元件在反向運動時，因零件間存在間隙而產生的空程或延遲；於雷達天線掃描機構中可能造成指向誤差。","source_url":"https://glossary.ametsoc.org/wiki/backlash"},{"english":"backlobe","traditional_chinese":"後向瓣","definition_cht":"天線方向圖中位於主瓣反方向、約與主瓣相差 180° 的旁瓣。","source_url":"https://glossary.ametsoc.org/wiki/backlobe"},{"english":"backpropagation","traditional_chinese":"反向傳播","definition_cht":"類神經網路訓練中依損失函數將誤差由輸出層向輸入層回傳，並利用鏈鎖律計算各參數梯度的方法。","source_url":"https://glossary.ametsoc.org/wiki/backpropagation"},{"english":"Backscatter","traditional_chinese":"反向散射","definition_cht":"入射輻射在散射後沿近乎反向（雷達與光達常取 180° 方向）返回來源方向的部分。","source_url":"https://glossary.ametsoc.org/wiki/Backscatter"},{"english":"backscattering cross section","traditional_chinese":"反向散射截面","definition_cht":"表徵目標將入射能量朝雷達方向散射回去能力的有效截面量，是描述目標後向散射強弱的重要參數。","source_url":"https://glossary.ametsoc.org/wiki/backscattering_cross_section"},{"english":"backtracking","traditional_chinese":"回溯","definition_cht":"指與「回溯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/backtracking"},{"english":"backward chaining","traditional_chinese":"向後連結","definition_cht":"指與「向後連結」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/backward_chaining"},{"english":"backward difference","traditional_chinese":"後向差異","definition_cht":"指「後向差異」所代表的差分、差值或離散近似形式，常見於數值分析與資料處理。","source_url":"https://glossary.ametsoc.org/wiki/backward_difference"},{"english":"backward scattering coefficient","traditional_chinese":"後向散射係數","definition_cht":"表示「後向散射係數」相關強度、效率或比例關係的係數，常作為經驗公式或理論方程中的參數。","source_url":"https://glossary.ametsoc.org/wiki/backward_scattering_coefficient"},{"english":"backwash","traditional_chinese":"反沖洗","definition_cht":"指與「反沖洗」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/backwash"},{"english":"backwater","traditional_chinese":"壅水","definition_cht":"因下游水位抬升、阻塞或潮汐頂托，使上游水流減速並水位壅高的現象。","source_url":"https://glossary.ametsoc.org/wiki/backwater"},{"english":"backwater curve","traditional_chinese":"壅水曲線","definition_cht":"描述壅水條件下水面線沿程變化的曲線，用於明渠水力分析與河川回水計算。","source_url":"https://glossary.ametsoc.org/wiki/backwater_curve"},{"english":"Baffin Current","traditional_chinese":"巴芬電流","definition_cht":"指與「巴芬電流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。","source_url":"https://glossary.ametsoc.org/wiki/Baffin_Current"},{"english":"baffle","traditional_chinese":"擋板","definition_cht":"指與「擋板」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baffle"},{"english":"Bagyo","traditional_chinese":"巴吉奧","definition_cht":"指與「巴吉奧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bagyo"},{"english":"bai","traditional_chinese":"白","definition_cht":"指與「白」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bai"},{"english":"bai-u","traditional_chinese":"梅雨","definition_cht":"東亞初夏季節性持續降雨期，日本稱梅雨，與鋒面滯留及季風環流配置密切相關。","source_url":"https://glossary.ametsoc.org/wiki/bai-u"},{"english":"balance","traditional_chinese":"平衡","definition_cht":"指與「平衡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/balance"},{"english":"balance equation","traditional_chinese":"平衡方程","definition_cht":"描述大氣或海洋中各物理量在力學、熱力或質量收支下維持平衡關係的方程式。","source_url":"https://glossary.ametsoc.org/wiki/balance_equation"},{"english":"balance meter","traditional_chinese":"平衡計","definition_cht":"用於量測「平衡計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/balance_meter"},{"english":"balance year","traditional_chinese":"平衡年","definition_cht":"指以年為尺度定義的「平衡年」相關統計、收支或氣候期間概念。","source_url":"https://glossary.ametsoc.org/wiki/balance_year"},{"english":"Bali wind","traditional_chinese":"峇裡島風","definition_cht":"指與「峇裡島風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。","source_url":"https://glossary.ametsoc.org/wiki/Bali_wind"},{"english":"ball lightning","traditional_chinese":"球狀閃電","definition_cht":"外觀近似發光球體、持續時間較一般閃電為長的罕見放電現象，其形成機制尚未完全確定。","source_url":"https://glossary.ametsoc.org/wiki/ball_lightning"},{"english":"balling","traditional_chinese":"球","definition_cht":"指與「球」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/balling"},{"english":"ballistic density","traditional_chinese":"彈道密度","definition_cht":"指與「彈道密度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/ballistic_density"},{"english":"ballonet","traditional_chinese":"調壓氣囊","definition_cht":"裝設於非剛性飛船或特定高空氣球內、容積可變的密閉氣囊，用以調節內部壓力並控制升降。","source_url":"https://glossary.ametsoc.org/wiki/ballonet"},{"english":"Balloon","traditional_chinese":"氣球","definition_cht":"充填比周圍空氣更輕之氣體或利用熱空氣提供浮力的囊體平台，可搭載儀器進行高空風場、溫濕壓等大氣觀測。","source_url":"https://glossary.ametsoc.org/wiki/Balloon"},{"english":"balloon ceiling","traditional_chinese":"氣球天花板","definition_cht":"指與「氣球天花板」相關的雲底高度或可飛行天氣條件限制。","source_url":"https://glossary.ametsoc.org/wiki/balloon_ceiling"},{"english":"balloon sounding","traditional_chinese":"氣球探測","definition_cht":"指利用探空、測深或垂直剖面觀測取得的「氣球探測」相關資料。","source_url":"https://glossary.ametsoc.org/wiki/balloon_sounding"},{"english":"ban-gull","traditional_chinese":"班鷗","definition_cht":"指與「班鷗」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/ban-gull"},{"english":"band","traditional_chinese":"樂團","definition_cht":"指與「樂團」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/band"},{"english":"band absorption","traditional_chinese":"帶狀吸收","definition_cht":"分子在一系列相近波長上所形成的吸收帶，常見於大氣氣體光譜吸收與輻射傳輸研究。","source_url":"https://glossary.ametsoc.org/wiki/band_absorption"},{"english":"band model","traditional_chinese":"樂團模型","definition_cht":"用於表徵「樂團模型」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。","source_url":"https://glossary.ametsoc.org/wiki/band_model"},{"english":"banded structure","traditional_chinese":"帶狀結構","definition_cht":"指與「帶狀結構」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/banded_structure"},{"english":"bandpass filter","traditional_chinese":"帶通濾波器","definition_cht":"用於擷取、平滑或限制「帶通濾波器」相關頻率成分的濾波方法或裝置。","source_url":"https://glossary.ametsoc.org/wiki/bandpass_filter"},{"english":"bandwidth","traditional_chinese":"頻寬","definition_cht":"指與「頻寬」相關的寬度尺度或帶寬特徵，用於描述空間或頻率範圍。","source_url":"https://glossary.ametsoc.org/wiki/bandwidth"},{"english":"bank","traditional_chinese":"銀行","definition_cht":"指與「銀行」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bank"},{"english":"bank storage","traditional_chinese":"銀行儲存","definition_cht":"指與「銀行儲存」相關的蓄存量、滯蓄作用或暫時儲存過程。","source_url":"https://glossary.ametsoc.org/wiki/bank_storage"},{"english":"bankfull stage","traditional_chinese":"滿岸階段","definition_cht":"指與「滿岸階段」相關的水位、高度或發展階段特徵。","source_url":"https://glossary.ametsoc.org/wiki/bankfull_stage"},{"english":"banner cloud","traditional_chinese":"旗雲","definition_cht":"氣流越過孤立山峰後於背風側或峰頂附近形成的旗狀定常雲，反映局地地形抬升與波動。","source_url":"https://glossary.ametsoc.org/wiki/banner_cloud"},{"english":"bar","traditional_chinese":"巴（壓力單位）","definition_cht":"壓力單位，1 bar 等於 10^5 帕斯卡，常用於海洋、氣象與工程領域的壓力表示。","source_url":"https://glossary.ametsoc.org/wiki/bar"},{"english":"barat","traditional_chinese":"婆羅多風","definition_cht":"指與「婆羅多風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barat"},{"english":"barb","traditional_chinese":"倒鉤","definition_cht":"指與「倒鉤」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barb"},{"english":"barber","traditional_chinese":"霧霜帶","definition_cht":"指與「霧霜帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barber"},{"english":"barchan","traditional_chinese":"新月形","definition_cht":"指與「新月形」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barchan"},{"english":"bare ice","traditional_chinese":"裸冰","definition_cht":"指與「裸冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/bare_ice"},{"english":"bare soil","traditional_chinese":"裸土","definition_cht":"指與「裸土」相關的土壤性質、土層條件或陸面過程。","source_url":"https://glossary.ametsoc.org/wiki/bare_soil"},{"english":"baric topography","traditional_chinese":"巴里克地形","definition_cht":"以圖形方式呈現「巴里克地形」相關量值、分類或變化關係的圖表。","source_url":"https://glossary.ametsoc.org/wiki/baric_topography"},{"english":"barinés","traditional_chinese":"巴里內斯","definition_cht":"指與「巴里內斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barin%C3%A9s"},{"english":"baroclinic","traditional_chinese":"斜壓臨床","definition_cht":"指與「斜壓臨床」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baroclinic"},{"english":"baroclinic atmosphere","traditional_chinese":"斜壓大氣","definition_cht":"等壓面上溫度與密度梯度不平行的大氣狀態，易伴隨垂直風切並有利於中緯度擾動發展。","source_url":"https://glossary.ametsoc.org/wiki/baroclinic_atmosphere"},{"english":"baroclinic disturbance","traditional_chinese":"斜壓擾動","definition_cht":"指與「斜壓擾動」相關的擾動型態，通常偏離背景平均狀態並可能隨時間演變。","source_url":"https://glossary.ametsoc.org/wiki/baroclinic_disturbance"},{"english":"baroclinic forecast","traditional_chinese":"斜壓預報","definition_cht":"指以「斜壓預報」為核心的預報方法、產品或結果。","source_url":"https://glossary.ametsoc.org/wiki/baroclinic_forecast"},{"english":"baroclinic instability","traditional_chinese":"斜壓不穩定","definition_cht":"由水平溫度梯度與垂直風切所釋放之可用位能轉換為擾動動能的不穩定機制，是溫帶氣旋生成的重要動力。","source_url":"https://glossary.ametsoc.org/wiki/baroclinic_instability"},{"english":"baroclinic leaf","traditional_chinese":"斜葉","definition_cht":"指與「斜葉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baroclinic_leaf"},{"english":"baroclinic model","traditional_chinese":"斜壓模式","definition_cht":"用於表徵「斜壓模式」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。","source_url":"https://glossary.ametsoc.org/wiki/baroclinic_model"},{"english":"baroclinic wave","traditional_chinese":"斜壓波","definition_cht":"指與「斜壓波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。","source_url":"https://glossary.ametsoc.org/wiki/baroclinic_wave"},{"english":"baroclinity","traditional_chinese":"斜壓","definition_cht":"指與「斜壓」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baroclinity"},{"english":"barogram","traditional_chinese":"氣壓記錄圖","definition_cht":"由氣壓記錄器連續記錄所得之氣壓隨時間變化曲線。","source_url":"https://glossary.ametsoc.org/wiki/barogram"},{"english":"barograph","traditional_chinese":"氣壓記錄器","definition_cht":"可連續自動記錄氣壓變化的儀器，用於監測天氣系統通過時的壓力演變。","source_url":"https://glossary.ametsoc.org/wiki/barograph"},{"english":"barometer","traditional_chinese":"氣壓計","definition_cht":"量測大氣壓力的儀器，可分為水銀式、空盒式與電子式等類型。","source_url":"https://glossary.ametsoc.org/wiki/barometer"},{"english":"barometer cistern","traditional_chinese":"氣壓計水箱","definition_cht":"用於量測「氣壓計水箱」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/barometer_cistern"},{"english":"barometer elevation","traditional_chinese":"氣壓計海拔","definition_cht":"用於量測「氣壓計海拔」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/barometer_elevation"},{"english":"barometric","traditional_chinese":"氣壓的","definition_cht":"形容與大氣壓力、氣壓測定或氣壓計讀數有關之性質、變化或作業。","source_url":"https://glossary.ametsoc.org/wiki/barometric"},{"english":"barometric characteristic","traditional_chinese":"氣壓特性","definition_cht":"指與「氣壓特性」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barometric_characteristic"},{"english":"barometric constant","traditional_chinese":"氣壓常數","definition_cht":"指與「氣壓常數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barometric_constant"},{"english":"barometric correction table","traditional_chinese":"氣壓校正表","definition_cht":"指與「氣壓校正表」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barometric_correction_table"},{"english":"barometric corrections","traditional_chinese":"氣壓校正","definition_cht":"指與「氣壓校正」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barometric_corrections"},{"english":"barometric hypsometry","traditional_chinese":"氣壓測高法","definition_cht":"指與「氣壓測高法」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barometric_hypsometry"},{"english":"barometric rate","traditional_chinese":"氣壓率","definition_cht":"指「氣壓率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。","source_url":"https://glossary.ametsoc.org/wiki/barometric_rate"},{"english":"barometric reduction table","traditional_chinese":"氣壓降低表","definition_cht":"指與「氣壓降低表」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barometric_reduction_table"},{"english":"barometric wave","traditional_chinese":"氣壓波","definition_cht":"指與「氣壓波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。","source_url":"https://glossary.ametsoc.org/wiki/barometric_wave"},{"english":"barometry","traditional_chinese":"氣壓測定","definition_cht":"以氣壓計量測大氣壓力及其變化的技術與學理，為天氣分析、預報與高度推算的重要基礎。","source_url":"https://glossary.ametsoc.org/wiki/barometry"},{"english":"baromil","traditional_chinese":"巴羅米爾","definition_cht":"指與「巴羅米爾」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baromil"},{"english":"baroswitch","traditional_chinese":"壓力開關","definition_cht":"指與「壓力開關」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baroswitch"},{"english":"barothermograph","traditional_chinese":"氣壓計","definition_cht":"以圖形方式呈現「氣壓計」相關量值、分類或變化關係的圖表。","source_url":"https://glossary.ametsoc.org/wiki/barothermograph"},{"english":"barothermohygrograph","traditional_chinese":"氣壓溫濕度計","definition_cht":"以圖形方式呈現「氣壓溫濕度計」相關量值、分類或變化關係的圖表。","source_url":"https://glossary.ametsoc.org/wiki/barothermohygrograph"},{"english":"barotropic","traditional_chinese":"正壓的","definition_cht":"指與「正壓的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barotropic"},{"english":"barotropic atmosphere","traditional_chinese":"正壓大氣","definition_cht":"密度僅為壓力函數、等壓面與等密度面平行的理想化大氣狀態，常用於動力氣象理論分析。","source_url":"https://glossary.ametsoc.org/wiki/barotropic_atmosphere"},{"english":"barotropic disturbance","traditional_chinese":"正壓擾動","definition_cht":"指與「正壓擾動」相關的擾動型態，通常偏離背景平均狀態並可能隨時間演變。","source_url":"https://glossary.ametsoc.org/wiki/barotropic_disturbance"},{"english":"barotropic forecast","traditional_chinese":"正壓預報","definition_cht":"指以「正壓預報」為核心的預報方法、產品或結果。","source_url":"https://glossary.ametsoc.org/wiki/barotropic_forecast"},{"english":"barotropic instability","traditional_chinese":"正壓不穩定","definition_cht":"由水平風速剪切所造成、可使平均流動動能轉移至擾動的流體不穩定機制。","source_url":"https://glossary.ametsoc.org/wiki/barotropic_instability"},{"english":"barotropic model","traditional_chinese":"正壓模式","definition_cht":"用於表徵「正壓模式」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。","source_url":"https://glossary.ametsoc.org/wiki/barotropic_model"},{"english":"barotropic pressure function","traditional_chinese":"正壓函數","definition_cht":"描述「正壓函數」相關變數關係、分布型態或響應特性的函數表述。","source_url":"https://glossary.ametsoc.org/wiki/barotropic_pressure_function"},{"english":"barotropic vorticity equation","traditional_chinese":"正壓渦度方程","definition_cht":"描述在正壓近似下渦度守恆與演變的基本方程，廣用於大尺度大氣動力研究。","source_url":"https://glossary.ametsoc.org/wiki/barotropic_vorticity_equation"},{"english":"barotropy","traditional_chinese":"正壓性","definition_cht":"指與「正壓性」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barotropy"},{"english":"barrens","traditional_chinese":"裸地","definition_cht":"指與「裸地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barrens"},{"english":"barrier","traditional_chinese":"障礙","definition_cht":"指與「障礙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barrier"},{"english":"barrier iceberg","traditional_chinese":"障壁冰山","definition_cht":"指與「障壁冰山」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/barrier_iceberg"},{"english":"barrier jet","traditional_chinese":"屏障急流","definition_cht":"氣流受山脈或高地阻擋後沿屏障平行加速形成的狹長強風帶。","source_url":"https://glossary.ametsoc.org/wiki/barrier_jet"},{"english":"barrier layer","traditional_chinese":"障壁層","definition_cht":"上層海洋中介於混合層底與等溫層底之間、受鹽度分層維持的穩定層，影響海氣熱交換與颱風增強。","source_url":"https://glossary.ametsoc.org/wiki/barrier_layer"},{"english":"barrier theory","traditional_chinese":"障礙理論","definition_cht":"指與「障礙理論」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barrier_theory"},{"english":"barye","traditional_chinese":"巴里","definition_cht":"指與「巴里」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/barye"},{"english":"basal sliding","traditional_chinese":"基底滑移","definition_cht":"指與「基底滑移」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/basal_sliding"},{"english":"base flow","traditional_chinese":"基流","definition_cht":"降雨事件後仍由地下水等緩慢補給維持的河川流量成分。","source_url":"https://glossary.ametsoc.org/wiki/base_flow"},{"english":"base level of erosion","traditional_chinese":"侵蝕基準面","definition_cht":"河流或侵蝕作用理論上可下切到的最低基準面，通常以海平面為最終基準。","source_url":"https://glossary.ametsoc.org/wiki/base_level_of_erosion"},{"english":"base line","traditional_chinese":"基線","definition_cht":"指與「基線」相關的線性界面、基準線或分析線，常作為判讀場型與地形配置的輔助量。","source_url":"https://glossary.ametsoc.org/wiki/base_line"},{"english":"base map","traditional_chinese":"底圖","definition_cht":"指與「底圖」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/base_map"},{"english":"base width","traditional_chinese":"底寬","definition_cht":"指與「底寬」相關的寬度尺度或帶寬特徵，用於描述空間或頻率範圍。","source_url":"https://glossary.ametsoc.org/wiki/base_width"},{"english":"baseflow recession curve","traditional_chinese":"基流退水曲線","definition_cht":"指與「基流退水曲線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baseflow_recession_curve"},{"english":"baseflow storage","traditional_chinese":"基流蓄存","definition_cht":"指與「基流蓄存」相關的蓄存量、滯蓄作用或暫時儲存過程。","source_url":"https://glossary.ametsoc.org/wiki/baseflow_storage"},{"english":"baseline check","traditional_chinese":"基線檢查","definition_cht":"指與「基線檢查」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baseline_check"},{"english":"baseline monitoring","traditional_chinese":"基線監測","definition_cht":"為掌握環境背景狀態與長期變化而進行的基準監測作業。","source_url":"https://glossary.ametsoc.org/wiki/baseline_monitoring"},{"english":"basic flow","traditional_chinese":"基本流","definition_cht":"作為擾動分析基準的平均流場或背景流場。","source_url":"https://glossary.ametsoc.org/wiki/basic_flow"},{"english":"basin","traditional_chinese":"流域","definition_cht":"集水與匯流的地形單元，可指河川流域、海盆或其他封閉或半封閉低地系統。","source_url":"https://glossary.ametsoc.org/wiki/basin"},{"english":"basin lag","traditional_chinese":"流域遲滯時間","definition_cht":"指與「流域遲滯時間」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/basin_lag"},{"english":"basin outlet","traditional_chinese":"流域出口","definition_cht":"指與「流域出口」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/basin_outlet"},{"english":"basin recharge","traditional_chinese":"流域補注","definition_cht":"指與「流域補注」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/basin_recharge"},{"english":"basin response","traditional_chinese":"流域響應","definition_cht":"指與「流域響應」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/basin_response"},{"english":"basis functions","traditional_chinese":"基底函數","definition_cht":"描述「基底函數」相關變數關係、分布型態或響應特性的函數表述。","source_url":"https://glossary.ametsoc.org/wiki/basis_functions"},{"english":"Bathy","traditional_chinese":"測深儀","definition_cht":"指與「測深儀」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bathy"},{"english":"Bathymeter","traditional_chinese":"測深計","definition_cht":"用於量測「測深計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/Bathymeter"},{"english":"bathymetric chart","traditional_chinese":"水深圖","definition_cht":"用於呈現「水深圖」相關空間分布或分析結果的圖表，可支援監測、診斷與預報判讀。","source_url":"https://glossary.ametsoc.org/wiki/bathymetric_chart"},{"english":"bathymetry","traditional_chinese":"水深測量","definition_cht":"對海底、湖底或其他水體底床深度與地形起伏的測量與描述。","source_url":"https://glossary.ametsoc.org/wiki/bathymetry"},{"english":"bathythermograph","traditional_chinese":"深溫儀","definition_cht":"用於量測海水溫度隨深度變化的海洋觀測儀器，可快速獲得上層海洋熱結構。","source_url":"https://glossary.ametsoc.org/wiki/bathythermograph"},{"english":"bathythermograph grid","traditional_chinese":"深溫儀格網","definition_cht":"以圖形方式呈現「深溫儀格網」相關量值、分類或變化關係的圖表。","source_url":"https://glossary.ametsoc.org/wiki/bathythermograph_grid"},{"english":"bathythermograph print","traditional_chinese":"深溫儀記錄紙","definition_cht":"以圖形方式呈現「深溫儀記錄紙」相關量值、分類或變化關係的圖表。","source_url":"https://glossary.ametsoc.org/wiki/bathythermograph_print"},{"english":"bathythermograph slide","traditional_chinese":"深溫儀投影片","definition_cht":"以圖形方式呈現「深溫儀投影片」相關量值、分類或變化關係的圖表。","source_url":"https://glossary.ametsoc.org/wiki/bathythermograph_slide"},{"english":"baud","traditional_chinese":"鮑率","definition_cht":"指與「鮑率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/baud"},{"english":"baud rate","traditional_chinese":"鮑率","definition_cht":"指「鮑率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。","source_url":"https://glossary.ametsoc.org/wiki/baud_rate"},{"english":"bay ice","traditional_chinese":"海灣冰","definition_cht":"指與「海灣冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/bay_ice"},{"english":"Bay of Bengal Water","traditional_chinese":"孟加拉灣水團","definition_cht":"指與「孟加拉灣水團」相關的水團、水體性質或水文條件，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/Bay_of_Bengal_Water"},{"english":"bayamo","traditional_chinese":"巴亞莫風","definition_cht":"指與「巴亞莫風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bayamo"},{"english":"Bayesian Method","traditional_chinese":"貝葉斯方法","definition_cht":"以貝葉斯定理整合先驗資訊與觀測證據的統計方法，常用於預報校正、分類與資料同化。","source_url":"https://glossary.ametsoc.org/wiki/Bayesian_Method"},{"english":"BDRF","traditional_chinese":"雙向散射分布函數","definition_cht":"描述表面對入射輻射在不同方向上散射分布特性的函數，是遙測反照與輻射傳輸的重要參數化量。","source_url":"https://glossary.ametsoc.org/wiki/BDRF"},{"english":"beaded lightning","traditional_chinese":"串珠狀閃電","definition_cht":"閃電通道在衰減階段呈現一連串珠狀亮點的現象，多見於閃電尾端分段發光。","source_url":"https://glossary.ametsoc.org/wiki/beaded_lightning"},{"english":"beam","traditional_chinese":"波束","definition_cht":"雷達、光達或聲納等儀器發射與接收能量所對應的定向波束。","source_url":"https://glossary.ametsoc.org/wiki/beam"},{"english":"beam filling","traditional_chinese":"波束填充","definition_cht":"指與「波束填充」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beam_filling"},{"english":"beam swinging","traditional_chinese":"擺束法","definition_cht":"指與「擺束法」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beam_swinging"},{"english":"beam wind","traditional_chinese":"波束風","definition_cht":"指與「波束風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。","source_url":"https://glossary.ametsoc.org/wiki/beam_wind"},{"english":"beamwidth","traditional_chinese":"波束寬度","definition_cht":"波束主瓣在指定功率衰減準則下的角寬，反映天線或感測器的方向解析能力。","source_url":"https://glossary.ametsoc.org/wiki/beamwidth"},{"english":"bearing","traditional_chinese":"方位","definition_cht":"指與「方位」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bearing"},{"english":"beating","traditional_chinese":"拍頻","definition_cht":"指與「拍頻」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beating"},{"english":"Beaufort force","traditional_chinese":"蒲福風級","definition_cht":"依風對海面或地物作用外觀所劃分的風力等級。","source_url":"https://glossary.ametsoc.org/wiki/Beaufort_force"},{"english":"Beaufort weather notation","traditional_chinese":"蒲福天氣記號","definition_cht":"以簡明符號記錄天氣現象與狀態的記號系統，常用於地面觀測紀錄。","source_url":"https://glossary.ametsoc.org/wiki/Beaufort_weather_notation"},{"english":"Beaufort wind scale","traditional_chinese":"蒲福風級","definition_cht":"指與「蒲福風級」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。","source_url":"https://glossary.ametsoc.org/wiki/Beaufort_wind_scale"},{"english":"Beaumont period","traditional_chinese":"博蒙特時期","definition_cht":"指與「博蒙特時期」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Beaumont_period"},{"english":"beavertail antenna","traditional_chinese":"海狸尾天線","definition_cht":"指與「海狸尾天線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beavertail_antenna"},{"english":"belat","traditional_chinese":"貝拉特","definition_cht":"指與「貝拉特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/belat"},{"english":"bell taper","traditional_chinese":"鐘形錐度","definition_cht":"指與「鐘形錐度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bell_taper"},{"english":"Bellamy method","traditional_chinese":"貝拉米法","definition_cht":"指處理「貝拉米法」相關問題的分析、估算、分類或推算方法。","source_url":"https://glossary.ametsoc.org/wiki/Bellamy_method"},{"english":"below minimums","traditional_chinese":"低於最低值","definition_cht":"指與「低於最低值」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/below_minimums"},{"english":"belt of fluctuation","traditional_chinese":"波動帶","definition_cht":"指與「波動帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/belt_of_fluctuation"},{"english":"beltane-ree","traditional_chinese":"貝爾塔內裡","definition_cht":"指與「貝爾塔內裡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beltane-ree"},{"english":"Beltrami flow","traditional_chinese":"貝爾特拉米流","definition_cht":"指與「貝爾特拉米流」相關的流動型態或平均流場，可用於分析輸送、循環與動力結構。","source_url":"https://glossary.ametsoc.org/wiki/Beltrami_flow"},{"english":"Bemporad's formula","traditional_chinese":"班波拉德公式","definition_cht":"指與「班波拉德公式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bemporad%27s_formula"},{"english":"Bénard cell","traditional_chinese":"貝納德細胞","definition_cht":"指與「貝納德細胞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/B%C3%A9nard_cell"},{"english":"benchmark","traditional_chinese":"基準","definition_cht":"指與「基準」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/benchmark"},{"english":"benchmark station","traditional_chinese":"基準站","definition_cht":"指與「基準站」相關的觀測站、作業站位或資料採集位置。","source_url":"https://glossary.ametsoc.org/wiki/benchmark_station"},{"english":"Benguela Current","traditional_chinese":"本格拉洋流","definition_cht":"指與「本格拉洋流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。","source_url":"https://glossary.ametsoc.org/wiki/Benguela_Current"},{"english":"bent-back occlusion","traditional_chinese":"後彎咬合","definition_cht":"指與「後彎咬合」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bent-back_occlusion"},{"english":"bentu de soli","traditional_chinese":"本圖德索利","definition_cht":"指與「本圖德索利」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bentu_de_soli"},{"english":"benzene","traditional_chinese":"苯","definition_cht":"指與「苯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/benzene"},{"english":"benzo-a-pyrene","traditional_chinese":"苯並芘","definition_cht":"指與「苯並芘」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/benzo-a-pyrene"},{"english":"berg","traditional_chinese":"伯格","definition_cht":"指與「伯格」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/berg"},{"english":"Berg wind","traditional_chinese":"伯格風","definition_cht":"指與「伯格風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。","source_url":"https://glossary.ametsoc.org/wiki/Berg_wind"},{"english":"Bergeron classification","traditional_chinese":"伯傑龍分類","definition_cht":"指依特定準則對「伯傑龍分類」相關現象、類型或樣態所做的分類系統。","source_url":"https://glossary.ametsoc.org/wiki/Bergeron_classification"},{"english":"Bergeron–Findeisen process","traditional_chinese":"伯傑龍-芬德森過程","definition_cht":"指「伯傑龍-芬德森過程」所涉及的物理、化學或動力過程，用於說明形成與演變機制。","source_url":"https://glossary.ametsoc.org/wiki/Bergeron%E2%80%93Findeisen_process"},{"english":"bergy bit","traditional_chinese":"伯格比特","definition_cht":"指與「伯格比特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bergy_bit"},{"english":"Bering Slope Current","traditional_chinese":"白令山坡流","definition_cht":"指與「白令山坡流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。","source_url":"https://glossary.ametsoc.org/wiki/Bering_Slope_Current"},{"english":"Bermuda high","traditional_chinese":"百慕達高中","definition_cht":"指與「百慕達高中」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bermuda_high"},{"english":"Bernal–Fowler rules","traditional_chinese":"伯納爾-福勒規則","definition_cht":"指與「伯納爾-福勒規則」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bernal%E2%80%93Fowler_rules"},{"english":"Bernoulli's theorem","traditional_chinese":"伯努利定理","definition_cht":"「伯努利定理」相關的理論定理或數學命題，用以說明特定物理或統計性質。","source_url":"https://glossary.ametsoc.org/wiki/Bernoulli%27s_theorem"},{"english":"Besson nephoscope","traditional_chinese":"貝松腎鏡","definition_cht":"指與「貝松腎鏡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Besson_nephoscope"},{"english":"Best number","traditional_chinese":"最佳號碼","definition_cht":"指與「最佳號碼」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Best_number"},{"english":"best track","traditional_chinese":"最佳曲目","definition_cht":"指與「最佳曲目」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/best_track"},{"english":"beta drift","traditional_chinese":"貝塔漂移","definition_cht":"指與「貝塔漂移」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beta_drift"},{"english":"beta effect","traditional_chinese":"貝塔效應","definition_cht":"指與「貝塔效應」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beta_effect"},{"english":"beta gyre","traditional_chinese":"貝塔環流","definition_cht":"指與「貝塔環流」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beta_gyre"},{"english":"beta particle","traditional_chinese":"β粒子","definition_cht":"指與「β粒子」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beta_particle"},{"english":"beta plane","traditional_chinese":"貝塔平面","definition_cht":"指與「貝塔平面」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beta_plane"},{"english":"beta ray","traditional_chinese":"β射線","definition_cht":"指與「β射線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beta_ray"},{"english":"beta spiral","traditional_chinese":"β螺旋","definition_cht":"指與「β螺旋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/beta_spiral"},{"english":"between layers","traditional_chinese":"層與層之間","definition_cht":"指與「層與層之間」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。","source_url":"https://glossary.ametsoc.org/wiki/between_layers"},{"english":"bhut","traditional_chinese":"布特","definition_cht":"指與「布特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bhut"},{"english":"bidirectional reflectance distribution function","traditional_chinese":"雙向反射率分佈函數","definition_cht":"描述「雙向反射率分佈函數」相關變數關係、分布型態或響應特性的函數表述。","source_url":"https://glossary.ametsoc.org/wiki/bidirectional_reflectance_distribution_function"},{"english":"bidirectional reflectance factor","traditional_chinese":"雙向反射係數","definition_cht":"指與「雙向反射係數」相關的反射特性或反照量，常用於遙測與輻射分析。","source_url":"https://glossary.ametsoc.org/wiki/bidirectional_reflectance_factor"},{"english":"bidirectional reflection function","traditional_chinese":"雙向反射功能","definition_cht":"描述「雙向反射功能」相關變數關係、分布型態或響應特性的函數表述。","source_url":"https://glossary.ametsoc.org/wiki/bidirectional_reflection_function"},{"english":"biennial ice","traditional_chinese":"兩年一次的冰","definition_cht":"指與「兩年一次的冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/biennial_ice"},{"english":"biennial wind oscillation","traditional_chinese":"兩年一次的風振盪","definition_cht":"指與「兩年一次的風振盪」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。","source_url":"https://glossary.ametsoc.org/wiki/biennial_wind_oscillation"},{"english":"bifilar electrometer","traditional_chinese":"雙線靜電計","definition_cht":"用於量測「雙線靜電計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/bifilar_electrometer"},{"english":"bihemispherical reflectance","traditional_chinese":"雙半球反射率","definition_cht":"指與「雙半球反射率」相關的反射特性或反照量，常用於遙測與輻射分析。","source_url":"https://glossary.ametsoc.org/wiki/bihemispherical_reflectance"},{"english":"billow cirrus clouds","traditional_chinese":"滾滾卷雲","definition_cht":"指與「滾滾卷雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。","source_url":"https://glossary.ametsoc.org/wiki/billow_cirrus_clouds"},{"english":"billow cloud","traditional_chinese":"滾滾雲","definition_cht":"指與「滾滾雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。","source_url":"https://glossary.ametsoc.org/wiki/billow_cloud"},{"english":"billow wave","traditional_chinese":"滾滾波浪","definition_cht":"指與「滾滾波浪」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。","source_url":"https://glossary.ametsoc.org/wiki/billow_wave"},{"english":"bimetallic strip","traditional_chinese":"雙金屬片","definition_cht":"指與「雙金屬片」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bimetallic_strip"},{"english":"bimetallic thermometer","traditional_chinese":"雙金屬溫度計","definition_cht":"用於量測「雙金屬溫度計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/bimetallic_thermometer"},{"english":"bimodal spectrum","traditional_chinese":"雙峰譜","definition_cht":"指與「雙峰譜」相關之頻譜或波譜分布，用於分析能量在頻率、波長或波數空間中的配置。","source_url":"https://glossary.ametsoc.org/wiki/bimodal_spectrum"},{"english":"binary code","traditional_chinese":"二進位代碼","definition_cht":"指與「二進位代碼」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/binary_code"},{"english":"binary cyclones","traditional_chinese":"雙旋風分離器","definition_cht":"指與「雙旋風分離器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/binary_cyclones"},{"english":"binomial distribution","traditional_chinese":"二項式分佈","definition_cht":"指與「二項式分佈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/binomial_distribution"},{"english":"bio-assay","traditional_chinese":"生物測定","definition_cht":"指與「生物測定」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bio-assay"},{"english":"biochemical oxygen demand","traditional_chinese":"生化需氧量","definition_cht":"指與「生化需氧量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/biochemical_oxygen_demand"},{"english":"biochore","traditional_chinese":"生物群","definition_cht":"指與「生物群」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/biochore"},{"english":"bioclimatograph","traditional_chinese":"生物氣候儀","definition_cht":"以圖形方式呈現「生物氣候儀」相關量值、分類或變化關係的圖表。","source_url":"https://glossary.ametsoc.org/wiki/bioclimatograph"},{"english":"bioclimatology","traditional_chinese":"生物氣候學","definition_cht":"氣候學的分支，研究氣候與生命之間的關係，尤其包括氣候對人類健康、活動，以及動植物分布與適應的影響。","source_url":"https://glossary.ametsoc.org/wiki/bioclimatology"},{"english":"biogenic ice nucleus","traditional_chinese":"生物冰核","definition_cht":"指與「生物冰核」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/biogenic_ice_nucleus"},{"english":"biogenic trace gases","traditional_chinese":"生物微量氣體","definition_cht":"指與「生物微量氣體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/biogenic_trace_gases"},{"english":"biogeochemical cycle","traditional_chinese":"生物地球化學循環","definition_cht":"指與「生物地球化學循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/biogeochemical_cycle"},{"english":"biomass burning","traditional_chinese":"生物質燃燒","definition_cht":"指與「生物質燃燒」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/biomass_burning"},{"english":"Biometeorology","traditional_chinese":"生物氣象學","definition_cht":"指與「生物氣象學」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Biometeorology"},{"english":"biosphere","traditional_chinese":"生物圈","definition_cht":"指與「生物圈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/biosphere"},{"english":"biosphere reserves","traditional_chinese":"生物圈保護區","definition_cht":"指與「生物圈保護區」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/biosphere_reserves"},{"english":"bipolar pattern","traditional_chinese":"雙極性模式","definition_cht":"指與「雙極性模式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bipolar_pattern"},{"english":"birainy climate","traditional_chinese":"雙雨氣候","definition_cht":"指與「雙雨氣候」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/birainy_climate"},{"english":"bird burst","traditional_chinese":"鳥爆發","definition_cht":"指與「鳥爆發」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bird_burst"},{"english":"birefringence","traditional_chinese":"雙折射","definition_cht":"指與「雙折射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/birefringence"},{"english":"Birkeland currents","traditional_chinese":"伯克蘭洋流","definition_cht":"指與「伯克蘭洋流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。","source_url":"https://glossary.ametsoc.org/wiki/Birkeland_currents"},{"english":"bise","traditional_chinese":"寒風","definition_cht":"指與「寒風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bise"},{"english":"Bishop wave","traditional_chinese":"主教波","definition_cht":"指與「主教波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。","source_url":"https://glossary.ametsoc.org/wiki/Bishop_wave"},{"english":"Bishop's ring","traditional_chinese":"主教的戒指","definition_cht":"指與「主教的戒指」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bishop%27s_ring"},{"english":"bistatic","traditional_chinese":"雙基地","definition_cht":"指與「雙基地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bistatic"},{"english":"bistatic radar","traditional_chinese":"雙基地雷達","definition_cht":"指與「雙基地雷達」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bistatic_radar"},{"english":"bit","traditional_chinese":"位元","definition_cht":"指與「位元」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bit"},{"english":"bit rate","traditional_chinese":"位元率","definition_cht":"指「位元率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。","source_url":"https://glossary.ametsoc.org/wiki/bit_rate"},{"english":"bittern","traditional_chinese":"鹵水","definition_cht":"指與「鹵水」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bittern"},{"english":"bivane","traditional_chinese":"比瓦內","definition_cht":"指與「比瓦內」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bivane"},{"english":"BL","traditional_chinese":"BL","definition_cht":"「BL」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。","source_url":"https://glossary.ametsoc.org/wiki/BL"},{"english":"black blizzard","traditional_chinese":"黑色暴風雪","definition_cht":"指與「黑色暴風雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/black_blizzard"},{"english":"black fog","traditional_chinese":"黑霧","definition_cht":"指與「黑霧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/black_fog"},{"english":"black frost","traditional_chinese":"黑霜","definition_cht":"指與「黑霜」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/black_frost"},{"english":"black ice","traditional_chinese":"黑冰","definition_cht":"指與「黑冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/black_ice"},{"english":"black northeaster","traditional_chinese":"黑東北風","definition_cht":"指與「黑東北風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/black_northeaster"},{"english":"black squall","traditional_chinese":"黑颮","definition_cht":"指與「黑颮」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/black_squall"},{"english":"black storm","traditional_chinese":"黑色風暴","definition_cht":"指與「黑色風暴」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/black_storm"},{"english":"black stratus","traditional_chinese":"黑色層雲","definition_cht":"指與「黑色層雲」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/black_stratus"},{"english":"black-bulb thermometer","traditional_chinese":"黑球溫度計","definition_cht":"用於量測「黑球溫度計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/black-bulb_thermometer"},{"english":"blackbody","traditional_chinese":"黑體","definition_cht":"指與「黑體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blackbody"},{"english":"blackbody radiation","traditional_chinese":"黑體輻射","definition_cht":"指與「黑體輻射」相關的輻射過程、能量通量或電磁傳播效應。","source_url":"https://glossary.ametsoc.org/wiki/blackbody_radiation"},{"english":"blackbody temperature","traditional_chinese":"黑體溫度","definition_cht":"指與「黑體溫度」相關的溫度量、溫度分布或其代表性特徵。","source_url":"https://glossary.ametsoc.org/wiki/blackbody_temperature"},{"english":"Blackthorn winter","traditional_chinese":"黑刺李冬天","definition_cht":"指與「黑刺李冬天」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Blackthorn_winter"},{"english":"blad","traditional_chinese":"布拉德","definition_cht":"指與「布拉德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blad"},{"english":"blaze","traditional_chinese":"火焰","definition_cht":"指與「火焰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blaze"},{"english":"blending height","traditional_chinese":"混合高度","definition_cht":"指與「混合高度」相關的高度量測或特徵高度，用以描述結構位置或垂直尺度。","source_url":"https://glossary.ametsoc.org/wiki/blending_height"},{"english":"blind rollers","traditional_chinese":"盲輥","definition_cht":"指與「盲輥」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blind_rollers"},{"english":"blink","traditional_chinese":"眨","definition_cht":"指與「眨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blink"},{"english":"blinter","traditional_chinese":"布林特","definition_cht":"指與「布林特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blinter"},{"english":"blip","traditional_chinese":"光點","definition_cht":"指與「光點」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blip"},{"english":"blirty","traditional_chinese":"活潑的","definition_cht":"指與「活潑的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blirty"},{"english":"blizzard","traditional_chinese":"暴風雪","definition_cht":"指與「暴風雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blizzard"},{"english":"blocking","traditional_chinese":"阻塞","definition_cht":"指與「阻塞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blocking"},{"english":"blocking high","traditional_chinese":"阻塞高","definition_cht":"指與「阻塞高」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blocking_high"},{"english":"blocking oscillator","traditional_chinese":"阻塞振盪器","definition_cht":"指與「阻塞振盪器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blocking_oscillator"},{"english":"blood rain","traditional_chinese":"血雨","definition_cht":"指與「血雨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blood_rain"},{"english":"blout","traditional_chinese":"吹噓","definition_cht":"指與「吹噓」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blout"},{"english":"blowby","traditional_chinese":"漏氣","definition_cht":"指與「漏氣」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blowby"},{"english":"blowing dust","traditional_chinese":"揚塵","definition_cht":"指與「揚塵」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blowing_dust"},{"english":"blowing sand","traditional_chinese":"吹沙","definition_cht":"指與「吹沙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blowing_sand"},{"english":"blowing snow","traditional_chinese":"吹雪","definition_cht":"指與「吹雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blowing_snow"},{"english":"blowing spray","traditional_chinese":"吹噴霧","definition_cht":"指與「吹噴霧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blowing_spray"},{"english":"bloxam","traditional_chinese":"布洛沙姆","definition_cht":"指與「布洛沙姆」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bloxam"},{"english":"blue flash","traditional_chinese":"藍色閃光","definition_cht":"指與「藍色閃光」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blue_flash"},{"english":"blue ice","traditional_chinese":"藍色冰","definition_cht":"指與「藍色冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/blue_ice"},{"english":"blue jets","traditional_chinese":"藍色噴射機","definition_cht":"指與「藍色噴射機」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blue_jets"},{"english":"blue moon","traditional_chinese":"藍月亮","definition_cht":"指與「藍月亮」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blue_moon"},{"english":"blue noise","traditional_chinese":"藍色噪音","definition_cht":"指與「藍色噪音」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blue_noise"},{"english":"blue-ice area","traditional_chinese":"藍冰區","definition_cht":"指與「藍冰區」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/blue-ice_area"},{"english":"bluffart","traditional_chinese":"虛張聲勢","definition_cht":"指與「虛張聲勢」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bluffart"},{"english":"blunk","traditional_chinese":"愚弄","definition_cht":"指與「愚弄」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/blunk"},{"english":"bochorno","traditional_chinese":"博荷諾","definition_cht":"指與「博荷諾」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bochorno"},{"english":"bodily tides","traditional_chinese":"身體潮汐","definition_cht":"指與「身體潮汐」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bodily_tides"},{"english":"body waves","traditional_chinese":"體波","definition_cht":"指與「體波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。","source_url":"https://glossary.ametsoc.org/wiki/body_waves"},{"english":"bog","traditional_chinese":"沼澤","definition_cht":"指與「沼澤」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bog"},{"english":"bogus observation","traditional_chinese":"虛假觀察","definition_cht":"指與「虛假觀察」相關的觀測作業、觀測資料或量測結果。","source_url":"https://glossary.ametsoc.org/wiki/bogus_observation"},{"english":"bogus vortex","traditional_chinese":"虛假漩渦","definition_cht":"指與「虛假漩渦」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bogus_vortex"},{"english":"bohorok","traditional_chinese":"博霍羅克","definition_cht":"指與「博霍羅克」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bohorok"},{"english":"boil","traditional_chinese":"熬","definition_cht":"指與「熬」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boil"},{"english":"boiling point","traditional_chinese":"沸點","definition_cht":"指與「沸點」相關的特徵點、基準點或觀測辨識位置，用於描述幾何、光學或動力結構。","source_url":"https://glossary.ametsoc.org/wiki/boiling_point"},{"english":"Bolling–Allerod","traditional_chinese":"博林-阿勒羅德","definition_cht":"指與「博林-阿勒羅德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bolling%E2%80%93Allerod"},{"english":"bologram","traditional_chinese":"波譜圖","definition_cht":"指與「波譜圖」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bologram"},{"english":"bolometer","traditional_chinese":"輻射熱測量計","definition_cht":"用於量測「輻射熱測量計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/bolometer"},{"english":"Boltzmann's constant","traditional_chinese":"波茲曼常數","definition_cht":"指與「波茲曼常數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Boltzmann%27s_constant"},{"english":"Bomb cyclone","traditional_chinese":"炸彈旋風","definition_cht":"指與「炸彈旋風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bomb_cyclone"},{"english":"bond energy","traditional_chinese":"鍵能","definition_cht":"指與「鍵能」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bond_energy"},{"english":"book-end vortices","traditional_chinese":"書尾渦流","definition_cht":"指與「書尾渦流」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/book-end_vortices"},{"english":"bora","traditional_chinese":"波拉","definition_cht":"指與「波拉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bora"},{"english":"bora fog","traditional_chinese":"波拉霧","definition_cht":"指與「波拉霧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bora_fog"},{"english":"bora scura","traditional_chinese":"博拉斯庫拉","definition_cht":"指與「博拉斯庫拉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bora_scura"},{"english":"boraccia","traditional_chinese":"博拉恰","definition_cht":"指與「博拉恰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boraccia"},{"english":"borasca","traditional_chinese":"波拉斯卡","definition_cht":"指與「波拉斯卡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/borasca"},{"english":"bordelais","traditional_chinese":"波爾德萊","definition_cht":"指與「波爾德萊」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bordelais"},{"english":"border spring","traditional_chinese":"邊界彈簧","definition_cht":"指與「邊界彈簧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/border_spring"},{"english":"bore","traditional_chinese":"鑽孔","definition_cht":"指與「鑽孔」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bore"},{"english":"Boreal","traditional_chinese":"北方","definition_cht":"指與「北方」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Boreal"},{"english":"boreal forest","traditional_chinese":"北方森林","definition_cht":"指與「北方森林」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boreal_forest"},{"english":"boreal woodland","traditional_chinese":"北方林地","definition_cht":"指與「北方林地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boreal_woodland"},{"english":"boreal zone","traditional_chinese":"北部地帶","definition_cht":"指與「北部地帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boreal_zone"},{"english":"Boreas","traditional_chinese":"波瑞阿斯","definition_cht":"指與「波瑞阿斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Boreas"},{"english":"borino","traditional_chinese":"博裡諾","definition_cht":"指與「博裡諾」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/borino"},{"english":"bornan","traditional_chinese":"博爾南","definition_cht":"指與「博爾南」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bornan"},{"english":"borras","traditional_chinese":"博拉斯","definition_cht":"指與「博拉斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/borras"},{"english":"bottle thermometer","traditional_chinese":"瓶裝溫度計","definition_cht":"用於量測「瓶裝溫度計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/bottle_thermometer"},{"english":"Bottlinger's rings","traditional_chinese":"博特林格環","definition_cht":"指與「博特林格環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bottlinger%27s_rings"},{"english":"bottom current","traditional_chinese":"底部電流","definition_cht":"指與「底部電流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。","source_url":"https://glossary.ametsoc.org/wiki/bottom_current"},{"english":"bottom friction","traditional_chinese":"底部摩擦力","definition_cht":"指與「底部摩擦力」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bottom_friction"},{"english":"bottom temperature","traditional_chinese":"底部溫度","definition_cht":"指與「底部溫度」相關的溫度量、溫度分布或其代表性特徵。","source_url":"https://glossary.ametsoc.org/wiki/bottom_temperature"},{"english":"bottom water","traditional_chinese":"底層水","definition_cht":"指與「底層水」相關的水團、水體性質或水文條件，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/bottom_water"},{"english":"Bouguer–Lambert law","traditional_chinese":"布格-蘭伯特定律","definition_cht":"「布格-蘭伯特定律」相關的定律或經驗法則，用來概括物理關係或統計規律。","source_url":"https://glossary.ametsoc.org/wiki/Bouguer%E2%80%93Lambert_law"},{"english":"Bouguer's law","traditional_chinese":"布格定律","definition_cht":"「布格定律」相關的定律或經驗法則，用來概括物理關係或統計規律。","source_url":"https://glossary.ametsoc.org/wiki/Bouguer%27s_law"},{"english":"boulbie","traditional_chinese":"布爾比","definition_cht":"指與「布爾比」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boulbie"},{"english":"boundary conditions","traditional_chinese":"邊界條件","definition_cht":"指與「邊界條件」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boundary_conditions"},{"english":"Boundary currents","traditional_chinese":"邊界電流","definition_cht":"指與「邊界電流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。","source_url":"https://glossary.ametsoc.org/wiki/Boundary_currents"},{"english":"boundary layer","traditional_chinese":"邊界層","definition_cht":"指與「邊界層」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。","source_url":"https://glossary.ametsoc.org/wiki/boundary_layer"},{"english":"boundary layer radar","traditional_chinese":"邊界層雷達","definition_cht":"指與「邊界層雷達」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。","source_url":"https://glossary.ametsoc.org/wiki/boundary_layer_radar"},{"english":"boundary layer separation","traditional_chinese":"邊界層分離","definition_cht":"指與「邊界層分離」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。","source_url":"https://glossary.ametsoc.org/wiki/boundary_layer_separation"},{"english":"boundary mixing","traditional_chinese":"邊界混合","definition_cht":"指與「邊界混合」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boundary_mixing"},{"english":"boundary of saturation","traditional_chinese":"飽和邊界","definition_cht":"指與「飽和邊界」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boundary_of_saturation"},{"english":"boundary-value problem","traditional_chinese":"邊際值問題","definition_cht":"指與「邊際值問題」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/boundary-value_problem"},{"english":"bounded weak echo region","traditional_chinese":"有界弱回波區","definition_cht":"指與「有界弱回波區」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bounded_weak_echo_region"},{"english":"Bourdon tube","traditional_chinese":"波登管","definition_cht":"指與「波登管」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bourdon_tube"},{"english":"Boussinesq approximation","traditional_chinese":"布辛涅斯克近似","definition_cht":"用於處理「布辛涅斯克近似」相關問題的近似假設，以保留主要物理機制並簡化方程。","source_url":"https://glossary.ametsoc.org/wiki/Boussinesq_approximation"},{"english":"Boussinesq equation","traditional_chinese":"布辛涅斯克方程","definition_cht":"描述「布辛涅斯克方程」相關物理量之間關係或守恆條件的方程式，常用於理論分析、診斷或數值模擬。","source_url":"https://glossary.ametsoc.org/wiki/Boussinesq_equation"},{"english":"Boussinesq number","traditional_chinese":"布辛涅斯克數","definition_cht":"指與「布辛涅斯克數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Boussinesq_number"},{"english":"bow echo","traditional_chinese":"弓形迴聲","definition_cht":"指與「弓形迴聲」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bow_echo"},{"english":"Bowen ratio","traditional_chinese":"鮑文比","definition_cht":"指表示「鮑文比」相關兩種量值之間關係的比值，常用於診斷或分類。","source_url":"https://glossary.ametsoc.org/wiki/Bowen_ratio"},{"english":"box models","traditional_chinese":"盒式模型","definition_cht":"用於表徵「盒式模型」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。","source_url":"https://glossary.ametsoc.org/wiki/box_models"},{"english":"Boyden index","traditional_chinese":"博伊登指數","definition_cht":"用於量化「博伊登指數」相關狀態、程度或風險的指標。","source_url":"https://glossary.ametsoc.org/wiki/Boyden_index"},{"english":"Boyle's law","traditional_chinese":"波義耳定律","definition_cht":"「波義耳定律」相關的定律或經驗法則，用來概括物理關係或統計規律。","source_url":"https://glossary.ametsoc.org/wiki/Boyle%27s_law"},{"english":"Boys camera","traditional_chinese":"男孩相機","definition_cht":"指與「男孩相機」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Boys_camera"},{"english":"BPI pan","traditional_chinese":"BPI磁碟","definition_cht":"指與「BPI磁碟」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/BPI_pan"},{"english":"brackish water","traditional_chinese":"鹹水","definition_cht":"指與「鹹水」相關的水團、水體性質或水文條件，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/brackish_water"},{"english":"Bragg scattering","traditional_chinese":"布拉格散射","definition_cht":"指與「布拉格散射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Bragg_scattering"},{"english":"brash","traditional_chinese":"傲慢","definition_cht":"指與「傲慢」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brash"},{"english":"brave west winds","traditional_chinese":"勇敢的西風","definition_cht":"指與「勇敢的西風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。","source_url":"https://glossary.ametsoc.org/wiki/brave_west_winds"},{"english":"Brazil Current","traditional_chinese":"巴西海流","definition_cht":"指與「巴西海流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。","source_url":"https://glossary.ametsoc.org/wiki/Brazil_Current"},{"english":"BRDF","traditional_chinese":"雙向反射分佈函數","definition_cht":"「BRDF」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。","source_url":"https://glossary.ametsoc.org/wiki/BRDF"},{"english":"breadth-first search","traditional_chinese":"廣度優先搜尋","definition_cht":"指與「廣度優先搜尋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breadth-first_search"},{"english":"break","traditional_chinese":"休息","definition_cht":"指與「休息」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/break"},{"english":"breakdown","traditional_chinese":"分解","definition_cht":"指與「分解」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breakdown"},{"english":"breakdown field","traditional_chinese":"擊穿場","definition_cht":"指與「擊穿場」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breakdown_field"},{"english":"breaker","traditional_chinese":"斷路器","definition_cht":"指與「斷路器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breaker"},{"english":"breaker depth","traditional_chinese":"斷路器深度","definition_cht":"指與「斷路器深度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breaker_depth"},{"english":"breaking-drop theory","traditional_chinese":"破滴理論","definition_cht":"指與「破滴理論」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breaking-drop_theory"},{"english":"breaks in overcast","traditional_chinese":"陰天中斷","definition_cht":"指與「陰天中斷」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breaks_in_overcast"},{"english":"breakthrough curve","traditional_chinese":"突破曲線","definition_cht":"指與「突破曲線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breakthrough_curve"},{"english":"breakup","traditional_chinese":"拆散","definition_cht":"指與「拆散」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breakup"},{"english":"breakup season","traditional_chinese":"分手季節","definition_cht":"指與「分手季節」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breakup_season"},{"english":"breakwater","traditional_chinese":"防波堤","definition_cht":"指與「防波堤」相關的水團、水體性質或水文條件，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/breakwater"},{"english":"bred modes","traditional_chinese":"繁殖模式","definition_cht":"指與「繁殖模式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bred_modes"},{"english":"bred vectors","traditional_chinese":"繁殖載體","definition_cht":"指與「繁殖載體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bred_vectors"},{"english":"breeding method","traditional_chinese":"養殖方法","definition_cht":"指處理「養殖方法」相關問題的分析、估算、分類或推算方法。","source_url":"https://glossary.ametsoc.org/wiki/breeding_method"},{"english":"breeze","traditional_chinese":"微風","definition_cht":"指與「微風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breeze"},{"english":"bremsstrahlung","traditional_chinese":"軔致輻射","definition_cht":"指與「軔致輻射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bremsstrahlung"},{"english":"brenner","traditional_chinese":"布倫納","definition_cht":"指與「布倫納」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brenner"},{"english":"breva","traditional_chinese":"布雷瓦","definition_cht":"指與「布雷瓦」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/breva"},{"english":"Brewer–Dobson circulation","traditional_chinese":"布魯爾-多布森循環","definition_cht":"指與「布魯爾-多布森循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Brewer%E2%80%93Dobson_circulation"},{"english":"Brewster point","traditional_chinese":"布魯斯特角","definition_cht":"指與「布魯斯特角」相關的特徵點、基準點或觀測辨識位置，用於描述幾何、光學或動力結構。","source_url":"https://glossary.ametsoc.org/wiki/Brewster_point"},{"english":"brickfielder","traditional_chinese":"磚田工","definition_cht":"指與「磚田工」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brickfielder"},{"english":"bridled-cup anemometer","traditional_chinese":"韁繩杯風速計","definition_cht":"用於量測「韁繩杯風速計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/bridled-cup_anemometer"},{"english":"briefing","traditional_chinese":"簡報","definition_cht":"指與「簡報」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/briefing"},{"english":"Brier score","traditional_chinese":"布賴爾分數","definition_cht":"指與「布賴爾分數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Brier_score"},{"english":"bright band","traditional_chinese":"亮帶","definition_cht":"指與「亮帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bright_band"},{"english":"bright segment","traditional_chinese":"亮段","definition_cht":"指與「亮段」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bright_segment"},{"english":"bright sunshine","traditional_chinese":"明亮的陽光","definition_cht":"指與「明亮的陽光」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bright_sunshine"},{"english":"Brightness","traditional_chinese":"亮度","definition_cht":"指與「亮度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Brightness"},{"english":"brightness temperature","traditional_chinese":"亮溫","definition_cht":"指與「亮溫」相關的溫度量、溫度分布或其代表性特徵。","source_url":"https://glossary.ametsoc.org/wiki/brightness_temperature"},{"english":"brine","traditional_chinese":"鹽水","definition_cht":"指與「鹽水」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brine"},{"english":"brine slush","traditional_chinese":"鹽水泥","definition_cht":"指與「鹽水泥」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brine_slush"},{"english":"brisa","traditional_chinese":"布里薩","definition_cht":"指與「布里薩」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brisa"},{"english":"brisote","traditional_chinese":"布里索特","definition_cht":"指與「布里索特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brisote"},{"english":"British thermal unit","traditional_chinese":"英國熱量單位","definition_cht":"指與「英國熱量單位」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/British_thermal_unit"},{"english":"broad-crested weir","traditional_chinese":"寬頂堰","definition_cht":"指與「寬頂堰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/broad-crested_weir"},{"english":"broadband radiation","traditional_chinese":"寬頻輻射","definition_cht":"指與「寬頻輻射」相關的輻射過程、能量通量或電磁傳播效應。","source_url":"https://glossary.ametsoc.org/wiki/broadband_radiation"},{"english":"Brocken spectre","traditional_chinese":"布羅肯幽靈","definition_cht":"指與「布羅肯幽靈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Brocken_spectre"},{"english":"broeboe","traditional_chinese":"布羅博","definition_cht":"指與「布羅博」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/broeboe"},{"english":"broken","traditional_chinese":"破碎的","definition_cht":"指與「破碎的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/broken"},{"english":"bromine compounds","traditional_chinese":"溴化合物","definition_cht":"指與「溴化合物」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bromine_compounds"},{"english":"brontides","traditional_chinese":"布龍泰德","definition_cht":"指與「布龍泰德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brontides"},{"english":"brontometer","traditional_chinese":"聲波計","definition_cht":"用於量測「聲波計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/brontometer"},{"english":"brown cloud","traditional_chinese":"棕色雲","definition_cht":"指與「棕色雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。","source_url":"https://glossary.ametsoc.org/wiki/brown_cloud"},{"english":"brown snow","traditional_chinese":"棕色雪","definition_cht":"指與「棕色雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brown_snow"},{"english":"Brownian motion","traditional_chinese":"布朗運動","definition_cht":"指與「布朗運動」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Brownian_motion"},{"english":"Brownian rotation","traditional_chinese":"布朗旋轉","definition_cht":"指與「布朗旋轉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Brownian_rotation"},{"english":"brubu","traditional_chinese":"布魯布","definition_cht":"指與「布魯布」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brubu"},{"english":"Brückner cycle","traditional_chinese":"布魯克納循環","definition_cht":"指與「布魯克納循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Br%C3%BCckner_cycle"},{"english":"brughierous","traditional_chinese":"布魯吉魯斯","definition_cht":"指與「布魯吉魯斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/brughierous"},{"english":"bruma","traditional_chinese":"布魯馬","definition_cht":"指與「布魯馬」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bruma"},{"english":"Brunt-Väisälä frequency","traditional_chinese":"布倫特-維薩拉頻率","definition_cht":"指與「布倫特-維薩拉頻率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Brunt-V%C3%A4is%C3%A4l%C3%A4_frequency"},{"english":"brüscha","traditional_chinese":"布魯沙","definition_cht":"指與「布魯沙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/br%C3%BCscha"},{"english":"bryochore","traditional_chinese":"苔蘚植物","definition_cht":"指與「苔蘚植物」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bryochore"},{"english":"BT","traditional_chinese":"BT","definition_cht":"「BT」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。","source_url":"https://glossary.ametsoc.org/wiki/BT"},{"english":"bubble bursting","traditional_chinese":"泡沫破裂","definition_cht":"指與「泡沫破裂」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bubble_bursting"},{"english":"bubble gauge","traditional_chinese":"氣泡計","definition_cht":"指與「氣泡計」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bubble_gauge"},{"english":"bubble high","traditional_chinese":"泡沫高","definition_cht":"指與「泡沫高」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bubble_high"},{"english":"bubble nucleus","traditional_chinese":"氣泡核","definition_cht":"指與「氣泡核」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bubble_nucleus"},{"english":"bubbles","traditional_chinese":"氣泡","definition_cht":"指與「氣泡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bubbles"},{"english":"bubbly ice","traditional_chinese":"氣泡冰","definition_cht":"指與「氣泡冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。","source_url":"https://glossary.ametsoc.org/wiki/bubbly_ice"},{"english":"bucket temperature","traditional_chinese":"桶溫度","definition_cht":"指與「桶溫度」相關的溫度量、溫度分布或其代表性特徵。","source_url":"https://glossary.ametsoc.org/wiki/bucket_temperature"},{"english":"bucket thermometer","traditional_chinese":"桶式溫度計","definition_cht":"用於量測「桶式溫度計」相關物理量的儀器或量測裝置。","source_url":"https://glossary.ametsoc.org/wiki/bucket_thermometer"},{"english":"Buckingham Pi theory","traditional_chinese":"白金漢圓周率理論","definition_cht":"指與「白金漢圓周率理論」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Buckingham_Pi_theory"},{"english":"budget year","traditional_chinese":"預算年度","definition_cht":"指以年為尺度定義的「預算年度」相關統計、收支或氣候期間概念。","source_url":"https://glossary.ametsoc.org/wiki/budget_year"},{"english":"budgets of atmospheric species","traditional_chinese":"大氣物種預算","definition_cht":"指與「大氣物種預算」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/budgets_of_atmospheric_species"},{"english":"buffer factor","traditional_chinese":"緩衝因子","definition_cht":"指與「緩衝因子」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buffer_factor"},{"english":"BUFR","traditional_chinese":"緩衝速率","definition_cht":"「BUFR」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。","source_url":"https://glossary.ametsoc.org/wiki/BUFR"},{"english":"buildup index","traditional_chinese":"累積指數","definition_cht":"用於量化「累積指數」相關狀態、程度或風險的指標。","source_url":"https://glossary.ametsoc.org/wiki/buildup_index"},{"english":"bulk average","traditional_chinese":"批量平均","definition_cht":"指與「批量平均」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bulk_average"},{"english":"bulk heat flux","traditional_chinese":"體熱通量","definition_cht":"指與「體熱通量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bulk_heat_flux"},{"english":"bulk method","traditional_chinese":"批量法","definition_cht":"指處理「批量法」相關問題的分析、估算、分類或推算方法。","source_url":"https://glossary.ametsoc.org/wiki/bulk_method"},{"english":"bulk mixed layer model","traditional_chinese":"體混合層模型","definition_cht":"指與「體混合層模型」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。","source_url":"https://glossary.ametsoc.org/wiki/bulk_mixed_layer_model"},{"english":"bulk modulus","traditional_chinese":"體積模量","definition_cht":"指與「體積模量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bulk_modulus"},{"english":"bulk Richardson number","traditional_chinese":"散裝理查森數","definition_cht":"指與「散裝理查森數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bulk_Richardson_number"},{"english":"bulk stable boundary layer growth","traditional_chinese":"體穩定邊界層生長","definition_cht":"指與「體穩定邊界層生長」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。","source_url":"https://glossary.ametsoc.org/wiki/bulk_stable_boundary_layer_growth"},{"english":"bulk transfer coefficient","traditional_chinese":"體積傳遞係數","definition_cht":"表示「體積傳遞係數」相關強度、效率或比例關係的係數，常作為經驗公式或理論方程中的參數。","source_url":"https://glossary.ametsoc.org/wiki/bulk_transfer_coefficient"},{"english":"bulk transfer law","traditional_chinese":"批量轉移法","definition_cht":"「批量轉移法」相關的定律或經驗法則，用來概括物理關係或統計規律。","source_url":"https://glossary.ametsoc.org/wiki/bulk_transfer_law"},{"english":"bulk turbulence scale","traditional_chinese":"整體湍流尺度","definition_cht":"指與「整體湍流尺度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bulk_turbulence_scale"},{"english":"bull's eye squall","traditional_chinese":"牛眼暴風雨","definition_cht":"指與「牛眼暴風雨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bull%27s_eye_squall"},{"english":"bummock","traditional_chinese":"笨蛋","definition_cht":"指與「笨蛋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bummock"},{"english":"bumpiness","traditional_chinese":"顛簸","definition_cht":"指與「顛簸」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bumpiness"},{"english":"Buoy","traditional_chinese":"浮標","definition_cht":"指與「浮標」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Buoy"},{"english":"buoyancy","traditional_chinese":"浮力","definition_cht":"指與「浮力」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy"},{"english":"buoyancy flux","traditional_chinese":"浮力通量","definition_cht":"指與「浮力通量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy_flux"},{"english":"buoyancy force","traditional_chinese":"浮力","definition_cht":"指與「浮力」相關的力學作用或風力等級概念，用於描述流體或物體所受作用。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy_force"},{"english":"buoyancy frequency","traditional_chinese":"浮力頻率","definition_cht":"指與「浮力頻率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy_frequency"},{"english":"buoyancy length scale","traditional_chinese":"浮力長度刻度","definition_cht":"指與「浮力長度刻度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy_length_scale"},{"english":"buoyancy subrange","traditional_chinese":"浮力子範圍","definition_cht":"指與「浮力子範圍」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy_subrange"},{"english":"buoyancy velocity","traditional_chinese":"浮力速度","definition_cht":"指與「浮力速度」相關的速度量，可描述流體、波動或質點的運動快慢與方向。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy_velocity"},{"english":"buoyancy wave","traditional_chinese":"浮力波","definition_cht":"指與「浮力波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy_wave"},{"english":"buoyancy wavenumber","traditional_chinese":"浮力波數","definition_cht":"指與「浮力波數」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。","source_url":"https://glossary.ametsoc.org/wiki/buoyancy_wavenumber"},{"english":"buoyant instability","traditional_chinese":"浮力不穩定性","definition_cht":"指與「浮力不穩定性」相關的不穩定機制，可導致擾動放大、對流發展或流場轉換。","source_url":"https://glossary.ametsoc.org/wiki/buoyant_instability"},{"english":"buoyant subrange","traditional_chinese":"浮力子範圍","definition_cht":"指與「浮力子範圍」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buoyant_subrange"},{"english":"buran","traditional_chinese":"布蘭","definition_cht":"指與「布蘭」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buran"},{"english":"burga","traditional_chinese":"布林加","definition_cht":"指與「布林加」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/burga"},{"english":"Burger number","traditional_chinese":"漢堡號","definition_cht":"指與「漢堡號」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Burger_number"},{"english":"Burger's vortex","traditional_chinese":"漢堡的漩渦","definition_cht":"指與「漢堡的漩渦」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Burger%27s_vortex"},{"english":"buria","traditional_chinese":"布里亞","definition_cht":"指與「布里亞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/buria"},{"english":"Burn area","traditional_chinese":"燒傷面積","definition_cht":"指與「燒傷面積」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Burn_area"},{"english":"burn off","traditional_chinese":"燒掉","definition_cht":"指與「燒掉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/burn_off"},{"english":"burning index","traditional_chinese":"燃燒指數","definition_cht":"用於量化「燃燒指數」相關狀態、程度或風險的指標。","source_url":"https://glossary.ametsoc.org/wiki/burning_index"},{"english":"burraxka silch","traditional_chinese":"布拉克斯卡西奇","definition_cht":"指與「布拉克斯卡西奇」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/burraxka_silch"},{"english":"burster","traditional_chinese":"爆裂者","definition_cht":"指與「爆裂者」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/burster"},{"english":"bush","traditional_chinese":"襯套","definition_cht":"指與「襯套」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/bush"},{"english":"business as usual","traditional_chinese":"一切如常","definition_cht":"指與「一切如常」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/business_as_usual"},{"english":"Businger–Dyer relationship","traditional_chinese":"布辛格-戴爾關係","definition_cht":"指與「布辛格-戴爾關係」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/Businger%E2%80%93Dyer_relationship"},{"english":"butadiene","traditional_chinese":"丁二烯","definition_cht":"指與「丁二烯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。","source_url":"https://glossary.ametsoc.org/wiki/butadiene"},{"english":"Buys Ballot's law","traditional_chinese":"買選票定律","definition_cht":"「買選票定律」相關的定律或經驗法則，用來概括物理關係或統計規律。","source_url":"https://glossary.ametsoc.org/wiki/Buys_Ballot%27s_law"},{"english":"BWER","traditional_chinese":"有界弱回波區","definition_cht":"雷達強對流回波中被高反射率區包圍的弱回波區，通常對應上升氣流強盛並可能與冰雹生成有關。","source_url":"https://glossary.ametsoc.org/wiki/BWER"}]
+[
+  {
+    "english": "B-display",
+    "traditional_chinese": "B型顯示",
+    "definition_cht": "雷達的二維顯示方式之一，通常以水平軸表示方位、垂直軸表示距離，回波亮度或強度顯示目標位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/B-display"
+  },
+  {
+    "english": "Babinet point",
+    "traditional_chinese": "巴比涅中性點",
+    "definition_cht": "天空偏振觀測中常見的中性點之一，位於通過太陽的垂直圈上，通常出現在太陽上方約 15° 至 20°，該處天光偏振度接近零。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Babinet_point"
+  },
+  {
+    "english": "Babinet's principle",
+    "traditional_chinese": "巴比涅原理",
+    "definition_cht": "波動光學中的原理，指互補遮體與孔徑所形成的繞射圖樣除前向主束整體強度外近乎相同，常用於分析繞射與散射問題。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Babinet%27s_principle"
+  },
+  {
+    "english": "back-sheared anvil",
+    "traditional_chinese": "逆風砧狀雲",
+    "definition_cht": "雷暴砧狀雲向高空氣流上游伸展的現象，表示強烈上升氣流頂部附近具有顯著輻散，常暗示強對流與較高的劇烈天氣潛勢。",
+    "source_url": "https://glossary.ametsoc.org/wiki/back-sheared_anvil"
+  },
+  {
+    "english": "backdoor cold front",
+    "traditional_chinese": "背門冷鋒",
+    "definition_cht": "沿美國大西洋沿岸向南或西南推進、由海上或東北側侵入的冷鋒，進入方向與中緯度典型西風帶冷鋒相反。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backdoor_cold_front"
+  },
+  {
+    "english": "background field",
+    "traditional_chinese": "背景場",
+    "definition_cht": "在資料同化中，指分析時刻之前由短期預報提供的先驗大氣狀態場，作為結合觀測進行分析的第一猜場。",
+    "source_url": "https://glossary.ametsoc.org/wiki/background_field"
+  },
+  {
+    "english": "background level",
+    "traditional_chinese": "背景濃度",
+    "definition_cht": "背景污染的濃度水準，即在未受局地排放明顯加成時，環境中原已存在的污染物濃度。",
+    "source_url": "https://glossary.ametsoc.org/wiki/background_level"
+  },
+  {
+    "english": "background pollution",
+    "traditional_chinese": "背景污染",
+    "definition_cht": "非由當地排放直接造成、而是由遠距輸送、區域累積或自然來源原本存在於環境中的污染成分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/background_pollution"
+  },
+  {
+    "english": "backing",
+    "traditional_chinese": "逆轉",
+    "definition_cht": "指風向隨時間或隨高度作逆時針變化的現象；在北半球常與冷平流有關，與順時針轉變的 veering 相對。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backing"
+  },
+  {
+    "english": "backing wind",
+    "traditional_chinese": "逆轉風",
+    "definition_cht": "風向呈逆時針轉變的風；可指隨時間轉向，亦可指隨高度轉向，在北半球常與冷平流相關。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backing_wind"
+  },
+  {
+    "english": "backlash",
+    "traditional_chinese": "回程間隙",
+    "definition_cht": "機械傳動元件在反向運動時，因零件間存在間隙而產生的空程或延遲；於雷達天線掃描機構中可能造成指向誤差。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backlash"
+  },
+  {
+    "english": "backlobe",
+    "traditional_chinese": "後向瓣",
+    "definition_cht": "天線方向圖中位於主瓣反方向、約與主瓣相差 180° 的旁瓣。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backlobe"
+  },
+  {
+    "english": "backpropagation",
+    "traditional_chinese": "反向傳播",
+    "definition_cht": "類神經網路訓練中依損失函數將誤差由輸出層向輸入層回傳，並利用鏈鎖律計算各參數梯度的方法。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backpropagation"
+  },
+  {
+    "english": "Backscatter",
+    "traditional_chinese": "反向散射",
+    "definition_cht": "入射輻射在散射後沿近乎反向（雷達與光達常取 180° 方向）返回來源方向的部分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Backscatter"
+  },
+  {
+    "english": "backscattering cross section",
+    "traditional_chinese": "反向散射截面",
+    "definition_cht": "表徵目標將入射能量朝雷達方向散射回去能力的有效截面量，是描述目標後向散射強弱的重要參數。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backscattering_cross_section"
+  },
+  {
+    "english": "backtracking",
+    "traditional_chinese": "回溯追蹤",
+    "definition_cht": "在軌跡分析、污染傳輸或來源判識中，沿時間反向追蹤氣塊、粒子或事件路徑的方法，用以推估其可能來源區與先前移動歷程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backtracking"
+  },
+  {
+    "english": "backward chaining",
+    "traditional_chinese": "向後鏈結",
+    "definition_cht": "規則式推論系統中的一種目標導向推理方法，先提出假設，再沿規則反向檢驗所需條件是否成立；可用於天氣診斷與預報專家系統。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backward_chaining"
+  },
+  {
+    "english": "backward difference",
+    "traditional_chinese": "後向差分",
+    "definition_cht": "有限差分的一種，利用某點目前值與前一離散點之差來近似導數或變化率，常用於數值模式與資料離散化計算。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backward_difference"
+  },
+  {
+    "english": "backward scattering coefficient",
+    "traditional_chinese": "後向散射係數",
+    "definition_cht": "表示介質或目標把入射輻射散射回來源方向或後向半球之能力的係數；於雷達遙測與海洋光學中常用來表徵回波或光學反散射強度。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backward_scattering_coefficient"
+  },
+  {
+    "english": "backwash",
+    "traditional_chinese": "回沖流",
+    "definition_cht": "波浪上衝後沿海灘坡面回流入海的水流，為 swash 的反向階段，會影響沿岸輸砂與灘面地形變化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backwash"
+  },
+  {
+    "english": "backwater",
+    "traditional_chinese": "壅水",
+    "definition_cht": "河川或渠道水流因下游阻塞、潮汐頂托或下游洪水抬升而受阻減速，致使上游水位壅高的現象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backwater"
+  },
+  {
+    "english": "backwater curve",
+    "traditional_chinese": "壅水曲線",
+    "definition_cht": "描述壅水條件下水面高程沿流程變化的縱剖面曲線，通常出現在阻礙物上游，常用於明渠水力與河川回水分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/backwater_curve"
+  },
+  {
+    "english": "Baffin Current",
+    "traditional_chinese": "巴芬海流",
+    "definition_cht": "巴芬灣內向南流動的冷海流，輸送來自北冰洋的低鹽度海水，對北大西洋淡水收支、海冰分布與區域海洋環流具有影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Baffin_Current"
+  },
+  {
+    "english": "baffle",
+    "traditional_chinese": "擋板",
+    "definition_cht": "設置於儀器、管道或量測系統中的隔板或導流板，用於改變流向、抑制擾動、阻隔輻射或減少飛濺，以提升觀測與操作穩定性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baffle"
+  },
+  {
+    "english": "Bagyo",
+    "traditional_chinese": "巴焦（菲律賓稱呼）",
+    "definition_cht": "菲律賓對強烈熱帶氣旋的稱呼，常泛指造成顯著風雨影響的颱風或熱帶風暴；語源常追溯至豪雨著稱的碧瑤（Baguio）。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bagyo"
+  },
+  {
+    "english": "bai",
+    "traditional_chinese": "白霾",
+    "definition_cht": "中國與日本春、秋季曾見的一種含細黃塵之霧狀現象；鬆散土塵被風揚起至高空後吸收水氣，再以帶色薄霧或細塵沉降，易在地表留下黃色粉塵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bai"
+  },
+  {
+    "english": "bai-u",
+    "traditional_chinese": "梅雨",
+    "definition_cht": "東亞初夏主要雨季之一，日本稱 bai-u，與中國梅雨、韓國 changma 相近，常由近乎滯留的鋒面與季風環流共同造成持續性降雨。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bai-u"
+  },
+  {
+    "english": "balance",
+    "traditional_chinese": "平衡",
+    "definition_cht": "指系統內各作用力、通量或收支項彼此抵銷而達近似穩定的狀態；在氣象中常見於地轉平衡、靜力平衡與能量平衡等概念。",
+    "source_url": "https://glossary.ametsoc.org/wiki/balance"
+  },
+  {
+    "english": "balance equation",
+    "traditional_chinese": "平衡方程",
+    "definition_cht": "動力氣象中的一類診斷方程，用以描述大尺度流場中壓力場、風場與曲率等量之近似平衡關係；常可視為散度方程在忽略部分小項後的形式。",
+    "source_url": "https://glossary.ametsoc.org/wiki/balance_equation"
+  },
+  {
+    "english": "balance meter",
+    "traditional_chinese": "淨輻射計",
+    "definition_cht": "量測平面上下兩側半球輻射收支差值的輻射儀器，可同時反映入射與離開表面的短波、長波輻射淨效應。",
+    "source_url": "https://glossary.ametsoc.org/wiki/balance_meter"
+  },
+  {
+    "english": "balance year",
+    "traditional_chinese": "平衡年",
+    "definition_cht": "冰川質量平衡研究中，兩次淨平衡極小值之間的期間，大致相當於一個夏末到下一個夏末，用於統計年度累積與消融收支。",
+    "source_url": "https://glossary.ametsoc.org/wiki/balance_year"
+  },
+  {
+    "english": "Bali wind",
+    "traditional_chinese": "峇里風",
+    "definition_cht": "爪哇島東端一帶對強勁東風的地方性名稱，屬印尼群島區域風系中的在地風名。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bali_wind"
+  },
+  {
+    "english": "ball lightning",
+    "traditional_chinese": "球狀閃電",
+    "definition_cht": "罕見且隨機出現的發光球狀放電現象，常在近地面空氣中漂浮或移動，持續時間通常較一般閃電長，其形成機制仍未完全釐清。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ball_lightning"
+  },
+  {
+    "english": "balling",
+    "traditional_chinese": "滾雪球化",
+    "definition_cht": "指鬆雪在適當溫度、濕度與風力或坡度作用下，沿地表滾動並逐步黏聚成球狀或中空圓筒狀雪體的形成過程，常見於 snow rollers。",
+    "source_url": "https://glossary.ametsoc.org/wiki/balling"
+  },
+  {
+    "english": "ballistic density",
+    "traditional_chinese": "彈道密度",
+    "definition_cht": "與彈道飛行體受空氣阻力減速特性相關的參數，用於描述物體在大氣中運動時其質量、外形與阻力效應所表現出的綜合慣性特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ballistic_density"
+  },
+  {
+    "english": "ballonet",
+    "traditional_chinese": "調壓氣囊",
+    "definition_cht": "裝設於非剛性飛船或特定高空氣球內、容積可變的密閉氣囊，用以調節內部壓力並控制升降。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ballonet"
+  },
+  {
+    "english": "Balloon",
+    "traditional_chinese": "氣球",
+    "definition_cht": "充填比周圍空氣更輕之氣體或利用熱空氣提供浮力的囊體平台，可搭載儀器進行高空風場、溫濕壓等大氣觀測。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Balloon"
+  },
+  {
+    "english": "balloon ceiling",
+    "traditional_chinese": "氣球天花板",
+    "definition_cht": "指與「氣球天花板」相關的雲底高度或可飛行天氣條件限制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/balloon_ceiling"
+  },
+  {
+    "english": "balloon sounding",
+    "traditional_chinese": "氣球探測",
+    "definition_cht": "指利用探空、測深或垂直剖面觀測取得的「氣球探測」相關資料。",
+    "source_url": "https://glossary.ametsoc.org/wiki/balloon_sounding"
+  },
+  {
+    "english": "ban-gull",
+    "traditional_chinese": "班鷗",
+    "definition_cht": "指與「班鷗」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ban-gull"
+  },
+  {
+    "english": "band",
+    "traditional_chinese": "樂團",
+    "definition_cht": "指與「樂團」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/band"
+  },
+  {
+    "english": "band absorption",
+    "traditional_chinese": "帶狀吸收",
+    "definition_cht": "分子在一系列相近波長上所形成的吸收帶，常見於大氣氣體光譜吸收與輻射傳輸研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/band_absorption"
+  },
+  {
+    "english": "band model",
+    "traditional_chinese": "樂團模型",
+    "definition_cht": "用於表徵「樂團模型」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/band_model"
+  },
+  {
+    "english": "banded structure",
+    "traditional_chinese": "帶狀結構",
+    "definition_cht": "指與「帶狀結構」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/banded_structure"
+  },
+  {
+    "english": "bandpass filter",
+    "traditional_chinese": "帶通濾波器",
+    "definition_cht": "用於擷取、平滑或限制「帶通濾波器」相關頻率成分的濾波方法或裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bandpass_filter"
+  },
+  {
+    "english": "bandwidth",
+    "traditional_chinese": "頻寬",
+    "definition_cht": "指與「頻寬」相關的寬度尺度或帶寬特徵，用於描述空間或頻率範圍。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bandwidth"
+  },
+  {
+    "english": "bank",
+    "traditional_chinese": "銀行",
+    "definition_cht": "指與「銀行」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bank"
+  },
+  {
+    "english": "bank storage",
+    "traditional_chinese": "銀行儲存",
+    "definition_cht": "指與「銀行儲存」相關的蓄存量、滯蓄作用或暫時儲存過程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bank_storage"
+  },
+  {
+    "english": "bankfull stage",
+    "traditional_chinese": "滿岸階段",
+    "definition_cht": "指與「滿岸階段」相關的水位、高度或發展階段特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bankfull_stage"
+  },
+  {
+    "english": "banner cloud",
+    "traditional_chinese": "旗雲",
+    "definition_cht": "氣流越過孤立山峰後於背風側或峰頂附近形成的旗狀定常雲，反映局地地形抬升與波動。",
+    "source_url": "https://glossary.ametsoc.org/wiki/banner_cloud"
+  },
+  {
+    "english": "bar",
+    "traditional_chinese": "巴（壓力單位）",
+    "definition_cht": "壓力單位，1 bar 等於 10^5 帕斯卡，常用於海洋、氣象與工程領域的壓力表示。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bar"
+  },
+  {
+    "english": "barat",
+    "traditional_chinese": "婆羅多風",
+    "definition_cht": "指與「婆羅多風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barat"
+  },
+  {
+    "english": "barb",
+    "traditional_chinese": "倒鉤",
+    "definition_cht": "指與「倒鉤」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barb"
+  },
+  {
+    "english": "barber",
+    "traditional_chinese": "霧霜帶",
+    "definition_cht": "指與「霧霜帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barber"
+  },
+  {
+    "english": "barchan",
+    "traditional_chinese": "新月形",
+    "definition_cht": "指與「新月形」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barchan"
+  },
+  {
+    "english": "bare ice",
+    "traditional_chinese": "裸冰",
+    "definition_cht": "指與「裸冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bare_ice"
+  },
+  {
+    "english": "bare soil",
+    "traditional_chinese": "裸土",
+    "definition_cht": "指與「裸土」相關的土壤性質、土層條件或陸面過程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bare_soil"
+  },
+  {
+    "english": "baric topography",
+    "traditional_chinese": "巴里克地形",
+    "definition_cht": "以圖形方式呈現「巴里克地形」相關量值、分類或變化關係的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baric_topography"
+  },
+  {
+    "english": "barinés",
+    "traditional_chinese": "巴里內斯",
+    "definition_cht": "指與「巴里內斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barin%C3%A9s"
+  },
+  {
+    "english": "baroclinic",
+    "traditional_chinese": "斜壓臨床",
+    "definition_cht": "指與「斜壓臨床」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinic"
+  },
+  {
+    "english": "baroclinic atmosphere",
+    "traditional_chinese": "斜壓大氣",
+    "definition_cht": "等壓面上溫度與密度梯度不平行的大氣狀態，易伴隨垂直風切並有利於中緯度擾動發展。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_atmosphere"
+  },
+  {
+    "english": "baroclinic disturbance",
+    "traditional_chinese": "斜壓擾動",
+    "definition_cht": "指與「斜壓擾動」相關的擾動型態，通常偏離背景平均狀態並可能隨時間演變。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_disturbance"
+  },
+  {
+    "english": "baroclinic forecast",
+    "traditional_chinese": "斜壓預報",
+    "definition_cht": "指以「斜壓預報」為核心的預報方法、產品或結果。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_forecast"
+  },
+  {
+    "english": "baroclinic instability",
+    "traditional_chinese": "斜壓不穩定",
+    "definition_cht": "由水平溫度梯度與垂直風切所釋放之可用位能轉換為擾動動能的不穩定機制，是溫帶氣旋生成的重要動力。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_instability"
+  },
+  {
+    "english": "baroclinic leaf",
+    "traditional_chinese": "斜葉",
+    "definition_cht": "指與「斜葉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_leaf"
+  },
+  {
+    "english": "baroclinic model",
+    "traditional_chinese": "斜壓模式",
+    "definition_cht": "用於表徵「斜壓模式」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_model"
+  },
+  {
+    "english": "baroclinic wave",
+    "traditional_chinese": "斜壓波",
+    "definition_cht": "指與「斜壓波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_wave"
+  },
+  {
+    "english": "baroclinity",
+    "traditional_chinese": "斜壓",
+    "definition_cht": "指與「斜壓」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroclinity"
+  },
+  {
+    "english": "barogram",
+    "traditional_chinese": "氣壓記錄圖",
+    "definition_cht": "由氣壓記錄器連續記錄所得之氣壓隨時間變化曲線。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barogram"
+  },
+  {
+    "english": "barograph",
+    "traditional_chinese": "氣壓記錄器",
+    "definition_cht": "可連續自動記錄氣壓變化的儀器，用於監測天氣系統通過時的壓力演變。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barograph"
+  },
+  {
+    "english": "barometer",
+    "traditional_chinese": "氣壓計",
+    "definition_cht": "量測大氣壓力的儀器，可分為水銀式、空盒式與電子式等類型。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometer"
+  },
+  {
+    "english": "barometer cistern",
+    "traditional_chinese": "氣壓計水箱",
+    "definition_cht": "用於量測「氣壓計水箱」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometer_cistern"
+  },
+  {
+    "english": "barometer elevation",
+    "traditional_chinese": "氣壓計海拔",
+    "definition_cht": "用於量測「氣壓計海拔」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometer_elevation"
+  },
+  {
+    "english": "barometric",
+    "traditional_chinese": "氣壓的",
+    "definition_cht": "形容與大氣壓力、氣壓測定或氣壓計讀數有關之性質、變化或作業。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric"
+  },
+  {
+    "english": "barometric characteristic",
+    "traditional_chinese": "氣壓特性",
+    "definition_cht": "指與「氣壓特性」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric_characteristic"
+  },
+  {
+    "english": "barometric constant",
+    "traditional_chinese": "氣壓常數",
+    "definition_cht": "指與「氣壓常數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric_constant"
+  },
+  {
+    "english": "barometric correction table",
+    "traditional_chinese": "氣壓校正表",
+    "definition_cht": "指與「氣壓校正表」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric_correction_table"
+  },
+  {
+    "english": "barometric corrections",
+    "traditional_chinese": "氣壓校正",
+    "definition_cht": "指與「氣壓校正」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric_corrections"
+  },
+  {
+    "english": "barometric hypsometry",
+    "traditional_chinese": "氣壓測高法",
+    "definition_cht": "指與「氣壓測高法」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric_hypsometry"
+  },
+  {
+    "english": "barometric rate",
+    "traditional_chinese": "氣壓率",
+    "definition_cht": "指「氣壓率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric_rate"
+  },
+  {
+    "english": "barometric reduction table",
+    "traditional_chinese": "氣壓降低表",
+    "definition_cht": "指與「氣壓降低表」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric_reduction_table"
+  },
+  {
+    "english": "barometric wave",
+    "traditional_chinese": "氣壓波",
+    "definition_cht": "指與「氣壓波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometric_wave"
+  },
+  {
+    "english": "barometry",
+    "traditional_chinese": "氣壓測定",
+    "definition_cht": "以氣壓計量測大氣壓力及其變化的技術與學理，為天氣分析、預報與高度推算的重要基礎。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barometry"
+  },
+  {
+    "english": "baromil",
+    "traditional_chinese": "巴羅米爾",
+    "definition_cht": "指與「巴羅米爾」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baromil"
+  },
+  {
+    "english": "baroswitch",
+    "traditional_chinese": "壓力開關",
+    "definition_cht": "指與「壓力開關」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baroswitch"
+  },
+  {
+    "english": "barothermograph",
+    "traditional_chinese": "氣壓計",
+    "definition_cht": "以圖形方式呈現「氣壓計」相關量值、分類或變化關係的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barothermograph"
+  },
+  {
+    "english": "barothermohygrograph",
+    "traditional_chinese": "氣壓溫濕度計",
+    "definition_cht": "以圖形方式呈現「氣壓溫濕度計」相關量值、分類或變化關係的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barothermohygrograph"
+  },
+  {
+    "english": "barotropic",
+    "traditional_chinese": "正壓的",
+    "definition_cht": "指與「正壓的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropic"
+  },
+  {
+    "english": "barotropic atmosphere",
+    "traditional_chinese": "正壓大氣",
+    "definition_cht": "密度僅為壓力函數、等壓面與等密度面平行的理想化大氣狀態，常用於動力氣象理論分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropic_atmosphere"
+  },
+  {
+    "english": "barotropic disturbance",
+    "traditional_chinese": "正壓擾動",
+    "definition_cht": "指與「正壓擾動」相關的擾動型態，通常偏離背景平均狀態並可能隨時間演變。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropic_disturbance"
+  },
+  {
+    "english": "barotropic forecast",
+    "traditional_chinese": "正壓預報",
+    "definition_cht": "指以「正壓預報」為核心的預報方法、產品或結果。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropic_forecast"
+  },
+  {
+    "english": "barotropic instability",
+    "traditional_chinese": "正壓不穩定",
+    "definition_cht": "由水平風速剪切所造成、可使平均流動動能轉移至擾動的流體不穩定機制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropic_instability"
+  },
+  {
+    "english": "barotropic model",
+    "traditional_chinese": "正壓模式",
+    "definition_cht": "用於表徵「正壓模式」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropic_model"
+  },
+  {
+    "english": "barotropic pressure function",
+    "traditional_chinese": "正壓函數",
+    "definition_cht": "描述「正壓函數」相關變數關係、分布型態或響應特性的函數表述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropic_pressure_function"
+  },
+  {
+    "english": "barotropic vorticity equation",
+    "traditional_chinese": "正壓渦度方程",
+    "definition_cht": "描述在正壓近似下渦度守恆與演變的基本方程，廣用於大尺度大氣動力研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropic_vorticity_equation"
+  },
+  {
+    "english": "barotropy",
+    "traditional_chinese": "正壓性",
+    "definition_cht": "指與「正壓性」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barotropy"
+  },
+  {
+    "english": "barrens",
+    "traditional_chinese": "裸地",
+    "definition_cht": "指與「裸地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barrens"
+  },
+  {
+    "english": "barrier",
+    "traditional_chinese": "障礙",
+    "definition_cht": "指與「障礙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barrier"
+  },
+  {
+    "english": "barrier iceberg",
+    "traditional_chinese": "障壁冰山",
+    "definition_cht": "指與「障壁冰山」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barrier_iceberg"
+  },
+  {
+    "english": "barrier jet",
+    "traditional_chinese": "屏障急流",
+    "definition_cht": "氣流受山脈或高地阻擋後沿屏障平行加速形成的狹長強風帶。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barrier_jet"
+  },
+  {
+    "english": "barrier layer",
+    "traditional_chinese": "障壁層",
+    "definition_cht": "上層海洋中介於混合層底與等溫層底之間、受鹽度分層維持的穩定層，影響海氣熱交換與颱風增強。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barrier_layer"
+  },
+  {
+    "english": "barrier theory",
+    "traditional_chinese": "障礙理論",
+    "definition_cht": "指與「障礙理論」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barrier_theory"
+  },
+  {
+    "english": "barye",
+    "traditional_chinese": "巴里",
+    "definition_cht": "指與「巴里」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/barye"
+  },
+  {
+    "english": "basal sliding",
+    "traditional_chinese": "基底滑移",
+    "definition_cht": "指與「基底滑移」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/basal_sliding"
+  },
+  {
+    "english": "base flow",
+    "traditional_chinese": "基流",
+    "definition_cht": "降雨事件後仍由地下水等緩慢補給維持的河川流量成分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/base_flow"
+  },
+  {
+    "english": "base level of erosion",
+    "traditional_chinese": "侵蝕基準面",
+    "definition_cht": "河流或侵蝕作用理論上可下切到的最低基準面，通常以海平面為最終基準。",
+    "source_url": "https://glossary.ametsoc.org/wiki/base_level_of_erosion"
+  },
+  {
+    "english": "base line",
+    "traditional_chinese": "基線",
+    "definition_cht": "指與「基線」相關的線性界面、基準線或分析線，常作為判讀場型與地形配置的輔助量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/base_line"
+  },
+  {
+    "english": "base map",
+    "traditional_chinese": "底圖",
+    "definition_cht": "指與「底圖」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/base_map"
+  },
+  {
+    "english": "base width",
+    "traditional_chinese": "底寬",
+    "definition_cht": "指與「底寬」相關的寬度尺度或帶寬特徵，用於描述空間或頻率範圍。",
+    "source_url": "https://glossary.ametsoc.org/wiki/base_width"
+  },
+  {
+    "english": "baseflow recession curve",
+    "traditional_chinese": "基流退水曲線",
+    "definition_cht": "指與「基流退水曲線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baseflow_recession_curve"
+  },
+  {
+    "english": "baseflow storage",
+    "traditional_chinese": "基流蓄存",
+    "definition_cht": "指與「基流蓄存」相關的蓄存量、滯蓄作用或暫時儲存過程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baseflow_storage"
+  },
+  {
+    "english": "baseline check",
+    "traditional_chinese": "基線檢查",
+    "definition_cht": "指與「基線檢查」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baseline_check"
+  },
+  {
+    "english": "baseline monitoring",
+    "traditional_chinese": "基線監測",
+    "definition_cht": "為掌握環境背景狀態與長期變化而進行的基準監測作業。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baseline_monitoring"
+  },
+  {
+    "english": "basic flow",
+    "traditional_chinese": "基本流",
+    "definition_cht": "作為擾動分析基準的平均流場或背景流場。",
+    "source_url": "https://glossary.ametsoc.org/wiki/basic_flow"
+  },
+  {
+    "english": "basin",
+    "traditional_chinese": "流域",
+    "definition_cht": "集水與匯流的地形單元，可指河川流域、海盆或其他封閉或半封閉低地系統。",
+    "source_url": "https://glossary.ametsoc.org/wiki/basin"
+  },
+  {
+    "english": "basin lag",
+    "traditional_chinese": "流域遲滯時間",
+    "definition_cht": "指與「流域遲滯時間」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/basin_lag"
+  },
+  {
+    "english": "basin outlet",
+    "traditional_chinese": "流域出口",
+    "definition_cht": "指與「流域出口」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/basin_outlet"
+  },
+  {
+    "english": "basin recharge",
+    "traditional_chinese": "流域補注",
+    "definition_cht": "指與「流域補注」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/basin_recharge"
+  },
+  {
+    "english": "basin response",
+    "traditional_chinese": "流域響應",
+    "definition_cht": "指與「流域響應」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/basin_response"
+  },
+  {
+    "english": "basis functions",
+    "traditional_chinese": "基底函數",
+    "definition_cht": "描述「基底函數」相關變數關係、分布型態或響應特性的函數表述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/basis_functions"
+  },
+  {
+    "english": "Bathy",
+    "traditional_chinese": "測深儀",
+    "definition_cht": "指與「測深儀」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bathy"
+  },
+  {
+    "english": "Bathymeter",
+    "traditional_chinese": "測深計",
+    "definition_cht": "用於量測「測深計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bathymeter"
+  },
+  {
+    "english": "bathymetric chart",
+    "traditional_chinese": "水深圖",
+    "definition_cht": "用於呈現「水深圖」相關空間分布或分析結果的圖表，可支援監測、診斷與預報判讀。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bathymetric_chart"
+  },
+  {
+    "english": "bathymetry",
+    "traditional_chinese": "水深測量",
+    "definition_cht": "對海底、湖底或其他水體底床深度與地形起伏的測量與描述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bathymetry"
+  },
+  {
+    "english": "bathythermograph",
+    "traditional_chinese": "深溫儀",
+    "definition_cht": "用於量測海水溫度隨深度變化的海洋觀測儀器，可快速獲得上層海洋熱結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bathythermograph"
+  },
+  {
+    "english": "bathythermograph grid",
+    "traditional_chinese": "深溫儀格網",
+    "definition_cht": "以圖形方式呈現「深溫儀格網」相關量值、分類或變化關係的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bathythermograph_grid"
+  },
+  {
+    "english": "bathythermograph print",
+    "traditional_chinese": "深溫儀記錄紙",
+    "definition_cht": "以圖形方式呈現「深溫儀記錄紙」相關量值、分類或變化關係的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bathythermograph_print"
+  },
+  {
+    "english": "bathythermograph slide",
+    "traditional_chinese": "深溫儀投影片",
+    "definition_cht": "以圖形方式呈現「深溫儀投影片」相關量值、分類或變化關係的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bathythermograph_slide"
+  },
+  {
+    "english": "baud",
+    "traditional_chinese": "鮑率",
+    "definition_cht": "指與「鮑率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baud"
+  },
+  {
+    "english": "baud rate",
+    "traditional_chinese": "鮑率",
+    "definition_cht": "指「鮑率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。",
+    "source_url": "https://glossary.ametsoc.org/wiki/baud_rate"
+  },
+  {
+    "english": "bay ice",
+    "traditional_chinese": "海灣冰",
+    "definition_cht": "指與「海灣冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bay_ice"
+  },
+  {
+    "english": "Bay of Bengal Water",
+    "traditional_chinese": "孟加拉灣水團",
+    "definition_cht": "指與「孟加拉灣水團」相關的水團、水體性質或水文條件，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bay_of_Bengal_Water"
+  },
+  {
+    "english": "bayamo",
+    "traditional_chinese": "巴亞莫風",
+    "definition_cht": "指與「巴亞莫風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bayamo"
+  },
+  {
+    "english": "Bayesian Method",
+    "traditional_chinese": "貝葉斯方法",
+    "definition_cht": "以貝葉斯定理整合先驗資訊與觀測證據的統計方法，常用於預報校正、分類與資料同化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bayesian_Method"
+  },
+  {
+    "english": "BDRF",
+    "traditional_chinese": "雙向散射分布函數",
+    "definition_cht": "描述表面對入射輻射在不同方向上散射分布特性的函數，是遙測反照與輻射傳輸的重要參數化量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/BDRF"
+  },
+  {
+    "english": "beaded lightning",
+    "traditional_chinese": "串珠狀閃電",
+    "definition_cht": "閃電通道在衰減階段呈現一連串珠狀亮點的現象，多見於閃電尾端分段發光。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beaded_lightning"
+  },
+  {
+    "english": "beam",
+    "traditional_chinese": "波束",
+    "definition_cht": "雷達、光達或聲納等儀器發射與接收能量所對應的定向波束。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beam"
+  },
+  {
+    "english": "beam filling",
+    "traditional_chinese": "波束填充",
+    "definition_cht": "指與「波束填充」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beam_filling"
+  },
+  {
+    "english": "beam swinging",
+    "traditional_chinese": "擺束法",
+    "definition_cht": "指與「擺束法」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beam_swinging"
+  },
+  {
+    "english": "beam wind",
+    "traditional_chinese": "波束風",
+    "definition_cht": "指與「波束風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beam_wind"
+  },
+  {
+    "english": "beamwidth",
+    "traditional_chinese": "波束寬度",
+    "definition_cht": "波束主瓣在指定功率衰減準則下的角寬，反映天線或感測器的方向解析能力。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beamwidth"
+  },
+  {
+    "english": "bearing",
+    "traditional_chinese": "方位",
+    "definition_cht": "指與「方位」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bearing"
+  },
+  {
+    "english": "beating",
+    "traditional_chinese": "拍頻",
+    "definition_cht": "指與「拍頻」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beating"
+  },
+  {
+    "english": "Beaufort force",
+    "traditional_chinese": "蒲福風級",
+    "definition_cht": "依風對海面或地物作用外觀所劃分的風力等級。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Beaufort_force"
+  },
+  {
+    "english": "Beaufort weather notation",
+    "traditional_chinese": "蒲福天氣記號",
+    "definition_cht": "以簡明符號記錄天氣現象與狀態的記號系統，常用於地面觀測紀錄。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Beaufort_weather_notation"
+  },
+  {
+    "english": "Beaufort wind scale",
+    "traditional_chinese": "蒲福風級",
+    "definition_cht": "指與「蒲福風級」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Beaufort_wind_scale"
+  },
+  {
+    "english": "Beaumont period",
+    "traditional_chinese": "博蒙特時期",
+    "definition_cht": "指與「博蒙特時期」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Beaumont_period"
+  },
+  {
+    "english": "beavertail antenna",
+    "traditional_chinese": "海狸尾天線",
+    "definition_cht": "指與「海狸尾天線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beavertail_antenna"
+  },
+  {
+    "english": "belat",
+    "traditional_chinese": "貝拉特",
+    "definition_cht": "指與「貝拉特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/belat"
+  },
+  {
+    "english": "bell taper",
+    "traditional_chinese": "鐘形錐度",
+    "definition_cht": "指與「鐘形錐度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bell_taper"
+  },
+  {
+    "english": "Bellamy method",
+    "traditional_chinese": "貝拉米法",
+    "definition_cht": "指處理「貝拉米法」相關問題的分析、估算、分類或推算方法。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bellamy_method"
+  },
+  {
+    "english": "below minimums",
+    "traditional_chinese": "低於最低值",
+    "definition_cht": "指與「低於最低值」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/below_minimums"
+  },
+  {
+    "english": "belt of fluctuation",
+    "traditional_chinese": "波動帶",
+    "definition_cht": "指與「波動帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/belt_of_fluctuation"
+  },
+  {
+    "english": "beltane-ree",
+    "traditional_chinese": "貝爾塔內裡",
+    "definition_cht": "指與「貝爾塔內裡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beltane-ree"
+  },
+  {
+    "english": "Beltrami flow",
+    "traditional_chinese": "貝爾特拉米流",
+    "definition_cht": "指與「貝爾特拉米流」相關的流動型態或平均流場，可用於分析輸送、循環與動力結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Beltrami_flow"
+  },
+  {
+    "english": "Bemporad's formula",
+    "traditional_chinese": "班波拉德公式",
+    "definition_cht": "指與「班波拉德公式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bemporad%27s_formula"
+  },
+  {
+    "english": "Bénard cell",
+    "traditional_chinese": "貝納德細胞",
+    "definition_cht": "指與「貝納德細胞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/B%C3%A9nard_cell"
+  },
+  {
+    "english": "benchmark",
+    "traditional_chinese": "基準",
+    "definition_cht": "指與「基準」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/benchmark"
+  },
+  {
+    "english": "benchmark station",
+    "traditional_chinese": "基準站",
+    "definition_cht": "指與「基準站」相關的觀測站、作業站位或資料採集位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/benchmark_station"
+  },
+  {
+    "english": "Benguela Current",
+    "traditional_chinese": "本格拉洋流",
+    "definition_cht": "指與「本格拉洋流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Benguela_Current"
+  },
+  {
+    "english": "bent-back occlusion",
+    "traditional_chinese": "後彎咬合",
+    "definition_cht": "指與「後彎咬合」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bent-back_occlusion"
+  },
+  {
+    "english": "bentu de soli",
+    "traditional_chinese": "本圖德索利",
+    "definition_cht": "指與「本圖德索利」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bentu_de_soli"
+  },
+  {
+    "english": "benzene",
+    "traditional_chinese": "苯",
+    "definition_cht": "指與「苯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/benzene"
+  },
+  {
+    "english": "benzo-a-pyrene",
+    "traditional_chinese": "苯並芘",
+    "definition_cht": "指與「苯並芘」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/benzo-a-pyrene"
+  },
+  {
+    "english": "berg",
+    "traditional_chinese": "伯格",
+    "definition_cht": "指與「伯格」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/berg"
+  },
+  {
+    "english": "Berg wind",
+    "traditional_chinese": "伯格風",
+    "definition_cht": "指與「伯格風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Berg_wind"
+  },
+  {
+    "english": "Bergeron classification",
+    "traditional_chinese": "伯傑龍分類",
+    "definition_cht": "指依特定準則對「伯傑龍分類」相關現象、類型或樣態所做的分類系統。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bergeron_classification"
+  },
+  {
+    "english": "Bergeron–Findeisen process",
+    "traditional_chinese": "伯傑龍-芬德森過程",
+    "definition_cht": "指「伯傑龍-芬德森過程」所涉及的物理、化學或動力過程，用於說明形成與演變機制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bergeron%E2%80%93Findeisen_process"
+  },
+  {
+    "english": "bergy bit",
+    "traditional_chinese": "伯格比特",
+    "definition_cht": "指與「伯格比特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bergy_bit"
+  },
+  {
+    "english": "Bering Slope Current",
+    "traditional_chinese": "白令山坡流",
+    "definition_cht": "指與「白令山坡流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bering_Slope_Current"
+  },
+  {
+    "english": "Bermuda high",
+    "traditional_chinese": "百慕達高中",
+    "definition_cht": "指與「百慕達高中」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bermuda_high"
+  },
+  {
+    "english": "Bernal–Fowler rules",
+    "traditional_chinese": "伯納爾-福勒規則",
+    "definition_cht": "指與「伯納爾-福勒規則」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bernal%E2%80%93Fowler_rules"
+  },
+  {
+    "english": "Bernoulli's theorem",
+    "traditional_chinese": "伯努利定理",
+    "definition_cht": "「伯努利定理」相關的理論定理或數學命題，用以說明特定物理或統計性質。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bernoulli%27s_theorem"
+  },
+  {
+    "english": "Besson nephoscope",
+    "traditional_chinese": "貝松腎鏡",
+    "definition_cht": "指與「貝松腎鏡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Besson_nephoscope"
+  },
+  {
+    "english": "Best number",
+    "traditional_chinese": "最佳號碼",
+    "definition_cht": "指與「最佳號碼」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Best_number"
+  },
+  {
+    "english": "best track",
+    "traditional_chinese": "最佳曲目",
+    "definition_cht": "指與「最佳曲目」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/best_track"
+  },
+  {
+    "english": "beta drift",
+    "traditional_chinese": "貝塔漂移",
+    "definition_cht": "指與「貝塔漂移」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beta_drift"
+  },
+  {
+    "english": "beta effect",
+    "traditional_chinese": "貝塔效應",
+    "definition_cht": "指與「貝塔效應」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beta_effect"
+  },
+  {
+    "english": "beta gyre",
+    "traditional_chinese": "貝塔環流",
+    "definition_cht": "指與「貝塔環流」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beta_gyre"
+  },
+  {
+    "english": "beta particle",
+    "traditional_chinese": "β粒子",
+    "definition_cht": "指與「β粒子」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beta_particle"
+  },
+  {
+    "english": "beta plane",
+    "traditional_chinese": "貝塔平面",
+    "definition_cht": "指與「貝塔平面」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beta_plane"
+  },
+  {
+    "english": "beta ray",
+    "traditional_chinese": "β射線",
+    "definition_cht": "指與「β射線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beta_ray"
+  },
+  {
+    "english": "beta spiral",
+    "traditional_chinese": "β螺旋",
+    "definition_cht": "指與「β螺旋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/beta_spiral"
+  },
+  {
+    "english": "between layers",
+    "traditional_chinese": "層與層之間",
+    "definition_cht": "指與「層與層之間」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/between_layers"
+  },
+  {
+    "english": "bhut",
+    "traditional_chinese": "布特",
+    "definition_cht": "指與「布特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bhut"
+  },
+  {
+    "english": "bidirectional reflectance distribution function",
+    "traditional_chinese": "雙向反射率分佈函數",
+    "definition_cht": "描述「雙向反射率分佈函數」相關變數關係、分布型態或響應特性的函數表述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bidirectional_reflectance_distribution_function"
+  },
+  {
+    "english": "bidirectional reflectance factor",
+    "traditional_chinese": "雙向反射係數",
+    "definition_cht": "指與「雙向反射係數」相關的反射特性或反照量，常用於遙測與輻射分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bidirectional_reflectance_factor"
+  },
+  {
+    "english": "bidirectional reflection function",
+    "traditional_chinese": "雙向反射功能",
+    "definition_cht": "描述「雙向反射功能」相關變數關係、分布型態或響應特性的函數表述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bidirectional_reflection_function"
+  },
+  {
+    "english": "biennial ice",
+    "traditional_chinese": "兩年一次的冰",
+    "definition_cht": "指與「兩年一次的冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biennial_ice"
+  },
+  {
+    "english": "biennial wind oscillation",
+    "traditional_chinese": "兩年一次的風振盪",
+    "definition_cht": "指與「兩年一次的風振盪」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biennial_wind_oscillation"
+  },
+  {
+    "english": "bifilar electrometer",
+    "traditional_chinese": "雙線靜電計",
+    "definition_cht": "用於量測「雙線靜電計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bifilar_electrometer"
+  },
+  {
+    "english": "bihemispherical reflectance",
+    "traditional_chinese": "雙半球反射率",
+    "definition_cht": "指與「雙半球反射率」相關的反射特性或反照量，常用於遙測與輻射分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bihemispherical_reflectance"
+  },
+  {
+    "english": "billow cirrus clouds",
+    "traditional_chinese": "滾滾卷雲",
+    "definition_cht": "指與「滾滾卷雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/billow_cirrus_clouds"
+  },
+  {
+    "english": "billow cloud",
+    "traditional_chinese": "滾滾雲",
+    "definition_cht": "指與「滾滾雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/billow_cloud"
+  },
+  {
+    "english": "billow wave",
+    "traditional_chinese": "滾滾波浪",
+    "definition_cht": "指與「滾滾波浪」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/billow_wave"
+  },
+  {
+    "english": "bimetallic strip",
+    "traditional_chinese": "雙金屬片",
+    "definition_cht": "指與「雙金屬片」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bimetallic_strip"
+  },
+  {
+    "english": "bimetallic thermometer",
+    "traditional_chinese": "雙金屬溫度計",
+    "definition_cht": "用於量測「雙金屬溫度計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bimetallic_thermometer"
+  },
+  {
+    "english": "bimodal spectrum",
+    "traditional_chinese": "雙峰譜",
+    "definition_cht": "指與「雙峰譜」相關之頻譜或波譜分布，用於分析能量在頻率、波長或波數空間中的配置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bimodal_spectrum"
+  },
+  {
+    "english": "binary code",
+    "traditional_chinese": "二進位代碼",
+    "definition_cht": "指與「二進位代碼」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/binary_code"
+  },
+  {
+    "english": "binary cyclones",
+    "traditional_chinese": "雙旋風分離器",
+    "definition_cht": "指與「雙旋風分離器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/binary_cyclones"
+  },
+  {
+    "english": "binomial distribution",
+    "traditional_chinese": "二項式分佈",
+    "definition_cht": "指與「二項式分佈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/binomial_distribution"
+  },
+  {
+    "english": "bio-assay",
+    "traditional_chinese": "生物測定",
+    "definition_cht": "指與「生物測定」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bio-assay"
+  },
+  {
+    "english": "biochemical oxygen demand",
+    "traditional_chinese": "生化需氧量",
+    "definition_cht": "指與「生化需氧量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biochemical_oxygen_demand"
+  },
+  {
+    "english": "biochore",
+    "traditional_chinese": "生物群",
+    "definition_cht": "指與「生物群」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biochore"
+  },
+  {
+    "english": "bioclimatograph",
+    "traditional_chinese": "生物氣候儀",
+    "definition_cht": "以圖形方式呈現「生物氣候儀」相關量值、分類或變化關係的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bioclimatograph"
+  },
+  {
+    "english": "bioclimatology",
+    "traditional_chinese": "生物氣候學",
+    "definition_cht": "氣候學的分支，研究氣候與生命之間的關係，尤其包括氣候對人類健康、活動，以及動植物分布與適應的影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bioclimatology"
+  },
+  {
+    "english": "biogenic ice nucleus",
+    "traditional_chinese": "生物冰核",
+    "definition_cht": "指與「生物冰核」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biogenic_ice_nucleus"
+  },
+  {
+    "english": "biogenic trace gases",
+    "traditional_chinese": "生物微量氣體",
+    "definition_cht": "指與「生物微量氣體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biogenic_trace_gases"
+  },
+  {
+    "english": "biogeochemical cycle",
+    "traditional_chinese": "生物地球化學循環",
+    "definition_cht": "指與「生物地球化學循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biogeochemical_cycle"
+  },
+  {
+    "english": "biomass burning",
+    "traditional_chinese": "生物質燃燒",
+    "definition_cht": "指與「生物質燃燒」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biomass_burning"
+  },
+  {
+    "english": "Biometeorology",
+    "traditional_chinese": "生物氣象學",
+    "definition_cht": "指與「生物氣象學」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Biometeorology"
+  },
+  {
+    "english": "biosphere",
+    "traditional_chinese": "生物圈",
+    "definition_cht": "指與「生物圈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biosphere"
+  },
+  {
+    "english": "biosphere reserves",
+    "traditional_chinese": "生物圈保護區",
+    "definition_cht": "指與「生物圈保護區」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/biosphere_reserves"
+  },
+  {
+    "english": "bipolar pattern",
+    "traditional_chinese": "雙極性模式",
+    "definition_cht": "指與「雙極性模式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bipolar_pattern"
+  },
+  {
+    "english": "birainy climate",
+    "traditional_chinese": "雙雨氣候",
+    "definition_cht": "指與「雙雨氣候」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/birainy_climate"
+  },
+  {
+    "english": "bird burst",
+    "traditional_chinese": "鳥爆發",
+    "definition_cht": "指與「鳥爆發」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bird_burst"
+  },
+  {
+    "english": "birefringence",
+    "traditional_chinese": "雙折射",
+    "definition_cht": "指與「雙折射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/birefringence"
+  },
+  {
+    "english": "Birkeland currents",
+    "traditional_chinese": "伯克蘭洋流",
+    "definition_cht": "指與「伯克蘭洋流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Birkeland_currents"
+  },
+  {
+    "english": "bise",
+    "traditional_chinese": "寒風",
+    "definition_cht": "指與「寒風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bise"
+  },
+  {
+    "english": "Bishop wave",
+    "traditional_chinese": "主教波",
+    "definition_cht": "指與「主教波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bishop_wave"
+  },
+  {
+    "english": "Bishop's ring",
+    "traditional_chinese": "主教的戒指",
+    "definition_cht": "指與「主教的戒指」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bishop%27s_ring"
+  },
+  {
+    "english": "bistatic",
+    "traditional_chinese": "雙基地",
+    "definition_cht": "指與「雙基地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bistatic"
+  },
+  {
+    "english": "bistatic radar",
+    "traditional_chinese": "雙基地雷達",
+    "definition_cht": "指與「雙基地雷達」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bistatic_radar"
+  },
+  {
+    "english": "bit",
+    "traditional_chinese": "位元",
+    "definition_cht": "指與「位元」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bit"
+  },
+  {
+    "english": "bit rate",
+    "traditional_chinese": "位元率",
+    "definition_cht": "指「位元率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bit_rate"
+  },
+  {
+    "english": "bittern",
+    "traditional_chinese": "鹵水",
+    "definition_cht": "指與「鹵水」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bittern"
+  },
+  {
+    "english": "bivane",
+    "traditional_chinese": "比瓦內",
+    "definition_cht": "指與「比瓦內」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bivane"
+  },
+  {
+    "english": "BL",
+    "traditional_chinese": "BL",
+    "definition_cht": "「BL」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/BL"
+  },
+  {
+    "english": "black blizzard",
+    "traditional_chinese": "黑色暴風雪",
+    "definition_cht": "指與「黑色暴風雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black_blizzard"
+  },
+  {
+    "english": "black fog",
+    "traditional_chinese": "黑霧",
+    "definition_cht": "指與「黑霧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black_fog"
+  },
+  {
+    "english": "black frost",
+    "traditional_chinese": "黑霜",
+    "definition_cht": "指與「黑霜」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black_frost"
+  },
+  {
+    "english": "black ice",
+    "traditional_chinese": "黑冰",
+    "definition_cht": "指與「黑冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black_ice"
+  },
+  {
+    "english": "black northeaster",
+    "traditional_chinese": "黑東北風",
+    "definition_cht": "指與「黑東北風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black_northeaster"
+  },
+  {
+    "english": "black squall",
+    "traditional_chinese": "黑颮",
+    "definition_cht": "指與「黑颮」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black_squall"
+  },
+  {
+    "english": "black storm",
+    "traditional_chinese": "黑色風暴",
+    "definition_cht": "指與「黑色風暴」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black_storm"
+  },
+  {
+    "english": "black stratus",
+    "traditional_chinese": "黑色層雲",
+    "definition_cht": "指與「黑色層雲」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black_stratus"
+  },
+  {
+    "english": "black-bulb thermometer",
+    "traditional_chinese": "黑球溫度計",
+    "definition_cht": "用於量測「黑球溫度計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/black-bulb_thermometer"
+  },
+  {
+    "english": "blackbody",
+    "traditional_chinese": "黑體",
+    "definition_cht": "指與「黑體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blackbody"
+  },
+  {
+    "english": "blackbody radiation",
+    "traditional_chinese": "黑體輻射",
+    "definition_cht": "指與「黑體輻射」相關的輻射過程、能量通量或電磁傳播效應。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blackbody_radiation"
+  },
+  {
+    "english": "blackbody temperature",
+    "traditional_chinese": "黑體溫度",
+    "definition_cht": "指與「黑體溫度」相關的溫度量、溫度分布或其代表性特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blackbody_temperature"
+  },
+  {
+    "english": "Blackthorn winter",
+    "traditional_chinese": "黑刺李冬天",
+    "definition_cht": "指與「黑刺李冬天」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Blackthorn_winter"
+  },
+  {
+    "english": "blad",
+    "traditional_chinese": "布拉德",
+    "definition_cht": "指與「布拉德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blad"
+  },
+  {
+    "english": "blaze",
+    "traditional_chinese": "火焰",
+    "definition_cht": "指與「火焰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blaze"
+  },
+  {
+    "english": "blending height",
+    "traditional_chinese": "混合高度",
+    "definition_cht": "指與「混合高度」相關的高度量測或特徵高度，用以描述結構位置或垂直尺度。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blending_height"
+  },
+  {
+    "english": "blind rollers",
+    "traditional_chinese": "盲輥",
+    "definition_cht": "指與「盲輥」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blind_rollers"
+  },
+  {
+    "english": "blink",
+    "traditional_chinese": "眨",
+    "definition_cht": "指與「眨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blink"
+  },
+  {
+    "english": "blinter",
+    "traditional_chinese": "布林特",
+    "definition_cht": "指與「布林特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blinter"
+  },
+  {
+    "english": "blip",
+    "traditional_chinese": "光點",
+    "definition_cht": "指與「光點」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blip"
+  },
+  {
+    "english": "blirty",
+    "traditional_chinese": "活潑的",
+    "definition_cht": "指與「活潑的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blirty"
+  },
+  {
+    "english": "blizzard",
+    "traditional_chinese": "暴風雪",
+    "definition_cht": "指與「暴風雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blizzard"
+  },
+  {
+    "english": "blocking",
+    "traditional_chinese": "阻塞",
+    "definition_cht": "指與「阻塞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blocking"
+  },
+  {
+    "english": "blocking high",
+    "traditional_chinese": "阻塞高",
+    "definition_cht": "指與「阻塞高」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blocking_high"
+  },
+  {
+    "english": "blocking oscillator",
+    "traditional_chinese": "阻塞振盪器",
+    "definition_cht": "指與「阻塞振盪器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blocking_oscillator"
+  },
+  {
+    "english": "blood rain",
+    "traditional_chinese": "血雨",
+    "definition_cht": "指與「血雨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blood_rain"
+  },
+  {
+    "english": "blout",
+    "traditional_chinese": "吹噓",
+    "definition_cht": "指與「吹噓」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blout"
+  },
+  {
+    "english": "blowby",
+    "traditional_chinese": "漏氣",
+    "definition_cht": "指與「漏氣」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blowby"
+  },
+  {
+    "english": "blowing dust",
+    "traditional_chinese": "揚塵",
+    "definition_cht": "指與「揚塵」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blowing_dust"
+  },
+  {
+    "english": "blowing sand",
+    "traditional_chinese": "吹沙",
+    "definition_cht": "指與「吹沙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blowing_sand"
+  },
+  {
+    "english": "blowing snow",
+    "traditional_chinese": "吹雪",
+    "definition_cht": "指與「吹雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blowing_snow"
+  },
+  {
+    "english": "blowing spray",
+    "traditional_chinese": "吹噴霧",
+    "definition_cht": "指與「吹噴霧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blowing_spray"
+  },
+  {
+    "english": "bloxam",
+    "traditional_chinese": "布洛沙姆",
+    "definition_cht": "指與「布洛沙姆」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bloxam"
+  },
+  {
+    "english": "blue flash",
+    "traditional_chinese": "藍色閃光",
+    "definition_cht": "指與「藍色閃光」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blue_flash"
+  },
+  {
+    "english": "blue ice",
+    "traditional_chinese": "藍色冰",
+    "definition_cht": "指與「藍色冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blue_ice"
+  },
+  {
+    "english": "blue jets",
+    "traditional_chinese": "藍色噴射機",
+    "definition_cht": "指與「藍色噴射機」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blue_jets"
+  },
+  {
+    "english": "blue moon",
+    "traditional_chinese": "藍月亮",
+    "definition_cht": "指與「藍月亮」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blue_moon"
+  },
+  {
+    "english": "blue noise",
+    "traditional_chinese": "藍色噪音",
+    "definition_cht": "指與「藍色噪音」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blue_noise"
+  },
+  {
+    "english": "blue-ice area",
+    "traditional_chinese": "藍冰區",
+    "definition_cht": "指與「藍冰區」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blue-ice_area"
+  },
+  {
+    "english": "bluffart",
+    "traditional_chinese": "虛張聲勢",
+    "definition_cht": "指與「虛張聲勢」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bluffart"
+  },
+  {
+    "english": "blunk",
+    "traditional_chinese": "愚弄",
+    "definition_cht": "指與「愚弄」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/blunk"
+  },
+  {
+    "english": "bochorno",
+    "traditional_chinese": "博荷諾",
+    "definition_cht": "指與「博荷諾」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bochorno"
+  },
+  {
+    "english": "bodily tides",
+    "traditional_chinese": "身體潮汐",
+    "definition_cht": "指與「身體潮汐」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bodily_tides"
+  },
+  {
+    "english": "body waves",
+    "traditional_chinese": "體波",
+    "definition_cht": "指與「體波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/body_waves"
+  },
+  {
+    "english": "bog",
+    "traditional_chinese": "沼澤",
+    "definition_cht": "指與「沼澤」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bog"
+  },
+  {
+    "english": "bogus observation",
+    "traditional_chinese": "虛假觀察",
+    "definition_cht": "指與「虛假觀察」相關的觀測作業、觀測資料或量測結果。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bogus_observation"
+  },
+  {
+    "english": "bogus vortex",
+    "traditional_chinese": "虛假漩渦",
+    "definition_cht": "指與「虛假漩渦」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bogus_vortex"
+  },
+  {
+    "english": "bohorok",
+    "traditional_chinese": "博霍羅克",
+    "definition_cht": "指與「博霍羅克」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bohorok"
+  },
+  {
+    "english": "boil",
+    "traditional_chinese": "熬",
+    "definition_cht": "指與「熬」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boil"
+  },
+  {
+    "english": "boiling point",
+    "traditional_chinese": "沸點",
+    "definition_cht": "指與「沸點」相關的特徵點、基準點或觀測辨識位置，用於描述幾何、光學或動力結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boiling_point"
+  },
+  {
+    "english": "Bolling–Allerod",
+    "traditional_chinese": "博林-阿勒羅德",
+    "definition_cht": "指與「博林-阿勒羅德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bolling%E2%80%93Allerod"
+  },
+  {
+    "english": "bologram",
+    "traditional_chinese": "波譜圖",
+    "definition_cht": "指與「波譜圖」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bologram"
+  },
+  {
+    "english": "bolometer",
+    "traditional_chinese": "輻射熱測量計",
+    "definition_cht": "用於量測「輻射熱測量計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bolometer"
+  },
+  {
+    "english": "Boltzmann's constant",
+    "traditional_chinese": "波茲曼常數",
+    "definition_cht": "指與「波茲曼常數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boltzmann%27s_constant"
+  },
+  {
+    "english": "Bomb cyclone",
+    "traditional_chinese": "炸彈旋風",
+    "definition_cht": "指與「炸彈旋風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bomb_cyclone"
+  },
+  {
+    "english": "bond energy",
+    "traditional_chinese": "鍵能",
+    "definition_cht": "指與「鍵能」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bond_energy"
+  },
+  {
+    "english": "book-end vortices",
+    "traditional_chinese": "書尾渦流",
+    "definition_cht": "指與「書尾渦流」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/book-end_vortices"
+  },
+  {
+    "english": "bora",
+    "traditional_chinese": "波拉",
+    "definition_cht": "指與「波拉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bora"
+  },
+  {
+    "english": "bora fog",
+    "traditional_chinese": "波拉霧",
+    "definition_cht": "指與「波拉霧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bora_fog"
+  },
+  {
+    "english": "bora scura",
+    "traditional_chinese": "博拉斯庫拉",
+    "definition_cht": "指與「博拉斯庫拉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bora_scura"
+  },
+  {
+    "english": "boraccia",
+    "traditional_chinese": "博拉恰",
+    "definition_cht": "指與「博拉恰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boraccia"
+  },
+  {
+    "english": "borasca",
+    "traditional_chinese": "波拉斯卡",
+    "definition_cht": "指與「波拉斯卡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/borasca"
+  },
+  {
+    "english": "bordelais",
+    "traditional_chinese": "波爾德萊",
+    "definition_cht": "指與「波爾德萊」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bordelais"
+  },
+  {
+    "english": "border spring",
+    "traditional_chinese": "邊界彈簧",
+    "definition_cht": "指與「邊界彈簧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/border_spring"
+  },
+  {
+    "english": "bore",
+    "traditional_chinese": "鑽孔",
+    "definition_cht": "指與「鑽孔」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bore"
+  },
+  {
+    "english": "Boreal",
+    "traditional_chinese": "北方",
+    "definition_cht": "指與「北方」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boreal"
+  },
+  {
+    "english": "boreal forest",
+    "traditional_chinese": "北方森林",
+    "definition_cht": "指與「北方森林」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boreal_forest"
+  },
+  {
+    "english": "boreal woodland",
+    "traditional_chinese": "北方林地",
+    "definition_cht": "指與「北方林地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boreal_woodland"
+  },
+  {
+    "english": "boreal zone",
+    "traditional_chinese": "北部地帶",
+    "definition_cht": "指與「北部地帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boreal_zone"
+  },
+  {
+    "english": "Boreas",
+    "traditional_chinese": "波瑞阿斯",
+    "definition_cht": "指與「波瑞阿斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boreas"
+  },
+  {
+    "english": "borino",
+    "traditional_chinese": "博裡諾",
+    "definition_cht": "指與「博裡諾」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/borino"
+  },
+  {
+    "english": "bornan",
+    "traditional_chinese": "博爾南",
+    "definition_cht": "指與「博爾南」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bornan"
+  },
+  {
+    "english": "borras",
+    "traditional_chinese": "博拉斯",
+    "definition_cht": "指與「博拉斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/borras"
+  },
+  {
+    "english": "bottle thermometer",
+    "traditional_chinese": "瓶裝溫度計",
+    "definition_cht": "用於量測「瓶裝溫度計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bottle_thermometer"
+  },
+  {
+    "english": "Bottlinger's rings",
+    "traditional_chinese": "博特林格環",
+    "definition_cht": "指與「博特林格環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bottlinger%27s_rings"
+  },
+  {
+    "english": "bottom current",
+    "traditional_chinese": "底部電流",
+    "definition_cht": "指與「底部電流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bottom_current"
+  },
+  {
+    "english": "bottom friction",
+    "traditional_chinese": "底部摩擦力",
+    "definition_cht": "指與「底部摩擦力」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bottom_friction"
+  },
+  {
+    "english": "bottom temperature",
+    "traditional_chinese": "底部溫度",
+    "definition_cht": "指與「底部溫度」相關的溫度量、溫度分布或其代表性特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bottom_temperature"
+  },
+  {
+    "english": "bottom water",
+    "traditional_chinese": "底層水",
+    "definition_cht": "指與「底層水」相關的水團、水體性質或水文條件，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bottom_water"
+  },
+  {
+    "english": "Bouguer–Lambert law",
+    "traditional_chinese": "布格-蘭伯特定律",
+    "definition_cht": "「布格-蘭伯特定律」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bouguer%E2%80%93Lambert_law"
+  },
+  {
+    "english": "Bouguer's law",
+    "traditional_chinese": "布格定律",
+    "definition_cht": "「布格定律」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bouguer%27s_law"
+  },
+  {
+    "english": "boulbie",
+    "traditional_chinese": "布爾比",
+    "definition_cht": "指與「布爾比」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boulbie"
+  },
+  {
+    "english": "boundary conditions",
+    "traditional_chinese": "邊界條件",
+    "definition_cht": "指與「邊界條件」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boundary_conditions"
+  },
+  {
+    "english": "Boundary currents",
+    "traditional_chinese": "邊界電流",
+    "definition_cht": "指與「邊界電流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boundary_currents"
+  },
+  {
+    "english": "boundary layer",
+    "traditional_chinese": "邊界層",
+    "definition_cht": "指與「邊界層」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boundary_layer"
+  },
+  {
+    "english": "boundary layer radar",
+    "traditional_chinese": "邊界層雷達",
+    "definition_cht": "指與「邊界層雷達」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boundary_layer_radar"
+  },
+  {
+    "english": "boundary layer separation",
+    "traditional_chinese": "邊界層分離",
+    "definition_cht": "指與「邊界層分離」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boundary_layer_separation"
+  },
+  {
+    "english": "boundary mixing",
+    "traditional_chinese": "邊界混合",
+    "definition_cht": "指與「邊界混合」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boundary_mixing"
+  },
+  {
+    "english": "boundary of saturation",
+    "traditional_chinese": "飽和邊界",
+    "definition_cht": "指與「飽和邊界」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boundary_of_saturation"
+  },
+  {
+    "english": "boundary-value problem",
+    "traditional_chinese": "邊際值問題",
+    "definition_cht": "指與「邊際值問題」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boundary-value_problem"
+  },
+  {
+    "english": "bounded weak echo region",
+    "traditional_chinese": "有界弱回波區",
+    "definition_cht": "指與「有界弱回波區」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bounded_weak_echo_region"
+  },
+  {
+    "english": "Bourdon tube",
+    "traditional_chinese": "波登管",
+    "definition_cht": "指與「波登管」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bourdon_tube"
+  },
+  {
+    "english": "Boussinesq approximation",
+    "traditional_chinese": "布辛涅斯克近似",
+    "definition_cht": "用於處理「布辛涅斯克近似」相關問題的近似假設，以保留主要物理機制並簡化方程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boussinesq_approximation"
+  },
+  {
+    "english": "Boussinesq equation",
+    "traditional_chinese": "布辛涅斯克方程",
+    "definition_cht": "描述「布辛涅斯克方程」相關物理量之間關係或守恆條件的方程式，常用於理論分析、診斷或數值模擬。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boussinesq_equation"
+  },
+  {
+    "english": "Boussinesq number",
+    "traditional_chinese": "布辛涅斯克數",
+    "definition_cht": "指與「布辛涅斯克數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boussinesq_number"
+  },
+  {
+    "english": "bow echo",
+    "traditional_chinese": "弓形迴聲",
+    "definition_cht": "指與「弓形迴聲」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bow_echo"
+  },
+  {
+    "english": "Bowen ratio",
+    "traditional_chinese": "鮑文比",
+    "definition_cht": "指表示「鮑文比」相關兩種量值之間關係的比值，常用於診斷或分類。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bowen_ratio"
+  },
+  {
+    "english": "box models",
+    "traditional_chinese": "盒式模型",
+    "definition_cht": "用於表徵「盒式模型」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/box_models"
+  },
+  {
+    "english": "Boyden index",
+    "traditional_chinese": "博伊登指數",
+    "definition_cht": "用於量化「博伊登指數」相關狀態、程度或風險的指標。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boyden_index"
+  },
+  {
+    "english": "Boyle's law",
+    "traditional_chinese": "波義耳定律",
+    "definition_cht": "「波義耳定律」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boyle%27s_law"
+  },
+  {
+    "english": "Boys camera",
+    "traditional_chinese": "男孩相機",
+    "definition_cht": "指與「男孩相機」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boys_camera"
+  },
+  {
+    "english": "BPI pan",
+    "traditional_chinese": "BPI磁碟",
+    "definition_cht": "指與「BPI磁碟」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/BPI_pan"
+  },
+  {
+    "english": "brackish water",
+    "traditional_chinese": "鹹水",
+    "definition_cht": "指與「鹹水」相關的水團、水體性質或水文條件，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brackish_water"
+  },
+  {
+    "english": "Bragg scattering",
+    "traditional_chinese": "布拉格散射",
+    "definition_cht": "指與「布拉格散射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bragg_scattering"
+  },
+  {
+    "english": "brash",
+    "traditional_chinese": "傲慢",
+    "definition_cht": "指與「傲慢」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brash"
+  },
+  {
+    "english": "brave west winds",
+    "traditional_chinese": "勇敢的西風",
+    "definition_cht": "指與「勇敢的西風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brave_west_winds"
+  },
+  {
+    "english": "Brazil Current",
+    "traditional_chinese": "巴西海流",
+    "definition_cht": "指與「巴西海流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brazil_Current"
+  },
+  {
+    "english": "BRDF",
+    "traditional_chinese": "雙向反射分佈函數",
+    "definition_cht": "「BRDF」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/BRDF"
+  },
+  {
+    "english": "breadth-first search",
+    "traditional_chinese": "廣度優先搜尋",
+    "definition_cht": "指與「廣度優先搜尋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breadth-first_search"
+  },
+  {
+    "english": "break",
+    "traditional_chinese": "休息",
+    "definition_cht": "指與「休息」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/break"
+  },
+  {
+    "english": "breakdown",
+    "traditional_chinese": "分解",
+    "definition_cht": "指與「分解」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breakdown"
+  },
+  {
+    "english": "breakdown field",
+    "traditional_chinese": "擊穿場",
+    "definition_cht": "指與「擊穿場」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breakdown_field"
+  },
+  {
+    "english": "breaker",
+    "traditional_chinese": "斷路器",
+    "definition_cht": "指與「斷路器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breaker"
+  },
+  {
+    "english": "breaker depth",
+    "traditional_chinese": "斷路器深度",
+    "definition_cht": "指與「斷路器深度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breaker_depth"
+  },
+  {
+    "english": "breaking-drop theory",
+    "traditional_chinese": "破滴理論",
+    "definition_cht": "指與「破滴理論」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breaking-drop_theory"
+  },
+  {
+    "english": "breaks in overcast",
+    "traditional_chinese": "陰天中斷",
+    "definition_cht": "指與「陰天中斷」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breaks_in_overcast"
+  },
+  {
+    "english": "breakthrough curve",
+    "traditional_chinese": "突破曲線",
+    "definition_cht": "指與「突破曲線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breakthrough_curve"
+  },
+  {
+    "english": "breakup",
+    "traditional_chinese": "拆散",
+    "definition_cht": "指與「拆散」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breakup"
+  },
+  {
+    "english": "breakup season",
+    "traditional_chinese": "分手季節",
+    "definition_cht": "指與「分手季節」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breakup_season"
+  },
+  {
+    "english": "breakwater",
+    "traditional_chinese": "防波堤",
+    "definition_cht": "指與「防波堤」相關的水團、水體性質或水文條件，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breakwater"
+  },
+  {
+    "english": "bred modes",
+    "traditional_chinese": "繁殖模式",
+    "definition_cht": "指與「繁殖模式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bred_modes"
+  },
+  {
+    "english": "bred vectors",
+    "traditional_chinese": "繁殖載體",
+    "definition_cht": "指與「繁殖載體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bred_vectors"
+  },
+  {
+    "english": "breeding method",
+    "traditional_chinese": "養殖方法",
+    "definition_cht": "指處理「養殖方法」相關問題的分析、估算、分類或推算方法。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breeding_method"
+  },
+  {
+    "english": "breeze",
+    "traditional_chinese": "微風",
+    "definition_cht": "指與「微風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breeze"
+  },
+  {
+    "english": "bremsstrahlung",
+    "traditional_chinese": "軔致輻射",
+    "definition_cht": "指與「軔致輻射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bremsstrahlung"
+  },
+  {
+    "english": "brenner",
+    "traditional_chinese": "布倫納",
+    "definition_cht": "指與「布倫納」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brenner"
+  },
+  {
+    "english": "breva",
+    "traditional_chinese": "布雷瓦",
+    "definition_cht": "指與「布雷瓦」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/breva"
+  },
+  {
+    "english": "Brewer–Dobson circulation",
+    "traditional_chinese": "布魯爾-多布森循環",
+    "definition_cht": "指與「布魯爾-多布森循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brewer%E2%80%93Dobson_circulation"
+  },
+  {
+    "english": "Brewster point",
+    "traditional_chinese": "布魯斯特角",
+    "definition_cht": "指與「布魯斯特角」相關的特徵點、基準點或觀測辨識位置，用於描述幾何、光學或動力結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brewster_point"
+  },
+  {
+    "english": "brickfielder",
+    "traditional_chinese": "磚田工",
+    "definition_cht": "指與「磚田工」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brickfielder"
+  },
+  {
+    "english": "bridled-cup anemometer",
+    "traditional_chinese": "韁繩杯風速計",
+    "definition_cht": "用於量測「韁繩杯風速計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bridled-cup_anemometer"
+  },
+  {
+    "english": "briefing",
+    "traditional_chinese": "簡報",
+    "definition_cht": "指與「簡報」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/briefing"
+  },
+  {
+    "english": "Brier score",
+    "traditional_chinese": "布賴爾分數",
+    "definition_cht": "指與「布賴爾分數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brier_score"
+  },
+  {
+    "english": "bright band",
+    "traditional_chinese": "亮帶",
+    "definition_cht": "指與「亮帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bright_band"
+  },
+  {
+    "english": "bright segment",
+    "traditional_chinese": "亮段",
+    "definition_cht": "指與「亮段」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bright_segment"
+  },
+  {
+    "english": "bright sunshine",
+    "traditional_chinese": "明亮的陽光",
+    "definition_cht": "指與「明亮的陽光」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bright_sunshine"
+  },
+  {
+    "english": "Brightness",
+    "traditional_chinese": "亮度",
+    "definition_cht": "指與「亮度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brightness"
+  },
+  {
+    "english": "brightness temperature",
+    "traditional_chinese": "亮溫",
+    "definition_cht": "指與「亮溫」相關的溫度量、溫度分布或其代表性特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brightness_temperature"
+  },
+  {
+    "english": "brine",
+    "traditional_chinese": "鹽水",
+    "definition_cht": "指與「鹽水」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brine"
+  },
+  {
+    "english": "brine slush",
+    "traditional_chinese": "鹽水泥",
+    "definition_cht": "指與「鹽水泥」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brine_slush"
+  },
+  {
+    "english": "brisa",
+    "traditional_chinese": "布里薩",
+    "definition_cht": "指與「布里薩」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brisa"
+  },
+  {
+    "english": "brisote",
+    "traditional_chinese": "布里索特",
+    "definition_cht": "指與「布里索特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brisote"
+  },
+  {
+    "english": "British thermal unit",
+    "traditional_chinese": "英國熱量單位",
+    "definition_cht": "指與「英國熱量單位」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/British_thermal_unit"
+  },
+  {
+    "english": "broad-crested weir",
+    "traditional_chinese": "寬頂堰",
+    "definition_cht": "指與「寬頂堰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/broad-crested_weir"
+  },
+  {
+    "english": "broadband radiation",
+    "traditional_chinese": "寬頻輻射",
+    "definition_cht": "指與「寬頻輻射」相關的輻射過程、能量通量或電磁傳播效應。",
+    "source_url": "https://glossary.ametsoc.org/wiki/broadband_radiation"
+  },
+  {
+    "english": "Brocken spectre",
+    "traditional_chinese": "布羅肯幽靈",
+    "definition_cht": "指與「布羅肯幽靈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brocken_spectre"
+  },
+  {
+    "english": "broeboe",
+    "traditional_chinese": "布羅博",
+    "definition_cht": "指與「布羅博」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/broeboe"
+  },
+  {
+    "english": "broken",
+    "traditional_chinese": "破碎的",
+    "definition_cht": "指與「破碎的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/broken"
+  },
+  {
+    "english": "bromine compounds",
+    "traditional_chinese": "溴化合物",
+    "definition_cht": "指與「溴化合物」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bromine_compounds"
+  },
+  {
+    "english": "brontides",
+    "traditional_chinese": "布龍泰德",
+    "definition_cht": "指與「布龍泰德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brontides"
+  },
+  {
+    "english": "brontometer",
+    "traditional_chinese": "聲波計",
+    "definition_cht": "用於量測「聲波計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brontometer"
+  },
+  {
+    "english": "brown cloud",
+    "traditional_chinese": "棕色雲",
+    "definition_cht": "指與「棕色雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brown_cloud"
+  },
+  {
+    "english": "brown snow",
+    "traditional_chinese": "棕色雪",
+    "definition_cht": "指與「棕色雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brown_snow"
+  },
+  {
+    "english": "Brownian motion",
+    "traditional_chinese": "布朗運動",
+    "definition_cht": "指與「布朗運動」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brownian_motion"
+  },
+  {
+    "english": "Brownian rotation",
+    "traditional_chinese": "布朗旋轉",
+    "definition_cht": "指與「布朗旋轉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brownian_rotation"
+  },
+  {
+    "english": "brubu",
+    "traditional_chinese": "布魯布",
+    "definition_cht": "指與「布魯布」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brubu"
+  },
+  {
+    "english": "Brückner cycle",
+    "traditional_chinese": "布魯克納循環",
+    "definition_cht": "指與「布魯克納循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Br%C3%BCckner_cycle"
+  },
+  {
+    "english": "brughierous",
+    "traditional_chinese": "布魯吉魯斯",
+    "definition_cht": "指與「布魯吉魯斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/brughierous"
+  },
+  {
+    "english": "bruma",
+    "traditional_chinese": "布魯馬",
+    "definition_cht": "指與「布魯馬」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bruma"
+  },
+  {
+    "english": "Brunt-Väisälä frequency",
+    "traditional_chinese": "布倫特-維薩拉頻率",
+    "definition_cht": "指與「布倫特-維薩拉頻率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Brunt-V%C3%A4is%C3%A4l%C3%A4_frequency"
+  },
+  {
+    "english": "brüscha",
+    "traditional_chinese": "布魯沙",
+    "definition_cht": "指與「布魯沙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/br%C3%BCscha"
+  },
+  {
+    "english": "bryochore",
+    "traditional_chinese": "苔蘚植物",
+    "definition_cht": "指與「苔蘚植物」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bryochore"
+  },
+  {
+    "english": "BT",
+    "traditional_chinese": "BT",
+    "definition_cht": "「BT」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/BT"
+  },
+  {
+    "english": "bubble bursting",
+    "traditional_chinese": "泡沫破裂",
+    "definition_cht": "指與「泡沫破裂」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bubble_bursting"
+  },
+  {
+    "english": "bubble gauge",
+    "traditional_chinese": "氣泡計",
+    "definition_cht": "指與「氣泡計」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bubble_gauge"
+  },
+  {
+    "english": "bubble high",
+    "traditional_chinese": "泡沫高",
+    "definition_cht": "指與「泡沫高」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bubble_high"
+  },
+  {
+    "english": "bubble nucleus",
+    "traditional_chinese": "氣泡核",
+    "definition_cht": "指與「氣泡核」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bubble_nucleus"
+  },
+  {
+    "english": "bubbles",
+    "traditional_chinese": "氣泡",
+    "definition_cht": "指與「氣泡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bubbles"
+  },
+  {
+    "english": "bubbly ice",
+    "traditional_chinese": "氣泡冰",
+    "definition_cht": "指與「氣泡冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bubbly_ice"
+  },
+  {
+    "english": "bucket temperature",
+    "traditional_chinese": "桶溫度",
+    "definition_cht": "指與「桶溫度」相關的溫度量、溫度分布或其代表性特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bucket_temperature"
+  },
+  {
+    "english": "bucket thermometer",
+    "traditional_chinese": "桶式溫度計",
+    "definition_cht": "用於量測「桶式溫度計」相關物理量的儀器或量測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bucket_thermometer"
+  },
+  {
+    "english": "Buckingham Pi theory",
+    "traditional_chinese": "白金漢圓周率理論",
+    "definition_cht": "指與「白金漢圓周率理論」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Buckingham_Pi_theory"
+  },
+  {
+    "english": "budget year",
+    "traditional_chinese": "預算年度",
+    "definition_cht": "指以年為尺度定義的「預算年度」相關統計、收支或氣候期間概念。",
+    "source_url": "https://glossary.ametsoc.org/wiki/budget_year"
+  },
+  {
+    "english": "budgets of atmospheric species",
+    "traditional_chinese": "大氣物種預算",
+    "definition_cht": "指與「大氣物種預算」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/budgets_of_atmospheric_species"
+  },
+  {
+    "english": "buffer factor",
+    "traditional_chinese": "緩衝因子",
+    "definition_cht": "指與「緩衝因子」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buffer_factor"
+  },
+  {
+    "english": "BUFR",
+    "traditional_chinese": "緩衝速率",
+    "definition_cht": "「BUFR」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/BUFR"
+  },
+  {
+    "english": "buildup index",
+    "traditional_chinese": "累積指數",
+    "definition_cht": "用於量化「累積指數」相關狀態、程度或風險的指標。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buildup_index"
+  },
+  {
+    "english": "bulk average",
+    "traditional_chinese": "批量平均",
+    "definition_cht": "指與「批量平均」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_average"
+  },
+  {
+    "english": "bulk heat flux",
+    "traditional_chinese": "體熱通量",
+    "definition_cht": "指與「體熱通量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_heat_flux"
+  },
+  {
+    "english": "bulk method",
+    "traditional_chinese": "批量法",
+    "definition_cht": "指處理「批量法」相關問題的分析、估算、分類或推算方法。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_method"
+  },
+  {
+    "english": "bulk mixed layer model",
+    "traditional_chinese": "體混合層模型",
+    "definition_cht": "指與「體混合層模型」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_mixed_layer_model"
+  },
+  {
+    "english": "bulk modulus",
+    "traditional_chinese": "體積模量",
+    "definition_cht": "指與「體積模量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_modulus"
+  },
+  {
+    "english": "bulk Richardson number",
+    "traditional_chinese": "散裝理查森數",
+    "definition_cht": "指與「散裝理查森數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_Richardson_number"
+  },
+  {
+    "english": "bulk stable boundary layer growth",
+    "traditional_chinese": "體穩定邊界層生長",
+    "definition_cht": "指與「體穩定邊界層生長」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_stable_boundary_layer_growth"
+  },
+  {
+    "english": "bulk transfer coefficient",
+    "traditional_chinese": "體積傳遞係數",
+    "definition_cht": "表示「體積傳遞係數」相關強度、效率或比例關係的係數，常作為經驗公式或理論方程中的參數。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_transfer_coefficient"
+  },
+  {
+    "english": "bulk transfer law",
+    "traditional_chinese": "批量轉移法",
+    "definition_cht": "「批量轉移法」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_transfer_law"
+  },
+  {
+    "english": "bulk turbulence scale",
+    "traditional_chinese": "整體湍流尺度",
+    "definition_cht": "指與「整體湍流尺度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bulk_turbulence_scale"
+  },
+  {
+    "english": "bull's eye squall",
+    "traditional_chinese": "牛眼暴風雨",
+    "definition_cht": "指與「牛眼暴風雨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bull%27s_eye_squall"
+  },
+  {
+    "english": "bummock",
+    "traditional_chinese": "笨蛋",
+    "definition_cht": "指與「笨蛋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bummock"
+  },
+  {
+    "english": "bumpiness",
+    "traditional_chinese": "顛簸",
+    "definition_cht": "指與「顛簸」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bumpiness"
+  },
+  {
+    "english": "Buoy",
+    "traditional_chinese": "浮標",
+    "definition_cht": "指與「浮標」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Buoy"
+  },
+  {
+    "english": "buoyancy",
+    "traditional_chinese": "浮力",
+    "definition_cht": "指與「浮力」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy"
+  },
+  {
+    "english": "buoyancy flux",
+    "traditional_chinese": "浮力通量",
+    "definition_cht": "指與「浮力通量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_flux"
+  },
+  {
+    "english": "buoyancy force",
+    "traditional_chinese": "浮力",
+    "definition_cht": "指與「浮力」相關的力學作用或風力等級概念，用於描述流體或物體所受作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_force"
+  },
+  {
+    "english": "buoyancy frequency",
+    "traditional_chinese": "浮力頻率",
+    "definition_cht": "指與「浮力頻率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_frequency"
+  },
+  {
+    "english": "buoyancy length scale",
+    "traditional_chinese": "浮力長度刻度",
+    "definition_cht": "指與「浮力長度刻度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_length_scale"
+  },
+  {
+    "english": "buoyancy subrange",
+    "traditional_chinese": "浮力子範圍",
+    "definition_cht": "指與「浮力子範圍」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_subrange"
+  },
+  {
+    "english": "buoyancy velocity",
+    "traditional_chinese": "浮力速度",
+    "definition_cht": "指與「浮力速度」相關的速度量，可描述流體、波動或質點的運動快慢與方向。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_velocity"
+  },
+  {
+    "english": "buoyancy wave",
+    "traditional_chinese": "浮力波",
+    "definition_cht": "指與「浮力波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_wave"
+  },
+  {
+    "english": "buoyancy wavenumber",
+    "traditional_chinese": "浮力波數",
+    "definition_cht": "指與「浮力波數」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_wavenumber"
+  },
+  {
+    "english": "buoyant instability",
+    "traditional_chinese": "浮力不穩定性",
+    "definition_cht": "指與「浮力不穩定性」相關的不穩定機制，可導致擾動放大、對流發展或流場轉換。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyant_instability"
+  },
+  {
+    "english": "buoyant subrange",
+    "traditional_chinese": "浮力子範圍",
+    "definition_cht": "指與「浮力子範圍」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buoyant_subrange"
+  },
+  {
+    "english": "buran",
+    "traditional_chinese": "布蘭",
+    "definition_cht": "指與「布蘭」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buran"
+  },
+  {
+    "english": "burga",
+    "traditional_chinese": "布林加",
+    "definition_cht": "指與「布林加」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/burga"
+  },
+  {
+    "english": "Burger number",
+    "traditional_chinese": "漢堡號",
+    "definition_cht": "指與「漢堡號」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Burger_number"
+  },
+  {
+    "english": "Burger's vortex",
+    "traditional_chinese": "漢堡的漩渦",
+    "definition_cht": "指與「漢堡的漩渦」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Burger%27s_vortex"
+  },
+  {
+    "english": "buria",
+    "traditional_chinese": "布里亞",
+    "definition_cht": "指與「布里亞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/buria"
+  },
+  {
+    "english": "Burn area",
+    "traditional_chinese": "燒傷面積",
+    "definition_cht": "指與「燒傷面積」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Burn_area"
+  },
+  {
+    "english": "burn off",
+    "traditional_chinese": "燒掉",
+    "definition_cht": "指與「燒掉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/burn_off"
+  },
+  {
+    "english": "burning index",
+    "traditional_chinese": "燃燒指數",
+    "definition_cht": "用於量化「燃燒指數」相關狀態、程度或風險的指標。",
+    "source_url": "https://glossary.ametsoc.org/wiki/burning_index"
+  },
+  {
+    "english": "burraxka silch",
+    "traditional_chinese": "布拉克斯卡西奇",
+    "definition_cht": "指與「布拉克斯卡西奇」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/burraxka_silch"
+  },
+  {
+    "english": "burster",
+    "traditional_chinese": "爆裂者",
+    "definition_cht": "指與「爆裂者」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/burster"
+  },
+  {
+    "english": "bush",
+    "traditional_chinese": "襯套",
+    "definition_cht": "指與「襯套」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bush"
+  },
+  {
+    "english": "business as usual",
+    "traditional_chinese": "一切如常",
+    "definition_cht": "指與「一切如常」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/business_as_usual"
+  },
+  {
+    "english": "Businger–Dyer relationship",
+    "traditional_chinese": "布辛格-戴爾關係",
+    "definition_cht": "指與「布辛格-戴爾關係」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Businger%E2%80%93Dyer_relationship"
+  },
+  {
+    "english": "butadiene",
+    "traditional_chinese": "丁二烯",
+    "definition_cht": "指與「丁二烯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/butadiene"
+  },
+  {
+    "english": "Buys Ballot's law",
+    "traditional_chinese": "買選票定律",
+    "definition_cht": "「買選票定律」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Buys_Ballot%27s_law"
+  },
+  {
+    "english": "BWER",
+    "traditional_chinese": "有界弱回波區",
+    "definition_cht": "雷達強對流回波中被高反射率區包圍的弱回波區，通常對應上升氣流強盛並可能與冰雹生成有關。",
+    "source_url": "https://glossary.ametsoc.org/wiki/BWER"
+  }
+]

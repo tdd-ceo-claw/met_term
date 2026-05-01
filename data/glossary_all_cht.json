@@ -4729,122 +4729,122 @@
   },
   {
     "english": "backtracking",
-    "traditional_chinese": "回溯",
-    "definition_cht": "指與「回溯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "回溯追蹤",
+    "definition_cht": "在軌跡分析、污染傳輸或來源判識中，沿時間反向追蹤氣塊、粒子或事件路徑的方法，用以推估其可能來源區與先前移動歷程。",
     "source_url": "https://glossary.ametsoc.org/wiki/backtracking"
   },
   {
     "english": "backward chaining",
-    "traditional_chinese": "向後連結",
-    "definition_cht": "指與「向後連結」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "向後鏈結",
+    "definition_cht": "規則式推論系統中的一種目標導向推理方法，先提出假設，再沿規則反向檢驗所需條件是否成立；可用於天氣診斷與預報專家系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/backward_chaining"
   },
   {
     "english": "backward difference",
-    "traditional_chinese": "後向差異",
-    "definition_cht": "指「後向差異」所代表的差分、差值或離散近似形式，常見於數值分析與資料處理。",
+    "traditional_chinese": "後向差分",
+    "definition_cht": "有限差分的一種，利用某點目前值與前一離散點之差來近似導數或變化率，常用於數值模式與資料離散化計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/backward_difference"
   },
   {
     "english": "backward scattering coefficient",
     "traditional_chinese": "後向散射係數",
-    "definition_cht": "表示「後向散射係數」相關強度、效率或比例關係的係數，常作為經驗公式或理論方程中的參數。",
+    "definition_cht": "表示介質或目標把入射輻射散射回來源方向或後向半球之能力的係數；於雷達遙測與海洋光學中常用來表徵回波或光學反散射強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/backward_scattering_coefficient"
   },
   {
     "english": "backwash",
-    "traditional_chinese": "反沖洗",
-    "definition_cht": "指與「反沖洗」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "回沖流",
+    "definition_cht": "波浪上衝後沿海灘坡面回流入海的水流，為 swash 的反向階段，會影響沿岸輸砂與灘面地形變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/backwash"
   },
   {
     "english": "backwater",
     "traditional_chinese": "壅水",
-    "definition_cht": "因下游水位抬升、阻塞或潮汐頂托，使上游水流減速並水位壅高的現象。",
+    "definition_cht": "河川或渠道水流因下游阻塞、潮汐頂托或下游洪水抬升而受阻減速，致使上游水位壅高的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/backwater"
   },
   {
     "english": "backwater curve",
     "traditional_chinese": "壅水曲線",
-    "definition_cht": "描述壅水條件下水面線沿程變化的曲線，用於明渠水力分析與河川回水計算。",
+    "definition_cht": "描述壅水條件下水面高程沿流程變化的縱剖面曲線，通常出現在阻礙物上游，常用於明渠水力與河川回水分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/backwater_curve"
   },
   {
     "english": "Baffin Current",
-    "traditional_chinese": "巴芬電流",
-    "definition_cht": "指與「巴芬電流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "traditional_chinese": "巴芬海流",
+    "definition_cht": "巴芬灣內向南流動的冷海流，輸送來自北冰洋的低鹽度海水，對北大西洋淡水收支、海冰分布與區域海洋環流具有影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Baffin_Current"
   },
   {
     "english": "baffle",
     "traditional_chinese": "擋板",
-    "definition_cht": "指與「擋板」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "設置於儀器、管道或量測系統中的隔板或導流板，用於改變流向、抑制擾動、阻隔輻射或減少飛濺，以提升觀測與操作穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/baffle"
   },
   {
     "english": "Bagyo",
-    "traditional_chinese": "巴吉奧",
-    "definition_cht": "指與「巴吉奧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "巴焦（菲律賓稱呼）",
+    "definition_cht": "菲律賓對強烈熱帶氣旋的稱呼，常泛指造成顯著風雨影響的颱風或熱帶風暴；語源常追溯至豪雨著稱的碧瑤（Baguio）。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bagyo"
   },
   {
     "english": "bai",
-    "traditional_chinese": "白",
-    "definition_cht": "指與「白」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "白霾",
+    "definition_cht": "中國與日本春、秋季曾見的一種含細黃塵之霧狀現象；鬆散土塵被風揚起至高空後吸收水氣，再以帶色薄霧或細塵沉降，易在地表留下黃色粉塵。",
     "source_url": "https://glossary.ametsoc.org/wiki/bai"
   },
   {
     "english": "bai-u",
     "traditional_chinese": "梅雨",
-    "definition_cht": "東亞初夏季節性持續降雨期，日本稱梅雨，與鋒面滯留及季風環流配置密切相關。",
+    "definition_cht": "東亞初夏主要雨季之一，日本稱 bai-u，與中國梅雨、韓國 changma 相近，常由近乎滯留的鋒面與季風環流共同造成持續性降雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/bai-u"
   },
   {
     "english": "balance",
     "traditional_chinese": "平衡",
-    "definition_cht": "指與「平衡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指系統內各作用力、通量或收支項彼此抵銷而達近似穩定的狀態；在氣象中常見於地轉平衡、靜力平衡與能量平衡等概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/balance"
   },
   {
     "english": "balance equation",
     "traditional_chinese": "平衡方程",
-    "definition_cht": "描述大氣或海洋中各物理量在力學、熱力或質量收支下維持平衡關係的方程式。",
+    "definition_cht": "動力氣象中的一類診斷方程，用以描述大尺度流場中壓力場、風場與曲率等量之近似平衡關係；常可視為散度方程在忽略部分小項後的形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/balance_equation"
   },
   {
     "english": "balance meter",
-    "traditional_chinese": "平衡計",
-    "definition_cht": "用於量測「平衡計」相關物理量的儀器或量測裝置。",
+    "traditional_chinese": "淨輻射計",
+    "definition_cht": "量測平面上下兩側半球輻射收支差值的輻射儀器，可同時反映入射與離開表面的短波、長波輻射淨效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/balance_meter"
   },
   {
     "english": "balance year",
     "traditional_chinese": "平衡年",
-    "definition_cht": "指以年為尺度定義的「平衡年」相關統計、收支或氣候期間概念。",
+    "definition_cht": "冰川質量平衡研究中，兩次淨平衡極小值之間的期間，大致相當於一個夏末到下一個夏末，用於統計年度累積與消融收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/balance_year"
   },
   {
     "english": "Bali wind",
-    "traditional_chinese": "峇裡島風",
-    "definition_cht": "指與「峇裡島風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "traditional_chinese": "峇里風",
+    "definition_cht": "爪哇島東端一帶對強勁東風的地方性名稱，屬印尼群島區域風系中的在地風名。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bali_wind"
   },
   {
     "english": "ball lightning",
     "traditional_chinese": "球狀閃電",
-    "definition_cht": "外觀近似發光球體、持續時間較一般閃電為長的罕見放電現象，其形成機制尚未完全確定。",
+    "definition_cht": "罕見且隨機出現的發光球狀放電現象，常在近地面空氣中漂浮或移動，持續時間通常較一般閃電長，其形成機制仍未完全釐清。",
     "source_url": "https://glossary.ametsoc.org/wiki/ball_lightning"
   },
   {
     "english": "balling",
-    "traditional_chinese": "球",
-    "definition_cht": "指與「球」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "滾雪球化",
+    "definition_cht": "指鬆雪在適當溫度、濕度與風力或坡度作用下，沿地表滾動並逐步黏聚成球狀或中空圓筒狀雪體的形成過程，常見於 snow rollers。",
     "source_url": "https://glossary.ametsoc.org/wiki/balling"
   },
   {
     "english": "ballistic density",
     "traditional_chinese": "彈道密度",
-    "definition_cht": "指與「彈道密度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "與彈道飛行體受空氣阻力減速特性相關的參數，用於描述物體在大氣中運動時其質量、外形與阻力效應所表現出的綜合慣性特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/ballistic_density"
   },
   {
