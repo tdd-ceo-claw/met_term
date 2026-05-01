@@ -4010,13 +4010,13 @@
   {
     "english": "atmospheric refraction",
     "traditional_chinese": "大氣折射",
-    "definition_cht": "光線、無線電波或其他電磁波穿越大氣時，因折射率隨高度變化而偏折的現象。",
+    "definition_cht": "光波、無線電波等電磁波穿越大氣時，因折射率隨高度而變化所產生的偏折現象；未特別說明時，通常即指此類電磁波之大氣折射。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_refraction"
   },
   {
     "english": "atmospheric region",
-    "traditional_chinese": "大氣區域",
-    "definition_cht": "依特定動力、熱力、化學或地理條件所界定的大氣空間範圍。",
+    "traditional_chinese": "大氣層區",
+    "definition_cht": "地球大氣中若干層狀區域之一，常與 atmospheric shell、atmospheric layer 同義；實務上多依溫度隨高度的分布來區分各層。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_region"
   },
   {
@@ -4034,13 +4034,13 @@
   {
     "english": "atmospheric shell",
     "traditional_chinese": "大氣殼層",
-    "definition_cht": "環繞天體之外、具有一定厚度與層結特徵的氣體包層。",
+    "definition_cht": "地球大氣中的某一層狀殼層，常與 atmospheric region、atmospheric layer 同義；通常依溫度隨高度的分布來劃分，如對流層、平流層等。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_shell"
   },
   {
     "english": "atmospheric sounding",
     "traditional_chinese": "大氣探空",
-    "definition_cht": "利用探空儀、雷達、遙測或其他手段量測大氣垂直結構之觀測作業。",
+    "definition_cht": "對大氣柱垂直分布的觀測或剖面量測，用以取得氣壓、溫度、濕度、風等要素隨高度或氣壓層的變化；可藉探空氣球、遙測或衛星等方式進行。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_sounding"
   },
   {
@@ -4064,7 +4064,7 @@
   {
     "english": "atmospheric water budget",
     "traditional_chinese": "大氣水分收支",
-    "definition_cht": "在一定區域與時間內，大氣中水汽含量、水平輸送、蒸發與降水之間的平衡關係。",
+    "definition_cht": "描述一定區域與時段內大氣水分收支的平衡關係，主要涉及大氣內水汽儲存變化、水平水汽通量輻合／輻散，以及地表蒸發與降水之間的對應。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_water_budget"
   },
   {
@@ -4082,13 +4082,13 @@
   {
     "english": "atmospherics",
     "traditional_chinese": "大氣電干擾",
-    "definition_cht": "由雷電等自然電現象產生的無線電雜訊或電磁干擾。",
+    "definition_cht": "主要由雷暴閃電放電所產生的射頻電磁輻射與無線電雜訊，常在特定頻段表現為爆裂狀或持續性的靜電干擾。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospherics"
   },
   {
     "english": "ATN",
-    "traditional_chinese": "高空測報網",
-    "definition_cht": "可指 atmospheric telecommunication network 或其他作業系統縮寫，需依上下文判讀其實際意義。",
+    "traditional_chinese": "航空電信網",
+    "definition_cht": "Aeronautical Telecommunication Network 的縮寫，指供航空資料通信使用的國際航空電信網路架構，可支援地空、空空與地面系統間之數位資料交換，並可承載作業氣象（OPMET）等航空氣象資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/ATN"
   },
   {
@@ -4100,13 +4100,13 @@
   {
     "english": "ATS",
     "traditional_chinese": "應用技術衛星",
-    "definition_cht": "Applications Technology Satellite 的縮寫，為美國早期之應用技術與氣象相關實驗衛星系列。",
+    "definition_cht": "Applications Technology Satellite 的縮寫，指 NASA 早期應用技術衛星系列，用於測試通訊、氣象與導航相關技術，部分任務亦傳送雲圖與其他氣象資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/ATS"
   },
   {
     "english": "attached thermometer",
     "traditional_chinese": "附屬溫度計",
-    "definition_cht": "裝設於其他量測儀器上，用以校正、補償或監控儀器溫度狀態的溫度計。",
+    "definition_cht": "裝設於儀器本體上的溫度計，用以量得儀器操作溫度並進行讀值修正或溫度補償，常見於具有顯著溫度係數的儀器，如水銀氣壓計。",
     "source_url": "https://glossary.ametsoc.org/wiki/attached_thermometer"
   },
   {
@@ -4118,13 +4118,13 @@
   {
     "english": "attenuation",
     "traditional_chinese": "衰減",
-    "definition_cht": "波動、訊號或輻射在傳播過程中因吸收、散射、阻尼或幾何擴散而強度減弱的現象。",
+    "definition_cht": "波動、訊號或輻射在傳播過程中，因介質吸收、散射等作用而使強度逐漸減弱的現象；在雷達與遙測中常指電磁能量沿路徑的衰耗。",
     "source_url": "https://glossary.ametsoc.org/wiki/attenuation"
   },
   {
     "english": "Attenuation coefficient",
     "traditional_chinese": "衰減係數",
-    "definition_cht": "定量表示波或輻射在介質中衰減速率的係數。",
+    "definition_cht": "表示輻射或平面波在介質中沿傳播路徑每單位長度所發生相對衰減量的係數；於光學頻段亦常稱為消光係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Attenuation_coefficient"
   },
   {
