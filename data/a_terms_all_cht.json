@@ -3050,121 +3050,121 @@
   {
     "english": "Antilles Current",
     "traditional_chinese": "安地列斯洋流",
-    "definition_cht": "西北大西洋安地列斯群島外海沿岸流動的暖流，為北大西洋副熱帶環流的一部分。",
+    "definition_cht": "北大西洋副熱帶環流的一支暖性表層洋流，沿大安地列斯群島北側向西北流動，並與灣流系統相連。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antilles_Current"
   },
   {
     "english": "antilog",
     "traditional_chinese": "反對數",
-    "definition_cht": "與某對數值相對應的原數，即對數運算的逆運算結果。",
+    "definition_cht": "對數運算的逆運算；已知某數的對數值時，其反對數即為對應的原數。",
     "source_url": "https://glossary.ametsoc.org/wiki/antilog"
   },
   {
     "english": "Antineutron",
     "traditional_chinese": "反中子",
-    "definition_cht": "中子的反粒子，具有與中子相同質量但相反的重子數等量子性質。",
+    "definition_cht": "中子的反粒子，質量與中子相同、淨電荷為零，但重子數與磁矩等量子性質符號相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antineutron"
   },
   {
     "english": "Antiparticle",
     "traditional_chinese": "反粒子",
-    "definition_cht": "與某基本粒子質量相同而電荷及其他量子數相反的粒子。",
+    "definition_cht": "與對應粒子質量相同，且電荷、重子數、磁矩等相關量子數符號相反的粒子；部分中性粒子可為自身的反粒子。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antiparticle"
   },
   {
     "english": "antipleion",
-    "traditional_chinese": "反普列昂現象",
-    "definition_cht": "與普列昂現象相反的特殊氣象光學或輻射觀測表徵，使用上多依原始專門文獻語境界定。",
+    "traditional_chinese": "負距平中心",
+    "definition_cht": "某一氣象要素出現顯著負距平的中心區域；在氣候或天氣分析中，指該要素值明顯低於基準平均的核心位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/antipleion"
   },
   {
     "english": "antiproton",
     "traditional_chinese": "反質子",
-    "definition_cht": "質子的反粒子，帶一單位負電荷而質量與質子相同。",
+    "definition_cht": "質子的反粒子，質量與質子相同，帶一單位負電荷，且磁矩方向與其他相關量子數與質子相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/antiproton"
   },
   {
     "english": "antisolar point",
     "traditional_chinese": "反日點",
-    "definition_cht": "天空中與太陽方向相對、位於觀測者視野球面上正對太陽的位置，為多種大氣光象的幾何基準點。",
+    "definition_cht": "天球上自觀測者位置看去與太陽方向正相反的點，位於通過太陽與觀測者連線的延長方向上，為彩虹、曙暮光等光象的重要幾何基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/antisolar_point"
   },
   {
     "english": "antitrades",
     "traditional_chinese": "反信風",
-    "definition_cht": "指熱帶對流層上部與信風方向相反的高空氣流，通常自赤道附近流向副熱帶，為哈德里環流上層分支的一部分。",
+    "definition_cht": "位於信風上方、與信風方向相反的高空氣流，傳統上指熱帶上空由赤道向較高緯輸送的回流，屬哈德里環流上層分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/antitrades"
   },
   {
     "english": "antitwilight arch",
     "traditional_chinese": "反曙暮光弧",
-    "definition_cht": "出現在與太陽相對方向地平附近的淡色弧狀光帶，由大氣散射造成，常見於曙暮光時段並位於地球影之上。",
+    "definition_cht": "曙暮光時出現在反太陽方向地平線上方的狹長粉紅或淡紫色光帶，又稱金星帶，通常位於地球影上方。",
     "source_url": "https://glossary.ametsoc.org/wiki/antitwilight_arch"
   },
   {
     "english": "Anvil",
-    "traditional_chinese": "鐵砧雲頂",
-    "definition_cht": "指強烈積雨雲頂部在接近對流層頂時向下風方向水平擴展而形成的砧狀雲體。",
+    "traditional_chinese": "砧狀雲頂",
+    "definition_cht": "雷暴積雨雲上部在接近對流層頂後受穩定層抑制而向外平展形成的砧狀頂部。",
     "source_url": "https://glossary.ametsoc.org/wiki/Anvil"
   },
   {
     "english": "anvil cloud",
     "traditional_chinese": "砧狀雲",
-    "definition_cht": "指積雨雲上部受穩定層抑制而向外平展形成的砧形雲區，常與深對流及雷暴活動相關。",
+    "definition_cht": "成熟積雨雲上部向外擴展形成的砧形雲體，主要由冰晶組成，常對應 cumulonimbus capillatus 的上層雲區。",
     "source_url": "https://glossary.ametsoc.org/wiki/anvil_cloud"
   },
   {
     "english": "AP",
-    "traditional_chinese": "假性回波",
-    "definition_cht": "為 radar anomalous propagation 的縮寫，指雷達波因異常折射而偵測到地物或非降水目標所產生的虛假回波。",
+    "traditional_chinese": "異常傳播假回波",
+    "definition_cht": "anomalous propagation 的縮寫。指雷達波因溫度逆增等造成超折射或其他異常折射，導致地物或非降水目標被誤顯示為降水回波的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/AP"
   },
   {
     "english": "Ap index",
     "traditional_chinese": "Ap 地磁指數",
-    "definition_cht": "由全球多個觀測站 Kp 指數換算而得的行星尺度地磁活動指數，用以表示某日地磁擾動的平均強度。",
+    "definition_cht": "由全球多個地磁觀測站的 3 小時 ap 指數換算並取日平均所得的行星尺度地磁活動指數，用以表示每日整體地磁擾動強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ap_index"
   },
   {
     "english": "apaapaa",
     "traditional_chinese": "阿帕阿帕風",
-    "definition_cht": "夏威夷地區對特定局地風的傳統名稱，實際性質與風向須依地方用法與地形背景判定。",
+    "definition_cht": "夏威夷大島 Kohala 一帶的地方風名，指當地北岸或高地懸崖附近吹拂的強風。",
     "source_url": "https://glossary.ametsoc.org/wiki/apaapaa"
   },
   {
     "english": "aperiodic",
     "traditional_chinese": "非週期的",
-    "definition_cht": "指現象或訊號不具有固定重複週期，其變化不遵循規則循環。",
+    "definition_cht": "指現象、訊號或變化不以固定週期重複出現，亦即不具規則性的週期循環。",
     "source_url": "https://glossary.ametsoc.org/wiki/aperiodic"
   },
   {
     "english": "aperture",
     "traditional_chinese": "孔徑",
-    "definition_cht": "儀器或天線接收、發射能量的有效開口尺寸，會影響解析度、方向性與通量。",
+    "definition_cht": "光學、天線或雷達系統用以接收或發射能量的有效開口尺寸；其大小會影響解析度、方向性與可接收能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/aperture"
   },
   {
     "english": "aperwind",
-    "traditional_chinese": "乾熱山風",
-    "definition_cht": "南非地區對一種乾燥、溫暖且由內陸吹向海岸的離岸風之名稱，常伴隨焚風式增溫與低濕度。",
+    "traditional_chinese": "融雪焚風",
+    "definition_cht": "瑞士德語用語，指能使積雪消融的暖乾焚風或解凍風。",
     "source_url": "https://glossary.ametsoc.org/wiki/aperwind"
   },
   {
     "english": "aphelion",
     "traditional_chinese": "遠日點",
-    "definition_cht": "地球或其他天體在繞太陽運行軌道上距太陽最遠的位置。",
+    "definition_cht": "行星、彗星或其他繞日天體在軌道上距離太陽最遠的位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/aphelion"
   },
   {
     "english": "Apheliotes",
-    "traditional_chinese": "東風",
-    "definition_cht": "古典氣象中對東風的名稱，用於傳統風向分類。",
+    "traditional_chinese": "阿斐利俄忒斯風",
+    "definition_cht": "古希臘對東風的名稱，字義為「自太陽升起方向吹來」；傳說中常被描述為帶來輕微陣雨的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Apheliotes"
   },
   {
     "english": "apob",
-    "traditional_chinese": "高空觀測速報",
-    "definition_cht": "一種與高空氣象觀測有關的資料或電碼縮寫，常用於航空或氣象通報；實際意義須依作業系統定義判讀。",
+    "traditional_chinese": "飛機高空觀測",
+    "definition_cht": "以裝設於飛機上的航空氣象儀在自由大氣中量測氣壓、氣溫與相對濕度的觀測；名稱源自 airplane observation，現已少用。",
     "source_url": "https://glossary.ametsoc.org/wiki/apob"
   },
   {
