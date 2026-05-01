@@ -3290,121 +3290,121 @@
   {
     "english": "aquifer",
     "traditional_chinese": "含水層",
-    "definition_cht": "具有足夠孔隙與滲透性，可儲存並傳導可利用地下水的地質層體。",
+    "definition_cht": "具有足夠孔隙與滲透性，可儲存並傳導地下水，且足以供取用的地質層體。",
     "source_url": "https://glossary.ametsoc.org/wiki/aquifer"
   },
   {
     "english": "aquifer system",
     "traditional_chinese": "含水層系統",
-    "definition_cht": "由多個含水層及其間隔水或弱透水層所組成、在水文上相互關聯的地下水系統。",
+    "definition_cht": "由多個含水層及其間的弱透水層或隔水層所構成、在水文上彼此關聯的地下水系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/aquifer_system"
   },
   {
     "english": "aquifer test",
     "traditional_chinese": "含水層試驗",
-    "definition_cht": "透過抽水、注水或觀測水位反應以估算含水層傳導係數、儲水係數等水文參數的試驗。",
+    "definition_cht": "藉由抽水、注水或其他受控擾動，並觀測水位或水頭反應，以估算含水層傳導係數、導水率與儲水係數等參數的水文試驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/aquifer_test"
   },
   {
     "english": "aquifuge",
     "traditional_chinese": "絕對隔水層",
-    "definition_cht": "既不含有可排出地下水、亦幾乎不透水的地層。",
+    "definition_cht": "既不含可釋出之地下水，且幾乎完全不具孔隙連通性，因而不能儲存或傳導地下水的地層。",
     "source_url": "https://glossary.ametsoc.org/wiki/aquifuge"
   },
   {
     "english": "aquitard",
     "traditional_chinese": "弱透水層",
-    "definition_cht": "透水性低於含水層、能延緩但非完全阻止地下水流動的地層。",
+    "definition_cht": "滲透性明顯低於含水層、僅容許少量地下水緩慢通過，因而對地下水流動具有延滯作用的地層。",
     "source_url": "https://glossary.ametsoc.org/wiki/aquitard"
   },
   {
     "english": "aracaty",
     "traditional_chinese": "阿拉卡蒂風",
-    "definition_cht": "巴西東北部沿岸地區對一種局地風的名稱，常與海陸風或區域壓力場配置有關。",
+    "definition_cht": "巴西東北部，特別是塞阿拉州一帶對地方性風或微風的名稱；在部分地區常指沿谷地吹送的夜間陸風。",
     "source_url": "https://glossary.ametsoc.org/wiki/aracaty"
   },
   {
     "english": "Arago distance",
     "traditional_chinese": "阿拉戈距",
-    "definition_cht": "大氣光學中描述偏振現象幾何位置的量，與阿拉戈中性點的位置分析有關。",
+    "definition_cht": "大氣光學中指反太陽點與阿拉戈中性點之間的角距，可作為天空偏振分布與大氣混濁度變化的指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Arago_distance"
   },
   {
     "english": "Arago point",
     "traditional_chinese": "阿拉戈中性點",
-    "definition_cht": "天空偏振場中線偏振度為零的中性點之一，通常出現在反太陽方向附近。",
+    "definition_cht": "天空偏振場中偏振度降為零的中性點之一，通常位於反太陽點上方約 20° 的鉛直圈附近，其位置會隨大氣混濁程度改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/Arago_point"
   },
   {
     "english": "Arakawa Jacobian",
     "traditional_chinese": "荒川雅可比算子",
-    "definition_cht": "數值模式中常用的離散 Jacobian 形式，可較好守恆能量與渦度，廣泛應用於大氣與海洋模式。",
+    "definition_cht": "數值模式中常用的雅可比算子有限差分離散形式，特色是在離散計算下可較好守恆能量與渦度平方，廣泛應用於大氣與海洋流體模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/Arakawa_Jacobian"
   },
   {
     "english": "arc cloud",
     "traditional_chinese": "弧雲",
-    "definition_cht": "位於雷暴冷出流前緣、呈弧形或滾軸狀的低雲，常為架狀雲或卷軸雲的一種外觀描述。",
+    "definition_cht": "由對流風暴低層冷出流前緣與周遭環境之間局地輻合所形成的弧狀積雲線，常與架狀雲或卷軸雲外觀相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/arc_cloud"
   },
   {
     "english": "Arc discharge",
     "traditional_chinese": "弧光放電",
-    "definition_cht": "電流穿越氣體介質時形成持續高溫發光電弧的放電現象。",
+    "definition_cht": "電流使原本不易導電的氣體發生電擊穿並形成持續發光電弧的放電現象，伴隨高溫與電漿生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/Arc_discharge"
   },
   {
     "english": "Arched squall",
-    "traditional_chinese": "弓形颮線",
-    "definition_cht": "在天氣圖或雷達上呈弓狀外凸的颮線或對流線，常與強陣風、下擊暴流或破壞性風害有關。",
+    "traditional_chinese": "弓狀颮",
+    "definition_cht": "熱帶地區一種較猛烈的颮，特徵為其颮雲前緣出現明顯拱弧狀的 arcus 雲或卷軸雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/Arched_squall"
   },
   {
     "english": "Archimedes's principle",
     "traditional_chinese": "阿基米德原理",
-    "definition_cht": "浸入流體中的物體所受浮力大小等於其所排開流體的重量。",
+    "definition_cht": "物體浸入流體時所受浮力，大小等於其所排開流體的重量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Archimedes%27s_principle"
   },
   {
     "english": "arcs of Lowitz",
     "traditional_chinese": "洛維茨弧",
-    "definition_cht": "日暈現象的一種，由定向冰晶折射陽光形成，常出現在太陽左右兩側並與幻日相連。",
+    "definition_cht": "一種罕見的日暈現象，通常自幻日向上或向下延伸，主要由六角板狀冰晶在下降振盪時對陽光折射所形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/arcs_of_Lowitz"
   },
   {
     "english": "arctic air",
     "traditional_chinese": "北極氣團",
-    "definition_cht": "源自高緯冰雪覆蓋區、極為寒冷且通常乾燥的氣團，性質比一般極地氣團更冷。",
+    "definition_cht": "形成於北極高緯冰雪覆蓋區的極冷氣團，通常比一般極地氣團更冷，且多偏乾。",
     "source_url": "https://glossary.ametsoc.org/wiki/arctic_air"
   },
   {
     "english": "Arctic Bottom Water",
     "traditional_chinese": "北極底層水",
-    "definition_cht": "存在於北極海盆底層的高密度水團，受海冰形成、鹽度增加及深層混合影響。",
+    "definition_cht": "北極海形成的高密度底層水團，主要與陸棚海冰生成造成增鹽，以及格陵蘭海、挪威海的冬季深對流有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Arctic_Bottom_Water"
   },
   {
     "english": "Arctic Circle",
     "traditional_chinese": "北極圈",
-    "definition_cht": "北緯約 66.5 度的緯圈，為一年中至少有一日出現極晝或極夜現象的界線。",
+    "definition_cht": "約位於北緯 66.5° 的緯線，為北半球一年中至少有一日出現全天日照或全天無日照現象的南界。",
     "source_url": "https://glossary.ametsoc.org/wiki/Arctic_Circle"
   },
   {
     "english": "arctic desert",
     "traditional_chinese": "北極荒漠",
-    "definition_cht": "高緯地區降水稀少、植被稀疏且氣候極冷的荒漠型環境。",
+    "definition_cht": "位於高緯寒冷地區、降水量極少而植被稀疏的冷荒漠環境，地表常見裸岩、冰雪或永久凍土。",
     "source_url": "https://glossary.ametsoc.org/wiki/arctic_desert"
   },
   {
     "english": "arctic front",
     "traditional_chinese": "北極鋒",
-    "definition_cht": "北極氣團與較暖空氣之間的鋒面帶，常為強冷空氣南侵的重要界面。",
+    "definition_cht": "深厚而極冷的北極氣團與較淺、相對沒那麼冷的極地氣團之間的半永久性鋒面帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/arctic_front"
   },
   {
     "english": "arctic haze",
     "traditional_chinese": "北極霾",
-    "definition_cht": "春季常見於北極地區的持續性霾層，主要由中高緯度輸送而來的氣膠與污染物累積形成。",
+    "definition_cht": "北極高緯地區春季常見的持續性霾層，主要由中高緯度長程輸送而來的污染物與氣膠在穩定大氣中累積形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/arctic_haze"
   },
   {
