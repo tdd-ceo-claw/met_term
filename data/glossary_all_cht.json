@@ -3650,19 +3650,19 @@
   {
     "english": "artificial control",
     "traditional_chinese": "人工控制",
-    "definition_cht": "透過工程設施或人為操作改變自然系統狀態的控制措施，例如水位、流量或雲物理過程之調節。",
+    "definition_cht": "水文上指設於河道測站的人造控制構造物，例如堰或其他工程設施，用以穩定或界定水位—流量關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/artificial_control"
   },
   {
     "english": "Artificial horizon",
     "traditional_chinese": "人工地平",
-    "definition_cht": "供天文或導航觀測使用的人造水平參考面，用以替代不清晰或不可見的自然地平。",
+    "definition_cht": "供天文或航海觀測使用的人造水平參考面，可調整至與天文地平一致，以替代不清晰或不可見的自然地平。",
     "source_url": "https://glossary.ametsoc.org/wiki/Artificial_horizon"
   },
   {
     "english": "artificial ice nucleus",
     "traditional_chinese": "人工冰核",
-    "definition_cht": "人為施放至雲中的成冰粒子，用以促進過冷水滴凍結，常用於人工增雨或雲物理實驗。",
+    "definition_cht": "人為施放至雲中的成冰粒子，可促使過冷水滴凍結並形成冰晶，常用於人工增雨（雪）或雲物理實驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/artificial_ice_nucleus"
   },
   {
@@ -3674,7 +3674,7 @@
   {
     "english": "artificial precipitation",
     "traditional_chinese": "人工降水",
-    "definition_cht": "以人工方式改變雲中微物理過程，促使降水形成或增強的作業與現象。",
+    "definition_cht": "以人工方式誘發或增強降水的作業，通常透過人工播雲改變雲中微物理過程，以促進雨或雪形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/artificial_precipitation"
   },
   {
@@ -3686,7 +3686,7 @@
   {
     "english": "ascendent",
     "traditional_chinese": "上升的",
-    "definition_cht": "指具有向上運動或上升趨勢的氣流、軌道節點或其他物理量。",
+    "definition_cht": "升度向量；為梯度的相反量，其大小等於某函數在特定時空點的最大空間變化率，方向指向該函數數值增加的一側。",
     "source_url": "https://glossary.ametsoc.org/wiki/ascendent"
   },
   {
@@ -3698,19 +3698,19 @@
   {
     "english": "ASDAR",
     "traditional_chinese": "機載資料中繼系統",
-    "definition_cht": "Aircraft to Satellite Data Relay 的縮寫，指航空器透過衛星回傳氣象或飛行資料的系統。",
+    "definition_cht": "機載資料衛星中繼系統；Aircraft to Satellite Data Relay 的縮寫，指自航空器航電設備擷取飛行中氣象與飛航資料，並經衛星即時回傳的系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/ASDAR"
   },
   {
     "english": "ash",
     "traditional_chinese": "火山灰",
-    "definition_cht": "火山噴發所產生之細碎岩屑顆粒，也可泛指燃燒後殘留的灰分；在氣象上多指火山灰雲相關物質。",
+    "definition_cht": "火山灰；指火山噴發產生並可懸浮於空中的細微岩石、玻璃質或礦物顆粒，航空氣象上尤關注其對能見度與發動機安全的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/ash"
   },
   {
     "english": "ash devils",
     "traditional_chinese": "灰塵旋風",
-    "definition_cht": "在高溫地表上由熱對流形成的小尺度旋風，能捲起火山灰、塵土或細粒物質。",
+    "definition_cht": "灰塵旋風；指因地表鬆散火山灰被旋轉上升氣柱捲起而變得可見的塵捲風，本質上屬於塵旋風的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/ash_devils"
   },
   {
@@ -3734,37 +3734,37 @@
   {
     "english": "aspiration condenser",
     "traditional_chinese": "抽吸冷凝器",
-    "definition_cht": "以抽吸方式導引空氣通過冷卻表面，使其中水汽冷凝的裝置。",
+    "definition_cht": "抽吸式圓筒電容器；一種離子計數元件，藉由使空氣流經帶電圓筒所形成的徑向電場，以收集抽入空氣中的離子。",
     "source_url": "https://glossary.ametsoc.org/wiki/aspiration_condenser"
   },
   {
     "english": "aspiration meteorograph",
     "traditional_chinese": "通風式氣象記錄儀",
-    "definition_cht": "具抽吸或通風裝置的自記氣象儀器，可連續記錄溫度、濕度等要素並減少輻射影響。",
+    "definition_cht": "通風式氣象記錄儀；具抽吸通風裝置的氣象自記儀，使外界空氣持續流經感測元件，以連續記錄溫度、濕度等要素並減少輻射誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/aspiration_meteorograph"
   },
   {
     "english": "aspiration psychrometer",
     "traditional_chinese": "通風乾濕表",
-    "definition_cht": "利用強制通風使乾球與濕球溫度計周圍氣流穩定流動，以較精確求取空氣濕度的濕度儀。",
+    "definition_cht": "通風乾濕表；以抽吸風扇使乾球與濕球溫度計周圍維持穩定通風，據以較精確測定氣溫與相對濕度的濕度儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/aspiration_psychrometer"
   },
   {
     "english": "Aspiration thermograph",
     "traditional_chinese": "通風式溫度自記儀",
-    "definition_cht": "具抽吸通風設備、可連續記錄氣溫變化並降低輻射誤差的自記溫度儀。",
+    "definition_cht": "通風式溫度自記儀；設有抽吸通風裝置，使空氣持續流經感測部並連續記錄氣溫變化，以降低日照與輻射造成的量測偏差。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aspiration_thermograph"
   },
   {
     "english": "aspirator",
     "traditional_chinese": "抽吸器",
-    "definition_cht": "用於抽引空氣或氣體流經儀器、樣品或量測腔體的裝置。",
+    "definition_cht": "抽吸器；用於抽引空氣或其他氣體穿過儀器、樣品室或量測腔體的裝置，常作為通風、取樣或提供中度真空之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/aspirator"
   },
   {
     "english": "aspre",
     "traditional_chinese": "阿斯普雷風",
-    "definition_cht": "法國南部地區對一種局地風的名稱，常與地形導引及區域壓力梯度有關。",
+    "definition_cht": "阿斯普雷風；法國地方風名之一，指特定地區受地形與區域壓力配置影響而形成的局地風。",
     "source_url": "https://glossary.ametsoc.org/wiki/aspre"
   },
   {
