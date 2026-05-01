@@ -5090,121 +5090,121 @@
   {
     "english": "barometric constant",
     "traditional_chinese": "氣壓常數",
-    "definition_cht": "指與「氣壓常數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指用於氣壓公式或氣壓測高計算中的常數或換算係數，用以連結氣壓、溫度、重力與高度之關係；其數值會隨所採單位與基準條件而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric_constant"
   },
   {
     "english": "barometric correction table",
     "traditional_chinese": "氣壓校正表",
-    "definition_cht": "指與「氣壓校正表」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "供查算氣壓計讀數訂正量的表格，常用於水銀氣壓計觀測，以套用溫度、重力、毛細作用或器差等修正。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric_correction_table"
   },
   {
     "english": "barometric corrections",
     "traditional_chinese": "氣壓校正",
-    "definition_cht": "指與「氣壓校正」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "為使水銀氣壓計觀測值更接近真實大氣壓而需施加的各項訂正，通常包括溫度、重力、毛細作用、刻度與器差等修正。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric_corrections"
   },
   {
     "english": "barometric hypsometry",
     "traditional_chinese": "氣壓測高法",
-    "definition_cht": "指與「氣壓測高法」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "利用大氣壓隨高度變化的關係，依氣壓觀測值估算地面或測站高程的方法；可使用水銀或空盒氣壓計進行。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric_hypsometry"
   },
   {
     "english": "barometric rate",
-    "traditional_chinese": "氣壓率",
-    "definition_cht": "指「氣壓率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。",
+    "traditional_chinese": "氣壓變化率",
+    "definition_cht": "指某地大氣壓隨時間的變化速率，常以單位時間內的升降壓量表示，可用於分析氣壓趨勢與天氣系統演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric_rate"
   },
   {
     "english": "barometric reduction table",
-    "traditional_chinese": "氣壓降低表",
-    "definition_cht": "指與「氣壓降低表」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "氣壓折算表",
+    "definition_cht": "供查算氣壓觀測值折算結果的表格，常用於將站上實測氣壓依高度、溫度與重力條件換算為海平面氣壓或其他基準值。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric_reduction_table"
   },
   {
     "english": "barometric wave",
     "traditional_chinese": "氣壓波",
-    "definition_cht": "指與「氣壓波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "definition_cht": "大氣壓場中的波動或波狀擾動，可表現為氣壓隨時間或空間的週期性起伏。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric_wave"
   },
   {
     "english": "barometry",
-    "traditional_chinese": "氣壓測定",
-    "definition_cht": "以氣壓計量測大氣壓力及其變化的技術與學理，為天氣分析、預報與高度推算的重要基礎。",
+    "traditional_chinese": "氣壓測定學",
+    "definition_cht": "研究並量測大氣靜壓及其變化的技術與學理，為天氣分析、預報與高度推算的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometry"
   },
   {
     "english": "baromil",
-    "traditional_chinese": "巴羅米爾",
-    "definition_cht": "指與「巴羅米爾」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "巴羅密耳",
+    "definition_cht": "氣壓計刻度上的長度增量單位；當氣壓計位於北緯 45°、海平面且溫度為 0°C 時，1 baromil 對應 1 毫巴的氣壓增量，其他條件下須再行訂正。",
     "source_url": "https://glossary.ametsoc.org/wiki/baromil"
   },
   {
     "english": "baroswitch",
-    "traditional_chinese": "壓力開關",
-    "definition_cht": "指與「壓力開關」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "氣壓開關",
+    "definition_cht": "舊式探空儀中的壓力驅動切換裝置，利用空盒氣壓元件隨外界氣壓變化帶動電接點，在特定氣壓層切換溫度、濕度與參考元件訊號，並指示壓力值。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroswitch"
   },
   {
     "english": "barothermograph",
-    "traditional_chinese": "氣壓計",
-    "definition_cht": "以圖形方式呈現「氣壓計」相關量值、分類或變化關係的圖表。",
+    "traditional_chinese": "氣壓溫度自記儀",
+    "definition_cht": "可自動連續記錄大氣壓與氣溫變化的自記儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/barothermograph"
   },
   {
     "english": "barothermohygrograph",
-    "traditional_chinese": "氣壓溫濕度計",
-    "definition_cht": "以圖形方式呈現「氣壓溫濕度計」相關量值、分類或變化關係的圖表。",
+    "traditional_chinese": "氣壓溫濕自記儀",
+    "definition_cht": "可自動連續記錄大氣壓、氣溫與濕度變化的自記儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/barothermohygrograph"
   },
   {
     "english": "barotropic",
     "traditional_chinese": "正壓的",
-    "definition_cht": "指與「正壓的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指流體或大氣狀態中密度僅為壓力的函數，因而壓力梯度與密度梯度平行；在氣象上常引申為地轉風風向近乎不隨高度改變的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropic"
   },
   {
     "english": "barotropic atmosphere",
     "traditional_chinese": "正壓大氣",
-    "definition_cht": "密度僅為壓力函數、等壓面與等密度面平行的理想化大氣狀態，常用於動力氣象理論分析。",
+    "definition_cht": "密度僅為壓力函數的大氣狀態；其等壓面與等密度面重合，地轉風不隨高度改變方向，常作為大氣動力理論中的理想化近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropic_atmosphere"
   },
   {
     "english": "barotropic disturbance",
     "traditional_chinese": "正壓擾動",
-    "definition_cht": "指與「正壓擾動」相關的擾動型態，通常偏離背景平均狀態並可能隨時間演變。",
+    "definition_cht": "發生於二維正壓流中的波動性擾動，其發展主要與基本流渦度分布及地球渦度隨緯度變化有關，亦稱正壓波。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropic_disturbance"
   },
   {
     "english": "barotropic forecast",
     "traditional_chinese": "正壓預報",
-    "definition_cht": "指以「正壓預報」為核心的預報方法、產品或結果。",
+    "definition_cht": "以正壓渦度方程為核心，將大氣環流視為近似正壓狀態所進行的數值或理論預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropic_forecast"
   },
   {
     "english": "barotropic instability",
     "traditional_chinese": "正壓不穩定",
-    "definition_cht": "由水平風速剪切所造成、可使平均流動動能轉移至擾動的流體不穩定機制。",
+    "definition_cht": "由水平風速切變或絕對渦度梯度分布不利所引起的不穩定機制，可使平均流的動能轉移至擾動並促進波動成長。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropic_instability"
   },
   {
     "english": "barotropic model",
     "traditional_chinese": "正壓模式",
-    "definition_cht": "用於表徵「正壓模式」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。",
+    "definition_cht": "將大氣或流體近似為正壓狀態所建立的理論或數值模式，主要描述水平環流與渦度演變，常分為非輻散型與淺水型等類別。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropic_model"
   },
   {
     "english": "barotropic pressure function",
-    "traditional_chinese": "正壓函數",
-    "definition_cht": "描述「正壓函數」相關變數關係、分布型態或響應特性的函數表述。",
+    "traditional_chinese": "正壓壓力函數",
+    "definition_cht": "在正壓流體中定義的純量函數，其梯度等於單位質量所受之壓力力，可用以簡化動量方程中的壓力項表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropic_pressure_function"
   },
   {
     "english": "barotropic vorticity equation",
     "traditional_chinese": "正壓渦度方程",
-    "definition_cht": "描述在正壓近似下渦度守恆與演變的基本方程，廣用於大尺度大氣動力研究。",
+    "definition_cht": "描述近似正壓流中相對渦度與科氏參數共同演變的基本方程，常用於分析大尺度環流、羅士比波與正壓預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/barotropic_vorticity_equation"
   },
   {
