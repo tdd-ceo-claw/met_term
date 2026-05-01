@@ -4850,121 +4850,121 @@
   {
     "english": "ballonet",
     "traditional_chinese": "調壓氣囊",
-    "definition_cht": "裝設於非剛性飛船或特定高空氣球內、容積可變的密閉氣囊，用以調節內部壓力並控制升降。",
+    "definition_cht": "設於非剛性飛船或超壓氣球包體內、容積可變的密閉氣囊，用於維持包體形狀、調節內部壓力，並藉充排氣控制升力與升降。",
     "source_url": "https://glossary.ametsoc.org/wiki/ballonet"
   },
   {
     "english": "Balloon",
     "traditional_chinese": "氣球",
-    "definition_cht": "充填比周圍空氣更輕之氣體或利用熱空氣提供浮力的囊體平台，可搭載儀器進行高空風場、溫濕壓等大氣觀測。",
+    "definition_cht": "充填較周遭空氣輕之氣體或利用熱空氣產生浮力的囊體飛行平台；在氣象上常用於搭載探空儀，觀測高空風、溫度、濕度與氣壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/Balloon"
   },
   {
     "english": "balloon ceiling",
-    "traditional_chinese": "氣球天花板",
-    "definition_cht": "指與「氣球天花板」相關的雲底高度或可飛行天氣條件限制。",
+    "traditional_chinese": "氣球測雲底高",
+    "definition_cht": "以測雲高氣球上升至沒入雲底時的高度，來估定雲底距地高度之方法或其測得值。",
     "source_url": "https://glossary.ametsoc.org/wiki/balloon_ceiling"
   },
   {
     "english": "balloon sounding",
-    "traditional_chinese": "氣球探測",
-    "definition_cht": "指利用探空、測深或垂直剖面觀測取得的「氣球探測」相關資料。",
+    "traditional_chinese": "氣球探空",
+    "definition_cht": "以自由升空之探空氣球搭載探空儀進行高空觀測，取得溫度、濕度、氣壓及風場等垂直剖面資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/balloon_sounding"
   },
   {
     "english": "ban-gull",
-    "traditional_chinese": "班鷗",
-    "definition_cht": "指與「班鷗」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "班古爾風",
+    "definition_cht": "蘇格蘭一帶對夏季海風的地方名稱，屬沿岸因海陸熱力差異形成的局地風。",
     "source_url": "https://glossary.ametsoc.org/wiki/ban-gull"
   },
   {
     "english": "band",
-    "traditional_chinese": "樂團",
-    "definition_cht": "指與「樂團」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "帶狀區",
+    "definition_cht": "在氣象圖、雷達或衛星影像上呈狹長延伸的雲、降水或其他要素分布帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/band"
   },
   {
     "english": "band absorption",
     "traditional_chinese": "帶狀吸收",
-    "definition_cht": "分子在一系列相近波長上所形成的吸收帶，常見於大氣氣體光譜吸收與輻射傳輸研究。",
+    "definition_cht": "輻射在一個或多個吸收帶內被大氣氣體吸收的現象；相對於單線吸收，係涵蓋一段波數或波長範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/band_absorption"
   },
   {
     "english": "band model",
-    "traditional_chinese": "樂團模型",
-    "definition_cht": "用於表徵「樂團模型」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。",
+    "traditional_chinese": "譜帶模式",
+    "definition_cht": "在輻射傳輸中，以有限波譜區段的平均吸收特性近似大量譜線效應的模式，用於估算大氣吸收與放射。",
     "source_url": "https://glossary.ametsoc.org/wiki/band_model"
   },
   {
     "english": "banded structure",
     "traditional_chinese": "帶狀結構",
-    "definition_cht": "指與「帶狀結構」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "在氣象雷達上，降水回波呈現長條帶狀排列的結構，常見於鋒面、地形或對流組織化降水系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/banded_structure"
   },
   {
     "english": "bandpass filter",
     "traditional_chinese": "帶通濾波器",
-    "definition_cht": "用於擷取、平滑或限制「帶通濾波器」相關頻率成分的濾波方法或裝置。",
+    "definition_cht": "允許特定頻帶內的訊號通過、並抑制其餘頻率成分的濾波裝置或演算法，常用於觀測資料與遙測訊號處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/bandpass_filter"
   },
   {
     "english": "bandwidth",
     "traditional_chinese": "頻寬",
-    "definition_cht": "指與「頻寬」相關的寬度尺度或帶寬特徵，用於描述空間或頻率範圍。",
+    "definition_cht": "訊號、感測器或濾波器所涵蓋並有效響應的頻率或波長範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/bandwidth"
   },
   {
     "english": "bank",
-    "traditional_chinese": "銀行",
-    "definition_cht": "指與「銀行」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "河岸",
+    "definition_cht": "河道、溪流或其他水道兩側限制水流之岸坡；在水文上常區分為左岸與右岸。",
     "source_url": "https://glossary.ametsoc.org/wiki/bank"
   },
   {
     "english": "bank storage",
-    "traditional_chinese": "銀行儲存",
-    "definition_cht": "指與「銀行儲存」相關的蓄存量、滯蓄作用或暫時儲存過程。",
+    "traditional_chinese": "岸灘蓄水",
+    "definition_cht": "河川、湖泊或水庫於高水位期間使河床與岸坡土壤孔隙吸納並暫存之水量，待水位下降時再全部或部分回補水體。",
     "source_url": "https://glossary.ametsoc.org/wiki/bank_storage"
   },
   {
     "english": "bankfull stage",
-    "traditional_chinese": "滿岸階段",
-    "definition_cht": "指與「滿岸階段」相關的水位、高度或發展階段特徵。",
+    "traditional_chinese": "滿岸水位",
+    "definition_cht": "河川在特定測站處水位升至最低天然河岸頂部、再上升即可能溢岸時的水位；不一定等同洪水位。",
     "source_url": "https://glossary.ametsoc.org/wiki/bankfull_stage"
   },
   {
     "english": "banner cloud",
     "traditional_chinese": "旗雲",
-    "definition_cht": "氣流越過孤立山峰後於背風側或峰頂附近形成的旗狀定常雲，反映局地地形抬升與波動。",
+    "definition_cht": "常見於孤立尖峭山峰背風側向下風處伸展的羽旗狀定常雲，反映地形擾動、抬升與局地波動作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/banner_cloud"
   },
   {
     "english": "bar",
-    "traditional_chinese": "巴（壓力單位）",
-    "definition_cht": "壓力單位，1 bar 等於 10^5 帕斯卡，常用於海洋、氣象與工程領域的壓力表示。",
+    "traditional_chinese": "巴",
+    "definition_cht": "壓力單位，1 bar = 10^5 帕斯卡，常用於氣象、海洋與工程領域表示壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/bar"
   },
   {
     "english": "barat",
-    "traditional_chinese": "婆羅多風",
-    "definition_cht": "指與「婆羅多風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "巴拉特風",
+    "definition_cht": "印尼蘇拉威西島萬鴉老灣一帶於12月至2月常見的強烈西北陣風之地方名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/barat"
   },
   {
     "english": "barb",
-    "traditional_chinese": "倒鉤",
-    "definition_cht": "指與「倒鉤」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "風羽",
+    "definition_cht": "天氣圖上表示風速的羽狀記號，附於風向桿末端；一長羽通常代表10節，半羽代表5節，三角旗代表50節。",
     "source_url": "https://glossary.ametsoc.org/wiki/barb"
   },
   {
     "english": "barber",
-    "traditional_chinese": "霧霜帶",
-    "definition_cht": "指與「霧霜帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "海霧帶",
+    "definition_cht": "北美紐芬蘭一帶對海霧的俗稱，常指寒暖水域交界附近形成並沿海面平流移動的濃霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/barber"
   },
   {
     "english": "barchan",
-    "traditional_chinese": "新月形",
-    "definition_cht": "指與「新月形」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "新月形沙丘",
+    "definition_cht": "由單一盛行風與有限沙源或吹雪形成的新月形沙丘或雪堆，其兩翼尖端指向下風處。",
     "source_url": "https://glossary.ametsoc.org/wiki/barchan"
   },
   {
