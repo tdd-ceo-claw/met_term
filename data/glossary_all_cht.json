@@ -2827,14 +2827,14 @@
   },
   {
     "english": "antarctic divergence",
-    "traditional_chinese": "南極輻散",
-    "definition_cht": "南極高原附近近地層冷空氣向四周外流所形成的水平輻散帶。",
+    "traditional_chinese": "南極輻散帶",
+    "definition_cht": "指南極極鋒以南、約南緯 60 度附近的海洋輻散區，深層水在此上湧並與低鹽的南極表層水混合。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_divergence"
   },
   {
     "english": "antarctic front",
     "traditional_chinese": "南極鋒",
-    "definition_cht": "南極周邊高緯海域中冷暖水團或氣團之間的顯著交界帶。",
+    "definition_cht": "指南極大陸上空南極氣團與南大洋極地海洋上空極地氣團之間近乎常年存在、近乎連續的鋒面。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_front"
   },
   {
@@ -2858,7 +2858,7 @@
   {
     "english": "Antarctic Polar Front",
     "traditional_chinese": "南極極鋒",
-    "definition_cht": "南大洋中南極冷水與較暖副南極水團之間的重要海洋鋒面。",
+    "definition_cht": "指南極繞極流的南界，亦常稱南極輻合帶，分隔南側的南極帶與北側的極鋒帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antarctic_Polar_Front"
   },
   {
@@ -2882,7 +2882,7 @@
   {
     "english": "Antarctic Zone",
     "traditional_chinese": "南極帶",
-    "definition_cht": "位於南極鋒以南、具有南極特徵氣候與海洋條件的高緯區域。",
+    "definition_cht": "指南極極鋒與大陸水邊界之間的海洋區域，具有典型南極海洋特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antarctic_Zone"
   },
   {
@@ -2894,13 +2894,13 @@
   {
     "english": "antecedent precipitation index",
     "traditional_chinese": "前期降水指數",
-    "definition_cht": "依先前一段時間降水量及其遞減權重估計流域或土壤濕潤程度的指標。",
+    "definition_cht": "將前若干日降水量依時間遞減權重加總而得的指標，用以估計集水區或土壤的前期濕潤程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/antecedent_precipitation_index"
   },
   {
     "english": "antecedent soil moisture",
     "traditional_chinese": "前期土壤濕度",
-    "definition_cht": "某次降雨或事件發生前，土壤中已存在的含水狀態。",
+    "definition_cht": "指一次暴雨或逕流事件開始時土壤內已有的含水量或濕潤狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/antecedent_soil_moisture"
   },
   {
@@ -2912,13 +2912,13 @@
   {
     "english": "antenna feed",
     "traditional_chinese": "天線饋源",
-    "definition_cht": "將訊號輸送至天線輻射體，或由天線接收後導回系統的饋入裝置。",
+    "definition_cht": "位於天線輻射口附近、負責把發射訊號耦合至天線或把接收訊號導回系統的饋電裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_feed"
   },
   {
     "english": "antenna gain",
     "traditional_chinese": "天線增益",
-    "definition_cht": "衡量天線將能量集中於特定方向能力的指標，通常相對於理想基準天線表示。",
+    "definition_cht": "表示天線把輻射能量集中於某一方向的能力，通常定義為該方向功率密度相對於等功率各向同性天線的比值。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_gain"
   },
   {
