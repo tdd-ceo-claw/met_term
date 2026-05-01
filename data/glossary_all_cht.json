@@ -4370,121 +4370,121 @@
   {
     "english": "Autumnal equinox",
     "traditional_chinese": "秋分",
-    "definition_cht": "太陽視黃經為 180 度時的節氣，晝夜長度大致相等；北半球標誌秋季中點。",
+    "definition_cht": "天文上指太陽視黃經達 180° 的時刻；此時太陽直射赤道，全球晝夜長度大致相等，為北半球秋季的分界點。",
     "source_url": "https://glossary.ametsoc.org/wiki/Autumnal_equinox"
   },
   {
     "english": "auvergnasse",
-    "traditional_chinese": "奧維涅濕風",
-    "definition_cht": "法國地方性風名，常指攜帶濕氣、影響奧維涅地區的區域風。",
+    "traditional_chinese": "奧維涅風",
+    "definition_cht": "法國語地方名詞，指法國中部奧維涅一帶的寒冷西北風；屬區域性風名。",
     "source_url": "https://glossary.ametsoc.org/wiki/auvergnasse"
   },
   {
     "english": "auxiliary ship",
     "traditional_chinese": "輔助船",
-    "definition_cht": "執行支援、補給、觀測或作業任務之船舶，在海洋與氣象觀測中可作為調查或支援平台。",
+    "definition_cht": "執行補給、支援、測量、觀測或其他非主戰任務的支援船舶；在海洋與氣象作業中亦可作為調查平台。",
     "source_url": "https://glossary.ametsoc.org/wiki/auxiliary_ship"
   },
   {
     "english": "auxiliary thermometer",
     "traditional_chinese": "輔助溫度計",
-    "definition_cht": "用於補助主儀器校正、比對或監測環境溫度的溫度計。",
+    "definition_cht": "附接於顛倒溫度計幹部上的水銀玻璃溫度計，用以修正主溫度計受周圍環境溫度影響所造成的讀值誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/auxiliary_thermometer"
   },
   {
     "english": "available head",
     "traditional_chinese": "可用水頭",
-    "definition_cht": "在水力系統中可供做功或驅動流動的有效水頭差。",
+    "definition_cht": "在水力或水力發電系統中，扣除沿程與局部損失後，實際可供做功或驅動渦輪的有效水頭。",
     "source_url": "https://glossary.ametsoc.org/wiki/available_head"
   },
   {
     "english": "available potential energy",
     "traditional_chinese": "可用位能",
-    "definition_cht": "流體系統相對於最低位能參考狀態所具有、可轉換為動能的位能成分。",
+    "definition_cht": "相對於經絕熱質量重分布後所能達到的最小總位能狀態，系統仍可轉換為動能的那一部分位能；在大氣中常用於描述可供環流發展的能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/available_potential_energy"
   },
   {
     "english": "available soil moisture",
     "traditional_chinese": "有效土壤水分",
-    "definition_cht": "土壤中可被植物根系吸收利用的水分量，通常介於田間容水量與永久凋萎點之間。",
+    "definition_cht": "土壤中可被植物根系吸收利用的那部分水分，通常指田間容水量與永久凋萎點之間的水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/available_soil_moisture"
   },
   {
     "english": "available solar radiation",
     "traditional_chinese": "可利用太陽輻射",
-    "definition_cht": "在特定條件下可供地表、作物、儀器或能源系統實際利用的太陽輻射量。",
+    "definition_cht": "某地點在特定時段實際可取得，並可供地表、作物、量測設備或能源系統利用的太陽輻射量。",
     "source_url": "https://glossary.ametsoc.org/wiki/available_solar_radiation"
   },
   {
     "english": "available storage capacity",
     "traditional_chinese": "可用蓄水容量",
-    "definition_cht": "水庫、土壤、含水層或其他儲存系統中可供額外蓄存之有效容量。",
+    "definition_cht": "水庫在運轉條件下，最低與最高水位之間可供調節與利用的蓄水容積。",
     "source_url": "https://glossary.ametsoc.org/wiki/available_storage_capacity"
   },
   {
     "english": "available water",
-    "traditional_chinese": "有效水量",
-    "definition_cht": "可被植物、工程系統或人類活動實際利用的水量；在土壤學中常指植物可利用水。",
+    "traditional_chinese": "可利用水量",
+    "definition_cht": "可供植物吸收利用的土壤水量，通常指田間容水量與永久凋萎點之間的水分；亦可泛指實際可利用的水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/available_water"
   },
   {
     "english": "avalaison",
-    "traditional_chinese": "雪崩風",
-    "definition_cht": "伴隨雪崩下滑而產生的強烈局地氣流或雪煙。",
+    "traditional_chinese": "暴漲急流",
+    "definition_cht": "法語名詞，指豪雨或大量融雪後迅速形成的暴漲水流或急瀉洪流；屬地方性舊用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/avalaison"
   },
   {
     "english": "avalanche",
     "traditional_chinese": "雪崩",
-    "definition_cht": "積雪、冰塊或夾帶碎屑沿山坡快速下滑的重力運動。",
+    "definition_cht": "大量積雪、冰塊或夾帶碎屑沿陡坡快速下滑的重力運動；大型雪崩前方常伴隨強烈氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/avalanche"
   },
   {
     "english": "avalanche wind",
     "traditional_chinese": "雪崩風",
-    "definition_cht": "由雪崩高速移動推擠空氣所形成的強陣風。",
+    "definition_cht": "乾雪雪崩或山崩前方被快速推擠而出的強烈氣流，破壞可先於主體雪崩到達。",
     "source_url": "https://glossary.ametsoc.org/wiki/avalanche_wind"
   },
   {
     "english": "Average",
     "traditional_chinese": "平均值",
-    "definition_cht": "代表一組數據集中趨勢的量，可依算術、加權或其他方式定義。",
+    "definition_cht": "描述一組數值集中趨勢的代表值；最常見者為算術平均，但亦可依需要採加權平均或其他平均方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/Average"
   },
   {
     "english": "average drag coefficient",
     "traditional_chinese": "平均阻力係數",
-    "definition_cht": "在一定時間、空間或條件下，描述阻力相對於流速與流體密度之平均無因次係數。",
+    "definition_cht": "在一定時間、空間範圍或統計樣本上，對阻力係數取平均所得的無因次量，用以表徵物體受流體阻力的整體特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/average_drag_coefficient"
   },
   {
     "english": "average interstitial velocity",
     "traditional_chinese": "平均孔隙流速",
-    "definition_cht": "流體在多孔介質實際孔隙空間中移動的平均速度，通常為達西流速除以有效孔隙率。",
+    "definition_cht": "地下水在飽和多孔介質孔隙中實際流動的平均速度，通常等於達西通量除以有效孔隙率，亦稱平均線流速或滲流速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/average_interstitial_velocity"
   },
   {
     "english": "average limit of ice",
     "traditional_chinese": "平均冰界",
-    "definition_cht": "多年平均條件下海冰或其他冰體分布所達到的典型邊界位置。",
+    "definition_cht": "在某一月份或一段期間內，根據多年觀測求得的冰緣平均位置，即海冰與無冰水域之間的平均界線。",
     "source_url": "https://glossary.ametsoc.org/wiki/average_limit_of_ice"
   },
   {
     "english": "average net balance",
     "traditional_chinese": "平均淨平衡",
-    "definition_cht": "冰川或其他收支系統在一定期間內，累積與消融或收入與支出相抵後之平均淨值。",
+    "definition_cht": "冰川於一定期間內平均的淨質量平衡，為累積量與消融量相抵後的平均值，可表示冰川整體質量增減情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/average_net_balance"
   },
   {
     "english": "average over the spectrum",
     "traditional_chinese": "頻譜平均",
-    "definition_cht": "對某變數於整個頻譜範圍內進行平均的操作。",
+    "definition_cht": "對某物理量依整個頻譜範圍進行平均的操作，亦即將其在各頻率或波數成分上的值作整體平均。",
     "source_url": "https://glossary.ametsoc.org/wiki/average_over_the_spectrum"
   },
   {
     "english": "average power",
     "traditional_chinese": "平均功率",
-    "definition_cht": "單位時間內能量傳遞或轉換率的時間平均值。",
+    "definition_cht": "在一段時間內能量傳遞、轉換或作功速率的平均值，等於該時段總能量變化除以時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/average_power"
   },
   {
