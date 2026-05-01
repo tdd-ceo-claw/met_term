@@ -3529,14 +3529,14 @@
   },
   {
     "english": "ARFOT",
-    "traditional_chinese": "航路預報",
-    "definition_cht": "航空氣象作業中與飛航航線或區域天氣預報有關的縮寫，實際定義依所採用之通報系統而定。",
+    "traditional_chinese": "區域預報（英制）",
+    "definition_cht": "航空氣象中的國際代碼詞，指以英制單位編製的區域天氣預報（area forecast）。",
     "source_url": "https://glossary.ametsoc.org/wiki/ARFOT"
   },
   {
     "english": "argon",
     "traditional_chinese": "氬",
-    "definition_cht": "大氣中的惰性氣體之一，體積混合比約為 0.93%，常用於大氣組成與同位素研究。",
+    "definition_cht": "地球乾空氣中的惰性微量氣體，體積混合比約為 0.93% 至 0.934%，為大氣組成研究的重要成分之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/argon"
   },
   {
@@ -3547,14 +3547,14 @@
   },
   {
     "english": "arheic",
-    "traditional_chinese": "無流域外排的",
-    "definition_cht": "指區域內幾乎無明顯地表水系外流，降水多由蒸發或下滲消散的水文特性。",
+    "traditional_chinese": "無外流水系的",
+    "definition_cht": "指地表排水不形成明顯外流水系的水文特性；降水稀少且逕流零散短暫，水分多由蒸發或下滲消散。",
     "source_url": "https://glossary.ametsoc.org/wiki/arheic"
   },
   {
     "english": "arid zone",
     "traditional_chinese": "乾旱帶",
-    "definition_cht": "年降水量少、蒸發需求高且長期水分不足的氣候區。",
+    "definition_cht": "指降水稀少且變率大、蒸發需求高、長期水分明顯不足的氣候帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/arid_zone"
   },
   {
@@ -3566,85 +3566,85 @@
   {
     "english": "aridity",
     "traditional_chinese": "乾旱性",
-    "definition_cht": "描述地區長期水分供應不足程度的氣候特性。",
+    "definition_cht": "表示某地氣候中有效水分長期不足的程度，即氣候對維持生物生長所需水分的缺乏程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/aridity"
   },
   {
     "english": "aridity coefficient",
     "traditional_chinese": "乾旱係數",
-    "definition_cht": "用於量化地區乾旱程度的指標，通常由降水與蒸發或潛在蒸散之比值推得。",
+    "definition_cht": "用於表示地區相對乾旱程度的氣候指標；在經典用法中常指 Gorczyński 提出的係數，綜合降水與溫度條件評估有效水分不足程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/aridity_coefficient"
   },
   {
     "english": "aridity index",
     "traditional_chinese": "乾旱指數",
-    "definition_cht": "衡量氣候乾濕程度的指數，多以降水量與潛在蒸散量之比表示。",
+    "definition_cht": "衡量一地氣候乾濕程度的數值指標，常以降水量與潛在蒸散量之比表示，但實際公式可依不同指標體系而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/aridity_index"
   },
   {
     "english": "arithmetic mean",
     "traditional_chinese": "算術平均",
-    "definition_cht": "各數值總和除以數量所得之平均值。",
+    "definition_cht": "將一組數值加總後除以數值個數所得的平均值，為最常用的集中趨勢量之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/arithmetic_mean"
   },
   {
     "english": "ARMET",
-    "traditional_chinese": "航空氣象訊息",
-    "definition_cht": "航空氣象通報中的縮寫，通常指與區域或航路天氣資訊有關之作業產品；實際全名依系統定義而定。",
+    "traditional_chinese": "區域預報（公制）",
+    "definition_cht": "航空氣象中的國際代碼詞，通常指以公制單位編製的區域天氣預報；部分文獻亦將其用於高空風與氣溫區域預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/ARMET"
   },
   {
     "english": "armouring",
     "traditional_chinese": "護甲化",
-    "definition_cht": "河床或坡面細顆粒被沖蝕後，表層殘留粗粒物質形成保護層，進而降低後續侵蝕的現象。",
+    "definition_cht": "河床、沖積層或坡面因細粒物質優先被侵蝕搬運後，表面殘留較粗顆粒並形成保護層，從而減弱後續沖蝕的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/armouring"
   },
   {
     "english": "aromatic hydrocarbons",
     "traditional_chinese": "芳香烴",
-    "definition_cht": "含有芳香環結構的碳氫化合物，為大氣化學與污染研究中的重要揮發性有機物類別。",
+    "definition_cht": "含有一個或多個芳香環結構的碳氫化合物；在大氣化學中常屬重要揮發性有機物，參與光化學反應並可形成污染物。",
     "source_url": "https://glossary.ametsoc.org/wiki/aromatic_hydrocarbons"
   },
   {
     "english": "Arrhenius equation",
     "traditional_chinese": "阿瑞尼士方程",
-    "definition_cht": "描述化學反應速率常數與溫度關係的經典方程，廣用於大氣化學反應動力學。",
+    "definition_cht": "描述化學反應速率常數隨溫度變化關係的方程，常寫為 k = Aexp(-Ea/RT)，廣用於大氣化學與反應動力學。",
     "source_url": "https://glossary.ametsoc.org/wiki/Arrhenius_equation"
   },
   {
     "english": "arroyo",
     "traditional_chinese": "旱溪谷",
-    "definition_cht": "乾旱區平時多乾涸、僅在暴雨後短暫有水流的沖蝕溝谷。",
+    "definition_cht": "乾旱或半乾旱地區由流水沖蝕形成、兩側常較陡且平時多乾涸的溝谷或水道，通常僅在暴雨後出現短暫水流。",
     "source_url": "https://glossary.ametsoc.org/wiki/arroyo"
   },
   {
     "english": "ARS",
-    "traditional_chinese": "聲雷達系統",
-    "definition_cht": "可作為 acoustic radar system 等用語的縮寫；具體所指儀器或系統須依上下文判讀。",
+    "traditional_chinese": "ARS",
+    "definition_cht": "氣象與環境觀測中的縮寫，常可指 acoustic radar system（聲雷達系統）等遙測設備；確切涵義須依上下文判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/ARS"
   },
   {
     "english": "artesian aquifer",
     "traditional_chinese": "承壓含水層",
-    "definition_cht": "被低透水層上下夾持、內部地下水具有壓力，鑽井後水位可上升至含水層頂面以上的含水層。",
+    "definition_cht": "上下受低滲透性地層圍限、地下水處於高於大氣壓之壓力狀態的含水層；鑽井穿入後水位通常可上升至含水層頂面以上。",
     "source_url": "https://glossary.ametsoc.org/wiki/artesian_aquifer"
   },
   {
     "english": "artesian basin",
     "traditional_chinese": "承壓盆地",
-    "definition_cht": "具區域性承壓含水層系統的盆地地質構造，地下水受壓並可產生自流井。",
+    "definition_cht": "能使地下水在承壓條件下儲存與流動的盆地狀地質—水文系統，其中含水層受圍限並具有自流壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/artesian_basin"
   },
   {
     "english": "artesian well",
     "traditional_chinese": "自流井",
-    "definition_cht": "鑽達承壓含水層後，井中水位因壓力作用上升，甚至可自然湧出地表的井。",
+    "definition_cht": "鑽入承壓含水層後，井中地下水因壓力作用可自行上升，若壓力面高於地表則可不經抽水而自然出流的井。",
     "source_url": "https://glossary.ametsoc.org/wiki/artesian_well"
   },
   {
     "english": "artificial climate",
     "traditional_chinese": "人工氣候",
-    "definition_cht": "由人為控制或強烈人類活動所形成的局地氣候環境，如溫室、建築物內部或都市微氣候。",
+    "definition_cht": "由人為控制或改變所形成的氣候條件，通常指溫室、建築室內等封閉空間中的人工環境，而非自然外部氣候。",
     "source_url": "https://glossary.ametsoc.org/wiki/artificial_climate"
   },
   {
