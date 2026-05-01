@@ -3890,7 +3890,7 @@
   {
     "english": "atmospheric circulation model",
     "traditional_chinese": "大氣環流模式",
-    "definition_cht": "以數值方法模擬大氣三維運動、熱力與水文過程的模式，是天氣與氣候模擬的核心工具。",
+    "definition_cht": "以數學方程與數值方法定量描述、模擬並分析大氣環流結構及其成因的模式，為天氣與氣候研究的重要工具。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_circulation_model"
   },
   {
@@ -3902,13 +3902,13 @@
   {
     "english": "atmospheric demand",
     "traditional_chinese": "大氣蒸發需求",
-    "definition_cht": "大氣對地表水分蒸發或植物蒸散的潛在需求程度，受溫度、濕度、風速與輻射控制。",
+    "definition_cht": "大氣對地表蒸發與植物蒸散的潛在需求，常以蒸氣壓差、溫度、風速與輻射等條件綜合反映，亦常稱為大氣蒸發需求。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_demand"
   },
   {
     "english": "atmospheric disturbance",
     "traditional_chinese": "大氣擾動",
-    "definition_cht": "相對於平均狀態的天氣或環流偏差，可表現為波動、低壓、鋒面、對流系統等。",
+    "definition_cht": "顯示氣旋性環流正在發展或可能發展的擾動區域；在廣義用法中，也可指相對於平均狀態的顯著天氣擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_disturbance"
   },
   {
@@ -3998,13 +3998,13 @@
   {
     "english": "atmospheric radiation",
     "traditional_chinese": "大氣輻射",
-    "definition_cht": "大氣本身吸收並發射的電磁輻射，主要集中於紅外波段，亦受氣體、雲與氣膠影響。",
+    "definition_cht": "大氣中散射、反射、吸收與放射的電磁輻射總稱，包含太陽短波與地表、大氣發出的長波輻射，對能量收支與遙測判釋均極重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_radiation"
   },
   {
     "english": "atmospheric radiation budget",
     "traditional_chinese": "大氣輻射收支",
-    "definition_cht": "大氣系統吸收、散射、反射與放射短波及長波輻射後的淨能量平衡。",
+    "definition_cht": "大氣在吸收太陽短波、散射與反射輻射，以及放射長波輻射之後所呈現的淨輻射能量平衡，是地球氣候系統能量分配的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_radiation_budget"
   },
   {
