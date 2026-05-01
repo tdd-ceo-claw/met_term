@@ -332,121 +332,121 @@
   {
     "english": "bare ice",
     "traditional_chinese": "裸冰",
-    "definition_cht": "指與「裸冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "definition_cht": "未被積雪覆蓋而直接外露的冰面，可指冰川、冰蓋、湖冰或海冰表面之裸露冰層。",
     "source_url": "https://glossary.ametsoc.org/wiki/bare_ice"
   },
   {
     "english": "bare soil",
     "traditional_chinese": "裸土",
-    "definition_cht": "指與「裸土」相關的土壤性質、土層條件或陸面過程。",
+    "definition_cht": "地表未受植被、枯枝落葉、作物殘體或積雪覆蓋而直接外露的土壤表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/bare_soil"
   },
   {
     "english": "baric topography",
-    "traditional_chinese": "巴里克地形",
-    "definition_cht": "以圖形方式呈現「巴里克地形」相關量值、分類或變化關係的圖表。",
+    "traditional_chinese": "氣壓地形",
+    "definition_cht": "罕用語，與 pressure pattern 或 height pattern 同義；指在定壓面圖上以等高線呈現之高度分布整體型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/baric_topography"
   },
   {
     "english": "barinés",
     "traditional_chinese": "巴里內斯",
-    "definition_cht": "指與「巴里內斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "AMS 詞表收錄之術語；目前可取得公開資料未見完整定義，暫保留音譯，待後續依原始氣象文獻補證。",
     "source_url": "https://glossary.ametsoc.org/wiki/barin%C3%A9s"
   },
   {
     "english": "baroclinic",
-    "traditional_chinese": "斜壓臨床",
-    "definition_cht": "指與「斜壓臨床」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "斜壓的",
+    "definition_cht": "指流體密度同時受氣壓與溫度影響，致等壓面與等密面相交的性質；在大氣中常伴隨水平溫度梯度與垂直風切。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinic"
   },
   {
     "english": "baroclinic atmosphere",
     "traditional_chinese": "斜壓大氣",
-    "definition_cht": "等壓面上溫度與密度梯度不平行的大氣狀態，易伴隨垂直風切並有利於中緯度擾動發展。",
+    "definition_cht": "等壓面上存在水平溫度梯度、且等壓面與等密面相交的大氣狀態；常伴隨垂直風切，並有利於中緯度擾動發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_atmosphere"
   },
   {
     "english": "baroclinic disturbance",
     "traditional_chinese": "斜壓擾動",
-    "definition_cht": "指與「斜壓擾動」相關的擾動型態，通常偏離背景平均狀態並可能隨時間演變。",
+    "definition_cht": "與大氣強斜壓性相關的移動性氣旋或綜觀尺度擾動，其發展常表現為鋒區附近的溫度梯度、風切與槽脊隨高度傾斜。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_disturbance"
   },
   {
     "english": "baroclinic forecast",
     "traditional_chinese": "斜壓預報",
-    "definition_cht": "指以「斜壓預報」為核心的預報方法、產品或結果。",
+    "definition_cht": "以包含溫度平流、密度變化與垂直結構的斜壓模式所作之天氣預報；相對於早期正壓預報，更能描述鋒面與氣旋發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_forecast"
   },
   {
     "english": "baroclinic instability",
     "traditional_chinese": "斜壓不穩定",
-    "definition_cht": "由水平溫度梯度與垂直風切所釋放之可用位能轉換為擾動動能的不穩定機制，是溫帶氣旋生成的重要動力。",
+    "definition_cht": "由水平溫度梯度與垂直風切所儲存的可用位能，轉換為擾動動能的不穩定機制，是溫帶氣旋與綜觀尺度波動發展的重要動力。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_instability"
   },
   {
     "english": "baroclinic leaf",
-    "traditional_chinese": "斜葉",
-    "definition_cht": "指與「斜葉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "斜壓葉",
+    "definition_cht": "衛星影像上常見於氣旋生成前的綜觀尺度狹長雲帶，兩側邊界清楚，通常與中層槽前方及低層斜壓帶有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_leaf"
   },
   {
     "english": "baroclinic model",
     "traditional_chinese": "斜壓模式",
-    "definition_cht": "用於表徵「斜壓模式」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。",
+    "definition_cht": "在數值天氣預報中納入溫度平流、密度變化與垂直風切影響的動力模式，為作業預報中心模擬天氣系統演變的標準類型之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_model"
   },
   {
     "english": "baroclinic wave",
     "traditional_chinese": "斜壓波",
-    "definition_cht": "指與「斜壓波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "definition_cht": "由斜壓不穩定所增長的中緯度綜觀尺度波動或氣旋擾動，常沿鋒區發展並伴隨明顯的溫度梯度與垂直結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinic_wave"
   },
   {
     "english": "baroclinity",
-    "traditional_chinese": "斜壓",
-    "definition_cht": "指與「斜壓」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "斜壓性",
+    "definition_cht": "流體中等壓面與等密面相交的成層狀態；其強弱可視為氣壓梯度與密度梯度不平行程度的量度。",
     "source_url": "https://glossary.ametsoc.org/wiki/baroclinity"
   },
   {
     "english": "barogram",
     "traditional_chinese": "氣壓記錄圖",
-    "definition_cht": "由氣壓記錄器連續記錄所得之氣壓隨時間變化曲線。",
+    "definition_cht": "氣壓計錄器連續記錄所得之氣壓隨時間變化曲線或圖形紀錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/barogram"
   },
   {
     "english": "barograph",
-    "traditional_chinese": "氣壓記錄器",
-    "definition_cht": "可連續自動記錄氣壓變化的儀器，用於監測天氣系統通過時的壓力演變。",
+    "traditional_chinese": "氣壓計錄器",
+    "definition_cht": "可連續自動記錄大氣壓力隨時間變化的儀器；依構造可分為空盒式、浮子式、攝影式與重錘式等。",
     "source_url": "https://glossary.ametsoc.org/wiki/barograph"
   },
   {
     "english": "barometer",
     "traditional_chinese": "氣壓計",
-    "definition_cht": "量測大氣壓力的儀器，可分為水銀式、空盒式與電子式等類型。",
+    "definition_cht": "量測大氣壓力的儀器；氣象上常用水銀氣壓計與空盒氣壓計，亦可見電子式感測器。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometer"
   },
   {
     "english": "barometer cistern",
-    "traditional_chinese": "氣壓計水箱",
-    "definition_cht": "用於量測「氣壓計水箱」相關物理量的儀器或量測裝置。",
+    "traditional_chinese": "氣壓計儲汞槽",
+    "definition_cht": "水銀氣壓計底部盛裝水銀的槽體，供水銀柱升降並作為讀值與校正基準的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometer_cistern"
   },
   {
     "english": "barometer elevation",
-    "traditional_chinese": "氣壓計海拔",
-    "definition_cht": "用於量測「氣壓計海拔」相關物理量的儀器或量測裝置。",
+    "traditional_chinese": "氣壓計高程",
+    "definition_cht": "氣象站內氣壓計感測元件或其基準點相對於平均海平面或站址基準面的高程，用於氣壓訂正與站壓換算。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometer_elevation"
   },
   {
     "english": "barometric",
     "traditional_chinese": "氣壓的",
-    "definition_cht": "形容與大氣壓力、氣壓測定或氣壓計讀數有關之性質、變化或作業。",
+    "definition_cht": "形容與大氣壓力、氣壓計量測或其讀值有關的性質、變化或作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric"
   },
   {
     "english": "barometric characteristic",
-    "traditional_chinese": "氣壓特性",
-    "definition_cht": "指與「氣壓特性」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "氣壓變化特徵",
+    "definition_cht": "指一段觀測期間內氣壓上升、下降或先升後降等變化型態；在天氣觀測編碼中常用以表示三小時氣壓傾向曲線之特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/barometric_characteristic"
   },
   {
