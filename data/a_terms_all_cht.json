@@ -4490,7 +4490,7 @@
   {
     "english": "average velocity",
     "traditional_chinese": "平均速度",
-    "definition_cht": "物體或流體在一定時間或空間區間內位移率的平均值。",
+    "definition_cht": "在指定時間或空間區間內，物體或流體位移變化率的平均值；在流體力學中亦可指固定點於某平均時段內的時間平均流速。",
     "source_url": "https://glossary.ametsoc.org/wiki/average_velocity"
   },
   {
@@ -4502,25 +4502,25 @@
   {
     "english": "aviation forecast",
     "traditional_chinese": "航空氣象預報",
-    "definition_cht": "供飛航作業使用之天氣預報，內容包括風、雲、能見度、亂流、結冰與對流等資訊。",
+    "definition_cht": "供飛航作業使用的氣象預報，內容通常包括風、雲、能見度、天氣現象、亂流、結冰及對流等資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/aviation_forecast"
   },
   {
     "english": "aviation observation",
     "traditional_chinese": "航空氣象觀測",
-    "definition_cht": "為航空起降與航行安全所進行的地面或高空氣象觀測。",
+    "definition_cht": "為支援航空起降與航行安全所進行的氣象觀測，包含機場地面觀測及其他航空氣象所需資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/aviation_observation"
   },
   {
     "english": "aviation weather forecast",
     "traditional_chinese": "航空天氣預報",
-    "definition_cht": "針對機場、航路或飛航區域提供的專業天氣預報。",
+    "definition_cht": "針對機場、航路或指定空域提供的專業航空天氣預報，常以 TAF 等產品呈現。",
     "source_url": "https://glossary.ametsoc.org/wiki/aviation_weather_forecast"
   },
   {
     "english": "aviation weather observation",
     "traditional_chinese": "航空天氣觀測",
-    "definition_cht": "供航空用途之例行或特別天氣觀測，通常包含雲底高、能見度、風與顯著天氣。",
+    "definition_cht": "供航空用途發布的例行或特別天氣觀測，通常包括風、能見度、雲底高、顯著天氣及氣壓等要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/aviation_weather_observation"
   },
   {
@@ -4532,13 +4532,13 @@
   {
     "english": "Avogadro's number",
     "traditional_chinese": "阿伏加德羅常數",
-    "definition_cht": "每莫耳物質所含基本粒子數，約為 6.022×10^23。",
+    "definition_cht": "每 1 莫耳物質所含的基本粒子數，其固定數值為 6.02214076×10^23 mol⁻¹，現稱阿伏加德羅常數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Avogadro%27s_number"
   },
   {
     "english": "avre",
     "traditional_chinese": "阿弗爾風",
-    "definition_cht": "地方性風名，具體所指風向與性質須依地區傳統用法判定。",
+    "definition_cht": "地方性風名；目前可得公開資料不足以確認其標準風向、發生區域與形成機制，實際用法仍應依原始地方氣候文獻判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/avre"
   },
   {
@@ -4550,7 +4550,7 @@
   {
     "english": "AXBT",
     "traditional_chinese": "機投式溫度探測器",
-    "definition_cht": "Airborne Expendable Bathythermograph 的縮寫，為自飛機投放、用以量測上層海洋溫度剖面的拋棄式探測器。",
+    "definition_cht": "Airborne Expendable Bathythermograph 的縮寫，指由飛機投放、以無線方式回傳海水溫度剖面的拋棄式探測器，常用於量測上層海洋溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/AXBT"
   },
   {
@@ -4562,49 +4562,49 @@
   {
     "english": "axis of anticyclone",
     "traditional_chinese": "反氣旋軸",
-    "definition_cht": "反氣旋中心連成之延伸方向，或高壓脊線所對應的主要軸向。",
+    "definition_cht": "反氣旋或高壓系統延伸的主要軸線；在天氣分析上常近似對應高壓脊軸。",
     "source_url": "https://glossary.ametsoc.org/wiki/axis_of_anticyclone"
   },
   {
     "english": "axis of contraction",
     "traditional_chinese": "收縮軸",
-    "definition_cht": "應變或流場中發生最大收縮的方向軸。",
+    "definition_cht": "在變形場中，流體微團沿其收縮（壓縮）最快方向所對應的軸線，並與伸張軸互相垂直。",
     "source_url": "https://glossary.ametsoc.org/wiki/axis_of_contraction"
   },
   {
     "english": "axis of depression",
     "traditional_chinese": "低壓軸",
-    "definition_cht": "低壓區或低壓槽延伸的主要軸線。",
+    "definition_cht": "低壓區、低壓槽或 depression 延伸的主要軸線。",
     "source_url": "https://glossary.ametsoc.org/wiki/axis_of_depression"
   },
   {
     "english": "axis of dilatation",
     "traditional_chinese": "伸張軸",
-    "definition_cht": "應變或流場中發生最大伸張的方向軸。",
+    "definition_cht": "在變形場中，流體微團沿其伸張（拉伸）最快方向所對應的軸線，並與收縮軸互相垂直。",
     "source_url": "https://glossary.ametsoc.org/wiki/axis_of_dilatation"
   },
   {
     "english": "axisymmetric",
     "traditional_chinese": "軸對稱的",
-    "definition_cht": "指系統相對某中心軸呈旋轉對稱的性質。",
+    "definition_cht": "指三維系統相對某一中心軸呈旋轉對稱；以圓柱座標表示時，各性質對方位角不變。",
     "source_url": "https://glossary.ametsoc.org/wiki/axisymmetric"
   },
   {
     "english": "axisymmetric flow",
     "traditional_chinese": "軸對稱流",
-    "definition_cht": "繞中心軸在方位方向上近似不變的流場，常用於龍捲風、颱風眼牆或渦流理論分析。",
+    "definition_cht": "繞某一中心軸呈旋轉對稱的流場，其速度、壓力等流場量對方位角近似不變。",
     "source_url": "https://glossary.ametsoc.org/wiki/axisymmetric_flow"
   },
   {
     "english": "axisymmetric turbulence",
     "traditional_chinese": "軸對稱湍流",
-    "definition_cht": "統計特性相對某一優選軸呈旋轉對稱的湍流狀態。",
+    "definition_cht": "統計性質繞某一優選軸呈旋轉對稱的湍流，常見於管流、噴流或風洞等流況。",
     "source_url": "https://glossary.ametsoc.org/wiki/axisymmetric_turbulence"
   },
   {
     "english": "ayalas",
     "traditional_chinese": "阿亞拉斯風",
-    "definition_cht": "地方性風名，實際風向與形成機制依地區傳統氣象用法而定。",
+    "definition_cht": "地方性風名；目前可得公開資料不足以確認其標準風向、發生區域與形成機制，實際用法仍應依原始地方氣候文獻判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/ayalas"
   },
   {
