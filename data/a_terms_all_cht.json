@@ -4250,31 +4250,31 @@
   {
     "english": "autobarotropic",
     "traditional_chinese": "自成正壓的",
-    "definition_cht": "指流體密度僅為壓力函數，或等壓面與等密面一致，因而不產生斜壓項的狀態。",
+    "definition_cht": "指流體在任何情況下皆可視為正壓狀態，亦即密度僅為壓力的函數，等壓面與等密面一致，不產生斜壓效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/autobarotropic"
   },
   {
     "english": "autobarotropy",
     "traditional_chinese": "自成正壓性",
-    "definition_cht": "流體呈正壓狀態、密度主要由壓力決定且無斜壓效應的性質。",
+    "definition_cht": "指流體本質上呈正壓關係的性質，即密度只隨壓力而變，因而不伴隨斜壓結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/autobarotropy"
   },
   {
     "english": "autoconvection",
     "traditional_chinese": "自發對流",
-    "definition_cht": "當流體垂直密度梯度本身即違反靜力穩定條件時，不需外加擾動便可自行發生的對流。",
+    "definition_cht": "指在某氣層中密度反而隨高度增加，且環境直減率大於自發對流直減率時，所謂可不待外力觸發而自行開始的對流；亦稱自發對流不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/autoconvection"
   },
   {
     "english": "autoconvective lapse rate",
     "traditional_chinese": "自發對流直減率",
-    "definition_cht": "使大氣密度隨高度增加、導致絕對不穩定並可自發對流的臨界溫度直減率。",
+    "definition_cht": "指使大氣成為均質狀態、亦即密度不隨高度遞減的臨界溫度直減率；乾空氣約為每 100 公尺 3.4°C，超過此值時可視為絕對不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/autoconvective_lapse_rate"
   },
   {
     "english": "autoconversion",
     "traditional_chinese": "自轉換",
-    "definition_cht": "雲微物理中，小雲滴透過碰併或成長而轉變為雨滴的過程。",
+    "definition_cht": "雲微物理中碰撞—合併過程的初始階段，指雲滴彼此碰併並轉變為毛毛雨滴的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/autoconversion"
   },
   {
@@ -4285,26 +4285,26 @@
   },
   {
     "english": "autogenous electrification",
-    "traditional_chinese": "自生電化",
-    "definition_cht": "物質系統內部因摩擦、破裂、相變或分離作用而自行產生電荷分離與帶電的現象。",
+    "traditional_chinese": "自生帶電",
+    "definition_cht": "物體在含有塵埃、冰晶等粒子的空氣中相對運動時，因接觸與分離作用而在物體上逐漸累積淨電荷的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/autogenous_electrification"
   },
   {
     "english": "automated search",
     "traditional_chinese": "自動搜尋",
-    "definition_cht": "由演算法自動執行的資料檢索、特徵辨識或目標搜尋程序。",
+    "definition_cht": "利用自動化演算法對資料、影像或訊號進行檢索、比對與目標判識的搜尋程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/automated_search"
   },
   {
     "english": "automatic data processing",
     "traditional_chinese": "自動資料處理",
-    "definition_cht": "利用計算機系統自動完成資料接收、檢查、轉換、分析與輸出的流程。",
+    "definition_cht": "利用電子計算機或相關系統，自動完成資料的接收、檢核、轉換、儲存、分析與輸出之處理流程。",
     "source_url": "https://glossary.ametsoc.org/wiki/automatic_data_processing"
   },
   {
     "english": "automatic evaporation station",
     "traditional_chinese": "自動蒸發站",
-    "definition_cht": "可自動量測並傳輸蒸發量及相關氣象資料的觀測站。",
+    "definition_cht": "可自動量測、記錄並傳輸蒸發量及相關氣象要素的觀測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/automatic_evaporation_station"
   },
   {
@@ -4316,55 +4316,55 @@
   {
     "english": "automatic picture transmission",
     "traditional_chinese": "自動圖片傳輸",
-    "definition_cht": "氣象衛星將影像資料自動傳送至地面接收站的系統，常縮寫為 APT。",
+    "definition_cht": "極軌氣象衛星以低解析度類比方式連續下傳影像資料的系統，常指 APT，可由低成本地面站在 VHF 頻段接收。",
     "source_url": "https://glossary.ametsoc.org/wiki/automatic_picture_transmission"
   },
   {
     "english": "automatic station",
     "traditional_chinese": "自動測站",
-    "definition_cht": "可自動量測、記錄並傳送氣象或水文資料的無人值守觀測站。",
+    "definition_cht": "設於固定地點、可自動量測、記錄並回傳觀測資料的無人值守觀測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/automatic_station"
   },
   {
     "english": "automatic tide gauge",
     "traditional_chinese": "自動驗潮儀",
-    "definition_cht": "可連續自動量測並記錄海面水位變化的儀器。",
+    "definition_cht": "可自動量測海面水位，並將水位及相關環境資料預處理後傳送至遠端的驗潮系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/automatic_tide_gauge"
   },
   {
     "english": "automatic weather station",
     "traditional_chinese": "自動氣象站",
-    "definition_cht": "自動量測氣溫、濕度、風、壓力、降水等要素並即時傳輸資料的地面觀測站。",
+    "definition_cht": "自動化氣象觀測設施，可量測並記錄氣溫、濕度、氣壓、風、降水等要素，並自動傳輸資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/automatic_weather_station"
   },
   {
     "english": "autoregressive process",
     "traditional_chinese": "自迴歸過程",
-    "definition_cht": "時間序列中目前值可由其過去若干值線性表示並加上隨機誤差的隨機過程。",
+    "definition_cht": "時間序列中目前值可表示為其一個或多個過去值的線性組合，再加上隨機誤差項的隨機過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/autoregressive_process"
   },
   {
     "english": "autoregressive series",
     "traditional_chinese": "自迴歸序列",
-    "definition_cht": "符合自迴歸模型結構的時間序列。",
+    "definition_cht": "符合自迴歸模型結構、其當前值受先前若干時次值影響的時間序列。",
     "source_url": "https://glossary.ametsoc.org/wiki/autoregressive_series"
   },
   {
     "english": "Autumn",
     "traditional_chinese": "秋季",
-    "definition_cht": "一年四季之一，位於夏季之後、冬季之前；在氣候學上常指北半球 9 至 11 月。",
+    "definition_cht": "一年四季之一，為夏季與冬季之間的過渡季；在北半球的氣象慣例中通常指 9 至 11 月。",
     "source_url": "https://glossary.ametsoc.org/wiki/Autumn"
   },
   {
     "english": "autumn ice",
     "traditional_chinese": "秋冰",
-    "definition_cht": "秋季開始形成或於秋季初期存在的海冰、湖冰或河冰。",
+    "definition_cht": "秋季初期形成的初生海冰，亦指海冰形成早期階段的冰況。",
     "source_url": "https://glossary.ametsoc.org/wiki/autumn_ice"
   },
   {
     "english": "autumnal",
     "traditional_chinese": "秋季的",
-    "definition_cht": "與秋季時節、氣候或現象有關的。",
+    "definition_cht": "與秋季相關的，或屬於秋季時節、氣候與現象的。",
     "source_url": "https://glossary.ametsoc.org/wiki/autumnal"
   },
   {
