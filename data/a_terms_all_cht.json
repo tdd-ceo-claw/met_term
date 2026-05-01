@@ -3770,121 +3770,121 @@
   {
     "english": "Assmann psychrometer",
     "traditional_chinese": "阿斯曼通風乾濕表",
-    "definition_cht": "一種標準化通風乾濕表，以金屬外殼遮蔽輻射並藉機械通風提升濕度量測精度。",
+    "definition_cht": "一種標準型吸引式乾濕表，以拋光金屬護套減少輻射影響，並以機械通風使氣流穩定通過乾、濕球溫度計，以較精確測定氣溫與濕度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Assmann_psychrometer"
   },
   {
     "english": "Astronomical horizon",
     "traditional_chinese": "天文地平",
-    "definition_cht": "通過觀測者位置且垂直於鉛直線的理論水平面所對應之地平。",
+    "definition_cht": "通過觀測者並與當地鉛直線成直角的假想水平面；其與天球相交所形成的大圓亦稱天文地平。",
     "source_url": "https://glossary.ametsoc.org/wiki/Astronomical_horizon"
   },
   {
     "english": "astronomical refraction",
     "traditional_chinese": "天文折射",
-    "definition_cht": "天體光線穿越大氣時因折射而使其視位置偏離真位置的現象。",
+    "definition_cht": "天體光線穿越地球大氣時因折射，使其視位置與真位置之間產生角距的現象；近地平處最為明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/astronomical_refraction"
   },
   {
     "english": "astronomical twilight",
     "traditional_chinese": "天文曙暮光",
-    "definition_cht": "太陽中心位於地平下 12 至 18 度時的曙暮光階段，此時天光極弱但仍受散射影響。",
+    "definition_cht": "太陽中心位於地平線下 12° 至 18° 之間的曙暮光時段；此時天空僅餘微弱散射天光，當太陽低於 18° 時通常視為進入夜晚。",
     "source_url": "https://glossary.ametsoc.org/wiki/astronomical_twilight"
   },
   {
     "english": "asymmetry factor",
     "traditional_chinese": "不對稱因子",
-    "definition_cht": "描述散射相函數偏向前向或後向散射程度的參數，常定義為散射角餘弦的平均值。",
+    "definition_cht": "描述散射相函數偏向前向或後向散射程度的參數，通常定義為散射角餘弦的平均值，為輻射傳輸中的重要性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/asymmetry_factor"
   },
   {
     "english": "asymptotic expansion",
     "traditional_chinese": "漸近展開",
-    "definition_cht": "在某參數趨近特定極限時，以一系列近似項表示函數行為的數學方法。",
+    "definition_cht": "當變數趨近某一極限時，以一組依重要性遞減的項來近似函數行為的數學展開方法；截取有限項即可提供近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/asymptotic_expansion"
   },
   {
     "english": "asynchronous communication",
     "traditional_chinese": "非同步通訊",
-    "definition_cht": "傳送與接收不需共用同一時脈或同時進行的資料通訊方式。",
+    "definition_cht": "一種傳送端與接收端無須共用同一時脈的資料通訊方式，資料可在非固定時點傳送，並由訊號本身提供必要的同步資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/asynchronous_communication"
   },
   {
     "english": "asynoptic observation",
     "traditional_chinese": "非同時觀測",
-    "definition_cht": "不在標準綜觀觀測時刻進行的氣象觀測。",
+    "definition_cht": "在例行綜觀觀測時段之間加做的補充氣象觀測，而非正式標準整點的綜觀觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/asynoptic_observation"
   },
   {
     "english": "Athos fall wind",
     "traditional_chinese": "阿索斯下坡風",
-    "definition_cht": "希臘阿索斯半島附近由山地向下吹送的局地下降風。",
+    "definition_cht": "希臘東北部阿索斯山南坡沿山勢下衝的局地下坡風，通常為冷而強的東北風，並可延伸至北愛琴海近岸海面。",
     "source_url": "https://glossary.ametsoc.org/wiki/Athos_fall_wind"
   },
   {
     "english": "Atlantic Water",
     "traditional_chinese": "大西洋水",
-    "definition_cht": "泛指源自大西洋、具有較高溫鹽特徵並可輸送至高緯或鄰近海盆的水團。",
+    "definition_cht": "指經直布羅陀海峽流入地中海的水團，較地中海表層水低鹽、低密，進入後常位於較鹹地中海表層水之下並呈鹽度極小層。",
     "source_url": "https://glossary.ametsoc.org/wiki/Atlantic_Water"
   },
   {
     "english": "atmidometry",
-    "traditional_chinese": "蒸發測定法",
-    "definition_cht": "測量自由水面、土壤或植物表面蒸發量的技術或方法總稱。",
+    "traditional_chinese": "蒸發測定（舊稱）",
+    "definition_cht": "蒸發量測的舊稱，指測定水分蒸發速率與蒸發量的學問或方法；後多以 atmometry 一詞稱之。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmidometry"
   },
   {
     "english": "atmometer",
     "traditional_chinese": "蒸發計",
-    "definition_cht": "用於量測蒸發或蒸散潛勢的儀器。",
+    "definition_cht": "測量水自濕潤表面向大氣蒸發速率的儀器，亦可用於估計蒸散潛勢；廣義上包含蒸發皿等不同型式。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmometer"
   },
   {
     "english": "atmometry",
     "traditional_chinese": "蒸發測定學",
-    "definition_cht": "研究蒸發量之量測原理、儀器與方法的學科。",
+    "definition_cht": "研究水分蒸發速率與蒸發量之量測原理、儀器及方法的學科；為 atmidometry 的較新用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmometry"
   },
   {
     "english": "atmoradiograph",
     "traditional_chinese": "大氣輻射自記儀",
-    "definition_cht": "連續記錄大氣輻射變化的儀器。",
+    "definition_cht": "用於連續記錄大氣輻射變化的自記式儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmoradiograph"
   },
   {
     "english": "atmosphere",
     "traditional_chinese": "大氣",
-    "definition_cht": "環繞地球或其他天體的氣體包層，受重力束縛並參與能量、水分及動量交換。",
+    "definition_cht": "環繞地球或其他天體、受重力束縛的氣體包層，並參與輻射、動量、水分與能量交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmosphere"
   },
   {
     "english": "atmosphere–mixed layer ocean model",
     "traditional_chinese": "大氣—混合層海洋模式",
-    "definition_cht": "將大氣模式與上層海洋混合層模式耦合，用以模擬短至季節尺度海氣交互作用的數值模式。",
+    "definition_cht": "將大氣模式與上層海洋混合層模式耦合的數值模式，用於模擬季節內至季節尺度的海氣交互作用與海表溫度回應。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmosphere%E2%80%93mixed_layer_ocean_model"
   },
   {
     "english": "atmosphere–ocean interaction",
     "traditional_chinese": "海氣交互作用",
-    "definition_cht": "大氣與海洋間透過熱量、水汽、動量及氣體交換所產生的雙向耦合作用。",
+    "definition_cht": "大氣與海洋之間透過熱量、水汽、動量及氣體交換所形成的雙向耦合作用，對天氣與氣候演變具有關鍵影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmosphere%E2%80%93ocean_interaction"
   },
   {
     "english": "atmospheric attenuation",
     "traditional_chinese": "大氣衰減",
-    "definition_cht": "電磁波、聲波或輻射穿越大氣時，因吸收、散射等作用而使能量減弱的現象。",
+    "definition_cht": "聲波、電磁波或其他輻射在大氣中傳播時，因氣體、氣膠或水成物的吸收與散射而使訊號強度隨距離減弱的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_attenuation"
   },
   {
     "english": "atmospheric boundary layer",
     "traditional_chinese": "大氣邊界層",
-    "definition_cht": "直接受地表摩擦、感熱、潛熱與粗糙度影響，且能在約一小時內對地表強迫作出反應的近地層大氣。",
+    "definition_cht": "對地表摩擦、感熱、潛熱與粗糙度等強迫可在約一小時或更短時間內產生回應的近地層大氣，通常為對流層最底部的一層。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_boundary_layer"
   },
   {
     "english": "atmospheric chemistry",
     "traditional_chinese": "大氣化學",
-    "definition_cht": "研究大氣中化學成分的來源、轉化、傳輸、沉降及其與輻射、雲微物理和生物地球化學循環交互作用的學科。",
+    "definition_cht": "研究大氣中化學成分的來源、轉化、傳輸與沉降，以及其與輻射、雲微物理、生物圈與氣候系統交互作用的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/atmospheric_chemistry"
   },
   {
