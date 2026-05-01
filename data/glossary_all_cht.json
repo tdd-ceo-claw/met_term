@@ -5330,121 +5330,121 @@
   {
     "english": "basin lag",
     "traditional_chinese": "流域遲滯時間",
-    "definition_cht": "指與「流域遲滯時間」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指一次降雨事件中，流域有效降雨量重心與其所對應地表逕流歷線重心之間的時間差；亦常近似指由有效降雨重心至洪峰出現的延時，是估算集流反應快慢的重要水文參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/basin_lag"
   },
   {
     "english": "basin outlet",
     "traditional_chinese": "流域出口",
-    "definition_cht": "指與「流域出口」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指流域內地表或河道逕流匯集後流出該流域的出口控制點，常作為集水區流量、洪峰與水文歷線分析的基準位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/basin_outlet"
   },
   {
     "english": "basin recharge",
-    "traditional_chinese": "流域補注",
-    "definition_cht": "指與「流域補注」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "流域補注量",
+    "definition_cht": "指某次降雨中降水量與暴雨逕流量之差，即未立即流出流域而留存在土壤含水、地表窪蓄、地下水等儲存中的那一部分水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/basin_recharge"
   },
   {
     "english": "basin response",
     "traditional_chinese": "流域響應",
-    "definition_cht": "指與「流域響應」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指流域對降雨、融雪或其他入流強迫所呈現的整體水文反應，包括逕流形成、洪峰出現時間、流量增減幅度及其受地形、土壤與土地利用控制的特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/basin_response"
   },
   {
     "english": "basis functions",
     "traditional_chinese": "基底函數",
-    "definition_cht": "描述「基底函數」相關變數關係、分布型態或響應特性的函數表述。",
+    "definition_cht": "指函數空間中構成一組基底的函數，可經線性組合表示或近似其他函數；常用於資料擬合、頻譜展開、數值模式與資料同化中的場表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/basis_functions"
   },
   {
     "english": "Bathy",
-    "traditional_chinese": "測深儀",
-    "definition_cht": "指與「測深儀」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "BATHY 測溫深報",
+    "definition_cht": "世界氣象組織傳統英數碼（TAC）中的一種報文格式，用於傳送海洋測溫深觀測資料，即海水溫度隨深度變化的剖面資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bathy"
   },
   {
     "english": "Bathymeter",
     "traditional_chinese": "測深計",
-    "definition_cht": "用於量測「測深計」相關物理量的儀器或量測裝置。",
+    "definition_cht": "用於量測水深或進行水深測探的儀器，傳統上可指各類測深裝置，在海洋與水文測量中用以判定水體深度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bathymeter"
   },
   {
     "english": "bathymetric chart",
-    "traditional_chinese": "水深圖",
-    "definition_cht": "用於呈現「水深圖」相關空間分布或分析結果的圖表，可支援監測、診斷與預報判讀。",
+    "traditional_chinese": "水深地形圖",
+    "definition_cht": "以等深線、測深點及水下地形特徵表示海底、湖底或河床起伏的圖件，可支援航行安全、海床地貌分析與海洋工程規劃。",
     "source_url": "https://glossary.ametsoc.org/wiki/bathymetric_chart"
   },
   {
     "english": "bathymetry",
-    "traditional_chinese": "水深測量",
-    "definition_cht": "對海底、湖底或其他水體底床深度與地形起伏的測量與描述。",
+    "traditional_chinese": "水深地形測量",
+    "definition_cht": "指對海洋、湖泊、河川等水體底床深度與地形起伏的量測、描繪與研究；其概念相當於陸地地形測量在水下的對應。",
     "source_url": "https://glossary.ametsoc.org/wiki/bathymetry"
   },
   {
     "english": "bathythermograph",
     "traditional_chinese": "深溫儀",
-    "definition_cht": "用於量測海水溫度隨深度變化的海洋觀測儀器，可快速獲得上層海洋熱結構。",
+    "definition_cht": "用於量測並記錄海水溫度隨深度變化的海洋觀測儀器，可快速取得上層海洋的垂直溫度結構；機械式深溫儀亦可藉壓力感測推估深度。",
     "source_url": "https://glossary.ametsoc.org/wiki/bathythermograph"
   },
   {
     "english": "bathythermograph grid",
-    "traditional_chinese": "深溫儀格網",
-    "definition_cht": "以圖形方式呈現「深溫儀格網」相關量值、分類或變化關係的圖表。",
+    "traditional_chinese": "深溫儀校準格網",
+    "definition_cht": "指用於判讀或校正深溫儀記錄的基準格網或校準網格，配合深度與溫度刻度將深溫儀滑片上的軌跡轉換為可讀取的溫深剖面資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/bathythermograph_grid"
   },
   {
     "english": "bathythermograph print",
-    "traditional_chinese": "深溫儀記錄紙",
-    "definition_cht": "以圖形方式呈現「深溫儀記錄紙」相關量值、分類或變化關係的圖表。",
+    "traditional_chinese": "深溫儀記錄印片",
+    "definition_cht": "指由深溫儀滑片或其記錄軌跡所製成的印片、照片或複製圖，用於保存、判讀與整理海水溫度—深度觀測結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/bathythermograph_print"
   },
   {
     "english": "bathythermograph slide",
-    "traditional_chinese": "深溫儀投影片",
-    "definition_cht": "以圖形方式呈現「深溫儀投影片」相關量值、分類或變化關係的圖表。",
+    "traditional_chinese": "深溫儀燻煙玻片",
+    "definition_cht": "機械式深溫儀內用來記錄溫度隨深度變化軌跡的燻煙玻璃滑片；探針作動時會在其表面刻劃出溫深曲線，供後續判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/bathythermograph_slide"
   },
   {
     "english": "baud",
-    "traditional_chinese": "鮑率",
-    "definition_cht": "指與「鮑率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "鮑",
+    "definition_cht": "通訊與電子傳輸中的符號率單位，表示每秒傳送的訊號符號數；1 鮑等於每秒 1 個符號變化，未必等同於每秒位元數。",
     "source_url": "https://glossary.ametsoc.org/wiki/baud"
   },
   {
     "english": "baud rate",
     "traditional_chinese": "鮑率",
-    "definition_cht": "指「鮑率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。",
+    "definition_cht": "指資料通訊系統每秒傳送的訊號符號數，即符號率；在每個符號可承載多個位元時，鮑率與位元率並不相同。",
     "source_url": "https://glossary.ametsoc.org/wiki/baud_rate"
   },
   {
     "english": "bay ice",
-    "traditional_chinese": "海灣冰",
-    "definition_cht": "指與「海灣冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "traditional_chinese": "灣內海冰",
+    "definition_cht": "指在北極或南極海灣等受遮蔽水域形成的平滑海冰，因較少受強風與擠壓作用影響，表面通常較為平整。",
     "source_url": "https://glossary.ametsoc.org/wiki/bay_ice"
   },
   {
     "english": "Bay of Bengal Water",
     "traditional_chinese": "孟加拉灣水團",
-    "definition_cht": "指與「孟加拉灣水團」相關的水團、水體性質或水文條件，常用於海洋與水文分析。",
+    "definition_cht": "指形成於孟加拉灣並具有相對高溫、低鹽等特徵的水團，受季風降水、河川徑流與區域海流交換影響，常參與北印度洋上層水團輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bay_of_Bengal_Water"
   },
   {
     "english": "bayamo",
     "traditional_chinese": "巴亞莫風",
-    "definition_cht": "指與「巴亞莫風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "古巴南岸、尤指巴亞莫灣附近自陸地吹向海面的強烈地方風，常可伴隨劇烈陣風，部分文獻亦提及其可能夾帶閃電等天氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/bayamo"
   },
   {
     "english": "Bayesian Method",
     "traditional_chinese": "貝葉斯方法",
-    "definition_cht": "以貝葉斯定理整合先驗資訊與觀測證據的統計方法，常用於預報校正、分類與資料同化。",
+    "definition_cht": "以貝葉斯定理為基礎的統計推論方法，將先驗資訊與觀測資料的似然結合，更新為後驗分布；常用於預報校正、機率估計、分類與資料同化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bayesian_Method"
   },
   {
     "english": "BDRF",
-    "traditional_chinese": "雙向散射分布函數",
-    "definition_cht": "描述表面對入射輻射在不同方向上散射分布特性的函數，是遙測反照與輻射傳輸的重要參數化量。",
+    "traditional_chinese": "雙向反射分布函數",
+    "definition_cht": "Bidirectional Reflectance Distribution Function 的縮寫，描述表面在特定入射方向受照射時，於各觀測方向反射輻亮度相對於入射照度的角度分布特性，為遙測與輻射傳輸的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/BDRF"
   },
   {
