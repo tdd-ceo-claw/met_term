@@ -4610,31 +4610,31 @@
   {
     "english": "azimuth",
     "traditional_chinese": "方位角",
-    "definition_cht": "在水平面上自基準方向（通常為正北或正南）順時針量至目標方向的角度。",
+    "definition_cht": "自基準方向（通常為正北）沿水平面順時針量至目標方向的角距離，常用於導航、天文與雷達指向表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/azimuth"
   },
   {
     "english": "azimuth resolution",
     "traditional_chinese": "方位解析度",
-    "definition_cht": "雷達、聲納或掃描系統在方位方向上區分兩個相鄰目標的能力。",
+    "definition_cht": "雷達在相同距離上，於方位方向區分兩個相鄰目標所需的最小角分離或對應橫向間距；若小於此值，回波將難以分辨。",
     "source_url": "https://glossary.ametsoc.org/wiki/azimuth_resolution"
   },
   {
     "english": "azimuth scale",
     "traditional_chinese": "方位刻度",
-    "definition_cht": "表示方位角大小的標度或刻劃系統。",
+    "definition_cht": "雷達平面位置顯示器（PPI）外圍用以標示方位角的圓形刻度，供判讀回波方向之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/azimuth_scale"
   },
   {
     "english": "Azores Current",
     "traditional_chinese": "亞速爾海流",
-    "definition_cht": "北大西洋副熱帶環流中的東向海流，位於亞速爾群島附近並與副熱帶鋒面結構有關。",
+    "definition_cht": "北大西洋副熱帶環流中的東向海流，位於亞速爾群島以南附近，並與亞速爾鋒及區域中尺度渦旋活動密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Azores_Current"
   },
   {
     "english": "Azores high",
     "traditional_chinese": "亞速爾高壓",
-    "definition_cht": "北大西洋副熱帶高壓系統在亞速爾群島附近的主要活動中心，對歐洲、北非與大西洋風暴路徑有重要影響。",
+    "definition_cht": "北大西洋上空的半永久性副熱帶高壓，尤其在高壓中心偏東、位於亞速爾群島附近時稱之；其西側型態常稱為百慕達高壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/Azores_high"
   }
 ]

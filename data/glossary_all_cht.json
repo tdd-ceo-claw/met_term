@@ -4610,121 +4610,121 @@
   {
     "english": "azimuth",
     "traditional_chinese": "方位角",
-    "definition_cht": "在水平面上自基準方向（通常為正北或正南）順時針量至目標方向的角度。",
+    "definition_cht": "自基準方向（通常為正北）沿水平面順時針量至目標方向的角距離，常用於導航、天文與雷達指向表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/azimuth"
   },
   {
     "english": "azimuth resolution",
     "traditional_chinese": "方位解析度",
-    "definition_cht": "雷達、聲納或掃描系統在方位方向上區分兩個相鄰目標的能力。",
+    "definition_cht": "雷達在相同距離上，於方位方向區分兩個相鄰目標所需的最小角分離或對應橫向間距；若小於此值，回波將難以分辨。",
     "source_url": "https://glossary.ametsoc.org/wiki/azimuth_resolution"
   },
   {
     "english": "azimuth scale",
     "traditional_chinese": "方位刻度",
-    "definition_cht": "表示方位角大小的標度或刻劃系統。",
+    "definition_cht": "雷達平面位置顯示器（PPI）外圍用以標示方位角的圓形刻度，供判讀回波方向之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/azimuth_scale"
   },
   {
     "english": "Azores Current",
     "traditional_chinese": "亞速爾海流",
-    "definition_cht": "北大西洋副熱帶環流中的東向海流，位於亞速爾群島附近並與副熱帶鋒面結構有關。",
+    "definition_cht": "北大西洋副熱帶環流中的東向海流，位於亞速爾群島以南附近，並與亞速爾鋒及區域中尺度渦旋活動密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Azores_Current"
   },
   {
     "english": "Azores high",
     "traditional_chinese": "亞速爾高壓",
-    "definition_cht": "北大西洋副熱帶高壓系統在亞速爾群島附近的主要活動中心，對歐洲、北非與大西洋風暴路徑有重要影響。",
+    "definition_cht": "北大西洋上空的半永久性副熱帶高壓，尤其在高壓中心偏東、位於亞速爾群島附近時稱之；其西側型態常稱為百慕達高壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/Azores_high"
   },
   {
     "english": "B-display",
     "traditional_chinese": "B型顯示",
-    "definition_cht": "雷達或測距系統的二維顯示方式之一，通常以水平軸表示距離、垂直軸表示方位或仰角，用於判讀回波位置與結構。",
+    "definition_cht": "雷達的二維顯示方式之一，通常以水平軸表示方位、垂直軸表示距離，回波亮度或強度顯示目標位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/B-display"
   },
   {
     "english": "Babinet point",
     "traditional_chinese": "巴比涅中性點",
-    "definition_cht": "天空偏振觀測中可辨識的中性點之一，位於穿過太陽的垂直圈上，該處天光偏振度趨近於零。",
+    "definition_cht": "天空偏振觀測中常見的中性點之一，位於通過太陽的垂直圈上，通常出現在太陽上方約 15° 至 20°，該處天光偏振度接近零。",
     "source_url": "https://glossary.ametsoc.org/wiki/Babinet_point"
   },
   {
     "english": "Babinet's principle",
     "traditional_chinese": "巴比涅原理",
-    "definition_cht": "波動光學中的近似原理，指出不透明物體與同形狹孔在前向散射或繞射振幅上具有對應關係，常用於散射分析。",
+    "definition_cht": "波動光學中的原理，指互補遮體與孔徑所形成的繞射圖樣除前向主束整體強度外近乎相同，常用於分析繞射與散射問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/Babinet%27s_principle"
   },
   {
     "english": "back-sheared anvil",
-    "traditional_chinese": "後切變砧狀雲頂",
-    "definition_cht": "強對流雲砧在垂直風切作用下向風暴後側外伸的雲頂結構，常反映高空氣流與對流組織特徵。",
+    "traditional_chinese": "逆風砧狀雲",
+    "definition_cht": "雷暴砧狀雲向高空氣流上游伸展的現象，表示強烈上升氣流頂部附近具有顯著輻散，常暗示強對流與較高的劇烈天氣潛勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/back-sheared_anvil"
   },
   {
     "english": "backdoor cold front",
     "traditional_chinese": "背門冷鋒",
-    "definition_cht": "自東北側或海上反向侵入的冷鋒，常見於北美東岸等地，其進入方向不同於典型西風帶冷鋒。",
+    "definition_cht": "沿美國大西洋沿岸向南或西南推進、由海上或東北側侵入的冷鋒，進入方向與中緯度典型西風帶冷鋒相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/backdoor_cold_front"
   },
   {
     "english": "background field",
     "traditional_chinese": "背景場",
-    "definition_cht": "指與「背景場」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "在資料同化中，指分析時刻之前由短期預報提供的先驗大氣狀態場，作為結合觀測進行分析的第一猜場。",
     "source_url": "https://glossary.ametsoc.org/wiki/background_field"
   },
   {
     "english": "background level",
-    "traditional_chinese": "背景值",
-    "definition_cht": "指與「背景值」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "背景濃度",
+    "definition_cht": "背景污染的濃度水準，即在未受局地排放明顯加成時，環境中原已存在的污染物濃度。",
     "source_url": "https://glossary.ametsoc.org/wiki/background_level"
   },
   {
     "english": "background pollution",
     "traditional_chinese": "背景污染",
-    "definition_cht": "指與「背景污染」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "非由當地排放直接造成、而是由遠距輸送、區域累積或自然來源原本存在於環境中的污染成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/background_pollution"
   },
   {
     "english": "backing",
     "traditional_chinese": "逆轉",
-    "definition_cht": "風向隨時間呈逆時針轉變，或隨高度朝較低方位角改變的現象；在氣象上常用以描述風場旋轉。",
+    "definition_cht": "指風向隨時間或隨高度作逆時針變化的現象；在北半球常與冷平流有關，與順時針轉變的 veering 相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/backing"
   },
   {
     "english": "backing wind",
-    "traditional_chinese": "風向逆轉",
-    "definition_cht": "指風向發生逆轉的風，即風向隨時間逆時針變化；在北半球常與冷平流或天氣系統演變有關。",
+    "traditional_chinese": "逆轉風",
+    "definition_cht": "風向呈逆時針轉變的風；可指隨時間轉向，亦可指隨高度轉向，在北半球常與冷平流相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/backing_wind"
   },
   {
     "english": "backlash",
     "traditional_chinese": "回程間隙",
-    "definition_cht": "指與「回程間隙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "機械傳動元件在反向運動時，因零件間存在間隙而產生的空程或延遲；於雷達天線掃描機構中可能造成指向誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/backlash"
   },
   {
     "english": "backlobe",
-    "traditional_chinese": "後瓣",
-    "definition_cht": "指與「後瓣」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "後向瓣",
+    "definition_cht": "天線方向圖中位於主瓣反方向、約與主瓣相差 180° 的旁瓣。",
     "source_url": "https://glossary.ametsoc.org/wiki/backlobe"
   },
   {
     "english": "backpropagation",
     "traditional_chinese": "反向傳播",
-    "definition_cht": "指與「反向傳播」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "類神經網路訓練中依損失函數將誤差由輸出層向輸入層回傳，並利用鏈鎖律計算各參數梯度的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/backpropagation"
   },
   {
     "english": "Backscatter",
     "traditional_chinese": "反向散射",
-    "definition_cht": "指與「反向散射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "入射輻射在散射後沿近乎反向（雷達與光達常取 180° 方向）返回來源方向的部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/Backscatter"
   },
   {
     "english": "backscattering cross section",
-    "traditional_chinese": "後向散射截面",
-    "definition_cht": "表徵目標將入射能量向後散射能力的有效截面量，常作為雷達與散射體特性分析的重要參數。",
+    "traditional_chinese": "反向散射截面",
+    "definition_cht": "表徵目標將入射能量朝雷達方向散射回去能力的有效截面量，是描述目標後向散射強弱的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/backscattering_cross_section"
   },
   {
