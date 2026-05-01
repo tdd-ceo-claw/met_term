@@ -4130,121 +4130,121 @@
   {
     "english": "Attractor",
     "traditional_chinese": "吸引子",
-    "definition_cht": "動力系統在長時間演化後，其狀態軌跡所趨近的集合，可為定點、極限環或混沌吸引子。",
+    "definition_cht": "動力系統在長時間演化後，狀態軌跡所趨近或反覆停留的相空間集合，可為定點、極限環、環面或奇異吸引子。",
     "source_url": "https://glossary.ametsoc.org/wiki/Attractor"
   },
   {
     "english": "audibility zone",
     "traditional_chinese": "可聞區",
-    "definition_cht": "聲音在特定背景噪音與傳播條件下可被人耳或儀器辨識的空間範圍。",
+    "definition_cht": "在既定大氣傳播與背景噪音條件下，聲音仍可被聽見或辨識的空間範圍；常用於描述爆炸、雷聲等聲波傳播的可聞區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/audibility_zone"
   },
   {
     "english": "aufeis",
     "traditional_chinese": "層狀河冰",
-    "definition_cht": "寒冷地區地下水或河水反覆溢流並在地表逐層凍結所形成的大面積層狀冰體。",
+    "definition_cht": "寒冷地區泉水、地下水或河水反覆湧流至既有冰面上並逐層凍結後形成的大面積層狀冰體，亦稱 overflow ice 或 icing。",
     "source_url": "https://glossary.ametsoc.org/wiki/aufeis"
   },
   {
     "english": "aureole",
     "traditional_chinese": "光暈帶",
-    "definition_cht": "圍繞太陽、月亮或明亮目標周圍，由散射形成的亮暈區。",
+    "definition_cht": "太陽、月亮或其他明亮光源周圍，由小水滴、冰晶或氣膠前向散射／繞射所形成的近光源亮暈區。",
     "source_url": "https://glossary.ametsoc.org/wiki/aureole"
   },
   {
     "english": "Aurora",
     "traditional_chinese": "極光",
-    "definition_cht": "高能帶電粒子沿地磁場進入高層大氣並激發氣體發光所形成的光象。",
+    "definition_cht": "太陽風或磁層中的高能帶電粒子沿地磁場進入高層大氣，激發氧、氮等氣體發光所形成的天空光象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Aurora"
   },
   {
     "english": "aurora australis",
     "traditional_chinese": "南極光",
-    "definition_cht": "發生於南半球高緯地區的極光現象。",
+    "definition_cht": "出現在南半球高緯地區的極光，又稱南方極光（southern lights）。",
     "source_url": "https://glossary.ametsoc.org/wiki/aurora_australis"
   },
   {
     "english": "aurora borealis",
     "traditional_chinese": "北極光",
-    "definition_cht": "發生於北半球高緯地區的極光現象。",
+    "definition_cht": "出現在北半球高緯地區的極光，又稱北方極光（northern lights）。",
     "source_url": "https://glossary.ametsoc.org/wiki/aurora_borealis"
   },
   {
     "english": "aurora polaris",
     "traditional_chinese": "極區極光",
-    "definition_cht": "泛指出現在地磁高緯區的極光現象。",
+    "definition_cht": "泛指高緯度地區所見的極光，可統稱北極光與南極光的極區極光。",
     "source_url": "https://glossary.ametsoc.org/wiki/aurora_polaris"
   },
   {
     "english": "auroral arc",
     "traditional_chinese": "極光弧",
-    "definition_cht": "呈弧帶狀分布的極光結構，常沿地磁緯圈延展。",
+    "definition_cht": "極光的一種弧帶狀型態，外觀為略微彎曲的亮弧，通常沿地磁緯向延伸。",
     "source_url": "https://glossary.ametsoc.org/wiki/auroral_arc"
   },
   {
     "english": "auroral bands",
     "traditional_chinese": "極光帶",
-    "definition_cht": "由多條極光弧或亮帶組成的帶狀發光區。",
+    "definition_cht": "呈帶狀或片狀發光的極光結構，常順著地磁場方向傾斜，可為均勻、具射線或條紋的單一或多重亮帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/auroral_bands"
   },
   {
     "english": "auroral corona",
     "traditional_chinese": "極光冠",
-    "definition_cht": "當多條極光射線在視覺上匯聚至頭頂附近時形成的冠狀極光形態。",
+    "definition_cht": "較複雜的射線狀極光在觀測者頭頂附近沿視線方向匯聚時，所呈現的冠狀或扇狀極光型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/auroral_corona"
   },
   {
     "english": "auroral curtains",
     "traditional_chinese": "極光幕",
-    "definition_cht": "外觀如垂幕般起伏的極光結構，常由許多平行射線組成。",
+    "definition_cht": "外觀如垂幕或簾幕的極光結構，通常由大量沿地磁力線排列的平行射線所組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/auroral_curtains"
   },
   {
     "english": "Auroral oval",
     "traditional_chinese": "極光橢圓帶",
-    "definition_cht": "環繞地磁極附近、極光發生頻率最高的橢圓形區域。",
+    "definition_cht": "環繞各地磁極附近、極光最常出現的橢圓形環帶；其位置與尺度會隨地磁活動強弱而變動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Auroral_oval"
   },
   {
     "english": "auroral rays",
     "traditional_chinese": "極光射線",
-    "definition_cht": "沿地磁力線方向伸展的細長亮柱狀極光結構。",
+    "definition_cht": "沿地磁力線方向延伸的細長柱狀或束狀極光結構，為極光中常見的射線形態。",
     "source_url": "https://glossary.ametsoc.org/wiki/auroral_rays"
   },
   {
     "english": "auroral zone",
     "traditional_chinese": "極光帶",
-    "definition_cht": "地球上最常出現極光的高緯區域，通常位於地磁極周圍。",
+    "definition_cht": "環繞南、北地磁極且極光活動最頻繁的高緯區域，通常指平均意義下的極光主要發生帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/auroral_zone"
   },
   {
     "english": "austausch",
     "traditional_chinese": "交換作用",
-    "definition_cht": "德語借詞，指湍流或其他物理過程所造成的動量、熱量或物質交換。",
+    "definition_cht": "源自德語的術語，指大氣或海洋中因湍流等作用造成的動量、熱量或物質交換；現多以 exchange 表述。",
     "source_url": "https://glossary.ametsoc.org/wiki/austausch"
   },
   {
     "english": "austausch coefficients",
     "traditional_chinese": "交換係數",
-    "definition_cht": "用以參數化湍流混合中動量、熱量或物質垂直交換效率的係數。",
+    "definition_cht": "湍流交換係數的舊稱，指保守性物質的湍流通量與其平均量在法向梯度之比，用以表徵湍流傳輸效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/austausch_coefficients"
   },
   {
     "english": "Australasian Mediterranean Water",
     "traditional_chinese": "澳大拉西亞地中海型水",
-    "definition_cht": "源自澳大拉西亞邊緣海並向外海輸出的高鹽中層水團，屬區域性地中海型外流海水。",
+    "definition_cht": "在印尼海域（Australasian Mediterranean Sea）形成的地中海型水團，亦稱班達海水，可隨印尼穿流進入印度洋。",
     "source_url": "https://glossary.ametsoc.org/wiki/Australasian_Mediterranean_Water"
   },
   {
     "english": "austru",
     "traditional_chinese": "奧斯楚風",
-    "definition_cht": "羅馬尼亞等地對南風或暖風的地方名稱，屬局地或區域風系稱呼。",
+    "definition_cht": "羅馬尼亞的地方風名，常指影響西部地區的炎熱乾燥南至西南風；在部分地區亦帶有焚風性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/austru"
   },
   {
     "english": "autan",
     "traditional_chinese": "奧唐風",
-    "definition_cht": "法國西南部的一種地方風，通常為溫暖乾燥且陣性明顯的東南風。",
+    "definition_cht": "法國西南部的地方風，通常為來自東南方向、帶焚風性質且陣風明顯的暖乾風。",
     "source_url": "https://glossary.ametsoc.org/wiki/autan"
   },
   {
