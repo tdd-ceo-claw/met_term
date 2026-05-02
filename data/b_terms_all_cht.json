@@ -932,121 +932,121 @@
   {
     "english": "Bemporad's formula",
     "traditional_chinese": "班波拉德公式",
-    "definition_cht": "指與「班波拉德公式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "用於計算光學氣團量的經驗公式；在天頂距較大時，可比單純以 sec z 近似更準確地估算光線穿越大氣的相對路徑長度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bemporad%27s_formula"
   },
   {
     "english": "Bénard cell",
-    "traditional_chinese": "貝納德細胞",
-    "definition_cht": "指與「貝納德細胞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "貝納德對流胞",
+    "definition_cht": "流體自下方受熱、上方較冷且原先近於靜止時形成的胞狀對流結構，自上方觀察常呈近六角形排列，為熱對流不穩定的典型形態。",
     "source_url": "https://glossary.ametsoc.org/wiki/B%C3%A9nard_cell"
   },
   {
     "english": "benchmark",
-    "traditional_chinese": "基準",
-    "definition_cht": "指與「基準」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "高程基準點",
+    "definition_cht": "測量或水文作業中的永久參考點，其高程已與既定基準面或國家控制網連結，用以作為水位、地形或工程測量的比對基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/benchmark"
   },
   {
     "english": "benchmark station",
-    "traditional_chinese": "基準站",
-    "definition_cht": "指與「基準站」相關的觀測站、作業站位或資料採集位置。",
+    "traditional_chinese": "基準氣候站",
+    "definition_cht": "設站位置與周遭環境長期維持穩定、且具有長時間連續觀測紀錄的氣候站，用於氣候監測、長期變化比較與資料基準化。",
     "source_url": "https://glossary.ametsoc.org/wiki/benchmark_station"
   },
   {
     "english": "Benguela Current",
-    "traditional_chinese": "本格拉洋流",
-    "definition_cht": "指與「本格拉洋流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "traditional_chinese": "本格拉海流",
+    "definition_cht": "南大西洋東側沿非洲西南岸向北流動的寒流，屬東岸邊界流體系，並與沿岸湧升密切相關，對區域海溫、養分供應與氣候具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Benguela_Current"
   },
   {
     "english": "bent-back occlusion",
-    "traditional_chinese": "後彎咬合",
-    "definition_cht": "指與「後彎咬合」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "後彎囚錮鋒",
+    "definition_cht": "因新氣旋在囚錮點附近發展，或舊氣旋沿鋒面移位，致使囚錮鋒前進方向反轉並向後彎折的囚錮鋒型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/bent-back_occlusion"
   },
   {
     "english": "bentu de soli",
-    "traditional_chinese": "本圖德索利",
-    "definition_cht": "指與「本圖德索利」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "撒丁尼亞東風",
+    "definition_cht": "撒丁尼亞沿岸的地方性東風名稱，指由東方吹向海岸的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/bentu_de_soli"
   },
   {
     "english": "benzene",
     "traditional_chinese": "苯",
-    "definition_cht": "指與「苯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "化學式為 C6H6 的揮發性芳香烴，常見於燃油蒸發、車輛排放、工業製程與不完全燃燒排放，亦是重要的有毒空氣污染物。",
     "source_url": "https://glossary.ametsoc.org/wiki/benzene"
   },
   {
     "english": "benzo-a-pyrene",
-    "traditional_chinese": "苯並芘",
-    "definition_cht": "指與「苯並芘」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "苯並[a]芘",
+    "definition_cht": "一種多環芳香烴，常由有機物或化石燃料不完全燃燒產生，存在於懸浮微粒與煙霧中，常作為致癌性空氣污染物的指標物之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/benzo-a-pyrene"
   },
   {
     "english": "berg",
-    "traditional_chinese": "伯格",
-    "definition_cht": "指與「伯格」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "冰山",
+    "definition_cht": "由冰川或冰棚崩解後漂浮於海面的巨大冰體，通常指尺寸已大於 bergy bit 的浮冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/berg"
   },
   {
     "english": "Berg wind",
-    "traditional_chinese": "伯格風",
-    "definition_cht": "指與「伯格風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "traditional_chinese": "南非伯格風",
+    "definition_cht": "南非內陸高原向海岸吹送的炎熱、乾燥且陣風強勁的下降風，屬焚風型地方風，冬季尤其常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/Berg_wind"
   },
   {
     "english": "Bergeron classification",
-    "traditional_chinese": "伯傑龍分類",
-    "definition_cht": "指依特定準則對「伯傑龍分類」相關現象、類型或樣態所做的分類系統。",
+    "traditional_chinese": "伯吉龍氣團分類",
+    "definition_cht": "最常用的氣團分類系統，依氣團源地的熱力性質與下墊面濕潤特徵加以區分，如熱帶、極地以及大陸性、海洋性等類別。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bergeron_classification"
   },
   {
     "english": "Bergeron–Findeisen process",
-    "traditional_chinese": "伯傑龍-芬德森過程",
-    "definition_cht": "指「伯傑龍-芬德森過程」所涉及的物理、化學或動力過程，用於說明形成與演變機制。",
+    "traditional_chinese": "伯吉龍－芬德艾森過程",
+    "definition_cht": "混合相雲中因冰面飽和水氣壓低於水面飽和水氣壓，致使過冷水滴蒸發、水氣轉而沉積到冰晶上，使冰晶成長並促進降水形成的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bergeron%E2%80%93Findeisen_process"
   },
   {
     "english": "bergy bit",
-    "traditional_chinese": "伯格比特",
-    "definition_cht": "指與「伯格比特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "小冰山碎塊",
+    "definition_cht": "由冰山或冰川冰體崩解出的較小浮冰，尺度小於一般冰山但大於 growler，常用於航海與海冰觀測分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/bergy_bit"
   },
   {
     "english": "Bering Slope Current",
-    "traditional_chinese": "白令山坡流",
-    "definition_cht": "指與「白令山坡流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "traditional_chinese": "白令坡流",
+    "definition_cht": "沿白令海阿留申盆地東側大陸坡流動的邊界海流，通常朝西北至北向延伸，是白令海盆地氣旋式環流的重要組成之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bering_Slope_Current"
   },
   {
     "english": "Bermuda high",
-    "traditional_chinese": "百慕達高中",
-    "definition_cht": "指與「百慕達高中」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "百慕達高壓",
+    "definition_cht": "北大西洋副熱帶高壓在海洋西部時的名稱，屬半永久性高壓系統，對北大西洋風場、天氣型態與熱帶氣旋路徑有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bermuda_high"
   },
   {
     "english": "Bernal–Fowler rules",
-    "traditional_chinese": "伯納爾-福勒規則",
-    "definition_cht": "指與「伯納爾-福勒規則」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "伯納爾－福勒規則",
+    "definition_cht": "描述冰晶中水分子與氫鍵排列的基本規則：每個氧原子鄰近兩個氫原子，且每一條氧－氧鍵上只容許一個氫原子，以維持水分子結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bernal%E2%80%93Fowler_rules"
   },
   {
     "english": "Bernoulli's theorem",
-    "traditional_chinese": "伯努利定理",
-    "definition_cht": "「伯努利定理」相關的理論定理或數學命題，用以說明特定物理或統計性質。",
+    "traditional_chinese": "伯努力定理",
+    "definition_cht": "在定常、無黏且不可壓縮流體沿同一流線運動時，壓力能、動能與位能的總和保持不變的定理，常用於說明流速與壓力的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bernoulli%27s_theorem"
   },
   {
     "english": "Besson nephoscope",
-    "traditional_chinese": "貝松腎鏡",
-    "definition_cht": "指與「貝松腎鏡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "貝松雲向儀",
+    "definition_cht": "一種雲向儀，藉由將雲的移動與格柵或耙形參考架直接比對，以判定雲的漂移方向，並可配合估算移動速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Besson_nephoscope"
   },
   {
     "english": "Best number",
-    "traditional_chinese": "最佳號碼",
-    "definition_cht": "指與「最佳號碼」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "戴維斯數（Best number）",
+    "definition_cht": "又稱 Davies number，為 CdRe² 形式的無因次數，用於計算降水粒子或其他粒子在流體中的終端落速。",
     "source_url": "https://glossary.ametsoc.org/wiki/Best_number"
   },
   {
