@@ -5929,122 +5929,122 @@
   },
   {
     "english": "bird burst",
-    "traditional_chinese": "鳥爆發",
-    "definition_cht": "指與「鳥爆發」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "鳥群爆發回波",
+    "definition_cht": "天氣雷達於日出前後常見的生物性回波現象，指棲息地中的鳥群集體起飛後，在雷達上形成由中心向外擴張的環狀或近環狀回波；其都卜勒速度場在低層可呈現類似微下衝的發散訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/bird_burst"
   },
   {
     "english": "birefringence",
     "traditional_chinese": "雙折射",
-    "definition_cht": "指與「雙折射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "各向異性介質的一種光學性質，指光在材料中的折射率會隨傳播方向或偏振方向而改變，因而使入射光分裂為兩束偏振態不同、傳播速率不同的光線；亦稱雙重折射。",
     "source_url": "https://glossary.ametsoc.org/wiki/birefringence"
   },
   {
     "english": "Birkeland currents",
-    "traditional_chinese": "伯克蘭洋流",
-    "definition_cht": "指與「伯克蘭洋流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "traditional_chinese": "伯克蘭電流",
+    "definition_cht": "沿地球磁力線在磁層與高緯電離層之間流動的電流系統，屬場向電流，與極光活動及極區電流系統密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Birkeland_currents"
   },
   {
     "english": "bise",
-    "traditional_chinese": "寒風",
-    "definition_cht": "指與「寒風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "比斯風",
+    "definition_cht": "瑞士一帶的地方風，通常指橫越瑞士高原、由東北向西南吹送的冷而乾的東北風；在特定壓場配置下可增強並伴隨低溫、雲量增加或降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/bise"
   },
   {
     "english": "Bishop wave",
-    "traditional_chinese": "主教波",
-    "definition_cht": "指與「主教波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "traditional_chinese": "畢曉普波",
+    "definition_cht": "美國加州畢曉普附近、內華達山脈背風側形成的著名大氣背風波個案，常伴隨透鏡雲、轉子雲及強烈上升與亂流現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bishop_wave"
   },
   {
     "english": "Bishop's ring",
-    "traditional_chinese": "主教的戒指",
-    "definition_cht": "指與「主教的戒指」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "畢曉普環",
+    "definition_cht": "日輪或月輪附近可見的淡而寬廣之褐紅色光環或暈圈，多與高空極細火山灰或硫酸鹽氣膠對光的散射或繞射有關，1883 年喀拉喀托火山爆發後曾廣泛觀測到。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bishop%27s_ring"
   },
   {
     "english": "bistatic",
-    "traditional_chinese": "雙基地",
-    "definition_cht": "指與「雙基地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "雙基地的",
+    "definition_cht": "描述發射端與接收端分設於不同地點之遙測或雷達觀測配置的形容詞；相對於單基地系統，其幾何關係需同時考慮發射器、目標與接收器的位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/bistatic"
   },
   {
     "english": "bistatic radar",
     "traditional_chinese": "雙基地雷達",
-    "definition_cht": "指與「雙基地雷達」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "發射機與接收機設於不同位置的雷達系統；電磁波由發射端射向目標後，再由另一地點的接收端量測散射訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/bistatic_radar"
   },
   {
     "english": "bit",
     "traditional_chinese": "位元",
-    "definition_cht": "指與「位元」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "數位資訊與資料傳輸的基本單位，為 binary digit 的縮寫，只能表示兩種狀態，通常記為 0 與 1。",
     "source_url": "https://glossary.ametsoc.org/wiki/bit"
   },
   {
     "english": "bit rate",
     "traditional_chinese": "位元率",
-    "definition_cht": "指「位元率」的變化速率、傳輸速率或作業速率，用於量化過程快慢。",
+    "definition_cht": "單位時間內傳輸或處理的位元數，通常以 bits per second（bps）表示；其概念不同於鮑率，後者描述每秒符號變化次數。",
     "source_url": "https://glossary.ametsoc.org/wiki/bit_rate"
   },
   {
     "english": "bittern",
-    "traditional_chinese": "鹵水",
-    "definition_cht": "指與「鹵水」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "苦鹵",
+    "definition_cht": "海水或鹽鹵在氯化鈉析出後所剩的高鹽度苦味母液，富含鎂鹽、鈣鹽、鉀鹽及其他離子，常見於鹽田蒸發與鹵水濃縮過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/bittern"
   },
   {
     "english": "bivane",
-    "traditional_chinese": "比瓦內",
-    "definition_cht": "指與「比瓦內」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "雙翼風向儀",
+    "definition_cht": "用於量測三維風向擾動的儀器，通常由兩片互相垂直的輕質翼面裝於可在水平與垂直平面轉動的平衡桿上，以偵測水平風向與仰俯角變化；部分型式可兼測風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/bivane"
   },
   {
     "english": "BL",
-    "traditional_chinese": "BL",
-    "definition_cht": "「BL」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。",
+    "traditional_chinese": "邊界層（縮寫）",
+    "definition_cht": "boundary layer 的縮寫；在氣象學中通常指大氣邊界層，即直接受地表摩擦、熱力與水氣通量影響、並能在約一小時或更短時間內回應地表強迫的近地層大氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/BL"
   },
   {
     "english": "black blizzard",
-    "traditional_chinese": "黑色暴風雪",
-    "definition_cht": "指與「黑色暴風雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "黑色塵暴",
+    "definition_cht": "含塵極濃、範圍廣且常伴隨強風的嚴重沙塵暴或塵暴；因空中塵土密布使天空昏黑如暴風雪而得名，亦可作為 duststorm 的別稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/black_blizzard"
   },
   {
     "english": "black fog",
     "traditional_chinese": "黑霧",
-    "definition_cht": "指與「黑霧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "受煤煙、煤焦油微粒與二氧化硫等污染物嚴重混入的濃霧或煙霧，常呈黑灰、黃綠或污濁外觀；為早期工業城市典型的污染霧現象，亦近似所稱的 pea-soup fog。",
     "source_url": "https://glossary.ametsoc.org/wiki/black_fog"
   },
   {
     "english": "black frost",
     "traditional_chinese": "黑霜",
-    "definition_cht": "指與「黑霜」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "就植物受害而言的一種乾凍現象，指植物組織在未形成具保護作用的白霜或霜華時即發生內部凍結，常造成植株發黑枯死，因此亦屬致死霜凍。",
     "source_url": "https://glossary.ametsoc.org/wiki/black_frost"
   },
   {
     "english": "black ice",
     "traditional_chinese": "黑冰",
-    "definition_cht": "指與「黑冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "definition_cht": "路面、橋面或其他表面上形成的薄而透明、視覺上不易察覺的冰層，常由細雨、毛毛雨、融雪水或過冷霧滴在表面溫度低於 0°C 時凍結而成，對交通極具危險性。",
     "source_url": "https://glossary.ametsoc.org/wiki/black_ice"
   },
   {
     "english": "black northeaster",
-    "traditional_chinese": "黑東北風",
-    "definition_cht": "指與「黑東北風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "黑色東北烈風",
+    "definition_cht": "澳洲與紐西蘭一帶對強勁東北風或東北烈風的名稱，通常伴隨陰暗天色、厚雲、風浪或惡劣天氣；可視為地方性 northeaster 的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/black_northeaster"
   },
   {
     "english": "black squall",
     "traditional_chinese": "黑颮",
-    "definition_cht": "指與「黑颮」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "伴隨深色雲系、且通常帶有強陣風與大雨的颮；航海與天氣描述中常用以指來勢迅猛、天色驟暗的局地強風天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/black_squall"
   },
   {
     "english": "black storm",
     "traditional_chinese": "黑色風暴",
-    "definition_cht": "指與「黑色風暴」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "泛指伴隨濃密暗黑雲層的風暴，尤常指雷暴；重點在於其陰沉厚重的雲貌與惡劣天氣徵象。",
     "source_url": "https://glossary.ametsoc.org/wiki/black_storm"
   },
   {
