@@ -6050,121 +6050,121 @@
   {
     "english": "black stratus",
     "traditional_chinese": "黑色層雲",
-    "definition_cht": "指與「黑色層雲」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "衛星雲圖術語，指雲頂溫度高於周圍無雲地表的層雲，因此在黑白紅外線雲圖上常呈現較暗色調。",
     "source_url": "https://glossary.ametsoc.org/wiki/black_stratus"
   },
   {
     "english": "black-bulb thermometer",
     "traditional_chinese": "黑球溫度計",
-    "definition_cht": "用於量測「黑球溫度計」相關物理量的儀器或量測裝置。",
+    "definition_cht": "感測部塗覆燈黑以近似黑體的溫度計，通常置於抽成近真空的透明外罩內，用以量測日射或輻射加熱效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/black-bulb_thermometer"
   },
   {
     "english": "blackbody",
     "traditional_chinese": "黑體",
-    "definition_cht": "指與「黑體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "理想化物體，可吸收所有入射電磁輻射，並在熱平衡時依其溫度發射特定光譜的熱輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/blackbody"
   },
   {
     "english": "blackbody radiation",
     "traditional_chinese": "黑體輻射",
-    "definition_cht": "指與「黑體輻射」相關的輻射過程、能量通量或電磁傳播效應。",
+    "definition_cht": "黑體在熱力平衡下所發出的電磁輻射，其光譜分布與總輻射能量僅由溫度決定。",
     "source_url": "https://glossary.ametsoc.org/wiki/blackbody_radiation"
   },
   {
     "english": "blackbody temperature",
     "traditional_chinese": "黑體溫度",
-    "definition_cht": "指與「黑體溫度」相關的溫度量、溫度分布或其代表性特徵。",
+    "definition_cht": "若某輻射體以黑體方式發射，能產生與其相同輻射通量密度時所對應的黑體溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/blackbody_temperature"
   },
   {
     "english": "Blackthorn winter",
-    "traditional_chinese": "黑刺李冬天",
-    "definition_cht": "指與「黑刺李冬天」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "黑刺李春寒",
+    "definition_cht": "英國民間天氣名詞，指黑刺李開花前後春季短暫再度轉冷的天氣型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/Blackthorn_winter"
   },
   {
     "english": "blad",
-    "traditional_chinese": "布拉德",
-    "definition_cht": "指與「布拉德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "暴雨陣風",
+    "definition_cht": "蘇格蘭地區用語，指伴隨強陣風的急驟大雨或風雨突增的天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/blad"
   },
   {
     "english": "blaze",
-    "traditional_chinese": "火焰",
-    "definition_cht": "指與「火焰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "乾熱陣風",
+    "definition_cht": "蘇格蘭地區用語，指突然吹起的一陣乾風。",
     "source_url": "https://glossary.ametsoc.org/wiki/blaze"
   },
   {
     "english": "blending height",
     "traditional_chinese": "混合高度",
-    "definition_cht": "指與「混合高度」相關的高度量測或特徵高度，用以描述結構位置或垂直尺度。",
+    "definition_cht": "在下墊面性質不均一時，近地層湍流通量與垂直剖面影響可在水平方向逐漸混合均勻的代表高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/blending_height"
   },
   {
     "english": "blind rollers",
-    "traditional_chinese": "盲輥",
-    "definition_cht": "指與「盲輥」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "暗湧長浪",
+    "definition_cht": "指長週期海湧通過淺灘時雖接近碎波、但未明顯破碎的長浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/blind_rollers"
   },
   {
     "english": "blink",
-    "traditional_chinese": "眨",
-    "definition_cht": "指與「眨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "映光",
+    "definition_cht": "極地氣象用語，指冰面或積雪反射光線後，在低雲底部形成的亮帶或亮區，如冰映光、雪映光。",
     "source_url": "https://glossary.ametsoc.org/wiki/blink"
   },
   {
     "english": "blinter",
-    "traditional_chinese": "布林特",
-    "definition_cht": "指與「布林特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "陣風",
+    "definition_cht": "蘇格蘭地區用語，指短暫而突發的一陣風。",
     "source_url": "https://glossary.ametsoc.org/wiki/blinter"
   },
   {
     "english": "blip",
-    "traditional_chinese": "光點",
-    "definition_cht": "指與「光點」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "雷達光點",
+    "definition_cht": "雷達或示波顯示器上代表目標回波的短暫亮點或訊號痕跡。",
     "source_url": "https://glossary.ametsoc.org/wiki/blip"
   },
   {
     "english": "blirty",
-    "traditional_chinese": "活潑的",
-    "definition_cht": "指與「活潑的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "風雨多變",
+    "definition_cht": "蘇格蘭地區用語，形容陣風夾雨、天氣多變且不穩定的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/blirty"
   },
   {
     "english": "blizzard",
     "traditional_chinese": "暴風雪",
-    "definition_cht": "指與「暴風雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "強風伴隨降雪或吹雪，並使能見度顯著降低且持續一段時間的強烈雪暴天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/blizzard"
   },
   {
     "english": "blocking",
-    "traditional_chinese": "阻塞",
-    "definition_cht": "指與「阻塞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "大氣阻塞",
+    "definition_cht": "大尺度環流形勢中，原本由西向東移動的氣旋與反氣旋受持續性高壓或經向流型阻擋而顯著減速、停滯或改道的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/blocking"
   },
   {
     "english": "blocking high",
-    "traditional_chinese": "阻塞高",
-    "definition_cht": "指與「阻塞高」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "阻塞高壓",
+    "definition_cht": "移動緩慢或近乎停滯的高壓系統，能有效阻擋上游天氣系統東移並改變中緯度環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/blocking_high"
   },
   {
     "english": "blocking oscillator",
-    "traditional_chinese": "阻塞振盪器",
-    "definition_cht": "指與「阻塞振盪器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "阻斷振盪器",
+    "definition_cht": "一種以主動元件在大部分週期內被截止為特徵的脈衝振盪電路，常用於雷達等設備的定時或脈衝產生。",
     "source_url": "https://glossary.ametsoc.org/wiki/blocking_oscillator"
   },
   {
     "english": "blood rain",
     "traditional_chinese": "血雨",
-    "definition_cht": "指與「血雨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "因雨滴在下降過程中夾帶紅色塵埃、花粉或其他微粒，使雨水呈紅色或紅褐色的降雨現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/blood_rain"
   },
   {
     "english": "blout",
-    "traditional_chinese": "吹噓",
-    "definition_cht": "指與「吹噓」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "驟風暴雨",
+    "definition_cht": "蘇格蘭地區用語，指風勢突起並夾帶雨或冰雹的驟發性風暴或急驟降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/blout"
   },
   {
