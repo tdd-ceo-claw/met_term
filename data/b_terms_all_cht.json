@@ -1651,123 +1651,123 @@
   },
   {
     "english": "bohorok",
-    "traditional_chinese": "博霍羅克",
-    "definition_cht": "指與「博霍羅克」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bohorok"
+    "traditional_chinese": "博霍羅克風",
+    "definition_cht": "蘇門答臘巴里桑山脈背風側吹向德利平原的地方性焚風型乾熱風，多見於 5 至 9 月，常伴隨增溫、乾燥，並可能危害當地菸草作物。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bohorok"
   },
   {
     "english": "boil",
-    "traditional_chinese": "熬",
-    "definition_cht": "指與「熬」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/boil"
+    "traditional_chinese": "湧沸",
+    "definition_cht": "水體表面因下方強烈紊流、上升流或剪流而形成的翻湧區，外觀近似沸騰；常用於描述河川、潮流或近岸水域的局部強擾動。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boil"
   },
   {
     "english": "boiling point",
     "traditional_chinese": "沸點",
-    "definition_cht": "指與「沸點」相關的特徵點、基準點或觀測辨識位置，用於描述幾何、光學或動力結構。",
-    "source_url": "https://glossary.ametsoc.org/wiki/boiling_point"
+    "definition_cht": "液體之平衡蒸氣壓等於外界壓力時的溫度；達此溫度後液體可於整體內部開始沸騰，因此沸點會隨環境氣壓而改變。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boiling_point"
   },
   {
     "english": "Bolling–Allerod",
-    "traditional_chinese": "博林-阿勒羅德",
-    "definition_cht": "指與「博林-阿勒羅德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Bolling%E2%80%93Allerod"
+    "traditional_chinese": "波林－阿勒羅德暖期",
+    "definition_cht": "末次冰期晚期一段突發增暖時期，約始於距今 14,700 年並延續至約 12,700 年前，之後轉入新仙女木冷期；為古氣候重建中的重要分期。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bolling-allerod"
   },
   {
     "english": "bologram",
-    "traditional_chinese": "波譜圖",
-    "definition_cht": "指與「波譜圖」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bologram"
+    "traditional_chinese": "輻射熱測記圖",
+    "definition_cht": "由輻射熱計（bolometer）輸出的記錄或圖形，用以呈現電磁輻射能量或其變化。",
+    "source_url": "http://glossary.ametsoc.org/wiki/Bologram"
   },
   {
     "english": "bolometer",
-    "traditional_chinese": "輻射熱測量計",
-    "definition_cht": "用於量測「輻射熱測量計」相關物理量的儀器或量測裝置。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bolometer"
+    "traditional_chinese": "輻射熱計",
+    "definition_cht": "以材料受輻射加熱後電性變化為基礎，用來偵測與量測電磁輻射能量的高靈敏儀器，常應用於紅外線與遙測觀測。",
+    "source_url": "https://glossary.ametsoc.org/wiki/bolometer/"
   },
   {
     "english": "Boltzmann's constant",
     "traditional_chinese": "波茲曼常數",
-    "definition_cht": "指與「波茲曼常數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "連結單一粒子微觀能量尺度與溫度的基本常數，等於通用氣體常數除以阿伏加德羅常數；在統計力學、輻射與氣體動力學中廣泛使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boltzmann%27s_constant"
   },
   {
     "english": "Bomb cyclone",
-    "traditional_chinese": "炸彈旋風",
-    "definition_cht": "指與「炸彈旋風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Bomb_cyclone"
+    "traditional_chinese": "炸彈氣旋",
+    "definition_cht": "指中緯度地面氣旋在 24 小時內中心氣壓平均至少下降 24 hPa（並依緯度作適當換算）的爆發性發展現象，亦稱 explosive cyclogenesis。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bomb"
   },
   {
     "english": "bond energy",
     "traditional_chinese": "鍵能",
-    "definition_cht": "指與「鍵能」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bond_energy"
+    "definition_cht": "將分子中的化學鍵斷裂所需的能量，或化學鍵形成時所釋放的能量；常用於討論大氣化學反應與分子穩定性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bond_energy"
   },
   {
     "english": "book-end vortices",
-    "traditional_chinese": "書尾渦流",
-    "definition_cht": "指與「書尾渦流」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
-    "source_url": "https://glossary.ametsoc.org/wiki/book-end_vortices"
+    "traditional_chinese": "端部渦旋",
+    "definition_cht": "在弓形回波或線狀對流系統兩端形成的一對中尺度渦旋，初期常分別呈氣旋性與反氣旋性，並會影響系統後續增強、轉向與破壞風分布。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Book-end_vortices/"
   },
   {
     "english": "bora",
-    "traditional_chinese": "波拉",
-    "definition_cht": "指與「波拉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bora"
+    "traditional_chinese": "波拉風",
+    "definition_cht": "亞得里亞海沿岸與迪納里克山地常見的地方性強陣風型下坡冷風，多自東北或偏東吹出，具有寒冷、乾燥且陣風猛烈的特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bora"
   },
   {
     "english": "bora fog",
     "traditional_chinese": "波拉霧",
-    "definition_cht": "指與「波拉霧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bora_fog"
+    "definition_cht": "伴隨波拉風出現的霧，通常因冷而強的下坡氣流與較暖較濕空氣或海面交互作用而形成，常使沿岸能見度迅速惡化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bora_fog"
   },
   {
     "english": "bora scura",
-    "traditional_chinese": "博拉斯庫拉",
-    "definition_cht": "指與「博拉斯庫拉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bora_scura"
+    "traditional_chinese": "暗波拉風",
+    "definition_cht": "波拉風的一種濕冷型或氣旋型態，常伴隨雲層、降雨與較廣範圍惡劣天氣；相對於晴朗乾冷的反氣旋型波拉風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bora_scura"
   },
   {
     "english": "boraccia",
-    "traditional_chinese": "博拉恰",
-    "definition_cht": "指與「博拉恰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/boraccia"
+    "traditional_chinese": "強波拉風",
+    "definition_cht": "對強烈波拉風的地方性稱呼，指風勢特別猛烈的波拉事件，常造成沿岸航行、交通與設施風害風險升高。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Boraccia"
   },
   {
     "english": "borasca",
     "traditional_chinese": "波拉斯卡",
-    "definition_cht": "指與「波拉斯卡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/borasca"
+    "definition_cht": "地中海地區對強烈陣風或雷暴性狂風的稱呼，亦可寫作 borasco，字義近於「小波拉風」，實際上多指暴烈的 squall。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Borasca"
   },
   {
     "english": "bordelais",
-    "traditional_chinese": "波爾德萊",
-    "definition_cht": "指與「波爾德萊」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bordelais"
+    "traditional_chinese": "波爾德萊風",
+    "definition_cht": "一種地方性風名，通常指法國波爾多一帶所稱的區域風；實際風向與性質依地方用法而定，屬地名型傳統風名。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bordelais"
   },
   {
     "english": "border spring",
-    "traditional_chinese": "邊界彈簧",
-    "definition_cht": "指與「邊界彈簧」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/border_spring"
+    "traditional_chinese": "邊界泉",
+    "definition_cht": "地下水沿透水層與不透水層接觸邊界湧出的泉，常出現在地層界面或坡腳，屬依地質邊界控制的泉水型態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Border_spring"
   },
   {
     "english": "bore",
-    "traditional_chinese": "鑽孔",
-    "definition_cht": "指與「鑽孔」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/bore"
+    "traditional_chinese": "波狀躍升",
+    "definition_cht": "在穩定層或逆溫層中傳播的躍進式重力波擾動，通過時常伴隨氣壓、風向風速與溫度的突變；若後方出現連續波列，則可形成 undular bore。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Bore"
   },
   {
     "english": "Boreal",
-    "traditional_chinese": "北方",
-    "definition_cht": "指與「北方」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "北方帶的",
+    "definition_cht": "用以描述北方氣候帶、北半球高緯至中高緯寒冷區域，或與該區域生態與氣候特徵有關的形容詞。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boreal"
   },
   {
     "english": "boreal forest",
     "traditional_chinese": "北方森林",
-    "definition_cht": "指與「北方森林」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/boreal_forest"
+    "definition_cht": "分布於北半球高緯地區、以針葉林為主的大型森林帶，亦常與 taiga 概念相近；其氣候特徵為冬季寒冷且生長季較短。",
+    "source_url": "https://glossary.ametsoc.org/wiki/boreal-forest/"
   },
   {
     "english": "boreal woodland",
