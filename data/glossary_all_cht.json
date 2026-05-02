@@ -5810,121 +5810,121 @@
   {
     "english": "bimetallic strip",
     "traditional_chinese": "雙金屬片",
-    "definition_cht": "指與「雙金屬片」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "由兩種線膨脹係數不同的金屬牢固貼合而成的薄片，受熱或受冷時會因伸縮差異而彎曲，常用於溫度感測、控溫與機械式溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/bimetallic_strip"
   },
   {
     "english": "bimetallic thermometer",
     "traditional_chinese": "雙金屬溫度計",
-    "definition_cht": "用於量測「雙金屬溫度計」相關物理量的儀器或量測裝置。",
+    "definition_cht": "利用雙金屬片或雙金屬螺旋受溫度改變而彎曲的原理來測溫的機械式溫度計，可將形變轉換為指針讀值。",
     "source_url": "https://glossary.ametsoc.org/wiki/bimetallic_thermometer"
   },
   {
     "english": "bimodal spectrum",
     "traditional_chinese": "雙峰譜",
-    "definition_cht": "指與「雙峰譜」相關之頻譜或波譜分布，用於分析能量在頻率、波長或波數空間中的配置。",
+    "definition_cht": "具有兩個明顯峰值或模態的頻譜分布；在氣象雷達都卜勒譜中可表示存在兩組不同散射或速度成分，在海浪譜中亦常指風浪與湧浪各形成一個能量峰。",
     "source_url": "https://glossary.ametsoc.org/wiki/bimodal_spectrum"
   },
   {
     "english": "binary code",
-    "traditional_chinese": "二進位代碼",
-    "definition_cht": "指與「二進位代碼」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "二進位碼",
+    "definition_cht": "以 0 與 1 為基本符號的編碼方式；在氣象資料處理與遙測通訊中，常用於數值、字元、觀測訊號與控制資訊的數位表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/binary_code"
   },
   {
     "english": "binary cyclones",
-    "traditional_chinese": "雙旋風分離器",
-    "definition_cht": "指與「雙旋風分離器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "雙氣旋",
+    "definition_cht": "兩個彼此距離接近並相互作用的氣旋渦旋系統；其中心可繞共同區域作旋轉運動，屬氣旋間類似藤原效應的雙渦互動型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/binary_cyclones"
   },
   {
     "english": "binomial distribution",
-    "traditional_chinese": "二項式分佈",
-    "definition_cht": "指與「二項式分佈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "二項分布",
+    "definition_cht": "機率論中的離散分布，用以描述在 n 次彼此獨立、且每次成功機率固定為 p 的伯努力試驗中，成功次數的機率分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/binomial_distribution"
   },
   {
     "english": "bio-assay",
     "traditional_chinese": "生物測定",
-    "definition_cht": "指與「生物測定」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "以活體生物、細胞、組織或其生理反應來測定某物質效力、毒性、活性或濃度的方法，常用於污染、生態與藥理評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/bio-assay"
   },
   {
     "english": "biochemical oxygen demand",
     "traditional_chinese": "生化需氧量",
-    "definition_cht": "指與「生化需氧量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "水樣中可被微生物分解的有機物在一定條件與時間內所消耗之溶氧量，常作為評估水體有機污染程度與自淨負荷的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/biochemical_oxygen_demand"
   },
   {
     "english": "biochore",
-    "traditional_chinese": "生物群",
-    "definition_cht": "指與「生物群」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "生物群區",
+    "definition_cht": "生物圈中的一種區劃單元，由環境條件與棲地性質相近、因而具有相似生物群聚的多個生境所組成，可用於生物地理與生態分區。",
     "source_url": "https://glossary.ametsoc.org/wiki/biochore"
   },
   {
     "english": "bioclimatograph",
-    "traditional_chinese": "生物氣候儀",
-    "definition_cht": "以圖形方式呈現「生物氣候儀」相關量值、分類或變化關係的圖表。",
+    "traditional_chinese": "生物氣候圖",
+    "definition_cht": "用以顯示氣候條件與特定生物之間關係的氣候圖表，常將溫度、降水或濕度等因子與生物生長、分布或病蟲害生命週期對照呈現。",
     "source_url": "https://glossary.ametsoc.org/wiki/bioclimatograph"
   },
   {
     "english": "bioclimatology",
     "traditional_chinese": "生物氣候學",
-    "definition_cht": "氣候學的分支，研究氣候與生命之間的關係，尤其包括氣候對人類健康、活動，以及動植物分布與適應的影響。",
+    "definition_cht": "研究氣候條件與生物之間關係的學科，著重長時間尺度上氣候對人類、動物、植物及其分布、適應與活動的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/bioclimatology"
   },
   {
     "english": "biogenic ice nucleus",
-    "traditional_chinese": "生物冰核",
-    "definition_cht": "指與「生物冰核」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "traditional_chinese": "生物成因冰核",
+    "definition_cht": "源自細菌、真菌孢子、花粉或其他生物性粒子的冰核，可促使過冷水在較高於均質成核的溫度下形成冰晶，對雲微物理與降水生成具重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/biogenic_ice_nucleus"
   },
   {
     "english": "biogenic trace gases",
-    "traditional_chinese": "生物微量氣體",
-    "definition_cht": "指與「生物微量氣體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "生物成因微量氣體",
+    "definition_cht": "由植物、微生物、土壤或其他生物活動排放至大氣中的低濃度氣體，如甲烷、異戊二烯與氧化亞氮等，會影響大氣化學、輻射收支與氣候。",
     "source_url": "https://glossary.ametsoc.org/wiki/biogenic_trace_gases"
   },
   {
     "english": "biogeochemical cycle",
     "traditional_chinese": "生物地球化學循環",
-    "definition_cht": "指與「生物地球化學循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "化學元素或化合物在生物圈、大氣圈、水圈與岩石圈之間，經由生物作用、化學反應與物理輸送反覆循環轉換的過程，如碳循環與氮循環。",
     "source_url": "https://glossary.ametsoc.org/wiki/biogeochemical_cycle"
   },
   {
     "english": "biomass burning",
     "traditional_chinese": "生物質燃燒",
-    "definition_cht": "指與「生物質燃燒」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "森林、草地、農業殘體或其他有機生物質的燃燒過程，可由自然野火或人為焚燒造成，並向大氣排放氣膠、溫室氣體與痕量氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/biomass_burning"
   },
   {
     "english": "Biometeorology",
     "traditional_chinese": "生物氣象學",
-    "definition_cht": "指與「生物氣象學」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "研究大氣環境與生物體之間交互作用的學科，探討溫度、濕度、風、日照等天氣與氣候因子對人類、動植物及生態系的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Biometeorology"
   },
   {
     "english": "biosphere",
     "traditional_chinese": "生物圈",
-    "definition_cht": "指與「生物圈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "地球上所有生物及其所處生命支持環境的總體範圍，涵蓋大氣近地層、陸地、土壤、水體與海洋中存在生命的部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/biosphere"
   },
   {
     "english": "biosphere reserves",
     "traditional_chinese": "生物圈保護區",
-    "definition_cht": "指與「生物圈保護區」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "聯合國教科文組織人與生物圈計畫所認可的區域，兼顧生物多樣性保育、永續發展與研究教育功能，通常由核心區、緩衝區與過渡區構成。",
     "source_url": "https://glossary.ametsoc.org/wiki/biosphere_reserves"
   },
   {
     "english": "bipolar pattern",
-    "traditional_chinese": "雙極性模式",
-    "definition_cht": "指與「雙極性模式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "雙極型態",
+    "definition_cht": "某氣象或氣候場中呈現兩個相對分離、且常帶有相反符號或強弱對比之主要中心的空間分布型態，可用以描述遙相關或南北（或東西）偶極結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/bipolar_pattern"
   },
   {
     "english": "birainy climate",
-    "traditional_chinese": "雙雨氣候",
-    "definition_cht": "指與「雙雨氣候」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "雙雨季氣候",
+    "definition_cht": "一年之中有兩個明顯雨季或降水高峰的氣候型，常見於赤道附近受熱帶輻合帶往返移動、季風轉換或太陽直射帶季節性遷移影響的地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/birainy_climate"
   },
   {
