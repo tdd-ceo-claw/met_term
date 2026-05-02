@@ -2011,122 +2011,122 @@
   },
   {
     "english": "BRDF",
-    "traditional_chinese": "雙向反射分佈函數",
-    "definition_cht": "「BRDF」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。",
+    "traditional_chinese": "雙向反射分布函數",
+    "definition_cht": "bidirectional reflectance distribution function 的縮寫，指描述表面在特定入射方向下，將電磁輻射朝各反射方向重新分配之能力的方向性函數，常用於遙測、輻射傳輸與地表反照特性分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/BRDF"
   },
   {
     "english": "breadth-first search",
     "traditional_chinese": "廣度優先搜尋",
-    "definition_cht": "指與「廣度優先搜尋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "一種圖形或樹狀結構的走訪演算法，會先逐層展開與搜尋鄰近節點，再進入下一層；在氣象資料結構處理、格點連通區辨識與路徑搜尋等計算問題中可作為基本方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/breadth-first_search"
   },
   {
     "english": "break",
-    "traditional_chinese": "休息",
-    "definition_cht": "指與「休息」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "短暫間歇；雲隙",
+    "definition_cht": "泛指天氣現象的暫時中斷或減弱，例如降水、濃雲或惡劣天氣中出現短暫停歇；在雲況描述中亦可指雲層裂隙所造成的短暫放晴。",
     "source_url": "https://glossary.ametsoc.org/wiki/break"
   },
   {
     "english": "breakdown",
-    "traditional_chinese": "分解",
-    "definition_cht": "指與「分解」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "崩解；瓦解",
+    "definition_cht": "泛指既有大氣、海洋或水文結構與狀態的失穩、瓦解或失效，例如阻塞型環流、逆溫層、波動結構或儀器運作之崩解。實際意義須依專業語境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/breakdown"
   },
   {
     "english": "breakdown field",
-    "traditional_chinese": "擊穿場",
-    "definition_cht": "指與「擊穿場」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "擊穿電場",
+    "definition_cht": "使介質由絕緣狀態轉為導電並發生電擊穿所需的臨界電場強度；在大氣電學中常用以描述空氣或其他介質開始產生放電的門檻。",
     "source_url": "https://glossary.ametsoc.org/wiki/breakdown_field"
   },
   {
     "english": "breaker",
-    "traditional_chinese": "斷路器",
-    "definition_cht": "指與「斷路器」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "碎波；破波",
+    "definition_cht": "指海浪進入淺水區或受地形、風場影響後，波形變陡並在波峰處向前翻捲、崩落的破碎波浪；亦可泛指正在破碎的浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/breaker"
   },
   {
     "english": "breaker depth",
-    "traditional_chinese": "斷路器深度",
-    "definition_cht": "指與「斷路器深度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "碎波水深",
+    "definition_cht": "波浪到達破碎狀態時所在地點的水深，為近岸波浪變形與海岸工程分析中的重要參數，常與波高、海床坡度及入射波條件共同討論。",
     "source_url": "https://glossary.ametsoc.org/wiki/breaker_depth"
   },
   {
     "english": "breaking-drop theory",
     "traditional_chinese": "破滴理論",
-    "definition_cht": "指與「破滴理論」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "解釋雷暴電荷分離的一種早期理論，認為較大的雨滴在強氣流或電場中破裂時，不同大小的新液滴可攜帶不同極性或不同量的電荷，進而促成雲內電性分離。",
     "source_url": "https://glossary.ametsoc.org/wiki/breaking-drop_theory"
   },
   {
     "english": "breaks in overcast",
-    "traditional_chinese": "陰天中斷",
-    "definition_cht": "指與「陰天中斷」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "陰蔽雲層裂隙",
+    "definition_cht": "指原本近乎全天空被陰蔽雲層覆蓋時，雲幕中短暫出現的裂隙、孔洞或局部開口，使部分天空可暫時透出。",
     "source_url": "https://glossary.ametsoc.org/wiki/breaks_in_overcast"
   },
   {
     "english": "breakthrough curve",
     "traditional_chinese": "突破曲線",
-    "definition_cht": "指與「突破曲線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "在溶質運移、地下水或多孔介質流動研究中，表示某觀測位置之示蹤劑或污染物濃度隨時間變化的曲線，用以分析輸送速度、延滯、擴散與反應特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/breakthrough_curve"
   },
   {
     "english": "breakup",
-    "traditional_chinese": "拆散",
-    "definition_cht": "指與「拆散」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "冰解；破裂",
+    "definition_cht": "在冰凍水體或海冰語境中，指冰層、河冰或湖冰於暖季來臨或受流力作用後開始鬆裂、破碎並解體的過程；其他語境下亦可泛指結構破裂或分散。",
     "source_url": "https://glossary.ametsoc.org/wiki/breakup"
   },
   {
     "english": "breakup season",
-    "traditional_chinese": "分手季節",
-    "definition_cht": "指與「分手季節」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "冰解季",
+    "definition_cht": "河川、湖泊或海域季節性冰層進入鬆裂、破碎與消散的時期，通常出現在春季或暖季初期，對航運、洪水與冰情監測具有重要意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/breakup_season"
   },
   {
     "english": "breakwater",
     "traditional_chinese": "防波堤",
-    "definition_cht": "指與「防波堤」相關的水團、水體性質或水文條件，常用於海洋與水文分析。",
+    "definition_cht": "設於港灣、海岸或離岸處的防護構造物，用以削弱入射波能、降低港內波浪與沿岸侵蝕影響，並改善停泊、航道或岸線穩定條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/breakwater"
   },
   {
     "english": "bred modes",
-    "traditional_chinese": "繁殖模式",
-    "definition_cht": "指與「繁殖模式」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "繁殖模態",
+    "definition_cht": "由繁殖法在非線性動力系統中反覆演化與重尺度化後所萃取出的主要成長擾動結構，用以表徵特定背景流場下最具發展性的有限振幅不穩定模態。",
     "source_url": "https://glossary.ametsoc.org/wiki/bred_modes"
   },
   {
     "english": "bred vectors",
-    "traditional_chinese": "繁殖載體",
-    "definition_cht": "指與「繁殖載體」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "繁殖向量",
+    "definition_cht": "利用繁殖法將小擾動在模式中反覆積分並定期重尺度化後所得到的擾動向量，用以描述流場中最易成長的有限振幅誤差結構，常用於集成預報初始擾動設計。",
     "source_url": "https://glossary.ametsoc.org/wiki/bred_vectors"
   },
   {
     "english": "breeding method",
-    "traditional_chinese": "養殖方法",
-    "definition_cht": "指處理「養殖方法」相關問題的分析、估算、分類或推算方法。",
+    "traditional_chinese": "繁殖法",
+    "definition_cht": "一種產生數值天氣預報初始擾動的方法，作法為令小擾動隨模式演化、定期依固定幅度重新縮放，再持續循環，以擷取背景流場中最易成長的誤差型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/breeding_method"
   },
   {
     "english": "breeze",
-    "traditional_chinese": "微風",
-    "definition_cht": "指與「微風」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "微風；和風",
+    "definition_cht": "通常指較弱至中等的風；在蒲福風級中可涵蓋 light breeze 至 strong breeze 等級。於地方風語境中，亦可泛指日常可感受、但未達強風程度的局地風。",
     "source_url": "https://glossary.ametsoc.org/wiki/breeze"
   },
   {
     "english": "bremsstrahlung",
-    "traditional_chinese": "軔致輻射",
-    "definition_cht": "指與「軔致輻射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "制動輻射",
+    "definition_cht": "帶電粒子，尤指電子，在原子核或其他粒子電場中因減速、偏轉而放出的連續電磁輻射；在高能大氣物理、遙測與輻射傳輸研究中均可能涉及。",
     "source_url": "https://glossary.ametsoc.org/wiki/bremsstrahlung"
   },
   {
     "english": "brenner",
-    "traditional_chinese": "布倫納",
-    "definition_cht": "指與「布倫納」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布倫納風",
+    "definition_cht": "阿爾卑斯山布倫納山口及其鄰近山谷的地方風名稱，通常指受山口地形導引與壓力梯度影響而沿通道吹送的風；其冷暖性質與風向會隨天氣型態而變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/brenner"
   },
   {
     "english": "breva",
-    "traditional_chinese": "布雷瓦",
-    "definition_cht": "指與「布雷瓦」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布雷瓦風",
+    "definition_cht": "義大利科莫湖一帶的地方風，通常指晴暖日午後沿湖谷由南向北吹送的湖風或谷風，與日間受熱、地形導引及湖陸熱力差異有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/breva"
   },
   {
