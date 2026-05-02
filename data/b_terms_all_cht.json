@@ -1051,122 +1051,122 @@
   },
   {
     "english": "best track",
-    "traditional_chinese": "最佳曲目",
-    "definition_cht": "指與「最佳曲目」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "最佳路徑",
+    "definition_cht": "熱帶氣旋生命史中位置、最大持續風速、最低海平面氣壓等資訊的事後最佳分析結果，通常以 6 小時間隔整理成資料集，供路徑分析、氣候統計與歷史比較使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/best_track"
   },
   {
     "english": "beta drift",
     "traditional_chinese": "貝塔漂移",
-    "definition_cht": "指與「貝塔漂移」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "熱帶氣旋即使在無明顯環境導引氣流下，仍會因地球自轉參數隨緯度變化而產生的自發性位移；在北半球通常表現為偏西且偏極的漂移。",
     "source_url": "https://glossary.ametsoc.org/wiki/beta_drift"
   },
   {
     "english": "beta effect",
     "traditional_chinese": "貝塔效應",
-    "definition_cht": "指與「貝塔效應」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指流體運動受科氏參數隨緯度改變影響的動力效應；在大氣與海洋中，這種緯向梯度常會影響羅士比波、渦旋演變與熱帶氣旋移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/beta_effect"
   },
   {
     "english": "beta gyre",
     "traditional_chinese": "貝塔環流",
-    "definition_cht": "指與「貝塔環流」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "熱帶氣旋環流平流背景位渦梯度後，在其周圍誘發的氣旋性或反氣旋性次級環流；此類環流會進一步影響氣旋移動，形成貝塔漂移。",
     "source_url": "https://glossary.ametsoc.org/wiki/beta_gyre"
   },
   {
     "english": "beta particle",
     "traditional_chinese": "β粒子",
-    "definition_cht": "指與「β粒子」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "放射性衰變時自原子核射出的高能電子或正子，屬游離輻射的一種；在大氣電學、輻射量測與核物理相關觀測中常需加以區分。",
     "source_url": "https://glossary.ametsoc.org/wiki/beta_particle"
   },
   {
     "english": "beta plane",
-    "traditional_chinese": "貝塔平面",
-    "definition_cht": "指與「貝塔平面」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "β平面",
+    "definition_cht": "地球流體力學中的近似架構，將科氏參數在某參考緯度附近視為隨南北距離線性變化，以便分析羅士比波、渦旋與大尺度環流動力。",
     "source_url": "https://glossary.ametsoc.org/wiki/beta_plane"
   },
   {
     "english": "beta ray",
     "traditional_chinese": "β射線",
-    "definition_cht": "指與「β射線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "由 β 粒子組成的游離輻射，即放射性核種在 β 衰變時放出的高速電子流或正子流。",
     "source_url": "https://glossary.ametsoc.org/wiki/beta_ray"
   },
   {
     "english": "beta spiral",
     "traditional_chinese": "β螺旋",
-    "definition_cht": "指與「β螺旋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "海洋學中指在分層且近地轉平衡的流場內，流速向量隨深度逐漸轉向的螺旋結構；常用於由密度場推估絕對地轉流。",
     "source_url": "https://glossary.ametsoc.org/wiki/beta_spiral"
   },
   {
     "english": "between layers",
-    "traditional_chinese": "層與層之間",
-    "definition_cht": "指與「層與層之間」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "traditional_chinese": "層間飛行",
+    "definition_cht": "航空術語，指航空器在兩層雲或遮蔽現象之間的空間中飛行；通常表示機體位於上下雲層之間而未進入雲內。",
     "source_url": "https://glossary.ametsoc.org/wiki/between_layers"
   },
   {
     "english": "bhut",
-    "traditional_chinese": "布特",
-    "definition_cht": "指與「布特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布特風",
+    "definition_cht": "喜馬拉雅地區使用的地方風名稱。現有可得資料對其細部成因與風向描述不多，但可視為當地傳統氣象用語中的一種地方風。",
     "source_url": "https://glossary.ametsoc.org/wiki/bhut"
   },
   {
     "english": "bidirectional reflectance distribution function",
-    "traditional_chinese": "雙向反射率分佈函數",
-    "definition_cht": "描述「雙向反射率分佈函數」相關變數關係、分布型態或響應特性的函數表述。",
+    "traditional_chinese": "雙向反射分布函數",
+    "definition_cht": "描述表面在特定入射方向與觀測方向組合下反射特性的函數，定義為某出射方向的反射輻亮度與入射照度之比，是遙測與輻射傳輸中表徵各向異性反射的基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/bidirectional_reflectance_distribution_function"
   },
   {
     "english": "bidirectional reflectance factor",
-    "traditional_chinese": "雙向反射係數",
-    "definition_cht": "指與「雙向反射係數」相關的反射特性或反照量，常用於遙測與輻射分析。",
+    "traditional_chinese": "雙向反射因子",
+    "definition_cht": "在給定入射與觀測幾何條件下，實際表面反射輻亮度相對於同條件下理想朗伯面反射輻亮度的比值，用於描述地表方向性反射特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/bidirectional_reflectance_factor"
   },
   {
     "english": "bidirectional reflection function",
-    "traditional_chinese": "雙向反射功能",
-    "definition_cht": "描述「雙向反射功能」相關變數關係、分布型態或響應特性的函數表述。",
+    "traditional_chinese": "雙向反射函數",
+    "definition_cht": "描述某區域反射輻亮度隨入射方向與觀測方向變化的角度依賴關係；在遙測中可用來表徵表面的非朗伯反射行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/bidirectional_reflection_function"
   },
   {
     "english": "biennial ice",
-    "traditional_chinese": "兩年一次的冰",
-    "definition_cht": "指與「兩年一次的冰」相關的冰相現象、冰體型態或海冰狀態，常見於高緯度與寒區環境。",
+    "traditional_chinese": "兩年海冰",
+    "definition_cht": "至少存活一個夏季融化季、進入第二年但尚未達多年冰階段的海冰；其厚度與性質通常介於一年冰與多年冰之間，亦常稱第二年冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/biennial_ice"
   },
   {
     "english": "biennial wind oscillation",
-    "traditional_chinese": "兩年一次的風振盪",
-    "definition_cht": "指與「兩年一次的風振盪」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "traditional_chinese": "準兩年風振盪",
+    "definition_cht": "主要指赤道平流層下部東風與西風交替出現、並隨時間向下傳播的準兩年週期變化，即準兩年振盪（QBO）的風場表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/biennial_wind_oscillation"
   },
   {
     "english": "bifilar electrometer",
-    "traditional_chinese": "雙線靜電計",
-    "definition_cht": "用於量測「雙線靜電計」相關物理量的儀器或量測裝置。",
+    "traditional_chinese": "雙絲靜電計",
+    "definition_cht": "一種靜電式電位測量儀器，將待測電位加於兩條鍍金屬的石英細絲或導電纖維上，利用其相互排斥造成的偏移量測電位，常見於大氣電學研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/bifilar_electrometer"
   },
   {
     "english": "bihemispherical reflectance",
     "traditional_chinese": "雙半球反射率",
-    "definition_cht": "指與「雙半球反射率」相關的反射特性或反照量，常用於遙測與輻射分析。",
+    "definition_cht": "由整個入射半球來光照射時，表面向整個反射半球所反射總通量與入射總通量的比值，可用於描述表面整體反照特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/bihemispherical_reflectance"
   },
   {
     "english": "billow cirrus clouds",
-    "traditional_chinese": "滾滾卷雲",
-    "definition_cht": "指與「滾滾卷雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。",
+    "traditional_chinese": "波狀卷雲",
+    "definition_cht": "由波狀運動或強風切在高空卷雲層中形成的起伏雲形，常呈近乎平行的條帶或捲曲結構，可反映層間不穩定與重力波活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/billow_cirrus_clouds"
   },
   {
     "english": "billow cloud",
-    "traditional_chinese": "滾滾雲",
-    "definition_cht": "指與「滾滾雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。",
+    "traditional_chinese": "波狀雲",
+    "definition_cht": "由兩層氣流交界面的波動，特別是風切與重力波作用所形成的雲帶；常呈寬廣、近乎平行且大致垂直於風向排列的條狀雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/billow_cloud"
   },
   {
     "english": "billow wave",
-    "traditional_chinese": "滾滾波浪",
-    "definition_cht": "指與「滾滾波浪」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "traditional_chinese": "波狀波",
+    "definition_cht": "形成波狀雲的波動性大氣運動，通常與穩定層中的重力波及層間風切有關，並可能伴隨湍流或晴空亂流。",
     "source_url": "https://glossary.ametsoc.org/wiki/billow_wave"
   },
   {
