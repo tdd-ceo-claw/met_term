@@ -6530,121 +6530,121 @@
   {
     "english": "boundary mixing",
     "traditional_chinese": "邊界混合",
-    "definition_cht": "指與「邊界混合」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指發生於海底斜坡、海盆邊界或海山等邊界附近的混合作用，主要由內波破碎等過程所驅動，對海洋中的熱量、鹽度與其他性質之垂直輸送相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/boundary_mixing"
   },
   {
     "english": "boundary of saturation",
     "traditional_chinese": "飽和邊界",
-    "definition_cht": "指與「飽和邊界」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "土壤或地下介質中飽和帶與未飽和帶之間的界面；通常即毛細帶頂部附近，用以區分孔隙是否已被水完全充滿。",
     "source_url": "https://glossary.ametsoc.org/wiki/boundary_of_saturation"
   },
   {
     "english": "boundary-value problem",
-    "traditional_chinese": "邊際值問題",
-    "definition_cht": "指與「邊際值問題」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "邊界值問題",
+    "definition_cht": "指在某一區域內求解微分方程，且其解必須同時滿足該區域邊界上所給定條件的問題；在大氣、海洋與流體力學數值計算中相當常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/boundary-value_problem"
   },
   {
     "english": "bounded weak echo region",
     "traditional_chinese": "有界弱回波區",
-    "definition_cht": "指與「有界弱回波區」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "雷達在強對流風暴中所見之近乎垂直弱回波通道，其四周與上方被較強回波包圍；通常與強烈上升氣流及入流區有關，又稱 BWER 或 vault。",
     "source_url": "https://glossary.ametsoc.org/wiki/bounded_weak_echo_region"
   },
   {
     "english": "Bourdon tube",
     "traditional_chinese": "波登管",
-    "definition_cht": "指與「波登管」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "一種封閉且彎曲、橢圓形截面的金屬管，受內部壓力或充液熱膨脹作用時會產生形變，可用於壓力計、氣壓計與部分機械式溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bourdon_tube"
   },
   {
     "english": "Boussinesq approximation",
-    "traditional_chinese": "布辛涅斯克近似",
-    "definition_cht": "用於處理「布辛涅斯克近似」相關問題的近似假設，以保留主要物理機制並簡化方程。",
+    "traditional_chinese": "布辛內斯克近似",
+    "definition_cht": "流體動力學中的近似假設，除浮力項外忽略密度變化對運動的影響，以簡化控制方程並保留熱對流與浮力驅動流動的主要物理機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boussinesq_approximation"
   },
   {
     "english": "Boussinesq equation",
-    "traditional_chinese": "布辛涅斯克方程",
-    "definition_cht": "描述「布辛涅斯克方程」相關物理量之間關係或守恆條件的方程式，常用於理論分析、診斷或數值模擬。",
+    "traditional_chinese": "布辛內斯克方程",
+    "definition_cht": "描述二維非承壓含水層地下水流動的基本方程，用於表示地下水位隨時間與空間的變化，常見於地下水與水文地質分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boussinesq_equation"
   },
   {
     "english": "Boussinesq number",
-    "traditional_chinese": "布辛涅斯克數",
-    "definition_cht": "指與「布辛涅斯克數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布辛內斯克數",
+    "definition_cht": "某一物理量之湍流渦動通量與其分子通量的比值，用以衡量湍流混合作用相對於分子擴散在傳輸過程中的重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boussinesq_number"
   },
   {
     "english": "bow echo",
-    "traditional_chinese": "弓形迴聲",
-    "definition_cht": "指與「弓形迴聲」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "弓形回波",
+    "definition_cht": "雷達上呈弓狀外凸的對流回波帶，常與破壞性直線強風、後向入流急流及局部小型龍捲有關，屬中尺度對流系統的重要強天氣訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/bow_echo"
   },
   {
     "english": "Bowen ratio",
     "traditional_chinese": "鮑文比",
-    "definition_cht": "指表示「鮑文比」相關兩種量值之間關係的比值，常用於診斷或分類。",
+    "definition_cht": "地表向上之感熱通量與潛熱通量的比值，用以描述地表能量主要以升溫或蒸發蒸散方式交換的相對強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bowen_ratio"
   },
   {
     "english": "box models",
     "traditional_chinese": "盒式模型",
-    "definition_cht": "用於表徵「盒式模型」相關過程或系統的理論或數值模式，以簡化並分析其主要動力與熱力機制。",
+    "definition_cht": "將研究對象視為一個或多個性質均勻的「盒子」來描述其化學或物理演變的簡化模型；在大氣化學中常用於分析均勻氣團隨時間的反應與濃度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/box_models"
   },
   {
     "english": "Boyden index",
     "traditional_chinese": "博伊登指數",
-    "definition_cht": "用於量化「博伊登指數」相關狀態、程度或風險的指標。",
+    "definition_cht": "衡量 700 hPa 以下大氣平均熱力穩定度的指數，由 1000–700 hPa 厚度與 700 hPa 氣溫組合而成，常用於評估對流與雷暴發展的環境潛勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boyden_index"
   },
   {
     "english": "Boyle's law",
-    "traditional_chinese": "波義耳定律",
-    "definition_cht": "「波義耳定律」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "traditional_chinese": "波以耳定律",
+    "definition_cht": "在溫度與氣體質量保持不變時，氣體壓力與體積成反比的氣體定律，即壓力愈大體積愈小，且兩者乘積維持常數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boyle%27s_law"
   },
   {
     "english": "Boys camera",
-    "traditional_chinese": "男孩相機",
-    "definition_cht": "指與「男孩相機」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "博伊斯閃電照相機",
+    "definition_cht": "用於觀測與分析閃電放電的專用照相裝置；早期型式藉由旋轉鏡頭或透鏡取得閃電影像，可據以估算閃電通道的持續時間與表觀速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boys_camera"
   },
   {
     "english": "BPI pan",
-    "traditional_chinese": "BPI磁碟",
-    "definition_cht": "指與「BPI磁碟」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "BPI 蒸發皿",
+    "definition_cht": "一種圓形蒸發皿，約六英尺直徑、兩英尺深，通常以未上漆鍍鋅鐵製成並半埋於地中，用於量測開放水面蒸發量並減少皿內水溫振幅。",
     "source_url": "https://glossary.ametsoc.org/wiki/BPI_pan"
   },
   {
     "english": "brackish water",
-    "traditional_chinese": "鹹水",
-    "definition_cht": "指與「鹹水」相關的水團、水體性質或水文條件，常用於海洋與水文分析。",
+    "traditional_chinese": "半鹹水",
+    "definition_cht": "鹽度介於淡水與海水之間的天然水體，常見於河口、潟湖與近岸混合區，反映淡水與海水混合作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/brackish_water"
   },
   {
     "english": "Bragg scattering",
     "traditional_chinese": "布拉格散射",
-    "definition_cht": "指與「布拉格散射」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "雷達氣象中指電磁波遭遇尺度約為半波長的週期性折射率起伏或表面波紋時所產生的相干散射，是晴空回波與海面雷達回波的重要機制之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bragg_scattering"
   },
   {
     "english": "brash",
-    "traditional_chinese": "傲慢",
-    "definition_cht": "指與「傲慢」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "碎浮冰",
+    "definition_cht": "由其他冰體破碎而成、尺寸通常小於 2 公尺的浮冰碎塊聚集體；多見於海冰或漂流冰破裂後的水域。",
     "source_url": "https://glossary.ametsoc.org/wiki/brash"
   },
   {
     "english": "brave west winds",
-    "traditional_chinese": "勇敢的西風",
-    "definition_cht": "指與「勇敢的西風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "traditional_chinese": "強勁西風",
+    "definition_cht": "航海用語，指溫帶海洋上空強而持續的西風帶；主要出現在中緯度海域，南半球尤為規則且強盛，與顯著氣壓梯度有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/brave_west_winds"
   },
   {
     "english": "Brazil Current",
     "traditional_chinese": "巴西海流",
-    "definition_cht": "指與「巴西海流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "definition_cht": "南大西洋副熱帶環流的西側邊界海流，由南赤道海流分支供給，沿南美洲東岸向南流動，負責輸送暖水與熱量，屬較弱的西岸邊界流之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brazil_Current"
   },
   {
