@@ -6410,121 +6410,121 @@
   {
     "english": "boreal woodland",
     "traditional_chinese": "北方林地",
-    "definition_cht": "指與「北方林地」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指高緯北半球寒帶至亞寒帶常見的林地生態區，通常以針葉林為主，氣候冬季漫長寒冷、夏季短暫，常與泰加林帶相連。",
     "source_url": "https://glossary.ametsoc.org/wiki/boreal_woodland"
   },
   {
     "english": "boreal zone",
-    "traditional_chinese": "北部地帶",
-    "definition_cht": "指與「北部地帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "北方帶",
+    "definition_cht": "生物地理上的北方氣候與植被帶，位於溫帶與極地之間，常對應北半球亞寒帶的森林與寒冷大陸性氣候區。",
     "source_url": "https://glossary.ametsoc.org/wiki/boreal_zone"
   },
   {
     "english": "Boreas",
-    "traditional_chinese": "波瑞阿斯",
-    "definition_cht": "指與「波瑞阿斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "玻瑞阿斯；北風神",
+    "definition_cht": "希臘神話中的北風之神，於氣象或文學語境中常借指來自北方、性質寒冷的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boreas"
   },
   {
     "english": "borino",
-    "traditional_chinese": "博裡諾",
-    "definition_cht": "指與「博裡諾」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "博里諾",
+    "definition_cht": "地方性風名；文獻中多用於指與布拉風（bora）相近的冷而乾、陣風性強的局地下坡風，常見於亞得里亞海周邊語境。",
     "source_url": "https://glossary.ametsoc.org/wiki/borino"
   },
   {
     "english": "bornan",
     "traditional_chinese": "博爾南",
-    "definition_cht": "指與「博爾南」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "罕見地方風名；可視為布拉風（bora）系統的地方異名或異拼，通常指寒冷、乾燥且具陣風特性的北至東北風。",
     "source_url": "https://glossary.ametsoc.org/wiki/bornan"
   },
   {
     "english": "borras",
     "traditional_chinese": "博拉斯",
-    "definition_cht": "指與「博拉斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "地方性風名；多見於布拉風（bora）相關語境的異拼或地方稱呼，指由內陸高地吹向海岸的冷乾強陣風。",
     "source_url": "https://glossary.ametsoc.org/wiki/borras"
   },
   {
     "english": "bottle thermometer",
-    "traditional_chinese": "瓶裝溫度計",
-    "definition_cht": "用於量測「瓶裝溫度計」相關物理量的儀器或量測裝置。",
+    "traditional_chinese": "瓶式溫度計",
+    "definition_cht": "利用瓶內液體受熱膨脹、遇冷收縮所造成液柱升降來指示溫度變化的簡易溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/bottle_thermometer"
   },
   {
     "english": "Bottlinger's rings",
     "traditional_chinese": "博特林格環",
-    "definition_cht": "指與「博特林格環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "一種罕見的暈象，表現為緊鄰幻日下方反日點映像（subsun）周圍的一個或多個亮環或亮度平臺，通常與近水平取向的板狀冰晶反射有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bottlinger%27s_rings"
   },
   {
     "english": "bottom current",
-    "traditional_chinese": "底部電流",
-    "definition_cht": "指與「底部電流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "traditional_chinese": "底流",
+    "definition_cht": "沿水體底部流動的水流，可見於海洋、湖泊、河川或水庫，對底層動量、熱量、鹽分與沉積物輸送具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/bottom_current"
   },
   {
     "english": "bottom friction",
-    "traditional_chinese": "底部摩擦力",
-    "definition_cht": "指與「底部摩擦力」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "底床摩擦",
+    "definition_cht": "流體貼近海床、河床或湖底流動時，因底面粗糙與黏滯作用所產生的阻力與動量耗散效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/bottom_friction"
   },
   {
     "english": "bottom temperature",
-    "traditional_chinese": "底部溫度",
-    "definition_cht": "指與「底部溫度」相關的溫度量、溫度分布或其代表性特徵。",
+    "traditional_chinese": "底層水溫",
+    "definition_cht": "在海洋、湖泊或河川接近底部位置量得的水溫，用以描述底層水體的熱狀態及其時空變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/bottom_temperature"
   },
   {
     "english": "bottom water",
     "traditional_chinese": "底層水",
-    "definition_cht": "指與「底層水」相關的水團、水體性質或水文條件，常用於海洋與水文分析。",
+    "definition_cht": "位於海盆或水體最底部、通常密度較高且相對穩定的水團；在海洋學中常指形成後沿海底擴散的深層或近底層水體。",
     "source_url": "https://glossary.ametsoc.org/wiki/bottom_water"
   },
   {
     "english": "Bouguer–Lambert law",
-    "traditional_chinese": "布格-蘭伯特定律",
-    "definition_cht": "「布格-蘭伯特定律」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "traditional_chinese": "布格－朗伯定律",
+    "definition_cht": "描述輻射通過均勻吸收介質時，其強度隨光程按指數形式衰減的定律，為大氣消光與遙測輻射傳輸分析的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bouguer%E2%80%93Lambert_law"
   },
   {
     "english": "Bouguer's law",
     "traditional_chinese": "布格定律",
-    "definition_cht": "「布格定律」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "definition_cht": "布格－朗伯定律的別名；指光束穿越光學性質均勻的介質時，強度因吸收或消光而依光程呈指數衰減。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bouguer%27s_law"
   },
   {
     "english": "boulbie",
     "traditional_chinese": "布爾比",
-    "definition_cht": "指與「布爾比」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "罕見術語或專名；現有氣象文獻可得資料有限，常見於詞彙表收錄的專名條目。若置於氣象脈絡，宜保留音譯並依原始資料另行核定其專指意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/boulbie"
   },
   {
     "english": "boundary conditions",
     "traditional_chinese": "邊界條件",
-    "definition_cht": "指與「邊界條件」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "在數學、物理或數值模式中，於計算區域邊界上指定的變數值、通量或其關係，用以確定方程組的特定解。",
     "source_url": "https://glossary.ametsoc.org/wiki/boundary_conditions"
   },
   {
     "english": "Boundary currents",
-    "traditional_chinese": "邊界電流",
-    "definition_cht": "指與「邊界電流」相關的海流或氣流系統，著重其流向、來源區域及對熱量、鹽度或動量輸送的作用。",
+    "traditional_chinese": "邊界洋流",
+    "definition_cht": "沿大洋環流盆地邊界流動的海流，分為西邊界流與東邊界流；其流速、寬度、垂直結構與熱鹽輸送特性各有明顯差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/Boundary_currents"
   },
   {
     "english": "boundary layer",
     "traditional_chinese": "邊界層",
-    "definition_cht": "指與「邊界層」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "definition_cht": "受地表或物體表面摩擦、熱量與水氣交換直接影響的流體薄層；在大氣中通常指最低層、對日夜變化反應最明顯的近地層。",
     "source_url": "https://glossary.ametsoc.org/wiki/boundary_layer"
   },
   {
     "english": "boundary layer radar",
     "traditional_chinese": "邊界層雷達",
-    "definition_cht": "指與「邊界層雷達」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "definition_cht": "專門用於觀測大氣邊界層結構與動力特徵的雷達，可量測低層風場、湍流、混合層高度及對流邊界等資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/boundary_layer_radar"
   },
   {
     "english": "boundary layer separation",
     "traditional_chinese": "邊界層分離",
-    "definition_cht": "指與「邊界層分離」相關的大氣或海洋層結構，通常依溫度、密度、鹽度或動力特徵加以區分。",
+    "definition_cht": "流體沿固體表面流動時，因不利壓力梯度等因素使近壁流速降至接近零並出現回流，致使邊界層脫離表面的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/boundary_layer_separation"
   },
   {
