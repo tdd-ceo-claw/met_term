@@ -812,121 +812,121 @@
   {
     "english": "beaded lightning",
     "traditional_chinese": "串珠狀閃電",
-    "definition_cht": "閃電通道在衰減階段呈現一連串珠狀亮點的現象，多見於閃電尾端分段發光。",
+    "definition_cht": "一種閃電外觀；當觀測者幾乎沿著曲折閃電通道方向觀看時，通道若干節段會呈現一串較亮的珠狀光點，彷彿閃電被分成短段。",
     "source_url": "https://glossary.ametsoc.org/wiki/beaded_lightning"
   },
   {
     "english": "beam",
     "traditional_chinese": "波束",
-    "definition_cht": "雷達、光達或聲納等儀器發射與接收能量所對應的定向波束。",
+    "definition_cht": "雷達、光達、聲納等系統發射或接收能量時，在空間中具有明顯方向性的主能量束。",
     "source_url": "https://glossary.ametsoc.org/wiki/beam"
   },
   {
     "english": "beam filling",
-    "traditional_chinese": "波束填充",
-    "definition_cht": "指與「波束填充」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "波束填滿",
+    "definition_cht": "在雷達中，指分布式目標充滿整個脈衝體積或解析體積的情形；目標愈充分填滿波束，回波愈能代表該體積內的平均散射特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/beam_filling"
   },
   {
     "english": "beam swinging",
     "traditional_chinese": "擺束法",
-    "definition_cht": "指與「擺束法」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "風廓線雷達常用的測風技術，依序將波束指向數個不同的近天頂方向，量測各方向的徑向風分量，再反演上空的三維風場或水平風剖面。",
     "source_url": "https://glossary.ametsoc.org/wiki/beam_swinging"
   },
   {
     "english": "beam wind",
-    "traditional_chinese": "波束風",
-    "definition_cht": "指與「波束風」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "traditional_chinese": "橫風",
+    "definition_cht": "航海用語，指自船舶正側方吹來的風，尤指與船首航向近乎成 90° 的側風。",
     "source_url": "https://glossary.ametsoc.org/wiki/beam_wind"
   },
   {
     "english": "beamwidth",
     "traditional_chinese": "波束寬度",
-    "definition_cht": "波束主瓣在指定功率衰減準則下的角寬，反映天線或感測器的方向解析能力。",
+    "definition_cht": "描述雷達或天線能量集中程度的角寬，通常指主瓣功率降至最大值一半（3 dB）時兩方向之間的夾角。",
     "source_url": "https://glossary.ametsoc.org/wiki/beamwidth"
   },
   {
     "english": "bearing",
-    "traditional_chinese": "方位",
-    "definition_cht": "指與「方位」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "方位角",
+    "definition_cht": "由一地點指向另一地點的水平角方向，基本上近似於方位；可用真方位、磁方位或相對方位表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/bearing"
   },
   {
     "english": "beating",
     "traditional_chinese": "拍頻",
-    "definition_cht": "指與「拍頻」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "兩個頻率略有差異的振盪量疊加時，合成訊號振幅會週期性增強與減弱的現象，其拍頻等於兩頻率之差的絕對值。",
     "source_url": "https://glossary.ametsoc.org/wiki/beating"
   },
   {
     "english": "Beaufort force",
-    "traditional_chinese": "蒲福風級",
-    "definition_cht": "依風對海面或地物作用外觀所劃分的風力等級。",
+    "traditional_chinese": "蒲福風力級",
+    "definition_cht": "依蒲福風級所給定的整數級數，用來表示風速或風力強弱；亦稱蒲福數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Beaufort_force"
   },
   {
     "english": "Beaufort weather notation",
     "traditional_chinese": "蒲福天氣記號",
-    "definition_cht": "以簡明符號記錄天氣現象與狀態的記號系統，常用於地面觀測紀錄。",
+    "definition_cht": "以簡明符號記錄天氣現象、雲況與相關狀態的傳統記號系統，曾廣泛用於地面天氣觀測紀錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/Beaufort_weather_notation"
   },
   {
     "english": "Beaufort wind scale",
     "traditional_chinese": "蒲福風級",
-    "definition_cht": "指與「蒲福風級」相關的風場型態或局地風現象，用於描述特定成因、方向特徵或地形影響下的氣流。",
+    "definition_cht": "依海面或陸地可見效應估計風速強弱的標準分級制度，現代氣象上對應各級代表風速範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/Beaufort_wind_scale"
   },
   {
     "english": "Beaumont period",
-    "traditional_chinese": "博蒙特時期",
-    "definition_cht": "指與「博蒙特時期」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "博蒙特期",
+    "definition_cht": "農業氣象術語，指一段有利馬鈴薯晚疫病發生的天氣期；其出現常被用作發布晚疫病初期警報的判據。",
     "source_url": "https://glossary.ametsoc.org/wiki/Beaumont_period"
   },
   {
     "english": "beavertail antenna",
     "traditional_chinese": "海狸尾天線",
-    "definition_cht": "指與「海狸尾天線」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "一種產生扇形波束的雷達天線，在一個平面上波束很寬、另一平面上較窄；其波束外形因扁寬如海狸尾而得名。",
     "source_url": "https://glossary.ametsoc.org/wiki/beavertail_antenna"
   },
   {
     "english": "belat",
-    "traditional_chinese": "貝拉特",
-    "definition_cht": "指與「貝拉特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "貝拉特風",
+    "definition_cht": "阿拉伯半島南岸沿岸向海吹送的強烈西北風，常夾帶沙塵，較常出現在冬季與早春。",
     "source_url": "https://glossary.ametsoc.org/wiki/belat"
   },
   {
     "english": "bell taper",
-    "traditional_chinese": "鐘形錐度",
-    "definition_cht": "指與「鐘形錐度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "鐘形窗端漸縮",
+    "definition_cht": "處理時間序列資料時，將資料起端與末端約一成區段的振幅平滑縮減至接近零，以降低截斷造成的頻譜洩漏。",
     "source_url": "https://glossary.ametsoc.org/wiki/bell_taper"
   },
   {
     "english": "Bellamy method",
     "traditional_chinese": "貝拉米法",
-    "definition_cht": "指處理「貝拉米法」相關問題的分析、估算、分類或推算方法。",
+    "definition_cht": "根據風觀測站構成的三角網，直接估算水平輻散，並進一步推求垂直速度或渦度的客觀分析方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/Bellamy_method"
   },
   {
     "english": "below minimums",
-    "traditional_chinese": "低於最低值",
-    "definition_cht": "指與「低於最低值」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "低於最低天氣標準",
+    "definition_cht": "航空術語，指天氣條件低於特定飛航作業、進場程序或降落所規定的最低標準，例如雲底高或能見度不足。",
     "source_url": "https://glossary.ametsoc.org/wiki/below_minimums"
   },
   {
     "english": "belt of fluctuation",
-    "traditional_chinese": "波動帶",
-    "definition_cht": "指與「波動帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "地下水位波動帶",
+    "definition_cht": "亦稱地下水位升降帶；指因地下水位變動而有時位於飽和帶、有時位於非飽和帶的岩土層部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/belt_of_fluctuation"
   },
   {
     "english": "beltane-ree",
-    "traditional_chinese": "貝爾塔內裡",
-    "definition_cht": "指與「貝爾塔內裡」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "貝爾坦暴風期",
+    "definition_cht": "昔德蘭群島與奧克尼群島的地方用語，指約在聖靈降臨節前後出現的一段多暴風雨天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/beltane-ree"
   },
   {
     "english": "Beltrami flow",
     "traditional_chinese": "貝爾特拉米流",
-    "definition_cht": "指與「貝爾特拉米流」相關的流動型態或平均流場，可用於分析輸送、循環與動力結構。",
+    "definition_cht": "流體力學中速度向量與渦度向量處處平行的一類流動；等價地說，其 Lamb 向量為零，常作為歐拉方程的解析解範例。",
     "source_url": "https://glossary.ametsoc.org/wiki/Beltrami_flow"
   },
   {
