@@ -1136,121 +1136,121 @@
   {
     "english": "chain reaction",
     "traditional_chinese": "連鎖反應",
-    "definition_cht": "一系列反應中，活性成分（通常為自由基）在反應過程中持續再生，使反應得以反覆進行，直到被終止為止。",
+    "definition_cht": "指反應歷程中生成的活性中間物種（如自由基）又會促成後續反應，使反應得以持續傳播的過程；在大氣化學中常用以描述光化學與氧化鏈反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/chain_reaction"
   },
   {
     "english": "chain rule",
-    "traditional_chinese": "鍊式法則",
-    "definition_cht": "指「鍊式法則」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "鏈式法則",
+    "definition_cht": "微積分中的求導法則，用於計算複合函數的導數；在氣象與流體力學的座標變換、物質導數與模式推導中常會使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/chain_rule"
   },
   {
     "english": "challiho",
-    "traditional_chinese": "查利霍",
-    "definition_cht": "指「查利霍」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "查利霍風",
+    "definition_cht": "地方性風名，指特定地區依地形與季節條件形成的局地風；屬區域性用語，實際風性與出現時節須依其在當地氣候文獻中的定義判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/challiho"
   },
   {
     "english": "chanduy",
-    "traditional_chinese": "尚杜伊",
-    "definition_cht": "指「尚杜伊」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "尚杜伊風",
+    "definition_cht": "地方性風名，指特定地區依海陸分布、地形或季節環流形成的局地風；屬區域性名稱，使用時宜配合原始氣候或地方風系文獻確認。",
     "source_url": "https://glossary.ametsoc.org/wiki/chanduy"
   },
   {
     "english": "change chart",
     "traditional_chinese": "變化圖",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "definition_cht": "用以表示某氣象要素隨時間、空間或高度變化情形的圖表，便於比較其增減、移動或演變趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/change_chart"
   },
   {
     "english": "change of phase",
     "traditional_chinese": "相變",
-    "definition_cht": "指「相變」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "物質在不同相態間的轉變，如蒸發、凝結、凝固、融化、昇華或凝華；過程中伴隨潛熱吸收或釋放，對大氣能量收支與雲降水形成極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/change_of_phase"
   },
   {
     "english": "change of state",
-    "traditional_chinese": "狀態改變",
-    "definition_cht": "指「狀態改變」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "狀態變化",
+    "definition_cht": "物質由一種物理狀態轉為另一種狀態的過程，通常即指固、液、氣各態之間的轉換；在氣象上常與水的相變及潛熱交換相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/change_of_state"
   },
   {
     "english": "channel",
-    "traditional_chinese": "頻道",
-    "definition_cht": "指「頻道」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "水道；通道；頻道",
+    "definition_cht": "依語境可指河川、海峽等水流通行的槽道，也可指遙測、雷達或衛星儀器接收與處理特定波段訊號的頻道。",
     "source_url": "https://glossary.ametsoc.org/wiki/channel"
   },
   {
     "english": "channel control",
-    "traditional_chinese": "通道控制",
-    "definition_cht": "指「通道控制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "河道控制",
+    "definition_cht": "在水文學中指河道形狀、坡降、糙度與斷面條件對水流、流量關係、洪水傳遞或水位變化所產生的控制作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/channel_control"
   },
   {
     "english": "channel storage",
-    "traditional_chinese": "頻道儲存",
-    "definition_cht": "指「頻道儲存」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "河道蓄水",
+    "definition_cht": "指河道內暫時儲存的水量；洪水演算時常用以描述洪峰傳遞過程中，水流因河道容積而造成的延滯與削減效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/channel_storage"
   },
   {
     "english": "channeling",
-    "traditional_chinese": "通靈",
-    "definition_cht": "指「通靈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "導流效應",
+    "definition_cht": "氣流、水流或其他運動受地形、谷地、海峽或通道約束而沿特定方向集中流動的現象；在氣象上常指風受地形導引而增強並定向。",
     "source_url": "https://glossary.ametsoc.org/wiki/channeling"
   },
   {
     "english": "chaos",
-    "traditional_chinese": "混亂",
-    "definition_cht": "指「混亂」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "混沌",
+    "definition_cht": "決定論系統中對初始條件極端敏感、長期行為難以精確預測的非線性現象；為天氣可預報度與誤差成長研究的重要概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/chaos"
   },
   {
     "english": "Chapman layer",
     "traditional_chinese": "查普曼層",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "definition_cht": "依查普曼理論描述之高層大氣電離或吸收層，其生成率隨高度分布呈特定剖面，常用於理論化表示電離層或光化學層結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Chapman_layer"
   },
   {
     "english": "Chapman mechanism",
     "traditional_chinese": "查普曼機制",
-    "definition_cht": "指「查普曼機制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "描述平流層臭氧生成與消耗的基本光化學機制，包括氧分子光解、原子氧與氧分子生成臭氧，以及臭氧受紫外線分解等過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/Chapman_mechanism"
   },
   {
     "english": "Chappuis bands",
-    "traditional_chinese": "查普伊斯樂隊",
-    "definition_cht": "指「查普伊斯樂隊」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "夏普伊吸收帶",
+    "definition_cht": "臭氧在可見光波段的寬廣吸收帶，約位於 400 至 650 奈米之間；對天空色澤、日落色彩與大氣輻射吸收分析具有意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/Chappuis_bands"
   },
   {
     "english": "characteristic equation",
     "traditional_chinese": "特徵方程",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "definition_cht": "描述微分方程、波動或線性系統特徵性質的方程式；在動力氣象與數值分析中常用於求取系統的特徵根、成長率或傳播模態。",
     "source_url": "https://glossary.ametsoc.org/wiki/characteristic_equation"
   },
   {
     "english": "characteristic length",
     "traditional_chinese": "特徵長度",
-    "definition_cht": "指「特徵長度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "代表某物理系統或流動主要尺度的長度量，用於無因次化方程與建立相似律，例如邊界層厚度、障礙物尺度或水力半徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/characteristic_length"
   },
   {
     "english": "characteristic of the pressure tendency",
-    "traditional_chinese": "壓力趨勢特徵",
-    "definition_cht": "指「壓力趨勢特徵」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣壓變化特性",
+    "definition_cht": "指地面氣壓在觀測期間內上升、下降或先升後降等變化型態；天氣觀測中常以規定符號記錄 3 小時氣壓傾向之特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/characteristic_of_the_pressure_tendency"
   },
   {
     "english": "characteristic velocity",
     "traditional_chinese": "特徵速度",
-    "definition_cht": "指「特徵速度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "代表某流動、波動或動力系統主要速度尺度的量，用於無因次化、相似分析及估算對流、擴散或波傳的相對重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/characteristic_velocity"
   },
   {
     "english": "characteristic-value problem",
     "traditional_chinese": "特徵值問題",
-    "definition_cht": "指「特徵值問題」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "求取線性算子、矩陣或微分方程系統之特徵值與特徵函數（或特徵向量）之數學問題；在大氣波動、穩定度與數值方法分析中常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/characteristic-value_problem"
   },
   {
