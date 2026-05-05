@@ -7249,122 +7249,122 @@
   },
   {
     "english": "Burn area",
-    "traditional_chinese": "燒傷面積",
-    "definition_cht": "指與「燒傷面積」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "燒跡地面積",
+    "definition_cht": "指野火、計畫燃燒或其他火燒事件後，地表實際受火影響的範圍或面積；在火災氣象、遙測與災損評估中常用於描述燒毀區分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/Burn_area"
   },
   {
     "english": "burn off",
-    "traditional_chinese": "燒掉",
-    "definition_cht": "指與「燒掉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "燒蝕；日照消散",
+    "definition_cht": "在氣象上常指霧、低雲、霾或逆溫層下污染物，因日照增溫與湍流混合作用而逐漸消散的過程；其他語境亦可指燃燒造成的去除或耗損。",
     "source_url": "https://glossary.ametsoc.org/wiki/burn_off"
   },
   {
     "english": "burning index",
     "traditional_chinese": "燃燒指數",
-    "definition_cht": "用於量化「燃燒指數」相關狀態、程度或風險的指標。",
+    "definition_cht": "野火危險評估指標之一，用於表示在特定燃料與天氣條件下控制一場火災所需的相對難度或潛在火勢強度；數值愈高通常代表火行為愈猛烈、撲救愈困難。",
     "source_url": "https://glossary.ametsoc.org/wiki/burning_index"
   },
   {
     "english": "burraxka silch",
-    "traditional_chinese": "布拉克斯卡西奇",
-    "definition_cht": "指與「布拉克斯卡西奇」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布拉克斯卡西爾奇風",
+    "definition_cht": "非洲之角地區使用的地方性風名，指索馬利亞沿海一帶的區域性風系之一；屬地方天氣術語，實際風向、季節性與影響須依在地氣候脈絡解讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/burraxka_silch"
   },
   {
     "english": "burster",
-    "traditional_chinese": "爆裂者",
-    "definition_cht": "指與「爆裂者」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "突發強風",
+    "definition_cht": "指伴隨鋒面、雷暴或沿岸氣壓躍升而突然出現的強陣風或狂風；在澳洲氣象用語中亦可專指冷空氣突進所造成的急劇風向與氣溫變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/burster"
   },
   {
     "english": "bush",
-    "traditional_chinese": "襯套",
-    "definition_cht": "指與「襯套」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "灌木叢；荒野灌叢地",
+    "definition_cht": "在氣候、火災天氣與土地覆蓋語境中，通常指以灌木或低矮木本植物為主的植被區，可作為燃料型態、地表覆蓋或生態區描述用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/bush"
   },
   {
     "english": "business as usual",
-    "traditional_chinese": "一切如常",
-    "definition_cht": "指與「一切如常」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "照常情境",
+    "definition_cht": "在氣候變遷與排放評估中，指未採取額外政策或重大行為改變時，依既有社經與排放趨勢持續發展的基準情境。",
     "source_url": "https://glossary.ametsoc.org/wiki/business_as_usual"
   },
   {
     "english": "Businger–Dyer relationship",
-    "traditional_chinese": "布辛格-戴爾關係",
-    "definition_cht": "指與「布辛格-戴爾關係」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布辛格－戴爾關係",
+    "definition_cht": "邊界層氣象中用來描述地表層無因次風速梯度、溫度梯度與穩定度參數之間關係的經驗公式組，為 Monin–Obukhov 相似理論的常用表達之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/Businger%E2%80%93Dyer_relationship"
   },
   {
     "english": "butadiene",
     "traditional_chinese": "丁二烯",
-    "definition_cht": "指與「丁二烯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "一類含有兩個雙鍵的烴，其中大氣化學最常見者為 1,3-丁二烯；可來自燃燒、工業排放與交通來源，並參與光化學反應與臭氧前驅物生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/butadiene"
   },
   {
     "english": "Buys Ballot's law",
-    "traditional_chinese": "買選票定律",
-    "definition_cht": "「買選票定律」相關的定律或經驗法則，用來概括物理關係或統計規律。",
+    "traditional_chinese": "白貝羅定律",
+    "definition_cht": "在北半球，若背對風站立，低壓大致位於左前方、高壓位於右後方；此為依風向判斷壓力配置的經驗法則，南半球方向相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/Buys_Ballot%27s_law"
   },
   {
     "english": "BWER",
     "traditional_chinese": "有界弱回波區",
-    "definition_cht": "雷達強對流回波中被高反射率區包圍的弱回波區，通常對應上升氣流強盛並可能與冰雹生成有關。",
+    "definition_cht": "強對流雷達回波中，被較強回波包圍並向上延伸的弱回波通道，通常對應強烈上升氣流，常見於超級胞等劇烈對流系統，並可能與大冰雹或龍捲生成環境有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/BWER"
   },
   {
     "english": "C figure",
-    "traditional_chinese": "C圖",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "C圖形",
+    "definition_cht": "指外形呈英文字母 C 的雲、回波、海冰裂隙或其他觀測圖樣之描述性術語；其確切所指須依個別分析或判識方法而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/C_figure"
   },
   {
     "english": "C index",
     "traditional_chinese": "C指數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "用於評估大氣穩定度、對流潛勢或其他環境條件的指數名稱之一；實際定義與計算方式須依所採用之預報或分析系統而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/C_index"
   },
   {
     "english": "C weather",
-    "traditional_chinese": "C 天氣",
-    "definition_cht": "指「C 天氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "C型天氣",
+    "definition_cht": "指依某套天氣分類、航空作業代碼或區域預報慣例所劃分的 C 類天氣型；其具體意涵須依原分類體系中的定義解讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/C_weather"
   },
   {
     "english": "cabbeling",
     "traditional_chinese": "混合增密",
-    "definition_cht": "指兩個不同溫鹽特性的水團混合後，混合水體密度高於原兩水團密度內插值的海洋物理現象，常影響水團轉化與垂直運動。",
+    "definition_cht": "兩個不同溫鹽特性的水團混合後，所得混合水密度高於兩原水團密度線性內插值的現象，可促使水體下沉並影響水團轉化。",
     "source_url": "https://glossary.ametsoc.org/wiki/cabbeling"
   },
   {
     "english": "cable",
-    "traditional_chinese": "電纜",
-    "definition_cht": "指「電纜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "電纜；纜線",
+    "definition_cht": "用於儀器、浮標、海洋觀測設備或通訊系統之電力與訊號傳輸線材；在海洋與觀測工程中亦可指繫泊、拖曳或佈放設備所用纜索。",
     "source_url": "https://glossary.ametsoc.org/wiki/cable"
   },
   {
     "english": "cacimbo",
-    "traditional_chinese": "卡辛​​博",
-    "definition_cht": "指「卡辛​​博」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "卡辛布",
+    "definition_cht": "安哥拉等地對乾季涼爽、多霧或低雲天氣的地方名稱，亦可指該季節本身；常與東南信風、沿岸冷水與近地層穩定大氣有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/cacimbo"
   },
   {
     "english": "cajú rains",
     "traditional_chinese": "卡茹雨",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "definition_cht": "巴西東北部等地的地方性雨季或降雨名稱，通常指與腰果（caju）生長季相聯繫的季節性降雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/caj%C3%BA_rains"
   },
   {
     "english": "cake ice",
     "traditional_chinese": "盤冰",
-    "definition_cht": "指海面上呈盤狀或塊狀分散漂浮的碎冰，多由薄冰破裂或重組形成，屬海冰演變過程中的一種型態。",
+    "definition_cht": "海面上彼此分離、呈圓盤或片塊狀漂浮的碎冰，常由新生薄冰、冰皮或較薄海冰受波浪與碰撞破裂後形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/cake_ice"
   },
   {
     "english": "Cal",
-    "traditional_chinese": "卡/卡爾",
-    "definition_cht": "指「卡/卡爾」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "千卡",
+    "definition_cht": "熱量單位 calorie 的大寫縮寫，通常指 kilocalorie（千卡），即使 1 公斤水升高 1 攝氏度所需熱量；在氣象與地表能量研究中偶見於舊文獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/Cal"
   },
   {
