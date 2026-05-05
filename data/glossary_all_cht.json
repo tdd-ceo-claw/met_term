@@ -7370,121 +7370,121 @@
   {
     "english": "calendar year",
     "traditional_chinese": "曆年",
-    "definition_cht": "指「曆年」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "以公曆 1 月 1 日至 12 月 31 日為一完整年度的時間區間；在氣候與水文統計中，常作為資料彙整、年值計算與年際比較的基本單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/calendar_year"
   },
   {
     "english": "calibration",
     "traditional_chinese": "校準",
-    "definition_cht": "指將儀器、感測器或量測系統之輸出與標準參考值比對校正的作業或結果，用以提升觀測資料之準確度與一致性。",
+    "definition_cht": "將儀器、感測器或量測系統的輸出與已知標準值比對，必要時加以調整，以建立量測值與真值之關係並提高準確度與一致性。",
     "source_url": "https://glossary.ametsoc.org/wiki/calibration"
   },
   {
     "english": "calibration of an instrument",
-    "traditional_chinese": "儀器的校準",
-    "definition_cht": "指對儀器、感測器或量測系統進行校準的作業程序，以建立觀測值與標準值之間的對應關係，確保資料準確性與可比性。",
+    "traditional_chinese": "儀器校準",
+    "definition_cht": "對儀器進行標準比對與調整的程序，用以確定其讀值誤差、建立修正關係，並確保不同時期或不同儀器之觀測結果具有可比性。",
     "source_url": "https://glossary.ametsoc.org/wiki/calibration_of_an_instrument"
   },
   {
     "english": "calibration tank",
-    "traditional_chinese": "校準罐",
-    "definition_cht": "指將儀器、感測器或量測系統之輸出與標準參考值比對校正的作業或結果，用以提升觀測資料之準確度與一致性。",
+    "traditional_chinese": "校準槽",
+    "definition_cht": "供儀器校準使用的槽體或水槽，可在受控條件下提供已知水位、流速、容積或其他參考量，以檢定與修正量測設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/calibration_tank"
   },
   {
     "english": "California Current",
     "traditional_chinese": "加州海流",
-    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。",
+    "definition_cht": "北太平洋環流東側的一支寒流，沿北美西岸大致向南流動，並與沿岸上升流密切相關，對近岸海洋生態與區域氣候具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/California_Current"
   },
   {
     "english": "California method",
-    "traditional_chinese": "加州方法",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "traditional_chinese": "加州法",
+    "definition_cht": "水文與頻率分析中使用的一種經驗方法，用於依觀測序列估計事件發生機率、重現期或相關統計量。",
     "source_url": "https://glossary.ametsoc.org/wiki/California_method"
   },
   {
     "english": "California plotting position",
-    "traditional_chinese": "加州繪圖位置",
-    "definition_cht": "指「加州繪圖位置」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "加州繪圖位置公式",
+    "definition_cht": "水文頻率分析中的經驗公式，用於依樣本排序估算各觀測值的累積機率或超越機率，以便繪製頻率曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/California_plotting_position"
   },
   {
     "english": "calina",
-    "traditional_chinese": "卡利納",
-    "definition_cht": "指「卡利納」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "卡利納霾",
+    "definition_cht": "西班牙語氣象用語，指空氣中懸浮大量塵埃或細粒子所形成的乾霾；在西班牙與加那利群島常用來描述源自撒哈拉沙塵的低能見度現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/calina"
   },
   {
     "english": "calm",
-    "traditional_chinese": "冷靜的",
-    "definition_cht": "指「冷靜的」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "靜風",
+    "definition_cht": "風速極小或近乎為零的狀態；在氣象觀測上通常指蒲福風級 0 級，風向常不明顯或無法判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/calm"
   },
   {
     "english": "calm belt",
-    "traditional_chinese": "冷靜帶",
-    "definition_cht": "指「冷靜帶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "靜風帶",
+    "definition_cht": "盛行風微弱、風場長期偏弱的帶狀區域；可指副熱帶高壓控制下的馬緯度，也可泛指赤道附近的無風帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/calm_belt"
   },
   {
     "english": "calms of Cancer",
-    "traditional_chinese": "癌症的平靜",
-    "definition_cht": "指「癌症的平靜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "北回歸靜風帶",
+    "definition_cht": "舊式航海與氣象用語，指北回歸線附近常見的弱風或無風海域，通常對應副熱帶高壓帶中的馬緯度。",
     "source_url": "https://glossary.ametsoc.org/wiki/calms_of_Cancer"
   },
   {
     "english": "calorie",
     "traditional_chinese": "卡路里",
-    "definition_cht": "指「卡路里」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "熱量單位，小卡定義為使 1 公克水升高 1 攝氏度所需的熱量，約等於 4.184 焦耳；現代科學與氣象計算多改用焦耳。",
     "source_url": "https://glossary.ametsoc.org/wiki/calorie"
   },
   {
     "english": "calorimeter",
     "traditional_chinese": "熱量計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "definition_cht": "用於量測熱量交換、熱容量或反應放熱與吸熱的儀器，可應用於物理、化學及大氣能量相關研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/calorimeter"
   },
   {
     "english": "calved ice",
-    "traditional_chinese": "碎冰",
-    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。",
+    "traditional_chinese": "崩解冰塊",
+    "definition_cht": "由冰川、冰舌或冰棚前緣經崩解作用分離出的冰塊，進入海洋或湖泊後常成為漂浮冰體。",
     "source_url": "https://glossary.ametsoc.org/wiki/calved_ice"
   },
   {
     "english": "calving",
-    "traditional_chinese": "產犢",
-    "definition_cht": "指「產犢」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "崩解作用",
+    "definition_cht": "冰川、冰舌或冰棚前緣的冰塊因應力破裂而脫離母體的過程，是冰山與大型浮冰形成的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/calving"
   },
   {
     "english": "calvus",
-    "traditional_chinese": "小腿骨",
-    "definition_cht": "指「小腿骨」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "禿狀雲種",
+    "definition_cht": "雲的種名，主要用於積雲或積雨雲，指雲頂已明顯隆起膨脹，但尚未發展出纖維狀或砧狀頂部的階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/calvus"
   },
   {
     "english": "Campbell–Stokes recorder",
-    "traditional_chinese": "坎貝爾-斯托克斯錄音機",
-    "definition_cht": "指「坎貝爾-斯托克斯錄音機」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "坎貝爾－史托克斯日照計",
+    "definition_cht": "利用玻璃球聚焦太陽光，在記錄卡上燒出痕跡以計算日照時數的儀器，為傳統日照觀測設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/Campbell%E2%80%93Stokes_recorder"
   },
   {
     "english": "campos",
-    "traditional_chinese": "坎波斯",
-    "definition_cht": "指「坎波斯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "坎波斯草原",
+    "definition_cht": "南美洲常見的熱帶或副熱帶草原景觀名稱，多指開闊草地與零散灌木或疏林地帶，其分布與區域氣候條件密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/campos"
   },
   {
     "english": "Canadian hardness-gauge",
     "traditional_chinese": "加拿大硬度計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "definition_cht": "用於測定積雪或冰層硬度、貫入阻力等力學性質的量測器具，常見於雪層觀測與雪崩研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Canadian_hardness-gauge"
   },
   {
     "english": "Canary Current",
-    "traditional_chinese": "加那利洋流",
-    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。",
+    "traditional_chinese": "加那利海流",
+    "definition_cht": "北大西洋環流東側的風成表層寒流，自伊比利半島外海沿非洲西北岸大致向西南流動，並與沿岸上升流及乾燥沿岸氣候有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Canary_Current"
   },
   {
