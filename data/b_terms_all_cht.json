@@ -2491,122 +2491,122 @@
   },
   {
     "english": "bull's eye squall",
-    "traditional_chinese": "牛眼暴風雨",
-    "definition_cht": "指與「牛眼暴風雨」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "靶眼式颮",
+    "definition_cht": "指範圍很小、近圓形且在雷達或海面觀感上呈現類似靶眼特徵的孤立性颮。其本質仍屬短時強風的對流性陣風或驟風現象，常伴隨局地強降雨、能見度驟降與突增風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/bull%27s_eye_squall"
   },
   {
     "english": "bummock",
-    "traditional_chinese": "笨蛋",
-    "definition_cht": "指與「笨蛋」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "冰下垂塊",
+    "definition_cht": "海冰或浮冰表面受擠壓變形後，在冰層下方形成的向下突出塊體；常與冰面上方向上隆起的 hummock 對應，為描述海冰粗糙度與變形的重要形態名詞。",
     "source_url": "https://glossary.ametsoc.org/wiki/bummock"
   },
   {
     "english": "bumpiness",
-    "traditional_chinese": "顛簸",
-    "definition_cht": "指與「顛簸」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "顛簸度",
+    "definition_cht": "指航空器飛行時因湍流、對流或風切造成的顛簸強弱程度。於航空氣象中可用來描述飛行平穩性惡化的程度，並作為亂流風險評估與飛航作業參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/bumpiness"
   },
   {
     "english": "Buoy",
     "traditional_chinese": "浮標",
-    "definition_cht": "指與「浮標」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "設置於海洋、湖泊或河口等水域中的漂浮式觀測平台，用以量測風、氣壓、氣溫、浪高、海流、水溫等氣象與海洋要素，並可即時回傳資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/Buoy"
   },
   {
     "english": "buoyancy",
     "traditional_chinese": "浮力",
-    "definition_cht": "指與「浮力」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "流體因壓力隨深度增加而對浸沒物體或氣塊產生的向上合力。於大氣與海洋中，浮力也是驅動對流與垂直運動的重要機制，與密度差及重力密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy"
   },
   {
     "english": "buoyancy flux",
     "traditional_chinese": "浮力通量",
-    "definition_cht": "指與「浮力通量」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指浮力由湍流或其他垂直運動所傳輸的通量，常用以衡量地表加熱、冷卻或濕度效應對邊界層對流與混合作用的驅動強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_flux"
   },
   {
     "english": "buoyancy force",
     "traditional_chinese": "浮力",
-    "definition_cht": "指與「浮力」相關的力學作用或風力等級概念，用於描述流體或物體所受作用。",
+    "definition_cht": "流體作用於浸沒物體、流體團塊或氣塊上的向上淨力，源於上下表面所受壓力差；其大小相當於被排開流體重量，並決定物體上浮、下沉或氣塊加速上升的傾向。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_force"
   },
   {
     "english": "buoyancy frequency",
     "traditional_chinese": "浮力頻率",
-    "definition_cht": "指與「浮力頻率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "又稱布朗特－魏薩拉頻率（Brunt–Väisälä frequency），指流體微團在靜力穩定分層中受垂直擾動後往返振盪的特徵頻率，可用來衡量大氣或海洋層結穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_frequency"
   },
   {
     "english": "buoyancy length scale",
-    "traditional_chinese": "浮力長度刻度",
-    "definition_cht": "指與「浮力長度刻度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "浮力尺度",
+    "definition_cht": "在穩定分層流或湍流中，表示浮力效應開始明顯限制垂直運動與渦旋尺寸的代表性長度尺度；常用於判別慣性作用與層結穩定作用何者占優勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_length_scale"
   },
   {
     "english": "buoyancy subrange",
-    "traditional_chinese": "浮力子範圍",
-    "definition_cht": "指與「浮力子範圍」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "浮力次區間",
+    "definition_cht": "湍流頻譜中的一段尺度區間，在此區間內浮力對能量傳遞或標量變異的影響已不可忽略，常位於大尺度對流驅動與較小尺度慣性次區間之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_subrange"
   },
   {
     "english": "buoyancy velocity",
-    "traditional_chinese": "浮力速度",
-    "definition_cht": "指與「浮力速度」相關的速度量，可描述流體、波動或質點的運動快慢與方向。",
+    "traditional_chinese": "浮力速度尺度",
+    "definition_cht": "由浮力作用所對應的特徵速度尺度，用以描述受熱對流、密度差驅動流動或浮升運動的典型強度；在邊界層研究中常作為評估熱力對流強弱的參考量。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_velocity"
   },
   {
     "english": "buoyancy wave",
     "traditional_chinese": "浮力波",
-    "definition_cht": "指與「浮力波」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "definition_cht": "以浮力作為回復力的波動，通常出現在穩定分層流體中，亦常稱為內重力波。大氣中的山岳波、層狀雲波列等現象，皆可視為其表現形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_wave"
   },
   {
     "english": "buoyancy wavenumber",
     "traditional_chinese": "浮力波數",
-    "definition_cht": "指與「浮力波數」相關的波動、波形或擾動結構，可用於描述傳播與振盪特徵。",
+    "definition_cht": "與浮力尺度相對應的特徵波數，用於標示分層湍流或波動問題中，浮力效應開始主導動力結構的頻譜轉換位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyancy_wavenumber"
   },
   {
     "english": "buoyant instability",
-    "traditional_chinese": "浮力不穩定性",
-    "definition_cht": "指與「浮力不穩定性」相關的不穩定機制，可導致擾動放大、對流發展或流場轉換。",
+    "traditional_chinese": "浮力不穩定",
+    "definition_cht": "因流體或氣塊相對周遭環境較輕而產生加速上升、使微小擾動持續增強的不穩定機制；在大氣中常與對流觸發、熱對流發展及垂直混合增強有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyant_instability"
   },
   {
     "english": "buoyant subrange",
-    "traditional_chinese": "浮力子範圍",
-    "definition_cht": "指與「浮力子範圍」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "浮力次區間",
+    "definition_cht": "湍流頻譜中受浮力主導的一段尺度範圍，常用來描述熱對流或穩定分層條件下，浮力對能量級聯與標量結構所造成的特徵區間。",
     "source_url": "https://glossary.ametsoc.org/wiki/buoyant_subrange"
   },
   {
     "english": "buran",
-    "traditional_chinese": "布蘭",
-    "definition_cht": "指與「布蘭」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布蘭風",
+    "definition_cht": "中亞、哈薩克、西伯利亞及新疆一帶常見的地方風名。冬季多指伴隨降雪、冰粒與能見度惡化的強烈寒風或暴風雪；夏季亦可指炎熱乾燥、挾沙塵的強風。",
     "source_url": "https://glossary.ametsoc.org/wiki/buran"
   },
   {
     "english": "burga",
-    "traditional_chinese": "布林加",
-    "definition_cht": "指與「布林加」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布爾加風",
+    "definition_cht": "阿拉斯加地區對強烈東北風的一種地方稱呼，常挾帶雪與冰粒，屬寒冷而具吹雪特徵的惡劣天氣風；常被視為冬季 buran 的區域性名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/burga"
   },
   {
     "english": "Burger number",
-    "traditional_chinese": "漢堡號",
-    "definition_cht": "指與「漢堡號」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "伯格數",
+    "definition_cht": "地球流體動力學中的無因次數，用以衡量浮力（或層結）效應相對於地轉／轉動效應的重要性，常寫為羅斯貝變形半徑與特徵水平尺度之比的平方。",
     "source_url": "https://glossary.ametsoc.org/wiki/Burger_number"
   },
   {
     "english": "Burger's vortex",
-    "traditional_chinese": "漢堡的漩渦",
-    "definition_cht": "指與「漢堡的漩渦」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "伯格渦旋",
+    "definition_cht": "流體力學中納維－斯托克斯方程的一類定常解析渦旋解，描述徑向匯聚、軸向伸長與黏滯擴散三者達成平衡時的渦度集中結構，常用以說明渦旋伸長機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/Burger%27s_vortex"
   },
   {
     "english": "buria",
-    "traditional_chinese": "布里亞",
-    "definition_cht": "指與「布里亞」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布里亞風",
+    "definition_cht": "地方性風名。現有可得資料極少，通常列為區域性強風或寒風名稱之一；在本辭典中暫以地方風術語處理，待取得更權威的區域氣候或氣象文獻後可再細化。",
     "source_url": "https://glossary.ametsoc.org/wiki/buria"
   },
   {
