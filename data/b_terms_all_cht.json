@@ -2131,122 +2131,122 @@
   },
   {
     "english": "Brewer–Dobson circulation",
-    "traditional_chinese": "布魯爾-多布森循環",
-    "definition_cht": "指與「布魯爾-多布森循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布魯爾—多布森環流",
+    "definition_cht": "指熱帶對流層空氣上升進入平流層後，沿平流層向高緯輸送並於中高緯下沉的全球尺度經向環流；其傳輸受行星波與重力波所驅動，對平流層臭氧、水氣分布及痕量氣體停留時間極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brewer%E2%80%93Dobson_circulation"
   },
   {
     "english": "Brewster point",
-    "traditional_chinese": "布魯斯特角",
-    "definition_cht": "指與「布魯斯特角」相關的特徵點、基準點或觀測辨識位置，用於描述幾何、光學或動力結構。",
+    "traditional_chinese": "布魯斯特角點；偏振角點",
+    "definition_cht": "光線入射透明介面時，使反射光達到最大偏振、且平行偏振反射分量降為零的特定入射條件點；其對應之入射角即布魯斯特角，常見於大氣光學、遙測偏振觀測與表面反射分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brewster_point"
   },
   {
     "english": "brickfielder",
-    "traditional_chinese": "磚田工",
-    "definition_cht": "指與「磚田工」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "磚田風",
+    "definition_cht": "澳洲地方風名稱，指澳洲南部或內陸沙漠地區吹向東南沿岸的炎熱、乾燥且多塵之風，常出現在春末至夏季，並可伴隨鋒面前高溫與揚塵現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/brickfielder"
   },
   {
     "english": "bridled-cup anemometer",
-    "traditional_chinese": "韁繩杯風速計",
-    "definition_cht": "用於量測「韁繩杯風速計」相關物理量的儀器或量測裝置。",
+    "traditional_chinese": "繫索式杯型風速計",
+    "definition_cht": "杯型風速計的一種型式，其杯臂或杯組以支索加強固定，以減少高速轉動時的變形並提升結構穩定度；用於量測水平風速，屬早期機械式風速量測儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/bridled-cup_anemometer"
   },
   {
     "english": "briefing",
-    "traditional_chinese": "簡報",
-    "definition_cht": "指與「簡報」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "簡報；天氣簡述",
+    "definition_cht": "指將當前與預期天氣、危害現象、預報重點與作業建議整理後，向航空、航海、防災或作業單位所進行的口頭或書面說明；在航空氣象中常指飛行前天氣簡報。",
     "source_url": "https://glossary.ametsoc.org/wiki/briefing"
   },
   {
     "english": "Brier score",
-    "traditional_chinese": "布賴爾分數",
-    "definition_cht": "指與「布賴爾分數」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布萊爾分數",
+    "definition_cht": "用於評估機率預報準確度的嚴格適當評分規則，對二元事件可視為預報機率與實際結果之均方誤差；數值愈小代表機率預報愈佳，常用於降水、雷暴等事件預報驗證。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brier_score"
   },
   {
     "english": "bright band",
     "traditional_chinese": "亮帶",
-    "definition_cht": "指與「亮帶」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "在天氣雷達垂直剖面中，冰雪粒子穿越融化層時因外覆液態水膜而顯著增強回波，於零度層附近形成的一層高反射帶；常用作判識融化層高度與降水相態轉換。",
     "source_url": "https://glossary.ametsoc.org/wiki/bright_band"
   },
   {
     "english": "bright segment",
     "traditional_chinese": "亮段",
-    "definition_cht": "指與「亮段」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指大氣光象、雲霧或其他觀測影像中亮度明顯較周圍增強的一段弧形、帶狀或線狀區域；實際所指現象須依具體光學背景、幾何配置與觀測語境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/bright_segment"
   },
   {
     "english": "bright sunshine",
-    "traditional_chinese": "明亮的陽光",
-    "definition_cht": "指與「明亮的陽光」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "明亮日照；強日照",
+    "definition_cht": "通常指達到可計入日照時數之直接太陽輻射條件下的日照；依現代氣象觀測慣例，常以直射日照強度達一定門檻時視為有效日照，用於日照時數統計。",
     "source_url": "https://glossary.ametsoc.org/wiki/bright_sunshine"
   },
   {
     "english": "Brightness",
     "traditional_chinese": "亮度",
-    "definition_cht": "指與「亮度」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指發光體或反射面在特定方向上所呈現的明亮程度；於光學與遙測中常與單位投影面積、單位立體角內的輻射或發光強度相關，用以描述雲、地表或天空目標之視覺或輻射明暗特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brightness"
   },
   {
     "english": "brightness temperature",
     "traditional_chinese": "亮溫",
-    "definition_cht": "指與「亮溫」相關的溫度量、溫度分布或其代表性特徵。",
+    "definition_cht": "將觀測到的電磁輻射強度換算為黑體在該波長或頻率下可發出相同輻射所對應的溫度；為衛星遙測、微波探測與紅外測溫中的基本物理量，不一定等於目標的實際熱力溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/brightness_temperature"
   },
   {
     "english": "brine",
-    "traditional_chinese": "鹽水",
-    "definition_cht": "指與「鹽水」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "鹵水；高鹽度鹽水",
+    "definition_cht": "指含鹽濃度高於一般淡水的水溶液，常以氯化鈉為主；在海冰與寒區海洋學中，亦特指海冰形成過程中被排出的高鹽度液體，會影響冰體結構、密度與周圍海水對流。",
     "source_url": "https://glossary.ametsoc.org/wiki/brine"
   },
   {
     "english": "brine slush",
-    "traditional_chinese": "鹽水泥",
-    "definition_cht": "指與「鹽水泥」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "鹵水雪泥",
+    "definition_cht": "由雪、碎冰與高鹽度鹵水混合形成的半流動泥漿狀物質，常見於海冰表面、冰間水道或近岸結冰區；其物理性質介於液態鹵水與鬆散冰雪之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/brine_slush"
   },
   {
     "english": "brisa",
-    "traditional_chinese": "布里薩",
-    "definition_cht": "指與「布里薩」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布里薩風；微風",
+    "definition_cht": "源自西班牙語與葡萄牙語的用語，基本義為微風或和風；在氣象與地方風語境中，常泛指海風、陸風或其他受局地熱力差異驅動的輕至中等風。",
     "source_url": "https://glossary.ametsoc.org/wiki/brisa"
   },
   {
     "english": "brisote",
-    "traditional_chinese": "布里索特",
-    "definition_cht": "指與「布里索特」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "微弱和風；布里索特風",
+    "definition_cht": "源自 brise 一類詞根的地方風或風力名稱，用於表示比一般微風更弱或較輕柔的風；在舊式地方風彙編中多作為輕風、微風之稱，實際用法依地區而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/brisote"
   },
   {
     "english": "British thermal unit",
-    "traditional_chinese": "英國熱量單位",
-    "definition_cht": "指與「英國熱量單位」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "英熱單位",
+    "definition_cht": "英制熱量單位，符號為 Btu，傳統上定義為使 1 磅水升高 1 華氏度所需的熱量；現今常折算約為 1055 焦耳，廣用於暖通空調、燃料熱值與能源統計。",
     "source_url": "https://glossary.ametsoc.org/wiki/British_thermal_unit"
   },
   {
     "english": "broad-crested weir",
     "traditional_chinese": "寬頂堰",
-    "definition_cht": "指與「寬頂堰」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "堰頂沿水流方向具有相當長度、使水流可在堰頂形成近似平行或臨界流的量水堰型；常用於渠道流量量測、水工試驗與灌溉工程。",
     "source_url": "https://glossary.ametsoc.org/wiki/broad-crested_weir"
   },
   {
     "english": "broadband radiation",
     "traditional_chinese": "寬頻輻射",
-    "definition_cht": "指與「寬頻輻射」相關的輻射過程、能量通量或電磁傳播效應。",
+    "definition_cht": "涵蓋較寬波長範圍整體能量的輻射量測或表示方式，常與僅針對單一窄波段的光譜量相對；在氣候與輻射收支研究中，常指整體短波或長波通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/broadband_radiation"
   },
   {
     "english": "Brocken spectre",
     "traditional_chinese": "布羅肯幽靈",
-    "definition_cht": "指與「布羅肯幽靈」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "觀測者背向太陽時，其影子投射到前方雲、霧或薄霧上，因透視效果而顯得放大，周圍並可能伴隨佛光或彩色光環的山地大氣光學現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brocken_spectre"
   },
   {
     "english": "broeboe",
-    "traditional_chinese": "布羅博",
-    "definition_cht": "指與「布羅博」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布魯布風",
+    "definition_cht": "地方風名稱，見於舊式氣象詞彙與地方風列表，通常指某地區的特定局地風；現代通用文獻與標準資料較少，實際風向、成因與區域用法須依原始地方資料或歷史文獻考證。",
     "source_url": "https://glossary.ametsoc.org/wiki/broeboe"
   },
   {
