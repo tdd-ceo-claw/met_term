@@ -535,122 +535,122 @@
   },
   {
     "english": "carbon-film hygrometer element",
-    "traditional_chinese": "碳膜濕度計元件",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "碳膜濕度計感測元件",
+    "definition_cht": "一種用於電測式濕度計的感測元件，其碳膜之電阻或其他電性會隨空氣中水氣含量改變，據以推估相對濕度或其他濕度參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/carbon-film_hygrometer_element"
   },
   {
     "english": "carbonyl compounds",
     "traditional_chinese": "羰基化合物",
-    "definition_cht": "指「羰基化合物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "含有碳氧雙鍵（C=O）的有機化合物總稱，包括醛、酮、羧酸及其衍生物；在大氣化學中常為揮發性有機物氧化後的重要中間產物。",
     "source_url": "https://glossary.ametsoc.org/wiki/carbonyl_compounds"
   },
   {
     "english": "carbonyl sulfide",
     "traditional_chinese": "羰基硫",
-    "definition_cht": "指「羰基硫」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "化學式為 COS 的含硫氣體，為大氣中最豐富的含硫痕量氣體之一，可由海洋、生物活動、火山與工業排放產生，並能輸送至平流層參與硫酸鹽氣膠形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/carbonyl_sulfide"
   },
   {
     "english": "carburetor icing",
     "traditional_chinese": "化油器結冰",
-    "definition_cht": "指「化油器結冰」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "空氣流經化油器文氏管並伴隨燃油汽化時，因壓降與蒸發冷卻使溫度降至冰點以下，致使水氣在節流閥或內壁結冰，進而妨礙進氣與引擎運轉的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/carburetor_icing"
   },
   {
     "english": "carcenet",
-    "traditional_chinese": "卡塞內特",
-    "definition_cht": "指「卡塞內特」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "卡森內風",
+    "definition_cht": "法國地方性風名，通常指自西北至北北西吹向地中海沿岸的冷而乾燥強風，性質近似密斯托拉風的區域稱呼。",
     "source_url": "https://glossary.ametsoc.org/wiki/carcenet"
   },
   {
     "english": "cardinal temperatures",
-    "traditional_chinese": "基本溫度",
-    "definition_cht": "指「基本溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "三基點溫度",
+    "definition_cht": "生物氣象與農業氣象中，指控制生物生長、發育或生理作用的三個基準溫度，即最低溫、最適溫與最高溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/cardinal_temperatures"
   },
   {
     "english": "cardinal winds",
-    "traditional_chinese": "基本風",
-    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。",
+    "traditional_chinese": "主方位風",
+    "definition_cht": "依四個主方位區分的風，即北風、東風、南風與西風；亦可泛指以羅盤主方向命名的風向類別。",
     "source_url": "https://glossary.ametsoc.org/wiki/cardinal_winds"
   },
   {
     "english": "Caribbean Current",
-    "traditional_chinese": "加勒比海洋流",
-    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。",
+    "traditional_chinese": "加勒比海流",
+    "definition_cht": "加勒比海中的暖流，自南美洲北岸外海一帶向西北流經加勒比海，並經由猶加敦海峽銜接為猶加敦海流，是西北大西洋熱量與海水輸送的重要一環。",
     "source_url": "https://glossary.ametsoc.org/wiki/Caribbean_Current"
   },
   {
     "english": "Carnot cycle",
     "traditional_chinese": "卡諾循環",
-    "definition_cht": "指「卡諾循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由兩段可逆等溫過程與兩段可逆絕熱過程組成的理想熱力循環，用以表示熱機效率的理論上限，亦常作為大氣熱力過程分析的理想化參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/Carnot_cycle"
   },
   {
     "english": "Carnot engine",
-    "traditional_chinese": "卡諾發動機",
-    "definition_cht": "指「卡諾發動機」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "卡諾熱機",
+    "definition_cht": "依卡諾循環運作的理想可逆熱機，在兩熱庫之間工作時具有理論上的最高效率，常用於說明熱力學第二定律與效率上限。",
     "source_url": "https://glossary.ametsoc.org/wiki/Carnot_engine"
   },
   {
     "english": "carrier",
-    "traditional_chinese": "載體",
-    "definition_cht": "指「載體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "載波信號",
+    "definition_cht": "在通訊與遙測中，指用來承載資訊的週期性電磁波或電信號；其振幅、頻率或相位可經調變以傳送觀測、雷達或其他資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/carrier"
   },
   {
     "english": "carrier frequency",
     "traditional_chinese": "載波頻率",
-    "definition_cht": "指「載波頻率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "載波信號本身的中心頻率；調變資訊通常分布於其附近的邊帶中，為無線通訊、雷達與遙測系統的重要設計參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/carrier_frequency"
   },
   {
     "english": "carrier wave",
     "traditional_chinese": "載波",
-    "definition_cht": "指「載波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "一種通常呈正弦形式的週期波，用以承載調變後的訊息；其振幅、頻率或相位可依訊號內容改變，以完成資料傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/carrier_wave"
   },
   {
     "english": "carry-over",
-    "traditional_chinese": "結轉",
-    "definition_cht": "指「結轉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "結轉量",
+    "definition_cht": "水文與水資源管理中，指某一時段結束時仍保留並轉入下一時段的庫存量或可用水量，例如水庫蓄水、土壤水分或積雪儲量。",
     "source_url": "https://glossary.ametsoc.org/wiki/carry-over"
   },
   {
     "english": "Cartesian coordinates",
-    "traditional_chinese": "笛卡爾座標",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "笛卡兒座標",
+    "definition_cht": "以互相垂直的座標軸表示點位位置的座標系統；在二維或三維空間中，分別以各軸上的有號距離來描述位置，廣用於氣象分析、模式與製圖。",
     "source_url": "https://glossary.ametsoc.org/wiki/Cartesian_coordinates"
   },
   {
     "english": "Cartesian tensor",
     "traditional_chinese": "笛卡兒張量",
-    "definition_cht": "指「笛卡兒張量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在歐氏空間中以正交規一笛卡兒座標基底表示的張量；其分量在座標軸旋轉時依張量轉換律改變，常用於描述應力、應變、慣量與流體量場。",
     "source_url": "https://glossary.ametsoc.org/wiki/Cartesian_tensor"
   },
   {
     "english": "cascade",
     "traditional_chinese": "級聯",
-    "definition_cht": "指「級聯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指某種作用、訊號或能量以連續多階段方式逐步傳遞的過程；在大氣與流體科學中，常用於描述不同尺度間的逐級傳輸或一連串相互銜接的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/cascade"
   },
   {
     "english": "cascade impactor",
-    "traditional_chinese": "級聯衝擊器",
-    "definition_cht": "指「級聯衝擊器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "級聯撞擊器",
+    "definition_cht": "以多級慣性撞擊原理分離並收集懸浮微粒的採樣儀器；氣流依序通過各級噴嘴與收集板，較大粒徑粒子先被截留，可據以分析氣膠粒徑分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/cascade_impactor"
   },
   {
     "english": "cascade of energy",
     "traditional_chinese": "能量級聯",
-    "definition_cht": "指「能量級聯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在湍流或其他非線性流體系統中，能量於不同尺度間逐級轉移的現象；通常指由大尺度傳向小尺度的正向級聯，二維流場中亦可出現反向級聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/cascade_of_energy"
   },
   {
     "english": "cascade shower",
-    "traditional_chinese": "瀑布淋浴",
-    "definition_cht": "指「瀑布淋浴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "瀑狀陣雨",
+    "definition_cht": "形容降水如瀑布般自雲底迅速傾瀉而下的強陣雨；通常著重其外觀上呈簾幕或瀑流狀，而非特定雲微物理分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/cascade_shower"
   },
   {
