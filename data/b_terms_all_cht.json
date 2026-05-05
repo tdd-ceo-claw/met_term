@@ -2251,122 +2251,122 @@
   },
   {
     "english": "broken",
-    "traditional_chinese": "破碎的",
-    "definition_cht": "指與「破碎的」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "裂雲",
+    "definition_cht": "在地面觀測與航空天氣報告中，指雲量覆蓋天空 5/8 至 7/8 的狀態，代碼為 BKN；表示天空大部分被雲遮蔽，但尚未達全陰天。",
     "source_url": "https://glossary.ametsoc.org/wiki/broken"
   },
   {
     "english": "bromine compounds",
     "traditional_chinese": "溴化合物",
-    "definition_cht": "指與「溴化合物」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "含溴的有機或無機化合物；進入平流層後可釋放活性溴，參與催化臭氧破壞，因此在大氣化學與臭氧層研究中相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/bromine_compounds"
   },
   {
     "english": "brontides",
-    "traditional_chinese": "布龍泰德",
-    "definition_cht": "指與「布龍泰德」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "遠雷樣地鳴",
+    "definition_cht": "指類似遠方雷聲的低沉隆隆聲，常在平靜天氣下於沿海、山區或地震活動區聽見，部分個案可能與地震或地表聲學現象有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/brontides"
   },
   {
     "english": "brontometer",
-    "traditional_chinese": "聲波計",
-    "definition_cht": "用於量測「聲波計」相關物理量的儀器或量測裝置。",
+    "traditional_chinese": "雷暴現象記錄器",
+    "definition_cht": "舊式儀器名稱，指用於記錄或標示雷暴伴隨現象的裝置，例如雷聲、閃電或風雨變化；今多見於歷史文獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/brontometer"
   },
   {
     "english": "brown cloud",
-    "traditional_chinese": "棕色雲",
-    "definition_cht": "指與「棕色雲」相關的雲系或雲形特徵，用於描述其外觀、成因與所反映的大氣狀態。",
+    "traditional_chinese": "棕色霾雲",
+    "definition_cht": "指由氣膠、煙塵、黑碳與其他污染粒子形成、外觀呈褐色的大氣污染層；會影響能見度、輻射收支與區域氣候。",
     "source_url": "https://glossary.ametsoc.org/wiki/brown_cloud"
   },
   {
     "english": "brown snow",
     "traditional_chinese": "棕色雪",
-    "definition_cht": "指與「棕色雪」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "指因沙塵、土壤、煙灰或工業污染沉降而呈褐色的積雪；其降低反照率，可能加速融雪。",
     "source_url": "https://glossary.ametsoc.org/wiki/brown_snow"
   },
   {
     "english": "Brownian motion",
     "traditional_chinese": "布朗運動",
-    "definition_cht": "指與「布朗運動」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "懸浮於液體或氣體中的微粒因周圍分子持續不規則碰撞而產生的隨機運動；在氣膠、雲微物理與擴散研究中常作為基本概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brownian_motion"
   },
   {
     "english": "Brownian rotation",
-    "traditional_chinese": "布朗旋轉",
-    "definition_cht": "指與「布朗旋轉」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布朗轉動",
+    "definition_cht": "微小粒子因周圍分子隨機碰撞而產生的無規則旋轉運動；常用於描述膠體、氣膠或非球形微粒的取向變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brownian_rotation"
   },
   {
     "english": "brubu",
-    "traditional_chinese": "布魯布",
-    "definition_cht": "指與「布魯布」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布魯布風",
+    "definition_cht": "地方性風名，通常指伴隨陣風、降雨或雷暴的突增強風，性質近似颮或陣風線中的急劇增風；實際用法依地區而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/brubu"
   },
   {
     "english": "Brückner cycle",
-    "traditional_chinese": "布魯克納循環",
-    "definition_cht": "指與「布魯克納循環」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布呂克納週期",
+    "definition_cht": "氣候學中的歷史性假說，指約 30 至 40 年尺度的氣候或降水起伏循環；曾被用來解釋降雨與洪旱變化，但現代研究未普遍接受其為穩定週期。",
     "source_url": "https://glossary.ametsoc.org/wiki/Br%C3%BCckner_cycle"
   },
   {
     "english": "brughierous",
-    "traditional_chinese": "布魯吉魯斯",
-    "definition_cht": "指與「布魯吉魯斯」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "霧氣濃重的",
+    "definition_cht": "舊式或罕用形容詞，指空氣中帶有明顯霧氣、薄霧或朦朧感的狀態，多見於歷史詞彙而非現代標準觀測術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/brughierous"
   },
   {
     "english": "bruma",
-    "traditional_chinese": "布魯馬",
-    "definition_cht": "指與「布魯馬」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "薄霧",
+    "definition_cht": "源自拉丁語系的氣象詞，通常指近地面空氣中的薄霧、霧靄或朦朧狀態，會使景物略顯模糊但未必達成霧的標準。",
     "source_url": "https://glossary.ametsoc.org/wiki/bruma"
   },
   {
     "english": "Brunt-Väisälä frequency",
-    "traditional_chinese": "布倫特-維薩拉頻率",
-    "definition_cht": "指與「布倫特-維薩拉頻率」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布倫特－魏薩拉頻率",
+    "definition_cht": "又稱浮力頻率，表示流體在靜力穩定環境中受垂直擾動後振盪的頻率；數值愈大通常代表大氣或海洋層結穩定度愈強。",
     "source_url": "https://glossary.ametsoc.org/wiki/Brunt-V%C3%A4is%C3%A4l%C3%A4_frequency"
   },
   {
     "english": "brüscha",
-    "traditional_chinese": "布魯沙",
-    "definition_cht": "指與「布魯沙」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "布魯沙風",
+    "definition_cht": "地方性風名，見於歷史或區域風系詞彙表，通常指特定地區的局地風；現代標準文獻使用較少，實際風向與成因須依地方資料判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/br%C3%BCscha"
   },
   {
     "english": "bryochore",
-    "traditional_chinese": "苔蘚植物",
-    "definition_cht": "指與「苔蘚植物」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "苔蘚傳播型",
+    "definition_cht": "生態學用語，指與苔蘚有關的散播型態，通常用於描述種子、孢子或微小生物藉苔蘚層協助保存、附著或傳播的情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/bryochore"
   },
   {
     "english": "BT",
-    "traditional_chinese": "BT",
-    "definition_cht": "「BT」之縮寫或代號，指涉氣象、海洋、水文或相關觀測分析中的特定系統、產品、方法或物理概念；實際涵義依專業語境而定。",
+    "traditional_chinese": "亮溫",
+    "definition_cht": "在氣象衛星與遙測領域常作 brightness temperature 的縮寫，指將觀測到的輻射強度換算為黑體等效溫度所得的溫度量。",
     "source_url": "https://glossary.ametsoc.org/wiki/BT"
   },
   {
     "english": "bubble bursting",
-    "traditional_chinese": "泡沫破裂",
-    "definition_cht": "指與「泡沫破裂」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "氣泡破裂",
+    "definition_cht": "指氣泡上升至液面後破裂的過程；在海氣交換研究中，此過程可產生飛沫與海鹽氣膠，影響雲凝結核與近海大氣成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/bubble_bursting"
   },
   {
     "english": "bubble gauge",
-    "traditional_chinese": "氣泡計",
-    "definition_cht": "指與「氣泡計」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "氣泡式水位計",
+    "definition_cht": "一種利用氣體自導管末端連續逸出、再由回壓推算水深或水位的量測裝置，常用於河川、渠道與水庫水位觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/bubble_gauge"
   },
   {
     "english": "bubble high",
-    "traditional_chinese": "泡沫高",
-    "definition_cht": "指與「泡沫高」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "traditional_chinese": "雷暴中尺度高壓",
+    "definition_cht": "又稱 bubble high，指雷暴或中尺度對流系統下方因冷池與下沉氣流形成的中尺度高壓區，常伴隨陣風鋒與地面氣壓短暫上升。",
     "source_url": "https://glossary.ametsoc.org/wiki/bubble_high"
   },
   {
     "english": "bubble nucleus",
     "traditional_chinese": "氣泡核",
-    "definition_cht": "指與「氣泡核」相關的氣象、海洋、水文或遙測專業術語；其具體意義須依觀測方法、使用場景與學科脈絡判定。",
+    "definition_cht": "液體中既有的微小氣體囊、微泡或附著於顆粒表面的成核中心，可在壓力降低或擾動時促使氣泡生成，對空化研究尤其重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/bubble_nucleus"
   },
   {
