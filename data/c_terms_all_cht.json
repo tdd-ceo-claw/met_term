@@ -1022,121 +1022,121 @@
   {
     "english": "central moment",
     "traditional_chinese": "中心矩",
-    "definition_cht": "指「中心矩」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在統計學中，指相對於平均值計算的矩，即隨機變數偏離平均值之某次方的期望值；常用於描述分布的離散程度、偏態與峰態等性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/central_moment"
   },
   {
     "english": "central pressure",
-    "traditional_chinese": "中心壓力",
-    "definition_cht": "指「中心壓力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "中心氣壓",
+    "definition_cht": "在任一時刻，高壓或低壓系統中心處的氣壓；對高壓為其最高氣壓，對低壓為其最低氣壓，實務上多指地面天氣系統的海平面氣壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/central_pressure"
   },
   {
     "english": "central tendency",
     "traditional_chinese": "集中趨勢",
-    "definition_cht": "指「集中趨勢」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在統計學中，代表多數觀測值之一般水準或典型值的性質；常用衡量方式包括平均數、中位數與眾數。",
     "source_url": "https://glossary.ametsoc.org/wiki/central_tendency"
   },
   {
     "english": "central water",
     "traditional_chinese": "中央水",
-    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。",
+    "definition_cht": "指永久性（海洋性）躍溫層中的水團，通常位於約 150 至 800 公尺深度，主要由副熱帶地區表層水下沉後形成，廣泛分布於兩半球副熱帶海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/central_water"
   },
   {
     "english": "centrifugal force",
     "traditional_chinese": "離心力",
-    "definition_cht": "指「離心力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在旋轉座標系中出現的表觀力，方向由旋轉軸向外，單位質量之大小為 ω²R（亦可寫為 V²/R）；其方向與向心加速度相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/centrifugal_force"
   },
   {
     "english": "centrifugal instability",
-    "traditional_chinese": "離心不穩定性",
-    "definition_cht": "指「離心不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "離心不穩定",
+    "definition_cht": "旋轉流體系統因角動量分布不利而產生的動力不穩定，擾動可沿徑向增長；在氣象與流體力學中常與慣性不穩定或旋轉不穩定近義使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/centrifugal_instability"
   },
   {
     "english": "centripetal acceleration",
     "traditional_chinese": "向心加速度",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "粒子沿曲線運動時指向瞬時曲率中心的加速度，其大小為 V²/R；在大氣與海洋流動中可用以描述曲率運動所需的向心效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/centripetal_acceleration"
   },
   {
     "english": "ceraunograph",
-    "traditional_chinese": "陶瓷畫法",
-    "definition_cht": "指「陶瓷畫法」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "天電記錄儀",
+    "definition_cht": "用於記錄天電（sferics）或雷暴活動的無線電定向儀器，可將雷電相關電磁訊號的出現與方位加以記錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/ceraunograph"
   },
   {
     "english": "ceraunometer",
-    "traditional_chinese": "測孔儀",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "天電計數器",
+    "definition_cht": "調諧於接收近地天電訊號的無線電接收器，用於偵測並計數本地雷電所產生的電磁脈衝。",
     "source_url": "https://glossary.ametsoc.org/wiki/ceraunometer"
   },
   {
     "english": "cers",
-    "traditional_chinese": "cer",
-    "definition_cht": "指「cer」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "塞爾斯風",
+    "definition_cht": "法國南部與西班牙東北部一帶對米斯特拉風的地方名稱，常見於加泰隆尼亞、納博訥與普羅旺斯部分地區；此風性質強勁、湍急，冬季尤顯寒冷。",
     "source_url": "https://glossary.ametsoc.org/wiki/cers"
   },
   {
     "english": "certainty factor",
-    "traditional_chinese": "確定性因素",
-    "definition_cht": "指「確定性因素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "確信度因子",
+    "definition_cht": "表示某一敘述被認為可信之程度的主觀量度，用以描述判斷的可靠性；不同於根據歷史頻率或數理模型估計的機率。",
     "source_url": "https://glossary.ametsoc.org/wiki/certainty_factor"
   },
   {
     "english": "cetane",
     "traditional_chinese": "十六烷",
-    "definition_cht": "指「十六烷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "即正十六烷（n-hexadecane，C16H34），為點火品質良好的烷類，常作為柴油燃料性質的參考物；十六烷值即用以衡量柴油之著火品質。",
     "source_url": "https://glossary.ametsoc.org/wiki/cetane"
   },
   {
     "english": "CFL",
-    "traditional_chinese": "CFL",
-    "definition_cht": "CFL 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "庫朗－弗里德里希斯－劉維條件",
+    "definition_cht": "Courant–Friedrichs–Lewy condition 的縮寫，指數值模式中有限差分或其他顯式時間積分法為維持收斂與穩定所需滿足的條件；若違反，解可能出現數值不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/CFL"
   },
   {
     "english": "CFLOS",
-    "traditional_chinese": "CFLOS",
-    "definition_cht": "CFLOS 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "無雲視線",
+    "definition_cht": "cloud-free line of sight 的縮寫，指大氣中兩點之間未受雲層遮蔽的視線路徑，常用於描述光學或遙測觀測可直接通視的條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/CFLOS"
   },
   {
     "english": "cfs",
-    "traditional_chinese": "立方英尺每秒",
-    "definition_cht": "cfs 為 cubic feet per second 的縮寫，為流量單位，表示每秒通過某一斷面的體積流量為若干立方英尺。",
+    "traditional_chinese": "秒立方英尺",
+    "definition_cht": "cubic foot per second 的縮寫，為流量單位，表示每秒通過某一斷面的體積流量為 1 立方英尺；水文與水力學常用以表示河川或渠道流量。",
     "source_url": "https://glossary.ametsoc.org/wiki/cfs"
   },
   {
     "english": "cgs system",
-    "traditional_chinese": "CG系統",
-    "definition_cht": "指「CG系統」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "公分－克－秒制",
+    "definition_cht": "centimeter–gram–second system 的縮寫，為以公分、克與秒分別作為長度、質量與時間基本單位的物理單位制。",
     "source_url": "https://glossary.ametsoc.org/wiki/cgs_system"
   },
   {
     "english": "chaff",
-    "traditional_chinese": "糠",
-    "definition_cht": "指「糠」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "雷達箔條",
+    "definition_cht": "指散布於大氣中的輕質反射材料，通常為鋁箔條或鍍金屬纖維，可產生明顯雷達回波；除軍事干擾用途外，也常用於氣象研究中追蹤高空風場。",
     "source_url": "https://glossary.ametsoc.org/wiki/chaff"
   },
   {
     "english": "chaff seeding",
-    "traditional_chinese": "穀殼播種",
-    "definition_cht": "指「穀殼播種」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "箔條播撒",
+    "definition_cht": "將鋁箔條或鍍鋁塑膠條等雷達箔條釋放至大氣中的作業，以在雷達上產生可追蹤回波，供風場、擴散或其他大氣運動研究使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/chaff_seeding"
   },
   {
     "english": "chain length",
-    "traditional_chinese": "鍊長",
-    "definition_cht": "指「鍊長」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "鏈長",
+    "definition_cht": "在大氣化學中，指某一催化循環發生速率與催化物種被破壞速率之比值，用以衡量該催化循環持續作用與促進反應的效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/chain_length"
   },
   {
     "english": "chain reaction",
     "traditional_chinese": "連鎖反應",
-    "definition_cht": "指「連鎖反應」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "一系列反應中，活性成分（通常為自由基）在反應過程中持續再生，使反應得以反覆進行，直到被終止為止。",
     "source_url": "https://glossary.ametsoc.org/wiki/chain_reaction"
   },
   {
