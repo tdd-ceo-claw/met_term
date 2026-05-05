@@ -7609,122 +7609,122 @@
   },
   {
     "english": "capillary collector",
-    "traditional_chinese": "毛細管收集器",
-    "definition_cht": "指「毛細管收集器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細集水器",
+    "definition_cht": "用於自大氣中收集液態水的儀器，通常以多孔材料製成集水端，利用毛細作用讓水進入而抑制空氣進入系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_collector"
   },
   {
     "english": "capillary conductivity",
-    "traditional_chinese": "毛細管電導率",
-    "definition_cht": "指「毛細管電導率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細傳導度",
+    "definition_cht": "土壤或多孔介質在未飽和狀態下傳輸水分的能力，實質上與未飽和水力傳導度同義，但此稱呼較少使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_conductivity"
   },
   {
     "english": "capillary depression",
-    "traditional_chinese": "毛細血管凹陷",
-    "definition_cht": "指「毛細血管凹陷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細下降",
+    "definition_cht": "液體在細管中因不潤濕管壁而使液面低於外部自由液面的現象，例如水銀在玻璃毛細管中的液面下陷。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_depression"
   },
   {
     "english": "capillary diffusion",
-    "traditional_chinese": "毛細管擴散",
-    "definition_cht": "指「毛細管擴散」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細擴散",
+    "definition_cht": "未飽和土壤或多孔介質中，水分受毛細力與含水量梯度驅動，經細孔由較濕處向較乾處重新分布的擴散式移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_diffusion"
   },
   {
     "english": "capillary electrometer",
-    "traditional_chinese": "毛細管靜電計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "毛細電位計",
+    "definition_cht": "量測微小電位差的儀器，係利用毛細管中汞與電解液界面表面張力隨電位改變而造成液柱位置變化的原理。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_electrometer"
   },
   {
     "english": "capillary forces",
     "traditional_chinese": "毛細力",
-    "definition_cht": "指「毛細力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由表面張力、界面曲率與液體對固體表面的附著作用共同形成的力，可使水分在細管或孔隙中上升、滯留或移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_forces"
   },
   {
     "english": "capillary fringe",
-    "traditional_chinese": "毛細管邊緣",
-    "definition_cht": "指「毛細管邊緣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細帶",
+    "definition_cht": "位於地下水位以上、但與地下水面保持直接水力連通的近飽和帶；其中水分受毛細力支撐而高於自由水面。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_fringe"
   },
   {
     "english": "capillary head",
-    "traditional_chinese": "毛細管頭",
-    "definition_cht": "指「毛細管頭」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細水頭",
+    "definition_cht": "由毛細作用所對應的水勢，常以等效水柱高度表示；亦可稱毛細壓力水頭，用於描述多孔介質中的吸力狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_head"
   },
   {
     "english": "capillary hysteresis",
-    "traditional_chinese": "毛細管滯後現象",
-    "definition_cht": "指「毛細管滯後現象」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細滯後",
+    "definition_cht": "多孔介質中毛細壓力、含水量與飽和度之間的關係，會隨潤濕或排水歷程不同而出現不同路徑的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_hysteresis"
   },
   {
     "english": "capillary interstice",
-    "traditional_chinese": "微血管間隙",
-    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。",
+    "traditional_chinese": "毛細孔隙",
+    "definition_cht": "沉積物、土壤或岩石中的細小孔隙，其尺度足以產生顯著毛細上升與保水作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_interstice"
   },
   {
     "english": "capillary potential",
-    "traditional_chinese": "毛細血管電位",
-    "definition_cht": "指「毛細血管電位」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細位勢",
+    "definition_cht": "土壤水或多孔介質中由毛細作用產生的位勢，通常表現為相對於自由水面的負壓力位勢，常與基質位勢密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_potential"
   },
   {
     "english": "capillary pressure",
-    "traditional_chinese": "毛細管壓力",
-    "definition_cht": "指「毛細管壓力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細壓力",
+    "definition_cht": "由表面張力與界面曲率造成的兩不相混溶流體間壓力差；在土壤、含水層與油藏中是控制流體分布與移動的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_pressure"
   },
   {
     "english": "capillary rise",
-    "traditional_chinese": "毛細管上升",
-    "definition_cht": "指「毛細管上升」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細上升",
+    "definition_cht": "液體在細管或孔隙中受毛細作用而高於自由液面的現象；亦可指其所達到的上升高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_rise"
   },
   {
     "english": "capillary suction",
-    "traditional_chinese": "毛細管抽吸",
-    "definition_cht": "指「毛細管抽吸」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細吸力",
+    "definition_cht": "液體因毛細力而被吸入細孔或多孔介質中的作用，常以負壓力或吸力表示，為未飽和土壤保水的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_suction"
   },
   {
     "english": "capillary water",
-    "traditional_chinese": "毛細管水",
-    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。",
+    "traditional_chinese": "毛細水",
+    "definition_cht": "保存在土壤細孔中、主要受毛細力束縛而不易自由下滲的水分，通常是植物可利用水的重要組成之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_water"
   },
   {
     "english": "capillary wave",
     "traditional_chinese": "毛細波",
-    "definition_cht": "指「毛細波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "以表面張力為主要回復力的短波水面波，波長通常很短，常見於微風擾動下的細小漣漪。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_wave"
   },
   {
     "english": "capillatus",
-    "traditional_chinese": "毛毛蟲",
-    "definition_cht": "指「毛毛蟲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "鬚狀雲種",
+    "definition_cht": "雲種名，指雲體上部呈明顯纖維狀或毛髮狀結構，常見於積雨雲發展成熟後形成的砧狀或羽狀頂部。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillatus"
   },
   {
     "english": "capped column",
-    "traditional_chinese": "加蓋柱",
-    "definition_cht": "指「加蓋柱」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "帽柱晶",
+    "definition_cht": "一種冰晶形態，中心為六角柱，兩端或中間附生板狀或星狀晶片，通常反映冰晶在不同溫濕條件間轉換成長。",
     "source_url": "https://glossary.ametsoc.org/wiki/capped_column"
   },
   {
     "english": "CAPPI",
-    "traditional_chinese": "CAPPI",
-    "definition_cht": "CAPPI 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "定高度平面位置顯示",
+    "definition_cht": "constant-altitude plan position indicator 的縮寫，指將多仰角雷達掃描資料換算為固定高度水平切面的顯示或分析產品。",
     "source_url": "https://glossary.ametsoc.org/wiki/CAPPI"
   },
   {
     "english": "capping inversion",
-    "traditional_chinese": "封頂反轉",
-    "definition_cht": "指「封頂反轉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "封蓋逆溫層",
+    "definition_cht": "位於對流邊界層上方的逆溫層，能抑制低層暖濕空氣繼續上升與深對流發展；在強對流天氣中常稱為 cap。",
     "source_url": "https://glossary.ametsoc.org/wiki/capping_inversion"
   },
   {
