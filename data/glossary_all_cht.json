@@ -8209,122 +8209,122 @@
   },
   {
     "english": "ceiling-height indicator",
-    "traditional_chinese": "天花板高度指示器",
-    "definition_cht": "指「天花板高度指示器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "雲幕高度指示器",
+    "definition_cht": "用於指示雲幕高度（ceiling）或雲底高度的儀器，航空氣象上常作為 ceilometer 的近義名稱，用來判定飛航天氣條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/ceiling-height_indicator"
   },
   {
     "english": "ceilometer",
-    "traditional_chinese": "雲端高計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "雲高儀",
+    "definition_cht": "以雷射或其他光源量測雲底高度的儀器，主要用於測定雲幕高度，部分設備亦可反演近地氣膠或邊界層結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/ceilometer"
   },
   {
     "english": "celerity",
-    "traditional_chinese": "迅速",
-    "definition_cht": "指「迅速」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "波速",
+    "definition_cht": "指波動某一固定相位（如波峰）向前傳播的速度；在水文與海洋學中常用於描述洪波、重力波或表面波的傳播速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/celerity"
   },
   {
     "english": "celestial equator",
     "traditional_chinese": "天球赤道",
-    "definition_cht": "指「天球赤道」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "地球赤道向外無限延伸至天球後形成的大圓，是赤道座標系中量測天體赤緯與赤經的重要基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/celestial_equator"
   },
   {
     "english": "celestial pole",
     "traditional_chinese": "天極",
-    "definition_cht": "指「天極」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "地球自轉軸向南北兩端無限延伸後與天球相交的兩點，分別稱北天極與南天極，天空視運動即繞其附近旋轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/celestial_pole"
   },
   {
     "english": "celestial sphere",
     "traditional_chinese": "天球",
-    "definition_cht": "指「天球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "為描述天體方位而假想的巨大球面，可視為以地球或觀測者為中心，將各天體投影其上的幾何參考面。",
     "source_url": "https://glossary.ametsoc.org/wiki/celestial_sphere"
   },
   {
     "english": "cell",
-    "traditional_chinese": "細胞",
-    "definition_cht": "指「細胞」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "單體",
+    "definition_cht": "在氣象上指具有相對獨立結構的局部環流或對流單元，如雷暴單體、對流單體或環流胞，可作為較大天氣系統的基本組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/cell"
   },
   {
     "english": "cellular circulation",
-    "traditional_chinese": "細胞循環",
-    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。",
+    "traditional_chinese": "蜂巢狀環流",
+    "definition_cht": "由多個相鄰上升與下沉支所組成的胞狀環流型態，常見於邊界層對流或海上層積雲區，可呈開放胞或封閉胞排列。",
     "source_url": "https://glossary.ametsoc.org/wiki/cellular_circulation"
   },
   {
     "english": "cellular cloud pattern",
-    "traditional_chinese": "蜂巢雲圖案",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "蜂巢狀雲型",
+    "definition_cht": "衛星雲圖上呈蜂巢或網格狀排列的雲場型態，多與邊界層胞狀對流有關，常分為開放胞與封閉胞兩類。",
     "source_url": "https://glossary.ametsoc.org/wiki/cellular_cloud_pattern"
   },
   {
     "english": "cellular convection",
-    "traditional_chinese": "細胞對流",
-    "definition_cht": "指「細胞對流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "蜂巢狀對流",
+    "definition_cht": "由許多相鄰對流胞構成的對流形式，暖空氣在胞心或胞壁附近上升、冷空氣於相對區域下沉，形成規則或半規則的胞狀結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/cellular_convection"
   },
   {
     "english": "Celsius temperature scale",
     "traditional_chinese": "攝氏溫標",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "以 0°C 表示水的冰點、100°C 表示標準大氣壓下沸點所建立的溫標；現今攝氏溫度與克耳文溫標等量差，廣用於氣象觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Celsius_temperature_scale"
   },
   {
     "english": "center jump",
-    "traditional_chinese": "中心跳躍",
-    "definition_cht": "指「中心跳躍」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "中心跳移",
+    "definition_cht": "指低壓、熱帶氣旋或其他環流系統在連續分析中，其中心位置突然由一處轉移至另一處的現象，常與中心重整或新渦旋發展有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/center_jump"
   },
   {
     "english": "center of action",
-    "traditional_chinese": "行動中心",
-    "definition_cht": "指「行動中心」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣壓作用中心",
+    "definition_cht": "全球或區域平均海平面氣壓場上長期偏高或偏低的半永久性中心，常代表副熱帶高壓或副極地低壓等重要環流特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/center_of_action"
   },
   {
     "english": "center of gravity",
     "traditional_chinese": "重心",
-    "definition_cht": "指「重心」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "物體或質量分布可視為集中作用的一點；在大氣科學與工程計算中，常作為力矩、穩定度或質量分布分析的基準位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/center_of_gravity"
   },
   {
     "english": "centered difference",
-    "traditional_chinese": "中心差異",
-    "definition_cht": "指「中心差異」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "中心差分",
+    "definition_cht": "利用某點前後兩側函數值之差來近似導數的有限差分方法，為數值天氣預報與流體計算中常用的空間或時間離散格式。",
     "source_url": "https://glossary.ametsoc.org/wiki/centered_difference"
   },
   {
     "english": "centibar",
     "traditional_chinese": "厘巴",
-    "definition_cht": "指「厘巴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "壓力單位，等於 0.01 bar，也就是 1 kPa；在部分土壤水分、張力或工程量測場合可見此單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/centibar"
   },
   {
     "english": "centigrade temperature scale",
-    "traditional_chinese": "攝氏溫標",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "百分度溫標（舊稱攝氏溫標）",
+    "definition_cht": "以水的冰點與沸點相差 100 度為概念建立的溫標，現今英文術語多改稱 Celsius temperature scale，以避免與角度百分制混淆。",
     "source_url": "https://glossary.ametsoc.org/wiki/centigrade_temperature_scale"
   },
   {
     "english": "centimeter–gram–second system",
-    "traditional_chinese": "厘米-克-秒系統",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "公分－克－秒制",
+    "definition_cht": "以公分、克與秒為基本單位的 CGS 制單位系統，早期在物理與部分地球科學計算中常見，現多已由 SI 制取代。",
     "source_url": "https://glossary.ametsoc.org/wiki/centimeter%E2%80%93gram%E2%80%93second_system"
   },
   {
     "english": "centipoise",
     "traditional_chinese": "厘泊",
-    "definition_cht": "指「厘泊」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "動力黏度單位，為 0.01 poise，等於 1 mPa·s；水在室溫附近的黏度約接近 1 cP。",
     "source_url": "https://glossary.ametsoc.org/wiki/centipoise"
   },
   {
     "english": "central dense overcast",
-    "traditional_chinese": "中部濃雲",
-    "definition_cht": "指「中部濃雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "中央濃密雲區",
+    "definition_cht": "熱帶氣旋中心附近由深對流與高雲頂構成的大片濃密雲區，衛星雲圖上通常呈明亮緻密外觀，常用於估計氣旋結構與強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/central_dense_overcast"
   },
   {
