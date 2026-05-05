@@ -655,122 +655,122 @@
   },
   {
     "english": "cascading water",
-    "traditional_chinese": "層疊水",
-    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。",
+    "traditional_chinese": "瀑降水體",
+    "definition_cht": "海洋學中指密度較大的水體因受重力驅動，沿大陸棚邊緣、海底坡面或海盆地形向下層流洩的現象；常伴隨陸棚水、冷鹹水或高密度水團向深海輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/cascading_water"
   },
   {
     "english": "case weather",
-    "traditional_chinese": "案例天氣",
-    "definition_cht": "指「案例天氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "個案天氣",
+    "definition_cht": "指作為分析、教學、模擬或預報驗證對象的特定天氣個案，通常涵蓋某一時段與區域內的天氣型勢、觀測資料、演變過程及其影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/case_weather"
   },
   {
     "english": "case-based reasoning",
-    "traditional_chinese": "基於案例的推理",
-    "definition_cht": "指「基於案例的推理」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "案例式推理",
+    "definition_cht": "一種利用過往相似案例來解決新問題的推理方法；在氣象預報與決策支援中，可依歷史天氣型態、環境條件與結果比對，作為類比預報或判釋輔助。",
     "source_url": "https://glossary.ametsoc.org/wiki/case-based_reasoning"
   },
   {
     "english": "Cassegrainian mirror",
-    "traditional_chinese": "卡塞格倫鏡",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "traditional_chinese": "卡塞格林反射鏡",
+    "definition_cht": "卡塞格林式光學系統中的反射鏡組，通常由主凹面鏡與次凸面鏡構成，使入射輻射經二次反射後穿過主鏡中央開孔匯聚至焦點，常用於天文望遠鏡與部分遙測、雷達天線系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/Cassegrainian_mirror"
   },
   {
     "english": "Cassegrainian telescope",
-    "traditional_chinese": "卡塞格倫望遠鏡",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "traditional_chinese": "卡塞格林望遠鏡",
+    "definition_cht": "採卡塞格林式光路的反射望遠鏡，以主凹面鏡與次凸面鏡將光線折返並導向主鏡中央焦點；其結構緊湊，常用於天文觀測，也可見於部分氣象遙測與雷達光學配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/Cassegrainian_telescope"
   },
   {
     "english": "castellanus",
-    "traditional_chinese": "卡斯特拉努斯",
-    "definition_cht": "指「卡斯特拉努斯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "堡狀雲種",
+    "definition_cht": "雲的雲種名稱之一，指雲體上部出現一列列塔狀或城垛狀向上隆起，使雲頂呈城堡般外觀；可見於高積雲、層積雲、卷積雲等，常反映中層大氣具有局部對流不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/castellanus"
   },
   {
     "english": "castellatus",
-    "traditional_chinese": "卡斯泰拉圖斯",
-    "definition_cht": "指「卡斯泰拉圖斯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "堡狀雲種",
+    "definition_cht": "指具有塔狀、城垛狀雲頂外觀的雲種，現行雲圖分類常作 castellanus；當雲頂出現一連串由共同雲底向上發展的突起時，即屬此類，常為大氣中層不穩定的徵象。",
     "source_url": "https://glossary.ametsoc.org/wiki/castellatus"
   },
   {
     "english": "CAT",
-    "traditional_chinese": "CAT",
-    "definition_cht": "CAT 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "晴空亂流",
+    "definition_cht": "clear-air turbulence 的縮寫，指在缺乏明顯對流雲體或降水回波時，航空器於晴空或近晴空區域遭遇的亂流；常與急流、風切變或穩定層附近的湍流有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/CAT"
   },
   {
     "english": "cat's nose",
-    "traditional_chinese": "貓的鼻子",
-    "definition_cht": "指「貓的鼻子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "貓鼻波紋",
+    "definition_cht": "指水面上局部出現、形狀細小而略呈橢圓或斑塊狀的微風波紋，用以表示該處有極弱而不均勻的陣風開始掠過水面；可視為比 cat's paw 更微弱的初生風痕用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/cat%27s_nose"
   },
   {
     "english": "cat's paw",
-    "traditional_chinese": "貓的爪子",
-    "definition_cht": "指「貓的爪子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "貓掌風紋",
+    "definition_cht": "指微風或陣風掠過平靜水面時形成的深色斑塊或條紋狀粗糙區，因細小短波改變反光而顯現；常用來判斷局部風場、陣風帶或對流外流開始影響水面。",
     "source_url": "https://glossary.ametsoc.org/wiki/cat%27s_paw"
   },
   {
     "english": "Catalina eddy",
-    "traditional_chinese": "卡塔利娜渦流",
-    "definition_cht": "指「卡塔利娜渦流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "卡特里娜渦旋",
+    "definition_cht": "指南加州外海、卡特里娜島附近及南加州灣常見的近岸中尺度渦旋或環流型態，通常在低層海洋層與沿岸地形共同作用下形成，常使沿岸雲層增多、風向轉變並帶來較涼濕天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/Catalina_eddy"
   },
   {
     "english": "catalytic converters",
     "traditional_chinese": "觸媒轉換器",
-    "definition_cht": "指「觸媒轉換器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "裝設於排氣系統中的污染防制裝置，利用觸媒促進化學反應，將一氧化碳、未燃碳氫化合物與氮氧化物等污染物轉化為危害較低的氣體，是空氣污染控制的重要技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/catalytic_converters"
   },
   {
     "english": "catalytic cycles",
     "traditional_chinese": "催化循環",
-    "definition_cht": "指「催化循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指某些活性化學物種在反應過程中反覆再生並持續促進其他物質轉化的一系列反應步驟；在大氣化學中常用以描述臭氧生成或臭氧耗損等鏈式反應機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/catalytic_cycles"
   },
   {
     "english": "catch",
-    "traditional_chinese": "抓住",
-    "definition_cht": "指「抓住」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "攔截量",
+    "definition_cht": "廣義指被截留、收集、捕獲或量得的部分；在水文與降水量測中，常特指雨量器、集水裝置或採樣器於一定時段內實際收集到的降水或樣本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/catch"
   },
   {
     "english": "catchment area",
     "traditional_chinese": "集水區",
-    "definition_cht": "指「集水區」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指降水或地表逕流最終匯入某一河川、湖泊、水庫或其他出口斷面的地理區域，其範圍由地形分水嶺界定，為水文分析與流域管理的基本單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/catchment_area"
   },
   {
     "english": "cathode-ray oscillograph",
-    "traditional_chinese": "陰極射線示波器",
-    "definition_cht": "指「陰極射線示波器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "陰極射線示波記錄儀",
+    "definition_cht": "利用陰極射線管將快速變化的電訊號轉換為可視波形，並可進一步加以攝錄或永久記錄的儀器；早期常用於觀測雷達、通訊與各類電子量測訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/cathode-ray_oscillograph"
   },
   {
     "english": "cathode-ray oscilloscope",
     "traditional_chinese": "陰極射線示波器",
-    "definition_cht": "指「陰極射線示波器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "以陰極射線管顯示電壓隨時間或其他掃描量變化之波形的電子量測儀器，可用於觀察訊號振幅、頻率、相位與脈衝特性，早期廣見於雷達、遙測與電子觀測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/cathode-ray_oscilloscope"
   },
   {
     "english": "cathode-ray radiogoniometer",
-    "traditional_chinese": "陰極射線放射測角儀",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "陰極射線無線測向儀",
+    "definition_cht": "一種將無線電測向結果以陰極射線顯示的測角儀器，用於判定無線電波來向或方位；早期可應用於航海、航空與電波觀測作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/cathode-ray_radiogoniometer"
   },
   {
     "english": "cathode-ray tube",
     "traditional_chinese": "陰極射線管",
-    "definition_cht": "指「陰極射線管」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "一種在真空管內以電子束轟擊螢光屏來顯示影像或波形的電子裝置，曾廣泛用於電視、示波器、雷達顯示器及各類早期監測儀表。",
     "source_url": "https://glossary.ametsoc.org/wiki/cathode-ray_tube"
   },
   {
     "english": "cation exchange capacity",
     "traditional_chinese": "陽離子交換容量",
-    "definition_cht": "指「陽離子交換容量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "土壤、沉積物或多孔介質表面可吸附並交換陽離子的總能力，通常以每單位質量可交換之電荷量表示；其大小會影響養分保持、酸鹼緩衝與污染物遷移行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/cation_exchange_capacity"
   },
   {
