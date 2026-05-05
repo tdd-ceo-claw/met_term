@@ -8090,121 +8090,121 @@
   {
     "english": "Cauchy number",
     "traditional_chinese": "柯西數",
-    "definition_cht": "指「柯西數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "流體力學中的無因次數，用以表示流場中慣性力相對於彈性（可壓縮性）作用的重要程度，常寫為密度乘速度平方與體積彈性模數之比，適用於可壓縮流與動力相似分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Cauchy_number"
   },
   {
     "english": "cavaburd",
-    "traditional_chinese": "卡瓦布爾德",
-    "definition_cht": "指「卡瓦布爾德」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "卡瓦布德",
+    "definition_cht": "昔得蘭群島的地方氣象用語，指降勢濃密而厚重的一場雪，也可拼作 kavaburd。",
     "source_url": "https://glossary.ametsoc.org/wiki/cavaburd"
   },
   {
     "english": "cavaliers",
-    "traditional_chinese": "騎士隊",
-    "definition_cht": "指「騎士隊」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "卡瓦列爾日",
+    "definition_cht": "法國蒙彼利埃附近的地方氣象用語，指通常出現在 3 月底至 4 月初、密斯脫拉風最強的一段日子。",
     "source_url": "https://glossary.ametsoc.org/wiki/cavaliers"
   },
   {
     "english": "caver",
-    "traditional_chinese": "探洞者",
-    "definition_cht": "指「探洞者」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "洞穴探勘者",
+    "definition_cht": "指從事洞穴探查、測繪或探勘的人；本詞本身不是核心氣象術語，但在洞穴微氣候、地下水文或喀斯特環境研究中可指相關作業人員。",
     "source_url": "https://glossary.ametsoc.org/wiki/caver"
   },
   {
     "english": "cavity",
-    "traditional_chinese": "空腔",
-    "definition_cht": "指「空腔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "腔體；空腔",
+    "definition_cht": "指物體或結構內部的空腔。在氣象與輻射量測脈絡中，常指儀器內用以吸收、發射或控制電磁輻射的腔體結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/cavity"
   },
   {
     "english": "cavity radiometer",
-    "traditional_chinese": "腔體輻射計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "腔式輻射計",
+    "definition_cht": "以高吸收率黑體腔體為感測核心的輻射儀器，用來高精度量測入射輻射能量，常應用於太陽直接輻射與輻射基準比對。",
     "source_url": "https://glossary.ametsoc.org/wiki/cavity_radiometer"
   },
   {
     "english": "CAVOK",
-    "traditional_chinese": "CAVOK",
-    "definition_cht": "CAVOK 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "雲高與能見度良好",
+    "definition_cht": "航空氣象報文用語，為 Ceiling And Visibility OK 的縮寫；表示盛行能見度達 10 公里以上、5000 英尺以下或最低扇區高度以下無顯著雲層，且無積雨雲、濃對流雲與重要天氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/CAVOK"
   },
   {
     "english": "CAVT",
-    "traditional_chinese": "CAVT",
-    "definition_cht": "CAVT 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "定絕對渦度軌跡",
+    "definition_cht": "constant absolute vorticity trajectory 的縮寫，指在高空分析中依絕對渦度近似守恆假設所推算的氣塊移動軌跡，用於研判大尺度流場與系統移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/CAVT"
   },
   {
     "english": "CAVU",
-    "traditional_chinese": "CAVU",
-    "definition_cht": "CAVU 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "雲高與能見度極佳",
+    "definition_cht": "航空口語用語，為 ceiling and visibility unlimited 的縮寫，泛指天空狀況與能見度都非常好，適合目視飛航；與正式報文用語 CAVOK 不完全等同。",
     "source_url": "https://glossary.ametsoc.org/wiki/CAVU"
   },
   {
     "english": "Cavum",
-    "traditional_chinese": "腔",
-    "definition_cht": "指「腔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "腔；空腔",
+    "definition_cht": "拉丁語來源名詞，意為空腔或腔室；在科學文獻中多指解剖或構造上的中空部位，並非專屬氣象術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/Cavum"
   },
   {
     "english": "CBL",
-    "traditional_chinese": "CBL",
-    "definition_cht": "CBL 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "對流邊界層",
+    "definition_cht": "convective boundary layer 的縮寫，指白天受地表加熱驅動、湍流混合作用旺盛的行星邊界層，下層常近似均勻混合。",
     "source_url": "https://glossary.ametsoc.org/wiki/CBL"
   },
   {
     "english": "CCL",
-    "traditional_chinese": "CCL",
-    "definition_cht": "CCL 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "對流凝結高度",
+    "definition_cht": "convective condensation level 的縮寫，指近地空氣團受地面加熱後自由上升，首次達到飽和並開始形成對流雲底的高度或氣壓面。",
     "source_url": "https://glossary.ametsoc.org/wiki/CCL"
   },
   {
     "english": "CCN",
-    "traditional_chinese": "CCN",
-    "definition_cht": "CCN 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "雲凝結核",
+    "definition_cht": "cloud condensation nuclei 的縮寫，指大氣中可作為水汽凝結核心的微小氣膠粒子，對雲滴形成、雲微物理與雲輻射特性具有關鍵影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/CCN"
   },
   {
     "english": "CCS",
     "traditional_chinese": "CCS",
-    "definition_cht": "CCS 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "definition_cht": "縮寫詞，於不同科學與技術領域可代表不同概念；目前缺乏足夠權威氣象脈絡可唯一對應，若出現在特定資料集、模式或儀器文件中，應依原文全稱判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/CCS"
   },
   {
     "english": "cd",
-    "traditional_chinese": "光碟",
-    "definition_cht": "指「光碟」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "燭光（坎德拉）",
+    "definition_cht": "國際單位制中光度的基本單位 candela 之符號，用於表示光源在特定方向上的發光強度，亦常見於輻射與光學儀器規格。",
     "source_url": "https://glossary.ametsoc.org/wiki/cd"
   },
   {
     "english": "CDR",
-    "traditional_chinese": "CDR",
-    "definition_cht": "CDR 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "氣候資料紀錄",
+    "definition_cht": "climate data record 的縮寫，指經長期維持、品質控制與科學驗證的連續觀測時間序列，可用於監測氣候變異與氣候變遷。",
     "source_url": "https://glossary.ametsoc.org/wiki/CDR"
   },
   {
     "english": "ceiling",
-    "traditional_chinese": "天花板",
-    "definition_cht": "指「天花板」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "雲幕高度",
+    "definition_cht": "航空氣象中指距地面最近、覆蓋天空超過一半的破碎雲或陰天雲層之雲底高度，是飛航作業判斷目視與儀器飛行條件的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/ceiling"
   },
   {
     "english": "ceiling balloon",
-    "traditional_chinese": "天花板氣球",
-    "definition_cht": "指「天花板氣球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "測雲幕氣球",
+    "definition_cht": "一種用來測定雲底高度的小型氣球；根據其已知上升速度與進入雲層前所經時間，推算雲幕高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/ceiling_balloon"
   },
   {
     "english": "ceiling classification",
-    "traditional_chinese": "天花板分類",
-    "definition_cht": "指「天花板分類」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "雲幕判定分類",
+    "definition_cht": "航空天氣觀測中，指對雲幕高度判定方式所作的說明或分類，用以註記雲幕是如何量測、估計或推定。",
     "source_url": "https://glossary.ametsoc.org/wiki/ceiling_classification"
   },
   {
     "english": "ceiling light",
-    "traditional_chinese": "吸頂燈",
-    "definition_cht": "指「吸頂燈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "雲幕投射燈",
+    "definition_cht": "一種雲高指示裝置，以探照燈向上投射狹窄光束至雲底，藉由觀測光斑高度來估算雲幕高度，也稱 ceiling projector。",
     "source_url": "https://glossary.ametsoc.org/wiki/ceiling_light"
   },
   {
