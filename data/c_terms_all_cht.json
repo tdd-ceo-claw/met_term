@@ -1255,122 +1255,122 @@
   },
   {
     "english": "characteristics",
-    "traditional_chinese": "特徵",
-    "definition_cht": "指「特徵」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "特性",
+    "definition_cht": "指某一大氣、海洋、水文或相關系統、現象、物質或資料所具有的可識別性質與表現，可用以描述其行為、結構、變化或分類特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/characteristics"
   },
   {
     "english": "charge separation",
     "traditional_chinese": "電荷分離",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "指正、負電荷因微物理碰撞、感應或其他機制而在不同區域分離累積的過程；在雷暴雲中，電荷分離會建立強電場，並為閃電放電提供必要條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/charge_separation"
   },
   {
     "english": "Charles–Gay–Lussac law",
-    "traditional_chinese": "查理-蓋-呂薩克定律",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "traditional_chinese": "查理－蓋呂薩克定律",
+    "definition_cht": "指描述理想氣體狀態變化的氣體定律；對固定質量氣體而言，體積在定壓下與絕對溫度成正比，亦常用於表示壓力、體積與溫度之間的聯合關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/Charles%E2%80%93Gay%E2%80%93Lussac_law"
   },
   {
     "english": "Charnock's relation",
     "traditional_chinese": "查諾克關係",
-    "definition_cht": "指「查諾克關係」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指海氣邊界層中以摩擦速度與重力表示海面空氣動力粗糙長度的經驗關係，常用於估算風浪作用下海面的動量交換與阻力係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Charnock%27s_relation"
   },
   {
     "english": "chart",
-    "traditional_chinese": "圖表",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "圖；圖件",
+    "definition_cht": "指以圖示方式呈現觀測、分析或預報資訊的圖面，可為天氣圖、海圖、剖面圖或其他專題圖件，供判讀空間分布與系統演變之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/chart"
   },
   {
     "english": "chart datum",
-    "traditional_chinese": "海圖數據",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "海圖基準面",
+    "definition_cht": "指海圖上水深、潮高與潮汐預報所採用的垂直參考面，通常依某種低潮基準而定，以確保航海與水深表示的一致性與安全性。",
     "source_url": "https://glossary.ametsoc.org/wiki/chart_datum"
   },
   {
     "english": "chart plotting",
-    "traditional_chinese": "圖表繪製",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "圖上標繪",
+    "definition_cht": "指依既定符號、位置與格式，將觀測或分析資料標示於圖面上的作業；在氣象上常指將各站觀測值標繪於天氣圖以供分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/chart_plotting"
   },
   {
     "english": "check observation",
-    "traditional_chinese": "檢查觀察",
-    "definition_cht": "指「檢查觀察」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "複查觀測",
+    "definition_cht": "指為核對例行觀測結果、確認異常值或檢查儀器與觀測程序是否正確，而另行進行的補充性或重複性觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/check_observation"
   },
   {
     "english": "chemical composition of precipitation",
     "traditional_chinese": "降水化學成分",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "definition_cht": "指雨、雪、霧滴或其他降水中所含溶解與懸浮化學物質的組成，如主要離子、酸鹼度、養分、微量元素與污染物等，可用於研究大氣化學與沉降作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/chemical_composition_of_precipitation"
   },
   {
     "english": "chemical energy",
     "traditional_chinese": "化學能",
-    "definition_cht": "指「化學能」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指儲存在化學鍵與物質組成中的能量，可在化學反應過程中釋放或吸收；於大氣化學、燃燒與生物地球化學循環中具有重要意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/chemical_energy"
   },
   {
     "english": "chemical hygrometer",
-    "traditional_chinese": "化學濕度計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "化學式濕度計",
+    "definition_cht": "指利用吸濕性化學物質吸收水氣後的質量、體積或化學性質變化，來測定空氣濕度的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/chemical_hygrometer"
   },
   {
     "english": "chemisorption",
     "traditional_chinese": "化學吸附",
-    "definition_cht": "指「化學吸附」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指氣體或溶質分子與固體表面之間經由化學鍵作用而發生的吸附，通常較物理吸附強、選擇性較高，且可伴隨活化能需求。",
     "source_url": "https://glossary.ametsoc.org/wiki/chemisorption"
   },
   {
     "english": "chemosphere",
-    "traditional_chinese": "化學圈",
-    "definition_cht": "指「化學圈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "化學層",
+    "definition_cht": "指以化學反應、光化學轉化或成分變化為主要特徵的大氣層區域；此詞多用於強調該層中化學過程對組成與性質演變的重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/chemosphere"
   },
   {
     "english": "chergui",
-    "traditional_chinese": "切爾吉",
-    "definition_cht": "指「切爾吉」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "謝爾吉風",
+    "definition_cht": "指北非摩洛哥一帶由內陸或撒哈拉方向吹向沿海的炎熱乾燥風，常伴隨高溫、低濕與揚塵，屬地方性熱風。",
     "source_url": "https://glossary.ametsoc.org/wiki/chergui"
   },
   {
     "english": "Chezy equation",
     "traditional_chinese": "切齊方程",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "definition_cht": "指開放水道均勻流中，用以估算平均流速的半經驗阻力方程，通常寫為 V = C√(RS)，其中 C 為切齊係數、R 為水力半徑、S 為能量坡度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Chezy_equation"
   },
   {
     "english": "chi-square test",
     "traditional_chinese": "卡方檢定",
-    "definition_cht": "指「卡方檢定」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指以卡方分布為基礎的統計假設檢定方法，常用於檢驗類別資料之適合度、獨立性或同質性。",
     "source_url": "https://glossary.ametsoc.org/wiki/chi-square_test"
   },
   {
     "english": "chili",
     "traditional_chinese": "辣椒",
-    "definition_cht": "指「辣椒」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指茄科辣椒屬作物，常見於農業氣象與作物生態研究中；其生長、開花與結果對溫度、水分、日照與霜害條件相當敏感。",
     "source_url": "https://glossary.ametsoc.org/wiki/chili"
   },
   {
     "english": "chill factor",
-    "traditional_chinese": "寒冷因素",
-    "definition_cht": "指「寒冷因素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "風寒指數",
+    "definition_cht": "指綜合氣溫與風速，用以表示人體裸露皮膚實際感受寒冷程度或散熱強度的指標，亦常稱風寒效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/chill_factor"
   },
   {
     "english": "chill hour",
-    "traditional_chinese": "寒冷時刻",
-    "definition_cht": "指「寒冷時刻」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "低溫時數",
+    "definition_cht": "指果樹或其他休眠植物在冬季累積達到某一低溫條件的時數，用以評估其休眠解除與正常萌芽、開花所需的冷量。",
     "source_url": "https://glossary.ametsoc.org/wiki/chill_hour"
   },
   {
     "english": "chill unit",
-    "traditional_chinese": "冷卻裝置",
-    "definition_cht": "指「冷卻裝置」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "低溫單位",
+    "definition_cht": "指用以量化植物休眠期有效冷量累積的單位；不同模式可依各溫度範圍對休眠解除的效應給予不同權重。",
     "source_url": "https://glossary.ametsoc.org/wiki/chill_unit"
   },
   {
