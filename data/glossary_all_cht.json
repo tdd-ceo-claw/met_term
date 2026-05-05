@@ -8689,122 +8689,122 @@
   },
   {
     "english": "chilled-mirror hygrometer",
-    "traditional_chinese": "冷鏡濕度計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "冷鏡式濕度計",
+    "definition_cht": "以冷卻鏡面至露點或霜點、並用光學方式偵測鏡面凝結狀態的高精度濕度計，可據以求得露點溫度、水氣含量與相對濕度。",
     "source_url": "https://glossary.ametsoc.org/wiki/chilled-mirror_hygrometer"
   },
   {
     "english": "chilling",
-    "traditional_chinese": "令人不寒而慄",
-    "definition_cht": "指「令人不寒而慄」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "冷害低溫作用",
+    "definition_cht": "在農業氣象與植物生理中，指生物體暴露於高於冰點但偏低溫環境時所受的冷卻作用；此類低溫雖未凍結組織，仍可能抑制生長、代謝或正常生理機能。",
     "source_url": "https://glossary.ametsoc.org/wiki/chilling"
   },
   {
     "english": "chilling injury",
-    "traditional_chinese": "冷傷",
-    "definition_cht": "指「冷傷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "冷害",
+    "definition_cht": "植物、作物或生鮮農產品因暴露於高於冰點但過低的溫度而產生的生理性傷害，常見表徵包括褐變、表面凹陷、失水、成熟異常與組織敗壞。",
     "source_url": "https://glossary.ametsoc.org/wiki/chilling_injury"
   },
   {
     "english": "chimney cloud",
     "traditional_chinese": "煙囪雲",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "由局地強烈上升氣流形成、外觀似煙柱或煙囪的直立雲體；常見於火災、工業熱源或強烈熱對流上方，可用來指示顯著的垂直輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/chimney_cloud"
   },
   {
     "english": "chimney plume",
     "traditional_chinese": "煙囪羽流",
-    "definition_cht": "指「煙囪羽流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "煙囪排放氣體進入大氣後形成的羽狀流束，其抬升、擴散、傾斜與下洗情形受風速、穩定度、混合層高度及排放動量與浮力控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/chimney_plume"
   },
   {
     "english": "China Coastal Current",
     "traditional_chinese": "中國沿岸流",
-    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。",
+    "definition_cht": "沿中國大陸沿岸流動的海流系統，常受季風、河川逕流與陸棚地形影響；冬季常見較冷且較低鹽的沿岸水沿岸南下輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/China_Coastal_Current"
   },
   {
     "english": "chinook",
-    "traditional_chinese": "奇努克",
-    "definition_cht": "指「奇努克」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "奇努克風",
+    "definition_cht": "落磯山脈東側常見的焚風型下坡暖乾風，空氣越山下沉後絕熱增溫並使相對濕度降低，常造成氣溫迅速升高與積雪快速融化。",
     "source_url": "https://glossary.ametsoc.org/wiki/chinook"
   },
   {
     "english": "chinook arch",
-    "traditional_chinese": "奇努克拱門",
-    "definition_cht": "指「奇努克拱門」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "奇努克拱雲",
+    "definition_cht": "奇努克風發生時，常出現在山脈背風側上空、外觀呈拱形或弧帶狀的靜止雲系，通常標示暖乾下沉氣流與較冷濕空氣之間的邊界。",
     "source_url": "https://glossary.ametsoc.org/wiki/chinook_arch"
   },
   {
     "english": "chinophile",
-    "traditional_chinese": "中國愛好者",
-    "definition_cht": "指「中國愛好者」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "中國文化愛好者",
+    "definition_cht": "指對中國、中國文化、語言、歷史或相關事務具有特別興趣、研究或欣賞傾向的人；屬一般人文用語，非氣象專門術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/chinophile"
   },
   {
     "english": "chip log",
-    "traditional_chinese": "晶片日誌",
-    "definition_cht": "指「晶片日誌」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "測程板測速儀",
+    "definition_cht": "傳統航海用測速裝置，由木板、測繩與卷輪組成，藉木板在水中的阻力與放繩長度配合計時，以估算船舶相對水面的航速。",
     "source_url": "https://glossary.ametsoc.org/wiki/chip_log"
   },
   {
     "english": "chlorine compounds",
-    "traditional_chinese": "氯化合物",
-    "definition_cht": "指「氯化合物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "含氯化合物",
+    "definition_cht": "泛指分子中含有氯元素的化合物；在大氣化學中，部分含氯化合物可釋出活性氯，參與平流層臭氧破壞與氧化反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorine_compounds"
   },
   {
     "english": "chlorine dioxide",
     "traditional_chinese": "二氧化氯",
-    "definition_cht": "指「二氧化氯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "化學式為 ClO₂ 的強氧化性含氯氣體，常用於消毒、漂白與水處理；其分子含未成對電子，具自由基特性且在高濃度下不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorine_dioxide"
   },
   {
     "english": "chlorine monoxide dimer",
     "traditional_chinese": "一氧化氯二聚體",
-    "definition_cht": "指「一氧化氯二聚體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由兩個一氧化氯（ClO）結合形成的二聚體，常寫作 ClOOCl，亦稱氯過氧化物；在極地平流層中可經光解再釋出活性氯，是臭氧洞化學的重要中間物種。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorine_monoxide_dimer"
   },
   {
     "english": "chlorine monoxide radical",
     "traditional_chinese": "一氧化氯自由基",
-    "definition_cht": "指「一氧化氯自由基」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "化學式為 ClO 的活性含氯自由基，為平流層活性氯家族的重要成員，可透過催化循環破壞臭氧，並與 NO₂ 等物種形成暫存庫化合物。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorine_monoxide_radical"
   },
   {
     "english": "chlorine nitrate",
     "traditional_chinese": "硝酸氯",
-    "definition_cht": "指「硝酸氯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "化學式為 ClONO₂ 的平流層氯儲存物種，通常由 ClO 與 NO₂ 反應生成；在極區平流層雲表面可轉化為較活潑的含氯化合物，進而促進臭氧耗損。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorine_nitrate"
   },
   {
     "english": "chlorine oxides",
     "traditional_chinese": "氯氧化物",
-    "definition_cht": "指「氯氧化物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "氯與氧形成的一類化合物總稱，如 ClO、ClO₂、Cl₂O 與 ClOOCl 等；在大氣化學中，其中若干物種與活性氯循環及臭氧破壞密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorine_oxides"
   },
   {
     "english": "chlorinity",
     "traditional_chinese": "氯度",
-    "definition_cht": "指「氯度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "海洋學中指海水內鹵化物所含氯、溴與碘的總量，並以等效氯的質量表示，傳統上用來估算海水鹽度，是現代實用鹽度概念出現前的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorinity"
   },
   {
     "english": "chlorofluorocarbons",
     "traditional_chinese": "氯氟烴",
-    "definition_cht": "指「氯氟烴」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由氯、氟與碳組成的穩定鹵代烴，曾廣泛用作冷媒、發泡劑與噴霧推進劑；進入平流層後可釋出活性氯，造成臭氧層消耗，且多具強烈溫室效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorofluorocarbons"
   },
   {
     "english": "chloroform",
     "traditional_chinese": "氯仿",
-    "definition_cht": "指「氯仿」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "化學式為 CHCl₃ 的揮發性有機含氯化合物，屬三鹵甲烷之一，曾用作溶劑與麻醉劑；在環境化學中亦可作為天然或人為來源的痕量大氣成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/chloroform"
   },
   {
     "english": "chlorosity",
-    "traditional_chinese": "氯度",
-    "definition_cht": "指「氯度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氯鹽度",
+    "definition_cht": "表示水體中氯化物含量或所占比例的舊稱，海洋學上常近似指氯度（chlorinity）概念，亦即以等效氯含量表示海水中主要鹵化物的總量。",
     "source_url": "https://glossary.ametsoc.org/wiki/chlorosity"
   },
   {
