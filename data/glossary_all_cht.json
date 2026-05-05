@@ -7489,122 +7489,122 @@
   },
   {
     "english": "cancellation ratio",
-    "traditional_chinese": "取消率",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "消除比",
+    "definition_cht": "用於量測或分析中，表示兩個訊號、波動或效應彼此抵消程度的比值；數值大小反映消除效果強弱，實際定義與計算方式須依所用儀器或方法而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/cancellation_ratio"
   },
   {
     "english": "candela",
-    "traditional_chinese": "燭光",
-    "definition_cht": "指「燭光」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "坎德拉",
+    "definition_cht": "國際單位制中發光強度的基本單位，符號為 cd，用以表示光源在特定方向上的單位立體角發光強度。舊稱常譯為燭光。",
     "source_url": "https://glossary.ametsoc.org/wiki/candela"
   },
   {
     "english": "candle",
-    "traditional_chinese": "蠟燭",
-    "definition_cht": "指「蠟燭」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "燭光（舊稱）",
+    "definition_cht": "發光強度的舊用名稱或舊制單位名稱，歷史上常作為坎德拉或 candlepower 的通俗稱法；在現代標準單位中已由坎德拉取代。",
     "source_url": "https://glossary.ametsoc.org/wiki/candle"
   },
   {
     "english": "candle ice",
-    "traditional_chinese": "蠟燭冰",
-    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。",
+    "traditional_chinese": "燭狀冰",
+    "definition_cht": "湖冰、河冰或海冰在消融後沿晶體邊界分解成一束束近似垂直細柱的腐冰型態，外觀如成排蠟燭，強度很弱，易碎裂。",
     "source_url": "https://glossary.ametsoc.org/wiki/candle_ice"
   },
   {
     "english": "Candlemas Eve winds",
-    "traditional_chinese": "聖燭節前夕的風",
-    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。",
+    "traditional_chinese": "聖燭節前夕風",
+    "definition_cht": "歐洲民俗氣象中的節候風名，指聖燭節（2 月 2 日）前夕或前後常被提及的強風天氣，用於民間天氣諺語與季節轉換判斷，並非現代標準風系分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/Candlemas_Eve_winds"
   },
   {
     "english": "canopy",
-    "traditional_chinese": "天篷",
-    "definition_cht": "指「天篷」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "冠層",
+    "definition_cht": "森林、作物或其他植被上部由枝葉形成的覆蓋層，是地表與大氣交換輻射、熱量、水氣與動量的重要界面。",
     "source_url": "https://glossary.ametsoc.org/wiki/canopy"
   },
   {
     "english": "canopy temperature",
     "traditional_chinese": "冠層溫度",
-    "definition_cht": "指「冠層溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "植被冠層表面的溫度，可由紅外線測溫或遙測估算，常用於判斷作物水分逆境、蒸散作用與植生生理狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/canopy_temperature"
   },
   {
     "english": "Canterbury northwester",
-    "traditional_chinese": "坎特伯雷西北",
-    "definition_cht": "指「坎特伯雷西北」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "坎特伯里西北焚風",
+    "definition_cht": "紐西蘭南島坎特伯里平原一帶的地方風，為氣流越過南阿爾卑斯山後在背風側下沉增溫形成的溫暖、乾燥且常具陣風性的西北焚風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Canterbury_northwester"
   },
   {
     "english": "Canting angle",
     "traditional_chinese": "傾斜角",
-    "definition_cht": "指「傾斜角」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指非球形粒子、天線、感測器或其他目標主軸相對於基準方向（常為水平面或垂直面）的傾斜角度；在雷達氣象中常用於描述雨滴或冰粒姿態對偏振訊號的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Canting_angle"
   },
   {
     "english": "canyon wind",
     "traditional_chinese": "峽谷風",
-    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。",
+    "definition_cht": "受峽谷地形導引而沿谷地或坡谷方向吹送的局地風，常由氣壓梯度、冷暖空氣密度差或日夜加熱差異所驅動，風向受地形明顯制約。",
     "source_url": "https://glossary.ametsoc.org/wiki/canyon_wind"
   },
   {
     "english": "cap",
-    "traditional_chinese": "帽子",
-    "definition_cht": "指「帽子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "對流抑制層",
+    "definition_cht": "位於較低層暖濕空氣上方的暖而穩定氣層，可抑制空氣塊自由上升與對流發展；當抑制層被削弱或突破時，對流常會迅速增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/cap"
   },
   {
     "english": "cap cloud",
     "traditional_chinese": "帽雲",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "在山峰、積雲塔或強上升氣流上方形成的平滑透鏡狀或帽狀雲，通常由濕空氣受迫上升並在波動或局地抬升中凝結而成。",
     "source_url": "https://glossary.ametsoc.org/wiki/cap_cloud"
   },
   {
     "english": "capacitance rain gauge",
     "traditional_chinese": "電容式雨量計",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "definition_cht": "利用集水容器內水位變化引起電容量改變來量測降水量或降雨強度的雨量計，常用於自動氣象觀測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/capacitance_rain_gauge"
   },
   {
     "english": "capacity correction",
     "traditional_chinese": "容量修正",
-    "definition_cht": "指「容量修正」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "對量器、容器或量測系統名義容量與實際容量之差所施加的校正，用以減少因容積偏差造成的觀測或換算誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/capacity_correction"
   },
   {
     "english": "capacity of the wind",
-    "traditional_chinese": "風的容量",
-    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。",
+    "traditional_chinese": "風之搬運容量",
+    "definition_cht": "指風在既定風速、紊流與地表條件下所能搬運的沉積物總量上限；常用於風成地形與風蝕、輸砂研究，以區別於可被搬運的最大粒徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/capacity_of_the_wind"
   },
   {
     "english": "CAPE",
-    "traditional_chinese": "CAPE",
-    "definition_cht": "CAPE 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "對流可用位能",
+    "definition_cht": "Convective Available Potential Energy 的縮寫，指氣塊自自由對流高度以上至平衡高度之間，因浮力可轉換為上升動能的位能，常以 J/kg 表示，數值愈大通常代表對深對流與雷暴的支持度愈高。",
     "source_url": "https://glossary.ametsoc.org/wiki/CAPE"
   },
   {
     "english": "Cape doctor",
-    "traditional_chinese": "開普醫生",
-    "definition_cht": "指「開普醫生」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "開普醫生風",
+    "definition_cht": "南非開普敦一帶對強勁東南風的地方性名稱。此風常將海上較清新的空氣帶入市區、吹散霾害與污染，因此有「醫生」之稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Cape_doctor"
   },
   {
     "english": "capillarity",
     "traditional_chinese": "毛細現象",
-    "definition_cht": "指「毛細現象」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "液體因表面張力及其與固體表面的附著作用，在細管或孔隙介質中出現上升、下降或側向移動的現象；在土壤水分與地下水研究中特別重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillarity"
   },
   {
     "english": "capillarity correction",
-    "traditional_chinese": "毛細管現象校正",
-    "definition_cht": "指「毛細管現象校正」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "毛細修正",
+    "definition_cht": "為修正液體在細管中因表面張力造成的毛細上升或毛細下降，而對壓力計、氣壓計、雨量器或其他液柱量測所施加的校正量。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillarity_correction"
   },
   {
     "english": "capillary action",
     "traditional_chinese": "毛細作用",
-    "definition_cht": "指「毛細作用」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "液體在細管、裂隙或孔隙介質中因表面張力、凝聚力與附著力共同作用而自行移動的過程，是毛細現象的動力機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/capillary_action"
   },
   {
