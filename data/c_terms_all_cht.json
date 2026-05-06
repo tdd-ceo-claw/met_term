@@ -1976,37 +1976,37 @@
   {
     "english": "climate prediction",
     "traditional_chinese": "氣候預測",
-    "definition_cht": "指「氣候預測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "利用氣候系統初始狀態、外在強迫與統計或動力模式，對未來季節到年代尺度平均狀態、異常機率或整體趨勢所作的預測。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_prediction"
   },
   {
     "english": "climate sensitivity",
     "traditional_chinese": "氣候敏感度",
-    "definition_cht": "指「氣候敏感度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "衡量氣候系統對輻射強迫變化之溫度反應的指標，常指大氣二氧化碳濃度倍增時全球平均地表溫度的平衡升溫幅度。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_sensitivity"
   },
   {
     "english": "Climate services",
     "traditional_chinese": "氣候服務",
-    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。",
+    "definition_cht": "將氣候資料、監測、預報與風險評估轉化為可供決策使用之資訊與諮詢服務，以支援防災、農業、水資源、能源與公共治理等應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Climate_services"
   },
   {
     "english": "climate signal",
     "traditional_chinese": "氣候訊號",
-    "definition_cht": "指「氣候訊號」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在氣候資料中可辨識、具有物理意義的變化型態或趨勢訊息，用以區分長期強迫影響、遙相關作用或其他系統性變動與隨機雜訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_signal"
   },
   {
     "english": "climate snow line",
     "traditional_chinese": "氣候雪線",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "definition_cht": "由多年平均氣候條件所決定的雪線高度，亦即某地山區積雪得以持續保留或冰雪收支大致平衡的平均下限。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_snow_line"
   },
   {
     "english": "climate system",
     "traditional_chinese": "氣候系統",
-    "definition_cht": "指「氣候系統」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由大氣圈、水圈、冰凍圈、岩石圈與生物圈及其交互作用所構成的整體地球系統，決定氣候的形成、變化與回饋。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_system"
   },
   {
@@ -2018,79 +2018,79 @@
   {
     "english": "climatic classification",
     "traditional_chinese": "氣候分類",
-    "definition_cht": "指「氣候分類」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "依溫度、降水、蒸發或植生等氣候要素及其季節分配，將地區劃分為不同氣候型的分類方法或體系。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_classification"
   },
   {
     "english": "climatic control",
-    "traditional_chinese": "氣候控制",
-    "definition_cht": "指「氣候控制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候控制因子",
+    "definition_cht": "主導或調節某地氣候形成與差異的控制條件，如緯度、高度、距海遠近、洋流、地形與大氣環流等。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_control"
   },
   {
     "english": "climatic cycle",
     "traditional_chinese": "氣候循環",
-    "definition_cht": "指「氣候循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "氣候要素或氣候型態隨時間呈現的週期性或近週期性變化，可發生於季節、年際、年代際或更長尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_cycle"
   },
   {
     "english": "climatic diagram",
     "traditional_chinese": "氣候圖",
-    "definition_cht": "指「氣候圖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "以圖形方式綜合呈現某地月平均氣溫、降水量等氣候資料的圖表，用於判讀季節變化與氣候型特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_diagram"
   },
   {
     "english": "climatic discontinuity",
-    "traditional_chinese": "氣候不連續性",
-    "definition_cht": "指「氣候不連續性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候不連續帶",
+    "definition_cht": "指氣候要素或氣候型態在空間上出現明顯突變、非漸進過渡的區域或界線，常與地形、海陸差異或環流轉換有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_discontinuity"
   },
   {
     "english": "climatic divide",
-    "traditional_chinese": "氣候分水嶺",
-    "definition_cht": "指「氣候分水嶺」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候分界線",
+    "definition_cht": "區隔兩種主要氣候區、氣候型或氣候特徵的界線，其兩側在溫度、降水、季節性或環流影響上具有顯著差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_divide"
   },
   {
     "english": "climatic element",
-    "traditional_chinese": "氣候因素",
-    "definition_cht": "指「氣候因素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候要素",
+    "definition_cht": "構成與描述氣候狀態的基本氣象量，如氣溫、降水、濕度、氣壓、風、雲量與日照等。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_element"
   },
   {
     "english": "climatic factor",
-    "traditional_chinese": "氣候因素",
-    "definition_cht": "指「氣候因素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候因子",
+    "definition_cht": "影響某地氣候形成、分布或變化的自然條件與外在作用，例如緯度、地形、海陸分布、洋流、下墊面與人為強迫。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_factor"
   },
   {
     "english": "climatic fluctuation",
     "traditional_chinese": "氣候波動",
-    "definition_cht": "指「氣候波動」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "氣候統計特徵在一段期間內相對平均狀態的上下起伏，通常指未達長期趨勢改變、但可持續多年以上的變動。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_fluctuation"
   },
   {
     "english": "climatic index",
     "traditional_chinese": "氣候指數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "用以量化並表徵特定氣候狀態、型態、振盪或區域差異的指標，可由單一要素、組合參數或標準化異常計算而得。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_index"
   },
   {
     "english": "Climatic Optimum",
-    "traditional_chinese": "最適宜的氣候",
-    "definition_cht": "指「最適宜的氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候最適期",
+    "definition_cht": "指某一地質或歷史時期內，相較前後階段氣候較為溫暖、濕潤或較適宜特定生物與人類活動的時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/Climatic_Optimum"
   },
   {
     "english": "Climatic province",
-    "traditional_chinese": "氣候省份",
-    "definition_cht": "指「氣候省份」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候區",
+    "definition_cht": "依整體氣候特徵劃分而成的區域單元，區內在溫度、降水、季節變化與氣團或環流影響上具有相對一致性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Climatic_province"
   },
   {
     "english": "climatic record",
     "traditional_chinese": "氣候記錄",
-    "definition_cht": "指「氣候記錄」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "記載某地或某時段氣候狀態與變化的資料紀錄，可來自儀器觀測、歷史文獻、樹輪、冰芯、沉積物等直接或代用資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_record"
   },
   {
