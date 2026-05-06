@@ -10130,121 +10130,121 @@
   {
     "english": "coastal climate",
     "traditional_chinese": "海岸性氣候",
-    "definition_cht": "指受海洋調節影響顯著的沿岸地區氣候型態，通常具有氣溫年較差較小、濕度較高，且常受海風、霧、沿岸雲系與海陸熱力差異影響等特徵。",
+    "definition_cht": "受鄰近海洋顯著調節的沿岸氣候型，通常氣溫年較差較小、濕度較高，並常受海陸風、海霧與沿岸雲系影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/coastal_climate"
   },
   {
     "english": "coastal front",
-    "traditional_chinese": "沿海前線",
-    "definition_cht": "指「沿海前線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "沿岸鋒",
+    "definition_cht": "形成於海岸附近、由海陸熱力差異或海上與陸上氣團交會所造成的中尺度鋒面，常伴隨明顯風向、溫度與濕度梯度。",
     "source_url": "https://glossary.ametsoc.org/wiki/coastal_front"
   },
   {
     "english": "coastal upwelling",
-    "traditional_chinese": "沿海上升流",
-    "definition_cht": "指「沿海上升流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "沿岸湧升流",
+    "definition_cht": "在沿岸風應力與艾克曼輸送作用下，表層海水離岸移動而由下層較冷、較富營養鹽的海水補升至近海面的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/coastal_upwelling"
   },
   {
     "english": "coastal zone",
-    "traditional_chinese": "沿海地區",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "traditional_chinese": "海岸帶",
+    "definition_cht": "陸地與海洋交互作用最明顯的過渡區域，涵蓋近岸陸域、潮間帶與鄰近海域，其環境受波浪、潮汐、海流與人類活動共同影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/coastal_zone"
   },
   {
     "english": "Coastal Zone Color Scanner",
-    "traditional_chinese": "沿海地區彩色掃描儀",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "traditional_chinese": "海岸帶彩色掃描儀",
+    "definition_cht": "1978 年搭載於 Nimbus-7 衛星的多光譜海洋水色掃描儀，主要用於觀測海洋葉綠素、懸浮物與近岸生物光學特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Coastal_Zone_Color_Scanner"
   },
   {
     "english": "coastally trapped waves",
-    "traditional_chinese": "沿海睏波",
-    "definition_cht": "指「沿海睏波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "沿岸陷獲波",
+    "definition_cht": "受海岸線與大陸棚地形束縛、沿岸傳播且振幅向外海快速衰減的長波，常與風應力、氣壓擾動或海平面異常有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/coastally_trapped_waves"
   },
   {
     "english": "coaxial cable",
     "traditional_chinese": "同軸電纜",
-    "definition_cht": "指「同軸電纜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由中心導體、絕緣層、外部導體屏蔽與護套組成的傳輸線，可在抑制外界電磁干擾下傳送高頻電訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/coaxial_cable"
   },
   {
     "english": "cockeyed bob",
-    "traditional_chinese": "斜眼鮑勃",
-    "definition_cht": "指「斜眼鮑勃」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "澳洲突發暴風",
+    "definition_cht": "澳洲用語，指突然而猛烈的暴風或強對流風暴，常伴隨強陣風與天氣迅速惡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/cockeyed_bob"
   },
   {
     "english": "code forms",
-    "traditional_chinese": "代碼形式",
-    "definition_cht": "指「代碼形式」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣象電碼格式",
+    "definition_cht": "將觀測、分析或預報資料依既定欄位與群組規則編成數字或字母訊息的標準格式，供氣象通信與資料交換使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/code_forms"
   },
   {
     "english": "coefficient of barotropy",
-    "traditional_chinese": "正壓係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "正壓性係數",
+    "definition_cht": "表示流體接近正壓狀態程度的係數；在正壓流體中，密度僅為壓力的函數，等壓面與等密面趨於一致。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_barotropy"
   },
   {
     "english": "coefficient of compressibility",
-    "traditional_chinese": "壓縮係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "可壓縮係數",
+    "definition_cht": "表示物質在壓力改變時相對體積變化敏感度的係數，常以單位壓力變化所引起的體積相對變化表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_compressibility"
   },
   {
     "english": "coefficient of consolidation",
     "traditional_chinese": "固結係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "土壤力學中表示孔隙水壓消散與壓密進行快慢的參數，受土壤滲透性、壓縮性及單位重影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_consolidation"
   },
   {
     "english": "coefficient of correlation",
     "traditional_chinese": "相關係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "衡量兩變數線性相關方向與強度的無因次統計量，其值通常介於 -1 與 1 之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_correlation"
   },
   {
     "english": "coefficient of diffusion",
     "traditional_chinese": "擴散係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "表示物質因濃度梯度而發生分子擴散之速率或效率的係數，是 Fick 擴散定律中的基本參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_diffusion"
   },
   {
     "english": "coefficient of eddy viscosity",
-    "traditional_chinese": "渦粘係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "渦動黏滯係數",
+    "definition_cht": "在湍流參數化中，用以表徵渦旋混合作用造成動量交換效率的等效黏滯係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_eddy_viscosity"
   },
   {
     "english": "coefficient of mutual diffusion",
-    "traditional_chinese": "相互擴散係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "互擴散係數",
+    "definition_cht": "描述兩種成分彼此混合時，由濃度梯度驅動的相對擴散速率之係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_mutual_diffusion"
   },
   {
     "english": "coefficient of piezotropy",
-    "traditional_chinese": "壓電係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "壓致性係數",
+    "definition_cht": "表示介質物理性質隨壓力改變程度的係數，常用於描述壓力變化所引起的密度、體積或相關狀態量變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_piezotropy"
   },
   {
     "english": "coefficient of tension",
-    "traditional_chinese": "張力係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "表面張力係數",
+    "definition_cht": "表示液體表面張力大小的係數，即液面沿單位長度邊界所受拉力，亦可視為形成單位面積所需的表面能。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_tension"
   },
   {
     "english": "coefficient of thermal expansion",
     "traditional_chinese": "熱膨脹係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "表示物質在溫度改變時尺寸或體積相對變化程度的係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_thermal_expansion"
   },
   {
     "english": "coefficient of transparency",
-    "traditional_chinese": "透明度係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "透明係數",
+    "definition_cht": "表示介質透過輻射或光線能力的係數，常用於描述大氣或其他介質對入射能量的透射比例。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_transparency"
   },
   {
