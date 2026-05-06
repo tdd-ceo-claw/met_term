@@ -2336,121 +2336,121 @@
   {
     "english": "cloud",
     "traditional_chinese": "雲",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "由大氣中極細小的水滴、冰晶，或兩者混合所組成的可見懸浮體；其生成、高度、形態與分布是判識天氣與大氣穩定度的重要依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud"
   },
   {
     "english": "cloud absorption",
     "traditional_chinese": "雲吸收",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指雲中水滴、冰晶及其所含粒子對入射輻射能量的吸收作用，會削弱穿透雲層的短波或長波輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_absorption"
   },
   {
     "english": "cloud albedo",
     "traditional_chinese": "雲反照率",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指雲對入射太陽輻射的反射能力，通常以反射通量占入射通量的比例表示；值愈大，代表雲層把更多日射反回太空。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_albedo"
   },
   {
     "english": "cloud amount",
     "traditional_chinese": "雲量",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指觀測時天空被雲遮蔽的程度或比例，常以總雲量表示，是地面氣象觀測與雲況判識的基本要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_amount"
   },
   {
     "english": "cloud attenuation",
     "traditional_chinese": "雲衰減",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指電磁波或輻射穿越雲層時，因吸收與散射而造成能量減弱的現象，常見於衛星遙測、雷達與通訊傳播分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_attenuation"
   },
   {
     "english": "cloud band",
     "traditional_chinese": "雲帶",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指沿某一方向延伸、呈狹長帶狀排列的雲系，常與鋒面、急流、輻合帶或熱帶擾動相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_band"
   },
   {
     "english": "cloud bank",
-    "traditional_chinese": "雲端銀行",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲幕",
+    "definition_cht": "指在遠方可見、邊界較清楚且占據相當一段地平線的大片雲體，但通常不延伸至觀測者上空。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_bank"
   },
   {
     "english": "cloud bar",
-    "traditional_chinese": "雲吧",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲障",
+    "definition_cht": "指近地平線呈狹長橫帶狀的雲體或暗色雲帶，常作為遠方對流、鋒面或局地環流變化的視覺徵象。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_bar"
   },
   {
     "english": "cloud base",
-    "traditional_chinese": "雲基地",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲底",
+    "definition_cht": "指雲可見部分的最低底部高度，可用距地高度、海拔高度或對應氣壓層表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_base"
   },
   {
     "english": "cloud camera",
-    "traditional_chinese": "雲端相機",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲相機",
+    "definition_cht": "指用於拍攝、記錄與分析天空雲況的觀測相機，常用於全天空雲量、雲型、雲移動與輻射條件監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_camera"
   },
   {
     "english": "cloud ceiling",
-    "traditional_chinese": "雲頂",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲幕高",
+    "definition_cht": "在航空氣象中，指最低一層覆蓋超過半天天空的雲底高度，或等效的垂直能見度，是飛航作業的重要限制量。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_ceiling"
   },
   {
     "english": "cloud chamber",
     "traditional_chinese": "雲室",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "一種利用過飽和蒸氣凝結顯示粒子通過痕跡的裝置；在大氣科學中也可用於研究凝結核、成雲與微物理過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_chamber"
   },
   {
     "english": "cloud chart",
     "traditional_chinese": "雲圖",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指用來記錄、標示或分析雲量、雲型、雲高與雲系分布的圖表，可用於觀測作業、天氣分析或教學判識。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_chart"
   },
   {
     "english": "cloud classification",
     "traditional_chinese": "雲分類",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "依雲的形態、生成高度、垂直發展與相關物理特徵所建立的分類系統，如高雲、中雲、低雲與直展雲等。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_classification"
   },
   {
     "english": "cloud cluster",
-    "traditional_chinese": "雲端集群",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲簇",
+    "definition_cht": "指由多個對流雲胞或雲團聚集而成的群集，常見於熱帶對流活動，並可進一步發展為中尺度對流系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_cluster"
   },
   {
     "english": "cloud condensation nuclei",
     "traditional_chinese": "雲凝結核",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "大氣中可作為水汽凝結核心的微小氣膠粒子；當空氣達到適當過飽和度時，水汽會在其上凝結形成雲滴。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_condensation_nuclei"
   },
   {
     "english": "cloud condensation nuclei counter",
     "traditional_chinese": "雲凝結核計數器",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "用於量測空氣中雲凝結核數濃度的儀器，通常在控制過飽和度條件下，統計可活化形成雲滴的粒子數。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_condensation_nuclei_counter"
   },
   {
     "english": "cloud cover",
-    "traditional_chinese": "雲層",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲覆量",
+    "definition_cht": "指天空被雲遮蔽的面積比例，常以分數、百分比或 oktas（八分量）表示，與日照、輻射收支及天氣觀測密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_cover"
   },
   {
     "english": "cloud drop",
     "traditional_chinese": "雲滴",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指懸浮於雲中的微小液態水滴，通常由水汽在雲凝結核上凝結形成，是暖雲降水發展的基本粒子。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_drop"
   },
   {
     "english": "cloud droplet",
     "traditional_chinese": "雲滴",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "專指構成雲體的微小液態水滴，粒徑通常較雨滴小得多，其成長可經凝結與碰併而進一步形成降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_droplet"
   },
   {
