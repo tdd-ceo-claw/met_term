@@ -10015,122 +10015,122 @@
   },
   {
     "english": "cloud-to-ground flash",
-    "traditional_chinese": "雲地閃光",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲對地閃擊",
+    "definition_cht": "指雲中帶電區與地面之間發生的一次閃電放電事件，屬雷暴中常見的雲地放電型態；依電荷極性可分為正閃與負閃，對地面設施與人員具有較高風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud-to-ground_flash"
   },
   {
     "english": "cloud-top entrainment instability",
-    "traditional_chinese": "雲頂夾帶不穩定性",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲頂夾帶不穩定",
+    "definition_cht": "指乾暖空氣自雲頂夾入雲層後，因蒸發冷卻而增強負浮力與湍流混合，使層雲或層積雲頂部更不穩定的機制，常用於解釋海洋邊界層雲的破碎與消散。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud-top_entrainment_instability"
   },
   {
     "english": "cloudbow",
-    "traditional_chinese": "雲弓",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "霧虹",
+    "definition_cht": "由極細小水滴對陽光產生繞射、折射與反射所形成的淡白色弧形光象，外觀近似彩虹但色彩很弱，常見於霧、薄雲或含微小水滴的空氣中。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloudbow"
   },
   {
     "english": "cloudburst",
-    "traditional_chinese": "暴雨",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "驟發性豪雨",
+    "definition_cht": "指局地在極短時間內出現的強烈降雨事件，雨勢急且集中，常伴隨雷暴，容易迅速造成山區或都市地區的積淹水與暴洪。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloudburst"
   },
   {
     "english": "cloudy",
     "traditional_chinese": "多雲",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指天空雲量偏多的天況，地面觀測時大部分天空被雲覆蓋，但未必達到全陰天或完全密雲的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloudy"
   },
   {
     "english": "cloudy day",
-    "traditional_chinese": "陰天",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "多雲天",
+    "definition_cht": "指一日之中大部分時間雲量較多的天氣狀態；日照通常較弱，但不一定持續降水，也未必達到全天陰天。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloudy_day"
   },
   {
     "english": "cloudy sky",
-    "traditional_chinese": "多雲的天空",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "多雲天空",
+    "definition_cht": "指視野中的天空大部分被雲覆蓋的狀態，用於描述某一時刻或某一地點的雲量外觀。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloudy_sky"
   },
   {
     "english": "cluster ions",
-    "traditional_chinese": "簇離子",
-    "definition_cht": "指「簇離子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "團簇離子",
+    "definition_cht": "指大氣中帶電核心與數個中性分子或原子結合而成的小型離子團，在大氣電學、氣膠生成與離子化過程研究中常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/cluster_ions"
   },
   {
     "english": "clutter",
-    "traditional_chinese": "雜亂",
-    "definition_cht": "指「雜亂」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "雜波",
+    "definition_cht": "在雷達或聲納觀測中，指非目標回波所形成的干擾訊號，常來自地物、海浪、昆蟲、鳥群或其他不欲觀測的散射體，會降低目標判識能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/clutter"
   },
   {
     "english": "clutter rejection",
     "traditional_chinese": "雜波抑制",
-    "definition_cht": "指「雜波抑制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指利用濾波、都卜勒判別、門檻設定或其他訊號處理方法，去除或減弱雷達雜波回波，以提升降水或移動目標辨識品質的技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/clutter_rejection"
   },
   {
     "english": "CME",
-    "traditional_chinese": "CME",
-    "definition_cht": "CME 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "日冕物質拋射",
+    "definition_cht": "coronal mass ejection 的縮寫，指太陽日冕中的大量電漿與磁場結構突然向行星際空間拋出的現象；其抵達地球附近時可擾動太空天氣並引發地磁暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/CME"
   },
   {
     "english": "co-cumulative spectrum",
     "traditional_chinese": "共累積譜",
-    "definition_cht": "指「共累積譜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指對共譜函數沿頻率或波數方向累積後所得的譜量表示，用來顯示不同尺度對兩變數共變異、通量或能量傳輸的累積貢獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/co-cumulative_spectrum"
   },
   {
     "english": "co-latitude",
-    "traditional_chinese": "共緯度",
-    "definition_cht": "指「共緯度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "餘緯",
+    "definition_cht": "指某地緯度相對於九十度的餘角，即自天頂至地球自轉軸方向所對應的角距；在球面幾何、天文與地球物理計算中常用。",
     "source_url": "https://glossary.ametsoc.org/wiki/co-latitude"
   },
   {
     "english": "Co-rotating Interaction Region",
-    "traditional_chinese": "同向旋轉交互區域",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "traditional_chinese": "共轉交互作用區",
+    "definition_cht": "指太陽自轉背景下，快速太陽風追上前方較慢太陽風時，在行星際空間形成的壓縮與剪切區域；常伴隨磁場增強，並與 recurrent geomagnetic activity 有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Co-rotating_Interaction_Region"
   },
   {
     "english": "coagulation",
-    "traditional_chinese": "凝固",
-    "definition_cht": "指「凝固」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凝聚",
+    "definition_cht": "指懸浮粒子、液滴或氣膠微粒因碰撞、黏附等作用而結合成較大顆粒的過程，是大氣氣膠粒徑成長的重要機制之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/coagulation"
   },
   {
     "english": "coalescence",
     "traditional_chinese": "聚結",
-    "definition_cht": "兩個或多個液滴、粒子或小單元在碰撞後合併成較大單體的過程；在雲物理中為雨滴成長的重要機制。",
+    "definition_cht": "指兩個或多個液滴、氣泡或粒子在接觸後合併為較大單體的過程；在雲物理中，液滴聚結是暖雨形成的重要成長機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/coalescence"
   },
   {
     "english": "coalescence efficiency",
     "traditional_chinese": "聚結效率",
-    "definition_cht": "指「聚結效率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指液滴或粒子彼此碰撞後實際成功聚結的比例，反映碰撞事件中能形成較大顆粒的機率，為雲滴成長與降水形成的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/coalescence_efficiency"
   },
   {
     "english": "coarse particles",
-    "traditional_chinese": "粗顆粒",
-    "definition_cht": "指「粗顆粒」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "粗粒子",
+    "definition_cht": "指粒徑較大的大氣懸浮微粒，通常相對於細粒子而言，常包括直徑約 2.5 至 10 微米的氣膠成分，如海鹽、土壤揚塵或機械性破碎產物。",
     "source_url": "https://glossary.ametsoc.org/wiki/coarse_particles"
   },
   {
     "english": "coarse-mesh grid",
-    "traditional_chinese": "粗目網格",
-    "definition_cht": "指「粗目網格」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "粗網格",
+    "definition_cht": "指數值模式、客觀分析或空間離散計算中格距較大的網格配置，解析度較低，適合描述大尺度特徵，但較難呈現局地細部結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/coarse-mesh_grid"
   },
   {
     "english": "coastal climate",
-    "traditional_chinese": "沿海氣候",
-    "definition_cht": "指「沿海氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "海岸性氣候",
+    "definition_cht": "指受海洋調節影響顯著的沿岸地區氣候型態，通常具有氣溫年較差較小、濕度較高，且常受海風、霧、沿岸雲系與海陸熱力差異影響等特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/coastal_climate"
   },
   {
