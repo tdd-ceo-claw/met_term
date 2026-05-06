@@ -3296,121 +3296,121 @@
   {
     "english": "columnar resistance",
     "traditional_chinese": "柱電阻",
-    "definition_cht": "在大氣電學中，指單位截面的大氣柱沿垂直方向介於兩高度或地表與高空之間的總電阻，用以描述垂直導電能力與全球電路特性。",
+    "definition_cht": "在大氣電學中，指單位截面之垂直大氣柱自地表延伸至指定高度的總電阻，用以表徵大氣柱導電能力，並常用於全球電路與離子—氣膠作用分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/columnar_resistance"
   },
   {
     "english": "comb nephoscope",
-    "traditional_chinese": "梳狀腎鏡",
-    "definition_cht": "指「梳狀腎鏡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "梳式測雲器",
+    "definition_cht": "一種已較少使用的直視式測雲器（nephoscope），由等距垂直細桿組成梳狀結構並可繞垂直軸轉動，用於觀測雲的移動方向與估算雲速。",
     "source_url": "https://glossary.ametsoc.org/wiki/comb_nephoscope"
   },
   {
     "english": "COMBAR code",
-    "traditional_chinese": "COMBAR代碼",
-    "definition_cht": "指「COMBAR代碼」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "COMBAR電碼",
+    "definition_cht": "combat aircraft code 的簡稱，為戰鬥機以五位數群組編報可觀測氣象要素的綜觀天氣電碼。",
     "source_url": "https://glossary.ametsoc.org/wiki/COMBAR_code"
   },
   {
     "english": "comber",
-    "traditional_chinese": "精梳機",
-    "definition_cht": "指「精梳機」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "捲浪",
+    "definition_cht": "指浪峰前傾並向前翻捲、常伴隨白沫的破碎波，常見於近岸淺水區；亦可泛指高而翻湧的長湧浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/comber"
   },
   {
     "english": "combination coefficient",
-    "traditional_chinese": "組合係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "結合係數",
+    "definition_cht": "在大氣離子與氣膠物理中，指異號小離子或帶電微粒因相互吸引而結合的速率係數，其量綱與復合係數相同。",
     "source_url": "https://glossary.ametsoc.org/wiki/combination_coefficient"
   },
   {
     "english": "combustion nucleus",
-    "traditional_chinese": "燃燒核",
-    "definition_cht": "指「燃燒核」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "燃燒凝結核",
+    "definition_cht": "由工業、交通或自然燃燒過程產生、可作為水汽凝結核心的氣膠粒子；其化學組成多變，常包含硫酸鹽、黑碳或其他燃燒副產物。",
     "source_url": "https://glossary.ametsoc.org/wiki/combustion_nucleus"
   },
   {
     "english": "comfort chart",
-    "traditional_chinese": "舒適度圖表",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "舒適圖",
+    "definition_cht": "以氣溫、濕度或有效溫度等要素表示人體熱舒適範圍的圖表，用於評估不同環境條件下多數人可能感到舒適的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/comfort_chart"
   },
   {
     "english": "comfort curve",
     "traditional_chinese": "舒適曲線",
-    "definition_cht": "指「舒適曲線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "舒適圖上表示人體主觀熱舒適臨界條件的曲線，用以界定在特定氣溫、濕度、風速或輻射條件組合下的舒適邊界。",
     "source_url": "https://glossary.ametsoc.org/wiki/comfort_curve"
   },
   {
     "english": "comfort zone",
-    "traditional_chinese": "舒適圈",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "traditional_chinese": "舒適區",
+    "definition_cht": "人體在一定活動量與衣著條件下，對氣溫、濕度、風速與輻射組合感到大致舒適的環境範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/comfort_zone"
   },
   {
     "english": "comma cloud system",
-    "traditional_chinese": "逗號雲端系統",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "逗號狀雲系",
+    "definition_cht": "衛星雲圖上呈逗號形的綜觀尺度雲系，常與發展中的中緯度低壓或強烈氣旋相關，可用於判識其結構與演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/comma_cloud_system"
   },
   {
     "english": "comma head",
-    "traditional_chinese": "逗號頭",
-    "definition_cht": "指「逗號頭」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "逗號雲頭",
+    "definition_cht": "逗號狀雲系中位於前端、較寬廣且常較厚實的雲區，通常對應氣旋中心附近的主要雲盾與降水區。",
     "source_url": "https://glossary.ametsoc.org/wiki/comma_head"
   },
   {
     "english": "comma tail",
-    "traditional_chinese": "逗號尾",
-    "definition_cht": "指「逗號尾」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "逗號雲尾",
+    "definition_cht": "逗號狀雲系向後延伸的狹長雲帶部分，常連接鋒面雲帶或低層收斂區，反映系統後側的雲系延伸結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/comma_tail"
   },
   {
     "english": "comminution",
-    "traditional_chinese": "粉碎",
-    "definition_cht": "指「粉碎」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "碎裂作用",
+    "definition_cht": "指固體物質受機械作用而被破碎成較小顆粒的過程；在地球科學中可用於描述岩屑、冰粒或其他顆粒物的破裂細化。",
     "source_url": "https://glossary.ametsoc.org/wiki/comminution"
   },
   {
     "english": "communication center",
-    "traditional_chinese": "通訊中心",
-    "definition_cht": "指「通訊中心」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "通信中心",
+    "definition_cht": "負責接收、處理、轉發與分配氣象觀測、預報及警報訊息的作業單位，是氣象電信與資料交換網路的重要節點。",
     "source_url": "https://glossary.ametsoc.org/wiki/communication_center"
   },
   {
     "english": "commutator",
     "traditional_chinese": "換向器",
-    "definition_cht": "指「換向器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "電機或儀器中的機械式導電切換裝置，用於週期性改變電流方向或連接方式；在部分氣象儀器與記錄系統中亦可作為訊號切換元件。",
     "source_url": "https://glossary.ametsoc.org/wiki/commutator"
   },
   {
     "english": "compact differencing",
-    "traditional_chinese": "緊緻差分",
-    "definition_cht": "指「緊緻差分」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "緊緻差分法",
+    "definition_cht": "數值分析中以相鄰格點導數值共同組成隱式差分關係的高階有限差分法，能在較小模板下獲得較高精度，常用於流體與大氣模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/compact_differencing"
   },
   {
     "english": "compaction",
-    "traditional_chinese": "壓實",
-    "definition_cht": "指「壓實」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "壓密作用",
+    "definition_cht": "物質在重力、外力或覆載作用下孔隙減少、體積縮小且密度增加的過程；在雪、土壤與沉積物研究中皆常使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/compaction"
   },
   {
     "english": "comparative rabal",
-    "traditional_chinese": "比較拉巴爾",
-    "definition_cht": "指「比較拉巴爾」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "比較式 RABAL 觀測",
+    "definition_cht": "與一般 rawin（雷達測風氣球）觀測同步進行的 rabal 觀測，即以經緯儀追蹤無線電探空氣球，用來粗略檢核雷達定位與作業精度。",
     "source_url": "https://glossary.ametsoc.org/wiki/comparative_rabal"
   },
   {
     "english": "compass",
     "traditional_chinese": "羅盤",
-    "definition_cht": "指「羅盤」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "用以指示方位的儀器，通常藉磁針或其他定向機制指向基準方向；在氣象與海洋觀測中常作為風向、航向或儀器定向的輔助設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/compass"
   },
   {
     "english": "compensated scale barometer",
-    "traditional_chinese": "補償刻度氣壓計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "溫度補償刻度氣壓計",
+    "definition_cht": "刻度已考慮溫度影響而加以補償的氣壓計，使讀值較接近標準條件下之實際氣壓，藉以減少儀器材料熱脹冷縮造成的誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/compensated_scale_barometer"
   },
   {
