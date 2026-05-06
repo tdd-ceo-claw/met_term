@@ -10850,121 +10850,121 @@
   {
     "english": "concentration gradient",
     "traditional_chinese": "濃度梯度",
-    "definition_cht": "指物質濃度在空間上的變化率與方向，即單位距離內的濃度差；其大小與方向常決定擴散、輸送與通量的趨勢。",
+    "definition_cht": "指物質濃度在空間中的變化率與方向，即單位距離內濃度差的大小與指向；其方向決定由高濃度往低濃度的擴散趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/concentration_gradient"
   },
   {
     "english": "concentration variance",
     "traditional_chinese": "濃度方差",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "指濃度相對其平均值之離散程度的統計量，為濃度偏差平方的平均，可用於描述污染物、示蹤劑或溶質場的變動強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/concentration_variance"
   },
   {
     "english": "concentric eyewall cycle",
-    "traditional_chinese": "同心眼壁循環",
-    "definition_cht": "指「同心眼壁循環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "同心眼牆替換循環",
+    "definition_cht": "指成熟熱帶氣旋中，外圍雨帶增強並組織成新的外眼牆，之後逐步向內收縮並取代原內眼牆的過程；常伴隨短暫減弱、眼牆重整與風圈擴大。",
     "source_url": "https://glossary.ametsoc.org/wiki/concentric_eyewall_cycle"
   },
   {
     "english": "concentric eyewalls",
-    "traditional_chinese": "同心眼壁",
-    "definition_cht": "指「同心眼壁」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "同心眼牆",
+    "definition_cht": "指熱帶氣旋中心周圍同時存在兩道或以上近似同心排列的眼牆結構，通常代表系統正處於或接近眼牆替換過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/concentric_eyewalls"
   },
   {
     "english": "concrete minimum temperature",
-    "traditional_chinese": "混凝土最低溫度",
-    "definition_cht": "指「混凝土最低溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "混凝土地面最低氣溫",
+    "definition_cht": "指在混凝土或其他硬鋪面環境上方所觀測到的最低氣溫，用於評估人工鋪面蓄熱與夜間放熱對近地面溫度的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/concrete_minimum_temperature"
   },
   {
     "english": "condensation",
-    "traditional_chinese": "縮合",
-    "definition_cht": "指「縮合」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凝結",
+    "definition_cht": "指氣態物質轉變為液態的相變過程；在氣象上通常指水汽因冷卻、增濕或減壓達到飽和後形成液態水滴。",
     "source_url": "https://glossary.ametsoc.org/wiki/condensation"
   },
   {
     "english": "condensation level",
-    "traditional_chinese": "凝結程度",
-    "definition_cht": "指「凝結程度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凝結高度",
+    "definition_cht": "指空氣團上升並冷卻至飽和後開始發生凝結的高度或氣壓層；依起始條件不同，可對應抬升凝結高度或對流凝結高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/condensation_level"
   },
   {
     "english": "condensation nuclei counter",
-    "traditional_chinese": "凝聚核計數器",
-    "definition_cht": "指「凝聚核計數器」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凝結核計數器",
+    "definition_cht": "用於量測空氣中凝結核數濃度的儀器，通常藉由建立控制過飽和環境，使凝結核長成可偵測微滴後進行計數。",
     "source_url": "https://glossary.ametsoc.org/wiki/condensation_nuclei_counter"
   },
   {
     "english": "condensation nucleus",
-    "traditional_chinese": "凝聚核",
-    "definition_cht": "指「凝聚核」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凝結核",
+    "definition_cht": "指可作為水汽凝結核心的微小氣膠粒子，如鹽粒、硫酸鹽或塵埃；其存在有助於雲滴形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/condensation_nucleus"
   },
   {
     "english": "condensation pressure",
-    "traditional_chinese": "冷凝壓力",
-    "definition_cht": "指「冷凝壓力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凝結壓力",
+    "definition_cht": "指在特定溫度與組成條件下，蒸氣開始發生凝結時所對應的壓力；常用於描述相平衡或混合氣體中可凝結成分的轉相條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/condensation_pressure"
   },
   {
     "english": "condensation temperature",
-    "traditional_chinese": "冷凝溫度",
-    "definition_cht": "指「冷凝溫度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凝結溫度",
+    "definition_cht": "指在既定壓力與組成條件下，氣體冷卻至開始凝結的溫度；對水汽而言可視為達到飽和並開始形成液滴的溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/condensation_temperature"
   },
   {
     "english": "condensation trail",
-    "traditional_chinese": "凝結痕跡",
-    "definition_cht": "指「凝結痕跡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凝結尾",
+    "definition_cht": "指航空器在高空飛行時，排氣中的水汽與微粒在低溫環境中凝結並凍結所形成的線狀雲帶，亦常稱為飛機雲或尾跡雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/condensation_trail"
   },
   {
     "english": "conditional distribution",
-    "traditional_chinese": "條件分佈",
-    "definition_cht": "指「條件分佈」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "條件分布",
+    "definition_cht": "指在已知某一事件發生或某變數取定特定值的條件下，另一隨機變數所呈現的機率分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/conditional_distribution"
   },
   {
     "english": "conditional instability",
-    "traditional_chinese": "條件不穩定性",
-    "definition_cht": "指「條件不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "條件不穩定",
+    "definition_cht": "指氣層對未飽和空氣塊而言呈穩定、但當空氣塊達飽和後改以濕絕熱遞減率上升時則轉為不穩定的狀態，常見於對流發展環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/conditional_instability"
   },
   {
     "english": "conditional instability of the second kind",
-    "traditional_chinese": "第二類條件不穩定性",
-    "definition_cht": "指「第二類條件不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "第二類條件不穩定",
+    "definition_cht": "指第二類條件不穩定（CISK），為熱帶氣象中描述積雲潛熱釋放與大尺度低層輻合互相增強的機制，用以解釋熱帶擾動、季風低壓或氣旋發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/conditional_instability_of_the_second_kind"
   },
   {
     "english": "conditional mean",
     "traditional_chinese": "條件均值",
-    "definition_cht": "指「條件均值」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指在給定某事件已發生或某變數已知的條件下，目標隨機變數的期望值或平均值。",
     "source_url": "https://glossary.ametsoc.org/wiki/conditional_mean"
   },
   {
     "english": "conditional probability",
     "traditional_chinese": "條件機率",
-    "definition_cht": "指「條件機率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指在已知另一事件已發生的前提下，某事件發生的機率，用以描述事件間的條件關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/conditional_probability"
   },
   {
     "english": "conditional sampling",
-    "traditional_chinese": "條件抽樣",
-    "definition_cht": "指「條件抽樣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "條件取樣",
+    "definition_cht": "指僅在資料滿足預先設定條件、門檻或事件狀態時才納入樣本的取樣方法，常用於亂流、降水或極端事件分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/conditional_sampling"
   },
   {
     "english": "conditions of readiness",
-    "traditional_chinese": "準備條件",
-    "definition_cht": "指「準備條件」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "戒備條件",
+    "definition_cht": "指依任務或災害應變需求所規定的準備與戒備狀態分級，用於說明人員、設備或系統需達到的待命程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/conditions_of_readiness"
   },
   {
     "english": "conductance for moisture",
-    "traditional_chinese": "濕氣電導率",
-    "definition_cht": "指「濕氣電導率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "水氣傳導度",
+    "definition_cht": "指水汽在兩處之間傳輸的有效傳導能力，常用於描述葉片、冠層或近地層空氣對蒸散與水汽交換的傳輸效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/conductance_for_moisture"
   },
   {
