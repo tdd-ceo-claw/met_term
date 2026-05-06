@@ -9890,121 +9890,121 @@
   {
     "english": "cloud nucleus",
     "traditional_chinese": "雲核",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "可供水汽凝結或凝華而形成雲滴、過冷水滴或冰晶的微小粒子，常為氣膠、鹽粒、塵埃或燃燒產物，是雲微物理形成的核心。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_nucleus"
   },
   {
     "english": "cloud optical depth",
-    "traditional_chinese": "雲光學深度",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲光學厚度",
+    "definition_cht": "表示雲層對太陽或地球輻射消光能力的無因次量，綜合反映雲滴或冰晶的濃度、粒徑與雲層厚度；數值愈大，透光性通常愈低。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_optical_depth"
   },
   {
     "english": "cloud particle",
     "traditional_chinese": "雲粒子",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "構成雲體的微小水成物粒子，包含雲滴、過冷水滴、冰晶及其混合形態，是決定雲之光學與降水特性的基本單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_particle"
   },
   {
     "english": "cloud physics",
-    "traditional_chinese": "雲物理",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲物理學",
+    "definition_cht": "研究雲中水汽凝結、凝華、碰併、凍結、降水生成及雲與輻射交互作用等過程的學科，屬物理氣象學的重要分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_physics"
   },
   {
     "english": "cloud radar",
     "traditional_chinese": "雲雷達",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "專為探測雲體垂直結構與微物理特性設計的高靈敏度雷達，可觀測雲頂、雲底、反射率及粒子運動等資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_radar"
   },
   {
     "english": "cloud radiative forcing",
     "traditional_chinese": "雲輻射強迫",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指雲存在時相對於晴空條件對地球輻射收支造成的淨影響，通常分為短波反照效應與長波溫室效應兩部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_radiative_forcing"
   },
   {
     "english": "cloud searchlight",
     "traditional_chinese": "雲探照燈",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "用於測定雲底高度的投光裝置，將光束投向雲底後，配合已知基線距離的觀測儀器以三角測量求得雲高。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_searchlight"
   },
   {
     "english": "cloud sector",
-    "traditional_chinese": "雲端部門",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲區",
+    "definition_cht": "在天氣分析、衛星影像或雲圖判識中，依雲量、雲型或雲系配置劃分出的特定區域，用以描述某一部分天空或天氣系統中的雲分布特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_sector"
   },
   {
     "english": "cloud seeding",
-    "traditional_chinese": "雲端播種",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "人工增雨（雲種播）",
+    "definition_cht": "將碘化銀、乾冰或吸濕性粒子等播入適合的雲體，以促進凝結、凍結或碰併過程，藉此改變降水效率或雲微物理結構的作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_seeding"
   },
   {
     "english": "cloud shield",
     "traditional_chinese": "雲盾",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "在衛星影像上呈大片連續分布的雲覆蓋區，常指鋒面系統、熱帶氣旋或深對流外圍所形成的廣闊高雲或層雲覆蓋。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_shield"
   },
   {
     "english": "cloud streets",
     "traditional_chinese": "雲街",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "由淺積雲沿近地層風向平行排列而成的帶狀雲列，通常與邊界層內滾軸渦旋及冷暖通量作用有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_streets"
   },
   {
     "english": "cloud symbol",
-    "traditional_chinese": "雲符號",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲狀符號",
+    "definition_cht": "在地面天氣圖、航空氣象圖或觀測記錄中，用以表示雲量、雲屬、雲高或特定雲況的圖形符號。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_symbol"
   },
   {
     "english": "cloud system",
-    "traditional_chinese": "雲端系統",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲系",
+    "definition_cht": "由多個雲體或不同雲層組成、具有共同生成機制與空間組織的整體雲區，例如鋒面雲系、颱風雲系或中尺度對流雲系。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_system"
   },
   {
     "english": "cloud top",
     "traditional_chinese": "雲頂",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "雲體的上界面，其高度或溫度常由衛星、雷達或探空資料推估，為判識對流深度與雲發展強度的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_top"
   },
   {
     "english": "cloud tracer",
-    "traditional_chinese": "雲端追蹤器",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲示蹤目標",
+    "definition_cht": "在連續衛星影像中可被辨識並追蹤移動的雲特徵或雲塊，用以推估大氣運動向量與不同高度層的風場。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_tracer"
   },
   {
     "english": "cloud winds",
-    "traditional_chinese": "雲風",
-    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。",
+    "traditional_chinese": "雲跡風",
+    "definition_cht": "依連續衛星影像追蹤雲元素位移所反演的風向與風速資料，常用於代表中高層大氣的氣流運動，又稱雲追蹤風。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_winds"
   },
   {
     "english": "cloud-detection radar",
-    "traditional_chinese": "雲偵測雷達",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "測雲雷達",
+    "definition_cht": "用於偵測雲體存在、雲底雲頂高度及其垂直結構的雷達，對弱雲回波具有較高靈敏度。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud-detection_radar"
   },
   {
     "english": "cloud-drop sampler",
     "traditional_chinese": "雲滴採樣器",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "用於攔截、收集或量測雲滴粒徑、濃度與化學成分的儀器，可裝設於地面、塔台、飛機或其他觀測平台。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud-drop_sampler"
   },
   {
     "english": "cloud-free line of sight",
-    "traditional_chinese": "無雲視線",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "無雲視線路徑",
+    "definition_cht": "指兩觀測點或感測器與目標之間未受雲層遮蔽的通視路徑，常用於光學、天文、遙測及雷射量測條件的描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud-free_line_of_sight"
   },
   {
     "english": "cloud-height indicator",
     "traditional_chinese": "雲高指示器",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "用於測定雲底高度的儀器總稱，可利用光束投射、雷射回波或其他光學方法量測，現代常見裝置為測雲儀（ceilometer）。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud-height_indicator"
   },
   {
