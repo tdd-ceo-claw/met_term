@@ -9409,122 +9409,122 @@
   },
   {
     "english": "climatic region",
-    "traditional_chinese": "氣候區",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "traditional_chinese": "氣候區域",
+    "definition_cht": "依長期氣溫、降水、季節循環及其綜合作用所劃分的地理區域，用以表示具有相近氣候特徵與氣候控制因子的範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_region"
   },
   {
     "english": "climatic risk",
     "traditional_chinese": "氣候風險",
-    "definition_cht": "指「氣候風險」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指氣候變異或氣候變遷對自然系統、人類社會或基礎設施造成不利影響的可能性，通常綜合危害、暴露度與脆弱度評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_risk"
   },
   {
     "english": "climatic trend",
     "traditional_chinese": "氣候趨勢",
-    "definition_cht": "指「氣候趨勢」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指氣候要素在較長時間尺度上呈現的持續性增減或變化方向，例如氣溫、降水或環流統計特徵的長期變動。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_trend"
   },
   {
     "english": "climatic year",
     "traditional_chinese": "氣候年",
-    "definition_cht": "指「氣候年」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "為配合某地季節循環或氣候統計需求而劃定的一年期分析單位，其起訖不必與曆年完全一致。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_year"
   },
   {
     "english": "climatic zone",
     "traditional_chinese": "氣候帶",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "definition_cht": "依長期氣候條件所劃分的帶狀區域，通常以緯度、溫度、降水及季節性等特徵作為主要分類依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatic_zone"
   },
   {
     "english": "climatography",
     "traditional_chinese": "氣候描述學",
-    "definition_cht": "著重氣候要素時空分布與區域特徵之描述、整理與呈現的氣候研究取向，相對於偏重成因解釋的物理氣候學。",
+    "definition_cht": "著重氣候要素時空分布、區域差異與統計特徵之整理與描述的氣候學分支，相對於偏重成因機制的物理氣候學。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatography"
   },
   {
     "english": "climatological atlas",
     "traditional_chinese": "氣候圖集",
-    "definition_cht": "指「氣候圖集」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "彙集某地區長期氣候統計圖件的圖集，內容常含氣溫、降水、風、日照等要素的空間分布與季節變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_atlas"
   },
   {
     "english": "climatological chart",
     "traditional_chinese": "氣候圖",
-    "definition_cht": "依長期平均或統計資料編製、用以表現某地區氣候要素空間分布或季節變化的圖表。",
+    "definition_cht": "依多年平均或統計資料編製、用以表現某地區氣候要素空間分布、年變化或季節特徵的圖件。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_chart"
   },
   {
     "english": "climatological data",
     "traditional_chinese": "氣候資料",
-    "definition_cht": "由長期氣象觀測彙整而成、可用於描述某地氣候平均態、變率與極端特徵的資料集合。",
+    "definition_cht": "由長期觀測整理而成、用於描述某地氣候平均狀態、變率、頻率分布與極端特徵的資料集合。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_data"
   },
   {
     "english": "climatological division",
     "traditional_chinese": "氣候分區",
-    "definition_cht": "依氣候特徵、地理條件或觀測一致性劃分出的區域單元，常用於氣候統計與業務分析。",
+    "definition_cht": "為便於氣候統計、監測或業務分析，依氣候特徵與區域一致性劃分出的地理單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_division"
   },
   {
     "english": "Climatological field",
-    "traditional_chinese": "氣候領域",
-    "definition_cht": "指「氣候領域」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候場",
+    "definition_cht": "某一氣候變數在長期平均或統計意義下於空間中的分布場，例如氣溫場、降水場或氣壓場。",
     "source_url": "https://glossary.ametsoc.org/wiki/Climatological_field"
   },
   {
     "english": "climatological forecast",
     "traditional_chinese": "氣候預報",
-    "definition_cht": "根據長期統計特徵、背景環流條件與相關預測訊號，對未來一段期間氣候偏暖、偏冷、偏乾或偏濕等機率所作的預報。",
+    "definition_cht": "根據長期統計特徵、背景環流與預測訊號，對未來一段期間氣候偏暖、偏冷、偏乾或偏濕等情形所作的機率性預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_forecast"
   },
   {
     "english": "Climatological mean field",
     "traditional_chinese": "氣候平均場",
-    "definition_cht": "指「氣候平均場」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "某一氣象要素經長期平均後所得的代表性空間分布，用以描述該要素的常年氣候背景。",
     "source_url": "https://glossary.ametsoc.org/wiki/Climatological_mean_field"
   },
   {
     "english": "climatological network",
-    "traditional_chinese": "氣候網路",
-    "definition_cht": "指「氣候網路」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候觀測網",
+    "definition_cht": "由多個氣候測站依一定配置組成的觀測網路，用於蒐集建立長期、可比較的區域或國家氣候資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_network"
   },
   {
     "english": "climatological observation",
     "traditional_chinese": "氣候觀測",
-    "definition_cht": "為建立長期氣候紀錄而按固定時間、方法與品質規範持續進行的氣象觀測。",
+    "definition_cht": "為建立長期氣候紀錄而依固定方法、時間與品質規範持續進行的氣象觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_observation"
   },
   {
     "english": "climatological standard normals",
-    "traditional_chinese": "氣候標準常態",
-    "definition_cht": "指「氣候標準常態」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候標準常態值",
+    "definition_cht": "依國際慣例以連續 30 年為基準期計算的各月或全年氣候平均值，用作描述某地常年氣候與比較異常的標準。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_standard_normals"
   },
   {
     "english": "climatological station",
     "traditional_chinese": "氣候站",
-    "definition_cht": "以長期、連續觀測氣溫、降水、濕度、風、氣壓等要素為主要任務，用以建立氣候資料紀錄的測站。",
+    "definition_cht": "以長期、連續觀測氣溫、降水、濕度、風與氣壓等要素為主要任務，用以建立氣候資料紀錄的測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_station"
   },
   {
     "english": "climatological station elevation",
     "traditional_chinese": "氣候站海拔",
-    "definition_cht": "指「氣候站海拔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指氣候測站所在地相對平均海平面的高度，為解釋與比較溫度、氣壓等氣候資料的重要站址參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_station_elevation"
   },
   {
     "english": "climatological station pressure",
-    "traditional_chinese": "氣候站壓力",
-    "definition_cht": "指「氣候站壓力」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候站氣壓",
+    "definition_cht": "指以測站所在地海拔為基準所代表的氣壓值，可為長期平均或統計量，用於描述該站的常年氣壓特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_station_pressure"
   },
   {
     "english": "climatological substation",
-    "traditional_chinese": "氣候變電站",
-    "definition_cht": "指「氣候變電站」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "輔助氣候站",
+    "definition_cht": "附屬於主要氣候站或觀測網的輔助測站，通常觀測要素較少或作業較簡化，但仍用於補充區域氣候資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_substation"
   },
   {
