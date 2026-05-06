@@ -1735,122 +1735,122 @@
   },
   {
     "english": "cistern barometer",
-    "traditional_chinese": "水箱氣壓計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "槽式水銀氣壓計",
+    "definition_cht": "一種水銀氣壓計，其下端設有較大截面的水銀槽（貯槽），上端為封閉玻璃管，藉由管內水銀柱高度變化測定大氣壓；因槽面面積遠大於管截面，槽面升降對讀值影響較小。",
     "source_url": "https://glossary.ametsoc.org/wiki/cistern_barometer"
   },
   {
     "english": "Citation",
     "traditional_chinese": "引文",
-    "definition_cht": "指「引文」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指文獻、報告或資料中的被引用內容，常與引用來源一併標示，用於說明氣象研究、觀測資料或技術文件所依據的原始出處。",
     "source_url": "https://glossary.ametsoc.org/wiki/Citation"
   },
   {
     "english": "civil day",
-    "traditional_chinese": "公民日",
-    "definition_cht": "指「公民日」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "民用日",
+    "definition_cht": "以午夜至次日午夜為界的一個平均太陽日，即日常民用時間所採用的 24 小時日制；與早期天文上自正午起算的天文日相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/civil_day"
   },
   {
     "english": "civil twilight",
-    "traditional_chinese": "公民黃昏",
-    "definition_cht": "指「公民黃昏」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "民用曙暮光",
+    "definition_cht": "太陽中心位於地平線下 0° 至 6° 之間時的曙暮光時段；此時地面通常仍有足夠自然光，可進行一般戶外活動而無需人工照明。",
     "source_url": "https://glossary.ametsoc.org/wiki/civil_twilight"
   },
   {
     "english": "clapotis",
-    "traditional_chinese": "克拉波蒂斯",
-    "definition_cht": "指「克拉波蒂斯」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "駐波浪",
+    "definition_cht": "由入射波遭近乎垂直的岸壁、防波堤或陡岸反射後，與反射波疊加形成的不碎駐波；其波節與波腹位置近乎固定，常加劇結構物前緣沖刷。",
     "source_url": "https://glossary.ametsoc.org/wiki/clapotis"
   },
   {
     "english": "class interval",
-    "traditional_chinese": "課間間隔",
-    "definition_cht": "指「課間間隔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "組距",
+    "definition_cht": "在次數分布或分組統計中，相鄰兩組界限之間的數值範圍；用以將連續資料分組，便於統計整理、繪圖與頻率分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/class_interval"
   },
   {
     "english": "class-A evaporation pan",
-    "traditional_chinese": "A級蒸發鍋",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "A 類蒸發皿",
+    "definition_cht": "標準化的開口蒸發觀測器皿，常為直徑約 4 英尺、深約 10 英吋的圓形金屬皿，用於量測一定期間內水面的蒸發量，並估算蒸發力或參考蒸散量。",
     "source_url": "https://glossary.ametsoc.org/wiki/class-A_evaporation_pan"
   },
   {
     "english": "classical condensation theory",
-    "traditional_chinese": "經典凝聚理論",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "traditional_chinese": "經典凝結理論",
+    "definition_cht": "以傳統體相熱力學與成核概念說明蒸氣如何形成穩定液滴或冰晶的理論，常用以估算臨界胚體大小、成核能障與凝結發生條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/classical_condensation_theory"
   },
   {
     "english": "clathrate hydrate",
     "traditional_chinese": "籠形水合物",
-    "definition_cht": "指「籠形水合物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由水分子以氫鍵形成籠狀晶格，將甲烷等小分子包裹其中的固態包合物；常見於海底沉積物與永凍土，在氣候與能源研究中具重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/clathrate_hydrate"
   },
   {
     "english": "Clausius-Clapeyron equation",
-    "traditional_chinese": "克勞修斯-克拉佩龍方程",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "traditional_chinese": "克勞修斯－克拉佩龍方程",
+    "definition_cht": "描述兩相平衡時飽和蒸氣壓隨溫度變化關係的熱力學方程，是推導飽和水氣壓、潛熱效應與相變化溫壓關係的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Clausius-Clapeyron_equation"
   },
   {
     "english": "clay atmometer",
-    "traditional_chinese": "黏土氣壓計",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "陶土蒸發計",
+    "definition_cht": "以多孔陶土杯（或球）連接儲水器的蒸發觀測儀器；水分經陶土表面蒸發後造成水位下降，可用以估計大氣蒸發能力或近似植被蒸散需求。",
     "source_url": "https://glossary.ametsoc.org/wiki/clay_atmometer"
   },
   {
     "english": "Clayden effect",
     "traditional_chinese": "克萊登效應",
-    "definition_cht": "指「克萊登效應」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "攝影感光乳劑先受到極短暫且高強度的初次曝光後，對其後較長且較弱的曝光反而感度降低的現象；在閃電攝影與早期雷暴觀測影像判讀中曾具應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Clayden_effect"
   },
   {
     "english": "clean air",
-    "traditional_chinese": "乾淨的空氣",
-    "definition_cht": "指「乾淨的空氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "潔淨空氣",
+    "definition_cht": "污染物、懸浮微粒與有害氣體濃度相對較低的空氣狀態；在大氣環境中常用來指未受明顯污染、較接近背景組成的空氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/clean_air"
   },
   {
     "english": "clear",
-    "traditional_chinese": "清除",
-    "definition_cht": "指「清除」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "晴",
+    "definition_cht": "天空狀況術語，通常指無雲或雲量極少，未達可列為少雲的程度；在地面觀測與航空天氣報告中常作為天空清朗的簡寫或代碼。",
     "source_url": "https://glossary.ametsoc.org/wiki/clear"
   },
   {
     "english": "clear air",
-    "traditional_chinese": "清澈的空氣",
-    "definition_cht": "指「清澈的空氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "淨空氣",
+    "definition_cht": "不含雲滴、降水粒子或其他明顯水成物與遮蔽物的空氣；在雷達與航空氣象中常指肉眼看似無雲、但仍可能存在折射率不均或亂流的空氣區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/clear_air"
   },
   {
     "english": "clear ice",
-    "traditional_chinese": "清澈的冰",
-    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。",
+    "traditional_chinese": "透明冰",
+    "definition_cht": "由較大的過冷水滴撞擊物體後迅速凍結形成的透明或半透明積冰，質地緻密且附著力強；常見於飛機結冰，危害通常較霜冰更大。",
     "source_url": "https://glossary.ametsoc.org/wiki/clear_ice"
   },
   {
     "english": "clear line of sight",
-    "traditional_chinese": "視線清晰",
-    "definition_cht": "指「視線清晰」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "淨視線",
+    "definition_cht": "觀測者與目標之間沒有地形、建物、植被、降水或其他障礙物遮蔽的視線傳播條件；在遙測、通訊與目視觀測中常要求具備此條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/clear_line_of_sight"
   },
   {
     "english": "clear sky",
-    "traditional_chinese": "晴朗的天空",
-    "definition_cht": "指「晴朗的天空」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "晴空",
+    "definition_cht": "雲量為零或極少、天空幾乎無雲的狀態；在輻射、能見度與地面觀測分析中，常作為晴空輻射計算或天氣分類的前提。",
     "source_url": "https://glossary.ametsoc.org/wiki/clear_sky"
   },
   {
     "english": "clear-air echo",
-    "traditional_chinese": "晴空迴聲",
-    "definition_cht": "指「晴空迴聲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "晴空回波",
+    "definition_cht": "雷達在無明顯降水雲體時所偵測到的回波，常來自大氣折射率不連續、昆蟲、鳥群或近地邊界層中的細小目標物，而非雨滴本身。",
     "source_url": "https://glossary.ametsoc.org/wiki/clear-air_echo"
   },
   {
     "english": "clear-air turbulence",
-    "traditional_chinese": "晴空湍流",
-    "definition_cht": "指「晴空湍流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "晴空亂流",
+    "definition_cht": "發生於無雲或少雲區域中的大氣亂流，常與急流附近的強風切、重力波或山岳波有關；因缺乏可見雲徵，對航空飛行特別危險。",
     "source_url": "https://glossary.ametsoc.org/wiki/clear-air_turbulence"
   },
   {
