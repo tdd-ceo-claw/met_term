@@ -8929,123 +8929,123 @@
   },
   {
     "english": "circulation",
-    "traditional_chinese": "循環",
-    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circulation"
+    "traditional_chinese": "環流",
+    "definition_cht": "指大氣或海洋中流體沿一定尺度與型態所形成的運動與輸送系統；在氣象上常指空氣於高、低壓配置下的水平與垂直流動，以及其對熱量、動量與水氣再分配的整體型態。",
+    "source_url": "https://www.noaa.gov/jetstream/global/global-atmospheric-circulations"
   },
   {
     "english": "circulation index",
-    "traditional_chinese": "流通指數",
-    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circulation_index"
+    "traditional_chinese": "環流指數",
+    "definition_cht": "用以量化大尺度大氣環流某一特徵強弱的指標，常表示緯向環流或經向環流的強度，並可依氣壓、位勢高度或風場資料計算。",
+    "source_url": "https://glossary.ametsoc.org/wiki/circulation-index/"
   },
   {
     "english": "circulation integral",
-    "traditional_chinese": "循環積分",
-    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circulation_integral"
+    "traditional_chinese": "環流積分",
+    "definition_cht": "沿封閉曲線對向量場切向分量所作的線積分；在動力氣象中常指速度場沿閉合路徑的線積分，用以描述流體繞該路徑的總旋轉效應。",
+    "source_url": "https://glossary.ametsoc.org/wiki/circulation-integral/"
   },
   {
     "english": "circulation pattern",
-    "traditional_chinese": "循環模式",
-    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circulation_pattern"
+    "traditional_chinese": "環流型態",
+    "definition_cht": "指某一時段或區域內大氣環流配置的空間分布特徵，例如高低壓系統、槽脊、風帶與氣流路徑的整體排列。",
+    "source_url": "https://www.noaa.gov/jetstream/global/global-atmospheric-circulations"
   },
   {
     "english": "circulation theorem",
-    "traditional_chinese": "循環定理",
-    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circulation_theorem"
+    "traditional_chinese": "環流定理",
+    "definition_cht": "描述流體閉合物質曲線上環流變化的動力學定理；氣象上常指 Kelvin 或 Bjerknes 的環流定理，用以說明環流與壓力、密度及外力作用之關係。",
+    "source_url": "https://glossary.ametsoc.org/wiki/circulation-theorem/"
   },
   {
     "english": "circulation type",
-    "traditional_chinese": "循環型",
-    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circulation_type"
+    "traditional_chinese": "環流類型",
+    "definition_cht": "依大尺度氣壓場、盛行風向、槽脊配置或氣團輸送特徵，對大氣環流型態所作的分類；常用於天氣分型與氣候統計分析。",
+    "source_url": "https://www.britannica.com/science/atmospheric-circulation"
   },
   {
     "english": "circumhorizontal arc",
-    "traditional_chinese": "環水平弧",
-    "definition_cht": "指「環水平弧」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circumhorizontal_arc"
+    "traditional_chinese": "環地平弧",
+    "definition_cht": "由高空板狀冰晶折射日光或月光形成的彩色暈象，外觀近似與地平線平行的彩帶，通常出現在太陽或月亮下方，常見於卷雲或卷層雲存在時。",
+    "source_url": "https://glossary.ametsoc.org/wiki/circumhorizontal-arc/"
   },
   {
     "english": "circumpolar whirl",
-    "traditional_chinese": "繞極渦旋",
-    "definition_cht": "指「繞極渦旋」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circumpolar_whirl"
+    "traditional_chinese": "環極渦旋",
+    "definition_cht": "圍繞極區的強大旋轉性環流系統，通常即指極渦，主導高緯度對流層至平流層的西風環流與冷空氣分布。",
+    "source_url": "https://glossary.ametsoc.org/wiki/circumpolar-whirl/"
   },
   {
     "english": "circumscribed halo",
-    "traditional_chinese": "限制光環",
-    "definition_cht": "指「限制光環」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circumscribed_halo"
+    "traditional_chinese": "外切暈",
+    "definition_cht": "環繞 22 度暈外側的橢圓形或變形暈象，由定向六角柱狀冰晶折射光線形成；太陽高度改變時，其外形會由上下切弧逐漸合併為包圍 22 度暈的外切暈。",
+    "source_url": "https://glossary.ametsoc.org/wiki/circumscribed-halo/"
   },
   {
     "english": "circumzenithal arc",
     "traditional_chinese": "環天頂弧",
-    "definition_cht": "指「環天頂弧」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/circumzenithal_arc"
+    "definition_cht": "以天頂為圓心附近出現的鮮豔彩色弧，由高空冰晶折射日光形成，通常位於太陽上方約 46 至 48 度處，常見於卷雲或卷層雲。",
+    "source_url": "https://glossary.ametsoc.org/wiki/circumzenithal-arc/"
   },
   {
     "english": "cirque glacier",
     "traditional_chinese": "冰斗冰川",
-    "definition_cht": "指「冰斗冰川」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cirque_glacier"
+    "definition_cht": "侷限於山地冰斗內的小型冰川，位於高山凹地或半碗狀地形中，由積雪多年堆積、壓實與流動形成。",
+    "source_url": "https://glossary.ametsoc.org/wiki/cirque-glacier/"
   },
   {
     "english": "cirriform",
-    "traditional_chinese": "卷狀",
-    "definition_cht": "指「卷狀」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cirriform"
+    "traditional_chinese": "卷雲狀",
+    "definition_cht": "指具有纖維狀、絲羽狀或冰晶羽毛狀外觀的雲形特徵；此類雲通常由冰晶組成，包括卷雲、卷層雲與卷積雲等高雲。",
+    "source_url": "https://www.noaa.gov/jetstream/clouds/four-core-types-of-clouds"
   },
   {
     "english": "cirrocumulus",
     "traditional_chinese": "卷積雲",
-    "definition_cht": "指「卷積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cirrocumulus"
+    "definition_cht": "高雲族的一種，由細小白色雲塊、波紋或顆粒狀雲片組成，通常幾乎不具灰暗陰影，多由冰晶或過冷水滴構成。",
+    "source_url": "https://cloudatlas.wmo.int/en/cirrocumulus-cc.html"
   },
   {
     "english": "cirrostratus",
     "traditional_chinese": "卷層雲",
-    "definition_cht": "指「卷層雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cirrostratus"
+    "definition_cht": "高雲族的一種，呈薄而均勻的面紗狀雲幕，主要由冰晶組成，常使日月輪廓仍可透見，並易產生日暈或月暈等光象。",
+    "source_url": "https://cloudatlas.wmo.int/en/cirrostratus-cs.html"
   },
   {
     "english": "cirrus",
     "traditional_chinese": "卷雲",
-    "definition_cht": "高雲族的一類纖維狀或絲羽狀白色雲，主要由冰晶組成，常呈透明或半透明外觀。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cirrus"
+    "definition_cht": "高雲族的一種，外觀多呈絲狀、羽毛狀或纖維狀，主要由冰晶組成，常為高空氣流、鋒面前緣或對流外流所形成。",
+    "source_url": "https://cloudatlas.wmo.int/en/cirrus-ci.html"
   },
   {
     "english": "cirrus intortus",
-    "traditional_chinese": "纏曲卷雲",
-    "definition_cht": "卷雲的一種雲種，其絲狀雲體彎曲紊亂、呈鋸齒狀或互相纏結的外觀。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cirrus_intortus"
+    "traditional_chinese": "纏捲卷雲",
+    "definition_cht": "卷雲的一種變種，雲絲明顯彎曲、扭轉且排列紊亂，常反映高空風切或湍流作用，使雲體呈糾結纏繞的外觀。",
+    "source_url": "https://cloudatlas.wmo.int/en/varieties-of-clouds.html"
   },
   {
     "english": "cirrus spissatus",
     "traditional_chinese": "密卷雲",
-    "definition_cht": "指「密卷雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cirrus_spissatus"
+    "definition_cht": "卷雲的一種較厚密形態，雲體通常較不透明，局部可呈灰白色，常與深厚對流雲頂外流或廣泛高空濕層有關。",
+    "source_url": "https://cloudatlas.wmo.int/en/cirrus-ci.html"
   },
   {
     "english": "cirrus uncinus",
     "traditional_chinese": "鉤卷雲",
-    "definition_cht": "指「鉤卷雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cirrus_uncinus"
+    "definition_cht": "卷雲的一種，雲絲末端彎曲如鉤或逗號，常由高空下沉蒸發與風切作用形成，常被視為高空濕潤及天氣系統接近的指標。",
+    "source_url": "https://cloudatlas.wmo.int/en/cirrus-ci.html"
   },
   {
     "english": "CISK",
-    "traditional_chinese": "CISK",
-    "definition_cht": "CISK 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/CISK"
+    "traditional_chinese": "第二類對流不穩定",
+    "definition_cht": "Convective Instability of the Second Kind 的縮寫，指大尺度低層輻合與積雲對流之間相互增強的機制，可促進熱帶擾動、季風低壓或熱帶氣旋發展。",
+    "source_url": "https://en.wikipedia.org/wiki/Convective_instability_of_the_second_kind"
   },
   {
     "english": "cistern",
-    "traditional_chinese": "蓄水池",
-    "definition_cht": "指「蓄水池」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
-    "source_url": "https://glossary.ametsoc.org/wiki/cistern"
+    "traditional_chinese": "蓄水槽",
+    "definition_cht": "用於收集與儲存雨水、地表水或供水的容器或地下貯水設施；在水文與給排水語境中，常指供短期蓄水與調節用的槽體或儲池。",
+    "source_url": "https://en.wikipedia.org/wiki/Cistern"
   },
   {
     "english": "cistern barometer",
