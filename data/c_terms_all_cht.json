@@ -2935,122 +2935,122 @@
   },
   {
     "english": "coefficient of viscosity",
-    "traditional_chinese": "黏度係數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "黏滯係數",
+    "definition_cht": "表徵流體內部分子動量交換與抗剪切變形能力的係數，即流體黏滯性的量度；數值愈大，流體對相對流動的阻力愈強。",
     "source_url": "https://glossary.ametsoc.org/wiki/coefficient_of_viscosity"
   },
   {
     "english": "coffin corner",
     "traditional_chinese": "棺材角",
-    "definition_cht": "指「棺材角」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "航空氣象與飛行性能用語，指高空飛行時失速臨界速度與高速抖振或臨界馬赫數相當接近的危險速度範圍，容許操作餘度極小。",
     "source_url": "https://glossary.ametsoc.org/wiki/coffin_corner"
   },
   {
     "english": "cognitive task analysis",
     "traditional_chinese": "認知任務分析",
-    "definition_cht": "指「認知任務分析」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "用於解析複雜作業中判斷、注意、決策與知識運用過程的方法，可應用於預報作業、警報決策與人機介面設計。",
     "source_url": "https://glossary.ametsoc.org/wiki/cognitive_task_analysis"
   },
   {
     "english": "coherence",
-    "traditional_chinese": "連貫性",
-    "definition_cht": "指「連貫性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "相干性",
+    "definition_cht": "指波動、訊號或回波在一定時間、空間或頻率範圍內維持穩定相位關係的性質；相干性愈高，代表其相位關聯愈穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherence"
   },
   {
     "english": "coherence element",
-    "traditional_chinese": "連貫性元素",
-    "definition_cht": "指「連貫性元素」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "相干元素",
+    "definition_cht": "在波動或隨機場分析中，可視為仍保持近似固定相位關係的最小時間、空間或面積單元，常用以描述有限相干區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherence_element"
   },
   {
     "english": "coherence time",
     "traditional_chinese": "相干時間",
-    "definition_cht": "指「相干時間」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "波或訊號在傳播過程中仍可視為維持可預測相位關係的時間尺度；超過此時間後，其相位相關性通常顯著降低。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherence_time"
   },
   {
     "english": "coherent detection",
-    "traditional_chinese": "相干檢測",
-    "definition_cht": "指「相干檢測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "相干檢波",
+    "definition_cht": "以與接收訊號相位同步的本地參考振盪器進行解調或偵測的方法，可保留幅度與相位資訊，常用於都卜勒雷達與通訊系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherent_detection"
   },
   {
     "english": "coherent echo",
     "traditional_chinese": "相干回波",
-    "definition_cht": "指「相干回波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在連續脈衝或連續波觀測中，相鄰回波之間保持穩定相位關係的回波訊號；此特性可用於估算速度、頻移或目標動態。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherent_echo"
   },
   {
     "english": "coherent integration",
     "traditional_chinese": "相干積分",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "在保持相位資訊的條件下，將多次量測或多個脈衝的訊號以複數形式累加的處理方式，可提升訊噪比與微弱目標的可偵測性。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherent_integration"
   },
   {
     "english": "coherent radar",
     "traditional_chinese": "相干雷達",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "definition_cht": "發射與接收系統具固定相位參考的雷達，可量測回波相位變化與都卜勒頻移，因而適合速度偵測與動態目標分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherent_radar"
   },
   {
     "english": "coherent scattering",
     "traditional_chinese": "相干散射",
-    "definition_cht": "指「相干散射」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由多個散射體產生且彼此保有固定相位關係的散射現象，其合成回波受相位疊加影響，與非相干散射不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherent_scattering"
   },
   {
     "english": "coherent structures",
-    "traditional_chinese": "連貫結構",
-    "definition_cht": "指「連貫結構」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "相干結構",
+    "definition_cht": "在湍流或流場中可辨識、並在一段時間或空間尺度內維持組織性的渦旋、帶狀或羽流結構，對動量、熱量與物質輸送常具重要作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherent_structures"
   },
   {
     "english": "coherent target",
     "traditional_chinese": "相干目標",
-    "definition_cht": "指「相干目標」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "其回波在連續觀測間能維持穩定相位關係的目標；在相干雷達中有利於速度估計、目標辨識與訊號積分。",
     "source_url": "https://glossary.ametsoc.org/wiki/coherent_target"
   },
   {
     "english": "COHMAP",
-    "traditional_chinese": "COHMAP",
-    "definition_cht": "COHMAP 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "全新世制圖合作計畫",
+    "definition_cht": "Cooperative Holocene Mapping Project 的縮寫，為整合古氣候與古環境資料、重建全新世環境與氣候變遷格局的國際合作研究計畫。",
     "source_url": "https://glossary.ametsoc.org/wiki/COHMAP"
   },
   {
     "english": "coho",
-    "traditional_chinese": "科霍",
-    "definition_cht": "指「科霍」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "銀鮭",
+    "definition_cht": "北太平洋鮭科魚類，即 coho salmon（Oncorhynchus kisutch）；在海洋與漁業相關文獻中常用以討論沿岸生態、洄游與海洋環境條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/coho"
   },
   {
     "english": "col",
-    "traditional_chinese": "坳",
-    "definition_cht": "指「坳」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "鞍形場",
+    "definition_cht": "天氣圖上位於兩個高壓與兩個低壓之間的鞍形氣壓區，水平氣壓梯度微弱、風速較小，常為天氣系統轉換或滯留區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/col"
   },
   {
     "english": "cold cap",
-    "traditional_chinese": "涼帽",
-    "definition_cht": "指「涼帽」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "冷蓋",
+    "definition_cht": "覆蓋於較暖空氣之上的冷空氣層，或近地面冷空氣形成的抑制性穩定層；可限制垂直對流發展並影響雲與降水生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/cold_cap"
   },
   {
     "english": "cold conveyor belt",
     "traditional_chinese": "冷輸送帶",
-    "definition_cht": "指「冷輸送帶」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "溫帶氣旋中位於暖鋒北側的低層氣流帶，通常向西或西南流入氣旋並在雲雨區下方或周圍迴轉，對降水分布與鋒面結構具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/cold_conveyor_belt"
   },
   {
     "english": "cold dome",
-    "traditional_chinese": "冷穹頂",
-    "definition_cht": "指「冷穹頂」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "冷穹",
+    "definition_cht": "近地面冷密空氣堆積而成的穹頂狀冷空氣體，常因地形阻擋或下沉滯留而形成，會增強低層穩定度並影響鋒面與降水型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/cold_dome"
   },
   {
     "english": "cold front",
     "traditional_chinese": "冷鋒",
-    "definition_cht": "指「冷鋒」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "冷空氣團向前推進並取代暖空氣團的鋒面；其前緣常伴隨氣溫下降、風向轉變、氣壓上升，以及陣雨、雷雨或對流增強等天氣變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/cold_front"
   },
   {
