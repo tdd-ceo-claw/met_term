@@ -10735,122 +10735,122 @@
   },
   {
     "english": "competence of the wind",
-    "traditional_chinese": "風的能力",
-    "definition_cht": "指大氣中具有特定成因、區域特徵或強度表現的風場或天氣系統，用於說明其形成機制、風向風速及環境影響。",
+    "traditional_chinese": "風的搬運能力",
+    "definition_cht": "在風成地形與輸沙研究中，指風流能夠搬運的最大顆粒尺寸或重量級距，用以表徵風對鬆散顆粒的搬運能力；風速愈強，其 competence 通常愈大。",
     "source_url": "https://glossary.ametsoc.org/wiki/competence_of_the_wind"
   },
   {
     "english": "complete freeze-up",
-    "traditional_chinese": "完全凍結",
-    "definition_cht": "指「完全凍結」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "完全封凍",
+    "definition_cht": "指河川、湖泊、港灣或海面已全面結冰，開放水面基本消失的狀態或時刻；常用於河冰、湖冰與航運冰況紀錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/complete_freeze-up"
   },
   {
     "english": "complex index of refraction",
-    "traditional_chinese": "複折射率",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "複數折射率",
+    "definition_cht": "在電磁波、光學與遙測中，指同時包含實部與虛部的折射率；實部主要決定波的相速度與折射行為，虛部則表徵介質對波的吸收與衰減。",
     "source_url": "https://glossary.ametsoc.org/wiki/complex_index_of_refraction"
   },
   {
     "english": "complex low",
-    "traditional_chinese": "複雜低",
-    "definition_cht": "指「複雜低」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "複合低壓",
+    "definition_cht": "指結構較複雜、常含兩個以上低壓中心或多重環流特徵的低壓系統；其等壓線配置、鋒面結構與天氣分布通常較單一低壓更不規則。",
     "source_url": "https://glossary.ametsoc.org/wiki/complex_low"
   },
   {
     "english": "complex refractive index",
-    "traditional_chinese": "複折射率",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "複數折射率",
+    "definition_cht": "即以複數表示的折射率，用於描述電磁波在介質中的傳播與吸收特性；其中實部控制折射與相位速度，虛部反映吸收、消光或振幅衰減。",
     "source_url": "https://glossary.ametsoc.org/wiki/complex_refractive_index"
   },
   {
     "english": "complex signal",
-    "traditional_chinese": "複雜訊號",
-    "definition_cht": "指「複雜訊號」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "複數訊號",
+    "definition_cht": "在訊號處理、雷達與通訊中，指由實部與虛部組成的訊號表示法，常以同相分量（I）與正交分量（Q）表達，便於描述振幅、相位與頻譜特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/complex_signal"
   },
   {
     "english": "complex terrain",
-    "traditional_chinese": "地形複雜",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "traditional_chinese": "複雜地形",
+    "definition_cht": "指地勢起伏顯著、坡向多變，且包含山脈、谷地、丘陵、峽谷或海陸交界等特徵的地形區；此類地形會明顯影響局地風場、湍流、降水與擴散。",
     "source_url": "https://glossary.ametsoc.org/wiki/complex_terrain"
   },
   {
     "english": "composite forecast chart",
-    "traditional_chinese": "綜合預測圖",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "綜合預報圖",
+    "definition_cht": "將預測之氣壓系統、鋒面、風場、降水區或其他天氣要素綜合繪於同一圖面上的預報圖，用以整體呈現某一時刻或時段的預期天氣形勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/composite_forecast_chart"
   },
   {
     "english": "composite reflectivity",
-    "traditional_chinese": "複合反射率",
-    "definition_cht": "指「複合反射率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "綜合反射率",
+    "definition_cht": "天氣雷達產品之一，係將各仰角掃描中的最大反射率回波投影至平面後組成，能顯示整個大氣柱內最強回波分布，常用於判識對流強度與降水系統範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/composite_reflectivity"
   },
   {
     "english": "composite vertical cross section",
-    "traditional_chinese": "複合材料垂直截面",
-    "definition_cht": "指「複合材料垂直截面」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "綜合垂直剖面",
+    "definition_cht": "由多個雷達仰角掃描或多層觀測資料沿指定路徑組合而成的垂直剖面圖，用以呈現回波或其他氣象要素在垂直方向上的結構分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/composite_vertical_cross_section"
   },
   {
     "english": "composite water sample",
-    "traditional_chinese": "複合水樣",
-    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。",
+    "traditional_chinese": "綜合水樣",
+    "definition_cht": "將不同時間、不同深度或不同採樣點取得的多份水樣依一定比例混合後形成的代表性樣本，用以估計一段期間或一片水體的平均水質特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/composite_water_sample"
   },
   {
     "english": "compound hydrograph",
-    "traditional_chinese": "複合過程線",
-    "definition_cht": "指「複合過程線」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "複合水文歷線",
+    "definition_cht": "由兩個以上逕流歷線、子流域歷線或不同降雨事件之歷線合成的水文歷線，用於表示匯流後的總流量變化或分析複合洪水過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/compound_hydrograph"
   },
   {
     "english": "compressibility",
-    "traditional_chinese": "壓縮性",
-    "definition_cht": "指「壓縮性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "可壓縮性",
+    "definition_cht": "物質在受壓時體積縮小的性質，常以單位壓力變化所造成的相對體積變化表示；在大氣與海洋中，此性質影響密度變化、聲波傳播與流體運動分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/compressibility"
   },
   {
     "english": "compression wave",
     "traditional_chinese": "壓縮波",
-    "definition_cht": "指「壓縮波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "介質中以壓力增大與密度升高區域向前傳播的波動，粒子振動方向與波傳方向大致平行；聲波與部分震波皆屬此類。",
     "source_url": "https://glossary.ametsoc.org/wiki/compression_wave"
   },
   {
     "english": "compressional wave",
     "traditional_chinese": "壓縮波",
-    "definition_cht": "指「壓縮波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "即 compression wave，又常稱縱波；指介質粒子沿波傳方向前後振動，使介質交替出現壓縮與稀疏的波動。",
     "source_url": "https://glossary.ametsoc.org/wiki/compressional_wave"
   },
   {
     "english": "Compton effect",
     "traditional_chinese": "康普頓效應",
-    "definition_cht": "指「康普頓效應」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "高能電磁波（如 X 射線或 γ 射線）與電子散射後波長變長、能量降低的現象；在輻射物理、遙測與大氣輻射傳輸相關分析中具有重要意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/Compton_effect"
   },
   {
     "english": "computational mode",
     "traditional_chinese": "計算模式",
-    "definition_cht": "指「計算模式」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指數值計算、資料處理或模式運作時所採用的特定運算方式、流程設定或作業狀態；在氣象資訊與數值模式中，可區分不同演算法或執行配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/computational_mode"
   },
   {
     "english": "concentration",
-    "traditional_chinese": "專注",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "濃度",
+    "definition_cht": "指某一物質在混合物、空氣、水體或溶液中所占的含量，通常以單位體積、單位質量或比例表示；在大氣污染、雲微物理與海洋化學中皆為基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/concentration"
   },
   {
     "english": "concentration basin",
-    "traditional_chinese": "濃縮池",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "traditional_chinese": "集流盆地",
+    "definition_cht": "指使地表逕流、泥沙或其他流體匯集並集中輸送至單一出口或較狹窄通道的盆地或地形低地；常用於描述匯流集中的水文地形單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/concentration_basin"
   },
   {
     "english": "concentration gradient",
     "traditional_chinese": "濃度梯度",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "指物質濃度在空間上的變化率與方向，即單位距離內的濃度差；其大小與方向常決定擴散、輸送與通量的趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/concentration_gradient"
   },
   {
