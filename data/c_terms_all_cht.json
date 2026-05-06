@@ -2215,122 +2215,122 @@
   },
   {
     "english": "climatological summary",
-    "traditional_chinese": "氣候總結",
-    "definition_cht": "指「氣候總結」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候統計摘要",
+    "definition_cht": "依特定測站、區域或時段之觀測資料，彙整氣溫、降水、風、極值與長期平均等氣候統計結果的摘要報表或說明。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_summary"
   },
   {
     "english": "climatological year",
     "traditional_chinese": "氣候年",
-    "definition_cht": "指「氣候年」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "用於氣候統計、比較與整理的一個完整十二個月期間；實際起訖可依研究或業務目的採曆年或其他標準年別。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatological_year"
   },
   {
     "english": "Climatology",
     "traditional_chinese": "氣候學",
-    "definition_cht": "指「氣候學」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "研究氣候之形成、分布、平均狀態、變率、成因與變遷的科學，通常著重於至少數十年尺度的大氣與地球系統特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Climatology"
   },
   {
     "english": "climatonomy",
-    "traditional_chinese": "氣候規律學",
-    "definition_cht": "探討氣候型態、區域分異與支配規律之學門，用以歸納不同地區氣候的系統性特徵與關聯。",
+    "traditional_chinese": "氣候區劃學",
+    "definition_cht": "以氣候型態、區域差異與支配規律為核心，探討氣候分類、分區及其空間配置關係的學門。",
     "source_url": "https://glossary.ametsoc.org/wiki/climatonomy"
   },
   {
     "english": "clinometer",
-    "traditional_chinese": "測角儀",
-    "definition_cht": "指觀測、量測或顯示大氣與海洋資訊的儀器、感測器或遙測設備，用於取得環境參數或分析天氣系統。",
+    "traditional_chinese": "傾角儀",
+    "definition_cht": "用於測量坡度、仰角、俯角或物體傾斜程度的儀器，可應用於地形測量、工程與部分大氣或天文觀測定位。",
     "source_url": "https://glossary.ametsoc.org/wiki/clinometer"
   },
   {
     "english": "clo",
-    "traditional_chinese": "克洛",
-    "definition_cht": "指「克洛」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "克羅（服裝熱阻單位）",
+    "definition_cht": "表示服裝隔熱能力的單位；1 clo 約為一般室內靜坐者在舒適環境下所需之衣著保暖量，常用於人體熱舒適與生物氣象評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/clo"
   },
   {
     "english": "CLOS",
     "traditional_chinese": "CLOS",
-    "definition_cht": "CLOS 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "definition_cht": "此詞在現有可得資料中未見一致且通行的氣象專業全稱；於本辭典中暫保留原縮寫，實際意義仍須依原始文獻、資料集或作業語境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/CLOS"
   },
   {
     "english": "close pack ice",
-    "traditional_chinese": "密冰",
-    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。",
+    "traditional_chinese": "密集浮冰",
+    "definition_cht": "海冰覆蓋度很高的浮冰區，冰占海面約十分之七至十分之八，僅剩少量水面或狹窄水道可見。",
     "source_url": "https://glossary.ametsoc.org/wiki/close_pack_ice"
   },
   {
     "english": "closed basin",
-    "traditional_chinese": "封閉盆地",
-    "definition_cht": "指「封閉盆地」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "內流盆地",
+    "definition_cht": "地表逕流無法經由河川排入海洋的封閉集水盆地，水分多匯入內陸湖泊、窪地或鹽沼，主要藉蒸發或滲漏散失。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_basin"
   },
   {
     "english": "closed cells",
-    "traditional_chinese": "閉孔",
-    "definition_cht": "指「閉孔」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "閉合胞狀結構",
+    "definition_cht": "在邊界層對流或層積雲場中，由連續雲帶或上升區圍成多邊形胞格的結構；其中心多較晴朗或為下沉區，與開放胞狀結構相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_cells"
   },
   {
     "english": "closed circulation",
-    "traditional_chinese": "閉路循環",
-    "definition_cht": "指大氣環流或天氣動力系統中的結構或過程，常涉及氣壓配置、風場旋轉、質量輸送與天氣變化。",
+    "traditional_chinese": "閉合環流",
+    "definition_cht": "風場或流場繞某中心形成完整封閉迴旋的環流型態，常可由閉合等壓線、等高線或流線辨識。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_circulation"
   },
   {
     "english": "closed drainage",
-    "traditional_chinese": "封閉排水",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "traditional_chinese": "內流排水系統",
+    "definition_cht": "地表水僅在盆地內部匯流並終止於湖泊、鹽沼或窪地，而不向外海或外流河系排出的排水型式。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_drainage"
   },
   {
     "english": "closed high",
-    "traditional_chinese": "收高",
-    "definition_cht": "指「收高」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "閉合高壓",
+    "definition_cht": "具有明確中心，且可被一條或多條閉合等壓線或等高線完整環繞的高壓系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_high"
   },
   {
     "english": "closed lake",
-    "traditional_chinese": "封閉湖",
-    "definition_cht": "指「封閉湖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "內流湖",
+    "definition_cht": "位於內流盆地、無地表外洩通道的湖泊，其水量平衡主要受流入、蒸發與滲漏控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_lake"
   },
   {
     "english": "closed low",
-    "traditional_chinese": "低收",
-    "definition_cht": "指「低收」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "閉合低壓",
+    "definition_cht": "具有明顯氣旋式環流中心，且可被一條或多條閉合等壓線或等高線完整包圍的低壓區；高空閉合低壓常與西風主流部分分離，移動較慢。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_low"
   },
   {
     "english": "closed system",
     "traditional_chinese": "封閉系統",
-    "definition_cht": "指「封閉系統」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "可與外界交換能量但不交換物質，或在特定研究框架下其邊界外通量可忽略的系統；常用於熱力學、水文與地球系統分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_system"
   },
   {
     "english": "closed weather",
-    "traditional_chinese": "封閉天氣",
-    "definition_cht": "指「封閉天氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "陰閉天氣",
+    "definition_cht": "指天空多被雲層遮蔽、能見度或天況較封閉的天氣狀態，常用來描述日照不足、視野不開闊或不利觀測的情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed_weather"
   },
   {
     "english": "closed-cell stratocumulus",
-    "traditional_chinese": "閉孔層積雲",
-    "definition_cht": "指「閉孔層積雲」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "閉合胞狀層積雲",
+    "definition_cht": "呈閉合胞格排列的層積雲雲場，雲體多沿胞格邊界連成網狀，中央較薄或較少雲，常見於海洋邊界層。",
     "source_url": "https://glossary.ametsoc.org/wiki/closed-cell_stratocumulus"
   },
   {
     "english": "closure assumptions",
-    "traditional_chinese": "封閉假設",
-    "definition_cht": "指「封閉假設」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "閉包假設",
+    "definition_cht": "為使含有高階未知量的控制方程組得以求解，而對湍流通量、相關項或次網格尺度效應所採用的參數化或經驗假設。",
     "source_url": "https://glossary.ametsoc.org/wiki/closure_assumptions"
   },
   {
     "english": "closure problem",
     "traditional_chinese": "閉包問題",
-    "definition_cht": "指「閉包問題」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在描述湍流、對流或統計矩方程時，高階未知量不斷引入更多未知數而導致方程組無法自行封閉的問題，需藉閉包假設或參數化處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/closure_problem"
   },
   {
