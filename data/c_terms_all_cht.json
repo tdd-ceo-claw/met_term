@@ -1855,122 +1855,122 @@
   },
   {
     "english": "clearance",
-    "traditional_chinese": "清除",
-    "definition_cht": "指「清除」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "放行許可",
+    "definition_cht": "在航空作業中，指航管單位為維持航空器間隔與飛航秩序，核發航空器依指定航路、高度、程序或條件飛航的正式許可。",
     "source_url": "https://glossary.ametsoc.org/wiki/clearance"
   },
   {
     "english": "clearing",
-    "traditional_chinese": "清算",
-    "definition_cht": "指「清算」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "轉晴；消散",
+    "definition_cht": "指雲層、霧、降水或其他遮蔽現象逐漸減弱並消散，使能見度改善、天空轉趨晴朗的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/clearing"
   },
   {
     "english": "climagram",
     "traditional_chinese": "氣候圖",
-    "definition_cht": "指「氣候圖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "以圖形方式綜合呈現某地長期月平均氣溫與月降水量等氣候資料的圖表，用於快速描述該地的季節性氣候特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/climagram"
   },
   {
     "english": "CLIMAP",
-    "traditional_chinese": "CLIMAP",
-    "definition_cht": "CLIMAP 為專業縮寫，常用於指涉氣象、海洋、水文、遙測或相關地球科學中的觀測系統、分析產品、物理量、模式或作業機制；實際意義仍須依具體文獻與業務語境判定。",
+    "traditional_chinese": "CLIMAP 計畫",
+    "definition_cht": "Climate: Long-range Investigation, Mapping, and Prediction 的縮寫，為 1970 至 1980 年代的重要古氣候研究計畫，主要利用海洋沉積等資料重建末次盛冰期等時期的全球氣候分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/CLIMAP"
   },
   {
     "english": "climat",
-    "traditional_chinese": "氣候",
-    "definition_cht": "指「氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候狀態",
+    "definition_cht": "指某地區在長時間尺度上的大氣平均狀態及其變率，通常依氣溫、降水、風、濕度等氣象要素的長期統計特徵加以描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/climat"
   },
   {
     "english": "CLIMAT broadcast",
-    "traditional_chinese": "氣候廣播",
-    "definition_cht": "指「氣候廣播」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "CLIMAT 廣播",
+    "definition_cht": "世界氣象組織標準電碼中的月氣候報文傳送作業，用於廣播地面站長期統計整理後的月平均氣候資料，供國際氣候監測與交換使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/CLIMAT_broadcast"
   },
   {
     "english": "climate",
     "traditional_chinese": "氣候",
-    "definition_cht": "指「氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "某地區在長時間尺度上的天氣平均狀態及其變率，通常以至少數十年的氣溫、降水、風、濕度等統計特徵來描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate"
   },
   {
     "english": "climate analogs",
-    "traditional_chinese": "氣候類似物",
-    "definition_cht": "指「氣候類似物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候類比",
+    "definition_cht": "指在氣候條件上彼此相近的地區、時段或情境，可用以比較現今與未來氣候環境，或作為衝擊評估與調適規劃的參照。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_analogs"
   },
   {
     "english": "climate anomaly",
-    "traditional_chinese": "氣候異常",
-    "definition_cht": "指「氣候異常」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候距平",
+    "definition_cht": "某一氣候要素相對於其長期平均值或基準期平均值的偏差量，可為正值或負值，常用於分析異常冷暖、乾濕等氣候變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_anomaly"
   },
   {
     "english": "climate change",
     "traditional_chinese": "氣候變遷",
-    "definition_cht": "氣候要素長期統計特徵（如氣溫、降水、風場或氣壓）在數十年以上尺度上出現持續且具系統性的改變。",
+    "definition_cht": "氣候系統的平均狀態或其變率在數十年至更長時間尺度上出現持續且具統計意義的改變，可由自然過程、外部強迫或人類活動所驅動。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_change"
   },
   {
     "english": "climate change detection",
     "traditional_chinese": "氣候變遷檢測",
-    "definition_cht": "指「氣候變遷檢測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "利用觀測資料與統計方法辨識氣候系統是否已出現超出自然變異範圍的顯著變化，為後續歸因分析的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_change_detection"
   },
   {
     "english": "climate control",
-    "traditional_chinese": "氣候控制",
-    "definition_cht": "指「氣候控制」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候控制因子",
+    "definition_cht": "指主導或調節地區氣候形成的各類因子，如緯度、海拔、地形、海陸分布、洋流、大氣環流及地表性質等。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_control"
   },
   {
     "english": "climate drift",
     "traditional_chinese": "氣候漂移",
-    "definition_cht": "指「氣候漂移」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在氣候模式模擬中，指模式因初始條件、邊界條件或系統平衡不足而隨時間逐漸偏離其穩定氣候狀態的系統性漂移。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_drift"
   },
   {
     "english": "climate fluctuations",
     "traditional_chinese": "氣候波動",
-    "definition_cht": "指「氣候波動」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "氣候狀態在不同時間尺度上圍繞長期平均值所呈現的起伏變化，可由內部變率或外部強迫所造成。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_fluctuations"
   },
   {
     "english": "climate impact assessments",
     "traditional_chinese": "氣候影響評估",
-    "definition_cht": "指「氣候影響評估」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "評估氣候變異與氣候變遷對自然環境、社會、經濟、基礎設施與生態系可能造成影響的系統化分析工作。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_impact_assessments"
   },
   {
     "english": "climate model",
-    "traditional_chinese": "氣候模型",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "traditional_chinese": "氣候模式",
+    "definition_cht": "以物理定律、數學方程與數值方法描述大氣、海洋、陸面與冰凍圈交互作用的模型，用於模擬氣候系統行為並推估未來變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_model"
   },
   {
     "english": "climate modification",
-    "traditional_chinese": "氣候改變",
-    "definition_cht": "指「氣候改變」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候改造",
+    "definition_cht": "指透過人為措施主動改變較大時空尺度氣候條件的構想或作為；相較於短期天氣改造，其影響範圍與持續時間更大。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_modification"
   },
   {
     "english": "climate monitoring",
     "traditional_chinese": "氣候監測",
-    "definition_cht": "指「氣候監測」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "持續蒐集、品質控管與分析氣候相關觀測資料，以掌握氣候平均狀態、變率、異常與長期趨勢的作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_monitoring"
   },
   {
     "english": "climate noise",
-    "traditional_chinese": "氣候噪音",
-    "definition_cht": "指「氣候噪音」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣候噪訊",
+    "definition_cht": "指氣候系統中由內部變率或隨機擾動造成、非特定強迫訊號所主導的背景波動，常會干擾長期趨勢或外部訊號的辨識。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_noise"
   },
   {
     "english": "climate periodicity",
     "traditional_chinese": "氣候週期性",
-    "definition_cht": "指「氣候週期性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指氣候變化在一定時間尺度上呈現近似規律重複的循環特徵，如季節、年際、年代際或更長週期的振盪。",
     "source_url": "https://glossary.ametsoc.org/wiki/climate_periodicity"
   },
   {
