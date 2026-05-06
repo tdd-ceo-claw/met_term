@@ -9769,122 +9769,122 @@
   },
   {
     "english": "cloud echo",
-    "traditional_chinese": "雲迴聲",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲回波",
+    "definition_cht": "指雷達接收到來自雲中水滴、冰晶或其他水成物的散射回波訊號；常用以辨識雲體位置、厚度、發展情形及是否伴隨降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_echo"
   },
   {
     "english": "cloud electrification",
-    "traditional_chinese": "雲端電氣化",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲電化",
+    "definition_cht": "指雲內因冰晶、霰、過冷水滴與上升下沉氣流交互作用而產生電荷分離與累積的過程，為閃電與雷暴電活動的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_electrification"
   },
   {
     "english": "cloud element",
-    "traditional_chinese": "雲端元素",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲元素",
+    "definition_cht": "指在雲層、雲帶或雲群中可個別辨識的單一小雲體或雲塊，常用於描述雲場的細部組成與排列型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_element"
   },
   {
     "english": "cloud etage",
-    "traditional_chinese": "雲端運算",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲層高度帶",
+    "definition_cht": "依雲底高度大致區分出的雲層所在高度帶，通常分為低雲、中雲與高雲三個主要層級，用於雲類分類與觀測描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_etage"
   },
   {
     "english": "cloud feedback",
-    "traditional_chinese": "雲端回饋",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲回饋",
+    "definition_cht": "在氣候系統中，雲量、雲高、厚度、相態或反照率等性質隨氣候變化而改變，進而增強或減弱原有輻射強迫與溫度變化的回饋作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_feedback"
   },
   {
     "english": "cloud flash",
-    "traditional_chinese": "雲閃",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲內閃電",
+    "definition_cht": "指放電通道主要侷限於單一雲體內部，或發生於雲與雲之間而未接地的閃電；與雲對地閃電相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_flash"
   },
   {
     "english": "cloud formation",
-    "traditional_chinese": "雲的形成",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲形成",
+    "definition_cht": "空氣因抬升膨脹冷卻、輻射冷卻、平流冷卻或混合作用而達到飽和後，水汽在凝結核或冰核上凝結、凝華形成雲滴或冰晶的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_formation"
   },
   {
     "english": "cloud genus",
     "traditional_chinese": "雲屬",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "依雲之外觀、內部結構與形成特徵所劃分的基本分類單位；世界氣象組織現行雲分類採十個主要雲屬。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_genus"
   },
   {
     "english": "cloud gun",
-    "traditional_chinese": "雲槍",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "射雲砲",
+    "definition_cht": "一種歷史上用於防雹或人工影響雲體的裝置，藉爆炸或衝擊波向空中發射，曾被認為可干擾冰雹形成，但其實際效能缺乏可靠科學證據。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_gun"
   },
   {
     "english": "cloud height",
-    "traditional_chinese": "雲端高",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲高",
+    "definition_cht": "指雲底、雲頂或指定雲層相對於地面、測站或平均海平面的高度；業務觀測中常特指雲底高度，可用測雲儀、探照燈或三角測量求得。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_height"
   },
   {
     "english": "cloud image animation",
     "traditional_chinese": "雲圖動畫",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "將連續時次的衛星雲圖依時間順序播放而成的動畫影像，用以判讀雲系生成、移動、增強、減弱與相關天氣系統演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_image_animation"
   },
   {
     "english": "cloud layer",
     "traditional_chinese": "雲層",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "指位於大致相同高度、由連續雲幕或彼此相連之雲元素構成的層狀雲體，可呈片狀、帶狀或覆蓋天空一定範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_layer"
   },
   {
     "english": "cloud level",
-    "traditional_chinese": "雲層",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲層高度級",
+    "definition_cht": "指雲所處的大致垂直高度級別，常依雲底高度區分為低雲、中雲與高雲；在特定觀測語境中亦可泛指某一雲層所在高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_level"
   },
   {
     "english": "cloud line",
     "traditional_chinese": "雲線",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "呈狹長帶狀排列的雲列或雲帶，常標示低層輻合、海陸風交界、陣風鋒、地形觸發或其他線狀上升區所在位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_line"
   },
   {
     "english": "cloud microphysics",
     "traditional_chinese": "雲微物理",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "definition_cht": "研究雲中雲滴、冰晶、霰、雪等粒子的生成、成長、碰併、凍結、融化與沉降等微尺度物理過程，以及其對降水與輻射的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_microphysics"
   },
   {
     "english": "cloud microstructure",
-    "traditional_chinese": "雲狀微觀結構",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲微細結構",
+    "definition_cht": "指雲體內部在小尺度上的組成與分布特徵，例如粒子大小譜、數濃度、相態、含水量及其空間變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_microstructure"
   },
   {
     "english": "cloud mirror",
-    "traditional_chinese": "雲鏡",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "觀雲鏡",
+    "definition_cht": "利用鏡面反射天空影像以便觀測雲量、雲形或雲移動情形的簡易觀測器具，可減少直接仰望造成的不便。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_mirror"
   },
   {
     "english": "cloud model",
-    "traditional_chinese": "雲端模型",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲模式",
+    "definition_cht": "以數值方法模擬雲體動力、熱力與微物理過程的模式，可用於研究對流發展、降水形成、雲系結構及其與環境場的交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_model"
   },
   {
     "english": "cloud modification",
-    "traditional_chinese": "雲端修改",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲改造",
+    "definition_cht": "指以人工方式改變雲體的微物理或降水特性之作業或研究，例如播雲以促進降水、抑制冰雹或改變霧滴分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_modification"
   },
   {
     "english": "cloud motion vector",
-    "traditional_chinese": "雲運動向量",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "雲移動向量",
+    "definition_cht": "由連續衛星影像追蹤雲特徵、雲塊或水氣紋理位移所反演出的風向與風速向量，常用於資料同化與海洋、熱帶地區風場分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/cloud_motion_vector"
   },
   {
