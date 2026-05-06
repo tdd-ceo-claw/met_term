@@ -10495,122 +10495,122 @@
   },
   {
     "english": "collective",
-    "traditional_chinese": "集體",
-    "definition_cht": "指「集體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "集合體",
+    "definition_cht": "指由多個個體或成分組成、並在分析上視為一個整體的集合；在氣象與相關地球科學中，可用於表示粒子群、雲體、觀測樣本或其他共同作用的群組。",
     "source_url": "https://glossary.ametsoc.org/wiki/collective"
   },
   {
     "english": "collector",
-    "traditional_chinese": "集電極",
-    "definition_cht": "指「集電極」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "收集器",
+    "definition_cht": "用於收集降水、氣膠、樣本、電荷或其他待測物的裝置、容器或感測部件；其設計會影響取樣效率與觀測代表性。",
     "source_url": "https://glossary.ametsoc.org/wiki/collector"
   },
   {
     "english": "colligative property",
     "traditional_chinese": "依數性質",
-    "definition_cht": "指「依數性質」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "溶液中只取決於溶質粒子數目或濃度，而不直接取決於溶質化學種類的性質，例如蒸氣壓下降、沸點上升、凝固點下降與滲透壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/colligative_property"
   },
   {
     "english": "collision broadening",
     "traditional_chinese": "碰撞展寬",
-    "definition_cht": "指「碰撞展寬」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "又稱壓力展寬，指原子或分子因頻繁碰撞而使能階受擾、躍遷壽命縮短，導致光譜線變寬的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/collision_broadening"
   },
   {
     "english": "collision efficiency",
     "traditional_chinese": "碰撞效率",
-    "definition_cht": "指「碰撞效率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "在粒子、雲滴或雨滴彼此接近的過程中，實際發生碰撞的比例，相對於僅由幾何截面推估的理論碰撞次數；常受粒徑、相對速度與流場影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/collision_efficiency"
   },
   {
     "english": "collision theory",
     "traditional_chinese": "碰撞理論",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "definition_cht": "描述化學反應速率與粒子碰撞頻率、碰撞能量及取向之關係的理論；在大氣化學中常用以說明氣相反應發生的基本條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/collision_theory"
   },
   {
     "english": "collision–coalescence process",
-    "traditional_chinese": "碰撞-聚結過程",
-    "definition_cht": "指「碰撞-聚結過程」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "碰撞—聚結過程",
+    "definition_cht": "暖雲降水形成的重要微物理過程，指較大的雲滴或雨滴在下落時與較小雲滴碰撞並合併，使粒徑逐步增大，最終形成可降落的雨滴。",
     "source_url": "https://glossary.ametsoc.org/wiki/collision%E2%80%93coalescence_process"
   },
   {
     "english": "colloidal instability",
     "traditional_chinese": "膠體不穩定性",
-    "definition_cht": "指「膠體不穩定性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "膠體系統失去原有分散穩定狀態的傾向或現象，常導致粒子凝聚、絮凝、沉降或相分離。",
     "source_url": "https://glossary.ametsoc.org/wiki/colloidal_instability"
   },
   {
     "english": "colloidal suspension",
-    "traditional_chinese": "膠體懸浮液",
-    "definition_cht": "指「膠體懸浮液」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "膠體懸浮體",
+    "definition_cht": "由粒徑介於真溶液與粗懸浮液之間的微細粒子分散於連續介質中所形成的膠體分散系；雲滴、霧滴與部分氣膠可視為其相關例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/colloidal_suspension"
   },
   {
     "english": "colloidal system",
     "traditional_chinese": "膠體系統",
-    "definition_cht": "指「膠體系統」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "由分散相與連續相構成、粒子尺度屬膠體範圍的系統，常具有布朗運動、表面電荷與較高界面效應等特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/colloidal_system"
   },
   {
     "english": "color look-up table",
-    "traditional_chinese": "顏色查找表",
-    "definition_cht": "指「顏色查找表」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "色彩查找表",
+    "definition_cht": "以索引值對應實際顏色的表格，用於將資料值快速映射為特定色階；在衛星影像、雷達產品與其他科學視覺化中常用於統一顯示配色。",
     "source_url": "https://glossary.ametsoc.org/wiki/color_look-up_table"
   },
   {
     "english": "color temperature",
     "traditional_chinese": "色溫",
-    "definition_cht": "指「色溫」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "以理想黑體在某溫度下所發出光色為基準，用來描述可見光源顏色特性的溫度量，通常以開爾文表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/color_temperature"
   },
   {
     "english": "Colorado low",
-    "traditional_chinese": "科羅拉多低",
-    "definition_cht": "指「科羅拉多低」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "科羅拉多低壓",
+    "definition_cht": "生成於美國科羅拉多州東南部或新墨西哥州東北部一帶的低壓系統，多見於冬季，常沿大平原向東北移動並帶來顯著雨雪天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/Colorado_low"
   },
   {
     "english": "Colorado sunken pan",
-    "traditional_chinese": "科羅拉多沉底鍋",
-    "definition_cht": "指「科羅拉多沉底鍋」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "科羅拉多埋設蒸發皿",
+    "definition_cht": "一種將蒸發皿埋設於地面、使皿口大致與地表齊平的蒸發觀測裝置，用於較貼近自然下墊面條件地量測蒸發量；屬 Colorado pan 的一種配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/Colorado_sunken_pan"
   },
   {
     "english": "colored rain",
     "traditional_chinese": "彩色雨",
-    "definition_cht": "指降水或冰相水文現象，用於說明其形成過程、粒子型態及對天氣與地表環境的影響。",
+    "definition_cht": "因混入沙塵、花粉、孢子、火山灰、工業污染物或其他懸浮微粒，而呈現紅、黃、褐、黑等異常色澤的降雨現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/colored_rain"
   },
   {
     "english": "colorimetry",
-    "traditional_chinese": "比色法",
-    "definition_cht": "指「比色法」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "色度學",
+    "definition_cht": "研究顏色測量、表徵與量化方法的科學，常以光譜分布、三刺激值與色度座標來描述人眼所感知的色彩。",
     "source_url": "https://glossary.ametsoc.org/wiki/colorimetry"
   },
   {
     "english": "column",
-    "traditional_chinese": "柱子",
-    "definition_cht": "指「柱子」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "氣柱",
+    "definition_cht": "指位於某一水平位置上方、沿垂直方向延伸的一整柱大氣或其他流體層，常用於討論柱積分量、穩定度與輻射傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/column"
   },
   {
     "english": "column abundance",
-    "traditional_chinese": "柱豐度",
-    "definition_cht": "指「柱豐度」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "柱含量",
+    "definition_cht": "某氣體、氣膠、水汽或其他成分沿垂直氣柱由地表至上界積分後的總量，常用於遙測與大氣化學觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/column_abundance"
   },
   {
     "english": "column model",
-    "traditional_chinese": "柱模型",
-    "definition_cht": "指描述自然過程的理論、數學關係、近似方法或分析模型，用於解釋與模擬氣象現象。",
+    "traditional_chinese": "單柱模式",
+    "definition_cht": "僅描述單一垂直氣柱內物理過程與時間演變的模式，不直接解析水平環流，常用於測試對流、邊界層、輻射與雲微物理參數化。",
     "source_url": "https://glossary.ametsoc.org/wiki/column_model"
   },
   {
     "english": "columnar resistance",
-    "traditional_chinese": "柱狀電阻",
-    "definition_cht": "指「柱狀電阻」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "柱電阻",
+    "definition_cht": "在大氣電學中，指單位截面的大氣柱沿垂直方向介於兩高度或地表與高空之間的總電阻，用以描述垂直導電能力與全球電路特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/columnar_resistance"
   },
   {
