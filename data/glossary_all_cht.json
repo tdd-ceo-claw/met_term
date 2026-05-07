@@ -14053,122 +14053,122 @@
   },
   {
     "english": "dew cell",
-    "traditional_chinese": "露水池",
-    "definition_cht": "指與「露水池」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "露點計（氯化鋰式）",
+    "definition_cht": "一種用於測定露點的濕度儀，通常利用氯化鋰溶液的吸濕與平衡蒸氣壓特性，在加熱與蒸發達到平衡時推定空氣露點。",
     "source_url": "https://glossary.ametsoc.org/wiki/dew_cell"
   },
   {
     "english": "dew gauge",
-    "traditional_chinese": "露水計",
-    "definition_cht": "與「露水計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "露量計",
+    "definition_cht": "用於量測單位面積上露水沉積量的儀器，可供近地層水分凝結與微氣候研究之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/dew_gauge"
   },
   {
     "english": "dewbow",
-    "traditional_chinese": "露弓",
-    "definition_cht": "指與「露弓」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "露虹",
+    "definition_cht": "由露珠而非雨滴折射、反射與色散陽光所形成的虹狀光學現象，常見於清晨覆露的草地或蛛網上。",
     "source_url": "https://glossary.ametsoc.org/wiki/dewbow"
   },
   {
     "english": "dewpoint",
     "traditional_chinese": "露點",
-    "definition_cht": "指與「露點」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "在氣壓與水氣含量不變時，空氣冷卻至恰達飽和並開始凝結時的溫度，是表示空氣含濕量的重要物理量。",
     "source_url": "https://glossary.ametsoc.org/wiki/dewpoint"
   },
   {
     "english": "dewpoint depression",
-    "traditional_chinese": "露點降低",
-    "definition_cht": "指與「露點降低」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
+    "traditional_chinese": "露點差",
+    "definition_cht": "氣溫與露點之差，用以表示空氣距離飽和的程度；數值愈小，代表空氣愈接近飽和。",
     "source_url": "https://glossary.ametsoc.org/wiki/dewpoint_depression"
   },
   {
     "english": "dewpoint formula",
     "traditional_chinese": "露點公式",
-    "definition_cht": "與「露點公式」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "definition_cht": "依氣溫、相對濕度或水氣壓計算露點的經驗或理論公式，常用於氣象觀測、空氣調節與濕度換算。",
     "source_url": "https://glossary.ametsoc.org/wiki/dewpoint_formula"
   },
   {
     "english": "dewpoint hygrometer",
     "traditional_chinese": "露點濕度計",
-    "definition_cht": "與「露點濕度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "definition_cht": "藉由冷卻拋光鏡面至初現凝結並量測其溫度，以求得露點的濕度儀；現代裝置常採用佩爾帖元件控溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/dewpoint_hygrometer"
   },
   {
     "english": "DGRF",
-    "traditional_chinese": "直腸生長因子受體",
-    "definition_cht": "「直腸生長因子受體」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "確定地磁參考場",
+    "definition_cht": "Definitive Geomagnetic Reference Field 的縮寫，指針對過去某一時段地球主磁場建立的確定性數學模式，用以區別於代表現行時段的 IGRF。",
     "source_url": "https://glossary.ametsoc.org/wiki/DGRF"
   },
   {
     "english": "diabatic process",
     "traditional_chinese": "非絕熱過程",
-    "definition_cht": "「非絕熱過程」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "系統與外界有熱量交換的熱力過程；在大氣中常包含輻射加熱冷卻、凝結潛熱釋放、蒸發冷卻與湍流熱通量等作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/diabatic_process"
   },
   {
     "english": "diagnostic equation",
     "traditional_chinese": "診斷方程",
-    "definition_cht": "與「診斷方程」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "definition_cht": "不含時間導數、用以描述某時刻空間平衡關係的方程，例如靜力方程或平衡方程；其目的在由已知場量診斷其他變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/diagnostic_equation"
   },
   {
     "english": "DIAL thermometer",
-    "traditional_chinese": "錶盤溫度計",
-    "definition_cht": "與「錶盤溫度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "指針式溫度計",
+    "definition_cht": "以圓形刻度盤顯示溫度的機械式溫度計，常利用雙金屬片受溫度變化而彎曲帶動指針，用於環境或儀器溫度讀取。",
     "source_url": "https://glossary.ametsoc.org/wiki/DIAL_thermometer"
   },
   {
     "english": "diamond dust",
-    "traditional_chinese": "鑽石粉",
-    "definition_cht": "「鑽石粉」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "冰晶降水",
+    "definition_cht": "由極細小冰晶組成、常自近地面清澈空氣中緩慢飄落的降水現象，多見於嚴寒且風弱的地區，日照下常呈閃爍如鑽石。",
     "source_url": "https://glossary.ametsoc.org/wiki/diamond_dust"
   },
   {
     "english": "diapycnal",
-    "traditional_chinese": "錐壁",
-    "definition_cht": "「錐壁」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "穿越等密面",
+    "definition_cht": "指跨越等密度面方向的性質或過程，亦即沿密度梯度方向而非沿等密度面進行的輸送、混合或運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/diapycnal"
   },
   {
     "english": "diapycnal mixing",
-    "traditional_chinese": "異重混合",
-    "definition_cht": "指與「異重混合」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "traditional_chinese": "穿密混合",
+    "definition_cht": "流體在等密度面兩側不同密度水體之間發生的混合，即跨越等密度面的混合；在海洋中對深層上湧、層結維持與物質輸送甚為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/diapycnal_mixing"
   },
   {
     "english": "dichroism",
     "traditional_chinese": "二色性",
-    "definition_cht": "「二色性」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "介質對不同偏振態或不同波長電磁波呈現不同吸收特性的現象；在線性或圓偏振分析及大氣輻射研究中均具意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/dichroism"
   },
   {
     "english": "diel",
-    "traditional_chinese": "迪爾",
-    "definition_cht": "「迪爾」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "日週期的",
+    "definition_cht": "指以一個晝夜（24 小時）為週期的變化或過程，常見於日變化、日循環以及生地化與邊界層現象描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/diel"
   },
   {
     "english": "dielectric",
-    "traditional_chinese": "電介質",
-    "definition_cht": "「電介質」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "介電質",
+    "definition_cht": "導電性極低、可在外加電場下極化的物質；在雷達氣象中，其介電性質會影響水滴、冰晶等散射體對電磁波的回波特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/dielectric"
   },
   {
     "english": "dielectric factor",
-    "traditional_chinese": "介電係數",
-    "definition_cht": "「介電係數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "介電因子",
+    "definition_cht": "雷達方程中的一項因子，取決於目標複折射率或複介電常數，用以表示散射體介電性質對回波反射能力的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/dielectric_factor"
   },
   {
     "english": "dielectric strength",
     "traditional_chinese": "介電強度",
-    "definition_cht": "「介電強度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "介電質抵抗電場造成電擊穿的能力，通常以每單位距離可承受的最大電壓表示；對空氣而言受濕度、氣壓與密度等條件影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/dielectric_strength"
   },
   {
     "english": "differential (scattering) cross section",
-    "traditional_chinese": "微分（散射）截面",
-    "definition_cht": "「微分（散射）截面」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "微分散射截面",
+    "definition_cht": "描述散射電磁能量隨方向分布的散射量，表示單位立體角內的散射強度或散射機率，是分析粒子與電磁波角向散射特性的基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_(scattering)_cross_section"
   },
   {
