@@ -15968,121 +15968,121 @@
   {
     "english": "E-region",
     "traditional_chinese": "E層",
-    "definition_cht": "電離層中約位於 90 至 150 公里高度的區域，主要由太陽紫外線與 X 射線游離所形成，電子濃度明顯，會反射或折射部分無線電波並影響電波傳播。",
+    "definition_cht": "電離層中約位於 90 至 150 公里高度的區域，又稱 Kennelly–Heaviside 層，主要由太陽紫外線與 X 射線游離形成，能反射或折射部分中頻與高頻無線電波並影響電波傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/E-region"
   },
   {
     "english": "E''-ε closure",
-    "traditional_chinese": "E雙撇-ε 封閉法",
-    "definition_cht": "湍流參數化中的封閉方法之一，利用湍流能量耗散率等變數建立方程組，以求得次網格或平均流場中的湍流通量與擴散特性。",
+    "traditional_chinese": "E雙撇–ε 封閉法",
+    "definition_cht": "湍流參數化的一種一個半階封閉法，保留平均風、平均溫度、風與溫度變異量，以及其分子耗散率 ε 的預報方程，並以此近似較高階統計量與湍流通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/E%27%27-%CE%B5_closure"
   },
   {
     "english": "EAPE",
     "traditional_chinese": "蒸發可用位能",
-    "definition_cht": "與蒸發作用相關的可用位能，描述水滴蒸發引起熱力差異後，氣塊可轉換為對流運動的潛在能量。",
+    "definition_cht": "evaporative available potential energy 的縮寫。其概念類似對流可用位能，但指含雲下沉氣塊內液態水蒸發冷卻所造成之負浮力，可轉換為下沉加速的潛在能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/EAPE"
   },
   {
     "english": "earth",
     "traditional_chinese": "地球",
-    "definition_cht": "「地球」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "太陽系第三顆行星，也是氣象、海洋、水文與氣候系統發生與演變的載體；在地球科學中常作為大氣、海洋、陸地、冰凍圈與生物圈整體系統的指稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth"
   },
   {
     "english": "earth current",
     "traditional_chinese": "地電流",
-    "definition_cht": "指與「地電流」相關的海流、潮流或電流系統，著重其流向、來源、強度及輸送作用。",
+    "definition_cht": "在導電地層或海水中流動的天然大尺度電流，常與電離層擾動、地磁變化及太陽活動有關，亦稱 telluric current。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth_current"
   },
   {
     "english": "earth hummock",
     "traditional_chinese": "土丘",
-    "definition_cht": "「土丘」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "低矮而近圓形的天然或人工小丘，又稱 earth mound 或 knoll；在地形與地表觀測描述中用於指稱微起伏的土質丘狀地形。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth_hummock"
   },
   {
     "english": "earth inductor",
-    "traditional_chinese": "地感應器",
-    "definition_cht": "「地感應器」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "地磁感應器",
+    "definition_cht": "在地球磁場中旋轉線圈以感應電流的儀器，藉由量測感應電流強度來推算地磁場的強弱或其分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth_inductor"
   },
   {
     "english": "Earth Observing System",
     "traditional_chinese": "地球觀測系統",
-    "definition_cht": "以衛星、地面與資料系統整合構成的地球觀測計畫，用於長期監測大氣、海洋、陸地與冰凍圈變化。",
+    "definition_cht": "NASA 主導的整合性地球觀測計畫，結合一系列對地觀測衛星、軌道儀器與資料系統，以長期監測大氣、海洋、陸地、冰凍圈及其交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Earth_Observing_System"
   },
   {
     "english": "Earth Radiation Budget Experiment",
     "traditional_chinese": "地球輻射收支實驗",
-    "definition_cht": "用於量測地球系統短波與長波輻射收支的觀測計畫，旨在評估地球能量平衡及其氣候效應。",
+    "definition_cht": "Earth Radiation Budget Experiment 的譯名，簡稱 ERBE。此計畫以掃描與非掃描輻射儀量測地球—大氣系統在區域、緯向與全球尺度上的短波與長波輻射收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/Earth_Radiation_Budget_Experiment"
   },
   {
     "english": "Earth Radiation Budget Satellite",
     "traditional_chinese": "地球輻射收支衛星",
-    "definition_cht": "執行地球輻射收支量測任務的衛星，用於提供入射與出射輻射通量之全球觀測資料。",
+    "definition_cht": "Earth Radiation Budget Satellite 的譯名，簡稱 ERBS，為 NASA 在 ERBE 計畫中發射的科研衛星之一，用於觀測地球入射、反射與放射輻射通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Earth_Radiation_Budget_Satellite"
   },
   {
     "english": "Earth Resources Technology Satellite",
     "traditional_chinese": "地球資源技術衛星",
-    "definition_cht": "指與「地球資源技術衛星」相關的人造衛星或其觀測任務，用於遙測地球系統之特定要素。",
+    "definition_cht": "Earth Resources Technology Satellite 的譯名，簡稱 ERTS。原指 1972 年發射的太陽同步極軌遙測衛星，後改名為 Landsat-1，主要用於陸地資源調查、製圖與對地遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Earth_Resources_Technology_Satellite"
   },
   {
     "english": "earth structure",
     "traditional_chinese": "地球結構",
-    "definition_cht": "「地球結構」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指地球各組成層與其性質的空間分布，包括地殼、地函、地核及其密度、彈性、組成與其他物理特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth_structure"
   },
   {
     "english": "earth temperature",
     "traditional_chinese": "地溫",
-    "definition_cht": "指與「地溫」相關的溫度量、代表性熱狀態或熱力診斷參數。",
+    "definition_cht": "地表或地下土壤、岩層的溫度，常用於描述地氣交換、土壤熱收支與近地層環境條件；視觀測目的可指地表溫度或特定深度之土壤溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth_temperature"
   },
   {
     "english": "earth tide",
     "traditional_chinese": "地潮",
-    "definition_cht": "「地潮」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "固體地球受月球與太陽引潮力，以及鄰近海潮載荷作用所產生的週期性形變與位移，又稱固體地潮。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth_tide"
   },
   {
     "english": "earth-current storm",
     "traditional_chinese": "地電流暴",
-    "definition_cht": "指與「地電流暴」相關的海流、潮流或電流系統，著重其流向、來源、強度及輸送作用。",
+    "definition_cht": "指地電流出現不規則且顯著增強的擾動現象，通常與電離層擾動及地磁暴相關，反映太陽活動對地球電磁環境的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth-current_storm"
   },
   {
     "english": "earth–atmosphere radiation budget",
     "traditional_chinese": "地球—大氣輻射收支",
-    "definition_cht": "描述地球—大氣系統吸收、反射與放射短波及長波輻射之整體收支，是氣候能量平衡分析的核心概念。",
+    "definition_cht": "地表輻射收支與大氣輻射收支的總合，亦可視為在特定時間平均下地球頂接收與向外放出的淨輻射通量，用以衡量地球—大氣系統的整體能量平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth%E2%80%93atmosphere_radiation_budget"
   },
   {
     "english": "earth–ionosphere waveguide",
     "traditional_chinese": "地球—電離層波導",
-    "definition_cht": "地表與電離層之間形成的天然波導，可導引極低頻與甚低頻電磁波傳播。",
+    "definition_cht": "由導電地表與導電的低層電離層共同形成的天然波導結構，可使極低頻與甚低頻電磁波在兩者之間長距離傳播，並與舒曼共振等現象密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth%E2%80%93ionosphere_waveguide"
   },
   {
     "english": "earth's shadow",
     "traditional_chinese": "地影",
-    "definition_cht": "「地影」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "地球在背日方向投射出的陰影；於晴朗曙暮光時，常可在與太陽相對的地平線上方看見上升或下降的暗帶，但其外觀與 dark segment 密切相關而不完全等同。",
     "source_url": "https://glossary.ametsoc.org/wiki/earth%27s_shadow"
   },
   {
     "english": "earthlight",
     "traditional_chinese": "地球反照光",
-    "definition_cht": "「地球反照光」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "地球表面與雲層反射之太陽光，照亮月球未受日照部分所形成的微弱光輝；在天文上常稱 earthshine。",
     "source_url": "https://glossary.ametsoc.org/wiki/earthlight"
   },
   {
     "english": "earthquake",
     "traditional_chinese": "地震",
-    "definition_cht": "「地震」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "地殼或上地函中累積的應力突然釋放所引發的地面振動現象，通常與斷層錯動、火山活動或其他地球內部作用有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/earthquake"
   },
   {
