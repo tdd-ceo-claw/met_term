@@ -12973,122 +12973,122 @@
   },
   {
     "english": "D-analysis",
-    "traditional_chinese": "D-分析",
-    "definition_cht": "「D-分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "D值分析",
+    "definition_cht": "以高空觀測之 D 值為主所作的天氣分析。D 值通常指某一等壓面實際位勢高度與標準大氣同壓面高度之差，D 值分析可用於判識氣團冷暖差異、厚度分布及槽脊結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/D-analysis"
   },
   {
     "english": "D-region",
-    "traditional_chinese": "D區",
-    "definition_cht": "指與「D區」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "D層",
+    "definition_cht": "電離層最低的一層，約位於中氣層上部至下熱層下緣，白天受太陽輻射電離而較明顯，夜間常大幅減弱。其電子密度雖不高，但對無線電波，尤其高頻與低頻傳播，具有顯著吸收作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/D-region"
   },
   {
     "english": "D-value",
     "traditional_chinese": "D值",
-    "definition_cht": "用於表示「D值」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "在高空分析中，指某一等壓面實際位勢高度與標準大氣中同一壓力面高度之差值。此量可反映氣柱平均溫度與厚度偏差，常用於 D 值分析及高空天氣圖判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/D-value"
   },
   {
     "english": "d'Alembert's paradox",
-    "traditional_chinese": "達朗貝爾悖論",
-    "definition_cht": "指「達朗貝爾悖論」所描述的理論悖論或表面矛盾，用於說明流體運動、動力平衡或物理假設在特定條件下所呈現的限制與特殊結果。",
+    "traditional_chinese": "達朗伯悖論",
+    "definition_cht": "流體力學中的理論悖論，指出在理想條件下，若流體為不可壓、無黏且作定常勢流，物體所受阻力為零。此結果與實際流場中因黏滯、邊界層與分離所產生的阻力不符，因此常用以說明理想流體假設的侷限。",
     "source_url": "https://glossary.ametsoc.org/wiki/d%27Alembert%27s_paradox"
   },
   {
     "english": "dadur",
-    "traditional_chinese": "達杜爾",
-    "definition_cht": "「達杜爾」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "達杜爾風",
+    "definition_cht": "地方性風名，指波斯灣一帶所稱的強陣風或突發性大風。多用於描述沿岸或海上短時間內增強、足以影響航行與作業安全的局地風況。",
     "source_url": "https://glossary.ametsoc.org/wiki/dadur"
   },
   {
     "english": "daily forecast",
-    "traditional_chinese": "每日預報",
-    "definition_cht": "指「每日預報」這類預報產品或預測作業，用以說明未來一定時段內之天氣、氣候或相關環境條件變化。",
+    "traditional_chinese": "每日天氣預報",
+    "definition_cht": "以一天為基本發布單位的天氣預報產品，說明預定地區在當日或未來各日的天氣現象、氣溫、風、降水及其他重要氣象條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/daily_forecast"
   },
   {
     "english": "daily maximum temperature",
-    "traditional_chinese": "每日最高溫",
-    "definition_cht": "指與「每日最高溫」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "traditional_chinese": "日最高氣溫",
+    "definition_cht": "某觀測日內所測得的最高氣溫，通常以 24 小時觀測時段中的最高值表示，是氣候統計、熱浪監測與日報表中的基本氣象要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/daily_maximum_temperature"
   },
   {
     "english": "daily mean",
-    "traditional_chinese": "每日平均值",
-    "definition_cht": "「每日平均值」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "日平均值",
+    "definition_cht": "某氣象要素在一個觀測日內的平均值。可由固定時次觀測值平均，或由連續觀測資料在 24 小時內取算術平均，實際算法依要素種類與作業規範而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/daily_mean"
   },
   {
     "english": "daily minimum temperature",
-    "traditional_chinese": "每日最低溫",
-    "definition_cht": "指與「每日最低溫」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "traditional_chinese": "日最低氣溫",
+    "definition_cht": "某觀測日內所測得的最低氣溫，通常以 24 小時觀測時段中的最低值表示，常用於霜害、寒害、日較差及氣候統計分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/daily_minimum_temperature"
   },
   {
     "english": "daily range of temperature",
-    "traditional_chinese": "每日溫度範圍",
-    "definition_cht": "指與「每日溫度範圍」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "traditional_chinese": "日氣溫較差",
+    "definition_cht": "同一觀測日內日最高氣溫與日最低氣溫之差，用以表示一天內氣溫變化幅度，常受雲量、地表性質、濕度與風況影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/daily_range_of_temperature"
   },
   {
     "english": "daily storage",
-    "traditional_chinese": "日常儲存",
-    "definition_cht": "「日常儲存」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "日蓄水量",
+    "definition_cht": "水文或水庫作業中以日為單位表示的蓄存水量，或某一日內庫容、河道調蓄量的代表值。常用於水量平衡、調度計算與逐日水文統計。",
     "source_url": "https://glossary.ametsoc.org/wiki/daily_storage"
   },
   {
     "english": "Dalton's law",
-    "traditional_chinese": "道爾頓定律",
-    "definition_cht": "與「道爾頓定律」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "traditional_chinese": "道耳吞分壓定律",
+    "definition_cht": "混合氣體中各成分氣體若彼此不發生化學反應，則總壓等於各成分分壓之總和。在氣象學中常用於說明乾空氣、水氣與總氣壓之關係，是濕空氣熱力學的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dalton%27s_law"
   },
   {
     "english": "Damming",
-    "traditional_chinese": "達明",
-    "definition_cht": "「達明」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "壅塞作用",
+    "definition_cht": "流體受地形、障礙物或密度差異阻擋而在上游側堆積的現象。在氣象上常指冷空氣或其他氣團受山脈阻擋而沿地形一側堆聚，進而改變風場、溫度與雲降水分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/Damming"
   },
   {
     "english": "damp haze",
-    "traditional_chinese": "濕霧",
-    "definition_cht": "指與「濕霧」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "濕霾",
+    "definition_cht": "相對濕度偏高時形成或加重的霾。懸浮微粒吸濕成長後，會使大氣混濁、水平能見度降低，但其成因與霧不同，並非以大量凝結成微小水滴為主。",
     "source_url": "https://glossary.ametsoc.org/wiki/damp_haze"
   },
   {
     "english": "damped wave",
     "traditional_chinese": "阻尼波",
-    "definition_cht": "指「阻尼波」這類波動或振盪現象，常用於描述大氣、海洋或其他地球流體介質中的能量傳播與週期性變化。",
+    "definition_cht": "振幅隨時間或傳播距離逐漸減小之波動。其衰減通常源於黏滯、摩擦、輻射耗散或其他能量損失機制，在大氣與海洋波動分析中常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/damped_wave"
   },
   {
     "english": "damping",
-    "traditional_chinese": "避震",
-    "definition_cht": "指與「避震」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "traditional_chinese": "阻尼",
+    "definition_cht": "使振盪、波動或擾動振幅隨時間衰減的作用或過程。其機制可包括摩擦、黏滯、湍流混合、輻射或數值平滑等，是描述系統能量耗散的重要概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/damping"
   },
   {
     "english": "dancing devil",
-    "traditional_chinese": "跳舞的惡魔",
-    "definition_cht": "「跳舞的惡魔」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "舞動塵魔",
+    "definition_cht": "dust devil 的俗稱之一，指晴朗炎熱地表上因強烈局地加熱而形成的小尺度旋風，常將塵沙、碎屑捲起呈柱狀旋轉上升。",
     "source_url": "https://glossary.ametsoc.org/wiki/dancing_devil"
   },
   {
     "english": "dangerous semicircle",
-    "traditional_chinese": "危險的半圓",
-    "definition_cht": "「危險的半圓」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "危險半圓",
+    "definition_cht": "在北半球熱帶氣旋或颶風行進方向的右半側海域；在南半球則為左半側。由於氣旋環流風速與移動速度同向疊加，該半圓的實際風浪通常較強，航行風險也較高。",
     "source_url": "https://glossary.ametsoc.org/wiki/dangerous_semicircle"
   },
   {
     "english": "Dansgaard–Oeschger events",
-    "traditional_chinese": "丹斯加德-厄施格事件",
-    "definition_cht": "指與「丹斯加德-厄施格事件」相關的時間尺度、事件型態或週期變化，常用於記述天氣、氣候或環境條件在一定時段內的表現。",
+    "traditional_chinese": "丹斯高－厄施格事件",
+    "definition_cht": "末次冰期期間反覆出現的快速氣候波動事件，其特徵為格陵蘭區域在數十年尺度內突然顯著增溫，之後再較緩慢轉回寒冷狀態。此類事件多由冰芯紀錄辨識，常用於研究北大西洋及全球氣候突變機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dansgaard%E2%80%93Oeschger_events"
   },
   {
     "english": "Darcian velocity",
-    "traditional_chinese": "達西速度",
-    "definition_cht": "指描述「達西速度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "達西流速",
+    "definition_cht": "多孔介質流動中，單位總截面積所對應的體積流率，又稱比排放量或表觀流速。其值未扣除孔隙所占比例，因此通常大於孔隙內流體的實際平均流速。",
     "source_url": "https://glossary.ametsoc.org/wiki/Darcian_velocity"
   },
   {
