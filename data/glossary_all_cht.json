@@ -13453,122 +13453,122 @@
   },
   {
     "english": "deflecting force",
-    "traditional_chinese": "偏轉力",
-    "definition_cht": "「偏轉力」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "偏向力",
+    "definition_cht": "氣象學中通常即指科氏力，為地球自轉下在旋轉座標系中引入的視在力，使運動中的空氣或海水在北半球向右、南半球向左偏轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/deflecting_force"
   },
   {
     "english": "deformation",
     "traditional_chinese": "形變",
-    "definition_cht": "「形變」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "流場中相鄰空氣微團的相對位置隨時間改變而使其形狀改變的運動型態，常表現為伸長、壓縮或剪切；在天氣分析中常用以判識鋒區與雲帶演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/deformation"
   },
   {
     "english": "deformation axis",
-    "traditional_chinese": "變形軸",
-    "definition_cht": "「變形軸」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "形變軸",
+    "definition_cht": "形變場中伸長或收縮最為顯著的方向軸線；在二維流場分析裡，常用以標示空氣微團被拉長或擠壓的主方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/deformation_axis"
   },
   {
     "english": "deformation thermometer",
-    "traditional_chinese": "變形溫度計",
-    "definition_cht": "與「變形溫度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "形變溫度計",
+    "definition_cht": "利用感測元件受熱膨脹所造成的彈性形變來指示溫度的溫度計，例如雙金屬片式溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/deformation_thermometer"
   },
   {
     "english": "deformation zone",
-    "traditional_chinese": "變形區",
-    "definition_cht": "指與「變形區」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "形變區",
+    "definition_cht": "流場中水平形變特別強的區域，空氣微團在其中易被拉長、壓縮或剪切，常與鋒生、雲帶組織及降水分布有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/deformation_zone"
   },
   {
     "english": "deformation zone cloud system",
-    "traditional_chinese": "變形區雲系統",
-    "definition_cht": "指與「變形區雲系統」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "形變區雲系",
+    "definition_cht": "沿強形變區形成並排列的雲系，常呈狹長帶狀，反映流場伸長與匯聚作用，常見於鋒區或槽前後。",
     "source_url": "https://glossary.ametsoc.org/wiki/deformation_zone_cloud_system"
   },
   {
     "english": "deformed ice",
     "traditional_chinese": "變形冰",
-    "definition_cht": "指與「變形冰」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "海冰、湖冰或河冰因風、流、潮汐或擠壓作用而產生破裂、隆起、堆積或皺褶等機械變形的冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/deformed_ice"
   },
   {
     "english": "degenerate amphidrome",
-    "traditional_chinese": "簡併雙峰",
-    "definition_cht": "「簡併雙峰」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "退化無潮點",
+    "definition_cht": "潮汐振幅趨近於零但潮波旋轉結構不完整或已退化的無潮點型態，常出現在振幅節點與潮波干涉結構較複雜的海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/degenerate_amphidrome"
   },
   {
     "english": "deglaciation",
-    "traditional_chinese": "冰消作用",
-    "definition_cht": "「冰消作用」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "退冰作用",
+    "definition_cht": "冰川、冰蓋或積冰範圍因消融與後退而縮小的過程，也可指一地區由冰覆狀態轉為無冰或少冰狀態的階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/deglaciation"
   },
   {
     "english": "degradation",
-    "traditional_chinese": "降解",
-    "definition_cht": "「降解」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "降格化",
+    "definition_cht": "在氣象或環境資料處理中，指解析度、品質、精度或可用資訊量降低的情形；在地形與土壤學中亦可指地表因侵蝕而降低。",
     "source_url": "https://glossary.ametsoc.org/wiki/degradation"
   },
   {
     "english": "degree",
-    "traditional_chinese": "程度",
-    "definition_cht": "「程度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "度",
+    "definition_cht": "角度或溫度的單位名稱；氣象上常指緯度、經度的角度單位，或攝氏、華氏等溫標中的一度。",
     "source_url": "https://glossary.ametsoc.org/wiki/degree"
   },
   {
     "english": "degree of polarization",
     "traditional_chinese": "偏振度",
-    "definition_cht": "「偏振度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "表示電磁波偏振程度的量，通常為偏振成分占總輻射的比例；數值愈大，表示波的偏振狀態愈明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/degree_of_polarization"
   },
   {
     "english": "degree of saturation",
     "traditional_chinese": "飽和度",
-    "definition_cht": "用於表示「飽和度」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "表示空氣或土壤孔隙中水分接近飽和的程度；在氣象上常指實際水汽量相對於飽和值的比例。",
     "source_url": "https://glossary.ametsoc.org/wiki/degree_of_saturation"
   },
   {
     "english": "Degree-day",
-    "traditional_chinese": "學位日",
-    "definition_cht": "指與「學位日」相關的時間尺度、事件型態或週期變化，常用於記述天氣、氣候或環境條件在一定時段內的表現。",
+    "traditional_chinese": "度日",
+    "definition_cht": "以某一基準溫度為準，將一日內平均氣溫高於或低於該基準的差值累計所得指標，用於暖冷房能耗評估、作物生長與害蟲發育分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Degree-day"
   },
   {
     "english": "degree-hour",
-    "traditional_chinese": "學位時數",
-    "definition_cht": "「學位時數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "度時",
+    "definition_cht": "以某一基準溫度為準，逐時計算氣溫偏離基準值的累積量；為度日的較短時間尺度表示法，可用於精細能耗或生物發育估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/degree-hour"
   },
   {
     "english": "degrees of freedom",
     "traditional_chinese": "自由度",
-    "definition_cht": "「自由度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在統計或動力系統中可獨立變動的量數；在氣象資料分析裡常用於估計樣本資訊量、檢定統計量或模式參數的獨立約束數。",
     "source_url": "https://glossary.ametsoc.org/wiki/degrees_of_freedom"
   },
   {
     "english": "degrees of frost",
     "traditional_chinese": "霜度",
-    "definition_cht": "指與「霜度」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "英制舊用溫度表示法，指氣溫低於水結冰點 32°F 的度數；例如 24°F 可稱為 8 degrees of frost。",
     "source_url": "https://glossary.ametsoc.org/wiki/degrees_of_frost"
   },
   {
     "english": "deicer",
-    "traditional_chinese": "除冰劑",
-    "definition_cht": "指與「除冰劑」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "除冰器",
+    "definition_cht": "用於清除或防止航空器、船舶、儀器、道路或電線表面積冰的裝置、設備或藥劑。",
     "source_url": "https://glossary.ametsoc.org/wiki/deicer"
   },
   {
     "english": "Del operator",
-    "traditional_chinese": "刪除運算符",
-    "definition_cht": "「刪除運算符」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "del 算子（nabla 算子）",
+    "definition_cht": "向量微分算子，記作 ∇，可作用於純量或向量場以表示梯度、散度與旋度，在氣象動力學與流體力學方程中廣泛使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Del_operator"
   },
   {
     "english": "delay",
     "traditional_chinese": "延遲",
-    "definition_cht": "「延遲」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "某一訊號、回應、傳輸或物理過程相對於基準時刻的時間落後；在雷達、遙測、通訊與數值資料處理中常用以描述時滯。",
     "source_url": "https://glossary.ametsoc.org/wiki/delay"
   },
   {
