@@ -15613,122 +15613,122 @@
   },
   {
     "english": "dry tongue",
-    "traditional_chinese": "舌頭乾燥",
-    "definition_cht": "「舌頭乾燥」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "乾舌",
+    "definition_cht": "天氣分析中指相對乾燥空氣向較潮濕區域呈舌狀伸入的結構，常見於中高層流場中，並可能與噴流或噴流核附近的乾空氣侵入有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_tongue"
   },
   {
     "english": "dry year",
-    "traditional_chinese": "旱年",
-    "definition_cht": "「旱年」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "枯水年",
+    "definition_cht": "指河川逕流或出流量顯著低於多年平均值的年份，水文上常用以表示偏乾或水資源供應較不利的一年。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_year"
   },
   {
     "english": "Dry-adiabatic process",
     "traditional_chinese": "乾絕熱過程",
-    "definition_cht": "「乾絕熱過程」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指空氣團在不與外界交換熱量，且未發生凝結、蒸發等水相變化時的絕熱變化過程；其升降溫率遵循乾絕熱直減率。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dry-adiabatic_process"
   },
   {
     "english": "dry-bulb temperature",
     "traditional_chinese": "乾球溫度",
-    "definition_cht": "指與「乾球溫度」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "definition_cht": "以乾球溫度計直接量得的空氣溫度；在氣象與空氣濕度計算中，通常即為環境氣溫，並與濕球溫度相對使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry-bulb_temperature"
   },
   {
     "english": "dry-bulb thermometer",
     "traditional_chinese": "乾球溫度計",
-    "definition_cht": "與「乾球溫度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "definition_cht": "乾濕球溫度計中的乾球部分，其感測球保持乾燥，用以直接量測環境空氣溫度，並作為濕度推算的基準之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry-bulb_thermometer"
   },
   {
     "english": "dryline",
-    "traditional_chinese": "幹線",
-    "definition_cht": "指與「幹線」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "乾線",
+    "definition_cht": "分隔乾空氣與濕空氣的中尺度邊界，常見於北美大平原；其兩側露點差異明顯，並常與對流觸發及強對流天氣發展有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/dryline"
   },
   {
     "english": "dryth",
-    "traditional_chinese": "乾燥",
-    "definition_cht": "「乾燥」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "乾燥；旱象（古）",
+    "definition_cht": "古語或舊用語，意指乾燥狀態，也可指旱象或乾旱情形；現代氣象文獻中已少單獨使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/dryth"
   },
   {
     "english": "dual-channel radar",
     "traditional_chinese": "雙通道雷達",
-    "definition_cht": "「雙通道雷達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "能同時接收與發射偏振相同及正交偏振回波訊號的雷達，可用於比較不同偏振通道的散射特性，並與雙偏振雷達相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/dual-channel_radar"
   },
   {
     "english": "dual-Doppler analysis",
-    "traditional_chinese": "雙多普勒分析",
-    "definition_cht": "「雙多普勒分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "雙都卜勒分析",
+    "definition_cht": "利用兩部以上都卜勒雷達對同一天氣系統的徑向速度觀測進行聯合反演，以重建風場水平結構，並可進一步估算垂直運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/dual-Doppler_analysis"
   },
   {
     "english": "dual-polarization radar",
     "traditional_chinese": "雙偏振雷達",
-    "definition_cht": "「雙偏振雷達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "可在水平與垂直偏振方向發射或接收電磁波的雷達，藉由比較不同偏振回波特徵來判識降水粒子形狀、相態與降水型別。",
     "source_url": "https://glossary.ametsoc.org/wiki/dual-polarization_radar"
   },
   {
     "english": "dual-wavelength radar",
     "traditional_chinese": "雙波長雷達",
-    "definition_cht": "指「雙波長雷達」這類波動或振盪現象，常用於描述大氣、海洋或其他地球流體介質中的能量傳播與週期性變化。",
+    "definition_cht": "可用兩種不同波長發射並分別量測回波的雷達；藉由比較兩波長的反射率或衰減差異，可推估雲、降水或晴空散射體的性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/dual-wavelength_radar"
   },
   {
     "english": "duct",
-    "traditional_chinese": "管",
-    "definition_cht": "「管」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "波導層",
+    "definition_cht": "指大氣中因折射率隨高度快速遞減而形成的層狀區域，能使無線電或雷達波被侷限於其中傳播，造成異常遠距傳播現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/duct"
   },
   {
     "english": "duff",
-    "traditional_chinese": "達夫",
-    "definition_cht": "「達夫」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "枯落腐植層",
+    "definition_cht": "森林地表由落葉、細枝與部分分解有機質組成的鬆散層，位於表層腐植與礦質土壤之上，為野火燃料與地表含水狀態的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/duff"
   },
   {
     "english": "duplexer",
     "traditional_chinese": "雙工器",
-    "definition_cht": "「雙工器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "雷達或通訊系統中用來切換發射與接收路徑的裝置，使發射機與接收機得以共用同一副天線，同時保護接收端免受強發射訊號損害。",
     "source_url": "https://glossary.ametsoc.org/wiki/duplexer"
   },
   {
     "english": "duplicatus",
-    "traditional_chinese": "重複",
-    "definition_cht": "「重複」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "重疊變種",
+    "definition_cht": "雲的變種之一，指雲片、雲層或雲幕在略有不同高度上呈兩層以上重疊分布，部分區域可彼此融合。",
     "source_url": "https://glossary.ametsoc.org/wiki/duplicatus"
   },
   {
     "english": "Dupuit–Forchheimer assumptions",
-    "traditional_chinese": "杜普伊-福希海默假設",
-    "definition_cht": "「杜普伊-福希海默假設」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "杜普伊－福希海默假設",
+    "definition_cht": "地下水學中的近似假設，認為地下水在自由地下水面下之流動主要為水平流，且流速在垂直方向分布近乎均勻，適用於地下水面坡度小且含水層較淺的情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dupuit%E2%80%93Forchheimer_assumptions"
   },
   {
     "english": "duration",
-    "traditional_chinese": "期間",
-    "definition_cht": "用於表示「期間」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "持續時間",
+    "definition_cht": "指某一天氣、水文或海象現象自開始至結束所經歷的時間長度，可用於描述降雨、風、浪、能見度或其他事件的延續時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/duration"
   },
   {
     "english": "duration curve",
     "traditional_chinese": "持續時間曲線",
-    "definition_cht": "用於表示「持續時間曲線」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "表示某變數超過特定數值的累積持續時間與該數值之關係曲線，常用於分析流量、風速、波高或其他事件資料的持續特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/duration_curve"
   },
   {
     "english": "duration statistics",
     "traditional_chinese": "持續時間統計",
-    "definition_cht": "用於表示「持續時間統計」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "針對平靜期、風暴期或特定波高條件之持續時段所做的統計分析，可用於評估海象作業、離岸施工與風浪條件的可利用時窗。",
     "source_url": "https://glossary.ametsoc.org/wiki/duration_statistics"
   },
   {
     "english": "düsenwind",
-    "traditional_chinese": "杜森溫德",
-    "definition_cht": "指與「杜森溫德」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "噴流風（Düsenwind）",
+    "definition_cht": "達達尼爾海峽一帶的山口風，為自東北偏東吹向愛琴海的強風，可遠達利姆諾斯島，通常與黑海上空高壓脊造成的壓力配置有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/d%C3%BCsenwind"
   },
   {
