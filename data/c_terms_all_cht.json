@@ -4021,122 +4021,122 @@
   },
   {
     "english": "continental aerosol",
-    "traditional_chinese": "大陸氣溶膠",
-    "definition_cht": "指「大陸氣溶膠」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "大陸性氣膠",
+    "definition_cht": "指主要生成於陸地上空或受陸源排放影響的氣膠，成分常包含礦塵、燃燒產物、工業污染物與二次生成粒子；其粒徑分布、化學組成與雲凝結核特性通常與海洋性氣膠不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_aerosol"
   },
   {
     "english": "continental air",
-    "traditional_chinese": "大陸航空",
-    "definition_cht": "指「大陸航空」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "大陸性空氣",
+    "definition_cht": "指源自大陸地區、較少受海洋調節影響的空氣，通常相對乾燥，並隨其源地與季節而呈現冷、暖、熱等不同溫度特徵；在氣團分類中常作為 continental 的性質描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_air"
   },
   {
     "english": "continental borderland",
-    "traditional_chinese": "大陸邊境",
-    "definition_cht": "指「大陸邊境」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "大陸邊緣區",
+    "definition_cht": "指位於大陸外緣與深海盆地之間、地形較為破碎複雜的海底區域，常包含海盆、海脊、海台與斷層構造；屬大陸邊緣的一部分，但不呈單純平順的大陸棚—大陸坡形態。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_borderland"
   },
   {
     "english": "continental climate",
     "traditional_chinese": "大陸性氣候",
-    "definition_cht": "指「大陸性氣候」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指受海洋調節較弱、主要出現在大陸內部或深居內陸地區的氣候型，特徵通常為年溫差大、夏季偏暖至炎熱、冬季偏冷，且濕度與降水常較海洋性氣候更具季節性。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_climate"
   },
   {
     "english": "continental cloud",
-    "traditional_chinese": "大陸雲",
-    "definition_cht": "指具特定形態、生成條件或觀測特徵的雲體，用於判識大氣穩定度、水氣分布與天氣演變。",
+    "traditional_chinese": "大陸性雲",
+    "definition_cht": "指在大陸性氣團或陸地上空形成、微物理特徵受較高氣膠與雲凝結核濃度影響的雲；其雲滴數量常較多而粒徑較小，與海洋性雲相比，降水形成效率與輻射特性可有所差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_cloud"
   },
   {
     "english": "continental drift",
     "traditional_chinese": "大陸漂移",
-    "definition_cht": "指「大陸漂移」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指大陸在地質時間尺度上相對移動的概念，原由韋格納提出，用以解釋各洲外形、化石、岩層與古氣候證據之對應；現今其機制已由板塊構造理論加以說明。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_drift"
   },
   {
     "english": "continental glacier",
-    "traditional_chinese": "大陸冰川",
-    "definition_cht": "指「大陸冰川」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "大陸冰蓋",
+    "definition_cht": "指大面積覆蓋陸地、厚度極大且足以掩蓋下伏地形的冰體，通常相當於冰蓋或冰原，而非侷限於山谷中的谷冰川；現代主要見於南極洲與格陵蘭。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_glacier"
   },
   {
     "english": "continental high",
-    "traditional_chinese": "大陸高",
-    "definition_cht": "指「大陸高」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "大陸高壓",
+    "definition_cht": "指形成或盤據於大陸上的高氣壓系統，常因地表強烈冷卻使近地層空氣變冷增密而發展；冬季的西伯利亞高壓即為典型例子，常主導季風與寒潮活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_high"
   },
   {
     "english": "continental platform",
-    "traditional_chinese": "大陸台地",
-    "definition_cht": "指「大陸台地」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "大陸棚台地",
+    "definition_cht": "指大陸邊緣向海延伸、坡度和緩且水深較淺的廣闊海底平台，概念上與大陸棚密切相關；其上常覆有厚層沉積物，為近岸海洋過程與海洋資源分布的重要區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_platform"
   },
   {
     "english": "continental shelf",
-    "traditional_chinese": "陸棚",
-    "definition_cht": "指「陸棚」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "大陸棚",
+    "definition_cht": "指大陸邊緣被淺海覆蓋、坡度平緩的海底延伸部分，通常自海岸外側延伸至棚坡折附近，之後轉入較陡的大陸坡；為海洋生產力、沉積作用與離岸開發皆相當重要的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_shelf"
   },
   {
     "english": "continental shelf wave",
     "traditional_chinese": "大陸棚波",
-    "definition_cht": "指「大陸棚波」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指沿大陸棚與岸線傳播、其能量受地形變化與科氏力共同束縛的長波，屬沿岸陷波的一種；其相速、波長與衰減特性受棚寬、水深與緯度影響，常見於海平面與沿岸流場變動。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_shelf_wave"
   },
   {
     "english": "continental slope",
     "traditional_chinese": "大陸坡",
-    "definition_cht": "指「大陸坡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指位於大陸棚外緣與深海平原或大陸隆之間、坡度明顯增大的海底斜坡地帶，代表大陸邊緣由淺海向深海過渡的主要地形單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/continental_slope"
   },
   {
     "english": "Continental Water Boundary",
     "traditional_chinese": "大陸水邊界",
-    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。",
+    "definition_cht": "指海洋或河口水文中，大陸沿岸低鹽或近岸水團與外海水團之間的界線或過渡帶；其位置常隨河川輸入、潮汐、風場與沿岸流變化，並可表現在鹽度、溫度、濁度或生地化性質的明顯梯度上。",
     "source_url": "https://glossary.ametsoc.org/wiki/Continental_Water_Boundary"
   },
   {
     "english": "continentality",
     "traditional_chinese": "大陸性",
-    "definition_cht": "指「大陸性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指一地氣候受大陸內陸條件支配、而較少受海洋調節的程度；大陸性愈強，通常表示年溫差較大、空氣較乾，且季節冷暖對比更顯著。",
     "source_url": "https://glossary.ametsoc.org/wiki/continentality"
   },
   {
     "english": "continentality index",
     "traditional_chinese": "大陸性指數",
-    "definition_cht": "指用以描述、比較或判定大氣與海洋狀態的指數、比值、參數或分級量，可作為分析與預報依據。",
+    "definition_cht": "指用以量化某地大陸性強弱的指標，通常綜合年溫差、緯度或海陸位置等因素估算，以比較不同地區受海洋調節或內陸效應影響的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/continentality_index"
   },
   {
     "english": "contingency table",
     "traditional_chinese": "列聯表",
-    "definition_cht": "指「列聯表」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "統計上用於列示兩個或多個類別變數各組合出現頻數的表格，又稱交叉表；在氣象驗證中常用以整理預報與觀測的命中、漏報、誤報與正確否定等結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/contingency_table"
   },
   {
     "english": "continuing current",
     "traditional_chinese": "持續電流",
-    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。",
+    "definition_cht": "指閃電主回擊之後，沿既有放電通道持續流動的一段較弱但歷時較長的電流；雖其峰值通常低於回擊電流，仍可造成顯著加熱，對引發燃燒或設備受損具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/continuing_current"
   },
   {
     "english": "continuity",
     "traditional_chinese": "連續性",
-    "definition_cht": "指「連續性」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指物理量在空間或時間上的變化不中斷、無突跳的性質；在流體力學與氣象學中，亦常引申為質量守恆所滿足的連續方程概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/continuity"
   },
   {
     "english": "continuity chart",
     "traditional_chinese": "連續性圖",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "definition_cht": "指用以檢查某氣象或水文要素在時間序列或空間分析上是否保持合理連續變化的圖表；可藉由連線、剖面或場值分布辨識不合理跳變、觀測錯誤或分析不一致之處。",
     "source_url": "https://glossary.ametsoc.org/wiki/continuity_chart"
   },
   {
     "english": "continuous spectrum",
     "traditional_chinese": "連續光譜",
-    "definition_cht": "指「連續光譜」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指在一定波長或頻率範圍內，輻射強度隨波長連續分布、幾乎不呈離散譜線中斷的光譜；常由高溫緻密物質的熱輻射產生，並與線譜或帶譜相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/continuous_spectrum"
   },
   {
