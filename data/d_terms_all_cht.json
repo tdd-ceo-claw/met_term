@@ -1561,122 +1561,122 @@
   },
   {
     "english": "direct flow",
-    "traditional_chinese": "直接流動",
-    "definition_cht": "指與「直接流動」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "直接逕流",
+    "definition_cht": "洪水歷線中對降雨或融雪事件反應最快的一部分出流，主要由事件發生後迅速進入河道的地表逕流、壤中流或近地表快速流組成，並與較緩慢的基流相區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct_flow"
   },
   {
     "english": "direct interaction approximation",
-    "traditional_chinese": "直接相互作用近似",
-    "definition_cht": "「直接相互作用近似」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "直接交互作用近似",
+    "definition_cht": "湍流理論中的一種封閉近似方法，由 Kraichnan 提出，用以描述不同尺度渦動之間的統計交互作用，並抑制大尺度與小尺度間非局地的直接耦合，以建立可求解的能譜與相關量方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct_interaction_approximation"
   },
   {
     "english": "direct numerical simulation",
     "traditional_chinese": "直接數值模擬",
-    "definition_cht": "「直接數值模擬」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在數值流體力學中，直接以控制方程解析所有相關時空尺度的流動，不使用湍流參數化或經驗封閉模式。此法計算量極大，但可作為研究湍流結構與驗證近似模式的重要基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct_numerical_simulation"
   },
   {
     "english": "direct route",
-    "traditional_chinese": "直達路線",
-    "definition_cht": "「直達路線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "最短航線",
+    "definition_cht": "地球表面兩地之間的最短導航路徑；在球面幾何下通常對應大圓航線。航海、航空與氣象導航中常用以規劃最短距離的航行路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct_route"
   },
   {
     "english": "direct runoff",
-    "traditional_chinese": "直接徑流",
-    "definition_cht": "「直接徑流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "直接逕流",
+    "definition_cht": "降雨或融雪事件發生後迅速匯入河道的逕流成分，通常構成洪水歷線的主要事件流量，且不包含既存地下水所形成的基流。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct_runoff"
   },
   {
     "english": "direct solar radiation",
-    "traditional_chinese": "太陽直接輻射",
-    "definition_cht": "「太陽直接輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "直達太陽輻射",
+    "definition_cht": "由太陽沿近直線方向直接到達地表、尚未經大氣顯著散射的太陽輻射分量。其強度受太陽高度角、雲量、氣膠與大氣透過率影響，並與散射輻射相區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct_solar_radiation"
   },
   {
     "english": "direct tide",
-    "traditional_chinese": "直潮",
-    "definition_cht": "「直潮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "直接潮",
+    "definition_cht": "由月球或太陽引潮力直接造成，且其潮汐位相與該天體視運動大致一致的海洋或大氣潮汐分量；相較於間接或次生效應所產生的潮汐，此類潮汐較直接反映外力天體的引潮作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct_tide"
   },
   {
     "english": "direct-vision nephoscope",
-    "traditional_chinese": "直視腎鏡",
-    "definition_cht": "「直視腎鏡」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "直視式測雲器",
+    "definition_cht": "一類以直接目視方式判定雲移動方向與速度的測雲器。觀測者透過儀器上之鏡面、格線或瞄準構件直接追蹤雲體移動，用於估計雲層運動及其相對位移。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct-vision_nephoscope"
   },
   {
     "english": "direction finder",
     "traditional_chinese": "測向儀",
-    "definition_cht": "「測向儀」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "用以測定訊號、波源或目標來向的儀器；在氣象與航空領域常指無線電測向儀，可依接收訊號方向判定發射源或目標的方位。",
     "source_url": "https://glossary.ametsoc.org/wiki/direction_finder"
   },
   {
     "english": "directional distribution",
-    "traditional_chinese": "定向分佈",
-    "definition_cht": "「定向分佈」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "方向分布",
+    "definition_cht": "描述某一物理量隨傳播方向分配情形的分布函數或統計表示。於海浪學中，常指隨機海況下波能沿不同方向傳遞的分布，用以表示波場之指向擴散特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/directional_distribution"
   },
   {
     "english": "directional hydraulic conductivity",
-    "traditional_chinese": "定向導水率",
-    "definition_cht": "「定向導水率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "方向性水力傳導係數",
+    "definition_cht": "達西定律中的比例常數，其大小依流動方向而異，用以描述具各向異性介質在不同方向上的導水能力。地下水與土壤水研究常以此表示水平與垂直方向傳水性質的差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/directional_hydraulic_conductivity"
   },
   {
     "english": "directional-hemispherical reflectance",
-    "traditional_chinese": "定向半球反射率",
-    "definition_cht": "「定向半球反射率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "定向－半球反射率",
+    "definition_cht": "表面在單一入射方向照射下，向上半球所有方向反射之總能量與入射能量的比值，可視為僅受直射照明時的表面反照率；遙測中亦常稱黑空反照率。",
     "source_url": "https://glossary.ametsoc.org/wiki/directional-hemispherical_reflectance"
   },
   {
     "english": "directivity",
-    "traditional_chinese": "方向性",
-    "definition_cht": "「方向性」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "指向性",
+    "definition_cht": "天線、聲學或光學系統將能量集中於特定方向的能力。定量上常以某方向的輻射強度與全方向平均輻射強度之比表示；於雷達遙測中，為描述波束集中程度的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/directivity"
   },
   {
     "english": "discharge",
-    "traditional_chinese": "釋放",
-    "definition_cht": "「釋放」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "流量",
+    "definition_cht": "單位時間內通過河道、斷面、管道或其他流通界面的水體體積，為水文學衡量出流強度的基本量，常以立方公尺每秒表示；在地下水語境中亦可泛指排泄或出流。",
     "source_url": "https://glossary.ametsoc.org/wiki/discharge"
   },
   {
     "english": "discharge area",
-    "traditional_chinese": "放電區",
-    "definition_cht": "「放電區」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "排泄區",
+    "definition_cht": "含水層或地下水系統中，地下水由地下流向地表、水體或大氣並排出的區域，例如泉源、濕地、河岸滲出帶或蒸發旺盛地帶；與補注區相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/discharge_area"
   },
   {
     "english": "discharge coefficient",
     "traditional_chinese": "流量係數",
-    "definition_cht": "用於表示「流量係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "實際流量與理論流量之比值，用以反映孔口、堰、噴嘴或其他水工構造因收縮、摩擦及能量損失所造成的偏差，是水力計算與量測校正的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/discharge_coefficient"
   },
   {
     "english": "discharge section line",
-    "traditional_chinese": "卸料段線",
-    "definition_cht": "指與「卸料段線」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "流量斷面線",
+    "definition_cht": "河道測流斷面中的一條代表性線段，通常取與連接河床最深點之線近乎垂直的斷面方向，用作量測流速、面積與計算流量的基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/discharge_section_line"
   },
   {
     "english": "discontinuity",
-    "traditional_chinese": "不連續性",
-    "definition_cht": "「不連續性」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "不連續面",
+    "definition_cht": "大氣、海洋或其他流體中，某一物理量在極短距離內發生突變的界面或帶狀區域，例如溫度、密度、風向或濕度的急遽轉變。鋒面、逆溫層與密度躍層皆可視為不連續現象的例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/discontinuity"
   },
   {
     "english": "discontinuous turbulence",
-    "traditional_chinese": "不連續湍流",
-    "definition_cht": "「不連續湍流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "間斷性湍流",
+    "definition_cht": "常見於穩定邊界層中的湍流狀態，其湍流在水平或垂直方向上並非連續充滿整個區域，而是呈局部片段、間歇或斑塊式分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/discontinuous_turbulence"
   },
   {
     "english": "discrete spectrum",
     "traditional_chinese": "離散譜",
-    "definition_cht": "「離散譜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "由一系列離散波長、波數或頻率組成的光譜或能譜，其成分不是連續分布，而僅出現在特定值上。常用於分析譜線輻射、振動模態或離散頻率的能量分配。",
     "source_url": "https://glossary.ametsoc.org/wiki/discrete_spectrum"
   },
   {
