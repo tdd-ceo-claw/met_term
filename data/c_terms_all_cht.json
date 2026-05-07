@@ -3775,122 +3775,122 @@
   },
   {
     "english": "conjunction",
-    "traditional_chinese": "連接詞",
-    "definition_cht": "指「連接詞」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "連言",
+    "definition_cht": "在邏輯、規則系統與布林運算中，指以 AND 將兩個以上命題或條件連結的運算或連接方式；僅當各組成條件皆為真時，整體命題才成立。",
     "source_url": "https://glossary.ametsoc.org/wiki/conjunction"
   },
   {
     "english": "conjunctive use",
-    "traditional_chinese": "聯合使用",
-    "definition_cht": "指「聯合使用」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "聯合運用",
+    "definition_cht": "指地表水與地下水的整合管理與聯合使用；通常在豐水期優先利用地表水、枯水期補以地下水，或將多餘地表水回灌含水層，以提高供水彈性、可靠度與整體水資源效益。",
     "source_url": "https://glossary.ametsoc.org/wiki/conjunctive_use"
   },
   {
     "english": "connate water",
     "traditional_chinese": "原生水",
-    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。",
+    "definition_cht": "指沉積物或岩石形成時即封存於孔隙中的水，通常具有較高礦化度；在水文氣象中所占比例很小，與由降水滲入地表下的天水（meteoric water）不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/connate_water"
   },
   {
     "english": "consecutive mean",
-    "traditional_chinese": "連續平均值",
-    "definition_cht": "指「連續平均值」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "連續平均",
+    "definition_cht": "指沿時間序列以固定窗長逐點計算的平均值，即移動平均、重疊平均或 running mean；常用於平滑短期起伏並突顯較長週期的變化趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/consecutive_mean"
   },
   {
     "english": "consensus average",
-    "traditional_chinese": "共識平均數",
-    "definition_cht": "指「共識平均數」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "共識平均值",
+    "definition_cht": "以共識平均法自一組量測值中篩除彼此不一致或偏離過大的資料後，再對保留資料計算所得的平均值；常用於降低雜訊或離群值對結果的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/consensus_average"
   },
   {
     "english": "consensus averaging",
-    "traditional_chinese": "共識平均",
-    "definition_cht": "指「共識平均」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "共識平均法",
+    "definition_cht": "一種先比較多筆量測是否彼此一致，再排除不符共識的樣本並計算平均值的資料處理方法；常用於雷達風剖儀、遙測或其他含雜訊觀測，以提升代表性與穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/consensus_averaging"
   },
   {
     "english": "consequent",
-    "traditional_chinese": "結果",
-    "definition_cht": "指「結果」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "後件",
+    "definition_cht": "在 IF-THEN 規則、形式邏輯與專家系統中，指 THEN 子句所表示的結論、動作或推論結果；與表示條件的前件（antecedent）相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/consequent"
   },
   {
     "english": "conservation of angular momentum",
     "traditional_chinese": "角動量守恆",
-    "definition_cht": "指「角動量守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指在外力矩合為零或可忽略時，系統的總角動量保持不變；在大氣與海洋動力學中，常用以說明空氣或水體隨緯度改變、半徑改變時之旋轉與流速調整。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservation_of_angular_momentum"
   },
   {
     "english": "conservation of energy",
     "traditional_chinese": "能量守恆",
-    "definition_cht": "指「能量守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指封閉系統中的總能量不會憑空產生或消失，只能在動能、位能、內能、輻射能等不同形式間轉換；在氣象學中常以熱力學能量方程表述。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservation_of_energy"
   },
   {
     "english": "conservation of mass",
     "traditional_chinese": "質量守恆",
-    "definition_cht": "指「質量守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指系統中的總質量保持不變；在流體力學與大氣、海洋運動中，通常以連續方程表示質量流入、流出與局地密度變化之平衡關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservation_of_mass"
   },
   {
     "english": "conservation of momentum",
     "traditional_chinese": "動量守恆",
-    "definition_cht": "指「動量守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指孤立系統的總動量維持不變；對流體而言，動量方程將動量的局地變化與平流、壓力梯度力、重力、黏滯力及其他外力聯繫起來，是描述大氣與海洋運動的基本原理。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservation_of_momentum"
   },
   {
     "english": "conservation of vorticity",
     "traditional_chinese": "渦度守恆",
-    "definition_cht": "指「渦度守恆」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指在無黏、近似正壓且摩擦可忽略的流體運動中，流體微團的絕對渦度可保持不變；更一般地，在地球流體中常以位渦守恆來描述渦旋、層厚與緯度變化之耦合。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservation_of_vorticity"
   },
   {
     "english": "conservatism",
-    "traditional_chinese": "保守主義",
-    "definition_cht": "指「保守主義」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "保守性",
+    "definition_cht": "指某一物理量、方程形式或數值方法具有守恆特性，在指定過程中能維持總量不變，或能正確表達質量、能量、動量等積分量的收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservatism"
   },
   {
     "english": "conservative field",
     "traditional_chinese": "保守場",
-    "definition_cht": "指「保守場」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指其作用力可由位勢函數導出，因而沿任一路徑所作功僅與起終點有關、與路徑無關的場；在封閉路徑上的環流或作功為零。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservative_field"
   },
   {
     "english": "conservative pollutants",
-    "traditional_chinese": "保守污染物",
-    "definition_cht": "指「保守污染物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "保守性污染物",
+    "definition_cht": "指在天然水體或輸送過程中，不易因化學反應、生物降解、揮發或沉降而改變總量的污染物；其濃度變化主要受混合、稀釋與平流擴散控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservative_pollutants"
   },
   {
     "english": "conservative property",
-    "traditional_chinese": "保守財產",
-    "definition_cht": "指「保守財產」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "保守性質",
+    "definition_cht": "指在特定過程或系統內，其數值不因內部轉化而改變、僅會因混合或邊界通量而改變的物理或化學性質；在海洋學中常用於辨識水團來源與混合。",
     "source_url": "https://glossary.ametsoc.org/wiki/conservative_property"
   },
   {
     "english": "conserved variable diagram",
     "traditional_chinese": "保守變數圖",
-    "definition_cht": "指「保守變數圖」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "一種用於研究雲與降水過程的熱力圖解，通常以代表熱含量或溫度的保守變數為橫軸，代表水分守恆的保守變數為縱軸，用以分析混合、凝結與蒸發等作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/conserved_variable_diagram"
   },
   {
     "english": "consistent numerical scheme",
-    "traditional_chinese": "一致的數值方案",
-    "definition_cht": "指「一致的數值方案」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "一致數值格式",
+    "definition_cht": "指其有限差分、有限體積或其他離散近似在網格間距與時間步長趨近零時，能收斂到原控制微分方程的數值格式；一致性是判定數值方法正確性的基本條件之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/consistent_numerical_scheme"
   },
   {
     "english": "consolidated ice",
-    "traditional_chinese": "合併冰",
-    "definition_cht": "指固態水體、海冰、冰晶或冰相過程相關現象，可用於描述其形成條件、結構型態與對天氣或海況之影響。",
+    "traditional_chinese": "固結冰區",
+    "definition_cht": "指海面上不同來源的浮冰、碎冰或冰塊在風與海流擠壓下，並經凍結彼此黏結成較為完整堅實冰體的冰區；常見於緊密冰況或冰蓋形成階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/consolidated_ice"
   },
   {
     "english": "consolidation",
     "traditional_chinese": "固結",
-    "definition_cht": "飽和土壤或鬆散沉積物在外加荷重下，因孔隙水逐步排出而體積縮減、強度增加的過程。",
+    "definition_cht": "飽和土壤或鬆散沉積物在外加荷重下，因孔隙水逐步排出而體積縮減、孔隙比降低且強度增加的過程；常見於地工、水工與沉積環境分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/consolidation"
   },
   {
