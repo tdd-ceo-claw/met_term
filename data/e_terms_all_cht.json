@@ -1802,121 +1802,121 @@
   {
     "english": "equivalent reflectivity factor",
     "traditional_chinese": "等效反射率因子",
-    "definition_cht": "將實際散射回波換算為標準雷利散射假設下所對應的反射率因子，是雷達定量判讀降水的重要量。",
+    "definition_cht": "雷達遙測中，將實際散射體所造成的回波強度，換算為在雷利散射假設下由等效液態水滴群所對應的反射率因子；為天氣雷達判讀降水強度與微物理結構的基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_reflectivity_factor"
   },
   {
     "english": "equivalent tail wind",
     "traditional_chinese": "等效順風",
-    "definition_cht": "指與「等效順風」相關的風場、風向分量、地方風或飛航風要素。",
+    "definition_cht": "航空氣象用語，指一個假想的沿航跡順風分量；其大小定義為能使航空器得到與實際複雜風場相同平均地速效應的均勻順風。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_tail_wind"
   },
   {
     "english": "equivalent temperature",
     "traditional_chinese": "等效溫度",
-    "definition_cht": "指與「等效溫度」相關的溫度量、代表性熱狀態或熱力診斷參數。",
+    "definition_cht": "氣塊中全部水汽在定壓下完全凝結，並將所釋放的潛熱全數用來加熱該氣塊後，氣塊所能達到的溫度；用以表示濕空氣所含總熱能。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_temperature"
   },
   {
     "english": "equivalent width",
     "traditional_chinese": "等效寬度",
-    "definition_cht": "「等效寬度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "光譜學量，指以與連續背景同高度的矩形來代表某吸收線或發射線時，該矩形在波長軸上的寬度；可用來量化光譜特徵的整體強度，亦常用於大氣遙測光譜分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_width"
   },
   {
     "english": "ERBE",
     "traditional_chinese": "地球輻射收支實驗",
-    "definition_cht": "地球輻射收支實驗之縮寫，為量測行星輻射收支的重要衛星觀測計畫。",
+    "definition_cht": "Earth Radiation Budget Experiment 的縮寫，為 NASA 主導的衛星觀測計畫，用以量測地球入射太陽輻射、反射短波與放射長波，研究地球整體輻射收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/ERBE"
   },
   {
     "english": "ERBS",
     "traditional_chinese": "地球輻射收支衛星",
-    "definition_cht": "地球輻射收支衛星之縮寫，主要任務為提供地球出入射輻射通量觀測資料。",
+    "definition_cht": "Earth Radiation Budget Satellite 的縮寫，為執行 ERBE 任務而發射的衛星之一，主要提供地球短波反照與長波放射通量等輻射收支觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/ERBS"
   },
   {
     "english": "erf",
     "traditional_chinese": "誤差函數",
-    "definition_cht": "「誤差函數」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "error function 的常用符號，為機率論與擴散方程常見的特殊函數，與常態分布機率積分密切相關，在大氣擴散、熱傳與統計計算中常會出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/erf"
   },
   {
     "english": "erg",
     "traditional_chinese": "爾格",
-    "definition_cht": "「爾格」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "厘米－克－秒制（CGS）中的能量單位，1 erg = 10⁻⁷ 焦耳；在早期氣象、輻射與地球物理文獻中常用來表示能量或功。",
     "source_url": "https://glossary.ametsoc.org/wiki/erg"
   },
   {
     "english": "ergodic",
     "traditional_chinese": "各態歷經的",
-    "definition_cht": "「各態歷經的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "形容一個隨機過程或動力系統具有各態歷經性，即其長時間平均可代表整體樣本空間的統計平均。",
     "source_url": "https://glossary.ametsoc.org/wiki/ergodic"
   },
   {
     "english": "ergodic condition",
     "traditional_chinese": "各態歷經條件",
-    "definition_cht": "指「各態歷經條件」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "使隨機過程或系統可視為各態歷經的條件；在此條件下，對單一樣本長時間取得的平均值可用來代表整體集合平均。",
     "source_url": "https://glossary.ametsoc.org/wiki/ergodic_condition"
   },
   {
     "english": "ergodicity",
     "traditional_chinese": "各態歷經性",
-    "definition_cht": "描述系統時間平均與整體樣本平均可視為等價的統計性質。",
+    "definition_cht": "隨機過程或動力系統的一種統計性質，表示在適當條件下，其時間平均與集合平均相等或可視為等價。",
     "source_url": "https://glossary.ametsoc.org/wiki/ergodicity"
   },
   {
     "english": "erosion",
     "traditional_chinese": "侵蝕",
-    "definition_cht": "指「侵蝕」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "地表物質受流水、風、冰川、波浪或重力等作用而被磨蝕、剝離並搬運的過程；在氣象與氣候研究中常關聯於降雨、風沙與冰雪作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/erosion"
   },
   {
     "english": "erosion ridge",
     "traditional_chinese": "侵蝕脊",
-    "definition_cht": "「侵蝕脊」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由差異侵蝕作用形成、相對較抗蝕而殘留的狹長脊狀地形；其生成常與風蝕、流水侵蝕或冰蝕環境有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/erosion_ridge"
   },
   {
     "english": "error",
     "traditional_chinese": "誤差",
-    "definition_cht": "「誤差」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "某一觀測值、估計值或模式結果與其真值、基準值或驗證值之間的差；可再區分為系統誤差與隨機誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/error"
   },
   {
     "english": "error distribution",
     "traditional_chinese": "誤差分布",
-    "definition_cht": "描述「誤差分布」相關量值在空間、時間或樣本中的分布型態。",
+    "definition_cht": "描述誤差值在統計上如何分散的機率分布；在許多觀測與預報驗證問題中，常假設隨機誤差近似服從平均值為零的常態分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/error_distribution"
   },
   {
     "english": "error function",
     "traditional_chinese": "誤差函數",
-    "definition_cht": "指「誤差函數」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "一種特殊函數，通常記為 erf，與高斯分布的機率積分等價，常出現在擴散、熱傳、邊界層與機率統計解析解中。",
     "source_url": "https://glossary.ametsoc.org/wiki/error_function"
   },
   {
     "english": "ERS",
     "traditional_chinese": "歐洲遙測衛星",
-    "definition_cht": "歐洲遙測衛星系列之縮寫，搭載多種遙測儀器以支援海洋、陸地與冰凍圈觀測。",
+    "definition_cht": "European Remote-Sensing Satellite 的縮寫，通常指 ESA 的 ERS-1 與 ERS-2 衛星系列，搭載雷達高度計、合成孔徑雷達等儀器，用於海洋、陸地與冰凍圈遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/ERS"
   },
   {
     "english": "ertor",
     "traditional_chinese": "砂塵風",
-    "definition_cht": "「砂塵風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "地方風名稱之一，通常指夾帶大量沙塵、乾熱且能見度不佳的強風；實際所指區域與風況須依原始文獻或地方用法判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/ertor"
   },
   {
     "english": "ERTS",
     "traditional_chinese": "地球資源技術衛星",
-    "definition_cht": "地球資源技術衛星之縮寫，為早期陸地遙測衛星計畫名稱。",
+    "definition_cht": "Earth Resources Technology Satellite 的縮寫，為早期陸地遙測衛星計畫名稱；後續首顆衛星即改名為 Landsat 1。",
     "source_url": "https://glossary.ametsoc.org/wiki/ERTS"
   },
   {
     "english": "escape velocity",
     "traditional_chinese": "逃逸速度",
-    "definition_cht": "指與「逃逸速度」相關的速度量，描述流體、波動或界面移動的快慢與方向。",
+    "definition_cht": "物體自某天體表面或其重力場中，不再依賴額外推進而能脫離其重力束縛所需的最小速度，又稱逃逸速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/escape_velocity"
   },
   {
