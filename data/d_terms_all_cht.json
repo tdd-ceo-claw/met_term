@@ -2881,116 +2881,116 @@
   },
   {
     "english": "dynamic flux",
-    "traditional_chinese": "動態通量",
-    "definition_cht": "「動態通量」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "動力通量",
+    "definition_cht": "指由流體運動所造成之通量，常用於表示動量、熱量、水氣或其他物質因平均流或擾動渦動輸送，穿越單位面積與單位時間的傳輸量。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_flux"
   },
   {
     "english": "dynamic height",
-    "traditional_chinese": "動態高度",
-    "definition_cht": "指描述「動態高度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "動力高度",
+    "definition_cht": "以位勢差表示的高度量，在海洋學中常指相對某一參考壓力面之動力高度，用於描寫海水密度結構並據以推算地轉流。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_height"
   },
   {
     "english": "dynamic initialization",
-    "traditional_chinese": "動態初始化",
-    "definition_cht": "「動態初始化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "動力初始化",
+    "definition_cht": "數值天氣預報中調整模式初始場的方法，藉由正反向積分或其他動力平衡程序，抑制不需要的高頻重力波振盪，使初始風場、壓力場與質量場較符合模式動力平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_initialization"
   },
   {
     "english": "dynamic instability",
-    "traditional_chinese": "動態不穩定性",
-    "definition_cht": "指與「動態不穩定性」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "traditional_chinese": "動力不穩定",
+    "definition_cht": "指流體在動力平衡受擾後，擾動會因壓力梯度力、科氏力、離心力等作用失衡而增強的狀態；在氣象用語中常與慣性不穩定相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_instability"
   },
   {
     "english": "dynamic meteorology",
-    "traditional_chinese": "動態氣象學",
-    "definition_cht": "指「動態氣象學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。",
+    "traditional_chinese": "動力氣象學",
+    "definition_cht": "研究大氣運動及其受力、守恆關係與波動、渦度、環流等機制的氣象學分支，為天氣分析、數值預報與氣候動力研究的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_meteorology"
   },
   {
     "english": "dynamic meter",
-    "traditional_chinese": "動態計",
-    "definition_cht": "與「動態計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "動力米",
+    "definition_cht": "動力高度的標準單位，又稱地動力米，定義為 10 平方公尺每平方秒（10 m² s⁻²），用以表示位勢差或動力高度大小。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_meter"
   },
   {
     "english": "dynamic oceanography",
-    "traditional_chinese": "動態海洋學",
-    "definition_cht": "指「動態海洋學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。",
+    "traditional_chinese": "動力海洋學",
+    "definition_cht": "物理海洋學中研究海洋運動及其受力平衡、密度結構、波動、渦旋與環流機制的分支，常據溫鹽與壓力資料分析海流及地轉關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_oceanography"
   },
   {
     "english": "Dynamic pipe effect",
-    "traditional_chinese": "動態管道效果",
-    "definition_cht": "「動態管道效果」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "動力管效應",
+    "definition_cht": "龍捲生成的一種概念模型，指初生渦旋因不同高度間角動量向內輻合而自高空逐步向下發展，形成近似管狀且向地面延伸的強旋轉柱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dynamic_pipe_effect"
   },
   {
     "english": "dynamic pressure",
     "traditional_chinese": "動壓",
-    "definition_cht": "指與「動壓」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "definition_cht": "流體因運動所對應的壓力量，數值為密度與流速平方乘積的一半（q = 1/2 ρV²）；在停滯點處等於總壓與靜壓之差。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_pressure"
   },
   {
     "english": "dynamic range",
     "traditional_chinese": "動態範圍",
-    "definition_cht": "「動態範圍」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "儀器、感測器或訊號處理系統在維持規定精度、線性或可辨識表現下，所能處理的最小與最大輸入或輸出訊號範圍，常以分貝表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_range"
   },
   {
     "english": "dynamic similarity",
-    "traditional_chinese": "動態相似度",
-    "definition_cht": "「動態相似度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "動力相似",
+    "definition_cht": "指不同尺度之流場或物理系統在主要受力比例一致時呈現相同運動特徵；進行模型實驗時通常要求相關無因次數，如雷諾數或傅汝德數，相等或相近。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_similarity"
   },
   {
     "english": "Dynamic stability",
-    "traditional_chinese": "動態穩定性",
-    "definition_cht": "指與「動態穩定性」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "traditional_chinese": "動力穩定度",
+    "definition_cht": "衡量流體系統對有限擾動之抵抗或恢復能力；值愈大表示較能維持原有平衡，若為負值則表示系統呈動力不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dynamic_stability"
   },
   {
     "english": "dynamic viscosity",
     "traditional_chinese": "動力黏度",
-    "definition_cht": "指描述「動力黏度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "definition_cht": "表徵流體抗剪切變形能力的黏滯係數，定義為剪應力與速度梯度之比，常以 μ 表示，單位為帕秒（Pa·s）。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_viscosity"
   },
   {
     "english": "dynamic-height anomaly",
-    "traditional_chinese": "動態高度異常",
-    "definition_cht": "指描述「動態高度異常」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "動力高度異常",
+    "definition_cht": "相對某一參考壓力面計算的動力高度差，在海洋學中可作為等壓面上的地轉流函數，用以表示不同水柱之位勢差與相對流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic-height_anomaly"
   },
   {
     "english": "dynamical extended range forecasting",
-    "traditional_chinese": "動態擴展範圍預測",
-    "definition_cht": "指「動態擴展範圍預測」這類預報產品或預測作業，用以說明未來一定時段內之天氣、氣候或相關環境條件變化。",
+    "traditional_chinese": "動力延伸期預報",
+    "definition_cht": "利用大氣—海洋動力模式進行 10 天至數週尺度之延伸期預報，以模擬大型環流與次季節訊號的演變，作為天氣與氣候風險評估依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamical_extended_range_forecasting"
   },
   {
     "english": "dynamical sublayer",
-    "traditional_chinese": "動力子層",
-    "definition_cht": "指與「動力子層」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "動力次層",
+    "definition_cht": "貼近地表的表面層子區域，厚度約數公尺至十公尺，在此層中層結穩定度與科氏力影響可忽略，但已高於分子黏滯層與單一粗糙元直接作用範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamical_sublayer"
   },
   {
     "english": "dynamical system",
     "traditional_chinese": "動力系統",
-    "definition_cht": "「動力系統」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指狀態會依時間按一組微分方程、差分方程或其他演化規則改變的系統；在氣象與海洋學中常用以描述大氣、海洋與氣候系統的時間演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamical_system"
   },
   {
     "english": "dynamo theory",
     "traditional_chinese": "發電機理論",
-    "definition_cht": "與「發電機理論」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "definition_cht": "解釋天體或地球物理流體如何在旋轉、對流與導電流體運動下產生並維持磁場的理論；在地球物理上亦用以說明地磁場及其規律日變化的成因。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamo_theory"
   },
   {
     "english": "dyne",
     "traditional_chinese": "達因",
-    "definition_cht": "「達因」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "厘米—克—秒制中的力單位，定義為使 1 公克質量產生每平方秒 1 公分加速度所需之力，等於 10⁻⁵ 牛頓。",
     "source_url": "https://glossary.ametsoc.org/wiki/dyne"
   }
 ]
