@@ -242,121 +242,121 @@
   {
     "english": "Davies number",
     "traditional_chinese": "戴維斯數",
-    "definition_cht": "用於表示「戴維斯數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "一種無因次參數，又稱 Best number，常寫為 Cd·Re²，用來描述粒子受阻力與慣性條件的綜合效應，常見於雲滴、冰晶、雨滴等水成物終端落速與阻力特性分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Davies_number"
   },
   {
     "english": "dawn",
     "traditional_chinese": "黎明",
-    "definition_cht": "「黎明」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指日出前開始出現散射天光的曙暮光時段，通常作為夜間與白晝之間的過渡時間，在天文、觀測與航空氣象中常用來界定光照條件變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/dawn"
   },
   {
     "english": "day",
-    "traditional_chinese": "天",
-    "definition_cht": "指與「天」相關的時間尺度、事件型態或週期變化，常用於記述天氣、氣候或環境條件在一定時段內的表現。",
+    "traditional_chinese": "日；一天",
+    "definition_cht": "指地球相對太陽完成一次晝夜循環的時間單位，平均約為 24 小時；在氣候與氣象統計中，也常指自地方時某一固定時刻到下一次同時刻的觀測日。",
     "source_url": "https://glossary.ametsoc.org/wiki/day"
   },
   {
     "english": "days with snow cover",
-    "traditional_chinese": "有積雪的日子",
-    "definition_cht": "指與「有積雪的日子」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "積雪日數",
+    "definition_cht": "在觀測或統計期間內，地表積雪覆蓋達到既定判準的日數，用於描述地面雪被持續情形，並常作為雪氣候、積雪資源與寒區環境分析指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/days_with_snow_cover"
   },
   {
     "english": "dB''Z",
-    "traditional_chinese": "分貝Z",
-    "definition_cht": "「分貝Z」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "分貝反射率因子",
+    "definition_cht": "以對數分貝形式表示之雷達反射率因子 Z，實務上常寫作 dBZ，用以表示降水粒子或目標物對天氣雷達回波強度的大小。",
     "source_url": "https://glossary.ametsoc.org/wiki/dB%27%27Z"
   },
   {
     "english": "DCAPE",
-    "traditional_chinese": "迪卡普",
-    "definition_cht": "「迪卡普」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "下沉對流可用位能",
+    "definition_cht": "Downdraft Convective Available Potential Energy 的縮寫，指由蒸發冷卻等作用造成空氣塊下沉時可轉換為下沉加速度的位能，常用於評估強陣風、下擊暴流與冷池發展潛勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/DCAPE"
   },
   {
     "english": "DCS",
     "traditional_chinese": "分散式控制系統",
-    "definition_cht": "「分散式控制系統」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "Distributed Control System 的縮寫，指將控制功能分散配置於多個控制器、感測器與執行單元的系統架構；在氣象觀測、環境監測與相關工程設施中，可用於整合量測、告警與設備控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/DCS"
   },
   {
     "english": "DCVZ",
-    "traditional_chinese": "DCVZ",
-    "definition_cht": "「DCVZ」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "丹佛輻合渦度區",
+    "definition_cht": "Denver Convergence Vorticity Zone 的縮寫，指美國丹佛都會區以東高平原受地形影響形成的近地面風場輻合與渦度增強帶，常與對流觸發及龍捲生成環境有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/DCVZ"
   },
   {
     "english": "DDA",
-    "traditional_chinese": "直接數據分析法",
-    "definition_cht": "「直接數據分析法」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "深度－延時－面積值",
+    "definition_cht": "Depth-Duration-Area 的縮寫，指某場降水事件在指定持續時間與面積尺度下的平均降水深度，用於暴雨頻率分析、設計降雨推估及水文規劃。",
     "source_url": "https://glossary.ametsoc.org/wiki/DDA"
   },
   {
     "english": "de-briefing",
-    "traditional_chinese": "報告",
-    "definition_cht": "「報告」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "事後講評；返航後簡報",
+    "definition_cht": "指飛行、觀測或任務結束後所進行的回顧說明與檢討，內容可包含實際天氣、預報表現、危害遭遇與作業流程，用於改進後續航空或氣象支援作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/de-briefing"
   },
   {
     "english": "de-icing",
     "traditional_chinese": "除冰",
-    "definition_cht": "「除冰」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指移除航空器、儀器、電纜、道路或其他設施表面既有冰層、霜或雪冰附著的作業；在航空氣象中常與防冰作業並列，以維持升力、量測品質與運行安全。",
     "source_url": "https://glossary.ametsoc.org/wiki/de-icing"
   },
   {
     "english": "De-Saint Venant equation",
-    "traditional_chinese": "德聖維南方程",
-    "definition_cht": "與「德聖維南方程」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "traditional_chinese": "聖維南方程",
+    "definition_cht": "指描述淺水流或明渠非恆定流動的控制方程組，通常由質量守恆與動量守恆所構成，廣泛用於河川洪水演算、渠道流、水文模式與海岸水動力分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/De-Saint_Venant_equation"
   },
   {
     "english": "Deacon wind profile parameter",
     "traditional_chinese": "迪肯風廓線參數",
-    "definition_cht": "用於表示「迪肯風廓線參數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "描述風速隨高度變化型態的穩定度參數，常以 β 表示；用於邊界層與近地面風場研究，以表徵不同熱力穩定條件下風速垂直廓線的曲率與剪切特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Deacon_wind_profile_parameter"
   },
   {
     "english": "dead glacier",
-    "traditional_chinese": "死亡冰川",
-    "definition_cht": "「死亡冰川」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "死冰川；停滯冰川",
+    "definition_cht": "指已幾乎停止流動、與主要冰川動力系統脫離的冰體，通常不再受到明顯冰流補給，並以消融、崩解或局部殘留形式逐漸退化。",
     "source_url": "https://glossary.ametsoc.org/wiki/dead_glacier"
   },
   {
     "english": "dead water",
     "traditional_chinese": "死水",
-    "definition_cht": "「死水」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指因水體垂直密度分層明顯而產生的阻航現象，常見於淡水或半鹹水覆於較高密度海水之上時；船舶航行會激發層間內波，致使阻力異常增大、速度下降。",
     "source_url": "https://glossary.ametsoc.org/wiki/dead_water"
   },
   {
     "english": "dealiasing",
-    "traditional_chinese": "去鋸齒",
-    "definition_cht": "「去鋸齒」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "速度模糊消除；退摺疊",
+    "definition_cht": "指對雷達等遙測資料中的混疊訊號進行校正還原的處理程序，常用於都卜勒速度場，以消除超出奈奎斯特速度後產生的折返跳變，恢復較連續合理的風場分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/dealiasing"
   },
   {
     "english": "Deardorff velocity",
     "traditional_chinese": "迪爾多夫速度",
-    "definition_cht": "指描述「迪爾多夫速度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "definition_cht": "又稱對流速度尺度，常記為 w*，用以表徵對流混合層中受地表感熱通量驅動的典型垂直運動強度，是邊界層與熱對流研究的重要尺度量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Deardorff_velocity"
   },
   {
     "english": "deasil",
-    "traditional_chinese": "德西爾",
-    "definition_cht": "「德西爾」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "順時針方向；向右旋",
+    "definition_cht": "指沿太陽視運動方向的旋轉，即順時針方向；在氣象與海洋描述中可用來表述渦旋、流場或環流的旋轉方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/deasil"
   },
   {
     "english": "debacle",
-    "traditional_chinese": "崩潰",
-    "definition_cht": "「崩潰」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "冰塞潰決；冰壩潰裂洪流",
+    "definition_cht": "多指河道、湖口或冰川前緣的冰體突然破裂、崩解或壅塞解除所引發的急劇洪流或碎冰暴衝現象，常造成短時強烈水位變化與洪災。",
     "source_url": "https://glossary.ametsoc.org/wiki/debacle"
   },
   {
     "english": "decay",
-    "traditional_chinese": "衰變",
-    "definition_cht": "「衰變」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "衰減；消散",
+    "definition_cht": "指天氣系統、雲體、降水區、雷達回波或其他大氣現象的強度、組織或範圍隨時間減弱的過程；在對流生命史中亦常指風暴進入減弱階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/decay"
   },
   {
