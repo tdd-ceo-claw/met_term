@@ -14654,121 +14654,121 @@
   {
     "english": "discretization",
     "traditional_chinese": "離散化",
-    "definition_cht": "「離散化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指將連續的方程、變數、時間或空間區域轉換為有限個離散點、格網、層次或步階的處理，使其可供數值模式或電腦計算使用。在數值天氣預報與氣候模式中，常見於時間積分、垂直分層與水平格點化。",
     "source_url": "https://glossary.ametsoc.org/wiki/discretization"
   },
   {
     "english": "discriminant analysis",
     "traditional_chinese": "判別分析",
-    "definition_cht": "「判別分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "一種統計分類方法，利用多個變數建立判別函數，以區分不同群組或型態，並將新個案歸入最可能的類別。在氣象與氣候研究中，可用於天氣型分類、降水型態判識及預報因子篩選。",
     "source_url": "https://glossary.ametsoc.org/wiki/discriminant_analysis"
   },
   {
     "english": "disdrometer",
-    "traditional_chinese": "距離計",
-    "definition_cht": "與「距離計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "雨滴譜儀",
+    "definition_cht": "用於量測降水粒子粒徑分布、落速及有時粒子型態的儀器。可觀測雨滴、雪、霰或冰雹等水成物特徵，常應用於微物理研究、雷達降水估計校驗及降水分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/disdrometer"
   },
   {
     "english": "dish",
-    "traditional_chinese": "盤子",
-    "definition_cht": "「盤子」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "碟形反射面",
+    "definition_cht": "指雷達、微波或衛星通訊天線的碟形反射面，通常為拋物面結構，用以集中、發射或接收電磁波。氣象領域常用來指雷達天線的反射碟盤。",
     "source_url": "https://glossary.ametsoc.org/wiki/dish"
   },
   {
     "english": "dishpan experiments",
-    "traditional_chinese": "洗碗實驗",
-    "definition_cht": "「洗碗實驗」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "轉盤水槽實驗",
+    "definition_cht": "在旋轉平台上的淺盤或環形水槽中進行的流體實驗，用以模擬地球自轉、水平溫度梯度與斜壓不穩定所產生的噴流與波動。此類實驗常用於研究中緯度環流、長波及鋒生等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/dishpan_experiments"
   },
   {
     "english": "Disjunct eddy covariance",
-    "traditional_chinese": "分離渦度協方差",
-    "definition_cht": "「分離渦度協方差」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "非連續渦動協方差法",
+    "definition_cht": "一種渦動協方差通量量測方法，在高速風速資料持續量測下，待測濃度或成分資料則以較低頻率或間歇方式取樣，再與垂直風速擾動配對估算通量。常用於反應較慢或無法連續高速量測的微量氣體觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Disjunct_eddy_covariance"
   },
   {
     "english": "disk hardness gauge",
     "traditional_chinese": "圓盤硬度計",
-    "definition_cht": "與「圓盤硬度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "definition_cht": "用於量測雪面、積雪層或其他鬆散介質抗穿透能力的儀器，通常藉由圓盤受壓或貫入時的阻力來表示硬度。可供雪況判識、雪層結構評估或野外觀測使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/disk_hardness_gauge"
   },
   {
     "english": "dispersion",
-    "traditional_chinese": "分散",
-    "definition_cht": "「分散」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "彌散／色散",
+    "definition_cht": "廣義上指物質、能量或波動在介質中隨傳輸而展開、分離或擴散的現象。在大氣擴散問題中，可指污染物或粒子因平均流與亂流而散布；在波動問題中，則指不同頻率或波數成分傳播速度不同而造成波形展寬。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersion"
   },
   {
     "english": "dispersion coefficient",
-    "traditional_chinese": "色散係數",
-    "definition_cht": "用於表示「色散係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "彌散係數",
+    "definition_cht": "描述物質在流體或多孔介質中因速度差異、紊流與分子擴散而展布的係數，常出現在平流—彌散方程中。其大小反映示蹤物或污染物在空間中被攤開的效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersion_coefficient"
   },
   {
     "english": "dispersion diagram",
     "traditional_chinese": "色散圖",
-    "definition_cht": "指呈現「色散圖」資訊的圖表、影像或紀錄資料，用於分析大氣結構、天氣系統分布及其時空變化。",
+    "definition_cht": "表示波動系統中頻率、相速度、群速度或波數彼此關係的圖形，用以判讀不同尺度擾動的傳播特性、穩定性及允許模態。常見於大氣波動、海洋波與數值色散分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersion_diagram"
   },
   {
     "english": "dispersion equation",
     "traditional_chinese": "色散方程",
-    "definition_cht": "與「色散方程」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "definition_cht": "描述波動頻率與波數、波長或介質性質之間關係的方程式。解此方程可求得波的相速度、群速度、允許模態及其穩定特性，常用於重力波、Rossby 波與海洋波研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersion_equation"
   },
   {
     "english": "dispersion relation",
     "traditional_chinese": "色散關係",
-    "definition_cht": "「色散關係」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指波動系統中頻率與波數（或波長）之間的函數關係，用以描述不同尺度波動在介質中的傳播特性。由色散關係可推得相速度、群速度及波包演變行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersion_relation"
   },
   {
     "english": "dispersion relationship",
     "traditional_chinese": "色散關係",
-    "definition_cht": "「色散關係」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "同 dispersion relation，指波動頻率與波數或波長之間的關係，用以說明介質中的色散特性、波速差異及可存在的波動模態。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersion_relationship"
   },
   {
     "english": "dispersive flux",
     "traditional_chinese": "色散通量",
-    "definition_cht": "「色散通量」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在空間上非均勻的流場或下墊面條件下，因時間平均量與空間偏差之間的協方差所形成的額外通量項。於邊界層、植被冠層及異質地表研究中，可用來補充傳統紊流通量對動量、熱量或物質輸送的描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersive_flux"
   },
   {
     "english": "dispersive medium",
     "traditional_chinese": "色散介質",
-    "definition_cht": "「色散介質」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指波速會隨頻率或波長而改變的介質，因此不同頻率成分在其中傳播時會逐漸分離，造成波形改變或波包展寬。大氣與海洋中的多種波動皆可表現出色散特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersive_medium"
   },
   {
     "english": "dispersivity",
-    "traditional_chinese": "分散性",
-    "definition_cht": "「分散性」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "彌散度",
+    "definition_cht": "表徵介質中示蹤物或污染物展布傾向的參數，常用於地下水、水文或傳輸問題；在多孔介質中，常可視為彌散係數與流速相關的特徵長度。數值愈大，表示物質沿流動方向或橫向更易被攤開。",
     "source_url": "https://glossary.ametsoc.org/wiki/dispersivity"
   },
   {
     "english": "display",
-    "traditional_chinese": "展示",
-    "definition_cht": "與「展示」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "顯示",
+    "definition_cht": "將觀測、分析、模式或遙測資料以數值、符號、圖形、影像或動畫形式呈現在螢幕或其他介面上的方式或結果。良好的顯示設計有助於天氣判讀、作業監看與預報決策。",
     "source_url": "https://glossary.ametsoc.org/wiki/display"
   },
   {
     "english": "dissipation",
     "traditional_chinese": "耗散",
-    "definition_cht": "「耗散」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指動能、波能或其他有序能量在黏滯、摩擦、亂流混合作用或不可逆過程中逐漸轉換為內能並失去可回收性的現象。在大氣與海洋中常用以描述亂流能量級聯末端的能量損失。",
     "source_url": "https://glossary.ametsoc.org/wiki/dissipation"
   },
   {
     "english": "dissipation constant",
     "traditional_chinese": "耗散常數",
-    "definition_cht": "用於表示「耗散常數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "用於表示耗散速率、耗散效率或相關閉合關係比例的常數或經驗參數。其具體意義依理論或模式而定，常見於亂流參數化、熱傳或振動衰減等方程式中。",
     "source_url": "https://glossary.ametsoc.org/wiki/dissipation_constant"
   },
   {
     "english": "dissipation length scale",
     "traditional_chinese": "耗散長度尺度",
-    "definition_cht": "用於表示「耗散長度尺度」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "表徵能量耗散主要發生尺度的特徵長度，常用於亂流理論與參數化中，以描述渦流由慣性次尺度進一步向黏滯耗散尺度轉移的空間範圍。此尺度可反映流場穩定度與混合作用特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/dissipation_length_scale"
   },
   {
