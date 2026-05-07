@@ -17048,121 +17048,121 @@
   {
     "english": "energetics method",
     "traditional_chinese": "能量分析法",
-    "definition_cht": "以能量收支、能量轉換與做功關係為核心的分析方法，用於診斷大氣、海洋或水文系統中的動力與熱力過程。",
+    "definition_cht": "以系統的位能、動能與內能等能量收支及其相互轉換為核心的診斷方法，用於分析大氣或海洋環流中的能量來源、傳輸與轉換機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/energetics_method"
   },
   {
     "english": "energy",
     "traditional_chinese": "能量",
-    "definition_cht": "「能量」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "物理系統進行作功或傳遞熱量的能力；在氣象與水文中常以動能、位能、內能、輻射能或潛熱等形式表現，並受守恆定律約束。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy"
   },
   {
     "english": "energy balance",
     "traditional_chinese": "能量平衡",
-    "definition_cht": "系統中各種能量輸入、輸出、儲存與轉換達成收支關係的狀態或方程。",
+    "definition_cht": "系統中能量輸入、輸出、儲存與轉換彼此達成收支平衡的狀態或關係；在氣候學中常指太陽短波吸收與地球—大氣系統向外放射長波之間的平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy_balance"
   },
   {
     "english": "energy cascade",
     "traditional_chinese": "能量級聯",
-    "definition_cht": "湍流中能量在不同尺度間轉移的過程，通常由大尺度輸入後向較小尺度傳遞並最終耗散。",
+    "definition_cht": "湍流中能量跨尺度傳遞的過程，通常由大尺度渦旋將能量傳向較小尺度，最後在黏滯作用下耗散為熱。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy_cascade"
   },
   {
     "english": "energy conversion",
     "traditional_chinese": "能量轉換",
-    "definition_cht": "指「能量轉換」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "一種能量形式轉變為另一種能量形式的過程；在大氣動力學中常指位能與動能、顯熱與潛熱或輻射能與熱能之間的轉換。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy_conversion"
   },
   {
     "english": "energy density spectrum",
     "traditional_chinese": "能量密度頻譜",
-    "definition_cht": "用於表示「能量密度頻譜」相關能量、強度或訊號隨頻率、波長或波數分布的頻譜。",
+    "definition_cht": "描述能量隨頻率、波數或波長分布情形的頻譜函數，用以表示波動、湍流或訊號在各尺度上的能量分配。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy_density_spectrum"
   },
   {
     "english": "energy equation",
     "traditional_chinese": "能量方程",
-    "definition_cht": "描述「能量方程」相關物理量之間關係、守恆條件或演變規律的方程。",
+    "definition_cht": "表述系統能量守恆與輸送、轉換、耗散關係的控制方程；在流體力學中常用以描述內能、動能或總能量隨時間與空間的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy_equation"
   },
   {
     "english": "energy grade line",
     "traditional_chinese": "能量線",
-    "definition_cht": "指與「能量線」相關的線狀界面、等值線、特徵線或分析線。",
+    "definition_cht": "在水力學中表示單位重流體總能頭沿流程變化的基準線，其高程等於位置水頭、壓力水頭與速度水頭之和，又稱能量坡線。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy_grade_line"
   },
   {
     "english": "energy level",
     "traditional_chinese": "能階",
-    "definition_cht": "「能階」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "量子系統中粒子所能處於的離散能量狀態；在大氣輻射與光譜學中常用來描述原子或分子吸收、放射與躍遷所對應的能量層級。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy_level"
   },
   {
     "english": "energy transfer",
     "traditional_chinese": "能量傳遞",
-    "definition_cht": "「能量傳遞」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "能量由一個系統、區域或尺度傳向另一者的過程，可透過輻射、傳導、對流、作功或湍流交換等機制進行。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy_transfer"
   },
   {
     "english": "energy-containing eddies",
     "traditional_chinese": "含能渦",
-    "definition_cht": "湍流中攜帶主要動能的大尺度渦旋，主導能量輸入與尺度間傳遞的起始部分。",
+    "definition_cht": "湍流中尺度較大、攜帶主要動能並主導能量輸入的渦旋結構，是能量級聯向較小尺度傳遞之前的主要載體。",
     "source_url": "https://glossary.ametsoc.org/wiki/energy-containing_eddies"
   },
   {
     "english": "engineering hydrology",
     "traditional_chinese": "工程水文學",
-    "definition_cht": "「工程水文學」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "將水文學原理應用於工程規劃、設計與管理的學科，內容包括降雨逕流分析、洪水估算、設計流量推求、水庫與排水系統評估等。",
     "source_url": "https://glossary.ametsoc.org/wiki/engineering_hydrology"
   },
   {
     "english": "enhanced \"v",
-    "traditional_chinese": "增強型 V 字回波",
-    "definition_cht": "「增強型 V 字回波」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "增強型 V 形回波",
+    "definition_cht": "強烈對流風暴在雷達反射率圖上呈現的明顯 V 字形或缺口狀回波型態，通常與強上升氣流、風暴頂部外流及可能的劇烈天氣有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/enhanced_%22v"
   },
   {
     "english": "Enhanced Fujita Scale",
     "traditional_chinese": "增強藤田級數",
-    "definition_cht": "根據風災破壞跡象推估龍捲風強度的分級系統，為 Fujita 級數的修正版。",
+    "definition_cht": "依建築物與植被等破壞指標及其損傷程度，反推龍捲風近地面風速並進行分級的制度，為原藤田級數的改良版。",
     "source_url": "https://glossary.ametsoc.org/wiki/Enhanced_Fujita_Scale"
   },
   {
     "english": "enhanced greenhouse effect",
     "traditional_chinese": "增強溫室效應",
-    "definition_cht": "因人為增加溫室氣體濃度，使地球長波輻射滯留能力增強並導致增暖的現象。",
+    "definition_cht": "人類活動增加大氣中溫室氣體濃度後，使地表與對流層對外逸長波輻射的攔截能力增強，進而造成額外增暖的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/enhanced_greenhouse_effect"
   },
   {
     "english": "enhanced image",
     "traditional_chinese": "增強影像",
-    "definition_cht": "「增強影像」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "經對比拉伸、亮度重分配、色階轉換或其他數位處理後，使特定地物、雲系或訊號特徵更易辨識的影像。",
     "source_url": "https://glossary.ametsoc.org/wiki/enhanced_image"
   },
   {
     "english": "enhancement curve",
     "traditional_chinese": "增強曲線",
-    "definition_cht": "「增強曲線」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "影像處理中用來規定輸入灰階值與輸出顯示亮度或色階對應關係的轉換曲線，用以強化特定亮溫、反射率或細部特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/enhancement_curve"
   },
   {
     "english": "ENP",
-    "traditional_chinese": "增強雜訊功率",
-    "definition_cht": "「ENP」為相關領域常用的縮寫、代號或頻段名稱，通常指涉特定觀測系統、模式產品、物理量、儀器或科學概念；實際涵義須依專業語境判定。",
+    "traditional_chinese": "等效雜訊功率",
+    "definition_cht": "Equivalent Noise Power 的縮寫，指使偵測器輸出訊號恰與本底雜訊相當時所對應的入射功率，用以衡量儀器靈敏度；數值愈小代表可偵測的最弱訊號愈低。",
     "source_url": "https://glossary.ametsoc.org/wiki/ENP"
   },
   {
     "english": "ensemble average",
     "traditional_chinese": "集合平均",
-    "definition_cht": "「集合平均」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "對同一系統在多個獨立樣本、成員或可能狀態下的量值取平均所得之統計量；在集合預報中常指對各成員預報結果求得的平均場。",
     "source_url": "https://glossary.ametsoc.org/wiki/ensemble_average"
   },
   {
     "english": "ensemble forecast",
     "traditional_chinese": "集合預報",
-    "definition_cht": "以多組初始條件或模式設定進行平行預報的方法，用以評估預測不確定性與可能演變範圍。",
+    "definition_cht": "以多組略有差異的初始條件、模式物理參數或邊界設定進行平行預報的方法，用以估計未來天氣演變的不確定性與可能分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/ensemble_forecast"
   },
   {
