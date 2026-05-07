@@ -721,122 +721,122 @@
   },
   {
     "english": "depegram",
-    "traditional_chinese": "德佩格拉姆",
-    "definition_cht": "「德佩格拉姆」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "德佩圖",
+    "definition_cht": "罕用或歷史性氣象術語。依現存詞形判斷，多半指某種氣象圖解、診斷圖或相關繪圖表示法；因近代常用參考資料對此詞著錄極少，現階段保留音譯並以圖解類術語處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/depegram"
   },
   {
     "english": "dependent meteorological office",
-    "traditional_chinese": "附屬氣象局",
-    "definition_cht": "指與「附屬氣象局」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "附屬氣象機構",
+    "definition_cht": "在行政、業務或技術上隸屬於上級中央或區域氣象機關之單位，通常負責地方觀測、資料彙報、預報支援或特定專業業務，並依主管機關之制度運作。",
     "source_url": "https://glossary.ametsoc.org/wiki/dependent_meteorological_office"
   },
   {
     "english": "dependent variable",
     "traditional_chinese": "因變數",
-    "definition_cht": "「因變數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在實驗設計、統計分析或數值模擬中，其數值隨自變數或控制條件改變而變動的變數，常作為被解釋、預測或評估之結果量。氣象與水文研究常以其表示降水量、流量、溫度或濃度等響應。",
     "source_url": "https://glossary.ametsoc.org/wiki/dependent_variable"
   },
   {
     "english": "depéq",
     "traditional_chinese": "德佩克",
-    "definition_cht": "「德佩克」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "罕用或歷史性術語，現行常見氣象與百科資料中著錄極少。由詞形推測可能為法語來源之縮略語、電報語或專名，現階段保留音譯，作為待後續比對原始詞彙來源的暫定條目。",
     "source_url": "https://glossary.ametsoc.org/wiki/dep%C3%A9q"
   },
   {
     "english": "depergelation",
-    "traditional_chinese": "解凝結",
-    "definition_cht": "「解凝結」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "解凍",
+    "definition_cht": "指凍土、積雪、冰層或其他凍結介質因溫度升高而由凍結狀態轉為融解或鬆解狀態的過程。凍土學、雪冰學與寒區水文常用以描述春融或季節性融化。",
     "source_url": "https://glossary.ametsoc.org/wiki/depergelation"
   },
   {
     "english": "depletion curve",
-    "traditional_chinese": "耗盡曲線",
-    "definition_cht": "「耗盡曲線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "消退曲線",
+    "definition_cht": "水文學中指河川流量歷線上，逕流在洪峰後因可供出流之蓄水逐步減少而呈下降的那一段曲線；常用於分析退水過程、基流特性及流域蓄水消耗情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/depletion_curve"
   },
   {
     "english": "depolarization",
-    "traditional_chinese": "去極化",
-    "definition_cht": "「去極化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "退偏振",
+    "definition_cht": "指電磁波在散射、反射、傳播或穿越介質後，原有偏振狀態被改變、減弱或混合的現象。於偏振雷達與光達中，可用以判識粒子形狀、相態及取向分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/depolarization"
   },
   {
     "english": "depolarization ratio",
-    "traditional_chinese": "退偏比",
-    "definition_cht": "用於表示「退偏比」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "退偏振比",
+    "definition_cht": "描述散射或回波訊號退偏振程度的比值，通常以交叉偏振分量與同偏振分量之功率或強度比表示。偏振雷達與光達常據此區分冰晶、塵埃、雲滴或非球形粒子。",
     "source_url": "https://glossary.ametsoc.org/wiki/depolarization_ratio"
   },
   {
     "english": "deposit gauge",
-    "traditional_chinese": "存款表",
-    "definition_cht": "與「存款表」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "沉降量計",
+    "definition_cht": "用以量測大氣中塵埃、鹽粒、污染物或其他顆粒／物質沉降至收集面之累積量的儀器。可用於環境監測、空氣品質、乾沉降或大氣沉積研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/deposit_gauge"
   },
   {
     "english": "deposition",
-    "traditional_chinese": "沉積",
-    "definition_cht": "「沉積」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "凝華",
+    "definition_cht": "水氣或其他氣態物質不經液態而直接轉變為固態的相變過程。於雲物理與雪冰學中，常指水氣直接沉積到冰晶表面，使冰晶成長；亦可稱氣相沉積。",
     "source_url": "https://glossary.ametsoc.org/wiki/deposition"
   },
   {
     "english": "deposition nucleus",
-    "traditional_chinese": "沉積核",
-    "definition_cht": "「沉積核」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "凝華核",
+    "definition_cht": "能促使過冷水氣直接沉積形成冰晶的微小粒子，屬冰核的一種。雲物理中常用以說明冰相雲內冰晶初生與成長所需的成核條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/deposition_nucleus"
   },
   {
     "english": "deposition velocity",
-    "traditional_chinese": "沉積速度",
-    "definition_cht": "指描述「沉積速度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "沉降速度",
+    "definition_cht": "表示氣體、氣膠或其他污染物由大氣移除並沉積至地表、水面或植被表面的有效傳輸速率，通常定義為沉積通量除以參考高度濃度。常用於乾沉降與大氣化學模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/deposition_velocity"
   },
   {
     "english": "depression",
-    "traditional_chinese": "沮喪",
-    "definition_cht": "指與「沮喪」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
+    "traditional_chinese": "低壓",
+    "definition_cht": "大氣中氣壓相對周圍較低的區域，常伴隨輻合、雲量增多與降水天氣；在熱帶氣旋分級中，亦可專指風速尚未達熱帶風暴標準的熱帶低壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/depression"
   },
   {
     "english": "depression angle",
     "traditional_chinese": "俯角",
-    "definition_cht": "指與「俯角」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
+    "definition_cht": "由觀測者的水平視線向下量至目標方向所形成的角度。於天文、雷達、遙測與地形量測中，常用以表示目標位於觀測點下方的視線幾何關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/depression_angle"
   },
   {
     "english": "depression storage",
-    "traditional_chinese": "憂鬱症儲存",
-    "definition_cht": "指與「憂鬱症儲存」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
+    "traditional_chinese": "窪地蓄水量",
+    "definition_cht": "地表天然凹窪、微地形低處或小窪地中暫時蓄留之水量，如積水坑或地表洼處所存之水。此部分水量在初期不立即形成地表逕流，對入滲與逕流估算具有影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/depression_storage"
   },
   {
     "english": "depth hoar",
-    "traditional_chinese": "深灰白",
-    "definition_cht": "指描述「深灰白」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "深層霜晶",
+    "definition_cht": "積雪層下部在強烈溫度梯度作用下再結晶而成的粗大、鬆散且具稜角的雪晶。其結構脆弱、結合力差，常成為雪崩或雪層不穩定的重要弱層。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth_hoar"
   },
   {
     "english": "depth marker",
     "traditional_chinese": "深度標記",
-    "definition_cht": "指描述「深度標記」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "definition_cht": "設於測繩、探測設備、鑽探器材或測深裝置上的刻度、記號或標識，用以指示量測深度、插入深度或取樣位置，便於野外觀測與作業判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth_marker"
   },
   {
     "english": "depth of compensation",
     "traditional_chinese": "補償深度",
-    "definition_cht": "指描述「補償深度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "definition_cht": "水體中光合作用產生的有機物或氧量恰與呼吸及分解消耗量相平衡的深度。此深度以上通常為淨生產區，以下則光照不足，淨生產趨近零或轉為負值。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth_of_compensation"
   },
   {
     "english": "depth of frictional influence",
     "traditional_chinese": "摩擦影響深度",
-    "definition_cht": "指描述「摩擦影響深度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "definition_cht": "流體中受邊界摩擦顯著影響的垂直厚度或深度範圍。於海洋與大氣邊界層研究中，常指近地表或近海面流動因摩擦而偏離理想地轉平衡的層厚。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth_of_frictional_influence"
   },
   {
     "english": "depth of runoff",
-    "traditional_chinese": "徑流深度",
-    "definition_cht": "指描述「徑流深度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "徑流深",
+    "definition_cht": "將某流域於一定期間內的總徑流量平均分布於整個流域面積後所折算之水深。常用以便於與降水量比較，並評估流域產流效率與水文收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth_of_runoff"
   },
   {
