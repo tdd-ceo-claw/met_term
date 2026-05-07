@@ -13814,121 +13814,121 @@
   {
     "english": "depth of snow",
     "traditional_chinese": "雪深",
-    "definition_cht": "指與「雪深」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "積雪層頂面至其下方水平地面的垂直距離；若積雪分布不均，通常以多點量測後的平均值表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth_of_snow"
   },
   {
     "english": "depth-first search",
     "traditional_chinese": "深度優先搜尋",
-    "definition_cht": "指描述「深度優先搜尋」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "definition_cht": "一種搜尋樹狀或圖狀結構的演算法，會先沿目前路徑盡可能向深處延伸，再回溯至前一分支點繼續搜尋。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth-first_search"
   },
   {
     "english": "depth-integration sediment sampling",
-    "traditional_chinese": "深度積分沉積物採樣",
-    "definition_cht": "用於表示「深度積分沉積物採樣」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "深度積分輸砂採樣",
+    "definition_cht": "在河川測站沿垂線以近似固定升降速率連續取樣，使所採集之水砂混合樣本近似代表該垂線的流量加權含砂狀況；近床未量測帶通常不包含在內。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth-integration_sediment_sampling"
   },
   {
     "english": "depth–area curve",
-    "traditional_chinese": "深度-面積曲線",
-    "definition_cht": "指描述「深度-面積曲線」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "深度－面積曲線",
+    "definition_cht": "表示某一特定降雨事件、特定時間間隔內，平均面雨量深度與其涵蓋面積之間關係的曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth%E2%80%93area_curve"
   },
   {
     "english": "depth–area–duration analysis",
-    "traditional_chinese": "深度-面積-持續時間分析",
-    "definition_cht": "用於表示「深度-面積-持續時間分析」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "深度－面積－延時分析",
+    "definition_cht": "將不同降雨延時的深度－面積關係綜合分析，以建立降雨深度、涵蓋面積與持續時間三者之間的關係，常用於暴雨與洪水潛勢評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth%E2%80%93area%E2%80%93duration_analysis"
   },
   {
     "english": "depth–area–duration curves",
-    "traditional_chinese": "深度-面積-持續時間曲線",
-    "definition_cht": "用於表示「深度-面積-持續時間曲線」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "深度－面積－延時曲線",
+    "definition_cht": "不同降雨延時條件下的一組深度－面積曲線，用以描述降雨深度隨涵蓋面積與持續時間變化的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth%E2%80%93area%E2%80%93duration_curves"
   },
   {
     "english": "depth–duration curve",
-    "traditional_chinese": "深度-持續時間曲線",
-    "definition_cht": "用於表示「深度-持續時間曲線」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "深度－延時曲線",
+    "definition_cht": "表示特定降雨事件中，平均面雨量深度與時間間隔（持續時間）之間關係的曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth%E2%80%93duration_curve"
   },
   {
     "english": "depth–duration–area value",
-    "traditional_chinese": "深度-持續時間-面積值",
-    "definition_cht": "用於表示「深度-持續時間-面積值」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "深度－延時－面積值",
+    "definition_cht": "在指定面積與指定時間間隔內所發生的平均降水深度，常取某場暴雨或研究時段內對各選定面積與延時而言的最大平均值。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth%E2%80%93duration%E2%80%93area_value"
   },
   {
     "english": "depth–duration–frequency curve",
-    "traditional_chinese": "深度-持續時間-頻率曲線",
-    "definition_cht": "用於表示「深度-持續時間-頻率曲線」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "深度－延時－頻率曲線",
+    "definition_cht": "表示特定重現期或發生頻率條件下，降雨深度與持續時間關係的曲線，常用於水工設計與降雨頻率分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth%E2%80%93duration%E2%80%93frequency_curve"
   },
   {
     "english": "depth–velocity integration method",
-    "traditional_chinese": "深度-速度積分法",
-    "definition_cht": "用於表示「深度-速度積分法」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "深度－流速積分法",
+    "definition_cht": "一種河川流量測定方法，沿斷面各垂線量得深度－流速分布後加以積分，以估算整個過水斷面的流量。",
     "source_url": "https://glossary.ametsoc.org/wiki/depth%E2%80%93velocity_integration_method"
   },
   {
     "english": "Derecho",
     "traditional_chinese": "德雷喬",
-    "definition_cht": "「德雷喬」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "由中尺度對流系統產生、範圍廣且持續時間長的破壞性直線強風事件，常伴隨弓形回波、後側入流急流與群聚下擊暴流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Derecho"
   },
   {
     "english": "DERF",
-    "traditional_chinese": "德爾福",
-    "definition_cht": "「德爾福」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "動力延伸期預報",
+    "definition_cht": "dynamical extended range forecasting 的縮寫，指以動力數值模式進行較長時效的延伸期天氣或氣候預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/DERF"
   },
   {
     "english": "derived gust velocity",
-    "traditional_chinese": "導出的陣風速度",
-    "definition_cht": "指與「導出的陣風速度」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "導出陣風速度",
+    "definition_cht": "對特定飛機而言，在指定空氣密度與設計巡航速度下，能產生某一既定加速度之銳邊陣風的最大等效速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/derived_gust_velocity"
   },
   {
     "english": "Descartes ray",
     "traditional_chinese": "笛卡兒射線",
-    "definition_cht": "「笛卡兒射線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在彩虹幾何光學中，指進入雨滴後經折射、一次或多次內反射，再射出時具有最小偏向角的那條光線；其附近會形成較強的虹光集中。",
     "source_url": "https://glossary.ametsoc.org/wiki/Descartes_ray"
   },
   {
     "english": "descendent",
-    "traditional_chinese": "後裔",
-    "definition_cht": "「後裔」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "下降點",
+    "definition_cht": "天球上位於西方地平線、與上升點相對的交點；在天文或占星座標中用以表示天體或黃道與地平線的下降側位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/descendent"
   },
   {
     "english": "descending node",
     "traditional_chinese": "降交點",
-    "definition_cht": "「降交點」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "軌道物體由北向南穿越基準平面（在衛星氣象中常指穿越赤道面）時的交點；對極軌衛星而言，即南向越赤道的位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/descending_node"
   },
   {
     "english": "descriptive meteorology",
-    "traditional_chinese": "描述性氣象學",
-    "definition_cht": "指「描述性氣象學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。",
+    "traditional_chinese": "描述氣象學",
+    "definition_cht": "氣象學的一個分支，著重於描述大氣整體及各類天氣現象的特徵與分布，而不深入探討其理論機制；亦稱 aerography。",
     "source_url": "https://glossary.ametsoc.org/wiki/descriptive_meteorology"
   },
   {
     "english": "desert",
     "traditional_chinese": "沙漠",
-    "definition_cht": "「沙漠」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "降水極少、乾燥度極高，以致僅能支持稀疏耐旱植被或幾乎無植被的地區；可依成因分為熱沙漠、冷沙漠等類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/desert"
   },
   {
     "english": "desert climate",
     "traditional_chinese": "沙漠氣候",
-    "definition_cht": "「沙漠氣候」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "又稱乾旱氣候，指降水遠低於蒸發需求、濕潤度不足以維持顯著植被生長的氣候型。",
     "source_url": "https://glossary.ametsoc.org/wiki/desert_climate"
   },
   {
     "english": "desert wind",
     "traditional_chinese": "沙漠風",
-    "definition_cht": "指與「沙漠風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "自沙漠地區吹出的乾熱氣流或風，通常濕度低、含塵量高，並常挾帶沙塵影響能見度與體感環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/desert_wind"
   },
   {
