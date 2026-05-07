@@ -16688,121 +16688,121 @@
   {
     "english": "electrojets",
     "traditional_chinese": "電噴流",
-    "definition_cht": "電離層中沿特定方向集中流動的狹窄強電流帶，常見於赤道或極區上空，會影響地磁擾動與無線電傳播。",
+    "definition_cht": "指地球電離層 E 層中沿狹窄帶狀區域集中流動的強電流系統，主要包括赤道電噴流與極區電噴流；其變化會影響地磁擾動、電離層電場與無線電傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrojets"
   },
   {
     "english": "electromagnetic acoustic probe",
     "traditional_chinese": "電磁聲探針",
-    "definition_cht": "「電磁聲探針」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "利用電磁作用激發並接收聲波或超音波的非接觸式探測裝置，常用於導電材料內部結構、缺陷或厚度量測；其原理與電磁聲換能器相近。",
     "source_url": "https://glossary.ametsoc.org/wiki/electromagnetic_acoustic_probe"
   },
   {
     "english": "electromagnetic energy",
     "traditional_chinese": "電磁能",
-    "definition_cht": "「電磁能」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由電場與磁場所儲存或傳輸的能量，可存在於電磁波輻射中，亦可表現為場中的位能與動能分布；在遙測與輻射學中常指電磁輻射所攜帶的能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/electromagnetic_energy"
   },
   {
     "english": "electromagnetic field",
     "traditional_chinese": "電磁場",
-    "definition_cht": "「電磁場」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由電荷、電流及其時間變化所形成的物理場，包含彼此耦合的電場與磁場，能對帶電粒子施力並以電磁波形式在空間中傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/electromagnetic_field"
   },
   {
     "english": "electromagnetic radiation",
     "traditional_chinese": "電磁輻射",
-    "definition_cht": "由電場與磁場耦合振盪所形成並可傳播的能量形式，涵蓋無線電波、可見光、紅外線等各波段。",
+    "definition_cht": "由交變電場與磁場耦合形成、可在空間中傳播的能量輻射，涵蓋無線電波、微波、紅外線、可見光、紫外線、X 射線與伽瑪射線等波段。",
     "source_url": "https://glossary.ametsoc.org/wiki/electromagnetic_radiation"
   },
   {
     "english": "electromagnetic spectrum",
     "traditional_chinese": "電磁頻譜",
-    "definition_cht": "依波長或頻率排列之全部電磁輻射範圍，是遙測、輻射傳輸與通訊分析的重要基礎。",
+    "definition_cht": "依頻率、波長或光子能量排列的全部電磁輻射範圍，從無線電波至伽瑪射線皆包含在內，是遙測、輻射傳輸與通訊分析的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/electromagnetic_spectrum"
   },
   {
     "english": "electromagnetic theory",
     "traditional_chinese": "電磁理論",
-    "definition_cht": "「電磁理論」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "研究電荷、電流以及其所產生之電場、磁場與電磁波的理論體系，核心內容通常以馬克士威方程組描述，為遙測、雷達與輻射傳輸等應用的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/electromagnetic_theory"
   },
   {
     "english": "electromagnetic wave",
     "traditional_chinese": "電磁波",
-    "definition_cht": "指與「電磁波」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "definition_cht": "由彼此垂直且隨時間與空間變化的電場、磁場耦合而成之波動，可在真空或介質中傳播並攜帶能量與動量；光、無線電波與微波皆屬之。",
     "source_url": "https://glossary.ametsoc.org/wiki/electromagnetic_wave"
   },
   {
     "english": "electrometeor",
     "traditional_chinese": "電象",
-    "definition_cht": "與大氣電現象有關的可觀測現象，包括閃電、極光、聖艾爾摩火等。",
+    "definition_cht": "與大氣電活動有關的可見或可測現象總稱，例如閃電、雷鳴、聖艾爾摩火與極光等，屬氣象觀測中電學現象的一類。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrometeor"
   },
   {
     "english": "electrometer",
     "traditional_chinese": "靜電計",
-    "definition_cht": "為量測「靜電計」相關物理量所設計的儀器或裝置。",
+    "definition_cht": "用於量測微弱電荷量、電位差或電場強度的高靈敏電學儀器，在大氣電學中常用於偵測空氣電位梯度與帶電狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrometer"
   },
   {
     "english": "electron",
     "traditional_chinese": "電子",
-    "definition_cht": "「電子」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "帶有一個負基本電荷的基本粒子，為原子與電漿的重要組成成分；在電離層、大氣電學與輻射過程中，電子的運動與碰撞行為會影響導電、放電與輻射吸收。",
     "source_url": "https://glossary.ametsoc.org/wiki/electron"
   },
   {
     "english": "electron avalanche",
-    "traditional_chinese": "電子崩潰",
-    "definition_cht": "在強電場中，自由電子連鎖碰撞電離而快速倍增的過程，為氣體放電與閃電起始的重要機制。",
+    "traditional_chinese": "電子雪崩",
+    "definition_cht": "自由電子在強電場中受加速後，藉由連續碰撞使氣體分子電離並產生更多電子的倍增過程，是氣體放電、湯生放電與閃電起始的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/electron_avalanche"
   },
   {
     "english": "electron beam",
     "traditional_chinese": "電子束",
-    "definition_cht": "「電子束」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由大量電子在真空或低壓環境中定向加速形成的窄束粒子流，可受電場與磁場控制，常用於顯微、焊接、成像與材料加工。",
     "source_url": "https://glossary.ametsoc.org/wiki/electron_beam"
   },
   {
     "english": "electron capture detection",
-    "traditional_chinese": "電子捕獲偵測",
-    "definition_cht": "指「電子捕獲偵測」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "traditional_chinese": "電子捕獲偵測法",
+    "definition_cht": "氣相層析中的高靈敏偵測方法，利用樣品分子捕獲自由電子後造成電流變化來進行檢測；其實作通常依賴電子捕獲偵測器，特別適合量測含鹵素等具高電子親和力的痕量化合物。",
     "source_url": "https://glossary.ametsoc.org/wiki/electron_capture_detection"
   },
   {
     "english": "electron density",
     "traditional_chinese": "電子密度",
-    "definition_cht": "單位體積中自由電子的數量，是描述電離層與電漿狀態的重要參數。",
+    "definition_cht": "單位體積內自由電子的數量，為描述電離層、電漿或帶電氣體狀態的重要參數，常用以評估電波傳播條件與電離程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/electron_density"
   },
   {
     "english": "electron precipitation",
     "traditional_chinese": "電子沉降",
-    "definition_cht": "指與「電子沉降」相關的降水量、降水過程或降水統計特徵。",
+    "definition_cht": "原先受地磁場束縛的高能電子沿磁力線進入高層大氣的現象，會造成電離、加熱、化學反應與通訊擾動，亦與極光形成密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/electron_precipitation"
   },
   {
     "english": "electron volt",
     "traditional_chinese": "電子伏特",
-    "definition_cht": "「電子伏特」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "能量單位，指一個電子通過 1 伏特電位差時所獲得的能量，約等於 1.602 × 10⁻¹⁹ 焦耳；常用於原子、輻射與粒子物理。",
     "source_url": "https://glossary.ametsoc.org/wiki/electron_volt"
   },
   {
     "english": "electronic excitation",
     "traditional_chinese": "電子激發",
-    "definition_cht": "指「電子激發」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "原子、分子或固體中的電子吸收能量後，由較低能階躍遷至較高能階的過程；其後續退激發常伴隨光輻射、碰撞能量轉換或化學反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/electronic_excitation"
   },
   {
     "english": "electronic theodolite",
     "traditional_chinese": "電子經緯儀",
-    "definition_cht": "「電子經緯儀」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "以電子感測與數位讀值方式量測水平角與垂直角的經緯儀，較傳統光學讀盤式儀器更便於快速讀取、記錄與資料處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/electronic_theodolite"
   },
   {
     "english": "electronic thermometer",
     "traditional_chinese": "電子溫度計",
-    "definition_cht": "為量測「電子溫度計」相關物理量所設計的儀器或裝置。",
+    "definition_cht": "利用熱敏電阻、熱電偶或其他電子感測元件將溫度轉換為電訊號的測溫儀器，具反應快、易讀值與可數位輸出的特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/electronic_thermometer"
   },
   {
