@@ -10970,121 +10970,121 @@
   {
     "english": "conduction",
     "traditional_chinese": "傳導",
-    "definition_cht": "指「傳導」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "熱能沿物質內部，或在彼此接觸的物體之間，由高溫處向低溫處傳遞的過程；其特徵是不伴隨流體的整體位移。",
     "source_url": "https://glossary.ametsoc.org/wiki/conduction"
   },
   {
     "english": "conduction current",
     "traditional_chinese": "傳導電流",
-    "definition_cht": "海流或洋流系統，指具有相對穩定流向與水文特徵的海水流動，對熱量、鹽度與物質輸送具有重要作用。",
+    "definition_cht": "由自由電荷在導體或介質中受電場作用而定向移動所形成的電流；在大氣電學中亦可指由空氣有限導電度所維持的空氣－地面微弱電流。",
     "source_url": "https://glossary.ametsoc.org/wiki/conduction_current"
   },
   {
     "english": "conductivity",
     "traditional_chinese": "電導率",
-    "definition_cht": "指「電導率」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "表示物質或流體傳導電流能力的物理量，通常為電阻率的倒數；在海洋觀測中常配合溫度與壓力推算海水鹽度。",
     "source_url": "https://glossary.ametsoc.org/wiki/conductivity"
   },
   {
     "english": "conductivity–temperature–depth profiler",
-    "traditional_chinese": "電導率-溫度-深度剖面儀",
-    "definition_cht": "指「電導率-溫度-深度剖面儀」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "電導率－溫度－深度剖面儀",
+    "definition_cht": "簡稱 CTD，為海洋觀測儀器，用以量測海水的電導率、溫度與壓力（或深度），並據以推算鹽度及分析水體垂直結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/conductivity%E2%80%93temperature%E2%80%93depth_profiler"
   },
   {
     "english": "cone of depression",
-    "traditional_chinese": "憂鬱錐體",
-    "definition_cht": "指「憂鬱錐體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "降深漏斗",
+    "definition_cht": "地下水井抽水後，井周圍地下水位或壓力水頭向下降低而形成的漏斗狀區域；在承壓含水層中主要表現為壓力水頭下降。",
     "source_url": "https://glossary.ametsoc.org/wiki/cone_of_depression"
   },
   {
     "english": "cone of escape",
-    "traditional_chinese": "逃生錐",
-    "definition_cht": "指「逃生錐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "逸出錐",
+    "definition_cht": "在幾何光學中，指位於光學較密介質內某點所發出的光線中，入射到介面且入射角小於臨界角、因而能折射逸出至較疏介質的圓錐狀方向範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/cone_of_escape"
   },
   {
     "english": "cone of impression",
-    "traditional_chinese": "印象錐",
-    "definition_cht": "指「印象錐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "入射錐",
+    "definition_cht": "在幾何光學中，指由外部物點射向介面或光學系統、並能進入介質形成成像作用的光線所構成之圓錐狀方向範圍；可視為逸出錐的對應概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/cone_of_impression"
   },
   {
     "english": "cone of visibility",
-    "traditional_chinese": "能見度錐體",
-    "definition_cht": "指「能見度錐體」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "可見錐",
+    "definition_cht": "由限制視線或光線邊界所圍成、使物體或目標仍能被觀測到的圓錐狀空間範圍；可用以表示觀測器或視覺系統的可見體積。",
     "source_url": "https://glossary.ametsoc.org/wiki/cone_of_visibility"
   },
   {
     "english": "cone of vision",
-    "traditional_chinese": "視錐",
-    "definition_cht": "指「視錐」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "視野錐",
+    "definition_cht": "以觀測者眼睛或感測器為頂點、由視野邊界所形成的圓錐狀空間範圍，表示在特定方向與角度內可被看見或接收的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/cone_of_vision"
   },
   {
     "english": "confidence interval",
     "traditional_chinese": "信賴區間",
-    "definition_cht": "指「信賴區間」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "依樣本資料估計母體參數時所給出的區間估計，並附有特定信賴水準；在重複抽樣意義下，該方法所構成的區間有既定比例會包含真實參數值。",
     "source_url": "https://glossary.ametsoc.org/wiki/confidence_interval"
   },
   {
     "english": "confined aquifer",
     "traditional_chinese": "承壓含水層",
-    "definition_cht": "指「承壓含水層」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "上下受相對不透水層或低滲透層所夾持的含水層，地下水處於高於大氣壓的承壓狀態，鑿井後水位可上升至含水層頂面以上。",
     "source_url": "https://glossary.ametsoc.org/wiki/confined_aquifer"
   },
   {
     "english": "confined groundwater",
     "traditional_chinese": "承壓地下水",
-    "definition_cht": "指海洋、水文或水團相關概念，可描述水體性質、來源、分布與循環特徵。",
+    "definition_cht": "賦存於承壓含水層中的地下水，因受上覆隔水或弱透水層限制而具有壓力水頭；開井後水位常上升，甚至可能自流出地表。",
     "source_url": "https://glossary.ametsoc.org/wiki/confined_groundwater"
   },
   {
     "english": "confluence",
-    "traditional_chinese": "合流",
-    "definition_cht": "指「合流」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "匯流",
+    "definition_cht": "在氣象學中指流線或氣流在水平面上彼此靠攏、間距縮小的現象；其表示流場幾何上的聚集，未必等同於質量上的輻合。",
     "source_url": "https://glossary.ametsoc.org/wiki/confluence"
   },
   {
     "english": "conformal map",
-    "traditional_chinese": "等角映射",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "等角地圖",
+    "definition_cht": "由等角投影製成、能在局部保持交角不變的地圖；因此小範圍形狀較接近實況，但面積通常無法同時保持正確。",
     "source_url": "https://glossary.ametsoc.org/wiki/conformal_map"
   },
   {
     "english": "congelifraction",
-    "traditional_chinese": "凝固性骨折",
-    "definition_cht": "指「凝固性骨折」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凍裂作用",
+    "definition_cht": "岩石或土體中的水分反覆凍結與融解時，因體積膨脹及應力作用而使其破裂、崩解的機械風化過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/congelifraction"
   },
   {
     "english": "congeliturbation",
-    "traditional_chinese": "昏迷不醒",
-    "definition_cht": "指「昏迷不醒」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "凍融攪動",
+    "definition_cht": "寒冷地區土壤受反覆凍結與融解影響，造成不同土層物質上下翻動、混合與變形的現象，亦屬凍擾作用的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/congeliturbation"
   },
   {
     "english": "congestus",
-    "traditional_chinese": "充血",
-    "definition_cht": "指「充血」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "濃積雲",
+    "definition_cht": "雲體垂直發展旺盛的積雲種類，又稱塔狀積雲，常為由一般積雲發展至積雨雲前的階段，可能伴隨陣雨或冰雹前兆。",
     "source_url": "https://glossary.ametsoc.org/wiki/congestus"
   },
   {
     "english": "conical beam",
-    "traditional_chinese": "錐形梁",
-    "definition_cht": "指「錐形梁」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "錐形波束",
+    "definition_cht": "能量沿天線、雷達或其他感測器主軸周圍呈圓錐狀分布的波束形態，用以描述其空間照射或接收範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/conical_beam"
   },
   {
     "english": "conical scanning",
     "traditional_chinese": "錐形掃描",
-    "definition_cht": "指「錐形掃描」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "使感測器波束繞參考軸旋轉、在空間中掃出圓錐面的一種掃描方式，常用於雷達與衛星遙測，以連續量測目標周圍或地表訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/conical_scanning"
   },
   {
     "english": "coning",
-    "traditional_chinese": "錐進",
-    "definition_cht": "指「錐進」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "圓錐狀煙羽擴散",
+    "definition_cht": "在近中性大氣穩定條件下，煙流因垂直與水平湍流擾動強度相近而向四周擴散，形成近似圓錐形外觀的煙羽型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/coning"
   },
   {
