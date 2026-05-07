@@ -16327,122 +16327,122 @@
   },
   {
     "english": "eddy continuum",
-    "traditional_chinese": "渦動連續譜",
-    "definition_cht": "「渦動連續譜」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "渦動連續體",
+    "definition_cht": "湍流理論中的假設，將流場內各尺度渦旋視為連續分布並以其取代分子作為統計描述單位，藉以把連續介質概念延伸到湍流運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_continuum"
   },
   {
     "english": "eddy correlation",
     "traditional_chinese": "渦動相關法",
-    "definition_cht": "指「渦動相關法」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "利用垂直速度擾動與溫度、濕度或氣體濃度擾動之相關或協方差，估算大氣邊界層湍流垂直通量的微氣象方法；亦常作為 eddy covariance 的同義用法。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_correlation"
   },
   {
     "english": "eddy covariance",
     "traditional_chinese": "渦動協方差法",
-    "definition_cht": "以高頻風速與濃度或溫濕度擾動協方差估算通量的方法，常用於量測地表與大氣間之動量、熱量及水氣交換。",
+    "definition_cht": "以高頻觀測的垂直風速與標量量（如溫度、水氣、二氧化碳或甲烷）瞬時擾動乘積取平均，直接估算地表與大氣間動量、顯熱、潛熱及氣體交換通量的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_covariance"
   },
   {
     "english": "eddy diffusion",
     "traditional_chinese": "渦動擴散",
-    "definition_cht": "指「渦動擴散」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "由湍流渦旋運動造成的混合與輸送作用，可使動量、熱量、水氣或其他物質在流體中擴散；亦稱湍流擴散。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_diffusion"
   },
   {
     "english": "eddy diffusivity",
     "traditional_chinese": "渦動擴散係數",
-    "definition_cht": "表示「渦動擴散係數」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "definition_cht": "描述湍流渦旋對保守性質進行擴散效率的交換係數，用以參數化動量、熱量、水氣或示蹤物之湍流輸送；亦稱湍流擴散係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_diffusivity"
   },
   {
     "english": "eddy flux",
     "traditional_chinese": "渦動通量",
-    "definition_cht": "表示「渦動通量」相關物理量穿越單位面積或邊界的輸送通量，常用於能量、動量、水氣或示蹤物收支分析。",
+    "definition_cht": "由湍流擾動所造成的輸送通量，通常以速度擾動與某物理量擾動的平均乘積表示，用於描述熱量、水氣、動量或其他標量的湍流交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_flux"
   },
   {
     "english": "eddy shearing stress",
     "traditional_chinese": "渦動剪應力",
-    "definition_cht": "「渦動剪應力」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由湍流渦旋在相鄰流層間交換動量所產生的剪應力，作用上類似層流中的黏滯剪應力，但尺度與強度主要受渦旋運動控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_shearing_stress"
   },
   {
     "english": "eddy velocity",
     "traditional_chinese": "渦動速度",
-    "definition_cht": "指與「渦動速度」相關的速度量，描述流體、波動或界面移動的快慢與方向。",
+    "definition_cht": "流場某點的瞬時速度相對於同一時間平均速度之偏差量，即速度擾動；其平均值在定義該平均的時間區間內為零。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_velocity"
   },
   {
     "english": "eddy viscosity",
     "traditional_chinese": "渦動黏滯係數",
-    "definition_cht": "表示「渦動黏滯係數」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "definition_cht": "用以表徵湍流渦旋交換動量效果的等效黏滯係數，概念上類似分子黏滯，但代表的是渦旋混合作用而非分子碰撞。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_viscosity"
   },
   {
     "english": "eddy-stress tensor",
     "traditional_chinese": "渦動應力張量",
-    "definition_cht": "「渦動應力張量」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由速度擾動相關項所構成、用來表示湍流所致附加應力的張量，實質上對應於雷諾應力張量，用以描述各方向的渦動動量通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy-stress_tensor"
   },
   {
     "english": "edge wave",
-    "traditional_chinese": "邊緣波",
-    "definition_cht": "指與「邊緣波」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "traditional_chinese": "邊界波",
+    "definition_cht": "沿剛性邊界或海岸線傳播、其振幅集中於邊界附近並向外側迅速衰減的波動型態；近岸海洋中常指受海岸地形束縛的沿岸波。",
     "source_url": "https://glossary.ametsoc.org/wiki/edge_wave"
   },
   {
     "english": "effective area",
     "traditional_chinese": "有效面積",
-    "definition_cht": "「有效面積」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "天線在特定波長下接收電磁能量的等效截面積，與天線增益相關；對理想天線而言，其有效面積可等於物理面積，常用於雷達與遙測系統分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_area"
   },
   {
     "english": "effective atmosphere",
     "traditional_chinese": "有效大氣",
-    "definition_cht": "「有效大氣」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在輻射傳輸或遙測中，對某一波段之吸收、放射或透射效果可視為主要貢獻來源的等效大氣層；亦作光學上有效大氣之簡稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_atmosphere"
   },
   {
     "english": "effective earth radius",
     "traditional_chinese": "有效地球半徑",
-    "definition_cht": "在電波折射或視程計算中，將大氣折射效應等效納入後所使用的地球半徑。",
+    "definition_cht": "在電波傳播、雷達波束路徑或視距計算中，將大氣折射效應等效併入後所採用的地球半徑；僅在折射率垂直梯度近似固定時較具明確意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_earth_radius"
   },
   {
     "english": "effective evapotranspiration",
     "traditional_chinese": "有效蒸散量",
-    "definition_cht": "表示「有效蒸散量」相關兩種量值之間關係的比值，常用於診斷介質性質、散射特徵或動力狀態。",
+    "definition_cht": "土壤—植物系統在作物或植被實際生長條件下，真正經由蒸發與蒸散損失至大氣中的水量；其大小受植被特性、土壤條件與可用水分控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_evapotranspiration"
   },
   {
     "english": "effective flux",
     "traditional_chinese": "有效通量",
-    "definition_cht": "表示「有效通量」相關物理量穿越單位面積或邊界的輸送通量，常用於能量、動量、水氣或示蹤物收支分析。",
+    "definition_cht": "地表下方極薄層內由分子傳輸與湍流傳輸共同構成的總通量；在固體地表界面上湍流通量趨近於零，因此熱或水氣通量須由分子傳導或擴散承接。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_flux"
   },
   {
     "english": "effective gust velocity",
     "traditional_chinese": "有效陣風速度",
-    "definition_cht": "指與「有效陣風速度」相關的速度量，描述流體、波動或界面移動的快慢與方向。",
+    "definition_cht": "航空工程與飛行載重分析中，用以代表銳邊陣風作用強度的等效速度，通常指該陣風之垂直速度分量，供估算飛機受擾動時的附加載荷。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_gust_velocity"
   },
   {
     "english": "effective permeability",
     "traditional_chinese": "有效滲透率",
-    "definition_cht": "表示「有效滲透率」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "definition_cht": "多相流條件下，介質對特定流體所呈現的實際滲流能力；其值等於固有滲透率乘以該流體的相對滲透率，並受飽和度與孔隙結構影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_permeability"
   },
   {
     "english": "effective porosity",
     "traditional_chinese": "有效孔隙率",
-    "definition_cht": "表示「有效孔隙率」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "definition_cht": "介質中彼此連通、可參與流體流動或可被重力排水之孔隙體積占總體積的比率，通常小於或等於總孔隙率。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_porosity"
   },
   {
     "english": "effective precipitation",
     "traditional_chinese": "有效降水量",
-    "definition_cht": "扣除截留、蒸發、入滲或其他損失後，實際可形成逕流、土壤補注或作物可利用之降水量。",
+    "definition_cht": "降水中扣除截留、蒸發、深層入滲等損失後，實際可供作物利用、留存在土壤中，或形成直接逕流進入河道的部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_precipitation"
   },
   {
