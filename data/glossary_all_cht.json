@@ -13934,121 +13934,121 @@
   {
     "english": "desertification",
     "traditional_chinese": "荒漠化",
-    "definition_cht": "「荒漠化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "原指肥沃土地因氣候變遷與人類活動等因素而逐漸退化為乾旱、半乾旱且生產力低下地表的過程；在氣候與環境研究中常涉及植被衰退、土壤劣化與風蝕加劇。",
     "source_url": "https://glossary.ametsoc.org/wiki/desertification"
   },
   {
     "english": "desiccation",
-    "traditional_chinese": "乾燥",
-    "definition_cht": "「乾燥」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "乾涸；乾燥化",
+    "definition_cht": "指物質、土壤、水體或空氣中的水分大量散失而變得乾燥的過程；在氣象與水文上常用於描述地表、濕地或氣團失水後的乾化現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/desiccation"
   },
   {
     "english": "design flood",
     "traditional_chinese": "設計洪水",
-    "definition_cht": "「設計洪水」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "水工或防洪設施設計時所採用的代表性洪水條件，通常依指定重現期、風險容許度或標準程序決定其洪峰流量、洪量與歷時。",
     "source_url": "https://glossary.ametsoc.org/wiki/design_flood"
   },
   {
     "english": "design storm",
-    "traditional_chinese": "設計風暴",
-    "definition_cht": "指與「設計風暴」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
+    "traditional_chinese": "設計暴雨",
+    "definition_cht": "供排水、防洪或集水區分析使用的標準化降雨事件，通常依指定重現期、總雨量、歷時與時間分配（雨型）建立，以作為工程設計輸入。",
     "source_url": "https://glossary.ametsoc.org/wiki/design_storm"
   },
   {
     "english": "design wave",
-    "traditional_chinese": "設計浪潮",
-    "definition_cht": "指「設計浪潮」這類波動或振盪現象，常用於描述大氣、海洋或其他地球流體介質中的能量傳播與週期性變化。",
+    "traditional_chinese": "設計波浪",
+    "definition_cht": "海岸、港灣或離岸工程設計時所採用的代表性波浪條件，通常以特定重現期下的波高、週期、波向及相關水位組合來表徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/design_wave"
   },
   {
     "english": "designated pollutant",
     "traditional_chinese": "指定污染物",
-    "definition_cht": "「指定污染物」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "依法規或主管機關明定、需受監測、申報或排放管制的污染物；在空氣品質管理中常指被列入特定標準、程序或防制要求的污染成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/designated_pollutant"
   },
   {
     "english": "Desulfurization",
     "traditional_chinese": "脫硫",
-    "definition_cht": "「脫硫」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "自燃料、煙道氣或工業流程中去除含硫化合物的處理程序，以降低二氧化硫等污染物排放並減輕酸雨與空氣污染影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Desulfurization"
   },
   {
     "english": "Detection",
     "traditional_chinese": "偵測",
-    "definition_cht": "「偵測」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "利用儀器、演算法或觀測系統辨識某種信號、目標、現象或變化是否存在的過程；在氣象遙測中常指對降水、雲體、氣膠或其他回波特徵之辨識。",
     "source_url": "https://glossary.ametsoc.org/wiki/Detection"
   },
   {
     "english": "detention storage",
-    "traditional_chinese": "拘留儲存",
-    "definition_cht": "「拘留儲存」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "滯洪蓄留",
+    "definition_cht": "流域或排水系統中暫時攔蓄逕流、延緩其下洩以削減洪峰的儲留量或儲留作用；常見於滯洪池、渠道與都市雨洪管理設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/detention_storage"
   },
   {
     "english": "deterministic",
-    "traditional_chinese": "確定性的",
-    "definition_cht": "「確定性的」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "確定性",
+    "definition_cht": "指在既定初始條件與模式設定下只產生單一結果而不直接表達機率分布的性質；常與機率式或集成式方法相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/deterministic"
   },
   {
     "english": "deterministic forecast",
-    "traditional_chinese": "確定性預測",
-    "definition_cht": "指「確定性預測」這類預報產品或預測作業，用以說明未來一定時段內之天氣、氣候或相關環境條件變化。",
+    "traditional_chinese": "確定性預報",
+    "definition_cht": "由單一次數值模式運算或單一分析結果給出的預報，對每個時間與地點提供唯一預測值，不直接附帶不確定度或機率資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/deterministic_forecast"
   },
   {
     "english": "deterministic hydrology",
     "traditional_chinese": "確定性水文學",
-    "definition_cht": "指「確定性水文學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。",
+    "definition_cht": "以明確物理關係或固定參數表示水文過程、並由已知輸入推求唯一輸出的水文分析或模擬方法；相對於機率式水文方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/deterministic_hydrology"
   },
   {
     "english": "detrainment",
-    "traditional_chinese": "脫軌",
-    "definition_cht": "指與「脫軌」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "脫離作用",
+    "definition_cht": "在對流或湍流中，原屬氣塊、雲體或上升流內的空氣向周圍環境逸出並混合的過程，為 entrainment（捲入）之相反作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/detrainment"
   },
   {
     "english": "detrend",
     "traditional_chinese": "去趨勢",
-    "definition_cht": "「去趨勢」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在時間序列或空間資料分析中，移除長期趨勢成分以突顯變率、異常或週期訊號的處理程序，常用於氣候、海洋與水文資料前處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/detrend"
   },
   {
     "english": "deuterium",
     "traditional_chinese": "氘",
-    "definition_cht": "「氘」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "氫的穩定同位素，原子核含一個質子與一個中子；在氣象、水文與古氣候研究中常藉其同位素比值追蹤水循環來源、蒸發與凝結過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/deuterium"
   },
   {
     "english": "deuteron",
     "traditional_chinese": "氘核",
-    "definition_cht": "「氘核」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "氘原子的原子核，由一個質子與一個中子組成；在核物理、同位素研究及相關儀器分析中用以描述氘的核性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/deuteron"
   },
   {
     "english": "development",
-    "traditional_chinese": "發展",
-    "definition_cht": "「發展」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "發展；增強",
+    "definition_cht": "在氣象上常指天氣系統、低壓、鋒面、雲系或擾動的形成、組織化或增強過程；亦可泛指現象隨時間演變而趨於成熟。",
     "source_url": "https://glossary.ametsoc.org/wiki/development"
   },
   {
     "english": "deviation",
     "traditional_chinese": "偏差",
-    "definition_cht": "「偏差」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "某數值相對於基準值、平均值、理論值或既定路徑的偏離量；在氣象與氣候分析中常用以表示觀測、預報或異常相對參考狀態之差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/deviation"
   },
   {
     "english": "devil",
-    "traditional_chinese": "魔鬼",
-    "definition_cht": "「魔鬼」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "小旋風",
+    "definition_cht": "在氣象用語中多見於複合詞，如 dust devil，泛指局地、短生命且快速旋轉的渦旋現象；若未加限定，通常不是單獨使用的正式術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/devil"
   },
   {
     "english": "dew",
     "traditional_chinese": "露",
-    "definition_cht": "指與「露」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "近地面物體表面因冷卻至露點以下，使空氣中的水汽凝結成細小水滴的現象；多發生於晴朗、微風且夜間輻射冷卻明顯的條件下。",
     "source_url": "https://glossary.ametsoc.org/wiki/dew"
   },
   {
