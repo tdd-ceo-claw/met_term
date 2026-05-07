@@ -1922,121 +1922,121 @@
   {
     "english": "ESSA",
     "traditional_chinese": "環境科學服務署",
-    "definition_cht": "「ESSA」為相關領域常用的縮寫、代號或頻段名稱，通常指涉特定觀測系統、模式產品、物理量、儀器或科學概念；實際涵義須依專業語境判定。",
+    "definition_cht": "Environmental Science Services Administration 的縮寫，為美國 1965—1970 年間的聯邦機構，整合氣象、海洋與環境監測業務，並為後來 NOAA 的前身之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/ESSA"
   },
   {
     "english": "estimated ceiling",
     "traditional_chinese": "估計雲幕高度",
-    "definition_cht": "「估計雲幕高度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "航空氣象用語，指未由測雲儀等儀器直接量得，而依人工觀測、已知地標高度或其他間接資訊所估得的雲幕高度；通常是最低破碎雲層或陰天雲層雲底的估計高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/estimated_ceiling"
   },
   {
     "english": "estuary",
-    "traditional_chinese": "河口",
-    "definition_cht": "河川與海洋交會之半封閉水域，受淡水注入、潮汐混合與鹽度梯度共同控制。",
+    "traditional_chinese": "河口；河口灣",
+    "definition_cht": "位於海岸帶、部分受陸地包圍的過渡性水域，河川淡水在此與海水混合，形成受潮汐、徑流與鹽度梯度共同控制的半鹹水環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/estuary"
   },
   {
     "english": "ETA",
     "traditional_chinese": "η 座標模式",
-    "definition_cht": "使用 η 垂直座標的數值天氣預報模式或其座標系統。",
+    "definition_cht": "以 η 垂直座標為核心的數值天氣預報模式名稱，曾為美國中尺度預報模式之一；其座標設計可較貼近地形並減少複雜地形區的數值誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/ETA"
   },
   {
     "english": "eta vertical coordinate",
     "traditional_chinese": "η 垂直座標",
-    "definition_cht": "「η 垂直座標」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "一種用於數值模式的地形追隨垂直座標系，以上邊界與地表氣壓關係加以規範化，使近地層座標面可隨地形起伏並改善山區流場與邊界層計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/eta_vertical_coordinate"
   },
   {
     "english": "ETD",
-    "traditional_chinese": "回波頂部差值",
-    "definition_cht": "常指雷達或衛星判讀中的回波頂差異量、時間延遲或其他衍生診斷量，具體定義依產品語境而定。",
+    "traditional_chinese": "預計離場時間",
+    "definition_cht": "estimated time of departure 的縮寫，指航空、航運或其他運輸作業中預定離站、離港或起飛的時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/ETD"
   },
   {
     "english": "ETE",
-    "traditional_chinese": "蒸散量估計",
-    "definition_cht": "常指蒸散量估計或相關診斷量，用於表示地表水分經蒸發與蒸散作用輸送至大氣的估算結果。",
+    "traditional_chinese": "預估航程時間",
+    "definition_cht": "estimated time en route 的縮寫，指航空或航行作業中，從起程點至目的地所預估需耗費的航行時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/ETE"
   },
   {
     "english": "etesians",
-    "traditional_chinese": "埃特西亞風",
-    "definition_cht": "「埃特西亞風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "埃特西亞風；愛琴海夏季北風",
+    "definition_cht": "東地中海與愛琴海一帶夏季盛行的強勁乾燥北風，通常自晚春至初秋較為顯著，為當地暖季天氣與海象的重要控制因子。",
     "source_url": "https://glossary.ametsoc.org/wiki/etesians"
   },
   {
     "english": "ethane",
     "traditional_chinese": "乙烷",
-    "definition_cht": "「乙烷」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "化學式為 C₂H₆ 的飽和烴，常見於天然氣與石化排放中；在大氣化學中屬揮發性有機化合物，可作為燃燒與碳氫化合物來源的示蹤物之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/ethane"
   },
   {
     "english": "ethene",
     "traditional_chinese": "乙烯",
-    "definition_cht": "「乙烯」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "化學式為 C₂H₄ 的最簡單烯烴，又稱 ethylene；在大氣化學中屬活性較高的揮發性有機化合物，會參與光化學反應與臭氧生成，亦是植物荷爾蒙。",
     "source_url": "https://glossary.ametsoc.org/wiki/ethene"
   },
   {
     "english": "EUC",
     "traditional_chinese": "赤道潛流",
-    "definition_cht": "位於赤道下方、沿東向流動的次表層海流，通常為赤道潛流的英文縮寫，對熱鹽輸送與赤道海洋動力極為重要。",
+    "definition_cht": "equatorial undercurrent 的縮寫，指位於赤道附近次表層、主要向東流動的狹長海流，對熱量、鹽分與養分輸送，以及熱帶海氣交互作用均相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/EUC"
   },
   {
     "english": "Eulerian coordinates",
     "traditional_chinese": "歐拉座標",
-    "definition_cht": "在固定空間位置上描述流體速度、溫度等場量分布與變化的座標觀點。",
+    "definition_cht": "在固定空間位置上描述流體速度、溫度、濃度等場量分布與時間變化的表示方式，與隨流體質點移動的拉格朗日觀點相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/Eulerian_coordinates"
   },
   {
     "english": "Eulerian correlation",
     "traditional_chinese": "歐拉相關",
-    "definition_cht": "指「歐拉相關」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "在固定觀測位置或固定空間座標下，對流場或其他隨機場量計算其時間或空間相關性的統計量，用以描述擾動在歐拉框架中的持續性與尺度特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Eulerian_correlation"
   },
   {
     "english": "Eulerian current measurement",
     "traditional_chinese": "歐拉式流速量測",
-    "definition_cht": "指與「歐拉式流速量測」相關的海流、潮流或電流系統，著重其流向、來源、強度及輸送作用。",
+    "definition_cht": "在固定地點連續量測海流或水流速度的方法，藉由記錄流體通過某一座標點時的流向與流速變化，以描述該處的時間序列特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Eulerian_current_measurement"
   },
   {
     "english": "Eulerian equations",
     "traditional_chinese": "歐拉方程",
-    "definition_cht": "描述「歐拉方程」相關物理量之間關係、守恆條件或演變規律的方程。",
+    "definition_cht": "以固定空間座標表示流體運動的控制方程組；在理想流體情況下，通常指不含黏滯項的質量、動量與能量守恆方程之歐拉形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/Eulerian_equations"
   },
   {
     "english": "Eulerian wind",
-    "traditional_chinese": "歐拉風",
-    "definition_cht": "指與「歐拉風」相關的風場、風向分量、地方風或飛航風要素。",
+    "traditional_chinese": "歐拉風場",
+    "definition_cht": "在固定空間位置上定義並觀測的風速與風向場，用來描述某時刻或某時段各地點的風場分布，而非追蹤單一空氣團的移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Eulerian_wind"
   },
   {
     "english": "eupatheoscope",
-    "traditional_chinese": "晴雨觀測器",
-    "definition_cht": "「晴雨觀測器」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "晴雨指示器",
+    "definition_cht": "舊式氣象器具名稱，指用以指示天氣將趨於晴朗或陰雨變化的裝置，通常屬於早期家用或展示型天氣指示儀，而非現代定量觀測儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/eupatheoscope"
   },
   {
     "english": "euphotic zone",
-    "traditional_chinese": "透光層",
-    "definition_cht": "水體中仍有足夠光照可進行淨光合作用的上層區域。",
+    "traditional_chinese": "真光層；透光層",
+    "definition_cht": "水體上層仍有足夠光照可使光合作用大於或至少達到呼吸消耗的區域，為海洋與湖泊初級生產最活躍的層次。",
     "source_url": "https://glossary.ametsoc.org/wiki/euphotic_zone"
   },
   {
     "english": "euraquilo",
-    "traditional_chinese": "歐拉奎洛風",
-    "definition_cht": "「歐拉奎洛風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "東北暴風；歐拉奎洛風",
+    "definition_cht": "古典文獻中的風名，通常指地中海一帶的強烈東北風或夾帶暴風性質的旋風，常被視為 Euroaquilo／Euroclydon 的異名或相關拼寫形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/euraquilo"
   },
   {
     "english": "eurithermic",
     "traditional_chinese": "廣溫性的",
-    "definition_cht": "「廣溫性的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "舊拼法或異拼形式，義近 eurythermic，指生物或系統可在相當寬廣的溫度範圍內維持生存或正常功能。",
     "source_url": "https://glossary.ametsoc.org/wiki/eurithermic"
   },
   {
