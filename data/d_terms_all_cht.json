@@ -1322,121 +1322,121 @@
   {
     "english": "diffraction peak",
     "traditional_chinese": "繞射峰",
-    "definition_cht": "「繞射峰」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指波動通過狹縫、孔徑或障礙物後形成之繞射圖樣中的強度局部極大值，常用於光學、雷達與遙測量測中的頻譜或角度分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffraction_peak"
   },
   {
     "english": "diffraction phenomenon",
     "traditional_chinese": "繞射現象",
-    "definition_cht": "「繞射現象」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指波、輻射或粒子束遇到障礙物、邊緣或狹縫時偏離直線傳播並向周圍展開的現象；當波長與障礙物尺度相近時最為明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffraction_phenomenon"
   },
   {
     "english": "diffuse front",
-    "traditional_chinese": "擴散前沿",
-    "definition_cht": "指與「擴散前沿」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "瀰散鋒面",
+    "definition_cht": "指結構較不清楚、水平溫度或濕度梯度較弱的鋒面帶，其風向、雲雨或氣團性質轉變較為分散，不若典型冷暖鋒明確。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffuse_front"
   },
   {
     "english": "diffuse light",
     "traditional_chinese": "漫射光",
-    "definition_cht": "「漫射光」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指經大氣、雲滴、氣膠或其他介質散射後，自多個方向到達觀測點的光，不具明顯單一入射方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffuse_light"
   },
   {
     "english": "diffuse radiation",
     "traditional_chinese": "漫射輻射",
-    "definition_cht": "「漫射輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指原始輻射束經大氣或介質散射後，改由多個方向傳播的輻射成分；在地表輻射收支中常與直接輻射分開計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffuse_radiation"
   },
   {
     "english": "diffuse reflection",
     "traditional_chinese": "漫反射",
-    "definition_cht": "「漫反射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指光線或其他波動入射粗糙表面或介質後，向多個方向散射反射的現象；與鏡面反射僅沿單一主要方向反射不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffuse_reflection"
   },
   {
     "english": "diffuse reflector",
-    "traditional_chinese": "漫反射器",
-    "definition_cht": "「漫反射器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "漫反射體",
+    "definition_cht": "指能將入射輻射近似均勻散射至多個方向的表面或材料；在輻射校正、遙測與光學量測中常作為近似朗伯反射參考體。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffuse_reflector"
   },
   {
     "english": "diffuse sky radiation",
-    "traditional_chinese": "漫射天空輻射",
-    "definition_cht": "「漫射天空輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "天空漫射輻射",
+    "definition_cht": "指太陽輻射經大氣分子、氣膠與雲粒散射後，自天空各方向到達地表的輻射成分；在水平面上常以散射水平輻照度表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffuse_sky_radiation"
   },
   {
     "english": "diffuse solar radiation",
     "traditional_chinese": "太陽漫射輻射",
-    "definition_cht": "「太陽漫射輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指原本直達之太陽輻射經大氣散射後到達地表的部分，不包含未受散射而直接來自太陽圓盤的直達輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffuse_solar_radiation"
   },
   {
     "english": "diffusion",
     "traditional_chinese": "擴散",
-    "definition_cht": "指與「擴散」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "definition_cht": "指分子、粒子或能量因隨機運動而由高濃度區向低濃度區淨傳輸並趨於均勻的過程；在大氣與海洋中常用以描述物質混合與傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusion"
   },
   {
     "english": "diffusion coefficient",
     "traditional_chinese": "擴散係數",
-    "definition_cht": "用於表示「擴散係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "指表徵物質、動量或能量擴散速率的比例常數，用以連結通量與濃度梯度；數值越大表示擴散越快。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusion_coefficient"
   },
   {
     "english": "diffusion denuder technique",
-    "traditional_chinese": "擴散剝離器技術",
-    "definition_cht": "指與「擴散剝離器技術」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "traditional_chinese": "擴散剝蝕器技術",
+    "definition_cht": "指利用氣體分子擴散速率，使待測氣體被塗覆吸收劑之管壁選擇性移除的採樣與分析技術，常用於大氣痕量氣體與氣膠前驅物量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusion_denuder_technique"
   },
   {
     "english": "diffusion hygrometer",
     "traditional_chinese": "擴散濕度計",
-    "definition_cht": "與「擴散濕度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "definition_cht": "指利用水汽穿過多孔介質、薄膜或空氣層之分子擴散特性來推算空氣濕度的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusion_hygrometer"
   },
   {
     "english": "diffusion model",
     "traditional_chinese": "擴散模型",
-    "definition_cht": "指與「擴散模型」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "definition_cht": "指以擴散方程或其參數化形式描述物質、熱量、污染物或其他量在介質中隨時間與空間傳播、混合及衰減的數學模型。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusion_model"
   },
   {
     "english": "diffusion velocity",
     "traditional_chinese": "擴散速度",
-    "definition_cht": "指與「擴散速度」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "definition_cht": "指由擴散作用造成之物質淨傳輸速率，常用於描述粒子或分子相對於濃度梯度方向的移動快慢。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusion_velocity"
   },
   {
     "english": "diffusive convection",
-    "traditional_chinese": "擴散對流",
-    "definition_cht": "指與「擴散對流」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "traditional_chinese": "擴散型對流",
+    "definition_cht": "指雙重擴散對流中的一種型態，當較快擴散之熱量與較慢擴散之鹽分或成分梯度共同作用時，可在穩定分層中誘發層狀翻動與混合。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusive_convection"
   },
   {
     "english": "diffusive equilibrium",
     "traditional_chinese": "擴散平衡",
-    "definition_cht": "「擴散平衡」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指在重力場或多成分流體中，各成分之分子擴散與外力效應達到平衡，使整體不再出現淨擴散通量的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusive_equilibrium"
   },
   {
     "english": "diffusivity",
     "traditional_chinese": "擴散率",
-    "definition_cht": "「擴散率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指介質使物質、熱量、動量或其他物理量經擴散作用傳輸的能力，通常即為擴散係數或其廣義形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffusivity"
   },
   {
     "english": "Digging trough",
-    "traditional_chinese": "挖槽",
-    "definition_cht": "「挖槽」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "槽線加深",
+    "definition_cht": "指高空或地面槽線在天氣尺度演變中向赤道側或下游方向增強並加深的過程，常伴隨渦度增強、上升運動及不穩定天氣發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/Digging_trough"
   },
   {
     "english": "digital",
     "traditional_chinese": "數位的",
-    "definition_cht": "「數位的」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指以離散數值、二進位訊號或數位編碼形式表示、處理、傳輸或儲存資料的；相對於連續變化的類比形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/digital"
   },
   {
