@@ -15253,122 +15253,122 @@
   },
   {
     "english": "drag sphere anemometer",
-    "traditional_chinese": "拖球風速計",
-    "definition_cht": "與「拖球風速計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "阻力球式風速計",
+    "definition_cht": "利用風作用於球體所產生阻力來測定風速的風速計；若配合感測元件與校正，亦可推算風向或三維風向量。",
     "source_url": "https://glossary.ametsoc.org/wiki/drag_sphere_anemometer"
   },
   {
     "english": "dragon",
-    "traditional_chinese": "龍",
-    "definition_cht": "「龍」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "dragon",
+    "definition_cht": "目前在常見氣象、海洋或水文權威詞彙中少見此詞作為獨立且通行的專業條目；若見於文獻，多半需依原始上下文判讀其是否為歷史名稱、地方用語或非本領域用法。",
     "source_url": "https://glossary.ametsoc.org/wiki/dragon"
   },
   {
     "english": "drain",
-    "traditional_chinese": "流走",
-    "definition_cht": "指與「流走」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "排水道",
+    "definition_cht": "泛指用於排除或導引地表水、地下水或積水的天然通道、人工溝渠或排水設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/drain"
   },
   {
     "english": "drainage area",
-    "traditional_chinese": "流域",
-    "definition_cht": "指與「流域」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "集水區",
+    "definition_cht": "指所有地表逕流最終匯向同一出口的地表區域，常作為洪水、水文與流域分析的基本單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/drainage_area"
   },
   {
     "english": "drainage basin",
     "traditional_chinese": "流域",
-    "definition_cht": "指與「流域」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "由同一排水系統所涵蓋的地表區域，包括主流水體及其所有支流、相關地表水體所集水的整體範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/drainage_basin"
   },
   {
     "english": "drainage density",
     "traditional_chinese": "排水密度",
-    "definition_cht": "指與「排水密度」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "指某區域內天然河道或排水通道分布的相對密集程度，通常以河道總長度除以該區面積表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/drainage_density"
   },
   {
     "english": "drainage divide",
-    "traditional_chinese": "排水分水嶺",
-    "definition_cht": "指與「排水分水嶺」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "分水嶺",
+    "definition_cht": "指沿地形高地或地下地層所形成、用以分隔相鄰兩個流域的邊界線。",
     "source_url": "https://glossary.ametsoc.org/wiki/drainage_divide"
   },
   {
     "english": "drainage well",
     "traditional_chinese": "排水井",
-    "definition_cht": "指與「排水井」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "為排除飽和多孔介質中因重力下滲而聚集之水所設的井，常用於壩體或其下游以減少滲流與抬升壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/drainage_well"
   },
   {
     "english": "drainage wind",
-    "traditional_chinese": "排水風",
-    "definition_cht": "指與「排水風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "冷空氣下洩風",
+    "definition_cht": "指近地層空氣因地表冷卻而變冷增密，沿坡面或谷地向下流動所形成的風；常泛指下坡風與下谷風的合稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/drainage_wind"
   },
   {
     "english": "drawdown",
-    "traditional_chinese": "回撤",
-    "definition_cht": "「回撤」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "降深",
+    "definition_cht": "指因抽水或取水造成井內水位、水體表面、水位面或壓力水頭降低的現象或其降低量。",
     "source_url": "https://glossary.ametsoc.org/wiki/drawdown"
   },
   {
     "english": "drawdown curve",
-    "traditional_chinese": "回撤曲線",
-    "definition_cht": "「回撤曲線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "降深曲線",
+    "definition_cht": "表示抽水作用下井水位面或壓力水頭之降深，隨距離或時間變化關係的曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/drawdown_curve"
   },
   {
     "english": "drawoff",
-    "traditional_chinese": "提取",
-    "definition_cht": "「提取」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "引出",
+    "definition_cht": "指自容器、水槽、觀測系統或水工設施中將液體導出、放流或取樣的動作；實際意義需依使用情境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/drawoff"
   },
   {
     "english": "dreikanter",
-    "traditional_chinese": "德賴坎特",
-    "definition_cht": "「德賴坎特」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "三稜風蝕石",
+    "definition_cht": "指受含砂強風長期磨蝕而形成三個明顯磨蝕面的風蝕石，常見於乾燥或冰緣環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/dreikanter"
   },
   {
     "english": "dried ice",
-    "traditional_chinese": "乾冰",
-    "definition_cht": "指與「乾冰」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "乾化海冰",
+    "definition_cht": "指表面融水在裂隙與融穴形成後已消失的海冰；其表面在乾化過程中常呈泛白外觀。",
     "source_url": "https://glossary.ametsoc.org/wiki/dried_ice"
   },
   {
     "english": "drift",
     "traditional_chinese": "漂移",
-    "definition_cht": "指與「漂移」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "指物體、冰塊、浮標、氣球或粒子受風、海流、水流或其他外力帶動，而相對周圍介質發生位移的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/drift"
   },
   {
     "english": "drift bottle",
     "traditional_chinese": "漂流瓶",
-    "definition_cht": "指與「漂流瓶」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "將附有回報卡或訊息的瓶體投入水中，依回收地點與時間推估海面或水面流向與流速的簡易示蹤工具。",
     "source_url": "https://glossary.ametsoc.org/wiki/drift_bottle"
   },
   {
     "english": "drift card",
-    "traditional_chinese": "漂移卡",
-    "definition_cht": "指與「漂移卡」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "漂流卡",
+    "definition_cht": "將卡片封裝於具浮力且防水的外套後投入水中，用以估計水面流向與流速的示蹤工具；較漂流瓶更輕且便於大量投放。",
     "source_url": "https://glossary.ametsoc.org/wiki/drift_card"
   },
   {
     "english": "drift current",
-    "traditional_chinese": "漂移電流",
-    "definition_cht": "指與「漂移電流」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "漂移流",
+    "definition_cht": "指依實際物體或假想粒子在流體中位移距離除以經過時間所計得的流動速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/drift_current"
   },
   {
     "english": "drift ice",
-    "traditional_chinese": "浮冰",
-    "definition_cht": "指與「浮冰」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "漂流海冰",
+    "definition_cht": "指已脫離岸線或其他固定物束縛、受風與海流帶動而漂移的海冰；廣義上不包含固定於岸邊的定著冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/drift_ice"
   },
   {
     "english": "drift station",
     "traditional_chinese": "漂流站",
-    "definition_cht": "指與「漂流站」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "設置於漂移冰浮體上的研究站，隨海冰移動以進行極地海洋、大氣或冰況觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/drift_station"
   },
   {
