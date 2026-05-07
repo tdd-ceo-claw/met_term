@@ -361,122 +361,122 @@
   },
   {
     "english": "decay area",
-    "traditional_chinese": "腐爛區",
-    "definition_cht": "「腐爛區」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "衰減區",
+    "definition_cht": "指訊號、波動或回波在傳播過程中因吸收、散射或能量耗散而顯著減弱的區域；在雷達與遙測語境中，常指回波強度明顯衰落的空間範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/decay_area"
   },
   {
     "english": "decay distance",
     "traditional_chinese": "衰減距離",
-    "definition_cht": "「衰減距離」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指訊號、波動或某物理量因吸收、摩擦、散射等作用而衰減至指定程度所對應的距離，常用來描述能量隨傳播路徑減弱的快慢。",
     "source_url": "https://glossary.ametsoc.org/wiki/decay_distance"
   },
   {
     "english": "decibar",
     "traditional_chinese": "分巴",
-    "definition_cht": "「分巴」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "壓力單位，等於 0.1 巴（10^4 帕）。海洋學中常以分巴表示水壓，數值上約可對應海水中 1 公尺左右的水深變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/decibar"
   },
   {
     "english": "decibel",
     "traditional_chinese": "分貝",
-    "definition_cht": "「分貝」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "以對數尺度表示兩個功率或振幅量比值的單位，為 1 貝的十分之一。氣象與聲學、雷達及通訊應用中，常用於表示訊號強度、增益或衰減程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/decibel"
   },
   {
     "english": "decile",
     "traditional_chinese": "十分位數",
-    "definition_cht": "「十分位數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "將排序後資料分成十個等分時所對應的分位值之一，用於描述資料分布位置；在氣候統計中常用來分析降水、氣溫等變數的頻率分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/decile"
   },
   {
     "english": "decision tree",
     "traditional_chinese": "決策樹",
-    "definition_cht": "「決策樹」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "一種以樹狀分支表示判斷規則與結果的分析方法，可依變數條件逐步分割資料；常用於氣象預報判識、分類、回歸與機器學習建模。",
     "source_url": "https://glossary.ametsoc.org/wiki/decision_tree"
   },
   {
     "english": "declination",
     "traditional_chinese": "赤緯",
-    "definition_cht": "「赤緯」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "天球座標中的角度量，表示天體位於天球赤道以北或以南的角距。氣象上常見於太陽赤緯的討論，用以說明季節性日照與太陽高度的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/declination"
   },
   {
     "english": "deconvolution",
     "traditional_chinese": "反捲積",
-    "definition_cht": "「反捲積」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "由已知輸出訊號與系統響應反推原始訊號的數學或訊號處理方法，為捲積的逆運算；常用於遙測、雷達及影像資料的模糊校正與解析度恢復。",
     "source_url": "https://glossary.ametsoc.org/wiki/deconvolution"
   },
   {
     "english": "decoupling",
     "traditional_chinese": "解耦",
-    "definition_cht": "「解耦」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指原本彼此連動的系統、層結或變數之間的動力或熱力聯繫減弱甚至分離。邊界層氣象中常指地表層與上方空氣交換減弱的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/decoupling"
   },
   {
     "english": "deduction",
     "traditional_chinese": "扣除",
-    "definition_cht": "「扣除」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指自觀測值、估計值或計算結果中減去某一已知分量、修正項或背景值的處理，以取得較具代表性的淨值或校正值。",
     "source_url": "https://glossary.ametsoc.org/wiki/deduction"
   },
   {
     "english": "deep percolation",
-    "traditional_chinese": "深層滲透",
-    "definition_cht": "「深層滲透」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "深層滲漏",
+    "definition_cht": "指水分通過土壤並下滲至根系層以下的過程，常進一步補注地下水；在水文學中亦稱深層滲透或深部排水。",
     "source_url": "https://glossary.ametsoc.org/wiki/deep_percolation"
   },
   {
     "english": "deep sound channel",
-    "traditional_chinese": "深沉的聲道",
-    "definition_cht": "「深沉的聲道」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "深海聲道",
+    "definition_cht": "海洋中聲速達到相對極小值的深層水體帶，可使低頻聲波在其中被導引而遠距離傳播，亦稱 SOFAR 聲道。",
     "source_url": "https://glossary.ametsoc.org/wiki/deep_sound_channel"
   },
   {
     "english": "deep water",
     "traditional_chinese": "深水",
-    "definition_cht": "「深水」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在海洋波動理論中，指水深大於波長一半的水域；此時波動主要受水面附近影響，海床對波的運動與傳播作用很小。",
     "source_url": "https://glossary.ametsoc.org/wiki/deep_water"
   },
   {
     "english": "deep well",
     "traditional_chinese": "深井",
-    "definition_cht": "「深井」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "鑽鑿至較深含水層以取用地下水的井，通常井深與抽水設備均較淺井大，可用於供水、灌溉及地下水觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/deep_well"
   },
   {
     "english": "deep-water wave",
     "traditional_chinese": "深水波",
-    "definition_cht": "指「深水波」這類波動或振盪現象，常用於描述大氣、海洋或其他地球流體介質中的能量傳播與週期性變化。",
+    "definition_cht": "傳播於深水條件下的重力波，即水深大於波長一半時的波動。此類波的相速與群速主要受波長或週期控制，而非受水深控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/deep-water_wave"
   },
   {
     "english": "deepening",
-    "traditional_chinese": "深化",
-    "definition_cht": "「深化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "加深",
+    "definition_cht": "在天氣分析中，指低壓系統、低壓槽或氣旋的中心氣壓下降、環流增強的發展過程，通常意味系統正在增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/deepening"
   },
   {
     "english": "deepening of a depression",
-    "traditional_chinese": "憂鬱症加深",
-    "definition_cht": "指與「憂鬱症加深」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
+    "traditional_chinese": "低氣壓加深",
+    "definition_cht": "指低氣壓或低壓擾動的中心氣壓持續下降、壓力梯度增大且環流隨之增強的過程，是低壓系統發展與增強的重要表徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/deepening_of_a_depression"
   },
   {
     "english": "Defense Meteorological Satellite Program",
     "traditional_chinese": "國防氣象衛星計畫",
-    "definition_cht": "「國防氣象衛星計畫」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "美國國防部的極軌氣象衛星計畫，用於蒐集雲圖、海洋與近地太空環境等資料，支援軍事作業、數值天氣預報與環境監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Defense_Meteorological_Satellite_Program"
   },
   {
     "english": "Definitive Geomagnetic Reference Field",
-    "traditional_chinese": "確定的地磁參考場",
-    "definition_cht": "「確定的地磁參考場」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "確定地磁參考場",
+    "definition_cht": "依既有觀測資料回算並定稿的地球主磁場標準模型，用於描述特定歷元的地磁場；其性質屬事後確定版本，與含外推成分的 IGRF 有別。",
     "source_url": "https://glossary.ametsoc.org/wiki/Definitive_Geomagnetic_Reference_Field"
   },
   {
     "english": "deflation",
-    "traditional_chinese": "通貨緊縮",
-    "definition_cht": "「通貨緊縮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "吹蝕",
+    "definition_cht": "風力將地表鬆散細粒物質吹走並搬運的侵蝕作用，常見於乾燥或植被稀疏地區；會造成地表降低，並可形成吹蝕窪地等地形。",
     "source_url": "https://glossary.ametsoc.org/wiki/deflation"
   },
   {
