@@ -17168,121 +17168,121 @@
   {
     "english": "ensemble mean",
     "traditional_chinese": "集合平均值",
-    "definition_cht": "「集合平均值」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "集合預報中同一預報變數在各成員間取平均所得的場或數值，可濾除個別成員中較不可預測的擾動，常作為整體趨勢的代表。",
     "source_url": "https://glossary.ametsoc.org/wiki/ensemble_mean"
   },
   {
     "english": "ensemble spread",
     "traditional_chinese": "集合離散度",
-    "definition_cht": "「集合離散度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "衡量集合預報各成員彼此分散程度的統計量，用以反映預報不確定性；離散度愈大，通常表示未來情境的不確定性愈高。",
     "source_url": "https://glossary.ametsoc.org/wiki/ensemble_spread"
   },
   {
     "english": "ENSO",
     "traditional_chinese": "聖嬰－南方振盪",
-    "definition_cht": "聖嬰現象與南方振盪組成的海氣耦合變率模態，是年際氣候變化的重要主控因子。",
+    "definition_cht": "El Niño–Southern Oscillation 的縮寫，指熱帶太平洋海表溫度、信風與南方振盪彼此耦合的年際氣候變率，包含聖嬰與反聖嬰等位相。",
     "source_url": "https://glossary.ametsoc.org/wiki/ENSO"
   },
   {
     "english": "enstrophy",
     "traditional_chinese": "渦度平方積分",
-    "definition_cht": "渦度平方在空間上的積分或平均量，用於描述流場旋轉強度與湍流尺度特性。",
+    "definition_cht": "流體力學中表示渦度平方之積分或平均的量，用於衡量流場旋轉活動與渦旋尺度特性，常見於二維湍流與大氣動力分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/enstrophy"
   },
   {
     "english": "enthalpy",
     "traditional_chinese": "焓",
-    "definition_cht": "熱力學狀態函數，等於內能與壓力－體積項之和，常用於描述大氣與水體的熱含量。",
+    "definition_cht": "熱力學狀態函數，定義為內能與壓力乘體積之和，用來表示系統在定壓條件下的熱含量變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/enthalpy"
   },
   {
     "english": "entity-type entrainment mixing",
     "traditional_chinese": "實體型捲入混合作用",
-    "definition_cht": "指與「實體型捲入混合作用」相關的混合作用，描述不同流體性質在湍流、對流或剪切下的交換過程。",
+    "definition_cht": "雲物理中將捲入混合視為有限雲體或雲團與外界乾空氣發生交換的理想化混合型態，用以描述局部稀釋及其對雲滴蒸發的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/entity-type_entrainment_mixing"
   },
   {
     "english": "entrainment",
     "traditional_chinese": "捲入作用",
-    "definition_cht": "周圍環境流體被捲入噴流、羽流、雲體或對流系統中的過程。",
+    "definition_cht": "環境流體被捲入噴流、羽流、雲體、邊界層或其他有組織流動中並與之混合的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/entrainment"
   },
   {
     "english": "entrainment coefficient",
     "traditional_chinese": "捲入係數",
-    "definition_cht": "表示「捲入係數」相關過程強度、交換效率、比例關係或參數化效果的係數。",
+    "definition_cht": "描述捲入強度的無因次參數，常定義為捲入速度與主流特徵速度之比，用於表徵羽流、積雲或邊界層對周遭流體的吸入效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/entrainment_coefficient"
   },
   {
     "english": "entrainment rate",
     "traditional_chinese": "捲入率",
-    "definition_cht": "「捲入率」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "單位時間、單位高度或單位流程中環境流體被捲入主流或雲體的速率，是對流與參數化中描述稀釋強弱的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/entrainment_rate"
   },
   {
     "english": "entrainment velocity",
     "traditional_chinese": "捲入速度",
-    "definition_cht": "指與「捲入速度」相關的速度量，描述流體、波動或界面移動的快慢與方向。",
+    "definition_cht": "以速度量綱表示的捲入強度，意指單位面積、單位時間穿越界面而被捲入的流體體積通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/entrainment_velocity"
   },
   {
     "english": "entrainment zone",
     "traditional_chinese": "捲入層",
-    "definition_cht": "指與「捲入層」相關的區帶或分區，常依物理性質、過程或生態功能加以界定。",
+    "definition_cht": "邊界層頂附近與自由大氣之間的混合層，湍流會在此將上方較穩定空氣捲入邊界層。",
     "source_url": "https://glossary.ametsoc.org/wiki/entrainment_zone"
   },
   {
     "english": "entrance region",
     "traditional_chinese": "入口區",
-    "definition_cht": "「入口區」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "噴流或噴流核上游端的入口區，氣流在此匯聚並加速進入急流區；在高空噴流分析中與垂直運動及輻散分布密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/entrance_region"
   },
   {
     "english": "entropy",
     "traditional_chinese": "熵",
-    "definition_cht": "「熵」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "熱力學狀態量，表示能量分散程度與可逆熱交換相對於溫度的關係；在大氣科學中常用於分析不可逆過程與穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/entropy"
   },
   {
     "english": "envelope soliton",
     "traditional_chinese": "包絡孤子",
-    "definition_cht": "「包絡孤子」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由載波波列及其包絡所組成、傳播時仍能維持形狀的孤立波群，常見於非線性與色散共同作用的水波或大氣重力波問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/envelope_soliton"
   },
   {
     "english": "environment",
     "traditional_chinese": "環境場",
-    "definition_cht": "「環境場」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "相對於某一氣塊、雲體、渦旋或觀測對象而言，其周圍外部介質及其溫度、濕度、風場等背景狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/environment"
   },
   {
     "english": "environmental acoustics",
     "traditional_chinese": "環境聲學",
-    "definition_cht": "「環境聲學」指研究相關現象、過程或系統特性的學科、理論架構或方法領域。",
+    "definition_cht": "研究環境中聲音與噪音之產生、傳播、量測、控制及其對人類與生態影響的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/environmental_acoustics"
   },
   {
     "english": "environmental chambers",
     "traditional_chinese": "環境試驗箱",
-    "definition_cht": "「環境試驗箱」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "可控制溫度、濕度、壓力、光照或其他條件的試驗艙，用於模擬特定環境並測試儀器、材料或生物體之反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/environmental_chambers"
   },
   {
     "english": "environmental lapse rate",
     "traditional_chinese": "環境遞減率",
-    "definition_cht": "環境大氣實際溫度隨高度遞減的垂直梯度，是判斷靜力穩定度的重要量。",
+    "definition_cht": "環境大氣實際氣溫隨高度遞減的垂直梯度，是判斷大氣靜力穩定度與對流發展潛勢的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/environmental_lapse_rate"
   },
   {
     "english": "environmental tracer",
     "traditional_chinese": "環境示蹤劑",
-    "definition_cht": "「環境示蹤劑」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "存在於環境中或人工投放之示蹤物質、同位素或性質指標，用於追蹤氣團、水團或污染物的來源、輸送、混合與停留時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/environmental_tracer"
   },
   {
     "english": "eolation",
-    "traditional_chinese": "風化搬運",
-    "definition_cht": "指「風化搬運」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "traditional_chinese": "風成作用",
+    "definition_cht": "風對地表物質造成侵蝕、搬運與堆積的作用，亦可泛指風成過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/eolation"
   },
   {
