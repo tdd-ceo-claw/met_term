@@ -17287,122 +17287,122 @@
   },
   {
     "english": "Eole",
-    "traditional_chinese": "風神衛星",
-    "definition_cht": "法國早期氣象衛星或相關觀測計畫名稱，主要用於蒐集大氣漂流儀或風場觀測資料。",
+    "traditional_chinese": "EOLE 實驗",
+    "definition_cht": "1970 年代法國主導的大氣觀測計畫，利用長時效漂浮氣球追蹤南半球熱帶與副熱帶風場，以研究高空環流與數值天氣預報所需的風資料；並非一般意義上的氣象衛星。",
     "source_url": "https://glossary.ametsoc.org/wiki/Eole"
   },
   {
     "english": "EOS",
-    "traditional_chinese": "地球觀測衛星",
-    "definition_cht": "通常指地球觀測系統或相關衛星計畫，用於長期監測地球系統各圈層的變化。",
+    "traditional_chinese": "地球觀測系統",
+    "definition_cht": "通常指 NASA 的 Earth Observing System，為由多顆衛星、酬載、地面資料系統與長期觀測計畫組成的地球科學觀測體系，用於監測大氣、海洋、陸地與生物圈變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/EOS"
   },
   {
     "english": "EOSO",
-    "traditional_chinese": "地球與海洋科學觀測",
-    "definition_cht": "「EOSO」為相關領域常用的縮寫、代號或頻段名稱，通常指涉特定觀測系統、模式產品、物理量、儀器或科學概念；實際涵義須依專業語境判定。",
+    "traditional_chinese": "EOSO",
+    "definition_cht": "縮寫詞。依現有詞彙脈絡，通常與地球或海洋觀測系統相關；但若未提供原始文件定義或上下文，無法單憑詞面可靠判定其唯一正式全名，實務上應依特定資料集、計畫或機構文件解讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/EOSO"
   },
   {
     "english": "ephemeral data",
-    "traditional_chinese": "暫時性資料",
-    "definition_cht": "「暫時性資料」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "短期暫存資料",
+    "definition_cht": "指僅在短時間內保存、供中間處理、傳輸或暫時作業使用的資料，通常不作為長期保存或最終歸檔之正式資料集。",
     "source_url": "https://glossary.ametsoc.org/wiki/ephemeral_data"
   },
   {
     "english": "ephemeral lake",
-    "traditional_chinese": "季節湖",
-    "definition_cht": "指與「季節湖」相關的湖泊型態、水文狀態或地形環境。",
+    "traditional_chinese": "暫現湖",
+    "definition_cht": "僅在降雨、融雪或短期匯流後暫時積水形成的湖泊或窪地水體，平時多為乾涸，常見於乾旱、半乾旱或季節性集水環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/ephemeral_lake"
   },
   {
     "english": "ephemeral stream",
-    "traditional_chinese": "時令溪流",
-    "definition_cht": "指與「時令溪流」相關的溪流、水流或排水通道特性。",
+    "traditional_chinese": "暫現溪流",
+    "definition_cht": "僅在降雨、暴雨逕流或融雪期間短暫有水流的天然水道，平時河床多為乾涸，流量不連續且通常未與地下水位長期相連。",
     "source_url": "https://glossary.ametsoc.org/wiki/ephemeral_stream"
   },
   {
     "english": "ephemeris",
     "traditional_chinese": "星曆表",
-    "definition_cht": "「星曆表」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "列出天體或人造衛星在不同時刻之位置、速度或其他軌道參數的表格或資料集，廣泛用於天文、航海、衛星導航與遙測幾何計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/ephemeris"
   },
   {
     "english": "epilimnion",
     "traditional_chinese": "表水層",
-    "definition_cht": "湖泊或水庫在分層季節中位於上部、受風力混合較強且水溫較高的表層水層。",
+    "definition_cht": "湖泊或水庫熱分層期間最上層、受太陽加熱與風力混合最明顯的水層，通常水溫較高、密度較低，並位於溫躍層之上。",
     "source_url": "https://glossary.ametsoc.org/wiki/epilimnion"
   },
   {
     "english": "epipycnal",
-    "traditional_chinese": "等密面上的",
-    "definition_cht": "「等密面上的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "沿等密面進行的",
+    "definition_cht": "指在海洋或湖泊中沿等密度面、而非穿越等密度面所發生的運動、輸送或分布特性；常用於描述水團沿中性或近中性層面的流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/epipycnal"
   },
   {
     "english": "epipycnal mixing",
     "traditional_chinese": "等密面混合",
-    "definition_cht": "指與「等密面混合」相關的混合作用，描述不同流體性質在湍流、對流或剪切下的交換過程。",
+    "definition_cht": "主要沿等密度面進行的水體性質交換與擴散過程，常較穿越等密度面的混合有效，對海洋中熱、鹽與示蹤物的水平或斜向傳輸特別重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/epipycnal_mixing"
   },
   {
     "english": "episode",
     "traditional_chinese": "污染事件期",
-    "definition_cht": "「污染事件期」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在空氣污染管理中，指污染物濃度因不利氣象與排放條件而持續升高、達到或接近預警與應變門檻的一段期間。",
     "source_url": "https://glossary.ametsoc.org/wiki/episode"
   },
   {
     "english": "episode criteria",
-    "traditional_chinese": "事件判定準則",
-    "definition_cht": "「事件判定準則」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "污染事件判定準則",
+    "definition_cht": "用以判定是否發生空氣污染事件期的基準條件，通常包含污染物濃度門檻、持續時間、空氣品質分級與相關氣象條件，供發布警報或啟動應變措施之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/episode_criteria"
   },
   {
     "english": "epitaxis",
     "traditional_chinese": "外延生長",
-    "definition_cht": "「外延生長」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "晶體材料在既有晶體基板上依其晶格方向有序沉積與成長的過程，新生薄層會與基板保持特定晶向關係，常用於半導體與薄膜製程。",
     "source_url": "https://glossary.ametsoc.org/wiki/epitaxis"
   },
   {
     "english": "epoch",
-    "traditional_chinese": "紀元",
-    "definition_cht": "「紀元」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "世",
+    "definition_cht": "地質年代學中的正式時間單位，位於紀之下、期之上，用以表示地球歷史中具有特定年代範圍的一段時間；在其他學科中亦可泛指某一基準時刻或時代。",
     "source_url": "https://glossary.ametsoc.org/wiki/epoch"
   },
   {
     "english": "epoxide",
     "traditional_chinese": "環氧化物",
-    "definition_cht": "「環氧化物」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "含有三員環醚結構的有機化合物，環上由兩個碳原子與一個氧原子組成；因環張力大而反應性高，在大氣化學與工業有機反應中皆具重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/epoxide"
   },
   {
     "english": "equal-area map",
-    "traditional_chinese": "等積投影圖",
-    "definition_cht": "「等積投影圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等積地圖",
+    "definition_cht": "採用等積投影所繪製的地圖，能保留各區域相對面積的正確比例，但通常會犧牲局部形狀、角度或距離的精確性。",
     "source_url": "https://glossary.ametsoc.org/wiki/equal-area_map"
   },
   {
     "english": "equation of continuity",
     "traditional_chinese": "連續方程",
-    "definition_cht": "描述質量守恆的基本方程，表示流體密度變化與質量通量散度之間的關係。",
+    "definition_cht": "表達守恆量在空間與時間中連續輸送關係的方程；在流體力學中最常用以表示質量守恆，即控制體內密度變化率與通量散度之間的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/equation_of_continuity"
   },
   {
     "english": "equation of piezotropy",
-    "traditional_chinese": "壓塑性方程",
-    "definition_cht": "描述「壓塑性方程」相關物理量之間關係、守恆條件或演變規律的方程。",
+    "traditional_chinese": "壓致性方程",
+    "definition_cht": "描述介質某一物理性質隨壓力改變而變化之數學關係式，常用於連結壓力與密度、體積或其他狀態量的壓致變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/equation_of_piezotropy"
   },
   {
     "english": "equation of state",
     "traditional_chinese": "狀態方程",
-    "definition_cht": "連結壓力、溫度、密度等熱力變數關係的方程，是大氣與海洋熱力分析的基礎。",
+    "definition_cht": "連結壓力、溫度、密度、體積或鹽度等狀態變數之間關係的方程，是大氣、海洋與熱力學中描述流體物性與能量狀態的基本關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/equation_of_state"
   },
   {
     "english": "equation of time",
-    "traditional_chinese": "時差方程",
-    "definition_cht": "描述「時差方程」相關物理量之間關係、守恆條件或演變規律的方程。",
+    "traditional_chinese": "均時差",
+    "definition_cht": "視太陽時與平太陽時之間的時間差，反映地球公轉軌道偏心與地軸傾斜共同造成的日行差異；常用於日晷校正、天文曆算與太陽位置計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/equation_of_time"
   },
   {
