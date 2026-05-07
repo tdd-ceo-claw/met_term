@@ -1442,121 +1442,121 @@
   {
     "english": "digital filter",
     "traditional_chinese": "數位濾波器",
-    "definition_cht": "「數位濾波器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在離散時間訊號上以數值運算抑制、平滑或強化特定頻率成分的濾波方法；於氣象資料處理常用來去除雜訊、分離尺度或擷取週期訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/digital_filter"
   },
   {
     "english": "dimensional analysis",
-    "traditional_chinese": "維度分析",
-    "definition_cht": "「維度分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "量綱分析",
+    "definition_cht": "根據各物理量的基本量綱關係推導變數間可能的函數形式與相似律的方法；在氣象與流體力學中常用於建立縮尺關係與無量綱參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/dimensional_analysis"
   },
   {
     "english": "dimensionless group",
     "traditional_chinese": "無量綱群",
-    "definition_cht": "「無量綱群」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "由多個物理變數依量綱分析組合而成、與單位選擇無關的無量綱量，常用以表示動力相似性，例如雷諾數、佛汝德數等。",
     "source_url": "https://glossary.ametsoc.org/wiki/dimensionless_group"
   },
   {
     "english": "dimethyl disulfide",
     "traditional_chinese": "二甲基二硫醚",
-    "definition_cht": "「二甲基二硫醚」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "化學式 CH3SSCH3 的天然含硫氣體，為自然硫循環中的微量成分之一，可由生物與分解作用釋放至大氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/dimethyl_disulfide"
   },
   {
     "english": "dimethyl sulfide",
     "traditional_chinese": "二甲硫醚",
-    "definition_cht": "「二甲硫醚」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "簡稱 DMS，海洋生物排放量很高的揮發性含硫氣體；其氧化產物可參與對流層氣膠與雲凝結核形成，因而與氣候調節有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/dimethyl_sulfide"
   },
   {
     "english": "dimethyl sulfoxide",
-    "traditional_chinese": "二甲亞砜",
-    "definition_cht": "「二甲亞砜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "二甲基亞碸",
+    "definition_cht": "簡稱 DMSO，化學式 (CH3)2SO，屬部分氧化的含硫化合物；雖常作溶劑使用，但因揮發性較低，在大氣中的濃度通常不高。",
     "source_url": "https://glossary.ametsoc.org/wiki/dimethyl_sulfoxide"
   },
   {
     "english": "Dimmerfoehn",
-    "traditional_chinese": "調暗焚風",
-    "definition_cht": "「調暗焚風」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "陰焚風",
+    "definition_cht": "較少見的南風型焚風；當強烈偏南或西南氣流把水氣與降水帶過阿爾卑斯山後，背風側不再典型地晴朗乾燥，而呈陰天甚至有降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dimmerfoehn"
   },
   {
     "english": "Dines anemometer",
-    "traditional_chinese": "迪尼斯風速計",
-    "definition_cht": "與「迪尼斯風速計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "戴恩斯風速計",
+    "definition_cht": "由 William Henry Dines 於 1892 年提出的壓力管式風速計，藉迎風端與靜壓端的壓差測定風速，曾長期用於氣象觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dines_anemometer"
   },
   {
     "english": "Dines compensation",
-    "traditional_chinese": "用餐補償",
-    "definition_cht": "「用餐補償」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "戴恩斯補償",
+    "definition_cht": "指大氣水平輻散在對流層或平流層內至少會有一次變號的性質，因此整層垂直積分後的輻散與地面氣壓趨勢，往往只是上下層較大貢獻彼此抵消後的殘差。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dines_compensation"
   },
   {
     "english": "Dines radiometer",
-    "traditional_chinese": "迪尼斯輻射計",
-    "definition_cht": "與「迪尼斯輻射計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "戴恩斯輻射計",
+    "definition_cht": "以醚差溫計與黑化球泡構成的輻射測量儀器；一球暴露於待測輻射，另一球對準可調溫黑體源，用以比較並求得輻射強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dines_radiometer"
   },
   {
     "english": "dinitrogen pentoxide",
     "traditional_chinese": "五氧化二氮",
-    "definition_cht": "「五氧化二氮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "化學式 N2O5，由硝酸根自由基與二氧化氮反應生成；近地面熱穩定性差，但在較高大氣層可作為活性氮氧化物的重要暫存庫。",
     "source_url": "https://glossary.ametsoc.org/wiki/dinitrogen_pentoxide"
   },
   {
     "english": "diode laser",
     "traditional_chinese": "二極體雷射",
-    "definition_cht": "「二極體雷射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "以半導體 p-n 接面注入電流產生雷射的固態光源；常工作於紅外波段，適合量測一氧化碳、氧化亞氮等大氣微量氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/diode_laser"
   },
   {
     "english": "dioxane (-1, 4)",
-    "traditional_chinese": "二噁烷 (-1, 4)",
-    "definition_cht": "「二噁烷 (-1, 4)」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "1,4-二噁烷",
+    "definition_cht": "化學式 C4H8O2 的環狀醚類有機化合物，常作溶劑與工業中間體；在大氣與環境化學中可作為揮發性有機污染物加以監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/dioxane_(-1,_4)"
   },
   {
     "english": "dip circle",
-    "traditional_chinese": "傾角圈",
-    "definition_cht": "「傾角圈」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "磁傾角儀",
+    "definition_cht": "用於測量地球磁場傾角的儀器；最簡形式為裝在軸承上的磁化指針與刻度盤，亦可藉其振盪估算磁場強度的相對值。",
     "source_url": "https://glossary.ametsoc.org/wiki/dip_circle"
   },
   {
     "english": "dip of the horizon",
-    "traditional_chinese": "地平線的傾斜",
-    "definition_cht": "「地平線的傾斜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "地平俯角",
+    "definition_cht": "觀測者所在水平面與視線指向可見地平線之間的夾角；此角度受地球曲率與觀測高度影響，常用於導航與測量。",
     "source_url": "https://glossary.ametsoc.org/wiki/dip_of_the_horizon"
   },
   {
     "english": "dip pole",
-    "traditional_chinese": "浸極",
-    "definition_cht": "「浸極」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "磁極",
+    "definition_cht": "地球表面上磁場水平分量為零、磁力線近乎垂直出入地表的點；氣象電磁與地磁文獻中常作 magnetic pole 的同義語。",
     "source_url": "https://glossary.ametsoc.org/wiki/dip_pole"
   },
   {
     "english": "dipole",
-    "traditional_chinese": "偶極子",
-    "definition_cht": "「偶極子」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "偶極",
+    "definition_cht": "未特別指明時通常指電偶極，即兩個等量異號電荷相隔一定距離所構成的系統；其電場分布是電磁與遙測理論中的基本概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/dipole"
   },
   {
     "english": "dipole antenna",
     "traditional_chinese": "偶極天線",
-    "definition_cht": "「偶極天線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "由兩段導體構成的基本線性天線，常用作發射或接收無線電波；在雷達與遙測系統中常作為基本輻射元件或參考天線。",
     "source_url": "https://glossary.ametsoc.org/wiki/dipole_antenna"
   },
   {
     "english": "dipole moment",
     "traditional_chinese": "偶極矩",
-    "definition_cht": "「偶極矩」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "未特別指明時通常指電偶極矩，為偶極中電荷量與其分離距離的乘積，用以表示偶極強度與方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/dipole_moment"
   },
   {
     "english": "direct cell",
-    "traditional_chinese": "直接細胞",
-    "definition_cht": "指與「直接細胞」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "直接環流胞",
+    "definition_cht": "又稱直接環流，是一種熱力閉合環流：暖空氣在受熱區上升、於高空流向較冷區後下沉，再近地面返回熱源區；其熱力循環方向與溫度梯度所驅動的壓力分布一致。",
     "source_url": "https://glossary.ametsoc.org/wiki/direct_cell"
   },
   {
