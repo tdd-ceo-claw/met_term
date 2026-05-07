@@ -15373,122 +15373,122 @@
   },
   {
     "english": "drift-correction angle",
-    "traditional_chinese": "漂移校正角",
-    "definition_cht": "指與「漂移校正角」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "航跡修正角",
+    "definition_cht": "航空導航中，為抵消側風造成的偏流並維持預定航跡，飛機航向與實際航跡之間所需的修正角度；亦常稱為偏流修正角或蟹行角。",
     "source_url": "https://glossary.ametsoc.org/wiki/drift-correction_angle"
   },
   {
     "english": "drifter",
-    "traditional_chinese": "漂流者",
-    "definition_cht": "指與「漂流者」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "漂流器",
+    "definition_cht": "在海洋中隨流漂移的被動追蹤裝置或浮體，用於近似拉格朗日方式量測海流路徑、流速及相關海氣參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/drifter"
   },
   {
     "english": "drifting buoy",
     "traditional_chinese": "漂流浮標",
-    "definition_cht": "指與「漂流浮標」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "不繫固於海底、隨近海面洋流漂移的海洋觀測浮標，可量測海表溫度、氣壓、位置，並可加裝鹽度、波浪或風等感測器。",
     "source_url": "https://glossary.ametsoc.org/wiki/drifting_buoy"
   },
   {
     "english": "drifting dust",
     "traditional_chinese": "飄塵",
-    "definition_cht": "指與「飄塵」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "已被風揚起並在近地面隨風飄移的細塵，使能見度下降，但通常不如沙塵暴或高空揚塵強烈；屬現天氣中的風揚塵現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/drifting_dust"
   },
   {
     "english": "drifting sand",
-    "traditional_chinese": "流沙",
-    "definition_cht": "指與「流沙」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "飄沙",
+    "definition_cht": "地表砂粒受強風吹送而在近地面移動或跳躍前進的現象，可造成低層視程惡化；若被抬升至較高高度，則多歸為 blowing sand。",
     "source_url": "https://glossary.ametsoc.org/wiki/drifting_sand"
   },
   {
     "english": "drifting snow",
     "traditional_chinese": "飄雪",
-    "definition_cht": "指與「飄雪」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "地面積雪被風捲起，但主要侷限於觀測者眼高以下的雪粒飄移現象，常使近地面視程變差；若抬升至眼高以上則屬 blowing snow。",
     "source_url": "https://glossary.ametsoc.org/wiki/drifting_snow"
   },
   {
     "english": "driller's log",
-    "traditional_chinese": "司鑽日誌",
-    "definition_cht": "「司鑽日誌」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "鑽井紀錄",
+    "definition_cht": "鑽探作業中按深度連續記錄岩性、土層、地下水、取樣與施工情況的原始紀錄，可供地質、水文地質與工程判釋使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/driller%27s_log"
   },
   {
     "english": "drip",
-    "traditional_chinese": "滴",
-    "definition_cht": "「滴」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "滴落",
+    "definition_cht": "液態水以單滴或間歇小滴形式自物體表面下落的現象；在水文或微物理語境中，可指凝結水、融水或附著水的滴落。",
     "source_url": "https://glossary.ametsoc.org/wiki/drip"
   },
   {
     "english": "driven snow",
-    "traditional_chinese": "積雪",
-    "definition_cht": "指與「積雪」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "風吹雪",
+    "definition_cht": "雪被強風吹送而橫向疾行的現象，常指被風驅動的降雪或地面雪粒，能明顯降低能見度並促進雪堆形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/driven_snow"
   },
   {
     "english": "driving-rain index",
-    "traditional_chinese": "驅動降雨指數",
-    "definition_cht": "用於表示「驅動降雨指數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "風驅雨指數",
+    "definition_cht": "表徵降雨在風作用下撞擊建築物表面之潛勢或強度的指標，常綜合降雨量與風速（或風向暴露）估算，用於外牆受雨暴露與風雨滲漏評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/driving-rain_index"
   },
   {
     "english": "Drizzle",
-    "traditional_chinese": "細雨",
-    "definition_cht": "指與「細雨」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "毛毛雨",
+    "definition_cht": "由極小且密集的液態水滴組成的微弱降水，滴徑一般小於約 0.5 毫米，多由層雲或層積雲產生，下降緩慢，常伴隨低雲或霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/Drizzle"
   },
   {
     "english": "drizzle drop",
     "traditional_chinese": "毛毛雨滴",
-    "definition_cht": "指與「毛毛雨滴」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "構成毛毛雨的液態小水滴，直徑通常約介於 0.2 至 0.5 毫米之間，大於雲滴而小於一般雨滴。",
     "source_url": "https://glossary.ametsoc.org/wiki/drizzle_drop"
   },
   {
     "english": "drogue",
-    "traditional_chinese": "錐套",
-    "definition_cht": "「錐套」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "海錨",
+    "definition_cht": "裝設於漂流器、浮標或船體上的阻流裝置，用以增加水阻、穩定姿態並使其較貼近目標水層隨流移動；在海洋漂流浮標中常作為 subsurface drogue。",
     "source_url": "https://glossary.ametsoc.org/wiki/drogue"
   },
   {
     "english": "drop",
-    "traditional_chinese": "降低",
-    "definition_cht": "「降低」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "滴",
+    "definition_cht": "液體形成的單一小滴；在氣象與雲物理中可泛指雨滴、雲滴、霧滴或其他液態水滴的個別單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/drop"
   },
   {
     "english": "drop breakup",
-    "traditional_chinese": "分手",
-    "definition_cht": "「分手」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "液滴破裂",
+    "definition_cht": "較大液滴在空氣動力作用、碰撞或振盪不穩定下分裂成多個較小液滴的過程，是降水微物理中影響粒徑分布的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/drop_breakup"
   },
   {
     "english": "drop-size distribution",
-    "traditional_chinese": "液滴尺寸分佈",
-    "definition_cht": "「液滴尺寸分佈」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "液滴粒徑分布",
+    "definition_cht": "描述一定體積內各種直徑液滴之數量濃度如何隨粒徑變化的分布函數；在降水微物理中常用以表徵雨滴大小組成與降雨結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/drop-size_distribution"
   },
   {
     "english": "drop-size spectrometer",
-    "traditional_chinese": "液滴尺寸光譜儀",
-    "definition_cht": "與「液滴尺寸光譜儀」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "液滴粒徑譜儀",
+    "definition_cht": "量測雲滴、雨滴或氣膠粒子粒徑分布與濃度的儀器，通常利用光學散射、遮光或成像方法建立粒徑譜。",
     "source_url": "https://glossary.ametsoc.org/wiki/drop-size_spectrometer"
   },
   {
     "english": "droplet",
-    "traditional_chinese": "水滴",
-    "definition_cht": "「水滴」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "液滴",
+    "definition_cht": "由表面張力維持形狀的微小液體顆粒；在大氣科學中可指雲滴、霧滴或雨滴等液態水粒子。",
     "source_url": "https://glossary.ametsoc.org/wiki/droplet"
   },
   {
     "english": "Dropsonde",
     "traditional_chinese": "下投探空儀",
-    "definition_cht": "「下投探空儀」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "自飛機投放、於下降過程中量測氣壓、氣溫、濕度、風速與風向等垂直剖面的拋棄式探空儀，常用於颱風、熱帶氣旋與海上天氣偵測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dropsonde"
   },
   {
     "english": "dropsonde observation",
-    "traditional_chinese": "下投探空儀觀測",
-    "definition_cht": "「下投探空儀觀測」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "下投探空觀測",
+    "definition_cht": "利用下投探空儀在其下降過程中取得的大氣垂直剖面觀測，內容通常包括氣壓、氣溫、濕度、風場與定位資料，可用於天氣分析與數值預報同化。",
     "source_url": "https://glossary.ametsoc.org/wiki/dropsonde_observation"
   },
   {
