@@ -15493,122 +15493,122 @@
   },
   {
     "english": "drosometer",
-    "traditional_chinese": "里程計",
-    "definition_cht": "與「里程計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
-    "source_url": "https://glossary.ametsoc.org/wiki/drosometer"
+    "traditional_chinese": "露量計",
+    "definition_cht": "用於測量單位時間內、單位表面上所凝結露量的儀器，可藉稱重或其他方式估算露水沉積量。",
+    "source_url": "https://en.wikipedia.org/wiki/Drosometer"
   },
   {
     "english": "Drought",
     "traditional_chinese": "乾旱",
-    "definition_cht": "「乾旱」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Drought"
+    "definition_cht": "指一地在持續一段時間內降水顯著偏少，導致土壤水分、地表水或地下水供應不足，並進一步影響生態、農業或用水需求的現象。",
+    "source_url": "https://en.wikipedia.org/wiki/Drought"
   },
   {
     "english": "drought index",
     "traditional_chinese": "乾旱指數",
-    "definition_cht": "用於表示「乾旱指數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "用以量化乾旱程度的指標，通常綜合降水、氣溫、蒸發散、土壤濕度或逕流等資料，評估乾旱的強度、持續時間與空間分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/drought_index"
   },
   {
     "english": "droxtal",
-    "traditional_chinese": "德羅斯塔爾",
-    "definition_cht": "「德羅斯塔爾」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "微小冰晶",
+    "definition_cht": "指直徑約數十微米、由過冷水滴在很低溫下直接凍結形成的微小冰晶；常見於冰霧環境，並可能明顯降低能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/droxtal"
   },
   {
     "english": "dry adiabat",
-    "traditional_chinese": "乾絕熱岩",
-    "definition_cht": "「乾絕熱岩」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "乾絕熱線",
+    "definition_cht": "在熱力圖上表示未飽和空氣塊進行乾絕熱升降時，其溫度與壓力關係的曲線；亦可視為位溫近似不變的線。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_adiabat"
   },
   {
     "english": "dry air",
-    "traditional_chinese": "乾燥空氣",
-    "definition_cht": "「乾燥空氣」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "乾空氣",
+    "definition_cht": "在大氣熱力學中，指理想化地不含水汽的空氣；實務上亦可泛指相對濕度很低的空氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_air"
   },
   {
     "english": "dry climate",
-    "traditional_chinese": "氣候乾燥",
-    "definition_cht": "「氣候乾燥」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/dry_climate"
+    "traditional_chinese": "乾燥氣候",
+    "definition_cht": "指降水長期不足、難以抵銷蒸發與蒸散需求的氣候型，通常包括乾燥亞濕潤、半乾旱與乾旱等類型。",
+    "source_url": "https://en.wikipedia.org/wiki/Aridity"
   },
   {
     "english": "dry convection",
     "traditional_chinese": "乾對流",
-    "definition_cht": "指與「乾對流」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "definition_cht": "指在未飽和空氣中發生的對流運動，過程中不涉及凝結潛熱釋放，空氣塊溫度變化主要遵循乾絕熱直減率。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_convection"
   },
   {
     "english": "dry deposition",
-    "traditional_chinese": "乾沉積",
-    "definition_cht": "「乾沉積」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/dry_deposition"
+    "traditional_chinese": "乾沉降",
+    "definition_cht": "指大氣中的氣體、氣膠或粒子在無降水情況下，藉重力沉降、攔截、撞擊或表面吸收等機制直接移除至地表或其他表面的過程。",
+    "source_url": "https://en.wikipedia.org/wiki/Deposition_(aerosol_physics)"
   },
   {
     "english": "dry fog",
     "traditional_chinese": "乾霧",
-    "definition_cht": "指與「乾霧」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "指並非由水滴凝結形成、而是由煙、塵、鹽粒或火山微粒等乾性懸浮粒子造成的霧狀混濁現象，會使能見度降低。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_fog"
   },
   {
     "english": "dry freeze",
     "traditional_chinese": "乾凍",
-    "definition_cht": "「乾凍」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指在空氣相當乾燥、地表可用水氣很少的情況下發生的凍害；氣溫雖降至冰點以下，但地表未必形成明顯霜或冰沉積。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_freeze"
   },
   {
     "english": "dry growth",
-    "traditional_chinese": "乾燥生長",
-    "definition_cht": "「乾燥生長」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "乾式成長",
+    "definition_cht": "指雹或霰在過冷水滴碰撞後立即凍結、未形成液態水膜的增長方式；生成物常較不透明，並含有較多夾帶空氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_growth"
   },
   {
     "english": "dry haze",
-    "traditional_chinese": "乾霧",
-    "definition_cht": "指與「乾霧」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "乾霾",
+    "definition_cht": "指由乾性微粒（如煙霧、塵埃或污染粒子）主導的霾狀混濁現象，與由液態水滴主成的濕霧不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_haze"
   },
   {
     "english": "dry ice",
     "traditional_chinese": "乾冰",
-    "definition_cht": "指與「乾冰」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
-    "source_url": "https://glossary.ametsoc.org/wiki/dry_ice"
+    "definition_cht": "固態二氧化碳，常壓下會直接昇華而不經液態；在氣象相關應用中可用於雲物理實驗、人工增雨或冷卻作業。",
+    "source_url": "https://en.wikipedia.org/wiki/Dry_ice"
   },
   {
     "english": "dry permafrost",
-    "traditional_chinese": "乾燥的永凍土",
-    "definition_cht": "指與「乾燥的永凍土」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "乾性永凍土",
+    "definition_cht": "指冰含量很低、孔隙中幾乎缺乏可凍結水分的永凍土，常見於極地乾燥區或長期水分供應極少的地表環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_permafrost"
   },
   {
     "english": "dry season",
     "traditional_chinese": "旱季",
-    "definition_cht": "「旱季」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/dry_season"
+    "definition_cht": "一年之中降水顯著偏少的季節，常見於熱帶與副熱帶地區，與雨季相對，並常受季風、熱帶輻合帶或大尺度環流季節移動控制。",
+    "source_url": "https://en.wikipedia.org/wiki/Dry_season"
   },
   {
     "english": "dry snow",
     "traditional_chinese": "乾雪",
-    "definition_cht": "指與「乾雪」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "definition_cht": "含液態水極少、雪粒彼此較鬆散的雪，通常出現在氣溫明顯低於冰點時；其雪水比偏高，較易被風吹移。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_snow"
   },
   {
     "english": "dry spell",
     "traditional_chinese": "乾旱期",
-    "definition_cht": "「乾旱期」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指連續一段時間幾乎無雨或降水顯著偏少的期間；在氣候與農業分析中常用以描述短期缺水情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_spell"
   },
   {
     "english": "dry stage",
-    "traditional_chinese": "乾燥階段",
-    "definition_cht": "「乾燥階段」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "枯水位",
+    "definition_cht": "指河川、湖泊或其他水體在缺乏降雨補注時所處的低水位狀態，通常接近基流控制下的枯水階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_stage"
   },
   {
     "english": "dry static energy",
-    "traditional_chinese": "乾靜態能量",
-    "definition_cht": "「乾靜態能量」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "乾靜能",
+    "definition_cht": "由空氣的感熱項與位能項組成，常寫為 cpT + gz；不包含水汽潛熱，常用於分析乾絕熱條件下的大氣能量分布與守恆。",
     "source_url": "https://glossary.ametsoc.org/wiki/dry_static_energy"
   },
   {
