@@ -1562,121 +1562,121 @@
   {
     "english": "equatorial upwelling",
     "traditional_chinese": "赤道湧升流",
-    "definition_cht": "赤道附近因風應力散度與科氏效應配置所引起的深層冷水上升過程。",
+    "definition_cht": "赤道附近海表水受信風驅動並因科氏參數在赤道兩側符號相反而向南北分離，促使下層較冷且富營養鹽的海水上升至表層的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_upwelling"
   },
   {
     "english": "equatorial vortex",
     "traditional_chinese": "赤道渦旋",
-    "definition_cht": "「赤道渦旋」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "位於赤道附近、受赤道 β 效應與背景環流控制的渦旋式擾動或環流，可指大氣或海洋中的旋轉結構，其尺度、旋向與生命期須依具體情境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_vortex"
   },
   {
     "english": "equatorial water",
     "traditional_chinese": "赤道水團",
-    "definition_cht": "「赤道水團」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "分布於赤道海域或在赤道環流影響下形成的水團，其溫度、鹽度與密度特徵受強烈日照、降水蒸發及赤道海流混合作用共同塑造。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_water"
   },
   {
     "english": "equatorial wave",
     "traditional_chinese": "赤道波",
-    "definition_cht": "指與「赤道波」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "definition_cht": "受赤道附近科氏參數隨緯度變化所束縛、能沿赤道附近傳播且振幅向南北兩側迅速衰減的波動，可存在於大氣或海洋中。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_wave"
   },
   {
     "english": "equatorial waveguide",
     "traditional_chinese": "赤道波導",
-    "definition_cht": "指能導引「赤道波導」相關波動或電磁能量傳播的通道或束縛結構。",
+    "definition_cht": "赤道附近可將波動能量侷限並導引其沿東西向傳播的動力通道；其形成主因是科氏參數在赤道附近隨緯度迅速增大，使赤道波不易向高緯擴散。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_waveguide"
   },
   {
     "english": "equatorial waves",
-    "traditional_chinese": "赤道波動",
-    "definition_cht": "指與「赤道波動」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "traditional_chinese": "赤道波系",
+    "definition_cht": "赤道附近一組受赤道波導束縛的波動總稱，包括赤道開爾文波、赤道羅斯貝波、混合羅斯貝—重力波及赤道慣性重力波等。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_waves"
   },
   {
     "english": "equatorial westerlies",
     "traditional_chinese": "赤道西風",
-    "definition_cht": "「赤道西風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "出現在赤道附近、由西向東吹送的風系或短期風爆，常與熱帶對流、馬登－朱利安振盪及 ENSO 演變有關，並可激發海洋赤道波動。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_westerlies"
   },
   {
     "english": "equatorially trapped waves",
     "traditional_chinese": "赤道俘獲波",
-    "definition_cht": "指與「赤道俘獲波」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "definition_cht": "振幅集中於赤道附近、離開赤道後迅速衰減的受困波動，係赤道波的一類，其水平結構由赤道附近的 β 效應所控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorially_trapped_waves"
   },
   {
     "english": "equideparture",
-    "traditional_chinese": "等經差",
-    "definition_cht": "「等經差」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等離距",
+    "definition_cht": "航海與海圖學用語，指相同 departure（東西向位移）所對應的狀態或量值；departure 為沿某緯圈量得之經向間東西距離，常用於航程與投影計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/equideparture"
   },
   {
     "english": "equilibrium",
     "traditional_chinese": "平衡",
-    "definition_cht": "「平衡」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "系統內各種作用力、通量或物理過程彼此抵消或達穩定配合，使狀態量不再出現淨變化的狀態；在氣象學中常見如流體靜力平衡、地轉平衡與輻射平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium"
   },
   {
     "english": "equilibrium climate",
     "traditional_chinese": "平衡氣候",
-    "definition_cht": "「平衡氣候」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在既定外部強迫條件下，當地球氣候系統的能量與質量收支達長期平衡、平均狀態不再持續漂移時所對應的氣候狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_climate"
   },
   {
     "english": "equilibrium climate response",
     "traditional_chinese": "平衡氣候響應",
-    "definition_cht": "在輻射強迫改變後，氣候系統達到新平衡狀態時的最終氣候響應。",
+    "definition_cht": "外部輻射強迫改變後，待海氣耦合氣候系統充分調整並達到新平衡時所呈現的最終平均氣候變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_climate_response"
   },
   {
     "english": "equilibrium drawdown",
     "traditional_chinese": "平衡降深",
-    "definition_cht": "「平衡降深」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "地下水井抽水一段時間後，當補注與抽取大致相抵、井中或含水層水位下降趨於穩定時所對應的降深量，亦即近似穩態抽水的降深。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_drawdown"
   },
   {
     "english": "equilibrium line",
     "traditional_chinese": "平衡線",
-    "definition_cht": "冰川累積量與消融量相等的位置線，用於區分累積區與消融區。",
+    "definition_cht": "冰川或積雪體上累積量與消融量在一定期間內相等的位置線，用以區分上方的累積區與下方的消融區。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_line"
   },
   {
     "english": "equilibrium range",
-    "traditional_chinese": "平衡範圍",
-    "definition_cht": "「平衡範圍」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "平衡區段",
+    "definition_cht": "風浪頻譜中高頻端的一段頻率範圍，其中風能輸入、非線性能量傳遞與耗散作用近似達到統計平衡，因此頻譜形狀呈現相對穩定的冪次衰減。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_range"
   },
   {
     "english": "equilibrium solar tide",
     "traditional_chinese": "平衡太陽潮",
-    "definition_cht": "「平衡太陽潮」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在平衡潮假設下，僅由太陽引潮力所產生的理想化潮汐起伏；實際海洋中的太陽潮會再受海盆形狀、摩擦與地球自轉等動力效應修飾。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_solar_tide"
   },
   {
     "english": "equilibrium spheroid",
     "traditional_chinese": "平衡橢球體",
-    "definition_cht": "「平衡橢球體」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "自轉流體天體在自引力、壓力與離心力互相平衡時所呈現的理想化橢球形狀；對地球而言常近似為赤道稍鼓、兩極略扁的扁球體。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_spheroid"
   },
   {
     "english": "equilibrium theory",
     "traditional_chinese": "平衡理論",
-    "definition_cht": "「平衡理論」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "潮汐理論中的一種理想化觀點，假設全球海洋可即時回應月球與太陽引潮力，因而形成不受大陸阻隔、慣性與摩擦限制的平衡潮面。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_theory"
   },
   {
     "english": "equilibrium tide",
     "traditional_chinese": "平衡潮",
-    "definition_cht": "「平衡潮」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "假設地球被均勻深海完全覆蓋，且海水可即時隨引潮力調整時所得到的理想化潮汐面或潮高分布；實際潮汐常與此理想解有明顯差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_tide"
   },
   {
     "english": "equilibrium vapor pressure",
     "traditional_chinese": "平衡蒸氣壓",
-    "definition_cht": "在蒸發與凝結達動態平衡時，水氣所對應的蒸氣壓。",
+    "definition_cht": "在一定溫度下，某物質的氣相與其液相或固相達熱力學平衡時所對應的蒸氣壓；對水而言即該溫度下的飽和水汽壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_vapor_pressure"
   },
   {
