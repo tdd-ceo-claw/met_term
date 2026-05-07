@@ -962,121 +962,121 @@
   {
     "english": "EMAC probe",
     "traditional_chinese": "EMAC 探針",
-    "definition_cht": "「EMAC 探針」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "一種探針式感測器，文獻中多以 EMAC probe 稱之；用於量測特定介質或場量，實際量測項目須依儀器型號與觀測應用判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/EMAC_probe"
   },
   {
     "english": "emanometer",
-    "traditional_chinese": "逸散計",
-    "definition_cht": "為量測「逸散計」相關物理量所設計的儀器或裝置。",
+    "traditional_chinese": "逸氣計",
+    "definition_cht": "用於量測物質逸散或逸出氣體強度的儀器；在較舊文獻中亦可指量測放射性逸出物（如氡）之裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/emanometer"
   },
   {
     "english": "embata",
     "traditional_chinese": "恩巴塔風",
-    "definition_cht": "「恩巴塔風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "一種地方性日間坡谷風，指受山坡受熱驅動、沿坡面向上吹送的暖風；常與夜間下坡風相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/embata"
   },
   {
     "english": "embryo",
-    "traditional_chinese": "胚胎體",
-    "definition_cht": "「胚胎體」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "胚胎",
+    "definition_cht": "指生物在早期發育階段的雛形；引申而言，也可泛指某種系統、擾動或發展中的初始雛形。",
     "source_url": "https://glossary.ametsoc.org/wiki/embryo"
   },
   {
     "english": "emissary sky",
-    "traditional_chinese": "放射天空",
-    "definition_cht": "「放射天空」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "天空有效放射體",
+    "definition_cht": "在長波輻射計算中的概念化天空面，可視為向地表發射熱輻射的有效輻射源，用以近似天空逆輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/emissary_sky"
   },
   {
     "english": "emission",
-    "traditional_chinese": "發射",
-    "definition_cht": "指「發射」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "traditional_chinese": "放射；排放",
+    "definition_cht": "依語境可指物體向外放出電磁輻射、粒子或能量的過程，也可指污染物自特定來源排入大氣的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/emission"
   },
   {
     "english": "emission factor",
     "traditional_chinese": "排放因子",
-    "definition_cht": "「排放因子」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "表示單位活動量、燃料用量、產量或里程所對應污染物排放量的係數，用於估算排放總量。",
     "source_url": "https://glossary.ametsoc.org/wiki/emission_factor"
   },
   {
     "english": "emission inventory",
     "traditional_chinese": "排放清冊",
-    "definition_cht": "依來源、區域與時段彙整污染物排放量的資料庫或清冊，用於空氣品質管理與模式模擬。",
+    "definition_cht": "依污染源類別、地區與時段系統化彙整污染物排放量的資料集，用於空氣品質管理、排放追蹤與模式模擬。",
     "source_url": "https://glossary.ametsoc.org/wiki/emission_inventory"
   },
   {
     "english": "emission line",
     "traditional_chinese": "發射線",
-    "definition_cht": "指與「發射線」相關的線狀界面、等值線、特徵線或分析線。",
+    "definition_cht": "原子、分子或其他介質由高能態躍遷至低能態時，在特定波長或頻率所形成的明亮譜線。",
     "source_url": "https://glossary.ametsoc.org/wiki/emission_line"
   },
   {
     "english": "emission rate",
     "traditional_chinese": "排放率",
-    "definition_cht": "「排放率」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "單位時間內由特定來源排放至環境中的物質量或能量通量，常以質量／時間或通量形式表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/emission_rate"
   },
   {
     "english": "emission spectrum",
-    "traditional_chinese": "發射頻譜",
-    "definition_cht": "用於表示「發射頻譜」相關能量、強度或訊號隨頻率、波長或波數分布的頻譜。",
+    "traditional_chinese": "發射光譜",
+    "definition_cht": "物質因熱激發、電激發或其他能量過程而向外放射之電磁波譜分布，可呈離散譜線或連續譜。",
     "source_url": "https://glossary.ametsoc.org/wiki/emission_spectrum"
   },
   {
     "english": "emission standard",
     "traditional_chinese": "排放標準",
-    "definition_cht": "「排放標準」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由法規或管理制度訂定之污染物排放上限或控制要求，用以限制固定或移動污染源排放。",
     "source_url": "https://glossary.ametsoc.org/wiki/emission_standard"
   },
   {
     "english": "emissivity",
     "traditional_chinese": "發射率",
-    "definition_cht": "物體表面在特定波段與溫度下實際放射能力相對於黑體的比值，是遙測與輻射平衡計算的重要參數。",
+    "definition_cht": "物體表面在特定波段與溫度條件下之實際放射能力，相對於同溫黑體放射能力的比值。",
     "source_url": "https://glossary.ametsoc.org/wiki/emissivity"
   },
   {
     "english": "emittance",
-    "traditional_chinese": "發射度",
-    "definition_cht": "「發射度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "輻射出射度",
+    "definition_cht": "單位面積表面向外放射的總輻射能通量；在部分文獻中亦泛指表面的放射能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/emittance"
   },
   {
     "english": "empirical flood formula",
     "traditional_chinese": "經驗洪水公式",
-    "definition_cht": "「經驗洪水公式」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "依歷史洪水資料或流域經驗關係建立之近似公式，用以估算洪峰流量、設計洪水或相關水文量。",
     "source_url": "https://glossary.ametsoc.org/wiki/empirical_flood_formula"
   },
   {
     "english": "encroachment method",
     "traditional_chinese": "侵入法",
-    "definition_cht": "「侵入法」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "水文或水力分析中的近似方法，藉由假設洪水、海水或其他水體逐步侵入既定區域，估算水位、淹沒範圍或蓄水效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/encroachment_method"
   },
   {
     "english": "end of storm oscillation",
     "traditional_chinese": "暴風末期振盪",
-    "definition_cht": "指與「暴風末期振盪」相關的風暴、雷暴或強天氣現象，用以描述其形成與影響。",
+    "definition_cht": "指風暴主要強迫消退後，水面、大氣場或相關觀測訊號因慣性與回復力而持續出現的衰減振盪。",
     "source_url": "https://glossary.ametsoc.org/wiki/end_of_storm_oscillation"
   },
   {
     "english": "endorheic lake",
     "traditional_chinese": "內流湖",
-    "definition_cht": "指與「內流湖」相關的湖泊型態、水文狀態或地形環境。",
+    "definition_cht": "位於內流盆地、湖水不經地表河川外洩入海的湖泊，其水量主要受流入、蒸發與滲漏控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/endorheic_lake"
   },
   {
     "english": "endothermic reaction",
     "traditional_chinese": "吸熱反應",
-    "definition_cht": "指「吸熱反應」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "在反應進行過程中自周遭吸收熱量的化學反應，常使系統焓值增加。",
     "source_url": "https://glossary.ametsoc.org/wiki/endothermic_reaction"
   },
   {
     "english": "energetics",
     "traditional_chinese": "能量學",
-    "definition_cht": "「能量學」指研究相關現象、過程或系統特性的學科、理論架構或方法領域。",
+    "definition_cht": "研究系統中能量的來源、分配、轉換與收支關係的理論與分析方法，常用於大氣、海洋與氣候動力研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/energetics"
   },
   {
