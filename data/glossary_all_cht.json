@@ -15134,121 +15134,121 @@
   {
     "english": "down-gradient diffusion",
     "traditional_chinese": "向下梯度擴散",
-    "definition_cht": "指與「向下梯度擴散」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "definition_cht": "指熱量、動量或物質在分子擴散或紊流混合作用下，沿其平均梯度由高值區向低值區傳輸的過程；其通量方向與梯度方向相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/down-gradient_diffusion"
   },
   {
     "english": "down-gradient transport",
-    "traditional_chinese": "向下梯度傳輸",
-    "definition_cht": "「向下梯度傳輸」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "向下梯度輸送",
+    "definition_cht": "指某物理量的輸送方向由高值區指向低值區，亦即沿平均梯度遞減方向傳遞；在邊界層與紊流參數化中常作為局地閉合假設。",
     "source_url": "https://glossary.ametsoc.org/wiki/down-gradient_transport"
   },
   {
     "english": "Downburst",
     "traditional_chinese": "下擊暴流",
-    "definition_cht": "「下擊暴流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "由對流雲中強烈下沉氣流衝擊地面後，向四周迅速發散形成的局地強風現象，常帶來破壞性直線風；尺度較小者可稱微下擊暴流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Downburst"
   },
   {
     "english": "downdraft",
     "traditional_chinese": "下沉氣流",
-    "definition_cht": "「下沉氣流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指空氣向下運動的氣流，常見於積雨雲、降水拖曳區或冷空氣下沉區，與上升氣流相對，會影響降水、陣風及對流發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/downdraft"
   },
   {
     "english": "downdraft convective available potential energy",
-    "traditional_chinese": "下吸式對流可用位能",
-    "definition_cht": "「下吸式對流可用位能」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "下沉對流可用位能",
+    "definition_cht": "又稱 DCAPE，表示氣塊自中低層開始下沉時，可因蒸發冷卻等作用轉換為下沉動能的位能大小，常用來評估強下沉氣流與下擊暴流的潛勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/downdraft_convective_available_potential_energy"
   },
   {
     "english": "downrush",
-    "traditional_chinese": "下衝",
-    "definition_cht": "「下衝」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "下衝氣流",
+    "definition_cht": "指空氣快速向下衝降的氣流或氣流脈衝，常用於描述雷暴內部或其下方的強下沉運動，著地後可轉為外流並造成陣風增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/downrush"
   },
   {
     "english": "downslope wind",
     "traditional_chinese": "下坡風",
-    "definition_cht": "指與「下坡風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "沿山坡向低處吹送的風，可由冷空氣受重力驅動下滑，或因越山後在背風坡下沉增溫加速而形成；不同機制下可對應焚風或下降風。",
     "source_url": "https://glossary.ametsoc.org/wiki/downslope_wind"
   },
   {
     "english": "downslope windstorm",
     "traditional_chinese": "下坡風暴",
-    "definition_cht": "指與「下坡風暴」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "發生於山脈背風側、由強烈下沉越山氣流造成的破壞性強風事件，常伴隨陣風劇增、氣溫上升與濕度下降，屬強烈地形風災害。",
     "source_url": "https://glossary.ametsoc.org/wiki/downslope_windstorm"
   },
   {
     "english": "downstream",
-    "traditional_chinese": "下游",
-    "definition_cht": "「下游」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "下游方向",
+    "definition_cht": "指沿流體主流、氣流或波動傳播所指向的方向；在天氣分析中常用來表示某擾動、雲系或能量位於另一系統的順流側。",
     "source_url": "https://glossary.ametsoc.org/wiki/downstream"
   },
   {
     "english": "downvalley wind",
     "traditional_chinese": "下谷風",
-    "definition_cht": "指與「下谷風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "沿山谷由上游或高處朝下游、低處吹送的局地風，多在夜間因山谷坡地冷卻、密度增大而沿谷地下滑形成，屬山谷環流的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/downvalley_wind"
   },
   {
     "english": "downward terrestrial radiation",
-    "traditional_chinese": "地面向下輻射",
-    "definition_cht": "「地面向下輻射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "向下大氣長波輻射",
+    "definition_cht": "指大氣中的雲層、溫室氣體與氣膠向地表發射的向下長波輻射通量，為地表輻射收支中的重要增暖項，常稱大氣逆輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/downward_terrestrial_radiation"
   },
   {
     "english": "downward total radiation",
-    "traditional_chinese": "總輻射向下",
-    "definition_cht": "「總輻射向下」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "向下總輻射",
+    "definition_cht": "指到達某受輻射面之全部向下輻射通量，通常為向下短波太陽輻射與向下長波大氣輻射之和，用於地表能量收支評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/downward_total_radiation"
   },
   {
     "english": "downwash",
-    "traditional_chinese": "下洗",
-    "definition_cht": "「下洗」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "下洗流",
+    "definition_cht": "指氣流受機翼、旋翼、建築物或強對流系統影響而向下偏轉的現象；在擴散與工程氣象中，亦可指污染羽流被障礙物壓向近地面的作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/downwash"
   },
   {
     "english": "downwelling",
-    "traditional_chinese": "下降流",
-    "definition_cht": "「下降流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "下沉流",
+    "definition_cht": "指海洋或湖泊中表層流體向下沉入較深水層的過程，常由風應力匯聚、密度增加或沿岸環流所致，並將熱量、鹽度與溶解物帶入深層。",
     "source_url": "https://glossary.ametsoc.org/wiki/downwelling"
   },
   {
     "english": "downwind",
-    "traditional_chinese": "順風",
-    "definition_cht": "指與「順風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "下風處",
+    "definition_cht": "指位於風向吹送方向上的位置，即在某物體、污染源或天氣系統的順風側；常用來描述煙羽、降水或污染物後續影響區。",
     "source_url": "https://glossary.ametsoc.org/wiki/downwind"
   },
   {
     "english": "draft",
-    "traditional_chinese": "草稿",
-    "definition_cht": "「草稿」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "垂直氣流",
+    "definition_cht": "泛指大氣中的垂直運動氣流，可包含上升氣流與下沉氣流；在對流、雲物理與飛航氣象中常用以描述局地垂直速度結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/draft"
   },
   {
     "english": "drag",
-    "traditional_chinese": "拖",
-    "definition_cht": "「拖」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "阻力",
+    "definition_cht": "指物體在流體中運動，或流體掠過物體表面時，流體作用於物體並與相對運動方向相反的力，來源可包括摩擦、壓差與渦流分離。",
     "source_url": "https://glossary.ametsoc.org/wiki/drag"
   },
   {
     "english": "drag anemometer",
-    "traditional_chinese": "阻力風速計",
-    "definition_cht": "與「阻力風速計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "阻力式風速計",
+    "definition_cht": "利用受風物體所承受的空氣動力阻力來推算風速的儀器，例如平板、球體或杯狀受風元件；其量測原理與壓力式或熱線式風速計不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/drag_anemometer"
   },
   {
     "english": "drag coefficient",
     "traditional_chinese": "阻力係數",
-    "definition_cht": "用於表示「阻力係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "描述物體受流體阻力強弱的無因次係數，通常與物體形狀、表面粗糙度、雷諾數及流場狀態有關，用於阻力計算與邊界層分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/drag_coefficient"
   },
   {
     "english": "drag law",
     "traditional_chinese": "阻力定律",
-    "definition_cht": "與「阻力定律」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "definition_cht": "描述阻力如何隨流速、流體性質及物體尺度或形狀而變化的關係式；在不同流況下可呈線性、平方或更複雜形式，常用於粒子沉降與流體力學計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/drag_law"
   },
   {
