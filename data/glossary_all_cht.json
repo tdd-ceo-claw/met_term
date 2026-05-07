@@ -11216,121 +11216,121 @@
   {
     "english": "constant absolute vorticity trajectory",
     "traditional_chinese": "恆定絕對渦度軌跡",
-    "definition_cht": "指「恆定絕對渦度軌跡」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指在分析或理想化假設下，空氣微團沿途保持絕對渦度不變時所描繪出的運動路徑；常用於大尺度動力氣象中，近似診斷氣流移動與渦度平流效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant_absolute_vorticity_trajectory"
   },
   {
     "english": "constant flux layer",
     "traditional_chinese": "恆定通量層",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "definition_cht": "大氣表面層中最靠近地表的一段，其動量、感熱與水氣等垂直湍流通量可近似視為隨高度不變；為莫寧－歐布霍夫相似理論與通量－梯度關係常用的適用層。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant_flux_layer"
   },
   {
     "english": "constant-height chart",
-    "traditional_chinese": "等高圖表",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "定高圖",
+    "definition_cht": "指在固定幾何高度的面上繪示氣壓分布的天氣圖，常以等壓線表示各地在同一高度上的壓力變化；海平面天氣圖可視為其常見例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant-height_chart"
   },
   {
     "english": "constant-height surface",
-    "traditional_chinese": "等高表面",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "traditional_chinese": "等高面",
+    "definition_cht": "指幾何高度處處相同的理想面，即固定海拔高度的水平分析面；在此面上可比較不同地點的氣壓、溫度或其他氣象要素，與等壓面相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant-height_surface"
   },
   {
     "english": "constant-level balloon",
-    "traditional_chinese": "等位氣球",
-    "definition_cht": "指「等位氣球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "定層氣球",
+    "definition_cht": "經設計可在近似固定的氣壓層、密度面或高度附近長時間漂移的觀測氣球，用於追蹤高空氣流、風場與大尺度輸送；其浮力會調整至使飛行層大致維持不變。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant-level_balloon"
   },
   {
     "english": "constant-pressure balloon",
     "traditional_chinese": "恆壓氣球",
-    "definition_cht": "指「恆壓氣球」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指球內氣壓近似與外界環境壓力保持平衡的自由氣球；隨外界壓力與溫度改變，其體積可膨脹或收縮，常用於高空觀測與氣流追蹤，並與以超壓維持形狀的氣球相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant-pressure_balloon"
   },
   {
     "english": "constant-pressure chart",
-    "traditional_chinese": "恆壓圖",
-    "definition_cht": "指用於表示觀測結果、空間分布或理論關係的圖表、座標系統或投影方法，便於分析與製圖。",
+    "traditional_chinese": "等壓面圖",
+    "definition_cht": "指以固定氣壓面為分析基準的高空天氣圖，例如 850、700 或 500 hPa 圖；圖上通常繪示該等壓面的位勢高度、溫度、風向風速與濕度等分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant-pressure_chart"
   },
   {
     "english": "constant-pressure surface",
-    "traditional_chinese": "恆壓面",
-    "definition_cht": "指大氣、海洋或地球環境中的特定分層、區域或結構範圍，通常按其物理性質或形成機制加以區分。",
+    "traditional_chinese": "等壓面",
+    "definition_cht": "大氣中壓力在各點皆相同的三維曲面，又稱等壓曲面或 isobaric surface；氣象分析常以其作為垂直座標，以簡化熱力與動力方程並利於比較高空場。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant-pressure_surface"
   },
   {
     "english": "constant-pressure-pattern flight",
-    "traditional_chinese": "恆壓模式飛行",
-    "definition_cht": "指「恆壓模式飛行」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "定壓型態飛行",
+    "definition_cht": "一種依據定壓面天氣圖上的位勢高度型態與氣流配置進行導航的飛行方法；飛機沿近似固定氣壓面飛行，利用等高線、風場與壓力形勢判定航向與位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant-pressure-pattern_flight"
   },
   {
     "english": "constant-rate dilution gauging",
-    "traditional_chinese": "恆速稀釋計量",
-    "definition_cht": "指「恆速稀釋計量」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "定率稀釋流量測定",
+    "definition_cht": "以已知濃度的示蹤液按固定注入率連續加入水流，待下游充分混合後，依示蹤劑稀釋後的穩定濃度反算流量的量測方法；常用於山區急流或不易施作流速－斷面法的小溪流。",
     "source_url": "https://glossary.ametsoc.org/wiki/constant-rate_dilution_gauging"
   },
   {
     "english": "consultation",
-    "traditional_chinese": "諮詢",
-    "definition_cht": "指「諮詢」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "諮商",
+    "definition_cht": "指由專業人員向使用者、作業單位或決策者提供判釋、建議與協調意見的程序；在氣象業務中常見於天氣諮詢、航空氣象簡報、水資源或防災決策支援。",
     "source_url": "https://glossary.ametsoc.org/wiki/consultation"
   },
   {
     "english": "consumption",
-    "traditional_chinese": "消耗",
-    "definition_cht": "指「消耗」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "耗用",
+    "definition_cht": "指資源、物質或能量在使用過程中被消耗、轉化或移出可再利用狀態的情形；在水文與水資源語境中，常指水量因蒸發、蒸散、產品帶走或生產過程而不再立即可回收利用。",
     "source_url": "https://glossary.ametsoc.org/wiki/consumption"
   },
   {
     "english": "consumptive use",
-    "traditional_chinese": "消費性使用",
-    "definition_cht": "指「消費性使用」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "消耗性用水",
+    "definition_cht": "指取用後未直接回到原水源或可用系統中的那部分用水，通常因蒸發、蒸散、產品含帶、作物吸收或人體及牲畜攝取而被消耗；與可回歸河川、地下水或排水系統的回歸流相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/consumptive_use"
   },
   {
     "english": "contact angle",
     "traditional_chinese": "接觸角",
-    "definition_cht": "指「接觸角」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "液滴與固體表面交界處，由液－氣界面切線與固體表面所形成的角度，用以表徵潤濕性；接觸角愈小表示液體愈易鋪展，愈大則代表表面較不易被潤濕。",
     "source_url": "https://glossary.ametsoc.org/wiki/contact_angle"
   },
   {
     "english": "contact flight",
-    "traditional_chinese": "聯絡航班",
-    "definition_cht": "指「聯絡航班」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "目視接地飛行",
+    "definition_cht": "指飛行員主要依地面目標、地平線或其他外部可視參考物維持航向與高度的飛行方式，本質上屬目視飛行的一種；與主要依儀器導航與操縱的飛行方式相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/contact_flight"
   },
   {
     "english": "contact nucleus",
-    "traditional_chinese": "接觸核",
-    "definition_cht": "指「接觸核」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "接觸冰核",
+    "definition_cht": "能在與過冷卻水滴直接接觸時誘發其凍結成冰的冰核粒子；其作用不同於使水氣直接沉積成冰的沉積核，也不同於浸沒於水滴內部後促使凍結的凍結核。",
     "source_url": "https://glossary.ametsoc.org/wiki/contact_nucleus"
   },
   {
     "english": "contact weather",
-    "traditional_chinese": "聯繫天氣",
-    "definition_cht": "指「聯繫天氣」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "目視接地飛行天氣",
+    "definition_cht": "指雲底高度、能見度與地面參考物可辨程度足以讓飛行員憑外部視覺接觸地表或地平線進行飛行的天氣條件；大致相當於允許接地或目視飛行的氣象狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/contact_weather"
   },
   {
     "english": "contaminant",
     "traditional_chinese": "污染物",
-    "definition_cht": "指「污染物」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指存在於水體、空氣、土壤或其他環境介質中的物理、化學、生物或放射性物質，其存在可能造成品質劣化、健康風險或生態影響；是否有害常取決於濃度、暴露途徑與持續時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/contaminant"
   },
   {
     "english": "contaminate",
     "traditional_chinese": "污染",
-    "definition_cht": "指「污染」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "definition_cht": "指使水、空氣、土壤、樣品或其他介質混入不應存在或超出容許量的物質、微生物或能量，從而降低其純淨度、代表性、使用價值或環境品質。",
     "source_url": "https://glossary.ametsoc.org/wiki/contaminate"
   },
   {
     "english": "contessa di vento",
-    "traditional_chinese": "文托伯爵夫人",
-    "definition_cht": "指「文托伯爵夫人」此術語，為氣象、海洋、水文或相關地球科學中描述特定現象、過程、結構、方法或區域特徵的專門名詞。",
+    "traditional_chinese": "風之伯爵夫人雲",
+    "definition_cht": "一種出現在孤立山體背風側渦旋區的特殊山岳雲，常見為底部圓鈍、上部隆起，並可呈多層圓盤狀堆疊；在西西里埃特納火山附近尤為著名，通常與越山氣流和背風渦旋有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/contessa_di_vento"
   },
   {
