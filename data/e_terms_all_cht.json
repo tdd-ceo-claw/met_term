@@ -2041,122 +2041,122 @@
   },
   {
     "english": "European Remote Sensing Satellites",
-    "traditional_chinese": "歐洲遙測衛星",
-    "definition_cht": "指與「歐洲遙測衛星」相關的人造衛星或其觀測任務，用於遙測地球系統之特定要素。",
+    "traditional_chinese": "歐洲遙測衛星；ERS 系列衛星",
+    "definition_cht": "通常指歐洲太空總署發展的 ERS（European Remote-Sensing Satellite）系列地球觀測衛星，主要用於海洋、海冰、陸地與大氣之遙測觀測，搭載合成孔徑雷達、雷達高度計與散射儀等儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/European_Remote_Sensing_Satellites"
   },
   {
     "english": "Euros",
-    "traditional_chinese": "歐洲風",
-    "definition_cht": "「歐洲風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "歐洛斯風；東風／東南風",
+    "definition_cht": "古典風名，為希臘傳統風系中的 Euros（亦常寫作 Eurus），一般指東風或東南風；其確切方位會因文獻與時代而略有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/Euros"
   },
   {
     "english": "eustatic sea level changes",
-    "traditional_chinese": "全球性海平面變化",
-    "definition_cht": "由全球海水體積或海盆容量改變所造成的海平面整體升降。",
+    "traditional_chinese": "全球海平面變化",
+    "definition_cht": "由全球海水總量、海水熱膨脹或海盆容量改變所造成的海平面整體升降，屬全球尺度變化，與局地地殼升降造成的相對海平面變動不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/eustatic_sea_level_changes"
   },
   {
     "english": "evanescent level",
-    "traditional_chinese": "衰減層",
-    "definition_cht": "「衰減層」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "倏逝層；衰減層",
+    "definition_cht": "在波動、聲學或大氣動力學中，指擾動無法有效傳播而僅呈指數式衰減的層位或高度範圍；進入此層後，波振幅通常隨距離迅速減弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/evanescent_level"
   },
   {
     "english": "Evaporation",
     "traditional_chinese": "蒸發",
-    "definition_cht": "表示「蒸發」相關兩種量值之間關係的比值，常用於診斷介質性質、散射特徵或動力狀態。",
+    "definition_cht": "液體表面分子獲得足夠能量後逸入氣相的過程。在氣象與水文中，多指水由地表、水體或濕潤表面轉為水汽並進入大氣的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Evaporation"
   },
   {
     "english": "evaporation fog",
     "traditional_chinese": "蒸發霧",
-    "definition_cht": "冷空氣流經較暖水面時，水汽蒸發進入冷空氣並凝結形成的霧。",
+    "definition_cht": "冷空氣移經較暖水面時，水汽由水面蒸發進入冷空氣並迅速凝結所形成的霧，常見於湖面、河面或海面上，也常稱蒸汽霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/evaporation_fog"
   },
   {
     "english": "evaporation frost",
     "traditional_chinese": "蒸發霜",
-    "definition_cht": "表示「蒸發霜」相關兩種量值之間關係的比值，常用於診斷介質性質、散射特徵或動力狀態。",
+    "definition_cht": "因鄰近較暖且潮濕水面持續蒸發供應水汽，當水汽移至低於冰點的冷表面時直接凝華形成的霜；常見於寒冷環境中的岸邊、船體或其他暴露表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/evaporation_frost"
   },
   {
     "english": "evaporation gauge",
     "traditional_chinese": "蒸發計",
-    "definition_cht": "表示「蒸發計」相關兩種量值之間關係的比值，常用於診斷介質性質、散射特徵或動力狀態。",
+    "definition_cht": "用以量測一定期間內蒸發量或蒸發速率的儀器總稱，可依水面下降量、質量損失或其他能量與水分平衡方法估算蒸發。",
     "source_url": "https://glossary.ametsoc.org/wiki/evaporation_gauge"
   },
   {
     "english": "evaporation pan",
     "traditional_chinese": "蒸發皿",
-    "definition_cht": "表示「蒸發皿」相關兩種量值之間關係的比值，常用於診斷介質性質、散射特徵或動力狀態。",
+    "definition_cht": "盛水並暴露於大氣中的淺皿式觀測器，用以藉由水位下降量估算蒸發量；氣象與農業水文上常用 Class A 蒸發皿作標準觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/evaporation_pan"
   },
   {
     "english": "evaporation rate",
     "traditional_chinese": "蒸發率",
-    "definition_cht": "表示「蒸發率」相關兩種量值之間關係的比值，常用於診斷介質性質、散射特徵或動力狀態。",
+    "definition_cht": "單位時間內由水面、土壤或其他濕潤表面蒸發至大氣中的水量，可用深度、質量或通量表示，受溫度、濕度、風速與輻射等因子控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/evaporation_rate"
   },
   {
     "english": "evaporative available potential energy",
     "traditional_chinese": "蒸發可用位能",
-    "definition_cht": "由蒸發冷卻所建立的浮力差異而可供轉換為運動的位能。",
+    "definition_cht": "因蒸發造成冷卻與密度改變而形成、可進一步轉換為流體運動的位能，常用於討論降水蒸發、下沉氣流與對流冷池發展等過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/evaporative_available_potential_energy"
   },
   {
     "english": "evaporimeter",
-    "traditional_chinese": "蒸發儀",
-    "definition_cht": "為量測「蒸發儀」相關物理量所設計的儀器或裝置。",
+    "traditional_chinese": "蒸發計；蒸發儀",
+    "definition_cht": "量測蒸發量或蒸發速率的儀器，廣義上可包含蒸發皿、atmometer 等裝置；可用於水文、農業氣象及灌溉管理。",
     "source_url": "https://glossary.ametsoc.org/wiki/evaporimeter"
   },
   {
     "english": "Evapotranspiration",
     "traditional_chinese": "蒸散作用",
-    "definition_cht": "地表蒸發與植物蒸散合計造成的水分向大氣輸送量。",
+    "definition_cht": "地表蒸發與植物經氣孔向大氣散失水分的蒸散合併過程，為陸地水循環與農業需水估算中的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Evapotranspiration"
   },
   {
     "english": "evapotranspirometer",
     "traditional_chinese": "蒸散量測儀",
-    "definition_cht": "為量測「蒸散量測儀」相關物理量所設計的儀器或裝置。",
+    "definition_cht": "用以量測土壤—植被系統蒸散量的儀器或實驗裝置，通常透過重量、水量平衡或控制槽體等方法估算蒸發與蒸騰的合計損失。",
     "source_url": "https://glossary.ametsoc.org/wiki/evapotranspirometer"
   },
   {
     "english": "evapotron",
-    "traditional_chinese": "蒸散儀",
-    "definition_cht": "「蒸散儀」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "蒸散測定裝置",
+    "definition_cht": "用於量測或模擬蒸發與蒸散過程的裝置名稱，通常指實驗性蒸散觀測設備，用以評估土壤、植被或小型水面在特定環境下的水分損失。",
     "source_url": "https://glossary.ametsoc.org/wiki/evapotron"
   },
   {
     "english": "exceedance interval",
     "traditional_chinese": "超越間隔",
-    "definition_cht": "「超越間隔」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "某變數超過指定門檻值之事件，平均相隔多久發生一次的時間尺度；在頻率分析中常為超越頻率的倒數，概念上接近重現期。",
     "source_url": "https://glossary.ametsoc.org/wiki/exceedance_interval"
   },
   {
     "english": "exceedance probability",
     "traditional_chinese": "超越機率",
-    "definition_cht": "某變數超過指定門檻值的機率，常用於水文頻率分析與風險評估。",
+    "definition_cht": "某變數大於指定門檻值的機率，常用於洪水、強風、極端降雨等頻率分析與風險評估；若以年為基準，亦常與重現期互相關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/exceedance_probability"
   },
   {
     "english": "exceptional visibility",
     "traditional_chinese": "特優能見度",
-    "definition_cht": "表示「特優能見度」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "definition_cht": "能見度異常良好、遠高於一般狀況的情形，通常出現在空氣極清澈、氣膠與水汽含量很低且缺乏霾、霧或降水遮蔽時。",
     "source_url": "https://glossary.ametsoc.org/wiki/exceptional_visibility"
   },
   {
     "english": "excess rain",
-    "traditional_chinese": "超額降雨",
-    "definition_cht": "「超額降雨」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "超額降雨；有效超量雨",
+    "definition_cht": "在水文學中指超過地表截留、下滲、窪蓄等損失後，仍可轉為地表逕流的那部分降雨量；亦常稱 rainfall excess 或 excess rainfall。",
     "source_url": "https://glossary.ametsoc.org/wiki/excess_rain"
   },
   {
     "english": "excessive precipitation",
     "traditional_chinese": "過量降水",
-    "definition_cht": "指與「過量降水」相關的降水量、降水過程或降水統計特徵。",
+    "definition_cht": "顯著高於一般或造成災害影響的降水事件，常用於指可能引發積淹水、山洪、土石流或其他水文災害的豪雨或持續性降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/excessive_precipitation"
   },
   {
