@@ -17408,121 +17408,121 @@
   {
     "english": "equations of motion",
     "traditional_chinese": "運動方程組",
-    "definition_cht": "描述「運動方程組」相關物理量之間關係、守恆條件或演變規律的方程。",
+    "definition_cht": "描述物體或流體在受力作用下其速度、加速度與運動狀態如何隨時間與空間變化的控制方程；在大氣動力學中通常指由牛頓第二定律導出的動量方程組。",
     "source_url": "https://glossary.ametsoc.org/wiki/equations_of_motion"
   },
   {
     "english": "equator",
     "traditional_chinese": "赤道",
-    "definition_cht": "「赤道」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "地球表面與自轉軸垂直、距南北兩極等距的大圓，其緯度定為 0°，常作為大氣與海洋環流分帶及衛星軌道參考基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/equator"
   },
   {
     "english": "equatorial acceleration",
-    "traditional_chinese": "赤道加速度",
-    "definition_cht": "表示「赤道加速度」相關兩種量值之間關係的比值，常用於診斷介質性質、散射特徵或動力狀態。",
+    "traditional_chinese": "赤道加速現象",
+    "definition_cht": "指天體大氣在赤道附近之絕對角速度大於較高緯區域的狀態；名稱雖含「加速」，實際上主要描述緯向角速度切變，而非時間上的加速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_acceleration"
   },
   {
     "english": "equatorial air",
     "traditional_chinese": "赤道氣團",
-    "definition_cht": "「赤道氣團」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "部分學者用以指稱赤道槽或赤道無風帶中的空氣，與信風帶的熱帶氣團略作區別；通常指高溫、高濕、對流活躍且水平氣流較弱的近赤道空氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_air"
   },
   {
     "english": "equatorial bulge",
     "traditional_chinese": "赤道隆起",
-    "definition_cht": "「赤道隆起」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "地球或其他旋轉天體因自轉離心效應，使赤道半徑大於極半徑而呈現的外形膨隆現象；地球因此近似扁球體而非完全球體。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_bulge"
   },
   {
     "english": "equatorial climate",
     "traditional_chinese": "赤道氣候",
-    "definition_cht": "「赤道氣候」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "分布於赤道附近的高溫多雨氣候型，全年日照與受熱強、年溫差小、濕度高，常伴隨頻繁對流與熱帶雨林環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_climate"
   },
   {
     "english": "Equatorial Countercurrent",
     "traditional_chinese": "赤道逆流",
-    "definition_cht": "赤道附近夾在兩側西向流之間、向東流動的海流系統，對熱量再分配與海氣耦合作用具有重要影響。",
+    "definition_cht": "位於北、南赤道洋流之間、沿赤道附近由西向東流動的海流帶，常見於太平洋、大西洋與印度洋，對熱量再分配及聖嬰—南方振盪具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Equatorial_Countercurrent"
   },
   {
     "english": "equatorial crossing time",
     "traditional_chinese": "越赤時間",
-    "definition_cht": "「越赤時間」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "衛星通過赤道時的地方太陽時，常用於描述極軌或太陽同步衛星的觀測時段與軌道設計特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_crossing_time"
   },
   {
     "english": "equatorial current system",
     "traditional_chinese": "赤道海流系",
-    "definition_cht": "指與「赤道海流系」相關的海流、潮流或電流系統，著重其流向、來源、強度及輸送作用。",
+    "definition_cht": "指大西洋或太平洋約 20°S 至 20°N 間的赤道海流整體系統，主要包括北赤道洋流、南赤道洋流、赤道逆流及若干次表層與中層急流，共同主導熱帶海洋的質量與熱鹽輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_current_system"
   },
   {
     "english": "equatorial deep jets",
     "traditional_chinese": "赤道深層急流",
-    "definition_cht": "「赤道深層急流」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "位於溫躍層以下、沿赤道呈上下交替東向與西向排列的一組深層海流急流，常見於數百至數千公尺深度，對赤道深海動量與示蹤物輸送具重要作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_deep_jets"
   },
   {
     "english": "equatorial dry zone",
     "traditional_chinese": "赤道乾帶",
-    "definition_cht": "指與「赤道乾帶」相關的區帶或分區，常依物理性質、過程或生態功能加以界定。",
+    "definition_cht": "出現在赤道槽中的乾燥區，主要由低層風場發散與下沉運動造成；著名例子為赤道太平洋中部略偏南側的乾燥帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_dry_zone"
   },
   {
     "english": "equatorial easterlies",
     "traditional_chinese": "赤道東風",
-    "definition_cht": "「赤道東風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "盛行於赤道地區、以東向西吹送為主的持續性風系，常作為深層信風或赤道 easterlies 的統稱，為熱帶環流的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_easterlies"
   },
   {
     "english": "equatorial electrojet",
     "traditional_chinese": "赤道電噴流",
-    "definition_cht": "電離層 E 層赤道附近沿東向流動的狹窄強電流帶。",
+    "definition_cht": "位於地磁赤道上空電離層 E 層的狹窄而強盛之日間東向電流帶，對低緯度電離層電場、電流與地磁變化具有顯著影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_electrojet"
   },
   {
     "english": "equatorial Kelvin wave",
     "traditional_chinese": "赤道開爾文波",
-    "definition_cht": "受赤道波導束縛並沿赤道傳播的色散特性明顯之波動，對 ENSO 演變極為重要。",
+    "definition_cht": "受赤道波導束縛、沿赤道向東傳播的非色散波動，可存在於大氣或海洋中，對熱帶對流變化及 ENSO 演變十分重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_Kelvin_wave"
   },
   {
     "english": "equatorial orbiting satellite",
     "traditional_chinese": "赤道軌道衛星",
-    "definition_cht": "指與「赤道軌道衛星」相關的人造衛星或其觀測任務，用於遙測地球系統之特定要素。",
+    "definition_cht": "軌道平面與地球赤道面重合、軌道傾角為 0° 的人造衛星；地球靜止衛星與部分地球同步衛星皆屬此類軌道配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_orbiting_satellite"
   },
   {
     "english": "equatorial Poincare wave",
     "traditional_chinese": "赤道龐加萊波",
-    "definition_cht": "指與「赤道龐加萊波」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "definition_cht": "受赤道波導束縛的慣性重力波，可視為通道內龐加萊波在赤道附近的對應形式；其結構受赤道附近科氏參數變化控制，能在大氣與海洋中傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_Poincare_wave"
   },
   {
     "english": "equatorial stratospheric waves",
     "traditional_chinese": "赤道平流層波動",
-    "definition_cht": "指與「赤道平流層波動」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "definition_cht": "由熱帶對流向上激發並傳入平流層的赤道波動，主要包括開爾文波與混合羅斯貝—重力波等，對平流層準兩年振盪的形成與維持極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_stratospheric_waves"
   },
   {
     "english": "equatorial tide",
-    "traditional_chinese": "赤道潮汐",
-    "definition_cht": "「赤道潮汐」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "赤道潮",
+    "definition_cht": "月球接近天球赤道時所對應的潮汐型態，此時日潮不等現象最弱；常與回歸潮、朔望潮及小潮相對照。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_tide"
   },
   {
     "english": "equatorial trough",
     "traditional_chinese": "赤道槽",
-    "definition_cht": "赤道附近低壓與輻合顯著的槽狀帶，常為對流與降水活躍區。",
+    "definition_cht": "位於南、北半球副熱帶高壓帶之間、沿赤道附近延伸的準連續低壓帶與輻合區，為熱帶對流、雲系與降水活動的重要發生區。",
     "source_url": "https://glossary.ametsoc.org/wiki/equatorial_trough"
   },
   {
     "english": "Equatorial Undercurrent",
     "traditional_chinese": "赤道潛流",
-    "definition_cht": "位於赤道下方、沿東向流動的次表層強海流，對赤道太平洋熱鹽輸送具有重要作用。",
+    "definition_cht": "位於赤道表層下方、沿東向快速流動的狹窄次表層海流，在太平洋亦稱克倫威爾海流，為赤道海流系中流速最強的成員之一，對熱鹽輸送與湧升結構十分重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/Equatorial_Undercurrent"
   },
   {
