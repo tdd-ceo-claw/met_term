@@ -13094,121 +13094,121 @@
   {
     "english": "Darcy's law",
     "traditional_chinese": "達西定律",
-    "definition_cht": "與「達西定律」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "definition_cht": "多孔介質流動的基本定律，指出流體通量與水力坡降成正比，並與介質滲透性有關。水文地質、地下水流及土壤水分運移分析常以此描述滲流強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Darcy%27s_law"
   },
   {
     "english": "dark",
-    "traditional_chinese": "黑暗的",
-    "definition_cht": "「黑暗的」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "暗的",
+    "definition_cht": "在氣象觀測、遙測或大氣光學描述中，指目標、天空背景、雲體或影像區域亮度偏低、受光不足或呈陰暗外觀的狀態。此詞多作為形容性用語，需配合具體現象理解。",
     "source_url": "https://glossary.ametsoc.org/wiki/dark"
   },
   {
     "english": "dark adaptation",
     "traditional_chinese": "暗適應",
-    "definition_cht": "「暗適應」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "眼睛由明亮環境轉入低照度環境後，視覺敏感度逐漸恢復與提高的過程，主要涉及視網膜感光色素再生及桿狀細胞功能增強。夜間觀測、航空與海上瞭望常須考量暗適應時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/dark_adaptation"
   },
   {
     "english": "dark lightning",
-    "traditional_chinese": "黑暗閃電",
-    "definition_cht": "「黑暗閃電」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "暗閃電",
+    "definition_cht": "又稱地面伽瑪射線閃（terrestrial gamma-ray flash），指雷暴內或其上方強電場加速高能電子後所產生、肉眼不可見的短暫高能伽瑪射線爆發現象。常與強對流及閃電活動相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/dark_lightning"
   },
   {
     "english": "Dark segment",
-    "traditional_chinese": "暗段",
-    "definition_cht": "「暗段」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "暗帶",
+    "definition_cht": "曙暮光時在背日方向低空可見的藍灰色楔形暗區，為地球陰影在大氣中的可見部分，常位於反曙暮弧下方。屬大氣光學現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dark_segment"
   },
   {
     "english": "Darling shower",
-    "traditional_chinese": "親愛的淋浴",
-    "definition_cht": "「親愛的淋浴」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "達令塵暴",
+    "definition_cht": "澳洲地方性用語，指達令河流域附近受氣旋性強風或陣風揚起的塵暴；有時伴隨極少量降雨，實際上仍以揚塵現象為主。",
     "source_url": "https://glossary.ametsoc.org/wiki/Darling_shower"
   },
   {
     "english": "dart leader",
-    "traditional_chinese": "飛鏢隊長",
-    "definition_cht": "「飛鏢隊長」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "飛鏢先導",
+    "definition_cht": "閃電首次回擊後，沿既有放電通道快速向地面推進的後續先導。因通道已建立，其下降速度通常較階梯先導快，且分支較少，抵地後可引發新的回擊。",
     "source_url": "https://glossary.ametsoc.org/wiki/dart_leader"
   },
   {
     "english": "data acquisition system",
-    "traditional_chinese": "數據採集系統",
-    "definition_cht": "「數據採集系統」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "資料擷取系統",
+    "definition_cht": "由感測器、訊號轉換、通訊與儲存裝置等組成，用以自動量測、接收、數位化、記錄並管理觀測資料的系統。廣泛用於氣象站、雷達、浮標及其他環境監測設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/data_acquisition_system"
   },
   {
     "english": "data assimilation",
     "traditional_chinese": "資料同化",
-    "definition_cht": "「資料同化」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "將觀測資料與數值模式的背景場或前次預報，依統計與動力約束加以結合，以求得最接近真實大氣或海洋狀態之分析場的方法。為數值天氣預報的重要核心程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/data_assimilation"
   },
   {
     "english": "data collection platform",
-    "traditional_chinese": "數據採集平台",
-    "definition_cht": "「數據採集平台」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "資料蒐集平台",
+    "definition_cht": "裝設於地面站、浮標、河川測站或偏遠觀測點的自動化設備，用以蒐集感測資料並透過衛星、無線電或其他通訊方式傳送至接收中心。常簡稱 DCP。",
     "source_url": "https://glossary.ametsoc.org/wiki/data_collection_platform"
   },
   {
     "english": "data collection system",
-    "traditional_chinese": "數據採集系統",
-    "definition_cht": "「數據採集系統」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "資料蒐集系統",
+    "definition_cht": "用以接收、彙整、傳輸、儲存及管理觀測資料的整體系統，可涵蓋多個測站、感測器、通訊鏈路與後端處理平台。",
     "source_url": "https://glossary.ametsoc.org/wiki/data_collection_system"
   },
   {
     "english": "data directory",
-    "traditional_chinese": "數據目錄",
-    "definition_cht": "「數據目錄」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "資料目錄",
+    "definition_cht": "按主題、時間、區域、檔名或其他屬性整理的資料索引或目錄，用以說明資料檔案、資料集及其存放位置、內容與取得方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/data_directory"
   },
   {
     "english": "data logger",
-    "traditional_chinese": "數據記錄器",
-    "definition_cht": "「數據記錄器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "資料記錄器",
+    "definition_cht": "可依設定時間間隔或事件觸發，自動接收並儲存感測器輸出資料的電子裝置。常用於氣象、水文與環境監測，以支援長時間無人觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/data_logger"
   },
   {
     "english": "data window",
-    "traditional_chinese": "資料視窗",
-    "definition_cht": "指與「資料視窗」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "資料時間窗",
+    "definition_cht": "在資料處理、同化或產品製作中，允許納入觀測資料的指定時間範圍。通常以分析時刻或標準觀測時次為中心，用以控制可接受資料的時效性與一致性。",
     "source_url": "https://glossary.ametsoc.org/wiki/data_window"
   },
   {
     "english": "dataset",
-    "traditional_chinese": "數據集",
-    "definition_cht": "「數據集」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "資料集",
+    "definition_cht": "依共同主題、格式、觀測計畫或處理流程組成的一組相關資料，通常包含多個變數、時間序列、空間欄位或案例紀錄，可供分析、交換與保存。",
     "source_url": "https://glossary.ametsoc.org/wiki/dataset"
   },
   {
     "english": "dataset catalog",
     "traditional_chinese": "資料集目錄",
-    "definition_cht": "「資料集目錄」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "彙整多個資料集之名稱、內容摘要、時間與空間範圍、格式、來源及存取方式的索引清單，供使用者查詢與選用資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/dataset_catalog"
   },
   {
     "english": "dataset directory",
-    "traditional_chinese": "資料集目錄",
-    "definition_cht": "「資料集目錄」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "資料集索引",
+    "definition_cht": "按一定分類方式整理的資料集清單或導覽資訊，說明各資料集的主題、範圍、位置與取得路徑，功能近似資料集目錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/dataset_directory"
   },
   {
     "english": "datum",
     "traditional_chinese": "基準",
-    "definition_cht": "「基準」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "作為高度、深度、氣壓、距離或其他量測值比較與換算依據的參考值、參考面或參考系。不同基準的選用會影響觀測與分析結果的解讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/datum"
   },
   {
     "english": "datum level",
     "traditional_chinese": "基準面",
-    "definition_cht": "「基準面」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "量測高度、水位、深度或其他垂直量時所採用的特定參考面或參考高度，例如平均海平面或工程上自訂之零位。",
     "source_url": "https://glossary.ametsoc.org/wiki/datum_level"
   },
   {
     "english": "Davidson Current",
-    "traditional_chinese": "戴維森電流",
-    "definition_cht": "指與「戴維森電流」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "戴維森海流",
+    "definition_cht": "北美西岸近岸的向極沿岸逆流，分布於加利福尼亞海流內側，主要沿美國西岸向北流動。其表層訊號在冬季較明顯，與季節性風場及沿岸海洋環流變化密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Davidson_Current"
   },
   {
