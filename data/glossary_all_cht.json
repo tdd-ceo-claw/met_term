@@ -15734,121 +15734,121 @@
   {
     "english": "dusk",
     "traditional_chinese": "黃昏",
-    "definition_cht": "「黃昏」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/dusk"
+    "definition_cht": "指日落後至夜晚來臨前的暮光末段；在氣象觀測上常指民用、航海或天文暮光結束附近、地平線附近自然光已明顯減弱的時段。",
+    "source_url": "https://en.wikipedia.org/wiki/Twilight"
   },
   {
     "english": "Dust",
-    "traditional_chinese": "灰塵",
-    "definition_cht": "「灰塵」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Dust"
+    "traditional_chinese": "塵埃",
+    "definition_cht": "指懸浮於大氣中的細小固體粒子，來源可包括土壤揚塵、火山灰、海鹽、生物性粒子與人為污染；會影響能見度、輻射收支、雲微物理與空氣品質。",
+    "source_url": "https://en.wikipedia.org/wiki/Dust"
   },
   {
     "english": "dust avalanche",
-    "traditional_chinese": "沙塵雪崩",
-    "definition_cht": "「沙塵雪崩」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "粉雪雪崩",
+    "definition_cht": "指由乾燥、鬆散雪粒快速下滑形成的雪崩；其中的 dust 指粉狀乾雪而非沙塵，常伴隨雪霧狀懸浮顆粒。",
     "source_url": "https://glossary.ametsoc.org/wiki/dust_avalanche"
   },
   {
     "english": "Dust Bowl",
-    "traditional_chinese": "集塵碗",
-    "definition_cht": "「集塵碗」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Dust_Bowl"
+    "traditional_chinese": "黑風暴時期",
+    "definition_cht": "指 1930 年代美國大平原與加拿大草原部分地區因長期乾旱、不當耕作與強風共同造成的大規模塵暴與土地退化時期，為氣候與人地互動研究的重要案例。",
+    "source_url": "https://en.wikipedia.org/wiki/Dust_Bowl"
   },
   {
     "english": "dust counter",
-    "traditional_chinese": "灰塵計數器",
-    "definition_cht": "「灰塵計數器」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/dust_counter"
+    "traditional_chinese": "塵埃計數器",
+    "definition_cht": "用於偵測或估算空氣中塵埃粒子數量或濃度的儀器；早期氣象與氣膠觀測中常指艾特肯塵埃計數器等裝置。",
+    "source_url": "https://en.wikipedia.org/wiki/Koniscope"
   },
   {
     "english": "Dust devil",
-    "traditional_chinese": "塵魔",
-    "definition_cht": "「塵魔」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Dust_devil"
+    "traditional_chinese": "塵旋風",
+    "definition_cht": "在晴朗、近地面受熱強烈且背景風較弱時，由上升熱氣流形成的小尺度旋轉渦柱，會捲起塵土、砂粒與碎屑；通常不與積雨雲直接相連。",
+    "source_url": "https://en.wikipedia.org/wiki/Dust_devil"
   },
   {
     "english": "dust electrification",
-    "traditional_chinese": "粉塵帶電",
-    "definition_cht": "「粉塵帶電」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "粉塵起電",
+    "definition_cht": "指塵埃或砂粒在碰撞、摩擦、分離或與地表接觸時產生電荷分離與帶電的現象；常見於沙塵暴、火山灰雲與塵旋風等環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/dust_electrification"
   },
   {
     "english": "dust horizon",
-    "traditional_chinese": "塵埃地平線",
-    "definition_cht": "「塵埃地平線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "塵層地平線",
+    "definition_cht": "指受低層逆溫限制的塵層上緣；自高處向外觀察時，其外觀可近似地平線。",
     "source_url": "https://glossary.ametsoc.org/wiki/dust_horizon"
   },
   {
     "english": "dust wall",
-    "traditional_chinese": "防塵牆",
-    "definition_cht": "「防塵牆」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "塵牆",
+    "definition_cht": "由雷暴下擊暴流或陣風鋒前緣強風揚起塵土所形成、邊界鮮明的高牆狀塵幕；常見於乾燥或半乾燥地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/dust_wall"
   },
   {
     "english": "dust well",
-    "traditional_chinese": "除塵好",
-    "definition_cht": "「除塵好」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "塵井",
+    "definition_cht": "指冰面上因深色微粒吸收較多太陽短波輻射，局部融蝕而形成的小凹坑；常見於晴朗條件下的雪冰表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/dust_well"
   },
   {
     "english": "dust whirl",
-    "traditional_chinese": "塵埃旋風",
-    "definition_cht": "「塵埃旋風」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/dust_whirl"
+    "traditional_chinese": "塵旋",
+    "definition_cht": "由地表強烈加熱所誘發、捲起塵土或砂粒的垂直旋轉氣柱，基本上與 dust devil 同義。",
+    "source_url": "https://en.wikipedia.org/wiki/Dust_devil"
   },
   {
     "english": "dust-devil effect",
-    "traditional_chinese": "塵魔效應",
-    "definition_cht": "「塵魔效應」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "塵旋風效應",
+    "definition_cht": "指近地面強烈受熱使空氣迅速上升並形成局部旋渦，進而揚起塵土的效應；常用以描述塵旋風生成所反映的熱力與湍流作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/dust-devil_effect"
   },
   {
     "english": "dustfall jars",
-    "traditional_chinese": "降塵罐",
-    "definition_cht": "「降塵罐」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "降塵收集罐",
+    "definition_cht": "以重力沉降方式收集環境空氣中較大粒徑落塵的容器，用於量測一段時間內的降塵量或沉降通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/dustfall_jars"
   },
   {
     "english": "duststorm",
     "traditional_chinese": "沙塵暴",
-    "definition_cht": "指與「沙塵暴」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
-    "source_url": "https://glossary.ametsoc.org/wiki/duststorm"
+    "definition_cht": "強風將乾燥地表大量塵土或砂粒捲升並輸送，致使能見度明顯降低的天氣現象；常見於乾旱與半乾旱地區。",
+    "source_url": "https://en.wikipedia.org/wiki/Dust_storm"
   },
   {
     "english": "duty of water",
-    "traditional_chinese": "水的義務",
-    "definition_cht": "「水的義務」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "灌溉用水定額",
+    "definition_cht": "指一定體積或流量的灌溉用水在特定期間內所能有效灌溉的土地面積，用於評估灌溉效率與水資源配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/duty_of_water"
   },
   {
     "english": "Dvorak technique",
-    "traditional_chinese": "德沃夏克技術",
-    "definition_cht": "「德沃夏克技術」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Dvorak_technique"
+    "traditional_chinese": "德弗札克分析法",
+    "definition_cht": "依可見光與紅外線衛星雲圖的雲型、對流組織與眼牆特徵，估算熱帶氣旋強度與發展趨勢的作業方法。",
+    "source_url": "https://en.wikipedia.org/wiki/Dvorak_technique"
   },
   {
     "english": "dwigh",
-    "traditional_chinese": "德懷格",
-    "definition_cht": "「德懷格」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "dwigh（疑為舊詞或拼寫待考）",
+    "definition_cht": "目前可取得之公開氣象參考資料不足，疑為舊用語、罕見專名或原始詞條拼寫有誤；暫保留原文，待後續查核權威來源後再進一步校正。",
     "source_url": "https://glossary.ametsoc.org/wiki/dwigh"
   },
   {
     "english": "dye laser",
     "traditional_chinese": "染料雷射",
-    "definition_cht": "「染料雷射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "以有機染料作為增益介質的可調諧雷射，能在較寬波段內選擇輸出波長，常用於光譜學、遙測與雷射雷達實驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/dye_laser"
   },
   {
     "english": "dynamic boundary condition",
-    "traditional_chinese": "動態邊界條件",
-    "definition_cht": "指與「動態邊界條件」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "動力邊界條件",
+    "definition_cht": "在流體力學或大氣海洋動力學中，描述邊界或界面上壓力、應力、動量通量等力學量必須滿足的條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_boundary_condition"
   },
   {
     "english": "dynamic climatology",
-    "traditional_chinese": "動態氣候學",
-    "definition_cht": "指「動態氣候學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。",
+    "traditional_chinese": "動力氣候學",
+    "definition_cht": "從大氣環流、能量收支與動力過程角度研究氣候形成、維持與變異機制的氣候學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/dynamic_climatology"
   },
   {
