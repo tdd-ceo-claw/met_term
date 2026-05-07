@@ -16808,121 +16808,121 @@
   {
     "english": "electronic transitions",
     "traditional_chinese": "電子躍遷",
-    "definition_cht": "「電子躍遷」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "原子、分子或離子中的電子因吸收或放出光子而由一個能階轉移至另一能階的過程，常發生於可見光或紫外波段，並決定許多吸收與發射光譜特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/electronic_transitions"
   },
   {
     "english": "electroscope",
     "traditional_chinese": "驗電器",
-    "definition_cht": "「驗電器」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "利用靜電作用偵測物體是否帶電的儀器，主要用於判別電荷的存在與相對性質，通常不直接給出精確電量。",
     "source_url": "https://glossary.ametsoc.org/wiki/electroscope"
   },
   {
     "english": "electrosphere",
     "traditional_chinese": "電層",
-    "definition_cht": "「電層」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在大氣電學中，指位於較高空、導電性較強並與電離層相連的帶電大氣層區域，可視為全球電路中大氣電容結構的上部導電層。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrosphere"
   },
   {
     "english": "electrostatic electrometer",
-    "traditional_chinese": "靜電電位計",
-    "definition_cht": "為量測「靜電電位計」相關物理量所設計的儀器或裝置。",
+    "traditional_chinese": "靜電式靜電計",
+    "definition_cht": "利用靜電力或電場作用量測微弱電荷量、電位差或電場強度的高靈敏儀器，常用於大氣電學與實驗室靜電量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrostatic_electrometer"
   },
   {
     "english": "electrostatic precipitator",
     "traditional_chinese": "靜電集塵器",
-    "definition_cht": "「靜電集塵器」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "利用高電壓使氣流中的粒子帶電，再以異號電極將其吸附去除的污染控制設備，常用於煙道氣、粉塵與煙霧處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrostatic_precipitator"
   },
   {
     "english": "element",
-    "traditional_chinese": "元素",
-    "definition_cht": "「元素」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "要素",
+    "definition_cht": "在氣象與氣候學中，指可觀測、量測或分析的單一物理量或狀態變數，如氣溫、氣壓、風、濕度與降水等，亦稱氣象要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/element"
   },
   {
     "english": "elephanta",
     "traditional_chinese": "象風",
-    "definition_cht": "「象風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "印度馬拉巴爾海岸外海一帶的地方風名稱，屬區域性海岸或近海風系用語，實際風向與特性須依當地季節環流與航海語境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/elephanta"
   },
   {
     "english": "elerwind",
-    "traditional_chinese": "峽灣突風",
-    "definition_cht": "指與「峽灣突風」相關的風場、風向分量、地方風或飛航風要素。",
+    "traditional_chinese": "埃勒風",
+    "definition_cht": "奧地利蒂羅爾庫夫施泰因以北一帶的地方風名稱，指發生於山谷地形中的區域性風，常與地形導引及冷空氣沿谷地下洩有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/elerwind"
   },
   {
     "english": "elevated convection",
     "traditional_chinese": "高架對流",
-    "definition_cht": "對流觸發或主要上升層位於近地面穩定層之上的對流型態，常見於夜間或鋒面前後環境。",
+    "definition_cht": "對流上升的主要起始層位於近地面穩定層之上、並非直接由地表暖濕空氣觸發的對流型態，常見於暖鋒冷側、夜間低空噴流或鋒後環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/elevated_convection"
   },
   {
     "english": "elevation",
-    "traditional_chinese": "仰角",
-    "definition_cht": "指「仰角」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "traditional_chinese": "高程",
+    "definition_cht": "某地點相對於基準面的垂直高度，通常以平均海平面或其他統一高程基準為參考；在地形、測量、水文與氣象資料中常作為位置描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/elevation"
   },
   {
     "english": "elevation angle",
     "traditional_chinese": "仰角",
-    "definition_cht": "視線、雷達波束或天體方向相對於水平面的夾角，是遙測掃描與天文定位常用的幾何量。",
+    "definition_cht": "自觀測者所在地的水平面向上量至目標方向的夾角，常用於雷達掃描、天文定位、衛星追蹤與遙測幾何計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/elevation_angle"
   },
   {
     "english": "elevation capacity curve",
-    "traditional_chinese": "高程—容量曲線",
-    "definition_cht": "「高程—容量曲線」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "高程－容量曲線",
+    "definition_cht": "描述水庫或蓄水體在不同水位高程下所對應蓄水容量關係的曲線，常用於水庫設計、調度、洪水演算與庫容推估。",
     "source_url": "https://glossary.ametsoc.org/wiki/elevation_capacity_curve"
   },
   {
     "english": "ELF",
     "traditional_chinese": "極低頻",
-    "definition_cht": "「ELF」為相關領域常用的縮寫、代號或頻段名稱，通常指涉特定觀測系統、模式產品、物理量、儀器或科學概念；實際涵義須依專業語境判定。",
+    "definition_cht": "無線電頻譜中的極低頻波段，通常指約 3 至 30 Hz 的電磁波；在大氣電學與地球物理中常用於研究閃電、地球電磁環境及深層介質傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/ELF"
   },
   {
     "english": "Eliassen–Palm flux",
-    "traditional_chinese": "Eliassen–Palm 通量",
-    "definition_cht": "表徵波動對平均環流動量與位渦輸送作用的向量量，常用於診斷平流層與大尺度大氣波動－平均流交互作用。",
+    "traditional_chinese": "Eliassen－Palm 通量",
+    "definition_cht": "用以描述大氣波動對平均環流之動量與熱量傳輸作用的向量量，常應用於診斷行星波、重力波與平流層－對流層交互作用及其對平均流的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Eliassen%E2%80%93Palm_flux"
   },
   {
     "english": "elliptical depolarization ratio",
     "traditional_chinese": "橢圓去偏振比",
-    "definition_cht": "表示「橢圓去偏振比」相關兩種量值之間關係的比值，常用於診斷介質性質、散射特徵或動力狀態。",
+    "definition_cht": "在橢圓偏振發射條件下，用來表示回波或散射訊號去偏振程度的比值；其大小與目標物的形狀、取向及散射特性有關，可用於偏極化雷達診斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/elliptical_depolarization_ratio"
   },
   {
     "english": "elliptical polarization",
     "traditional_chinese": "橢圓偏振",
-    "definition_cht": "指「橢圓偏振」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "一種電磁波偏振狀態，其電場向量端點在與傳播方向垂直的平面內隨時間描繪成橢圓；圓偏振與線偏振皆可視為其特例。",
     "source_url": "https://glossary.ametsoc.org/wiki/elliptical_polarization"
   },
   {
     "english": "Elmo's fire",
     "traditional_chinese": "聖艾爾摩火",
-    "definition_cht": "「聖艾爾摩火」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "強大氣電場下，尖端物體周圍因電暈放電而出現的藍紫色發光現象，常見於雷暴附近船桅、塔尖或飛機翼尖，屬電象之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/Elmo%27s_fire"
   },
   {
     "english": "Elsasser's radiation chart",
     "traditional_chinese": "艾爾薩塞輻射圖",
-    "definition_cht": "指與「艾爾薩塞輻射圖」相關的輻射能量、波段特徵、傳輸過程或觀測量。",
+    "definition_cht": "由 W. M. Elsasser 發展、用於圖解求解大氣紅外輻射傳輸與通量積分問題的輻射圖表，是早期大氣輻射計算的重要工具。",
     "source_url": "https://glossary.ametsoc.org/wiki/Elsasser%27s_radiation_chart"
   },
   {
     "english": "elve",
     "traditional_chinese": "高空電磁脈衝光環",
-    "definition_cht": "高空瞬變發光事件之一，由強烈閃電引發的電磁脈衝在電離層底部激發出快速擴張的環狀發光。",
+    "definition_cht": "瞬變發光事件的一種，由強烈閃電所產生的電磁脈衝激發電離層底部而形成，呈快速向外擴張的環狀或盤狀微弱發光。",
     "source_url": "https://glossary.ametsoc.org/wiki/elve"
   },
   {
     "english": "elvegust",
-    "traditional_chinese": "陣風前緣突風",
-    "definition_cht": "「陣風前緣突風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "峽灣下降突風",
+    "definition_cht": "挪威峽灣內常見的寒冷局地下坡突風，屬沿山谷或河谷向下加速的下降風；強風時可在水面揚起飛沫，屬典型地形性強陣風。",
     "source_url": "https://glossary.ametsoc.org/wiki/elvegust"
   },
   {
