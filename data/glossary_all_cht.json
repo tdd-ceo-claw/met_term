@@ -14893,122 +14893,122 @@
   },
   {
     "english": "divergence line",
-    "traditional_chinese": "發散線",
-    "definition_cht": "指與「發散線」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "散度線",
+    "definition_cht": "指氣流中沿著該水平線出現水平散度的線狀區域；亦可視為標示空氣向外發散位置的分析線。",
     "source_url": "https://glossary.ametsoc.org/wiki/divergence_line"
   },
   {
     "english": "divergence signature",
-    "traditional_chinese": "分歧簽名",
-    "definition_cht": "指描述「分歧簽名」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "散度特徵訊號",
+    "definition_cht": "指都卜勒速度場中表現水平散度或輻合的型態特徵，用於辨識與大氣現象相關的流場結構；在風暴相對座標下，常可作為風暴頂部發散等訊號的判識依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/divergence_signature"
   },
   {
     "english": "divergence theorem",
     "traditional_chinese": "散度定理",
-    "definition_cht": "與「散度定理」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "definition_cht": "又稱高斯定理，指向量場散度在某體積內的體積積分，等於該向量場穿過其封閉邊界面的通量總和；常用於流體力學與大氣動力學的守恆推導。",
     "source_url": "https://glossary.ametsoc.org/wiki/divergence_theorem"
   },
   {
     "english": "divergence theory of cyclones",
-    "traditional_chinese": "氣旋發散理論",
-    "definition_cht": "與「氣旋發散理論」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "traditional_chinese": "氣旋散度理論",
+    "definition_cht": "一種解釋氣旋發展的理論，認為高空散度可依質量連續原理誘發低層壓力下降與近地面輻合，進而促進氣旋增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/divergence_theory_of_cyclones"
   },
   {
     "english": "diversion of water",
     "traditional_chinese": "引水",
-    "definition_cht": "「引水」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指將水流自其天然河道、渠道或集水路徑改引至其他方向、河道、渠道、蓄水或用水系統的作業。常見於灌溉、供水、水利調度與防洪工程。",
     "source_url": "https://glossary.ametsoc.org/wiki/diversion_of_water"
   },
   {
     "english": "divide",
-    "traditional_chinese": "劃分",
-    "definition_cht": "「劃分」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "分水嶺",
+    "definition_cht": "在水文上指構成流域邊界的高地或稜線，用以分隔相鄰集水區；亦可泛指排水分界線或氣候分界。",
     "source_url": "https://glossary.ametsoc.org/wiki/divide"
   },
   {
     "english": "dividing streamline",
-    "traditional_chinese": "分割流線",
-    "definition_cht": "指與「分割流線」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "分界流線",
+    "definition_cht": "指穩定氣流迎向山丘或山脈時，將下層繞流與上層越流區域分隔開來的流線或流動邊界；其高度與穩定度及佛汝德數有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/dividing_streamline"
   },
   {
     "english": "DMO",
-    "traditional_chinese": "二甲氧基苯甲醚",
-    "definition_cht": "「二甲氧基苯甲醚」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "DMO",
+    "definition_cht": "氣象或天氣作業中使用的縮寫，但不同機構與語境下可能代表不同名稱；現有可得來源未顯示一致且通行的單一定義，使用時宜依原始文件或系統脈絡判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/DMO"
   },
   {
     "english": "DMSP",
-    "traditional_chinese": "DMSP",
-    "definition_cht": "「DMSP」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "國防氣象衛星計畫",
+    "definition_cht": "Defense Meteorological Satellite Program 的縮寫，為美國國防部的極軌氣象衛星計畫；其衛星可提供雲、海冰、雪覆蓋、海面與地表特徵等環境觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/DMSP"
   },
   {
     "english": "Dobson spectrophotometer",
-    "traditional_chinese": "多布森分光光度計",
-    "definition_cht": "與「多布森分光光度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "多布森臭氧分光光度計",
+    "definition_cht": "一種以紫外線吸收原理量測大氣總臭氧柱量的分光光度計，為歷史最悠久的臭氧觀測儀器之一，也可支援臭氧長期監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dobson_spectrophotometer"
   },
   {
     "english": "Dobson unit",
     "traditional_chinese": "多布森單位",
-    "definition_cht": "「多布森單位」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "表示整層大氣臭氧總量的單位。若將全部臭氧在標準溫壓下壓縮至地表，1 多布森單位相當於厚度 0.01 毫米的純臭氧層。",
     "source_url": "https://glossary.ametsoc.org/wiki/Dobson_unit"
   },
   {
     "english": "doctor",
-    "traditional_chinese": "醫生",
-    "definition_cht": "「醫生」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "doctor（地方風名）",
+    "definition_cht": "地方性風名。其一可指西非幾內亞沿岸帶來乾爽感的 harmattan；其二可泛指熱帶或副熱帶地區令人感到涼爽舒暢的海風，如南非或澳洲常見用法。",
     "source_url": "https://glossary.ametsoc.org/wiki/doctor"
   },
   {
     "english": "dog days",
-    "traditional_chinese": "三伏天",
-    "definition_cht": "指與「三伏天」相關的時間尺度、事件型態或週期變化，常用於記述天氣、氣候或環境條件在一定時段內的表現。",
+    "traditional_chinese": "盛夏酷熱期",
+    "definition_cht": "指夏季最炎熱、最悶熱的一段時期。傳統上與天狼星（Dog Star）偕日升有關，現代多泛指北半球盛夏酷暑時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/dog_days"
   },
   {
     "english": "doister",
-    "traditional_chinese": "多斯特",
-    "definition_cht": "「多斯特」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "doister（蘇格蘭沿海暴風）",
+    "definition_cht": "蘇格蘭地區的地方性天氣名稱，指自海上吹來的猛烈風暴；亦見拼法 deaister 或 dyster。",
     "source_url": "https://glossary.ametsoc.org/wiki/doister"
   },
   {
     "english": "doldrums",
-    "traditional_chinese": "低迷",
-    "definition_cht": "「低迷」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "赤道無風帶",
+    "definition_cht": "航海術語，指赤道低壓槽附近風弱、氣壓低且常伴對流雲雨的區域，亦稱 equatorial calms，約對應熱帶輻合帶附近的靜風區。",
     "source_url": "https://glossary.ametsoc.org/wiki/doldrums"
   },
   {
     "english": "domain",
     "traditional_chinese": "領域",
-    "definition_cht": "「領域」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在專家系統或知識式系統中，指某一人類活動或問題範圍，其內含特定專門知識與作業規則，可作為建構知識庫與推論系統的對象範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/domain"
   },
   {
     "english": "domain expert",
     "traditional_chinese": "領域專家",
-    "definition_cht": "「領域專家」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指對特定領域具有專門知識或實務經驗的專家；在專家系統建置中，常負責提供規則、判準與知識結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/domain_expert"
   },
   {
     "english": "domain knowledge",
     "traditional_chinese": "領域知識",
-    "definition_cht": "「領域知識」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指某一領域中的事實、程序、過程與經驗法則等知識內容，是專家系統或知識式系統進行判斷與推論的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/domain_knowledge"
   },
   {
     "english": "Doppler broadening",
     "traditional_chinese": "多普勒展寬",
-    "definition_cht": "「多普勒展寬」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指發射或吸收粒子因速度分布不同而產生不同多普勒位移，致使譜線整體變寬的現象；在雷達、光譜學與遙測中常用於解讀速度離散程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_broadening"
   },
   {
     "english": "Doppler effect",
     "traditional_chinese": "多普勒效應",
-    "definition_cht": "「多普勒效應」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指波源與觀測者之間存在相對運動時，觀測到的頻率或波長會發生改變的現象；氣象雷達即利用此效應推估目標沿視線方向的速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_effect"
   },
   {
