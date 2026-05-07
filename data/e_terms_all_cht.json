@@ -602,121 +602,121 @@
   {
     "english": "Ekman spiral",
     "traditional_chinese": "艾克曼螺旋",
-    "definition_cht": "在均勻穩定條件下，流速向量隨深度或高度逐漸旋轉並衰減的典型艾克曼層結構。",
+    "definition_cht": "在受地球自轉影響的黏性或湍流邊界層中，流速方向隨高度或深度逐步旋轉、強度逐漸衰減而形成的螺旋狀流場結構；常見於海洋表層與大氣邊界層。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ekman_spiral"
   },
   {
     "english": "Ekman transport",
     "traditional_chinese": "艾克曼輸送",
-    "definition_cht": "表層摩擦層中，受風應力與科氏力作用後所形成的淨水平輸送。",
+    "definition_cht": "表層流體受風應力、摩擦與科氏力共同作用後所產生的整體淨水平輸送；在北半球其方向約位於風向右側九十度，在南半球則約位於左側。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ekman_transport"
   },
   {
     "english": "El Niño",
     "traditional_chinese": "聖嬰現象",
-    "definition_cht": "赤道太平洋海表溫度異常偏暖及其伴隨海氣耦合變化的現象，會影響全球季節尺度氣候與降水分布。",
+    "definition_cht": "聖嬰─南方振盪暖相事件，指赤道中、東太平洋海表溫度持續偏暖，並伴隨大氣環流、降水與對流型態異常改變的海氣耦合現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/El_Ni%C3%B1o"
   },
   {
     "english": "electric charge",
     "traditional_chinese": "電荷",
-    "definition_cht": "「電荷」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "物質所帶、能決定其在電場與磁場中受力行為的基本物理量，可分為正電與負電；在大氣電學中，雲滴、冰晶、降水粒子與離子所攜帶之電荷是閃電與電場形成的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/electric_charge"
   },
   {
     "english": "electric discharge",
     "traditional_chinese": "放電",
-    "definition_cht": "「放電」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "電荷在電場作用下經由空氣、氣體、液體或其他介質快速釋放與傳輸的過程；在大氣中典型例子為閃電，通常發生於電場強度超過介質可承受閾值時。",
     "source_url": "https://glossary.ametsoc.org/wiki/electric_discharge"
   },
   {
     "english": "electric double layer",
-    "traditional_chinese": "雙電層",
-    "definition_cht": "指與「雙電層」相關的大氣、海洋、土壤或電離層層結，用以界定特定物理性質隨高度或深度的分布。",
+    "traditional_chinese": "電雙層",
+    "definition_cht": "兩相介面附近由相反電荷分離所形成的雙層帶電結構，會造成電位在極短距離內急遽變化；常見於膠體、氣膠、水溶液、土壤孔隙水及其他表面科學或地球化學系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/electric_double_layer"
   },
   {
     "english": "electric field",
     "traditional_chinese": "電場",
-    "definition_cht": "描述單位電荷所受電力大小與方向的向量場，是大氣電學與放電過程分析的重要物理量。",
+    "definition_cht": "由電荷分布所產生、用以描述空間各點電力大小與方向的向量場；其值等於單位正試驗電荷在該處所受之力，為大氣電學與放電研究的核心物理量。",
     "source_url": "https://glossary.ametsoc.org/wiki/electric_field"
   },
   {
     "english": "electric field intensity",
     "traditional_chinese": "電場強度",
-    "definition_cht": "表示「電場強度」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "definition_cht": "指某一位置電場的大小與方向，數值上為單位正試驗電荷所受之力；常以伏特每公尺或牛頓每庫侖表示，亦常簡稱電場。",
     "source_url": "https://glossary.ametsoc.org/wiki/electric_field_intensity"
   },
   {
     "english": "electric field strength",
     "traditional_chinese": "電場強度",
-    "definition_cht": "「電場強度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "electric field intensity 的同義用法，指空間中某點電場之強弱與方向，即單位正電荷在該處所受之力；在大氣電學中常用以評估雷暴與近地層帶電環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/electric_field_strength"
   },
   {
     "english": "electric lines of force",
     "traditional_chinese": "電力線",
-    "definition_cht": "指與「電力線」相關的線狀界面、等值線、特徵線或分析線。",
+    "definition_cht": "用以表徵電場方向的假想曲線，其在每一點皆與當地電場向量相切；線越密集通常代表電場越強，亦常稱為電場線。",
     "source_url": "https://glossary.ametsoc.org/wiki/electric_lines_of_force"
   },
   {
     "english": "electric potential",
     "traditional_chinese": "電位",
-    "definition_cht": "「電位」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "單位電荷在某點所具有的位能，或將單位正電荷自基準位置移至該點所需的功；兩點電位差即為電壓，常用於描述大氣電位梯度與電荷分離系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/electric_potential"
   },
   {
     "english": "electrical breakdown",
     "traditional_chinese": "電擊穿",
-    "definition_cht": "「電擊穿」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "當外加電場超過介質的介電強度時，原本絕緣的介質突然導電、電阻急遽下降的現象；空氣擊穿是閃電與火花放電形成的關鍵條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrical_breakdown"
   },
   {
     "english": "electrical conductivity",
-    "traditional_chinese": "導電度",
-    "definition_cht": "表示「導電度」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "traditional_chinese": "電導率",
+    "definition_cht": "表示材料或介質傳導電流能力的物理量，為電阻率的倒數；在水文與海洋中常用於反映水體離子含量、鹽度或溶解物濃度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrical_conductivity"
   },
   {
     "english": "electrical hygrometer",
     "traditional_chinese": "電測濕度計",
-    "definition_cht": "為量測「電測濕度計」相關物理量所設計的儀器或裝置。",
+    "definition_cht": "利用感測元件電阻、電容或其他電性隨空氣中水氣含量改變而量測濕度的儀器；常見型式包括電阻式與電容式濕度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrical_hygrometer"
   },
   {
     "english": "electrical log",
     "traditional_chinese": "電測井曲線",
-    "definition_cht": "「電測井曲線」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在井孔中以電極或電磁量測方式取得地層電性隨深度變化的記錄，用以辨識岩性、孔隙流體與地層構造特徵，屬井測資料的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrical_log"
   },
   {
     "english": "electrical storm",
-    "traditional_chinese": "電暴",
-    "definition_cht": "以頻繁閃電、雷鳴與強電場變化為主要特徵的雷暴天氣。",
+    "traditional_chinese": "雷暴",
+    "definition_cht": "通俗上指伴隨強烈大氣電現象的雷雨風暴，即具有閃電與雷鳴的對流性風暴；在部分文獻中也可泛指近地層電場受揚塵等作用而顯著擾動的情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrical_storm"
   },
   {
     "english": "electrical substitution radiometer",
     "traditional_chinese": "電替代輻射計",
-    "definition_cht": "為量測「電替代輻射計」相關物理量所設計的儀器或裝置。",
+    "definition_cht": "以已知電功率替代入射輻射加熱效應來量測輻射通量的高精度輻射計；藉比較受輻射照射與電加熱時檢測器輸出，可建立絕對輻射量測基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrical_substitution_radiometer"
   },
   {
     "english": "electrical thermometer",
     "traditional_chinese": "電測溫度計",
-    "definition_cht": "為量測「電測溫度計」相關物理量所設計的儀器或裝置。",
+    "definition_cht": "利用感測元件之電阻、熱電勢或其他電性隨溫度改變而測溫的儀器；氣象上常見者包括電阻溫度計與熱電偶溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrical_thermometer"
   },
   {
     "english": "electro-osmosis",
     "traditional_chinese": "電滲作用",
-    "definition_cht": "「電滲作用」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在外加電場作用下，液體沿多孔介質、毛細管或帶電表面相對移動的現象；其驅動與界面電雙層有關，常見於土壤、膠體、微流體與地工排水研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/electro-osmosis"
   },
   {
     "english": "electrode effect",
     "traditional_chinese": "電極效應",
-    "definition_cht": "「電極效應」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在持續產生離子的空間中，離子受電場驅動向電極移動，致使電極附近累積相反號優勢離子的現象；為近地層大氣電學與離子量測中常見的邊界效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/electrode_effect"
   },
   {
