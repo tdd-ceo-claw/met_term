@@ -14173,122 +14173,122 @@
   },
   {
     "english": "differential absorption hygrometer",
-    "traditional_chinese": "差示吸收濕度計",
-    "definition_cht": "與「差示吸收濕度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "traditional_chinese": "差分吸收濕度計",
+    "definition_cht": "利用水氣在不同波長吸收強度的差異來推算空氣濕度的儀器；通常比較一個受水氣強吸收的波段與一個近乎不受吸收的參考波段，以求得水氣含量或相對濕度。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_absorption_hygrometer"
   },
   {
     "english": "differential absorption lidar thermometer",
     "traditional_chinese": "差分吸收光達溫度計",
-    "definition_cht": "與「差分吸收光達溫度計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "definition_cht": "利用大氣氣體在相鄰波長上的差異吸收特性，以光達遙測回波反演氣溫剖面的儀器或方法；常藉由選取對溫度敏感的吸收線來估算大氣溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_absorption_lidar_thermometer"
   },
   {
     "english": "differential analysis",
-    "traditional_chinese": "差異分析",
-    "definition_cht": "「差異分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "微分分析",
+    "definition_cht": "以空間或時間微分關係分析場量變化的方法；在氣象學中常用於由觀測場求取梯度、散度、渦度、變形或其他局地變化率。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_analysis"
   },
   {
     "english": "differential attenuation",
     "traditional_chinese": "差分衰減",
-    "definition_cht": "「差分衰減」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指電磁波在兩個偏振態或兩個頻帶傳播時，其衰減量不相同的現象；在雙偏振雷達中通常特指水平與垂直偏振波因降水粒子吸收與散射不同而產生的衰減差。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_attenuation"
   },
   {
     "english": "differential backscattering cross section",
-    "traditional_chinese": "差分後向散射截面",
-    "definition_cht": "「差分後向散射截面」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "微分後向散射截面",
+    "definition_cht": "描述目標在後向方向每單位立體角所散射能量強度的物理量，用以表徵粒子或散射體對入射電磁波的後向散射能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_backscattering_cross_section"
   },
   {
     "english": "differential ballistic wind",
-    "traditional_chinese": "差分彈道風",
-    "definition_cht": "指與「差分彈道風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "微分彈道風",
+    "definition_cht": "以彈道近似比較不同高度或不同時間的拋體位移差而求得的風場量，用於由彈道軌跡差異推算平均風或風切變。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_ballistic_wind"
   },
   {
     "english": "differential chart",
-    "traditional_chinese": "微分圖",
-    "definition_cht": "指呈現「微分圖」資訊的圖表、影像或紀錄資料，用於分析大氣結構、天氣系統分布及其時空變化。",
+    "traditional_chinese": "差值圖",
+    "definition_cht": "將兩組分析場、兩個時次或兩個高度面的同類氣象量相減後繪製而成的圖表，用以顯示其差異分布及變化區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_chart"
   },
   {
     "english": "differential kinematics",
     "traditional_chinese": "微分運動學",
-    "definition_cht": "「微分運動學」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "以速度場的空間微分來描述流體局地運動特性的分析方法，重點包括散度、渦度、形變與剪切等量。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_kinematics"
   },
   {
     "english": "differential mobility analyzer",
     "traditional_chinese": "微分遷移率分析儀",
-    "definition_cht": "與「微分遷移率分析儀」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "definition_cht": "依帶電氣膠粒子在電場中的電遷移率加以分級的儀器，常用於量測次微米粒徑分布，並常與凝結核粒子計數器組成掃描式移動粒徑譜儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_mobility_analyzer"
   },
   {
     "english": "differential optical absorption",
-    "traditional_chinese": "微分光吸收",
-    "definition_cht": "「微分光吸收」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "差分光學吸收",
+    "definition_cht": "利用窄波段吸收結構與寬頻背景吸收分離的原理，從光譜中萃取微量氣體吸收訊號的方法，是差分光學吸收光譜法（DOAS）的核心概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_optical_absorption"
   },
   {
     "english": "differential phase shift",
-    "traditional_chinese": "微分相移",
-    "definition_cht": "「微分相移」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "差分相位移",
+    "definition_cht": "雙偏振雷達中水平與垂直偏振波沿傳播路徑累積相位差的量，常記為 ΦDP；其變化可用於估算降水形狀、濃度與降雨率，且受衰減影響較小。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_phase_shift"
   },
   {
     "english": "differential reflectivity",
-    "traditional_chinese": "微分反射率",
-    "definition_cht": "「微分反射率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "差分反射率",
+    "definition_cht": "雙偏振雷達中水平與垂直偏振回波反射率之比值，通常以 dB 表示並記為 ZDR；可用來判別降水粒子形狀、相態與尺寸分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_reflectivity"
   },
   {
     "english": "differential thermal advection",
-    "traditional_chinese": "差熱平流",
-    "definition_cht": "指與「差熱平流」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "traditional_chinese": "差異性溫度平流",
+    "definition_cht": "指溫度平流在空間上的差異，尤指不同地區或不同高度之間暖平流與冷平流強弱不一致的情形；此種差異常與厚度變化及垂直運動的形成有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_thermal_advection"
   },
   {
     "english": "differential water capacity",
-    "traditional_chinese": "差異水容量",
-    "definition_cht": "「差異水容量」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "微分持水容量",
+    "definition_cht": "土壤水分學中指含水量對基質勢（或吸力）變化的微分關係，即土壤水分特徵曲線的斜率，用以表示土壤在某一含水狀態下對水分變化的敏感度。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_water_capacity"
   },
   {
     "english": "differential wind",
-    "traditional_chinese": "微分風",
-    "definition_cht": "指與「微分風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "差分風",
+    "definition_cht": "指兩個位置、兩個高度或兩個時刻之間的風向量差，可用以表示風切變或風場在空間、時間上的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/differential_wind"
   },
   {
     "english": "diffluence",
-    "traditional_chinese": "分流",
-    "definition_cht": "「分流」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "流線分散",
+    "definition_cht": "流場中相鄰流線沿下游方向彼此分開的現象；在天氣分析中常用以描述高空氣流呈扇形展開，但不必然代表質量散度。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffluence"
   },
   {
     "english": "diffluent thermal ridge",
-    "traditional_chinese": "分流熱脊",
-    "definition_cht": "指與「分流熱脊」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "traditional_chinese": "分散流場熱脊",
+    "definition_cht": "在分散氣流作用下形成或增強的暖性脊區，通常表現在厚度場、等溫線或等位溫線上的暖區軸線。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffluent_thermal_ridge"
   },
   {
     "english": "diffluent thermal trough",
-    "traditional_chinese": "分流熱槽",
-    "definition_cht": "指與「分流熱槽」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "traditional_chinese": "分散流場熱槽",
+    "definition_cht": "在分散氣流作用下形成或增強的冷性槽區，通常表現在厚度場、等溫線或等位溫線上的冷區軸線。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffluent_thermal_trough"
   },
   {
     "english": "diffraction",
     "traditional_chinese": "繞射",
-    "definition_cht": "「繞射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "波動通過障礙物邊緣或狹縫時偏離幾何直線傳播並向陰影區擴展的現象；在大氣光學、聲學與雷達遙測中皆可能出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffraction"
   },
   {
     "english": "diffraction pattern",
-    "traditional_chinese": "衍射圖樣",
-    "definition_cht": "「衍射圖樣」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "繞射圖樣",
+    "definition_cht": "由繞射與干涉共同形成的強弱分布圖形，可表現在光強、能量或回波角向分布上，用以分析波長、孔徑或散射體結構特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/diffraction_pattern"
   },
   {
