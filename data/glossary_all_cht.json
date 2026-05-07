@@ -16448,121 +16448,121 @@
   {
     "english": "effective roughness length",
     "traditional_chinese": "有效粗糙長度",
-    "definition_cht": "「有效粗糙長度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "用於代表地表性質不均一區域之整體空氣動力粗糙效應的等效粗糙長度參數，常供近地風速剖面、通量交換與中尺度模式參數化使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_roughness_length"
   },
   {
     "english": "effective snowmelt",
     "traditional_chinese": "有效融雪量",
-    "definition_cht": "「有效融雪量」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "融雪中實際能進入地表逕流、土壤水分或下游水量計算的部分；通常指扣除再凍結、滯蓄、蒸發或局地損失後，對水文響應真正有效的雪融水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_snowmelt"
   },
   {
     "english": "effective stack height",
     "traditional_chinese": "有效煙囪高度",
-    "definition_cht": "煙流實際擴散所對應的有效排放高度，為煙囪物理高度加上浮力或動量抬升量。",
+    "definition_cht": "污染煙流在大氣中實際開始擴散時所對應的排放高度，等於煙囪實體高度加上羽流因浮力或動量造成的抬升高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_stack_height"
   },
   {
     "english": "effective temperature",
     "traditional_chinese": "有效溫度",
-    "definition_cht": "指與「有效溫度」相關的溫度量、代表性熱狀態或熱力診斷參數。",
+    "definition_cht": "表示人體或物體熱感受之等效溫度指標；在氣象與生物氣象中常綜合氣溫、濕度、風速及有時輻射影響，用以表徵實際冷熱感。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_temperature"
   },
   {
     "english": "effective velocity",
     "traditional_chinese": "有效速度",
-    "definition_cht": "指與「有效速度」相關的速度量，描述流體、波動或界面移動的快慢與方向。",
+    "definition_cht": "在特定理論、量測或工程情境中，用以代表實際傳輸、推進或作用效果的等效速度；其定義依問題而異，常為由多個速度分量或機制折算出的代表值。",
     "source_url": "https://glossary.ametsoc.org/wiki/effective_velocity"
   },
   {
     "english": "effluent",
     "traditional_chinese": "排放流",
-    "definition_cht": "「排放流」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由管線、設施、河道或處理系統向外排出的液體或氣體流出物；在水污染與水文語境中常指排放至受納水體的廢水或處理後出流水。",
     "source_url": "https://glossary.ametsoc.org/wiki/effluent"
   },
   {
     "english": "effluent limitations",
     "traditional_chinese": "排放限值",
-    "definition_cht": "「排放限值」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "法規、許可或管理標準對廢水、廢氣等排放流中污染物濃度、負荷量或排放速率所設定的上限，用以保護水體、空氣或其他環境受體。",
     "source_url": "https://glossary.ametsoc.org/wiki/effluent_limitations"
   },
   {
     "english": "effluent seepage",
     "traditional_chinese": "出流水滲漏",
-    "definition_cht": "「出流水滲漏」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由含水層、渠道、滲濾系統或其他水體向外逸出的滲流現象；在地下水文中常指地下水自地層滲出並補注地表或近地表環境的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/effluent_seepage"
   },
   {
     "english": "effluent stream",
     "traditional_chinese": "出流水系",
-    "definition_cht": "指與「出流水系」相關的溪流、水流或排水通道特性。",
+    "definition_cht": "接受地下水補注而流量沿程增加的河川或溪流；其河床與鄰近含水層呈排洩關係，因此亦稱得水河流或 gaining stream。",
     "source_url": "https://glossary.ametsoc.org/wiki/effluent_stream"
   },
   {
     "english": "efflux velocity",
     "traditional_chinese": "流出速度",
-    "definition_cht": "表示「流出速度」相關物理量穿越單位面積或邊界的輸送通量，常用於能量、動量、水氣或示蹤物收支分析。",
+    "definition_cht": "流體自孔口、噴嘴、管口或其他出口逸出時的速度；常用於描述儲槽、管流或噴流排放強度，理想情況下可由托里拆利定律估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/efflux_velocity"
   },
   {
     "english": "Egyptian wind",
     "traditional_chinese": "埃及風",
-    "definition_cht": "指與「埃及風」相關的風場、風向分量、地方風或飛航風要素。",
+    "definition_cht": "源自埃及及其周邊沙漠地區的地方風名稱，通常指炎熱、乾燥且常挾帶沙塵的風；實際所指風型須依區域文獻與地方用法判定，常與 khamsin 類熱風相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Egyptian_wind"
   },
   {
     "english": "EHF",
     "traditional_chinese": "極高頻",
-    "definition_cht": "「EHF」為相關領域常用的縮寫、代號或頻段名稱，通常指涉特定觀測系統、模式產品、物理量、儀器或科學概念；實際涵義須依專業語境判定。",
+    "definition_cht": "extremely high frequency 的縮寫，指頻率介於 30 至 300 GHz 的無線電波段；常用於毫米波通訊、雷達、遙測與大氣傳播研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/EHF"
   },
   {
     "english": "eigenvalue",
     "traditional_chinese": "特徵值",
-    "definition_cht": "「特徵值」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在線性變換或矩陣作用下，使某特徵向量僅改變大小而不改變方向的比例常數；在氣象與海洋資料分析中常用於 EOF、主成分分析及穩定度問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/eigenvalue"
   },
   {
     "english": "eight-inch rain gauge",
     "traditional_chinese": "八英寸雨量器",
-    "definition_cht": "用於量測「八英寸雨量器」相關量值的儀器，常見於降水、水位或壓力觀測。",
+    "definition_cht": "集水口口徑為八英寸的標準非記錄式雨量器，長期廣用於地面降水觀測；降雨經漏斗導入內筒後，再以量筒讀取雨量深度。",
     "source_url": "https://glossary.ametsoc.org/wiki/eight-inch_rain_gauge"
   },
   {
     "english": "Einstein's summation notation",
     "traditional_chinese": "愛因斯坦求和記號",
-    "definition_cht": "指「愛因斯坦求和記號」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "張量與向量運算中的記號慣例；當同一項內某指標重複出現時，表示對該指標所有可能值自動求和，可簡化連續介質力學與地球流體動力學方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/Einstein%27s_summation_notation"
   },
   {
     "english": "ejection chamber",
     "traditional_chinese": "噴射室",
-    "definition_cht": "「噴射室」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "噴射器或引射裝置中，供高速工作流體捲吸周圍流體並進行混合、動量交換的腔室；其流場特性會影響抽吸效率、壓力恢復與整體裝置性能。",
     "source_url": "https://glossary.ametsoc.org/wiki/ejection_chamber"
   },
   {
     "english": "Ekman boundary conditions",
     "traditional_chinese": "艾克曼邊界條件",
-    "definition_cht": "「艾克曼邊界條件」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "求解艾克曼層時在邊界面施加的條件，用以約束流速、應力或其梯度與外部流場之關係；常見者為表面風應力指定及遠離邊界處流速趨近地轉平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ekman_boundary_conditions"
   },
   {
     "english": "Ekman layer",
     "traditional_chinese": "艾克曼層",
-    "definition_cht": "流體受黏滯力與科氏力共同作用所形成的邊界層，其流向會隨深度或高度改變。",
+    "definition_cht": "在旋轉流體中，因黏滯或湍流摩擦與科氏力共同作用而形成的邊界層；其流向與流速會隨高度或深度逐漸轉向，並趨近外部地轉流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ekman_layer"
   },
   {
     "english": "Ekman number",
     "traditional_chinese": "艾克曼數",
-    "definition_cht": "「艾克曼數」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "衡量黏滯力相對於科氏力重要性的無因次數，常寫為黏滯擴散尺度與旋轉尺度之比；數值愈小，表示旋轉效應相對愈占優勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ekman_number"
   },
   {
     "english": "Ekman pumping",
     "traditional_chinese": "艾克曼抽吸",
-    "definition_cht": "由風應力旋度或表層流場輻合輻散所引起的垂直運動，可造成海水上升或下沉。",
+    "definition_cht": "由表面風應力旋度或艾克曼層內水平流之輻合、輻散所驅動的垂直運動；在海洋中可造成上升流或下沉流，並影響營養鹽輸送與海表溫度分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ekman_pumping"
   },
   {
