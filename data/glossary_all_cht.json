@@ -13574,121 +13574,121 @@
   {
     "english": "deliquescence",
     "traditional_chinese": "潮解",
-    "definition_cht": "「潮解」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指吸濕性固體在相對濕度升高到臨界值後，吸收水氣並逐漸溶解成濃溶液的現象；在大氣氣膠研究中，常用以描述粒子於潮解相對濕度以上由固相轉為液相或半液相。",
     "source_url": "https://glossary.ametsoc.org/wiki/deliquescence"
   },
   {
     "english": "delta Eddington",
-    "traditional_chinese": "三角洲愛丁頓",
-    "definition_cht": "「三角洲愛丁頓」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "δ-Eddington近似",
+    "definition_cht": "輻射傳輸中的一種兩流近似法，將散射相函數中強烈的前向散射峰以δ函數分離，再對其餘部分套用 Eddington 近似，以較準確估算雲層或氣膠介質中的反射率、透射率與加熱率。",
     "source_url": "https://glossary.ametsoc.org/wiki/delta_Eddington"
   },
   {
     "english": "delta region",
-    "traditional_chinese": "三角洲地區",
-    "definition_cht": "指與「三角洲地區」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "δ區",
+    "definition_cht": "在太陽活動區或黑子磁場分類中，指相反磁極的黑子核心位於同一半影內、磁場結構特別複雜的區域；此類區域通常與較高的耀斑活動潛勢有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/delta_region"
   },
   {
     "english": "delta rule",
-    "traditional_chinese": "德爾塔法則",
-    "definition_cht": "「德爾塔法則」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "δ法則",
+    "definition_cht": "一種依輸出誤差調整權重的學習規則，又稱 Widrow–Hoff 法則或 LMS 法；在氣象統計與神經網路應用中，可用於迭代更新參數，使預測值逐步逼近觀測值。",
     "source_url": "https://glossary.ametsoc.org/wiki/delta_rule"
   },
   {
     "english": "dendritic crystal",
-    "traditional_chinese": "樹枝狀晶體",
-    "definition_cht": "「樹枝狀晶體」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "樹枝狀冰晶",
+    "definition_cht": "具有主幹與分枝外形的雪晶或冰晶，常在溫度約 -12 至 -18°C、且水汽過飽和較高的環境中快速成長；為降雪中常見的晶形之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/dendritic_crystal"
   },
   {
     "english": "dendrochore",
-    "traditional_chinese": "樹粒細胞",
-    "definition_cht": "「樹粒細胞」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "樹輪代用資料",
+    "definition_cht": "指取自樹木年輪的氣候或環境代用資料單元，可為單株、單段年輪序列或其代表訊號；常用於重建過去的降水、乾旱、逕流或溫度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/dendrochore"
   },
   {
     "english": "dendrochronology",
-    "traditional_chinese": "樹木年代學",
-    "definition_cht": "「樹木年代學」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "樹木年輪年代學",
+    "definition_cht": "利用樹木年輪的寬度、密度、同位素或解剖特徵進行定年與環境重建的學科，可用於推估過去氣候變化、乾旱事件、火災史及生態擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/dendrochronology"
   },
   {
     "english": "dendrohydrology",
-    "traditional_chinese": "樹木水文學",
-    "definition_cht": "指「樹木水文學」這一學科分支或研究領域，著重於特定大氣、海洋、水文或氣候現象之機制、觀測、分析與預測。",
+    "traditional_chinese": "樹輪水文學",
+    "definition_cht": "運用樹木年輪資料研究河川流量、土壤水分、降水、積雪或乾旱變化的學門，常用於重建儀器觀測之前的長期水文紀錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/dendrohydrology"
   },
   {
     "english": "denitrification",
     "traditional_chinese": "反硝化作用",
-    "definition_cht": "「反硝化作用」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "微生物在低氧或缺氧環境中，將硝酸鹽或亞硝酸鹽還原為一氧化二氮或氮氣的生物地球化學過程；此作用會影響土壤、濕地與海洋中的活性氮循環。",
     "source_url": "https://glossary.ametsoc.org/wiki/denitrification"
   },
   {
     "english": "density",
     "traditional_chinese": "密度",
-    "definition_cht": "「密度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "單位體積內所含的質量，通常寫為 ρ = m/V；在氣象與海洋學中，空氣或海水密度會隨溫度、壓力、濕度與鹽度而改變，並直接影響浮力與流體運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/density"
   },
   {
     "english": "density altitude",
     "traditional_chinese": "密度高度",
-    "definition_cht": "「密度高度」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在國際標準大氣中與當前空氣密度相同的高度；其值受氣壓、氣溫與濕度共同影響，常用於航空氣象評估飛機起降性能與爬升能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/density_altitude"
   },
   {
     "english": "density channel",
     "traditional_chinese": "密度通道",
-    "definition_cht": "「密度通道」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指在流體或大氣中，由密度差異形成並導引流動或物質傳輸的狹長通道或層帶；常用來描述較重流體沿地形低處、穩定層結界面或邊界層內特定路徑移動的情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/density_channel"
   },
   {
     "english": "density correction",
     "traditional_chinese": "密度校正",
-    "definition_cht": "「密度校正」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "為消除流體密度變化對量測或計算結果的影響，而依實際溫度、壓力、濕度或組成進行的修正；常見於氣體體積、空氣動力、降水量測與儀器校準。",
     "source_url": "https://glossary.ametsoc.org/wiki/density_correction"
   },
   {
     "english": "density current",
-    "traditional_chinese": "密度電流",
-    "definition_cht": "指與「密度電流」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "traditional_chinese": "密度流",
+    "definition_cht": "由密度差異所驅動的流動，通常是較冷、較重或含鹽較高的流體在重力作用下沿地表或水下向前推進；大氣中的冷池外流、鋒面湧流與海中的濁流皆屬此類。",
     "source_url": "https://glossary.ametsoc.org/wiki/density_current"
   },
   {
     "english": "density function",
     "traditional_chinese": "密度函數",
-    "definition_cht": "「密度函數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "描述某物理量、機率或分布在單位區間、面積或體積內之密集程度的函數；在統計氣象中常指機率密度函數，用來表徵變數出現機率的分布型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/density_function"
   },
   {
     "english": "density of snow",
-    "traditional_chinese": "雪的密度",
-    "definition_cht": "指與「雪的密度」相關的水象、雲霧、降水或結冰現象，用以描述水分在大氣中凝結、沉降、附著或造成能見度改變的過程。",
+    "traditional_chinese": "雪密度",
+    "definition_cht": "單位體積積雪所含的質量，通常以 kg/m³ 表示；其值會隨雪晶型態、含水量、壓實、融凍循環與積雪老化而變化，是估算雪水當量的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/density_of_snow"
   },
   {
     "english": "Density-weighted mean wind",
     "traditional_chinese": "密度加權平均風",
-    "definition_cht": "指與「密度加權平均風」相關的流動、風系、噴流或環流現象，反映空氣或海水在壓力梯度、浮力、地形、地轉偏向力或摩擦作用下的運動特徵。",
+    "definition_cht": "以空氣密度作為權重計算得到的平均風場，用於反映不同高度或層次對質量輸送的實際貢獻；在柱積分通量、質量守恆與大尺度環流分析中尤其常用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Density-weighted_mean_wind"
   },
   {
     "english": "denudation",
-    "traditional_chinese": "剝削",
-    "definition_cht": "「剝削」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "剝蝕作用",
+    "definition_cht": "地表物質因風化、侵蝕、搬運與重力作用而被移除或降低地勢的總稱；在氣候地形學中，常用以描述長時間尺度下地表被削平或地貌退縮的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/denudation"
   },
   {
     "english": "Denver convergence–vorticity zone",
-    "traditional_chinese": "丹佛輻合渦度帶",
-    "definition_cht": "指與「丹佛輻合渦度帶」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "traditional_chinese": "丹佛輻合－渦度帶",
+    "definition_cht": "美國科羅拉多州丹佛都會區附近受落磯山脈背風地形影響，在近地面形成的中尺度輻合與渦度增強帶；常是對流觸發、雷暴發展與 landspout 龍捲生成的重要環境特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Denver_convergence%E2%80%93vorticity_zone"
   },
   {
     "english": "Denver cyclone",
     "traditional_chinese": "丹佛氣旋",
-    "definition_cht": "指與「丹佛氣旋」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
+    "definition_cht": "指美國丹佛附近背風側常出現的中尺度或局地低壓渦旋，多由落磯山脈地形迫使氣流再分布而形成，常伴隨近地面輻合增強，並有助於午後對流發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/Denver_cyclone"
   },
   {
