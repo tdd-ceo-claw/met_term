@@ -1802,121 +1802,121 @@
   {
     "english": "dissipation rate",
     "traditional_chinese": "耗散率",
-    "definition_cht": "「耗散率」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "在湍流或流體力學中，指動能經由分子黏滯作用轉換為內能（熱）的速率，常用以衡量湍流能量在小尺度上的耗散強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/dissipation_rate"
   },
   {
     "english": "dissipation trail",
-    "traditional_chinese": "耗散尾跡",
-    "definition_cht": "「耗散尾跡」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "消散尾跡",
+    "definition_cht": "又稱 distrail，指飛機穿越薄雲層時，在機後形成的清晰無雲帶狀痕跡；其成因通常與局部加熱或壓力變化使雲滴或冰晶蒸發有關，與凝結尾相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/dissipation_trail"
   },
   {
     "english": "dissociation",
     "traditional_chinese": "解離",
-    "definition_cht": "「解離」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指分子、原子團或化合物分裂為較簡單粒子（如原子、離子或自由基）的過程。在高層大氣、燃燒與大氣化學中，常由加熱、輻射或化學反應所引發。",
     "source_url": "https://glossary.ametsoc.org/wiki/dissociation"
   },
   {
     "english": "distortion",
-    "traditional_chinese": "失真",
-    "definition_cht": "「失真」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "畸變",
+    "definition_cht": "指觀測、傳輸、成像或流場型態相對於原始狀態所產生的變形或偏差。在氣象觀測與遙測中，可指地形、塔架、儀器或訊號處理造成的流場或影像失真。",
     "source_url": "https://glossary.ametsoc.org/wiki/distortion"
   },
   {
     "english": "distributed target",
-    "traditional_chinese": "分散式目標",
-    "definition_cht": "「分散式目標」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "分布目標",
+    "definition_cht": "在雷達中，指尺度大於雷達脈衝體積、因而可視為充滿波束取樣體積的目標，例如降水區或雲體；其回波常以體積反射率等量表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/distributed_target"
   },
   {
     "english": "distribution",
-    "traditional_chinese": "分配",
-    "definition_cht": "「分配」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "分布",
+    "definition_cht": "指某一物理量、現象或事件在空間、時間、方向或數值範圍上的配置情形。在氣象與水文中，常用於描述降水、溫度、風、雲量或機率的分布特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/distribution"
   },
   {
     "english": "distribution coefficient",
     "traditional_chinese": "分配係數",
-    "definition_cht": "用於表示「分配係數」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "definition_cht": "在水文地球化學與土壤科學中，指溶質吸附於固體介質的量與其溶解於水中的濃度之比，用以表示污染物或化學物質在固相與液相之間的分配程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/distribution_coefficient"
   },
   {
     "english": "distribution function",
-    "traditional_chinese": "分佈函數",
-    "definition_cht": "「分佈函數」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "分布函數",
+    "definition_cht": "描述隨機變數取值機率分布的函數；若指累積分布函數，則表示該變數小於或等於某一數值的機率。在氣象統計中常用以表示降水、風速或溫度等變數的分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/distribution_function"
   },
   {
     "english": "distribution graph",
-    "traditional_chinese": "分佈圖",
-    "definition_cht": "「分佈圖」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "分布圖",
+    "definition_cht": "以圖形方式呈現某一變數在空間、時間或數值區間內分配情形的圖表，可用於顯示天氣現象、雲量、降水或統計頻率之分布特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/distribution_graph"
   },
   {
     "english": "district forecast",
-    "traditional_chinese": "地區預報",
-    "definition_cht": "指「地區預報」這類預報產品或預測作業，用以說明未來一定時段內之天氣、氣候或相關環境條件變化。",
+    "traditional_chinese": "分區預報",
+    "definition_cht": "針對特定行政區、預報區或作業分區發布的天氣預報產品，用以說明該區域在一定時段內之天氣、風、降水、溫度或海況變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/district_forecast"
   },
   {
     "english": "disturbance",
-    "traditional_chinese": "幹擾",
-    "definition_cht": "指與「幹擾」相關的天氣系統或擾動現象，通常伴隨風場、氣壓、降水、對流或海況的明顯變化。",
+    "traditional_chinese": "擾動",
+    "definition_cht": "指大氣、海洋或其他流體系統對原有平衡狀態的偏離或擾亂；在天氣分析中常泛指低壓槽、波動、對流系統或熱帶擾動等可引發天氣變化的系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/disturbance"
   },
   {
     "english": "disturbed soil sample",
-    "traditional_chinese": "擾動土壤樣本",
-    "definition_cht": "「擾動土壤樣本」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "擾動土樣",
+    "definition_cht": "採樣後已無法保持原始孔隙結構、天然排列或原位容重的土壤樣本。此類樣本常用於土壤分類、含水量或組成分析，但不宜直接用於原狀結構性質試驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/disturbed_soil_sample"
   },
   {
     "english": "Diurnal",
-    "traditional_chinese": "晝夜",
-    "definition_cht": "「晝夜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "日週期的",
+    "definition_cht": "指以一個晝夜（24 小時）為週期，或與每日白天與夜間交替有關的現象、變化或過程。氣象上常用於描述溫度、風場、對流與輻射的日變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Diurnal"
   },
   {
     "english": "diurnal cooling",
-    "traditional_chinese": "晝夜降溫",
-    "definition_cht": "「晝夜降溫」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "日週期冷卻",
+    "definition_cht": "指在日變化過程中出現的冷卻階段；在海氣研究中尤常指夜間因長波輻射散熱等作用造成的近地表或海表降溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/diurnal_cooling"
   },
   {
     "english": "diurnal heating",
-    "traditional_chinese": "晝夜供暖",
-    "definition_cht": "指與「晝夜供暖」有關的熱力、濕度或壓力物理量，用以表徵大氣或海洋環境中的能量、水氣與受力狀態。",
+    "traditional_chinese": "日間加熱",
+    "definition_cht": "指白天受太陽短波輻射作用所造成的地表、海表或近地層增溫過程，常是日變化對流、海陸風與邊界層發展的重要驅動因子。",
     "source_url": "https://glossary.ametsoc.org/wiki/diurnal_heating"
   },
   {
     "english": "diurnal inequality",
-    "traditional_chinese": "日間不平等",
-    "definition_cht": "「日間不平等」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "日不等",
+    "definition_cht": "在海洋學中，指一個太陰日內兩次高潮高度不同，及兩次低潮高度不同的現象；常與月球或太陽赤緯效應有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/diurnal_inequality"
   },
   {
     "english": "diurnal tide",
     "traditional_chinese": "日潮",
-    "definition_cht": "「日潮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指每一太陰日僅出現一次高潮與一次低潮的潮汐型態。其振幅通常隨月球或太陽赤緯增加而增強，並可造成潮汐日不等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/diurnal_tide"
   },
   {
     "english": "diurnal vertical migration",
-    "traditional_chinese": "日垂直遷移",
-    "definition_cht": "用於表示「日垂直遷移」之強度、大小、等級或統計特徵的指標或參數，常見於天氣分析、模式計算、觀測判識或風險評估。",
+    "traditional_chinese": "晝夜垂直遷移",
+    "definition_cht": "又稱 diel vertical migration，指海洋或湖泊中的浮游生物、魚類等生物隨晝夜循環在水柱中作規律性的上下移動，通常夜間上升覓食、白天下沉避敵。",
     "source_url": "https://glossary.ametsoc.org/wiki/diurnal_vertical_migration"
   },
   {
     "english": "divergence",
-    "traditional_chinese": "分歧",
-    "definition_cht": "指描述「分歧」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "traditional_chinese": "散度",
+    "definition_cht": "向量場局部發散程度的量度；在氣象學中常指水平風場的散度，即單位體積空氣由某處向外流出的淨程度。低層輻合與高層散度常與上升運動有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/divergence"
   },
   {
     "english": "divergence equation",
     "traditional_chinese": "散度方程",
-    "definition_cht": "與「散度方程」相關的物理或數學原理，用以描述大氣、海洋或地球流體系統中的守恆關係、平衡條件、經驗律或理論機制。",
+    "definition_cht": "描述氣塊或流場中水平散度隨時間變化的方程，可用以分析散度的生成、增強或減弱，以及其與渦度、垂直運動與壓力場之間的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/divergence_equation"
   },
   {
