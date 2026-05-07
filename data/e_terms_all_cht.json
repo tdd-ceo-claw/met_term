@@ -1681,122 +1681,122 @@
   },
   {
     "english": "equilibrium well discharge",
-    "traditional_chinese": "平衡井流量",
-    "definition_cht": "「平衡井流量」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "平衡井出流量",
+    "definition_cht": "指抽水井在穩定流（steady state）條件下的出流量；此時井內降深已趨於不變，抽水造成的地下水流場達到平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium_well_discharge"
   },
   {
     "english": "equilibrium-line altitude",
     "traditional_chinese": "平衡線高度",
-    "definition_cht": "指與「平衡線高度」相關的線狀界面、等值線、特徵線或分析線。",
+    "definition_cht": "冰川或積雪體上，年累積量與年消融量相等之平衡線所在的高度，常用於描述冰川質量平衡與氣候條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/equilibrium-line_altitude"
   },
   {
     "english": "equinoctial gales",
     "traditional_chinese": "分點強風",
-    "definition_cht": "「分點強風」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指民間或航海傳統上所稱發生於春分或秋分前後的強風；但就統計而言，溫帶地區並無證據顯示分點時期必然特別多強風。",
     "source_url": "https://glossary.ametsoc.org/wiki/equinoctial_gales"
   },
   {
     "english": "equinoctial rains",
     "traditional_chinese": "分點雨季",
-    "definition_cht": "「分點雨季」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指赤道附近部分地區在春分與秋分前後各出現一次降水高峰的現象，常見於熱帶雨林氣候區；多數地點以春季高峰較為明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/equinoctial_rains"
   },
   {
     "english": "equinoctial storm",
     "traditional_chinese": "分點風暴",
-    "definition_cht": "指與「分點風暴」相關的風暴、雷暴或強天氣現象，用以描述其形成與影響。",
+    "definition_cht": "指傳統上認為在春分或秋分前後容易發生的風暴，尤常指秋分附近的風暴；此說多屬經驗或民俗觀念，並無普遍統計證據支持其與分點有固定物理關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/equinoctial_storm"
   },
   {
     "english": "equinoctial tide",
     "traditional_chinese": "分點潮",
-    "definition_cht": "「分點潮」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指太陽接近春分或秋分時出現的潮汐；在此期間，朔望潮的潮差通常比平均值更大。",
     "source_url": "https://glossary.ametsoc.org/wiki/equinoctial_tide"
   },
   {
     "english": "equinox",
-    "traditional_chinese": "晝夜平分點",
-    "definition_cht": "「晝夜平分點」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "分點",
+    "definition_cht": "太陽視位置通過天球赤道、由南向北或由北向南跨越赤道的時刻；每年約發生兩次，分別為春分與秋分，且全球多數地區此時晝夜長度接近相等。",
     "source_url": "https://glossary.ametsoc.org/wiki/equinox"
   },
   {
     "english": "equiparte",
     "traditional_chinese": "等分線",
-    "definition_cht": "「等分線」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指將某一區域、尺度或圖形分成相等部分的線。在較舊的氣象與地球科學文獻中偶作幾何或分析輔助用語，並非現代常用核心術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/equiparte"
   },
   {
     "english": "equipotential line",
     "traditional_chinese": "等位線",
-    "definition_cht": "指與「等位線」相關的線狀界面、等值線、特徵線或分析線。",
+    "definition_cht": "在二維場中連結各點位勢相同的線；於水文學中常指水力位或水頭相同的線，可用於分析地下水流動方向與能量分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/equipotential_line"
   },
   {
     "english": "equipotential surface",
     "traditional_chinese": "等位面",
-    "definition_cht": "指與「等位面」相關的等值面、邊界面或物理界面。",
+    "definition_cht": "指位勢函數取值處處相同的曲面，可見於重力場、電場或磁場等；在地球科學中，平均海水面所對應的地球重力等位面即為典型例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/equipotential_surface"
   },
   {
     "english": "equiscalar surface",
     "traditional_chinese": "等純量面",
-    "definition_cht": "指與「等純量面」相關的等值面、邊界面或物理界面。",
+    "definition_cht": "指某一純量場（如溫度、鹽度、位溫或濕度）在各點取值相同的曲面，亦即可表示該純量等值分布的三維等值面。",
     "source_url": "https://glossary.ametsoc.org/wiki/equiscalar_surface"
   },
   {
     "english": "equivalent altitude of aerodrome",
     "traditional_chinese": "機場等效高度",
-    "definition_cht": "「機場等效高度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在標準大氣中，與某機場某季節平均空氣密度相同時所對應的高度。此量可用來表示機場因氣壓與氣溫條件造成的密度高度特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_altitude_of_aerodrome"
   },
   {
     "english": "equivalent barotropic level",
     "traditional_chinese": "等效正壓層",
-    "definition_cht": "「等效正壓層」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在等效正壓模式中，能代表整個氣柱垂直平均運動的那一高度層；實際上常位於對流層中層附近。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_barotropic_level"
   },
   {
     "english": "equivalent barotropic model",
     "traditional_chinese": "等效正壓模式",
-    "definition_cht": "用於模擬或表徵「等效正壓模式」相關過程、場型或系統行為的理論或數值模式。",
+    "definition_cht": "一種改良型正壓大氣模式，用單一代表層來近似描述整個氣柱的平均運動；其特徵是等高線與等溫線大致平行，風向隨高度變化很小。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_barotropic_model"
   },
   {
     "english": "equivalent blackbody temperature",
     "traditional_chinese": "等效黑體溫度",
-    "definition_cht": "指與「等效黑體溫度」相關的溫度量、代表性熱狀態或熱力診斷參數。",
+    "definition_cht": "對某一輻射體而言，若有一理想黑體能發出與其相同的輻射通量密度，則該黑體的溫度稱為此輻射體的等效黑體溫度；遙測中常作為輻射強度的等效溫度表徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_blackbody_temperature"
   },
   {
     "english": "equivalent footcandle",
     "traditional_chinese": "等效英尺燭光",
-    "definition_cht": "「等效英尺燭光」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "一種較舊的光度學術語，在 AMS 詞彙中視為與 footlambert 同義，用以表示亮度的等效量。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_footcandle"
   },
   {
     "english": "equivalent head wind",
     "traditional_chinese": "等效逆風",
-    "definition_cht": "指與「等效逆風」相關的風場、風向分量、地方風或飛航風要素。",
+    "definition_cht": "指沿飛航航跡方向、可產生與實際風場相同平均對地速度效果的假想均勻逆風；用於估算飛行時間與航程性能。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_head_wind"
   },
   {
     "english": "equivalent longitudinal wind",
     "traditional_chinese": "等效縱向風",
-    "definition_cht": "指與「等效縱向風」相關的風場、風向分量、地方風或飛航風要素。",
+    "definition_cht": "對某一航線而言，若以一個沿整條航線處處平行且均勻的假想風來取代實際風場，而其造成的平均對地速度相同，則此假想風稱為等效縱向風。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_longitudinal_wind"
   },
   {
     "english": "equivalent potential temperature",
     "traditional_chinese": "等效位溫",
-    "definition_cht": "氣塊經乾絕熱降至 1000 hPa 並將其中水汽完全凝結釋熱後所具有的位溫，是衡量暖濕不穩定度的重要保守量。",
+    "definition_cht": "氣塊若先經絕熱上升使其中水汽全部凝結並釋放潛熱，再將其乾絕熱降至參考壓力（通常為 1000 hPa）後所具有的位溫；為暖濕空氣常用的重要保守量。",
     "source_url": "https://glossary.ametsoc.org/wiki/equivalent_potential_temperature"
   },
   {
     "english": "Equivalent potential vorticity",
     "traditional_chinese": "等效位渦",
-    "definition_cht": "將位渦概念延伸至考慮等效位溫或濕熱力效應時的渦度診斷量，可用於分析濕對流與斜壓結構。",
+    "definition_cht": "以等效位溫取代位溫所構成的位渦診斷量，用於分析濕對流、條件對稱不穩定及鋒面附近的濕動力結構；其值為負時常表示可能存在對稱不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/Equivalent_potential_vorticity"
   },
   {
