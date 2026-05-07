@@ -16208,121 +16208,121 @@
   {
     "english": "echo contour",
     "traditional_chinese": "回波等值線",
-    "definition_cht": "「回波等值線」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在雷達顯示上連接相同回波訊號強度的等值線，用以描繪降水或其他目標回波的強弱分布；其等值間距與校正方式不一定統一。",
     "source_url": "https://glossary.ametsoc.org/wiki/echo_contour"
   },
   {
     "english": "echo frequency",
     "traditional_chinese": "回波頻率",
-    "definition_cht": "「回波頻率」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指雷達回波訊號的頻率特性；可泛指回波振幅的起伏頻率，或目標回波因多普勒效應產生的頻率位移，實際意義須依儀器與處理情境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/echo_frequency"
   },
   {
     "english": "echo intensity",
     "traditional_chinese": "回波強度",
-    "definition_cht": "表示「回波強度」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "definition_cht": "指回波在強度調變顯示器上呈現的亮度或明暗程度；廣義上亦可指回波訊號本身的強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/echo_intensity"
   },
   {
     "english": "echo overhang",
     "traditional_chinese": "回波懸垂",
-    "definition_cht": "對流回波上部向外懸伸於低層回波之外的結構，常反映強烈上升氣流與風切作用。",
+    "definition_cht": "在強烈雷暴雷達回波中，位於低層弱回波區上方、向入流側外伸的上部回波結構，通常反映強上升氣流將降水粒子抬升後再隨高空氣流向下風處擴散。",
     "source_url": "https://glossary.ametsoc.org/wiki/echo_overhang"
   },
   {
     "english": "echo power",
     "traditional_chinese": "回波功率",
-    "definition_cht": "「回波功率」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "雷達所接收到之回波訊號的電功率，通常以相對於 1 毫瓦的分貝（dBm）表示，為估算目標反射特性的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/echo_power"
   },
   {
     "english": "echo pulse",
     "traditional_chinese": "回波脈衝",
-    "definition_cht": "「回波脈衝」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "脈衝式雷達發射後，經目標反射並返回接收端的一個回波無線電脈衝，即該目標的回波訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/echo_pulse"
   },
   {
     "english": "echo sounder",
-    "traditional_chinese": "測深回聲儀",
-    "definition_cht": "利用聲波往返時間量測水深或目標距離的儀器，廣用於海洋測深與水文調查。",
+    "traditional_chinese": "回聲測深儀",
+    "definition_cht": "利用聲波脈衝在水中往返的傳播時間測定水深或水下目標距離的儀器，廣用於測深、航海與水文調查。",
     "source_url": "https://glossary.ametsoc.org/wiki/echo_sounder"
   },
   {
     "english": "ecliptic",
     "traditional_chinese": "黃道",
-    "definition_cht": "「黃道」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "天球上太陽一年視運動所描出的平均大圓；亦指地球公轉軌道平面向天球的投影，是天文與地球科學常用的基準圈。",
     "source_url": "https://glossary.ametsoc.org/wiki/ecliptic"
   },
   {
     "english": "ecnephias",
-    "traditional_chinese": "山谷陣風暴雨",
-    "definition_cht": "「山谷陣風暴雨」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "地中海型雷暴陣風",
+    "definition_cht": "古典氣象術語，指地中海地區所稱的一類伴隨強陣風的驟雨或雷暴；現代文獻中已較少使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/ecnephias"
   },
   {
     "english": "ecological climatology",
     "traditional_chinese": "生態氣候學",
-    "definition_cht": "研究氣候系統與生態系相互作用的學科，著重能量、水分與生物過程之雙向耦合。",
+    "definition_cht": "生物氣候學的一支，研究生物與其氣候環境之間的相互關係，包括植物與動物對氣候的生理適應，以及生物地理分布與氣候條件的聯繫。",
     "source_url": "https://glossary.ametsoc.org/wiki/ecological_climatology"
   },
   {
     "english": "ecology",
     "traditional_chinese": "生態學",
-    "definition_cht": "「生態學」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "研究生物與其周遭物理環境及其他生物之間交互作用的學科，探討能量流動、物質循環、族群、群聚與生態系運作等關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/ecology"
   },
   {
     "english": "economic yield of aquifer",
     "traditional_chinese": "含水層經濟出水量",
-    "definition_cht": "「含水層經濟出水量」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在兼顧抽水成本、可獲效益及環境或資源限制下，含水層可被視為具有經濟開採價值的出水量；相關概念常用於地下水資源管理，與單純強調水文平衡的安全出水量不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/economic_yield_of_aquifer"
   },
   {
     "english": "ecosphere",
     "traditional_chinese": "生態圈",
-    "definition_cht": "「生態圈」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由大氣、水體、生物圈及地殼上部等彼此密切交互作用的部分所構成之整體環境系統，即支撐生命活動的地球外層綜合系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/ecosphere"
   },
   {
     "english": "ecosystem",
     "traditional_chinese": "生態系",
-    "definition_cht": "「生態系」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "由一定區域內的生物群集及其非生物環境所組成的功能系統，透過能量流動、物質循環與生物交互作用維持其結構與運作。",
     "source_url": "https://glossary.ametsoc.org/wiki/ecosystem"
   },
   {
     "english": "ecotone",
     "traditional_chinese": "生態交錯帶",
-    "definition_cht": "「生態交錯帶」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "位於兩個相鄰生態系、群聚或生境之間的過渡地帶，通常兼具兩側環境特徵，且物種組成與生態作用較為複雜。",
     "source_url": "https://glossary.ametsoc.org/wiki/ecotone"
   },
   {
     "english": "edaphic",
-    "traditional_chinese": "土壤的",
-    "definition_cht": "「土壤的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "土壤的；土壤生態的",
+    "definition_cht": "形容與土壤有關的性質或作用，尤指土壤的物理、化學與生物條件對生物分布、生長及生態過程的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/edaphic"
   },
   {
     "english": "eddy",
-    "traditional_chinese": "渦動",
-    "definition_cht": "「渦動」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "渦旋；渦動",
+    "definition_cht": "流體中具有旋轉或迴流特徵的局部擾動或旋渦結構；在大氣與海洋中常指偏離平均流場的亂流或中小尺度環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy"
   },
   {
     "english": "eddy accumulation",
     "traditional_chinese": "渦動累積法",
-    "definition_cht": "指「渦動累積法」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "估算大氣湍流垂直通量的方法之一，依瞬時垂直風速的正負分別收集空氣樣本，再利用兩組樣本濃度差推估痕量氣體或其他標量的通量，且不必使用高速反應感測器。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_accumulation"
   },
   {
     "english": "eddy advection",
     "traditional_chinese": "渦動平流",
-    "definition_cht": "指「渦動平流」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "在湍流中，由尺度大到無法以渦擴散係數簡化表示的渦旋所造成之物理量輸送；常用於描述大氣或海洋邊界層內大型組織渦對熱量、動量或物質的搬運。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_advection"
   },
   {
     "english": "eddy conductivity",
-    "traditional_chinese": "渦動傳導率",
-    "definition_cht": "表示「渦動傳導率」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "traditional_chinese": "渦動導熱係數",
+    "definition_cht": "描述湍流渦旋造成熱量交換能力的交換係數，即以渦動方式進行熱傳導時所對應的有效導熱係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/eddy_conductivity"
   },
   {
