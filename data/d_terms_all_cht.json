@@ -2042,121 +2042,121 @@
   {
     "english": "Doppler error",
     "traditional_chinese": "多普勒誤差",
-    "definition_cht": "「多普勒誤差」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指利用多普勒位移推算速度、頻率或位置時產生的誤差；其來源可包括量測雜訊、波束幾何、平台運動、折返混疊與校正不確定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_error"
   },
   {
     "english": "Doppler frequency shift",
     "traditional_chinese": "多普勒頻移",
-    "definition_cht": "「多普勒頻移」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "波源與接收器之間存在沿視線方向相對運動時，接收頻率相對發射頻率所產生的改變量；為多普勒雷達、聲雷達與光達反演徑向速度的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_frequency_shift"
   },
   {
     "english": "Doppler lidar",
     "traditional_chinese": "多普勒光達",
-    "definition_cht": "「多普勒光達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "利用雷射回波的多普勒頻移量測氣膠、雲粒或其他散射體沿視線方向速度的光達系統，常用於邊界層風場、風切與湍流觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_lidar"
   },
   {
     "english": "Doppler radar",
     "traditional_chinese": "多普勒雷達",
-    "definition_cht": "「多普勒雷達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "利用回波頻率的多普勒位移量測目標沿雷達波束方向徑向速度的雷達；在氣象上常用於分析降水粒子運動、風場結構與風暴旋轉特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_radar"
   },
   {
     "english": "Doppler sodar",
     "traditional_chinese": "多普勒聲雷達",
-    "definition_cht": "「多普勒聲雷達」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "利用聲波回波的多普勒頻移反演大氣沿視線方向風速的聲雷達系統，主要用於近地層與邊界層風場垂直剖面觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_sodar"
   },
   {
     "english": "Doppler spectral broadening",
     "traditional_chinese": "多普勒頻譜展寬",
-    "definition_cht": "「多普勒頻譜展寬」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指多普勒頻譜因解析體積內目標徑向速度分布不一而變寬的現象，常與湍流、風切變、粒子落速差異或波束展寬有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_spectral_broadening"
   },
   {
     "english": "Doppler spectral moments",
     "traditional_chinese": "多普勒頻譜矩",
-    "definition_cht": "「多普勒頻譜矩」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "由多普勒頻譜計算出的矩量；在氣象雷達中零階矩對應回波功率或反射率，一階矩對應平均徑向速度，二階矩對應頻譜寬度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_spectral_moments"
   },
   {
     "english": "Doppler spectrum",
     "traditional_chinese": "多普勒頻譜",
-    "definition_cht": "「多普勒頻譜」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指雷達、光達或聲雷達回波功率隨多普勒頻率或等效徑向速度分布的譜形，可用於判讀目標速度分散、湍流與降水微物理特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_spectrum"
   },
   {
     "english": "Doppler spread",
-    "traditional_chinese": "多普勒傳播",
-    "definition_cht": "「多普勒傳播」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "多普勒展頻",
+    "definition_cht": "指訊號因不同散射體或傳播路徑具有不同相對速度，而呈現一段多普勒頻率分布的現象；在雷達與通訊中可反映速度離散或時變通道特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_spread"
   },
   {
     "english": "Doppler velocity",
     "traditional_chinese": "多普勒速度",
-    "definition_cht": "指描述「多普勒速度」之流體力學或幾何物理量，常用於分析大氣與海洋運動、結構分布及其演變特徵。",
+    "definition_cht": "由多普勒雷達等系統自回波頻移估得的平均徑向速度，表示目標沿觀測波束朝向或遠離儀器的運動分量，而非完整三維風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/Doppler_velocity"
   },
   {
     "english": "dosimeter",
     "traditional_chinese": "劑量計",
-    "definition_cht": "與「劑量計」相關的觀測或量測裝置，用於顯示、記錄或推估特定的大氣、海洋、水文或電磁參數。",
+    "definition_cht": "用於量測並累積記錄游離輻射或其他特定輻射暴露劑量的儀器；在環境與大氣監測中可用於評估輻射曝露或劑量率。",
     "source_url": "https://glossary.ametsoc.org/wiki/dosimeter"
   },
   {
     "english": "double correlation",
-    "traditional_chinese": "雙相關",
-    "definition_cht": "「雙相關」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "雙重相關",
+    "definition_cht": "一種同時考量兩組變數、兩個延遲量或兩重配對關係的相關分析量，用以描述訊號、場或時間序列之間較複雜的關聯結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/double_correlation"
   },
   {
     "english": "double diffusive convection",
     "traditional_chinese": "雙擴散對流",
-    "definition_cht": "指與「雙擴散對流」相關的動力或熱力過程，用以說明大氣、海洋或水文系統中的傳輸、轉換、混合或平衡調整機制。",
+    "definition_cht": "因熱與鹽分等性質的分子擴散速率不同而引發的流體不穩定與垂直混合過程，常見於海洋，可形成鹽指或階梯狀層結。",
     "source_url": "https://glossary.ametsoc.org/wiki/double_diffusive_convection"
   },
   {
     "english": "double layer",
     "traditional_chinese": "雙層",
-    "definition_cht": "指與「雙層」相關的大氣、海洋或地球物理空間區域或界面，用以界定特定性質、結構、過程或交互作用所在的位置。",
+    "definition_cht": "指由上下兩層相鄰且性質顯著不同的介質或流體所構成的層狀結構；在大氣與海洋中常用以描述溫度、密度、鹽度或風場的雙層分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/double_layer"
   },
   {
     "english": "double refraction",
     "traditional_chinese": "雙折射",
-    "definition_cht": "「雙折射」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "各向異性介質使入射光分裂為兩束偏振方向不同、折射率亦不同之光線的現象，又稱 birefringence。",
     "source_url": "https://glossary.ametsoc.org/wiki/double_refraction"
   },
   {
     "english": "double tide",
     "traditional_chinese": "雙潮",
-    "definition_cht": "「雙潮」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指在一個太陰日內大致出現兩次高潮與兩次低潮的潮汐型態；其兩次潮高與潮差可近似相等，也可略有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/double_tide"
   },
   {
     "english": "double-mass analysis",
-    "traditional_chinese": "雙質量分析",
-    "definition_cht": "「雙質量分析」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "雙累積曲線分析",
+    "definition_cht": "一種水文與氣候資料一致性檢核方法，藉由比較某測站累積值與鄰近參考測站平均累積值之關係，辨識觀測制度或資料序列是否發生系統性改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/double-mass_analysis"
   },
   {
     "english": "double-mass curve",
-    "traditional_chinese": "雙質量曲線",
-    "definition_cht": "「雙質量曲線」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "traditional_chinese": "雙累積曲線",
+    "definition_cht": "在雙累積曲線分析中，將某測站資料累積值對參考區或鄰近測站平均累積值作圖所得的曲線；其斜率改變常表示序列一致性或量測條件出現變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/double-mass_curve"
   },
   {
     "english": "double-theodolite observation",
     "traditional_chinese": "雙經緯儀觀測",
-    "definition_cht": "「雙經緯儀觀測」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "由兩個相距已知的觀測站同步追蹤同一氣球或目標之仰角與方位角，以三角測量求得其空間位置與風場的觀測方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/double-theodolite_observation"
   },
   {
     "english": "doubly stochastic matrix",
     "traditional_chinese": "雙重隨機矩陣",
-    "definition_cht": "「雙重隨機矩陣」為氣象學、氣候學、海洋學或相關地球流體科學中的專業術語，通常用於描述特定現象、物理量、分析方法、觀測產品或理論概念。",
+    "definition_cht": "指各元素皆為非負，且每一列與每一行元素和都等於 1 的方陣；常用於機率轉移、最佳化與組合數學問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/doubly_stochastic_matrix"
   },
   {
