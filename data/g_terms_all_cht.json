@@ -169,122 +169,122 @@
   },
   {
     "english": "gate-to-gate azimuthal shear",
-    "traditional_chinese": "門對門方位向風切",
-    "definition_cht": "都卜勒雷達相鄰距離門在方位向上出現明顯相反徑向速度時所反映的強烈旋轉或剪切訊號，常用於偵測中氣旋或龍捲相關渦旋。",
+    "traditional_chinese": "門對門方位向風切變",
+    "definition_cht": "在都卜勒雷達速度場中，方位上相鄰的兩個距離閘門出現顯著相反的徑向速度差，所呈現的強烈旋轉或剪切訊號；常用於辨識中尺度渦旋或與龍捲相關的近地層環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/gate-to-gate_azimuthal_shear"
   },
   {
     "english": "gating",
-    "traditional_chinese": "門控",
-    "definition_cht": "指與「門控」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "選通",
+    "definition_cht": "雷達或其他遙測系統依時間窗、距離窗或訊號條件，只接收或處理特定區段回波的作法；在氣象雷達中常用於限制有效量測距離並抑制不需要的訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/gating"
   },
   {
     "english": "gauge height",
-    "traditional_chinese": "標距高度",
-    "definition_cht": "指與「標距高度」相關的高度量測、垂直尺度或特徵層位。",
+    "traditional_chinese": "水位高",
+    "definition_cht": "水面相對於水尺基準面（gauge datum）的高度，常與河川或水文作業中的水位、河川水位（stage）互用，但在指儀器讀值時以本詞較為精確。",
     "source_url": "https://glossary.ametsoc.org/wiki/gauge_height"
   },
   {
     "english": "gauge relation",
-    "traditional_chinese": "規範關係",
-    "definition_cht": "指「規範關係」所表達之變量對應、換算或經驗關係。",
+    "traditional_chinese": "測站關係曲線",
+    "definition_cht": "以經驗方式建立的關係曲線，用來連結某一河段測站的流量或水位，與一個或多個上游測站的流量、水位或其他水文參數之間的對應關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/gauge_relation"
   },
   {
     "english": "gauge zero",
-    "traditional_chinese": "表零",
-    "definition_cht": "指與「表零」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水尺零點",
+    "definition_cht": "水位計或水尺零刻度相對於通用高程基準所設定的基準高程，用來換算實際水位高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/gauge_zero"
   },
   {
     "english": "gauging section",
-    "traditional_chinese": "測量部分",
-    "definition_cht": "指與「測量部分」相關的斷面、河段或分析區段，用於量測、監測或計算。",
+    "traditional_chinese": "測流斷面",
+    "definition_cht": "於明渠或河川中選定、用以量測水深與流速的斷面，藉此計算流量並建立水位—流量關係曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/gauging_section"
   },
   {
     "english": "gauging site",
-    "traditional_chinese": "測量地點",
-    "definition_cht": "指與「測量地點」相關的站址、測點或作業地點。",
+    "traditional_chinese": "測流站址",
+    "definition_cht": "設置河川流量或水位量測設施的地理位置，通常包含對應的測流斷面與相關觀測設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/gauging_site"
   },
   {
     "english": "gauss",
     "traditional_chinese": "高斯",
-    "definition_cht": "指與「高斯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "厘米－克－秒制中磁通密度（磁感應強度）的單位，符號為 G，1 高斯等於 10⁻⁴ 特斯拉。",
     "source_url": "https://glossary.ametsoc.org/wiki/gauss"
   },
   {
     "english": "Gauss curve",
     "traditional_chinese": "高斯曲線",
-    "definition_cht": "指表示「高斯曲線」相關變化關係、分布形態或統計特徵的曲線。",
+    "definition_cht": "呈鐘形且左右對稱的曲線，用以表示高斯分布（常態分布）的機率密度形態；在誤差分析與統計描述中廣泛使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gauss_curve"
   },
   {
     "english": "Gauss elimination",
     "traditional_chinese": "高斯消去法",
-    "definition_cht": "指與「高斯消去法」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "以列運算逐步消去未知數係數、將矩陣化為階梯形或列最簡形的演算法，常用於求解線性方程組以及計算矩陣秩、行列式與反矩陣。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gauss_elimination"
   },
   {
     "english": "Gaussian grid",
     "traditional_chinese": "高斯網格",
-    "definition_cht": "指與「高斯網格」相關的格網系統、網格配置或離散化架構。",
+    "definition_cht": "地球系統模式常用的球面水平格網；各緯圈上的格點沿經向間距可不等，並依高斯求積配置緯向節點，以利全球數值積分與譜模式運算。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gaussian_grid"
   },
   {
     "english": "Gaussian plume models",
-    "traditional_chinese": "高斯羽流模型",
-    "definition_cht": "用於表徵「高斯羽流模型」相關過程或系統的理論、概念或數值模式，以分析其主要物理機制。",
+    "traditional_chinese": "高斯羽流模式",
+    "definition_cht": "假設污染物濃度在橫風向與垂直向近似服從高斯分布的擴散模式，用於估算連續排放源在下風處的污染物濃度與擴散範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gaussian_plume_models"
   },
   {
     "english": "Gaussian process",
     "traditional_chinese": "高斯過程",
-    "definition_cht": "指與「高斯過程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "一種隨機過程，若其任意有限組隨機變數皆服從多變量常態分布，則稱為高斯過程；常用於統計建模、內插與不確定度估計。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gaussian_process"
   },
   {
     "english": "Gaussian wave packet",
     "traditional_chinese": "高斯波包",
-    "definition_cht": "指與「高斯波包」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "definition_cht": "其包絡線呈高斯函數形狀的局域化波包，由一群頻率或波數相近的波疊加而成，可用於描述能量與訊號的傳播及色散特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gaussian_wave_packet"
   },
   {
     "english": "GCA",
-    "traditional_chinese": "GCA",
-    "definition_cht": "「GCA」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "地面管制進場",
+    "definition_cht": "Ground-Controlled Approach 的縮寫，指航管人員利用精密進場雷達或場面監視雷達，於能見度不佳等情況下引導航空器安全進場與落地的程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/GCA"
   },
   {
     "english": "GCA minimums",
-    "traditional_chinese": "GCA 最小值",
-    "definition_cht": "指與「GCA 最小值」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面管制進場最低標準",
+    "definition_cht": "執行地面管制進場時所適用的最低下降高／決定高或最低下降高度等限制值，用以規定航空器在該進場程序中可合法與安全下降的最低標準。",
     "source_url": "https://glossary.ametsoc.org/wiki/GCA_minimums"
   },
   {
     "english": "GCM",
-    "traditional_chinese": "氣相層析法",
-    "definition_cht": "「GCM」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "一般環流模式",
+    "definition_cht": "General Circulation Model 的縮寫，指以大氣、海洋及其能量與動量交換為核心的數值模式，用來模擬地球或行星尺度的環流與氣候系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/GCM"
   },
   {
     "english": "Gdd",
-    "traditional_chinese": "吉德",
-    "definition_cht": "指與「吉德」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "生長度日",
+    "definition_cht": "Growing Degree Days 的縮寫，表示作物或昆蟲在基準溫度以上累積的熱量指標，常以日平均氣溫減去基準溫度後逐日累加，用於估計發育進程。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gdd"
   },
   {
     "english": "GDH",
-    "traditional_chinese": "粵港澳大灣區",
-    "definition_cht": "「GDH」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "生長度時",
+    "definition_cht": "Growing Degree Hours 的縮寫，表示以小時為單位累積、超過某一基準溫度的熱量，用於更細尺度地估計植物生長與物候發育。",
     "source_url": "https://glossary.ametsoc.org/wiki/GDH"
   },
   {
     "english": "GDPS",
-    "traditional_chinese": "國內生產毛額",
-    "definition_cht": "「GDPS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "全球決定性預報系統",
+    "definition_cht": "Global Deterministic Prediction System 的縮寫，為加拿大環境與氣候變遷部運行的全球耦合決定性數值天氣預報系統，結合大氣、海洋與海冰模式提供中期天氣預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/GDPS"
   },
   {
