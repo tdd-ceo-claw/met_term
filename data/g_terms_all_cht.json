@@ -770,121 +770,121 @@
   {
     "english": "Gerstner wave",
     "traditional_chinese": "格斯特納波",
-    "definition_cht": "有限振幅的旋轉重力波，也是均質不可壓縮流體自由表面運動方程的一組精確解；其粒子軌跡可呈近似圓形或旋輪線型態。",
+    "definition_cht": "有限振幅的旋轉重力表面波，為均質不可壓縮流體自由表面運動方程的一組精確解；其流體質點軌跡可呈圓形或旋輪線，常用於理論波浪研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gerstner_wave"
   },
   {
     "english": "gestalt",
     "traditional_chinese": "格式塔",
-    "definition_cht": "指與「格式塔」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "原為心理學與知覺理論中的「整體形態」概念；在氣象、海洋或環境文獻中若借用此詞，通常是指對場型、結構或型態的整體辨識，並非專屬氣象術語，需依上下文解讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/gestalt"
   },
   {
     "english": "geyser",
-    "traditional_chinese": "噴泉",
-    "definition_cht": "指與「噴泉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "間歇泉",
+    "definition_cht": "地下水受地熱加熱後，會週期性地將熱水與水汽自泉口噴出的熱泉現象，屬火山與地熱區常見的水文—地質作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/geyser"
   },
   {
     "english": "gharbi",
-    "traditional_chinese": "加爾比",
-    "definition_cht": "指與「加爾比」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "加爾比風",
+    "definition_cht": "摩洛哥一帶源自海洋的強勁西風，屬地方性風名；通常帶有較涼濕的海洋性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/gharbi"
   },
   {
     "english": "gharra",
-    "traditional_chinese": "加拉",
-    "definition_cht": "指與「加拉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "加拉風",
+    "definition_cht": "利比亞與北非一帶自東北方吹來的強烈陣風或狂風，常突發且頻繁，並可伴隨大雨與雷暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/gharra"
   },
   {
     "english": "ghibli",
-    "traditional_chinese": "吉卜力",
-    "definition_cht": "指與「吉卜力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "吉卜利風",
+    "definition_cht": "利比亞內陸高地吹向地中海沿岸的炎熱乾燥含塵風，常見於春季與初夏，性質近似西羅可風。",
     "source_url": "https://glossary.ametsoc.org/wiki/ghibli"
   },
   {
     "english": "GHIS",
-    "traditional_chinese": "地理資訊系統",
-    "definition_cht": "「GHIS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "GHIS",
+    "definition_cht": "目前可查的氣象、海洋與相關權威詞彙來源中，未見此縮寫具有一致且明確的標準展開；本辭條暫保留原縮寫，實際涵義須依原始文獻、資料系統或使用情境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/GHIS"
   },
   {
     "english": "ghost",
-    "traditional_chinese": "鬼",
-    "definition_cht": "指與「鬼」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "鬼回波",
+    "definition_cht": "雷達上呈現、但並非由真實降水目標造成的虛假回波；其特徵可能近似天氣回波，常與異常傳播、旁瓣或其他雜訊效應有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/ghost"
   },
   {
     "english": "Gibbs function",
     "traditional_chinese": "吉布斯函數",
-    "definition_cht": "描述「吉布斯函數」相關變數關係、響應特性或分布型態的函數表述。",
+    "definition_cht": "熱力學中的狀態函數，又稱吉布斯自由能（或吉布斯位能）；在等溫、等壓的可逆過程中具有重要意義，氣象上常用於分析水的相變與熱力平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gibbs_function"
   },
   {
     "english": "gibla",
-    "traditional_chinese": "吉卜拉",
-    "definition_cht": "指與「吉卜拉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "吉布拉風",
+    "definition_cht": "ghibli 的別稱，指利比亞一帶由內陸吹向地中海沿岸的炎熱、乾燥且多塵的地方風。",
     "source_url": "https://glossary.ametsoc.org/wiki/gibla"
   },
   {
     "english": "Gibraltar outflow water",
-    "traditional_chinese": "直布羅陀流出水",
-    "definition_cht": "指與「直布羅陀流出水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "直布羅陀外流水",
+    "definition_cht": "地中海海水經直布羅陀海峽由阿爾沃蘭海向外流入大西洋的高鹽度中層水團，通常位於約 150 公尺以下，進入加的斯灣後可形成地中海水舌。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gibraltar_outflow_water"
   },
   {
     "english": "gigahertz",
     "traditional_chinese": "吉赫",
-    "definition_cht": "指與「吉赫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "頻率單位，等於十億赫茲（10^9 Hz）；在氣象雷達、微波遙測與通訊系統中常用以表示電磁波工作頻率。",
     "source_url": "https://glossary.ametsoc.org/wiki/gigahertz"
   },
   {
     "english": "Gill anemometer",
-    "traditional_chinese": "鰓風速計",
-    "definition_cht": "用於量測「鰓風速計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "吉爾風速計",
+    "definition_cht": "Gill 型風速計，傳統上為三軸螺旋槳式配置，特別適合量測垂直風速；其 K-Gill 變型則以互成直角的雙螺旋槳配合風向標對準平均風向。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gill_anemometer"
   },
   {
     "english": "glacial",
-    "traditional_chinese": "冰川的",
-    "definition_cht": "指與「冰川的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冰河的；冰期的",
+    "definition_cht": "指與冰川或大規模陸冰有關的；亦可指冰河時代中冰體向赤道方向擴張的較冷時段，與間冰期相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial"
   },
   {
     "english": "glacial anticyclone",
-    "traditional_chinese": "冰川反氣旋",
-    "definition_cht": "指與「冰川反氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冰河反氣旋",
+    "definition_cht": "位於格陵蘭或南極等大型冰蓋上空的半永久性高壓系統，又稱冰河高壓；早期理論曾認為其對全球大氣環流具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial_anticyclone"
   },
   {
     "english": "glacial drift",
-    "traditional_chinese": "冰川漂流",
-    "definition_cht": "指與「冰川漂流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冰磧漂積物",
+    "definition_cht": "泛指由冰川搬運的岩屑與沉積物，以及主要由冰川作用沉積於海洋或冰融水體中的物質，包括冰磧、沖洗漂積物與冰山搬運物。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial_drift"
   },
   {
     "english": "glacial epoch",
-    "traditional_chinese": "冰期",
-    "definition_cht": "指與「冰期」相關的年代分期、時段或地質時代單位。",
+    "traditional_chinese": "冰河世",
+    "definition_cht": "地質時代中以廣泛冰川作用或冰期氣候為特徵的世；例如更新世常被視為典型的冰河世。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial_epoch"
   },
   {
     "english": "glacial geology",
     "traditional_chinese": "冰河地質學",
-    "definition_cht": "指與「冰河地質學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "研究冰川作用及其所形成地形、沉積物與地質紀錄的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial_geology"
   },
   {
     "english": "glacial maximum",
     "traditional_chinese": "盛冰期",
-    "definition_cht": "指與「盛冰期」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指任一冰川作用階段中冰量最大、或冰體面積擴展達最大範圍的時期。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial_maximum"
   },
   {
     "english": "glacial period",
     "traditional_chinese": "冰期",
-    "definition_cht": "指與「冰期」相關、以特定時間尺度界定的氣候期、週期或統計時段。",
+    "definition_cht": "冰河時代內氣候較冷、冰川或冰蓋明顯擴張的一段時期；常與較暖的間冰期交替出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial_period"
   },
   {
