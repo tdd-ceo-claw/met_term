@@ -1561,122 +1561,122 @@
   },
   {
     "english": "forward scattering spectrometer probe",
-    "traditional_chinese": "forward scattering spectrometer probe",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forward scattering spectrometer probe」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "前向散射光譜探針",
+    "definition_cht": "利用粒子對雷射光之前向散射訊號推估雲滴或氣膠粒徑分布的機載或地面探測儀器，常用於雲物理與微物理觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/forward_scattering_spectrometer_probe"
   },
   {
     "english": "forward visibility",
-    "traditional_chinese": "forward visibility",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forward visibility」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "前向能見度",
+    "definition_cht": "沿觀測者前方特定方向所量得的能見距離；航空與地面觀測中常用來描述跑道或行進方向上的可視程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/forward_visibility"
   },
   {
     "english": "fossil fuels",
-    "traditional_chinese": "fossil fuels",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fossil fuels」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "化石燃料",
+    "definition_cht": "由古代生物殘體經長時間地質作用形成的含碳燃料，如煤、石油與天然氣；其燃燒會排放二氧化碳並影響氣候系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/fossil_fuels"
   },
   {
     "english": "fossil ice",
-    "traditional_chinese": "fossil ice",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fossil ice」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "化石冰",
+    "definition_cht": "在現今氣候條件下已不再形成、但自過去寒冷時期殘留保存至今的古老冰體或地下冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/fossil_ice"
   },
   {
     "english": "fossil water",
-    "traditional_chinese": "fossil water",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fossil water」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "化石水",
+    "definition_cht": "於數千年至更久以前在不同氣候條件下滲入並長期封存於含水層中的古地下水，補注速率通常極低。",
     "source_url": "https://glossary.ametsoc.org/wiki/fossil_water"
   },
   {
     "english": "Foucault pendulum",
     "traditional_chinese": "傅科擺",
-    "definition_cht": "用來展示地球自轉效應的擺動裝置。",
+    "definition_cht": "用以直接展示地球自轉效應的擺動裝置；其振動平面相對地表會隨緯度而緩慢旋轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/Foucault_pendulum"
   },
   {
     "english": "four-dimensional data assimilation",
-    "traditional_chinese": "four-dimensional data assimilation",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「four-dimensional data assimilation」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "四維資料同化",
+    "definition_cht": "在三維空間加上時間維度內，將觀測資料與數值模式結合，以估計最符合動力與物理約束之大氣或海洋狀態的技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/four-dimensional_data_assimilation"
   },
   {
     "english": "four-dimensional variational assimilation",
-    "traditional_chinese": "four-dimensional variational assimilation",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「four-dimensional variational assimilation」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "四維變分同化",
+    "definition_cht": "一種四維資料同化方法，藉由最小化成本函數，在同化時窗內同時考量模式動力演變與觀測資訊，以求最佳初始場。",
     "source_url": "https://glossary.ametsoc.org/wiki/four-dimensional_variational_assimilation"
   },
   {
     "english": "Fourier analysis",
     "traditional_chinese": "傅立葉分析",
-    "definition_cht": "指將訊號或場分解為不同頻率正弦與餘弦成分的方法。",
+    "definition_cht": "將函數、訊號或場分解為不同頻率的正弦、餘弦或複指數成分的分析方法，常用於週期與頻譜研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fourier_analysis"
   },
   {
     "english": "Fourier integral",
-    "traditional_chinese": "Fourier integral",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fourier integral」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "傅立葉積分",
+    "definition_cht": "以積分形式表示非週期函數之頻率分解的方法，亦為連續頻譜傅立葉轉換的基本表述。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fourier_integral"
   },
   {
     "english": "Fourier series",
-    "traditional_chinese": "Fourier series",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fourier series」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "傅立葉級數",
+    "definition_cht": "將週期函數展開為一組正弦與餘弦項之無窮級數表示，用於分析週期變化與振盪結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fourier_series"
   },
   {
     "english": "Fourier transform",
     "traditional_chinese": "傅立葉轉換",
-    "definition_cht": "指將函數由原始域轉換到頻率域的數學運算。",
+    "definition_cht": "將函數由時間域、空間域或原始變數域轉換至頻率域的積分轉換，用以分析頻譜結構與尺度特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fourier_transform"
   },
   {
     "english": "FOV",
-    "traditional_chinese": "FOV",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「FOV」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "視場",
+    "definition_cht": "field of view 的縮寫，指感測器、雷達、相機或觀測系統在一次觀測中可涵蓋的角度或空間範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/FOV"
   },
   {
     "english": "foveal vision",
     "traditional_chinese": "中央窩視覺",
-    "definition_cht": "指人眼視網膜中央窩所提供的高解析度視覺。",
+    "definition_cht": "由視網膜中央窩主導的高解析度視覺，負責最精細的辨識與注視目標觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/foveal_vision"
   },
   {
     "english": "fowan",
-    "traditional_chinese": "fowan",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fowan」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "焚風",
+    "definition_cht": "義大利語 foehn 的異寫，指氣流越過山脈後在背風側下沉增溫、變得乾暖的局地風。",
     "source_url": "https://glossary.ametsoc.org/wiki/fowan"
   },
   {
     "english": "foyer",
-    "traditional_chinese": "foyer",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「foyer」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "焚風型暖風",
+    "definition_cht": "法語中可指類似 foehn 的乾暖下坡風，用於描述受地形下沉增溫影響的局地暖風。",
     "source_url": "https://glossary.ametsoc.org/wiki/foyer"
   },
   {
     "english": "FPP scale",
-    "traditional_chinese": "FPP scale",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「FPP scale」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "FPP 量表",
+    "definition_cht": "用於雲滴或降水粒子譜探測結果判釋的經驗分級或尺度名稱；現代公開資料使用較少，屬較罕用術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/FPP_scale"
   },
   {
     "english": "fps system",
-    "traditional_chinese": "fps system",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fps system」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "英尺－磅－秒制",
+    "definition_cht": "foot-pound-second system 的縮寫，一種以英尺、磅、秒為基本單位的英制量測系統，舊文獻中偶見於氣象與工程計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/fps_system"
   },
   {
     "english": "fractal",
-    "traditional_chinese": "fractal",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fractal」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "分形",
+    "definition_cht": "具有跨尺度自相似或統計自相似特徵的幾何或場結構，常用於描述雲、海岸線、降水場等複雜自然形態。",
     "source_url": "https://glossary.ametsoc.org/wiki/fractal"
   },
   {
     "english": "fractocumulus",
-    "traditional_chinese": "fractocumulus",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fractocumulus」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "碎積雲",
+    "definition_cht": "呈破碎片段、外觀參差的積雲，常由較大積雲或層積雲破裂而成，屬低雲的一種碎雲型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/fractocumulus"
   },
   {
