@@ -1081,44 +1081,44 @@
   },
   {
     "english": "flux emissivity",
-    "traditional_chinese": "通量發射率",
-    "definition_cht": "實際表面所發射總輻射通量與同溫黑體發射通量之比，用以表徵表面整體放射能力。",
+    "traditional_chinese": "總通量發射率",
+    "definition_cht": "指某表面在一定溫度下向半球空間發射之總輻射通量，與同溫黑體所發射對應總通量的比值，用以表徵表面的整體放射能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux_emissivity"
   },
   {
-    "english": "Flux richardson number",
-    "traditional_chinese": "通量理查遜數",
-    "definition_cht": "以浮力產生或消耗的湍流動能與剪切產生的湍流動能之比所定義的無因次數，用於判定穩定度對湍流的影響。",
+    "english": "Flux Richardson number",
+    "traditional_chinese": "通量理查森數",
+    "definition_cht": "以浮力對湍流動能的產生或耗損量，與風切對湍流動能的產生量之比所定義的無因次數，常用於判定大氣穩定度對湍流發展的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Flux_richardson_number"
   },
   {
     "english": "flux transmittance",
     "traditional_chinese": "通量透射率",
-    "definition_cht": "入射於介質或系統的總通量中，能夠穿透並傳輸至另一側之比例。",
+    "definition_cht": "指穿透介質或系統並傳至另一側的通量，與入射總通量之比值；為表徵整體透射能力的無因次量。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux_transmittance"
   },
   {
     "english": "flux-corrected transport",
     "traditional_chinese": "通量修正傳輸法",
-    "definition_cht": "數值模式中兼顧守恆性、單調性與低數值擴散的平流計算方法，用以抑制虛假振盪與負值產生。",
+    "definition_cht": "一種用於求解平流或其他雙曲型守恆方程的數值方法，兼顧守恆性、單調性與低數值擴散，並以通量修正抑制虛假振盪與非物理解。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux-corrected_transport"
   },
   {
     "english": "flux-profile relationships",
     "traditional_chinese": "通量—廓線關係",
-    "definition_cht": "描述地表層中動量、熱與水氣通量與平均風速、溫度、濕度垂直廓線之間關係的理論或經驗公式。",
+    "definition_cht": "描述近地表層中動量、熱與水氣通量，與平均風速、溫度及濕度垂直廓線之間關係的理論或經驗關係式，常用於地表層相似理論與通量反算。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux-profile_relationships"
   },
   {
     "english": "flux-ratio method",
     "traditional_chinese": "通量比法",
-    "definition_cht": "利用兩種或多種通量之比值推估未知交換量、沉降速率或來源強度的分析方法。",
+    "definition_cht": "利用兩種或多種已知通量間的比值關係，推估未知交換通量、沉降速率或來源強度的方法；常用於痕量氣體與氣膠通量分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux-ratio_method"
   },
   {
     "english": "fluxplate",
     "traditional_chinese": "土壤熱通量板",
-    "definition_cht": "埋設於土壤中量測垂直熱通量的感測器，常用於地表能量收支與蒸散研究。",
+    "definition_cht": "埋設於土壤中的板狀感測器，用以量測垂直土壤熱通量，常應用於地表能量收支、蒸散與農業微氣象研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/fluxplate"
   },
   {
@@ -1130,73 +1130,73 @@
   {
     "english": "flyoff",
     "traditional_chinese": "飄離現象",
-    "definition_cht": "指粒子、雪粒、沙粒或其他物質受風力作用而自原位置被吹離、脫離或散逸的現象。",
+    "definition_cht": "指粒子、雪粒、沙粒或其他細小物質在風力、氣流或機械擾動作用下，自原附著面被吹離、拋離或逸散的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/flyoff"
   },
   {
     "english": "FM–CW radar",
     "traditional_chinese": "調頻連續波雷達",
-    "definition_cht": "採用頻率調變連續波訊號量測目標距離與速度的雷達系統，常用於近距離探測、測高與降水觀測。",
+    "definition_cht": "採用調頻連續波訊號的雷達系統，可藉發射與回波之頻率差推定目標距離，並結合都卜勒效應量測速度，常用於近距離遙測、測高與降水觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/FM%E2%80%93CW_radar"
   },
   {
     "english": "foam crust",
     "traditional_chinese": "泡沫殼層",
-    "definition_cht": "由泡沫、冰晶、鹽分或雜質在水面、雪面或海岸堆積後形成的薄殼狀表層。",
+    "definition_cht": "由表面泡沫堆積、脫水、凍結或混入雜質後形成的薄殼狀覆層；可見於水面、岸際、積雪或海冰表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/foam_crust"
   },
   {
     "english": "foehn",
     "traditional_chinese": "焚風",
-    "definition_cht": "氣流越過山脈後於背風側下沉增溫、相對濕度降低而形成的乾暖局地風，常伴隨雲系消散與高溫低濕。",
+    "definition_cht": "氣流越過山脈後，於背風側下沉並絕熱增溫、相對濕度降低而形成的乾暖局地風，屬典型的背風坡下降風。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn"
   },
   {
     "english": "foehn air",
     "traditional_chinese": "焚風氣團",
-    "definition_cht": "受焚風作用影響而呈現乾暖特性的空氣，通常位於山脈背風側並具有顯著絕熱增溫特徵。",
+    "definition_cht": "受焚風作用影響而呈現乾暖特性的空氣，通常位於山脈背風側，並具有因下沉絕熱增溫而形成的低濕特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_air"
   },
   {
     "english": "foehn bank",
     "traditional_chinese": "焚風雲牆",
-    "definition_cht": "位於山脈迎風側山脊附近、與焚風相關的雲帶或雲牆，常標示潮濕空氣抬升凝結與背風側下沉乾化的分界。",
+    "definition_cht": "與焚風有關、常位於山脊或迎風側附近的滯留雲帶或雲牆，可作為濕潤上升氣流與背風側乾暖下沉氣流的分界標誌。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_bank"
   },
   {
     "english": "foehn cloud",
     "traditional_chinese": "焚風雲",
-    "definition_cht": "與焚風環流有關、常出現在山脊或背風波動區的透鏡狀雲、帽狀雲或滯留雲。",
+    "definition_cht": "與焚風環流相關的雲，常見於山脊或背風波動區，可呈帽狀雲、透鏡雲或其他滯留雲形態。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_cloud"
   },
   {
     "english": "foehn cyclone",
     "traditional_chinese": "焚風低壓",
-    "definition_cht": "因焚風下沉增溫與背風側壓力場調整所形成或增強的局地低壓或旋渦系統。",
+    "definition_cht": "因焚風下沉增溫及背風側壓力場重整而在背風地區形成或增強的局地低壓或背風旋渦系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_cyclone"
   },
   {
     "english": "foehn gap",
     "traditional_chinese": "焚風缺口",
-    "definition_cht": "山脈雲帶或降水區中因焚風下沉乾化而出現的局部無雲、少雲或降水中斷區。",
+    "definition_cht": "在與焚風相關的雲帶、降水區或低雲層中，因下沉乾化而出現的局部少雲、無雲或降水中斷區。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_gap"
   },
   {
     "english": "foehn island",
     "traditional_chinese": "焚風暖島",
-    "definition_cht": "在較廣泛冷濕環境中，由焚風影響形成的局地乾暖區域，於溫度與濕度場上呈島狀分布。",
+    "definition_cht": "在較大範圍冷濕環境中，由焚風局地影響形成的乾暖區域；其溫度偏高、濕度偏低，於分析圖上常呈孤立島狀分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_island"
   },
   {
     "english": "foehn nose",
     "traditional_chinese": "焚風舌",
-    "definition_cht": "焚風前緣向下游或低地突出延伸的乾暖空氣舌狀區，常可由溫濕度突變辨識。",
+    "definition_cht": "焚風前緣向下游或低地伸出的舌狀乾暖空氣區，常伴隨明顯的溫度升高與濕度下降。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_nose"
   },
   {
     "english": "foehn pause",
     "traditional_chinese": "焚風暫歇",
-    "definition_cht": "焚風事件中因環流短暫調整、波動或水氣改變而出現的短時間減弱或中斷現象。",
+    "definition_cht": "焚風事件進行期間，因環流短暫調整、山波變化或水氣條件改變而出現的暫時性減弱或中斷現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_pause"
   },
   {
