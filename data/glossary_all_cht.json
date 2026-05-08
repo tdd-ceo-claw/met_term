@@ -20815,8 +20815,8 @@
   },
   {
     "english": "frozen fog",
-    "traditional_chinese": "凍霧",
-    "definition_cht": "在氣溫低於冰點時，由過冷霧滴與冰晶組成或直接由冰晶構成的霧，常使附著結冰加劇。",
+    "traditional_chinese": "冰霧",
+    "definition_cht": "由大量懸浮於近地層空氣中的微小冰晶所組成的霧，通常出現在極低溫環境；不同於由過冷水滴構成並易造成積冰的 freezing fog。",
     "source_url": "https://glossary.ametsoc.org/wiki/frozen_fog"
   },
   {
@@ -20828,7 +20828,7 @@
   {
     "english": "frozen precipitation",
     "traditional_chinese": "固態降水",
-    "definition_cht": "以冰晶、雪、霰、冰珠等固態形式降落的降水總稱。",
+    "definition_cht": "凡以凍結狀態到達地面的降水總稱，包括雪、雪粒、雪晶、冰珠與冰雹等。",
     "source_url": "https://glossary.ametsoc.org/wiki/frozen_precipitation"
   },
   {
@@ -20839,8 +20839,8 @@
   },
   {
     "english": "frozen-in-field",
-    "traditional_chinese": "凍結磁場",
-    "definition_cht": "磁流體動力學中的概念，指在高導電流體內磁力線近似隨流體一同運動而不易相對滑移。",
+    "traditional_chinese": "磁場凍結",
+    "definition_cht": "磁流體動力學中的概念，指在高導電流體或電漿中，磁力線近似隨流體一同移動，因而與流體呈現近似「凍結」關係而不易相對穿越。",
     "source_url": "https://glossary.ametsoc.org/wiki/frozen-in-field"
   },
   {
@@ -20864,7 +20864,7 @@
   {
     "english": "fulchronograph",
     "traditional_chinese": "雷電記錄儀",
-    "definition_cht": "用於自動記錄雷電發生時間或活動特徵的儀器，屬較早期的雷暴觀測設備。",
+    "definition_cht": "早期用於記錄雷電放電持續時間與強度特徵的儀器，可藉高速旋轉元件與電磁感應方式分析閃電電流變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/fulchronograph"
   },
   {
@@ -20888,7 +20888,7 @@
   {
     "english": "fully rough flow",
     "traditional_chinese": "完全粗糙流",
-    "definition_cht": "紊流中阻力主要受邊界粗糙元控制，而分子黏滯影響相對可忽略的流動狀態。",
+    "definition_cht": "紊流中邊界阻力主要由表面粗糙元所控制、分子黏滯次層影響可忽略的流況；此時阻力係數主要取決於相對粗糙度，對雷諾數的敏感性很弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/fully_rough_flow"
   },
   {
@@ -20900,13 +20900,13 @@
   {
     "english": "fumulus",
     "traditional_chinese": "煙積雲",
-    "definition_cht": "由工業熱源、火災或其他強烈地面熱力作用產生上升氣流而形成、外觀近似積雲的雲體。",
+    "definition_cht": "由冷卻塔、工業排放、火災或其他人為熱源所引發之上升氣流形成、外觀近似積雲的人造雲，屬 homogenitus 雲的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/fumulus"
   },
   {
     "english": "fundamental dimensions",
     "traditional_chinese": "基本量綱",
-    "definition_cht": "構成物理量綱系統的基礎量，如長度、質量、時間與溫度等，用於量綱分析與相似理論。",
+    "definition_cht": "構成量綱系統的基礎類別，如長度、質量、時間與溫度等；其他導出量綱皆可由這些基本量綱組合表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/fundamental_dimensions"
   },
   {
