@@ -1376,121 +1376,121 @@
   {
     "english": "Gravitational tide",
     "traditional_chinese": "引力潮汐",
-    "definition_cht": "指與「引力潮汐」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "天體（主要為月球與太陽）的引力對地球海洋、大氣與固體地球所造成的週期性潮汐效應，亦可指其潮汐生成力引發的形變與水位變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gravitational_tide"
   },
   {
     "english": "gravitational water",
     "traditional_chinese": "重力水",
-    "definition_cht": "指與「重力水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "土壤孔隙中受重力作用可向下排流、通常不易被土粒保留的水分，多指田間持水量以上、可自由滲漏的那部分土壤水。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravitational_water"
   },
   {
     "english": "gravity",
     "traditional_chinese": "重力",
-    "definition_cht": "指與「重力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "地球或其他天體對物體施加的吸引作用，常以重力加速度表示，是大氣靜力平衡、潮汐、波動與流體運動的重要基本力。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravity"
   },
   {
     "english": "gravity current",
     "traditional_chinese": "重力流",
-    "definition_cht": "因密度差異而在重力驅動下沿地表或界面水平推進的流體，如冷池外流、海風前緣或鹽水入侵。",
+    "definition_cht": "因密度差異而在重力驅動下沿地表或界面水平推進的流體，如冷池外流、海風前緣、濁流或鹽水入侵。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravity_current"
   },
   {
     "english": "gravity flow",
-    "traditional_chinese": "重力流",
-    "definition_cht": "指與「重力流」相關的流動型態、平均流場或輸送結構。",
+    "traditional_chinese": "重力流動",
+    "definition_cht": "主要由重力造成之高程差或密度差所驅動的流動，廣義上可包括坡面逕流、濁流、碎屑流及冷密空氣外流等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravity_flow"
   },
   {
     "english": "gravity wave",
     "traditional_chinese": "重力波",
-    "definition_cht": "流體中受重力或浮力作為回復力所形成的波動，可見於大氣穩定層結、山脈背風波與海洋內波。",
+    "definition_cht": "流體或介面受擾動後，以重力或浮力作為回復力所形成的波動，常見於穩定大氣層結、山脈背風波與海洋內波。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravity_wave"
   },
   {
     "english": "gravity wave drag",
     "traditional_chinese": "重力波阻力",
-    "definition_cht": "指與「重力波阻力」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "definition_cht": "大氣重力波在傳播、破碎或耗散時將動量傳遞給平均流，因而對背景風場造成的阻力或加減速效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravity_wave_drag"
   },
   {
     "english": "gravity wave drag parameterization",
     "traditional_chinese": "重力波阻力參數化",
-    "definition_cht": "指與「重力波阻力參數化」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "definition_cht": "在數值模式中，以參數化方法表示未被解析之地形波或對流重力波所造成的動量通量沉降與阻力效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravity_wave_drag_parameterization"
   },
   {
     "english": "gravity wind",
     "traditional_chinese": "重力風",
-    "definition_cht": "指與「重力風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "definition_cht": "冷而密的空氣在重力作用下沿坡地下滑形成的風，多見於山地、冰川或高原邊坡；較弱者常稱排水風，較強者可屬下降風。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravity_wind"
   },
   {
     "english": "gray absorber",
     "traditional_chinese": "灰色吸收體",
-    "definition_cht": "指與「灰色吸收體」相關的射線、輻射束或粒子束。",
+    "definition_cht": "對不同波長的輻射具有近乎相同吸收率、可視為吸收率不隨波長改變的理想化介質或大氣模型。",
     "source_url": "https://glossary.ametsoc.org/wiki/gray_absorber"
   },
   {
     "english": "gray ice",
     "traditional_chinese": "灰冰",
-    "definition_cht": "指與「灰冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "definition_cht": "介於新生冰與較厚一年冰之間的幼冰，厚度約為10至15公分，外觀呈灰色，表面仍可能受海水潤濕。",
     "source_url": "https://glossary.ametsoc.org/wiki/gray_ice"
   },
   {
     "english": "graybody",
     "traditional_chinese": "灰體",
-    "definition_cht": "指與「灰體」相關的射線、輻射束或粒子束。",
+    "definition_cht": "吸收率與放射率小於1、但近似不隨波長改變的理想化輻射體，其熱輻射強度為同溫黑體的固定比例。",
     "source_url": "https://glossary.ametsoc.org/wiki/graybody"
   },
   {
     "english": "grayscale",
     "traditional_chinese": "灰階",
-    "definition_cht": "指與「灰階」相關的射線、輻射束或粒子束。",
+    "definition_cht": "僅以亮度強弱表示影像、不含色相資訊的階調表示方式，常用於衛星雲圖、雷達產品與其他遙測影像顯示。",
     "source_url": "https://glossary.ametsoc.org/wiki/grayscale"
   },
   {
     "english": "grease ice",
     "traditional_chinese": "油脂冰",
-    "definition_cht": "指與「油脂冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "definition_cht": "由大量針冰晶聚集成的薄而稠滑表層海冰，使海面呈油膜般暗啞光澤，屬海冰形成初期階段之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/grease_ice"
   },
   {
     "english": "Great Basin high",
-    "traditional_chinese": "大盆地高",
-    "definition_cht": "指與「大盆地高」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "大盆地高壓",
+    "definition_cht": "在美國大盆地上空或近地面形成的冷性高壓系統，常在冷季強化西部內陸與沿岸的壓力梯度，並與加州離岸強風或聖塔安娜風型有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Great_Basin_high"
   },
   {
     "english": "great circle",
     "traditional_chinese": "大圓",
-    "definition_cht": "指與「大圓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "球面上由通過球心的平面與球面相交形成的最大圓；其較短弧為兩點之間的最短球面路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/great_circle"
   },
   {
     "english": "great-circle course",
-    "traditional_chinese": "大圓課程",
-    "definition_cht": "指與「大圓課程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "大圓航線",
+    "definition_cht": "沿大圓短弧由起點通往終點的航行路線或其初始航向計算方式，通常代表球面上兩地之間的最短距離路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/great-circle_course"
   },
   {
     "english": "greco",
-    "traditional_chinese": "格雷科",
-    "definition_cht": "指與「格雷科」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "格雷科風",
+    "definition_cht": "古典地中海風名之一，通常指由東北方吹來的風，屬古希臘—羅馬風向命名體系中的歷史性地方風名。",
     "source_url": "https://glossary.ametsoc.org/wiki/greco"
   },
   {
     "english": "green flash",
     "traditional_chinese": "綠閃光",
-    "definition_cht": "日出或日落瞬間因大氣折射與色散作用，使太陽上緣短暫出現綠色閃現的光學現象。",
+    "definition_cht": "日出或日落瞬間，因大氣折射與色散使太陽上緣短暫出現綠色閃現的光學現象，持續時間通常不到數秒。",
     "source_url": "https://glossary.ametsoc.org/wiki/green_flash"
   },
   {
     "english": "green iceberg",
     "traditional_chinese": "綠色冰山",
-    "definition_cht": "指與「綠色冰山」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "definition_cht": "呈綠色外觀的冰山，常與冰體缺乏氣泡、夾帶海洋雜質或鐵氧化物，以及冰架或海冰相關形成過程有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/green_iceberg"
   },
   {
