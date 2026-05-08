@@ -2882,121 +2882,121 @@
   {
     "english": "Antarctic Zone",
     "traditional_chinese": "南極帶",
-    "definition_cht": "指南極極鋒與大陸水邊界之間的海洋區域，具有典型南極海洋特徵。",
+    "definition_cht": "指南極鋒（亦稱南極輻合帶）與南極大陸之間的海洋帶狀區域，具有低溫、高生產力與特有海洋水團等典型南極海域特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antarctic_Zone"
   },
   {
     "english": "antecedent",
-    "traditional_chinese": "先行的",
-    "definition_cht": "在時間上先於某事件或狀態而發生，並可能對後續過程產生影響的。",
+    "traditional_chinese": "先前的",
+    "definition_cht": "指在時間、次序或因果上先於某一事件、狀態或過程者，並可能對其後續發展產生影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/antecedent"
   },
   {
     "english": "antecedent precipitation index",
     "traditional_chinese": "前期降水指數",
-    "definition_cht": "將前若干日降水量依時間遞減權重加總而得的指標，用以估計集水區或土壤的前期濕潤程度。",
+    "definition_cht": "將前若干日降水量依時間遞減權重累加而得的指標，用以估計流域或土壤在事件發生前的濕潤程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/antecedent_precipitation_index"
   },
   {
     "english": "antecedent soil moisture",
     "traditional_chinese": "前期土壤濕度",
-    "definition_cht": "指一次暴雨或逕流事件開始時土壤內已有的含水量或濕潤狀態。",
+    "definition_cht": "指一次降雨、洪水或逕流事件開始前，土壤中原有的含水量或濕潤狀態，常用以評估入滲與逕流反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/antecedent_soil_moisture"
   },
   {
     "english": "antenna",
     "traditional_chinese": "天線",
-    "definition_cht": "用於發射或接收電磁波的裝置，是雷達、通訊與遙測系統的核心元件。",
+    "definition_cht": "用於發射、接收或導引電磁波的裝置，是雷達、通訊與遙測系統中的關鍵元件。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna"
   },
   {
     "english": "antenna feed",
     "traditional_chinese": "天線饋源",
-    "definition_cht": "位於天線輻射口附近、負責把發射訊號耦合至天線或把接收訊號導回系統的饋電裝置。",
+    "definition_cht": "位於天線輻射體或反射面焦點附近、負責將發射能量耦合至天線，或將接收訊號導回接收機的饋電裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_feed"
   },
   {
     "english": "antenna gain",
     "traditional_chinese": "天線增益",
-    "definition_cht": "表示天線把輻射能量集中於某一方向的能力，通常定義為該方向功率密度相對於等功率各向同性天線的比值。",
+    "definition_cht": "表示天線將輻射能量集中於特定方向的能力，通常定義為該方向輻射功率密度相對於等功率各向同性天線的比值。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_gain"
   },
   {
     "english": "antenna limit",
-    "traditional_chinese": "天線極限",
-    "definition_cht": "天線系統在方向掃描、功率、靈敏度或幾何配置上所能達到的操作界限。",
+    "traditional_chinese": "天線工作極限",
+    "definition_cht": "指天線在掃描角度、指向範圍、輸出功率、靈敏度或幾何配置等方面所能達到的操作界限。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_limit"
   },
   {
     "english": "antenna pattern",
     "traditional_chinese": "天線方向圖",
-    "definition_cht": "以圖形表示天線在不同空間方向上的發射或接收特性分布，常用於描述主波束、副瓣與增益方向性。",
+    "definition_cht": "以圖形表示天線在各空間方向上的發射或接收特性分布，常用於描述主波束、副瓣、波束寬度與方向性。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_pattern"
   },
   {
     "english": "antenna temperature",
     "traditional_chinese": "天線溫度",
-    "definition_cht": "以等效黑體溫度表示天線端所接收雜訊功率的量，常用於微波遙測、射電觀測與接收系統校正。",
+    "definition_cht": "以等效黑體溫度表示天線端接收雜訊功率的量，常用於微波遙測、射電天文與接收系統校正。",
     "source_url": "https://glossary.ametsoc.org/wiki/antenna_temperature"
   },
   {
     "english": "anthelic arcs",
     "traditional_chinese": "反日弧",
-    "definition_cht": "一組會通過反日點的罕見暈弧，屬大氣光學中的冰晶暈象，形態可因冰晶取向與成因機制不同而異。",
+    "definition_cht": "指一類會穿過反日點、由定向冰晶反射形成的罕見暈象總稱，可包含多種形態不同的反日弧。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthelic_arcs"
   },
   {
     "english": "anthelion",
     "traditional_chinese": "反日點亮斑",
-    "definition_cht": "出現在與太陽同高度、位於對日方向之幻日環上的微弱白色亮斑，屬罕見冰晶暈象，常為多種反日弧交會增亮所致。",
+    "definition_cht": "指出現在與太陽同高度、位於反太陽方向之幻日環上的白色亮斑，常由多種反日弧交會或增亮而形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthelion"
   },
   {
     "english": "anthropoclimatology",
     "traditional_chinese": "人類氣候學",
-    "definition_cht": "研究氣候與人類之間相互關係的氣候學分支，包括氣候對健康、聚落、活動與社會適應的影響。",
+    "definition_cht": "研究氣候與人類健康、聚落、活動、生產及適應行為之間交互關係的氣候學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthropoclimatology"
   },
   {
     "english": "anthropogenic",
     "traditional_chinese": "人為的",
-    "definition_cht": "由人類活動直接或間接造成的。",
+    "definition_cht": "指由人類活動直接造成，或因人類活動而間接引起的。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthropogenic"
   },
   {
     "english": "anthropogenic climate change",
     "traditional_chinese": "人為氣候變遷",
-    "definition_cht": "主要由溫室氣體排放、土地利用改變與氣膠排放等人類活動驅動的氣候系統長期變化。",
+    "definition_cht": "主要由溫室氣體排放、土地利用改變、氣膠與其他人類活動所驅動的氣候系統長期變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthropogenic_climate_change"
   },
   {
     "english": "anthropogenic emissions",
     "traditional_chinese": "人為排放",
-    "definition_cht": "由工業、能源、交通、農業及其他人類活動排入大氣的污染物或溫室氣體。",
+    "definition_cht": "指工業、能源、運輸、農業及其他人類活動排入大氣中的污染物、氣膠前驅物或溫室氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthropogenic_emissions"
   },
   {
     "english": "anthropogenic heat",
     "traditional_chinese": "人為熱",
-    "definition_cht": "由建築、交通、工業及能源使用釋放至環境中的熱量，常為都市熱島的重要來源。",
+    "definition_cht": "指建築、交通、工業與能源使用過程釋放至環境中的熱量，是都市熱島的重要熱源之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/anthropogenic_heat"
   },
   {
     "english": "anti-icing",
     "traditional_chinese": "防冰",
-    "definition_cht": "在冰形成之前採取加熱、塗層或化學處理等措施，以防止表面結冰。",
+    "definition_cht": "指在冰層形成前，透過加熱、塗層、除冰液或其他措施防止表面結冰的作業或技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/anti-icing"
   },
   {
     "english": "anti-sea breeze",
     "traditional_chinese": "反海風",
-    "definition_cht": "方向與正常海風相反的沿岸局地風，亦即在原應吹向陸地的時段改為離岸氣流，通常與背景環流、壓力配置或地形效應有關。",
+    "definition_cht": "指沿岸地區在原本應出現海風的時段，卻因背景環流、壓力配置或地形效應而吹向海上的離岸風。",
     "source_url": "https://glossary.ametsoc.org/wiki/anti-sea_breeze"
   },
   {
     "english": "anticrepuscular rays",
     "traditional_chinese": "反曙暮光束",
-    "definition_cht": "在天空反太陽方向因透視效應看似匯聚的光束與暗影帶，實際上與曙暮光束近乎平行。",
+    "definition_cht": "指出現在天空反太陽方向、因透視效應而看似向反日點匯聚的明暗光束；其實際上與曙暮光束大致平行。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticrepuscular_rays"
   },
   {
