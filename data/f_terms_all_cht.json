@@ -1441,122 +1441,122 @@
   },
   {
     "english": "forecast period",
-    "traditional_chinese": "預報 period",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 period」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報時段",
+    "definition_cht": "預報所涵蓋的未來時間區間，即預報結果有效的起訖期間；可短至數小時，亦可長至季節或更久。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_period"
   },
   {
     "english": "forecast updating",
-    "traditional_chinese": "預報 updating",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 updating」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報更新",
+    "definition_cht": "依據新進觀測資料、分析場或數值模式結果，對既有預報內容進行修訂與重新發布的作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_updating"
   },
   {
     "english": "forecast verification",
-    "traditional_chinese": "預報 verification",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 verification」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報驗證",
+    "definition_cht": "將預報結果與實際觀測或分析參考值比較，以評估預報準確度、偏差、技巧分數及整體效能的程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_verification"
   },
   {
     "english": "Forecast-informed reservoir operations",
-    "traditional_chinese": "預報-informed reservoir operations",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報-informed reservoir operations」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報導引水庫操作",
+    "definition_cht": "結合流域監測、天氣與水文預報資訊，作為水庫蓄放水決策依據的操作策略，以兼顧防洪、供水及其他管理目標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Forecast-informed_reservoir_operations"
   },
   {
     "english": "forecast-reversal test",
-    "traditional_chinese": "預報-reversal test",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報-reversal test」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報反轉測試",
+    "definition_cht": "用於檢驗某種預報驗證方法是否適切的測試；將同一驗證方法同時套用於原預報與一組相反情境的虛擬預報，比較兩者分數以判斷該驗證制度的辨識能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast-reversal_test"
   },
   {
     "english": "forecaster",
-    "traditional_chinese": "forecaster",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forecaster」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報員",
+    "definition_cht": "負責分析觀測資料、天氣圖及數值模式產品，進而製作、修訂與發布預報的人員；亦可泛指執行預報作業的單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecaster"
   },
   {
     "english": "forecasting error",
-    "traditional_chinese": "forecasting error",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forecasting error」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報誤差",
+    "definition_cht": "預報值與其後實際觀測值或參考真值之間的差異，可用以表示預報的偏差、離散程度或整體不確定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecasting_error"
   },
   {
     "english": "Forel scale",
-    "traditional_chinese": "Forel scale",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Forel scale」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "福雷爾色標",
+    "definition_cht": "依水體表觀顏色加以分級的色標系統，傳統上用於海洋與湖泊水色觀測，可作為水中懸浮物、藻類或光學性質變化的簡易指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Forel_scale"
   },
   {
     "english": "forerunner",
-    "traditional_chinese": "forerunner",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forerunner」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "前驅現象",
+    "definition_cht": "在主要天氣或海洋事件發生前率先出現的先行徵兆或擾動；於海象中亦可指主風暴潮或主波列到達前先行出現的水位或波動。",
     "source_url": "https://glossary.ametsoc.org/wiki/forerunner"
   },
   {
     "english": "forest meteorology",
-    "traditional_chinese": "森林 meteorology",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「森林 meteorology」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "森林氣象學",
+    "definition_cht": "研究森林內部、林冠層及其上方大氣之能量、水分、動量交換，以及森林與局地氣候交互作用的氣象學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/forest_meteorology"
   },
   {
     "english": "forestry",
-    "traditional_chinese": "forestry",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forestry」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "林學",
+    "definition_cht": "研究森林資源培育、經營、保育與利用的學科；在應用上常需結合氣象、水文與生態條件進行管理。",
     "source_url": "https://glossary.ametsoc.org/wiki/forestry"
   },
   {
     "english": "forked lightning",
-    "traditional_chinese": "forked lightning",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forked lightning」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "叉狀閃電",
+    "definition_cht": "通道明顯分岔、呈樹枝狀延伸的閃電，常見於雲對地或雲間放電的可見主放電通道。",
     "source_url": "https://glossary.ametsoc.org/wiki/forked_lightning"
   },
   {
     "english": "form drag",
-    "traditional_chinese": "form drag",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「form drag」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "形狀阻力",
+    "definition_cht": "流體繞過物體或粗糙地形時，因外形造成壓力分布不均與尾流分離而產生的阻力；不同於主要由表面摩擦造成的摩擦阻力。",
     "source_url": "https://glossary.ametsoc.org/wiki/form_drag"
   },
   {
     "english": "formaldehyde",
-    "traditional_chinese": "formaldehyde",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「formaldehyde」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "甲醛",
+    "definition_cht": "化學式 CH2O 的揮發性有機化合物，存在於大氣中可由烴類氧化生成，並參與光化學反應、臭氧生成與空氣品質變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/formaldehyde"
   },
   {
     "english": "formation fluid",
-    "traditional_chinese": "形成 fluid",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「形成 fluid」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "地層流體",
+    "definition_cht": "存在於地質地層孔隙或裂隙中的天然流體，可能為地下水、鹵水、石油、天然氣或其混合物。",
     "source_url": "https://glossary.ametsoc.org/wiki/formation_fluid"
   },
   {
     "english": "formic acid",
-    "traditional_chinese": "formic acid",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「formic acid」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "甲酸",
+    "definition_cht": "化學式 HCOOH，最簡單的羧酸；在大氣化學中可由生物排放或揮發性有機物氧化生成，屬有機酸成分之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/formic_acid"
   },
   {
     "english": "Fortin barometer",
-    "traditional_chinese": "Fortin barometer",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fortin barometer」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "福廷氣壓計",
+    "definition_cht": "一種高精度水銀氣壓計，具有可調式槽部液面與象牙指針，用以校正零點並精確量測大氣壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fortin_barometer"
   },
   {
     "english": "Forty Saints' storm",
-    "traditional_chinese": "Forty Saints' storm",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Forty Saints' storm」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "四十聖人風暴",
+    "definition_cht": "希臘一帶在三月春分前後出現的南風強風事件名稱，屬地方性天氣俗稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Forty_Saints%27_storm"
   },
   {
     "english": "forward chaining",
-    "traditional_chinese": "forward chaining",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forward chaining」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "前向鏈結",
+    "definition_cht": "在規則式推論系統中，從已知事實出發，逐步套用規則以推出新結論的推理方式；可用於預報專家系統或決策支援。",
     "source_url": "https://glossary.ametsoc.org/wiki/forward_chaining"
   },
   {
     "english": "forward scatter",
-    "traditional_chinese": "forward scatter",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forward scatter」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "前向散射",
+    "definition_cht": "電磁波、光或其他輻射與粒子作用後，大致沿原入射方向散射的現象；在能見度感測、雷達與遙測中常作為量測依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/forward_scatter"
   },
   {
