@@ -22231,122 +22231,122 @@
   },
   {
     "english": "Gradient-based similarity theory",
-    "traditional_chinese": "基於梯度的相似理論",
-    "definition_cht": "指與「基於梯度的相似理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "梯度相似理論",
+    "definition_cht": "邊界層與亂流研究中的一類相似理論，假設無因次平均梯度、通量或擾動統計量可用少數控制參數描述，並據以建立風速、溫度與濕度垂直梯度的普適關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gradient-based_similarity_theory"
   },
   {
     "english": "grading",
-    "traditional_chinese": "等級",
-    "definition_cht": "指與「等級」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "分級",
+    "definition_cht": "依粒徑、強度、品質或其他特徵進行分類分級的作業或結果；在水文、沉積與環境樣本分析中，常指顆粒材料依大小或性質的分組。",
     "source_url": "https://glossary.ametsoc.org/wiki/grading"
   },
   {
     "english": "graduation",
-    "traditional_chinese": "畢業",
-    "definition_cht": "指與「畢業」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "刻度",
+    "definition_cht": "量測儀器、量筒、溫度計或圖表座標上的分度刻線與標示值，用以讀取長度、體積、溫度、氣壓或其他物理量。",
     "source_url": "https://glossary.ametsoc.org/wiki/graduation"
   },
   {
     "english": "grains of ice",
     "traditional_chinese": "冰粒",
-    "definition_cht": "指與「冰粒」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "definition_cht": "由細小冰粒組成的固態降水或冰相粒子之統稱，可指雪晶破碎後或凍結過程中形成的粒狀冰體；實際分類仍須依粒徑、形成機制與觀測規範判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/grains_of_ice"
   },
   {
     "english": "gram",
     "traditional_chinese": "克",
-    "definition_cht": "指與「克」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "公制質量單位，為千分之一公斤；在氣象、化學與環境分析中常用於表示樣品質量、溶質含量或氣膠與降水成分的重量。",
     "source_url": "https://glossary.ametsoc.org/wiki/gram"
   },
   {
     "english": "gram calorie",
-    "traditional_chinese": "克卡路里",
-    "definition_cht": "指與「克卡路里」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "克卡",
+    "definition_cht": "舊制熱量單位，定義為使 1 克水升高 1 攝氏度所需的熱量，約為 4.184 焦耳；亦稱小卡或 gram calorie。",
     "source_url": "https://glossary.ametsoc.org/wiki/gram_calorie"
   },
   {
     "english": "Gram-mole",
-    "traditional_chinese": "克摩爾",
-    "definition_cht": "指與「克摩爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "克莫耳",
+    "definition_cht": "舊稱的物質的量單位，指某物質之克數恰等於其分子量或原子量時的量，數值上相當於 1 莫耳。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gram-mole"
   },
   {
     "english": "granular snow",
     "traditional_chinese": "粒狀雪",
-    "definition_cht": "指與「粒狀雪」相關的降雪現象、雪況條件或雪量特徵。",
+    "definition_cht": "由鬆散雪粒、圓粒或類似顆粒組成的雪面或積雪型態；常見於雪晶受融化再凍結、風蝕或老化作用後，原有晶形不明顯的情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/granular_snow"
   },
   {
     "english": "granules",
-    "traditional_chinese": "顆粒",
-    "definition_cht": "指與「顆粒」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "小粒",
+    "definition_cht": "比 pellets 更細小的顆粒或粒子；在地球科學語境中可泛指雪、冰、沉積物、土壤或化學樣本中的粒狀成分，實際意義須依材料種類判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/granules"
   },
   {
     "english": "graphing board",
     "traditional_chinese": "繪圖板",
-    "definition_cht": "以圖形方式呈現「繪圖板」相關量值變化、對應關係或分類結果的圖表。",
+    "definition_cht": "供手工繪製天氣圖、剖面圖、觀測曲線或其他分析圖用的平板式作圖工具，常配合方格、量尺或定位裝置使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/graphing_board"
   },
   {
     "english": "Grashoff number",
-    "traditional_chinese": "格拉肖夫數",
-    "definition_cht": "指與「格拉肖夫數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "格拉曉夫數",
+    "definition_cht": "流體力學中的無因次數，表示浮力與黏滯力相對重要性的大小，常用於自然對流問題；數值愈大，浮力驅動流動或熱對流的影響通常愈顯著。",
     "source_url": "https://glossary.ametsoc.org/wiki/Grashoff_number"
   },
   {
     "english": "grass",
-    "traditional_chinese": "草",
-    "definition_cht": "指與「草」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "草類植被",
+    "definition_cht": "由禾本科或其他草本低矮植物構成的地表植被；在氣象觀測中常作為近地面輻射冷卻、露、霜及草面最低溫觀測的代表性下墊面。",
     "source_url": "https://glossary.ametsoc.org/wiki/grass"
   },
   {
     "english": "grass minimum",
-    "traditional_chinese": "草最少",
-    "definition_cht": "指與「草最少」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "草面最低溫",
+    "definition_cht": "貼近草面或短草冠層上方所觀測到的夜間最低氣溫，用以表徵地表輻射冷卻強度，並常作為露、霜與近地面結冰風險評估指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/grass_minimum"
   },
   {
     "english": "grass temperature",
-    "traditional_chinese": "草溫",
-    "definition_cht": "指與「草溫」相關的溫度量、溫度分布或代表性熱狀態特徵。",
+    "traditional_chinese": "草面溫度",
+    "definition_cht": "草地表面或緊貼草面附近空氣層的溫度；常以近地面草溫計量測，用於評估輻射冷卻、結霜、結冰與農業氣象條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/grass_temperature"
   },
   {
     "english": "graupel",
     "traditional_chinese": "霰",
-    "definition_cht": "由過冷水滴凍附於雪晶或冰晶表面所形成的白色不透明粒狀固態降水，粒徑通常小於冰雹。",
+    "definition_cht": "過冷水滴凍附在雪晶或冰晶表面後形成的白色、不透明、脆鬆粒狀固態降水，粒徑通常約 2 至 5 毫米，性質介於雪與冰雹之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/graupel"
   },
   {
     "english": "gravimetric hygrometry",
-    "traditional_chinese": "重力濕度測定法",
-    "definition_cht": "指與「重力濕度測定法」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "重量濕度測定法",
+    "definition_cht": "以吸濕劑吸收樣品中的水氣，再根據吸收前後質量變化求得水分或濕度的測定方法；屬直接式濕度量測，常用於校正或標準測定。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravimetric_hygrometry"
   },
   {
     "english": "gravitation",
-    "traditional_chinese": "重力",
-    "definition_cht": "指與「重力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "萬有引力",
+    "definition_cht": "具有質量的物體彼此吸引的基本作用；在地球科學中主導大氣與海洋的靜力平衡、自由落體、潮汐以及行星與衛星的運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravitation"
   },
   {
     "english": "gravitational head",
-    "traditional_chinese": "重力頭",
-    "definition_cht": "指與「重力頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "重力水頭",
+    "definition_cht": "流體因所在高度而具有的位能水頭，通常以相對基準面的高程表示，是總水頭或水力水頭的組成部分之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravitational_head"
   },
   {
     "english": "gravitational potential",
-    "traditional_chinese": "重力位能",
-    "definition_cht": "指與「重力位能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "重力位勢",
+    "definition_cht": "單位質量物體在重力場中因位置而具有的位能函數，其空間梯度與重力加速度方向相對應；地球科學中常用於位勢、位勢高度等概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravitational_potential"
   },
   {
     "english": "gravitational potential energy",
     "traditional_chinese": "重力位能",
-    "definition_cht": "指與「重力位能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "物體因位於重力場中特定位置而具有的位能，大小取決於其質量與相對基準面的高度或重力位勢差。",
     "source_url": "https://glossary.ametsoc.org/wiki/gravitational_potential_energy"
   },
   {
