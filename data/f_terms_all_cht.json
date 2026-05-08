@@ -1921,122 +1921,122 @@
   },
   {
     "english": "freezing spray",
-    "traditional_chinese": "凍結 spray",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 spray」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "凍結噴霧",
+    "definition_cht": "海面浪花或飛沫在強風作用下被捲起，接觸低於冰點的冷空氣與船體後迅速結冰並附著累積的現象；常見於寒冷海域航行，會增加船舶結冰與作業危險。",
     "source_url": "https://glossary.ametsoc.org/wiki/freezing_spray"
   },
   {
     "english": "freezing-level chart",
-    "traditional_chinese": "凍結-level chart",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結-level chart」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "零度層高度圖",
+    "definition_cht": "以圖面呈現大氣中攝氏零度等溫面或冰點高度分布的分析／預報圖，常供航空氣象、降水相態判釋與地形降雪研判使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/freezing-level_chart"
   },
   {
     "english": "Fremantle Doctor",
-    "traditional_chinese": "Fremantle Doctor",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fremantle Doctor」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "弗里曼特爾醫生風",
+    "definition_cht": "澳洲西澳沿岸夏季常見的午後海風俗稱，主要受陸海溫差驅動，自西南方吹向伯斯一帶，常可帶來明顯降溫與舒緩酷熱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fremantle_Doctor"
   },
   {
     "english": "freon",
-    "traditional_chinese": "freon",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freon」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "氟利昂",
+    "definition_cht": "冷媒商品名與通稱，泛指一類常用於製冷與氣霧推進用途的鹵代烴化合物；其中部分氯氟碳化物會破壞臭氧層，部分替代品亦具有顯著暖化潛勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/freon"
   },
   {
     "english": "frequency",
     "traditional_chinese": "頻率",
-    "definition_cht": "單位時間內週期性現象重複發生的次數，常以赫茲表示；在氣象遙測、波動、訊號處理與時間序列分析中為基本物理量。",
+    "definition_cht": "單位時間內週期性現象重複發生的次數，為週期的倒數，SI 單位為赫茲（Hz）；常用於描述波動、振動、電磁訊號與時間序列中的反覆變化速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency"
   },
   {
     "english": "frequency agility",
     "traditional_chinese": "頻率捷變",
-    "definition_cht": "指雷達或通訊系統能快速切換發射頻率的能力，用以降低干擾、抑制雜波或避免敵對電子反制。",
+    "definition_cht": "雷達或通訊系統在相鄰脈衝、掃描或作業時段間快速切換工作頻率的能力，可用於降低干擾、抑制雜波、減少互擾並提升抗電子反制能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_agility"
   },
   {
     "english": "frequency analysis",
     "traditional_chinese": "頻率分析",
-    "definition_cht": "利用事件出現次數或重現特性評估其統計規律的方法，水文上常用於推估洪水、暴雨等極端事件的重現期與機率分布。",
+    "definition_cht": "利用觀測事件的出現頻度與統計分布，估計不同量級事件發生機率或重現期的方法；水文上常用於洪水、暴雨與枯水等極端事件評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_analysis"
   },
   {
     "english": "frequency band",
     "traditional_chinese": "頻帶",
-    "definition_cht": "電磁波或訊號所佔據的特定頻率範圍，常用於區分雷達、衛星遙測與無線通訊系統之工作波段。",
+    "definition_cht": "電磁波、聲波或電子訊號所占用的特定頻率範圍，常用以區分雷達、衛星遙測、無線通訊與量測系統的工作波段。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_band"
   },
   {
     "english": "frequency coding",
     "traditional_chinese": "頻率編碼",
-    "definition_cht": "以不同頻率或頻率組合承載資訊的編碼方式，應用於遙測訊號傳輸、儀器輸出與通訊辨識。",
+    "definition_cht": "以不同頻率或頻率組合來表示資訊狀態的編碼方式，可用於遙測、儀器訊號傳輸、通訊辨識與控制系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_coding"
   },
   {
     "english": "frequency distribution",
     "traditional_chinese": "頻率分布",
-    "definition_cht": "描述各數值區間內觀測次數或相對比例之統計分布，用於呈現氣象與水文資料的集中、離散與偏態特徵。",
+    "definition_cht": "將資料依數值區間或類別整理後，表示各區間出現次數或相對比率的統計分布，用於描述氣象與水文資料的集中、離散與偏態特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_distribution"
   },
   {
     "english": "frequency meter",
     "traditional_chinese": "頻率計",
-    "definition_cht": "用於量測週期性電訊號頻率的儀器，可應用於雷達、通訊與電子觀測設備之校驗。",
+    "definition_cht": "用於量測週期性電訊號、振盪或載波頻率的儀器，可應用於雷達、通訊設備、電子觀測系統與實驗室校驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_meter"
   },
   {
     "english": "frequency modulation",
     "traditional_chinese": "頻率調變",
-    "definition_cht": "以載波瞬時頻率隨訊號變化而改變之調變方式，常用於通訊、遙測與部分主動式量測系統。",
+    "definition_cht": "一種調變方式，依據待傳送訊號的變化改變載波的瞬時頻率，而載波振幅大致維持不變；常見於無線通訊、遙測與部分主動式量測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_modulation"
   },
   {
     "english": "frequency response",
     "traditional_chinese": "頻率響應",
-    "definition_cht": "系統對不同輸入頻率之振幅與相位反應特性，可用以評估儀器、濾波器或地球物理系統對週期訊號的傳遞能力。",
+    "definition_cht": "系統對不同輸入頻率所呈現的振幅與相位反應特性，用以評估儀器、濾波器、控制系統或地球物理系統對週期訊號的傳遞能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_response"
   },
   {
     "english": "frequency-domain averaging",
     "traditional_chinese": "頻域平均",
-    "definition_cht": "先將訊號轉換至頻率域，再對頻譜量進行平均處理的方法，可降低隨機雜訊並提升頻譜估計穩定性。",
+    "definition_cht": "先將訊號轉換至頻率域，再對頻譜或相關頻域量進行平均的處理方法，可降低隨機雜訊影響並提升頻譜估計的穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency-domain_averaging"
   },
   {
     "english": "fresh",
-    "traditional_chinese": "清勁的",
-    "definition_cht": "用於風力描述時，指風勢明顯而較強但尚未達烈風等級，常見於航海或傳統風力術語。",
+    "traditional_chinese": "清勁",
+    "definition_cht": "傳統風力術語，用於形容風勢明顯增強且具有持續性的狀態，但尚未達強風或烈風等級；常見於航海與蒲福風級相關描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/fresh"
   },
   {
     "english": "fresh breeze",
     "traditional_chinese": "清勁風",
-    "definition_cht": "蒲福風級中的一級風力描述，通常對應中等偏強之持續風，海面可見較明顯浪峰與白沫。",
+    "definition_cht": "蒲福風級第 5 級風，約 17 至 21 節（8.0 至 10.7 公尺每秒）；陸地上小樹開始搖擺，海面常見較多白浪與中等波浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/fresh_breeze"
   },
   {
     "english": "freshet",
     "traditional_chinese": "短期洪漲",
-    "definition_cht": "河川因短時強降雨、融雪或上游來水增加而出現的暫時性水位與流量快速上升現象。",
+    "definition_cht": "河川因短時強降雨、融雪或上游來水增加而出現的暫時性水位與流量快速上升現象，通常歷時較短，未必達到重大洪水規模。",
     "source_url": "https://glossary.ametsoc.org/wiki/freshet"
   },
   {
     "english": "freshwater",
     "traditional_chinese": "淡水",
-    "definition_cht": "鹽度較低之天然水體總稱，包括河川、湖泊、地下水與冰雪融水，為水文循環與生態系之重要組成。",
+    "definition_cht": "溶解鹽類含量相對較低的天然水體總稱，包括河川、湖泊、水庫、地下水與冰雪融水；相對於海水與鹹水，為水文循環與人類利用的重要水資源。",
     "source_url": "https://glossary.ametsoc.org/wiki/freshwater"
   },
   {
     "english": "Fresnel reflection",
     "traditional_chinese": "菲涅耳反射",
-    "definition_cht": "電磁波或光波在兩種介質交界面因折射率差異所產生的反射現象，其反射強度與偏振狀態受入射角與介質性質控制。",
+    "definition_cht": "電磁波或光波入射至兩種介質交界面時，因折射率或介電性差異而產生的反射現象；其反射強度與偏振狀態受入射角及介質性質控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fresnel_reflection"
   },
   {
     "english": "Fresnel zone",
     "traditional_chinese": "菲涅耳區",
-    "definition_cht": "波動傳播時，相對於發射端與接收端路徑所定義的橢球形空間區域；其遮蔽程度會影響訊號強度與相位。",
+    "definition_cht": "在發射端與接收端之間，依波程差所定義的一系列橢球狀空間區域；其中第一菲涅耳區若遭地物遮蔽，常會使訊號強度下降並增加干涉效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fresnel_zone"
   },
   {
