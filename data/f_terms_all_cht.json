@@ -2306,7 +2306,7 @@
   {
     "english": "frost day",
     "traditional_chinese": "霜日",
-    "definition_cht": "氣候統計上通常指日最低氣溫降至 0°C 或以下的一日，或觀測到霜發生的一日。",
+    "definition_cht": "在氣候統計上通常指日最低氣溫低於 0°C 的一日；部分資料也可用來指有結霜觀測發生的一日。",
     "source_url": "https://glossary.ametsoc.org/wiki/frost_day"
   },
   {
@@ -2323,8 +2323,8 @@
   },
   {
     "english": "frost haze",
-    "traditional_chinese": "冰霜霾",
-    "definition_cht": "由極細小冰晶懸浮於近地空氣中所形成、使能見度降低的朦朧現象，常出現在嚴寒且穩定的天氣條件下。",
+    "traditional_chinese": "冰晶霾",
+    "definition_cht": "由極細小冰晶懸浮於近地空氣中所形成、使能見度降低的朦朧現象，常出現在嚴寒且大氣穩定的天氣條件下。",
     "source_url": "https://glossary.ametsoc.org/wiki/frost_haze"
   },
   {
@@ -2341,8 +2341,8 @@
   },
   {
     "english": "frost line",
-    "traditional_chinese": "凍線",
-    "definition_cht": "地表下土壤凍結與未凍結層之間的界面，亦可指地理上霜凍出現頻率的分界線。",
+    "traditional_chinese": "凍結線",
+    "definition_cht": "通常指土壤或地層中季節性凍結所能到達的最大深度，亦即凍土深度；在部分地理語境中，也可指霜凍可出現的高度或區域界線。",
     "source_url": "https://glossary.ametsoc.org/wiki/frost_line"
   },
   {
@@ -2377,8 +2377,8 @@
   },
   {
     "english": "frost ring",
-    "traditional_chinese": "霜環",
-    "definition_cht": "因局部冷卻、沉積或植物組織受霜後形成的環狀痕跡或結構，可見於植株、土壤或沉積表面。",
+    "traditional_chinese": "霜害年輪",
+    "definition_cht": "樹木在生長季遭受霜凍傷害後，形成層與木質部組織受損而在年輪中留下的異常環帶，可作為古氣候與極端低溫事件的指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/frost_ring"
   },
   {
@@ -2389,8 +2389,8 @@
   },
   {
     "english": "frost table",
-    "traditional_chinese": "凍土上界面",
-    "definition_cht": "多年凍土區中，活動層底部與永久凍土頂部所形成的界面位置。",
+    "traditional_chinese": "多年凍土上界面",
+    "definition_cht": "多年凍土區中，位於季節性活動層下方、永久凍土上表面的界面位置；其深度會隨季節融凍循環而變動。",
     "source_url": "https://glossary.ametsoc.org/wiki/frost_table"
   },
   {
