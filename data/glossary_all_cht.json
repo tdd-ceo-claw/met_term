@@ -18752,121 +18752,121 @@
   {
     "english": "filling",
     "traditional_chinese": "填塞減弱",
-    "definition_cht": "低壓系統中心氣壓上升、壓力梯度減弱的過程，表示氣旋強度衰退或結構趨於消散。",
+    "definition_cht": "指低壓系統中心氣壓回升、等壓線梯度減弱的過程，與 deepening（加深）相反，通常代表氣旋強度減弱或系統逐漸消散。",
     "source_url": "https://glossary.ametsoc.org/wiki/filling"
   },
   {
     "english": "film crust",
     "traditional_chinese": "薄膜結殼",
-    "definition_cht": "土壤、積雪或液體表面形成的薄層殼膜，可由蒸發、結晶、凍結或沉積作用造成，並影響熱量與水分交換。",
+    "definition_cht": "積雪、土壤或其他表面形成的薄層結殼；在雪冰術語中常指表面融化後再凍結，或由凝結、升華等作用形成的薄而脆之冰殼，會影響反照率、熱交換與表面力學性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/film_crust"
   },
   {
     "english": "filter",
     "traditional_chinese": "濾波器",
-    "definition_cht": "用以選取、抑制或平滑特定頻率、尺度或雜訊成分的裝置或數學運算，在訊號處理與數值分析中廣泛使用。",
+    "definition_cht": "用以選擇、通過或抑制特定頻率、尺度或訊號成分的裝置、電路或數學運算；在氣象與海洋資料處理中常用於去除雜訊、分離波動尺度或平滑時間序列。",
     "source_url": "https://glossary.ametsoc.org/wiki/filter"
   },
   {
     "english": "filtered equations",
     "traditional_chinese": "濾波方程組",
-    "definition_cht": "對原始控制方程經尺度平均、空間平滑或頻譜截斷後所得之方程，用於保留主要尺度並參數化未解析成分。",
+    "definition_cht": "原始控制方程經空間平均、時間平滑或頻譜截斷後所得之方程組，用以保留主要解析尺度，並將未解析的小尺度效應以次網格參數化表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/filtered_equations"
   },
   {
     "english": "filtered model",
     "traditional_chinese": "濾波模式",
-    "definition_cht": "在模式中移除或抑制某些快速振盪、小尺度噪訊或不必要波動後所建立的數值模型，以提升穩定性或聚焦目標尺度。",
+    "definition_cht": "對某些高頻、小尺度或快速振盪成分加以濾除後所建立的數值模式，以抑制不必要波動、提高數值穩定性，或聚焦特定時空尺度的演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/filtered_model"
   },
   {
     "english": "filtering",
     "traditional_chinese": "濾波",
-    "definition_cht": "對資料或方程進行平滑、頻率選擇、尺度分離或雜訊抑制的處理程序，以保留所需訊號特徵。",
+    "definition_cht": "對資料、訊號或控制方程進行平滑、頻率選擇、尺度分離或雜訊抑制的處理程序，以保留研究所需的主要變化並減弱無關成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/filtering"
   },
   {
     "english": "filtering approximations",
     "traditional_chinese": "濾波近似",
-    "definition_cht": "為簡化分析或數值計算，將某些短週期波動、小尺度效應或高頻項予以濾除的近似方法。",
+    "definition_cht": "為簡化理論分析或數值計算，刻意濾除某些短週期波、高頻振盪或小尺度項的近似處理；大氣動力學中常用以排除聲波等非目標模態。",
     "source_url": "https://glossary.ametsoc.org/wiki/filtering_approximations"
   },
   {
     "english": "filtration",
     "traditional_chinese": "過濾作用",
-    "definition_cht": "流體或粒子通過介質、孔隙或數學篩選程序時，部分成分被截留或分離的過程；在水文與資料處理中皆常使用。",
+    "definition_cht": "指流體通過多孔介質、濾材或其他篩選機制時，使部分顆粒、雜質或成分被截留或分離的過程；在水文、氣膠採樣與資料處理中皆可使用此概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/filtration"
   },
   {
     "english": "fine line",
     "traditional_chinese": "細線回波",
-    "definition_cht": "雷達圖上呈狹窄線狀的弱回波帶，常與輻合線、海風鋒、陣風鋒、昆蟲層或邊界層結構有關。",
+    "definition_cht": "天氣雷達上呈狹窄線狀的弱回波帶，多與海風鋒、陣風鋒、輻合線等邊界有關，也可能來自昆蟲、鳥群或晴空邊界層中的散射體，因此常用來辨識近地層交界面位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/fine_line"
   },
   {
     "english": "fine particles",
     "traditional_chinese": "細顆粒",
-    "definition_cht": "粒徑較小、可長時間懸浮於空氣中的顆粒物，常用於描述氣膠、煙霧、粉塵或污染微粒。",
+    "definition_cht": "粒徑極小、可在空氣中懸浮較久的顆粒物；在空氣污染領域常指細懸浮微粒，尤其是空氣動力學直徑約 2.5 微米以下之粒子，但廣義上亦可泛指細粒徑氣膠。",
     "source_url": "https://glossary.ametsoc.org/wiki/fine_particles"
   },
   {
     "english": "fine-mesh grid",
     "traditional_chinese": "細網格",
-    "definition_cht": "空間解析度較高、格距較小的數值計算網格，可更細緻地表現地形、對流或局地結構，但計算成本較高。",
+    "definition_cht": "格距較小、空間解析度較高的數值計算網格，可更細緻表現地形、邊界層與中小尺度天氣結構，但相對需要更高的計算資源。",
     "source_url": "https://glossary.ametsoc.org/wiki/fine-mesh_grid"
   },
   {
     "english": "fine-mesh model",
     "traditional_chinese": "細網格模式",
-    "definition_cht": "採用高解析度格點配置的數值模式，適合模擬中小尺度天氣、複雜地形效應與局地強對流現象。",
+    "definition_cht": "採用細網格配置的高解析度數值模式，適合模擬局地地形效應、中尺度對流系統與其他小尺度大氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/fine-mesh_model"
   },
   {
     "english": "Fineman nephoscope",
-    "traditional_chinese": "芬尼曼測雲器",
-    "definition_cht": "用於測定雲移動方向與速度的觀測儀器，透過鏡面或基準刻線比較雲影位移來判讀雲行。",
+    "traditional_chinese": "芬尼曼雲向儀",
+    "definition_cht": "一種用於測定雲移方向與速度的雲觀測儀器，藉由鏡面、基準刻線或視準對照雲影位移，以推定雲的運動方向與移動速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fineman_nephoscope"
   },
   {
     "english": "finestructure",
     "traditional_chinese": "細微結構",
-    "definition_cht": "在較大尺度背景中可辨識的微細空間或時間結構，如雲層、湍流、電離層或雷達回波中的小尺度特徵。",
+    "definition_cht": "在較大尺度背景場中可辨識的小尺度空間或時間結構；於大氣、海洋與電離層研究中，常指風、溫度、濕度、密度或回波中的局部細節變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/finestructure"
   },
   {
     "english": "finger rafting",
     "traditional_chinese": "指狀疊冰",
-    "definition_cht": "新生薄冰或碎冰在擠壓作用下以狹長指狀彼此重疊的現象，常見於海冰初期形成與變形過程。",
+    "definition_cht": "薄海冰在平面受壓匯聚時，一片冰板局部平順地騎覆或插入另一片冰板之上，形成彼此交錯、近似手指互扣的疊覆構造，常見於新生海冰變形初期。",
     "source_url": "https://glossary.ametsoc.org/wiki/finger_rafting"
   },
   {
     "english": "fingering",
     "traditional_chinese": "指狀不穩定",
-    "definition_cht": "流體或傳輸過程中形成狹長舌狀或指狀結構的現象，例如鹽指、滲流指狀前緣或對流邊界不穩定。",
+    "definition_cht": "流體、熱鹽對流或物質傳輸過程中出現狹長指狀構造的現象；海洋學中特別常指雙擴散造成的鹽指（salt fingering），亦可泛指滲流或不穩定前緣的指狀發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/fingering"
   },
   {
     "english": "fingerprint method",
     "traditional_chinese": "指紋法",
-    "definition_cht": "透過辨識資料中具代表性的時空型態或統計特徵，判定特定物理機制、氣候訊號或污染來源的方法。",
+    "definition_cht": "透過比對觀測資料與特定時空型態或統計特徵的方法，以辨識某種物理機制、外部強迫或污染來源；在氣候變遷偵測與歸因研究中常用於識別人為訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/fingerprint_method"
   },
   {
     "english": "finite depth",
     "traditional_chinese": "有限水深",
-    "definition_cht": "在波浪、海洋或流體理論中，指水深不可視為無限深而必須明確納入動力方程與色散關係計算的情況。",
+    "definition_cht": "在波浪或流體理論中，指水深不可視為無限大，必須明確納入色散關係與動力方程計算的情況；其波速與流場特性會受底床影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/finite_depth"
   },
   {
     "english": "finite differencing",
     "traditional_chinese": "有限差分法",
-    "definition_cht": "以相鄰格點差值近似導數的數值方法，為求解大氣與海洋控制方程最常見的離散化技術之一。",
+    "definition_cht": "以相鄰格點函數值之差來近似連續導數的離散化方法，是數值天氣預報與海洋模式求解偏微分方程時最常用的基本技術之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/finite_differencing"
   },
   {
     "english": "finite-difference approximation",
     "traditional_chinese": "有限差分近似",
-    "definition_cht": "以有限格距上的函數值差分來近似連續導數或微分算子的表示方式，是建立差分方程的基礎。",
+    "definition_cht": "以有限格距上的函數值差分來近似導數或微分算子的表示方式，為建立差分方程與有限差分數值格式的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/finite-difference_approximation"
   },
   {
