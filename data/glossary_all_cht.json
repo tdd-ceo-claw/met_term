@@ -20071,122 +20071,122 @@
   },
   {
     "english": "fractostratus",
-    "traditional_chinese": "fractostratus",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fractostratus」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "碎層雲；破層雲",
+    "definition_cht": "屬於層雲的碎片狀雲種，呈不規則、破碎且邊緣參差的雲片，常出現在降水雲下方或潮濕低層氣流中；其垂直發展較小、色澤常較暗，航空上亦常俗稱 scud。",
     "source_url": "https://glossary.ametsoc.org/wiki/fractostratus"
   },
   {
     "english": "fractus",
-    "traditional_chinese": "fractus",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fractus」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "碎雲",
+    "definition_cht": "雲種名，指呈破碎、參差且形狀快速變化的雲塊或雲片，可附屬於層雲或積雲而分為 stratus fractus 與 cumulus fractus；常見於降水區下方、陣風前緣或低層強風切環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/fractus"
   },
   {
     "english": "frank",
-    "traditional_chinese": "frank",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「frank」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "定風；穩定風",
+    "definition_cht": "航海與氣象舊術語，指風向與風速都相對穩定、吹送持續而規則的風；通常不指陣風或短時劇烈變化之風。",
     "source_url": "https://glossary.ametsoc.org/wiki/frank"
   },
   {
     "english": "fraternal twin integrations",
-    "traditional_chinese": "fraternal twin integrations",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「fraternal twin integrations」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "異卵雙生積分",
+    "definition_cht": "數值天氣或海洋模擬中的一類成對試驗，指由兩個不同模式，或同一模式但具不同物理設定所進行的預報積分，用以研究預報誤差成長與模式系統差異；不同於僅改變初始條件的 identical twin integrations。",
     "source_url": "https://glossary.ametsoc.org/wiki/fraternal_twin_integrations"
   },
   {
     "english": "Fraunhofer diffraction theory",
-    "traditional_chinese": "Fraunhofer diffraction theory",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fraunhofer diffraction theory」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "夫朗和斐繞射理論",
+    "definition_cht": "描述遠場繞射或近前向散射的近似理論，適用於散射體尺度大於波長、且觀測幾何滿足遠場條件的情況；在雲滴、氣膠與粒徑量測的光學分析中常作為近似基礎，且結果對粒子組成與入射偏振的依賴較小。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fraunhofer_diffraction_theory"
   },
   {
     "english": "Fraunhofer lines",
-    "traditional_chinese": "Fraunhofer lines",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Fraunhofer lines」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "夫朗和斐線；夫朗和斐吸收線",
+    "definition_cht": "太陽或恆星連續光譜中可見的暗吸收線，由其大氣中各元素在特定波長選擇性吸收所形成；可用於光譜定標、元素辨識與遙測反演。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fraunhofer_lines"
   },
   {
     "english": "frazil",
-    "traditional_chinese": "frazil",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「frazil」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "針冰晶；碎晶冰",
+    "definition_cht": "在過冷且擾動明顯的水體中形成的細小懸浮冰晶，常呈針狀、片狀或不規則晶形；因水流湍動而不易立即凝結成完整冰層，為河川、湖泊與海冰初生的重要型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/frazil"
   },
   {
     "english": "frazil ice",
     "traditional_chinese": "針冰",
-    "definition_cht": "指在過冷水體中形成的細小板狀或針狀冰晶。",
+    "definition_cht": "由過冷水中生成的大量細小鬆散冰晶所組成的初生冰，晶體多呈針狀、片狀或枝狀，常見於急流、開闊水面或受擾動的寒冷水域，之後可進一步聚結成油脂冰或其他表層冰型。",
     "source_url": "https://glossary.ametsoc.org/wiki/frazil_ice"
   },
   {
     "english": "freak wave",
-    "traditional_chinese": "freak wave",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freak wave」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "怪浪；瘋狗浪",
+    "definition_cht": "海面上偶發、局部且異常高大的單一或少數巨浪，波高明顯超出周圍有效波場，常近似 rogue wave；可由波群聚焦、流場與地形作用或非線性波浪交互作用形成，對船舶與海上結構具高度危險性。",
     "source_url": "https://glossary.ametsoc.org/wiki/freak_wave"
   },
   {
     "english": "free acidity",
-    "traditional_chinese": "free acidity",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free acidity」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "游離酸度",
+    "definition_cht": "指樣品中未被中和之酸性成分或可滴定氫離子的含量；在降水化學、氣膠分析與水質研究中，常用以表示酸化程度，並可透過 pH 與滴定方法加以估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_acidity"
   },
   {
     "english": "free air",
-    "traditional_chinese": "free air",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free air」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由空氣",
+    "definition_cht": "指遠離地表、較不受地形、建物、下墊面粗糙度與局地加熱直接影響的開放大氣；在氣象觀測上常用來表示可代表較大尺度環境狀態的空氣，而非貼近地面的近地層空氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_air"
   },
   {
     "english": "free atmosphere",
     "traditional_chinese": "自由大氣",
-    "definition_cht": "指位於邊界層之上、較少直接受地表摩擦影響的大氣部分。",
+    "definition_cht": "通常指位於行星邊界層之上、較少直接受地表摩擦與地表通量控制的大氣部分，其流場較能反映大尺度動力與熱力結構，常作為探空與模式分析中的背景環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_atmosphere"
   },
   {
     "english": "free convection scaling",
-    "traditional_chinese": "free convection scaling",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free convection scaling」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由對流尺度化",
+    "definition_cht": "在浮力主導、機械剪切次要的對流邊界層中，用於描述湍流強度與特徵量之尺度分析方法；常以對流速度尺度 w*、混合層高度及表面感熱通量來表徵熱泡、上升運動與混合過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_convection_scaling"
   },
   {
     "english": "free electron",
-    "traditional_chinese": "free electron",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free electron」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由電子",
+    "definition_cht": "未束縛於特定原子、分子或晶格中的電子，可在電漿、電離層或導體中相對自由運動；其濃度與運動特性會影響電導、無線電波傳播及電磁散射。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_electron"
   },
   {
     "english": "free nappe",
-    "traditional_chinese": "free nappe",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free nappe」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由水舌",
+    "definition_cht": "水流越過堰頂、閘門或溢洪道後形成的薄層水舌，與下方結構面分離，底部保持通氣而不貼附於表面；其流態與壓力分布是堰流與水工設計的重要考量。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_nappe"
   },
   {
     "english": "free radical",
-    "traditional_chinese": "free radical",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free radical」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由基",
+    "definition_cht": "具有未成對電子、反應性高的原子、分子或分子團；在大氣化學中如 OH、HO2、NO3 等自由基可主導氧化鏈反應，影響臭氧生成、污染物轉化與氣膠形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_radical"
   },
   {
     "english": "free space",
-    "traditional_chinese": "free space",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free space」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由空間",
+    "definition_cht": "指可近似視為均勻、無邊界且不受障礙物或介質顯著影響的傳播空間；在雷達、遙測與無線電波分析中，常用以描述電磁波未受反射、折射或吸收時的理想傳播環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_space"
   },
   {
     "english": "Free streamline",
-    "traditional_chinese": "Free streamline",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「Free streamline」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由流線",
+    "definition_cht": "流體力學中構成自由邊界的流線，其一側為流體、另一側為氣體或近似靜止流體，邊界上的壓力通常受外界壓力條件控制；常見於噴流、溢流與分離流分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Free_streamline"
   },
   {
     "english": "free surface",
-    "traditional_chinese": "free surface",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free surface」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由液面",
+    "definition_cht": "液體與上方氣體或另一低密度流體相接觸的可變形邊界，在該界面上壓力通常接近外界壓力；海面、湖面、河面與明渠水面皆屬典型自由液面。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_surface"
   },
   {
     "english": "free turbulence",
-    "traditional_chinese": "free turbulence",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free turbulence」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "自由湍流",
+    "definition_cht": "指主要存在於流體內部、較少直接受固體邊界摩擦約束的湍流型態，可由浮力、速度剪切、噴流或尾流等機制造成；相較於壁面湍流，其性質較接近均勻或各向同性湍流的理想化描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/free_turbulence"
   },
   {
