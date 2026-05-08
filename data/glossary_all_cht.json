@@ -3002,49 +3002,49 @@
   {
     "english": "anticyclogenesis",
     "traditional_chinese": "反氣旋生成",
-    "definition_cht": "高壓或反氣旋環流形成、發展或增強的過程。",
+    "definition_cht": "指高壓或反氣旋環流的形成、發展或增強過程；在綜觀尺度上常與高空輻散配置、下沉運動及質量場調整有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclogenesis"
   },
   {
     "english": "anticyclolysis",
     "traditional_chinese": "反氣旋消散",
-    "definition_cht": "反氣旋或高壓系統減弱、瓦解或消失的過程。",
+    "definition_cht": "指反氣旋或高壓系統的減弱、瓦解或消失過程，亦可指反氣旋性環流強度的衰退。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclolysis"
   },
   {
     "english": "anticyclone",
     "traditional_chinese": "反氣旋",
-    "definition_cht": "圍繞高氣壓中心的閉合式大氣環流；北半球呈順時針、南半球呈逆時針旋轉，常伴隨下沉氣流與較穩定天氣。",
+    "definition_cht": "圍繞高氣壓中心的閉合式大氣環流；近地面風場在北半球呈順時針、南半球呈逆時針旋轉，常伴隨下沉運動與較穩定天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclone"
   },
   {
     "english": "anticyclonic",
     "traditional_chinese": "反氣旋性的",
-    "definition_cht": "具有反氣旋旋轉方向或與高壓環流相關性質的。",
+    "definition_cht": "指具有反氣旋旋轉方向，或與高壓環流、下沉運動等反氣旋特徵相關的性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclonic"
   },
   {
     "english": "anticyclonic circulation",
     "traditional_chinese": "反氣旋環流",
-    "definition_cht": "圍繞高壓中心的環狀流動型態，在北、南半球旋轉方向相反。",
+    "definition_cht": "圍繞高壓中心的環狀流動型態；在北半球為順時針、南半球為逆時針，常對應輻散與下沉的高壓環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclonic_circulation"
   },
   {
     "english": "anticyclonic rotation",
     "traditional_chinese": "反氣旋式旋轉",
-    "definition_cht": "與反氣旋環流一致的旋轉方向；北半球為順時針，南半球為逆時針。",
+    "definition_cht": "與反氣旋環流一致的旋轉方向；由上往下看，北半球為順時針、南半球為逆時針。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclonic_rotation"
   },
   {
     "english": "anticyclonic shear",
     "traditional_chinese": "反氣旋式切變",
-    "definition_cht": "會促使沿流線空氣質點產生反氣旋性旋轉的水平風切變；在北半球，若面向下風處時風速由左向右遞減，即屬此類切變。",
+    "definition_cht": "會促使流體質點產生反氣旋性渦度傾向的水平風切變；在北半球，若面向下風時風速由左向右遞減，通常屬此類切變。",
     "source_url": "https://glossary.ametsoc.org/wiki/anticyclonic_shear"
   },
   {
     "english": "antihail rocket",
     "traditional_chinese": "防雹火箭",
-    "definition_cht": "用於防雹人工影響天氣作業的火箭，將播雲試劑送入產雹對流雲中，以干擾冰雹形成或減輕雹害。",
+    "definition_cht": "用於人工影響天氣防雹作業的火箭，將碘化銀等播雲試劑送入產雹對流雲中，以抑制冰雹增長或減輕雹害。",
     "source_url": "https://glossary.ametsoc.org/wiki/antihail_rocket"
   },
   {
@@ -3056,19 +3056,19 @@
   {
     "english": "antilog",
     "traditional_chinese": "反對數",
-    "definition_cht": "對數運算的逆運算；已知某數的對數值時，其反對數即為對應的原數。",
+    "definition_cht": "對數運算的反函數；若 log_b(x)=y，則 x 為 y 在底數 b 下的反對數，亦即以該底數作指數運算所還原之原數。",
     "source_url": "https://glossary.ametsoc.org/wiki/antilog"
   },
   {
     "english": "Antineutron",
     "traditional_chinese": "反中子",
-    "definition_cht": "中子的反粒子，質量與中子相同、淨電荷為零，但重子數與磁矩等量子性質符號相反。",
+    "definition_cht": "中子的反粒子，質量與中子相同且淨電荷為零，但重子數與磁矩等量子性質符號相反；由一個反上夸克與兩個反下夸克組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antineutron"
   },
   {
     "english": "Antiparticle",
     "traditional_chinese": "反粒子",
-    "definition_cht": "與對應粒子質量相同，且電荷、重子數、磁矩等相關量子數符號相反的粒子；部分中性粒子可為自身的反粒子。",
+    "definition_cht": "與對應粒子具有相同質量與自旋，但電荷、重子數、輕子數或磁矩等量子數符號相反的粒子；粒子與反粒子相遇時可發生湮滅。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antiparticle"
   },
   {
@@ -3080,43 +3080,43 @@
   {
     "english": "antiproton",
     "traditional_chinese": "反質子",
-    "definition_cht": "質子的反粒子，質量與質子相同，帶一單位負電荷，且磁矩方向與其他相關量子數與質子相反。",
+    "definition_cht": "質子的反粒子，質量與質子相同，帶一單位負電荷，並具有相反的重子數與磁矩等量子性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/antiproton"
   },
   {
     "english": "antisolar point",
     "traditional_chinese": "反日點",
-    "definition_cht": "天球上自觀測者位置看去與太陽方向正相反的點，位於通過太陽與觀測者連線的延長方向上，為彩虹、曙暮光等光象的重要幾何基準。",
+    "definition_cht": "天球上相對於太陽方向正對的點，位於觀測者—太陽連線的反向延長上，為彩虹、反曙暮光束及多種大氣光象的重要幾何基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/antisolar_point"
   },
   {
     "english": "antitrades",
     "traditional_chinese": "反信風",
-    "definition_cht": "位於信風上方、與信風方向相反的高空氣流，傳統上指熱帶上空由赤道向較高緯輸送的回流，屬哈德里環流上層分支。",
+    "definition_cht": "位於低層信風上方、與其流向相反的高空回流，傳統上指南北半球熱帶上空由赤道向副熱帶輸送的西風性氣流，屬哈德里環流上層分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/antitrades"
   },
   {
     "english": "antitwilight arch",
     "traditional_chinese": "反曙暮光弧",
-    "definition_cht": "曙暮光時出現在反太陽方向地平線上方的狹長粉紅或淡紫色光帶，又稱金星帶，通常位於地球影上方。",
+    "definition_cht": "曙暮光時出現在反太陽方向地平線上方的狹長粉紅或淡紫色光帶，通常位於地球影上方，常即所稱的金星帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/antitwilight_arch"
   },
   {
     "english": "Anvil",
     "traditional_chinese": "砧狀雲頂",
-    "definition_cht": "雷暴積雨雲上部在接近對流層頂後受穩定層抑制而向外平展形成的砧狀頂部。",
+    "definition_cht": "積雨雲上部對流發展至對流層頂附近，受穩定層抑制而向外水平展開所形成的砧狀頂部，為成熟雷暴的重要特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Anvil"
   },
   {
     "english": "anvil cloud",
     "traditional_chinese": "砧狀雲",
-    "definition_cht": "成熟積雨雲上部向外擴展形成的砧形雲體，主要由冰晶組成，常對應 cumulonimbus capillatus 的上層雲區。",
+    "definition_cht": "成熟積雨雲上部在接近對流層頂後向外平展形成的砧形雲體，主要由冰晶組成，常對應 cumulonimbus incus 或 cumulonimbus capillatus 的上層區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/anvil_cloud"
   },
   {
     "english": "AP",
-    "traditional_chinese": "異常傳播假回波",
-    "definition_cht": "anomalous propagation 的縮寫。指雷達波因溫度逆增等造成超折射或其他異常折射，導致地物或非降水目標被誤顯示為降水回波的現象。",
+    "traditional_chinese": "異常傳播（AP）",
+    "definition_cht": "AP 為 anomalous propagation 的縮寫，指雷達波或其他電波因大氣中溫、濕度垂直分布異常而發生超折射、次折射或導波傳播等現象；在天氣雷達上常導致地物或遠距非降水目標被誤判為降水回波。",
     "source_url": "https://glossary.ametsoc.org/wiki/AP"
   },
   {
