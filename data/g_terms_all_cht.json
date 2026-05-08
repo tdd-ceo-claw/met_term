@@ -1136,121 +1136,121 @@
   {
     "english": "GOES Variable",
     "traditional_chinese": "GOES變數",
-    "definition_cht": "指與「GOES變數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指由 GOES（地球同步作業環境衛星）觀測資料直接量得或進一步反演出的氣象變數與產品參數，例如雲頂溫度、反照率、風向風速、水氣分布或相關派生場。",
     "source_url": "https://glossary.ametsoc.org/wiki/GOES_Variable"
   },
   {
     "english": "GOES-R",
-    "traditional_chinese": "GOES-R",
-    "definition_cht": "「GOES-R」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "GOES-R系列",
+    "definition_cht": "美國 NOAA／NASA 新一代地球同步作業環境衛星系列之總稱，包含 GOES-16 至 GOES-19 等衛星；其酬載如 ABI 與 GLM 可提供高時空解析度的雲、輻射、閃電與環境監測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/GOES-R"
   },
   {
     "english": "Gold slide",
-    "traditional_chinese": "金色滑梯",
-    "definition_cht": "指與「金色滑梯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "Gold滑尺",
+    "definition_cht": "英國船舶氣象作業曾使用的一種滑尺，用於計算氣壓計讀值修正並將觀測氣壓折算為海平面氣壓，通常同時考慮溫度、緯度、儀器誤差與測站高度等因素。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gold_slide"
   },
   {
     "english": "goldbeater's skin hygrometer",
-    "traditional_chinese": "Goldbeater 皮膚濕度計",
-    "definition_cht": "用於量測「Goldbeater 皮膚濕度計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "金箔匠膜濕度計",
+    "definition_cht": "以 goldbeater's skin（傳統金箔加工所用之薄膜）作為感濕元件的濕度計；此膜會隨空氣濕度變化而伸縮，據以指示大氣水氣含量或相對濕度。",
     "source_url": "https://glossary.ametsoc.org/wiki/goldbeater%27s_skin_hygrometer"
   },
   {
     "english": "golfada",
-    "traditional_chinese": "高爾夫達",
-    "definition_cht": "指與「高爾夫達」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高爾法達",
+    "definition_cht": "西班牙語來源的罕用風名，指地中海一帶的強烈風暴或暴風天氣；屬區域性、歷史性用語，現代氣象作業中已不常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/golfada"
   },
   {
     "english": "GOMS",
-    "traditional_chinese": "GOMS",
-    "definition_cht": "「GOMS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "地球同步作業氣象衛星",
+    "definition_cht": "Geostationary Operational Meteorological Satellite 的縮寫，通常指俄羅斯的地球同步作業氣象衛星系統（亦稱 Elektro／Electro），設計用於監測中亞、印度洋等區域的雲系與天氣變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/GOMS"
   },
   {
     "english": "goniometer",
-    "traditional_chinese": "測角器",
-    "definition_cht": "用於量測「測角器」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "測角儀",
+    "definition_cht": "用於量測幾何角度的儀器；在雷達或無線電測向等氣象相關應用中，可用以測定回波或訊號的方位角、仰角等方向資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/goniometer"
   },
   {
     "english": "goodness of fit",
     "traditional_chinese": "擬合優度",
-    "definition_cht": "指與「擬合優度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "衡量統計模型、回歸函數或理論分布與觀測資料吻合程度的指標；在氣象統計中常以殘差大小、殘差變異或檢定統計量來評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/goodness_of_fit"
   },
   {
     "english": "gorge wind",
     "traditional_chinese": "峽谷風",
-    "definition_cht": "指與「峽谷風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "definition_cht": "吹經峽谷、山口或狹窄河谷地形的通道風，屬於缺口風或谷風的一種；受地形收束影響，風速常較周圍開闊地區為強。",
     "source_url": "https://glossary.ametsoc.org/wiki/gorge_wind"
   },
   {
     "english": "gosling blast",
-    "traditional_chinese": "小鵝爆發",
-    "definition_cht": "指與「小鵝爆發」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "gosling blast",
+    "definition_cht": "英國方言中的罕用天氣名詞，亦稱 gosling storm，指持續時間短、突發性的雨或雨夾雪陣風（squall）。",
     "source_url": "https://glossary.ametsoc.org/wiki/gosling_blast"
   },
   {
     "english": "gowk storm",
-    "traditional_chinese": "古克風暴",
-    "definition_cht": "指與「古克風暴」相關的風暴、擾動系統或劇烈天氣現象。",
+    "traditional_chinese": "gowk storm",
+    "definition_cht": "英國與蘇格蘭地區的傳統天氣名稱，指約在 4 月底至 5 月初出現的一次風暴或強風天氣；gowk 原為布穀鳥的方言稱呼。",
     "source_url": "https://glossary.ametsoc.org/wiki/gowk_storm"
   },
   {
     "english": "GPS",
     "traditional_chinese": "全球定位系統",
-    "definition_cht": "「GPS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "definition_cht": "Global Positioning System 的縮寫，為以衛星提供定位、導航與授時的全球導航系統；在氣象上亦廣泛用於探空、觀測平台定位，以及 GNSS 遙測反演可降水量與大氣折射資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/GPS"
   },
   {
     "english": "grab sampling",
-    "traditional_chinese": "抓樣",
-    "definition_cht": "指與「抓樣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "瞬時採樣",
+    "definition_cht": "在特定時間點迅速採集單一空氣、水體或其他環境樣本的方法；相對於整合式或複合式採樣，著重取得當下狀態的代表性樣本。",
     "source_url": "https://glossary.ametsoc.org/wiki/grab_sampling"
   },
   {
     "english": "gradex method",
-    "traditional_chinese": "等級法",
-    "definition_cht": "指處理「等級法」相關問題的分析、估算、分類、反演或推算方法。",
+    "traditional_chinese": "GRADEX法",
+    "definition_cht": "水文極端值推估方法，以降雨深度的頻率分布替代洪水流量的頻率分布，並假設在高重現期條件下，流域蓄存與時空分配差異的影響相對次要，用於估算設計洪水。",
     "source_url": "https://glossary.ametsoc.org/wiki/gradex_method"
   },
   {
     "english": "gradient",
     "traditional_chinese": "梯度",
-    "definition_cht": "指與「梯度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指某物理量在空間中的變化率與最大增加方向；在氣象上常用於表示氣壓、溫度、濕度或位勢高度等場的空間變化強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/gradient"
   },
   {
     "english": "gradient current",
     "traditional_chinese": "梯度流",
-    "definition_cht": "指與「梯度流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "definition_cht": "海洋學中指由水平壓力梯度力與地球自轉所致科氏力達成平衡而形成的海流，通常用於描述大尺度、近於地轉平衡的曲線流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/gradient_current"
   },
   {
     "english": "gradient flow",
     "traditional_chinese": "梯度流",
-    "definition_cht": "指與「梯度流」相關的流動型態、平均流場或輸送結構。",
+    "definition_cht": "在曲線等壓線或等位勢高度線附近，壓力梯度力、科氏力與離心力三者達成平衡時的流動型態；為地轉流在曲率不可忽略情況下的延伸概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/gradient_flow"
   },
   {
     "english": "gradient Richardson number",
     "traditional_chinese": "梯度理查森數",
-    "definition_cht": "以浮力穩定效應與垂直風切強度之比值衡量層結穩定度與亂流生成傾向的無因次參數。",
+    "definition_cht": "以浮力對亂流的抑制或促進作用，相對於垂直風切所產生亂流的能力，所定義的無因次比值；常用來判定大氣層結穩定度與亂流發生條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/gradient_Richardson_number"
   },
   {
     "english": "gradient transport theory",
     "traditional_chinese": "梯度輸運理論",
-    "definition_cht": "指與「梯度輸運理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "一種將亂流通量參數化為平均量梯度與渦流擴散係數乘積的理論，假設熱量、動量或污染物大致沿濃度或速度梯度的反方向輸運；亦常稱 K 理論或渦黏性理論。",
     "source_url": "https://glossary.ametsoc.org/wiki/gradient_transport_theory"
   },
   {
     "english": "Gradient wind",
-    "traditional_chinese": "漸層風",
-    "definition_cht": "指與「漸層風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "traditional_chinese": "梯度風",
+    "definition_cht": "沿彎曲等壓線吹送，且壓力梯度力、科氏力與離心力彼此平衡時的理想化風；其風速會隨氣壓場曲率及高低壓型態而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gradient_wind"
   },
   {
