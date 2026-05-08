@@ -21632,121 +21632,121 @@
   {
     "english": "geostrophic balance",
     "traditional_chinese": "地轉平衡",
-    "definition_cht": "指與「地轉平衡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指在大尺度且近穩定的流場中，水平氣壓梯度力（或海洋中的壓力梯度力）與科氏力近乎互相平衡的狀態；此時流動大致平行於等壓線或等位勢高度線。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_balance"
   },
   {
     "english": "geostrophic coordinates",
     "traditional_chinese": "地轉座標",
-    "definition_cht": "指表示「地轉座標」相關位置、方向或空間基準的座標系統。",
+    "definition_cht": "半地轉方程中使用的座標系，將實際空間座標依地轉風分量作轉換，以便更簡潔地描述大尺度平衡流與相關前生成過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_coordinates"
   },
   {
     "english": "geostrophic current",
     "traditional_chinese": "地轉流",
-    "definition_cht": "指與「地轉流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "definition_cht": "海洋中由水平壓力梯度力與科氏力近乎平衡所形成的流動；其流向大致平行等壓線或等動位勢面，北半球高壓在流向右側、南半球則在左側。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_current"
   },
   {
     "english": "geostrophic departure",
-    "traditional_chinese": "地轉偏離",
-    "definition_cht": "指與「地轉偏離」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地轉偏差",
+    "definition_cht": "實際風與地轉風之間的向量差，亦可視為非地轉風；在邊界層中常因地表摩擦、曲率或加速度作用而出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_departure"
   },
   {
     "english": "geostrophic deviation",
     "traditional_chinese": "地轉偏差",
-    "definition_cht": "指與「地轉偏差」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "實際風相對於地轉風的偏離量，通常指兩者的向量差；此項偏差即非地轉風，常與摩擦、曲流及局地加減速有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_deviation"
   },
   {
     "english": "geostrophic dividers",
-    "traditional_chinese": "地轉分隔線",
-    "definition_cht": "指與「地轉分隔線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地轉風分規",
+    "definition_cht": "依據地轉風尺原理設計的圖解工具，用於在天氣圖上根據等壓線（或等高線）間距估算地轉風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_dividers"
   },
   {
     "english": "geostrophic drag coefficient",
     "traditional_chinese": "地轉阻力係數",
-    "definition_cht": "表示「地轉阻力係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。",
+    "definition_cht": "邊界層地轉阻力定律中的無因次係數，通常表示摩擦速度與地轉風速之比，用以描述地表摩擦對大氣邊界層流場的制約程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_drag_coefficient"
   },
   {
     "english": "geostrophic equilibrium",
     "traditional_chinese": "地轉平衡",
-    "definition_cht": "指與「地轉平衡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "與地轉平衡同義，指流場中水平壓力梯度力與科氏力互相平衡的狀態；在中高緯自由大氣與大尺度海洋流動中常作為重要近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_equilibrium"
   },
   {
     "english": "geostrophic flow",
     "traditional_chinese": "地轉流",
-    "definition_cht": "指與「地轉流」相關的流動型態、平均流場或輸送結構。",
+    "definition_cht": "由科氏力恰與水平壓力梯度力平衡所對應的理想流動，可指大氣中的地轉風或海洋中的地轉流，流向通常平行於等壓線。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_flow"
   },
   {
     "english": "geostrophic flux",
     "traditional_chinese": "地轉通量",
-    "definition_cht": "指單位時間穿過單位面積之「地轉通量」通量，用以量化能量、質量或動量傳輸。",
+    "definition_cht": "由地轉風所造成的某種大氣性質（如熱量、水氣、動量或渦度）的輸送通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_flux"
   },
   {
     "english": "geostrophic momentum approximation",
-    "traditional_chinese": "地轉量近似",
-    "definition_cht": "用於處理「地轉量近似」相關問題的近似假設，以保留主要物理機制並簡化數學描述。",
+    "traditional_chinese": "地轉動量近似",
+    "definition_cht": "在準地轉或相關動力理論中，以地轉風對應的動量近似實際動量的簡化假設，常與定值科氏參數等近似一併使用，以保留主要大尺度動力機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_momentum_approximation"
   },
   {
     "english": "geostrophic vorticity",
     "traditional_chinese": "地轉渦度",
-    "definition_cht": "指與「地轉渦度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "由地轉風場計算得到的渦度，常用於準地轉分析，以描述大尺度旋轉特徵及其平流、發展與垂直運動關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_vorticity"
   },
   {
     "english": "geostrophic wind",
     "traditional_chinese": "地轉風",
-    "definition_cht": "在科氏力與氣壓梯度力達近似平衡時所形成、平行等壓線吹送的理想風，是中高緯大尺度流場分析的重要近似。",
+    "definition_cht": "在水平氣壓梯度力與科氏力精確平衡、且可忽略摩擦與曲率效應時所對應的理想水平風，方向平行等壓線（或等位勢高度線），為中高緯大尺度分析的重要近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_wind"
   },
   {
     "english": "geostrophic wind level",
-    "traditional_chinese": "地轉風級",
-    "definition_cht": "指與「地轉風級」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "traditional_chinese": "地轉風層",
+    "definition_cht": "在艾克曼螺旋理論中，風場自近地摩擦層上升後趨近地轉風的最低高度；實務上常約位於離地 1 至 2 公里，近似代表地表摩擦影響的上界。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_wind_level"
   },
   {
     "english": "geostrophic wind scale",
-    "traditional_chinese": "地轉風級",
-    "definition_cht": "指與「地轉風級」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "traditional_chinese": "地轉風尺",
+    "definition_cht": "根據緯度與等壓線（或等高線）間距，圖解求取地轉風速的尺規或刻度工具，常用於天氣圖分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_wind_scale"
   },
   {
     "english": "geosynchronous satellite",
     "traditional_chinese": "地球同步衛星",
-    "definition_cht": "指與「地球同步衛星」相關的人造衛星、衛星任務或其觀測平台。",
+    "definition_cht": "運行週期與地球自轉週期相同的人造衛星；其在天空中的相對位置每日重複，若軌道同時為赤道圓軌道，則成為地球靜止衛星。",
     "source_url": "https://glossary.ametsoc.org/wiki/geosynchronous_satellite"
   },
   {
     "english": "geothermometer",
-    "traditional_chinese": "地溫計",
-    "definition_cht": "用於量測「地溫計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "地熱溫標",
+    "definition_cht": "用於推估地下或地熱流體形成溫度的指標或方法，常依礦物平衡關係或流體化學成分來估算地熱儲集層溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/geothermometer"
   },
   {
     "english": "GERB",
-    "traditional_chinese": "胃食道逆流症",
-    "definition_cht": "「GERB」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "地球同步地球輻射收支儀",
+    "definition_cht": "Geostationary Earth Radiation Budget 的縮寫，為搭載於 Meteosat Second Generation 衛星上的儀器，用來連續量測地球反照短波與外逸長波輻射，以研究地球輻射收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/GERB"
   },
   {
     "english": "Gerdien aspirator",
-    "traditional_chinese": "Gerdien 吸氣器",
-    "definition_cht": "指與「Gerdien 吸氣器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "格迪恩吸氣式電導儀",
+    "definition_cht": "用於測定大氣電導率的儀器，藉由吸入空氣並量測離子在電場中的收集電流，推估空氣中離子濃度與導電特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gerdien_aspirator"
   },
   {
     "english": "Gerstner wave",
-    "traditional_chinese": "郭士納波",
-    "definition_cht": "指與「郭士納波」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "traditional_chinese": "格斯特納波",
+    "definition_cht": "有限振幅的旋轉重力波，也是均質不可壓縮流體自由表面運動方程的一組精確解；其粒子軌跡可呈近似圓形或旋輪線型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gerstner_wave"
   },
   {
