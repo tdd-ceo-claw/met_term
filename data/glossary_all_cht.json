@@ -22951,122 +22951,122 @@
   },
   {
     "english": "Gulf Stream rings",
-    "traditional_chinese": "灣流環",
-    "definition_cht": "指與「灣流環」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "灣流環流渦",
+    "definition_cht": "由灣流大振幅蛇行切離後形成的中尺度環流渦旋，常分為暖核環與冷核環，能攜帶與周圍海域性質不同的水團向外傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gulf_Stream_rings"
   },
   {
     "english": "Gulf Stream System",
     "traditional_chinese": "灣流系統",
-    "definition_cht": "指與「灣流系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指北大西洋中以灣流為核心，連同其延伸流、回流、分支流與相關中尺度渦旋所構成的整體海流系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gulf_Stream_System"
   },
   {
     "english": "gully-squall",
-    "traditional_chinese": "溝壑",
-    "definition_cht": "指與「溝壑」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "山溝颮",
+    "definition_cht": "受地形峽谷、山溝或谷地通道效應增強而形成的突發強陣風或猛烈颮線型風，常使局地風速在短時間內急劇升高。",
     "source_url": "https://glossary.ametsoc.org/wiki/gully-squall"
   },
   {
     "english": "gust",
     "traditional_chinese": "陣風",
-    "definition_cht": "在短時間內風速顯著增強的瞬時強風，通常用以描述相對於平均風之快速脈動。",
+    "definition_cht": "在極短時間內相對於平均風速顯著增強的瞬時強風，通常持續數秒，反映近地層亂流或對流外流造成的快速風速脈動。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust"
   },
   {
     "english": "gust amplitude",
-    "traditional_chinese": "陣風幅度",
-    "definition_cht": "指與「陣風幅度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "陣風振幅",
+    "definition_cht": "單次陣風事件中，瞬時最大風速相對於背景平均風速的增量，用以表示該陣風的強弱幅度。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_amplitude"
   },
   {
     "english": "gust decay time",
     "traditional_chinese": "陣風衰減時間",
-    "definition_cht": "指與「陣風衰減時間」相關的時間尺度、時制或地質年代概念。",
+    "definition_cht": "陣風達到峰值後，風速由峰值回降至背景值或接近背景值所需的時間尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_decay_time"
   },
   {
     "english": "gust duration",
     "traditional_chinese": "陣風持續時間",
-    "definition_cht": "指與「陣風持續時間」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "單次陣風自風速開始明顯升高至恢復接近背景風速之間的持續時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_duration"
   },
   {
     "english": "gust formation time",
     "traditional_chinese": "陣風形成時間",
-    "definition_cht": "指與「陣風形成時間」相關的時間尺度、時制或地質年代概念。",
+    "definition_cht": "陣風由背景平均風速開始增強並發展至峰值所需的時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_formation_time"
   },
   {
     "english": "gust frequency",
     "traditional_chinese": "陣風頻率",
-    "definition_cht": "指與「陣風頻率」相關的頻率特性、振盪速率或波動尺度指標。",
+    "definition_cht": "單位時間內出現陣風事件的次數，用以描述風速短期脈動發生的疏密程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_frequency"
   },
   {
     "english": "gust frequency interval",
-    "traditional_chinese": "陣風頻率間隔",
-    "definition_cht": "指與「陣風頻率間隔」相關的頻率特性、振盪速率或波動尺度指標。",
+    "traditional_chinese": "陣風間隔",
+    "definition_cht": "相鄰兩次陣風事件之間的時間間隔，通常可視為陣風頻率的倒數表徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_frequency_interval"
   },
   {
     "english": "gust front",
     "traditional_chinese": "陣風鋒",
-    "definition_cht": "雷暴下沉冷空氣向外擴散時所形成的近地面密度鋒，可觸發新對流並伴隨風向、風速與溫度突變。",
+    "definition_cht": "雷暴下沉冷空氣向外擴散時形成的近地面密度鋒，其通過常伴隨風向、風速、溫度與氣壓的突變，並可觸發新對流。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_front"
   },
   {
     "english": "gust load",
-    "traditional_chinese": "陣風載重",
-    "definition_cht": "指與「陣風載重」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "陣風載荷",
+    "definition_cht": "結構物、航空器或其他受風體因突發陣風作用而承受的附加瞬時氣動載重。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_load"
   },
   {
     "english": "gust peak speed",
-    "traditional_chinese": "陣風峰值速度",
-    "definition_cht": "指與「陣風峰值速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "陣風峰值風速",
+    "definition_cht": "單次陣風事件中所測得的最大瞬時風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_peak_speed"
   },
   {
     "english": "gust probe",
-    "traditional_chinese": "陣風探頭",
-    "definition_cht": "指與「陣風探頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "陣風探測器",
+    "definition_cht": "用於量測陣風擾動、瞬時風速變化或亂流風分量的感測裝置；可裝設於地面觀測系統或航空器上。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_probe"
   },
   {
     "english": "gust vector",
     "traditional_chinese": "陣風向量",
-    "definition_cht": "指與「陣風向量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "以向量形式表示的陣風風速擾動，包含其大小與方向，通常相對於背景平均風場定義。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust_vector"
   },
   {
     "english": "gust-gradient distance",
     "traditional_chinese": "陣風梯度距離",
-    "definition_cht": "指與「陣風梯度距離」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "風速由背景值變化至陣風峰值，或跨越陣風邊界時產生顯著風速梯度所對應的空間距離。",
     "source_url": "https://glossary.ametsoc.org/wiki/gust-gradient_distance"
   },
   {
     "english": "gustiness",
-    "traditional_chinese": "味覺",
-    "definition_cht": "指與「味覺」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "陣風性",
+    "definition_cht": "指風速在短時間尺度上呈現忽強忽弱的脈動特性，常用以描述近地層亂流造成的風速不穩定程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/gustiness"
   },
   {
     "english": "gustiness components",
-    "traditional_chinese": "味覺成分",
-    "definition_cht": "指與「味覺成分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "陣風分量",
+    "definition_cht": "將陣風擾動依座標方向分解後所得的各分量，例如順風、側風與垂直方向的瞬時風速擾動分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/gustiness_components"
   },
   {
     "english": "gustiness factor",
-    "traditional_chinese": "味覺係數",
-    "definition_cht": "指與「味覺係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "陣風因子",
+    "definition_cht": "表示陣風性強弱的係數，常以最大陣風與某一平均風速的比值或相關無因次參數表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/gustiness_factor"
   },
   {
     "english": "gustnado",
     "traditional_chinese": "陣風龍捲",
-    "definition_cht": "沿陣風鋒或下擊暴流邊界生成之淺層短生命旋轉渦柱，雖外觀近似龍捲，但成因與母體環流不同。",
+    "definition_cht": "沿陣風鋒或下擊暴流外流邊界發展的淺層短生命旋轉渦柱，外觀近似龍捲，但通常不與積雨雲中尺度旋轉上升氣流直接相連。",
     "source_url": "https://glossary.ametsoc.org/wiki/gustnado"
   },
   {
