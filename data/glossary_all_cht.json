@@ -21392,121 +21392,121 @@
   {
     "english": "geodesy",
     "traditional_chinese": "大地測量學",
-    "definition_cht": "研究地球形狀、重力場、參考系與精密定位測量的學科。",
+    "definition_cht": "研究地球形狀、大小、重力場、自轉與空間參考框架的學科，並據以進行精密定位、測量與地表點位推算。",
     "source_url": "https://glossary.ametsoc.org/wiki/geodesy"
   },
   {
     "english": "Geodetic Satellite",
     "traditional_chinese": "大地測量衛星",
-    "definition_cht": "指與「大地測量衛星」相關的人造衛星、衛星任務或其觀測平台。",
+    "definition_cht": "專供大地測量使用的人造衛星，藉由追蹤其軌道、距離或訊號觀測地球形狀、重力場、板塊運動與定位基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/Geodetic_Satellite"
   },
   {
     "english": "geographic effect on winds",
-    "traditional_chinese": "地理對風的影響",
-    "definition_cht": "指與「地理對風的影響」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "traditional_chinese": "地理條件對風的影響",
+    "definition_cht": "地形、海陸分布、緯度與地表粗糙度等地理條件對風向、風速及局地風系所造成的改變與調制作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/geographic_effect_on_winds"
   },
   {
     "english": "geographically possible sunshine duration",
-    "traditional_chinese": "地理上可能的日照時長",
-    "definition_cht": "以圖形方式呈現「地理上可能的日照時長」相關量值變化、對應關係或分類結果的圖表。",
+    "traditional_chinese": "地理上可能日照時數",
+    "definition_cht": "某地依其緯度、季節及地形遮蔽條件，在無雲等理想情況下理論上可能出現的最長日照時數。",
     "source_url": "https://glossary.ametsoc.org/wiki/geographically_possible_sunshine_duration"
   },
   {
     "english": "geoid",
     "traditional_chinese": "大地水準面",
-    "definition_cht": "指與「大地水準面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "在僅受地球重力與自轉影響、忽略風浪與潮汐時與平均海面大致一致，並可延伸穿過陸地的重力等位面，常用作高程基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/geoid"
   },
   {
     "english": "geologic age",
-    "traditional_chinese": "地質時代",
-    "definition_cht": "指與「地質時代」相關的年代、地質期或發展階段。",
+    "traditional_chinese": "地質年齡",
+    "definition_cht": "地質時間尺度中的一個年代單位，通常為「世」之下的細分，用來表示某地層或事件所屬的較小時間區間。",
     "source_url": "https://glossary.ametsoc.org/wiki/geologic_age"
   },
   {
     "english": "geologic epoch",
-    "traditional_chinese": "地質時代",
-    "definition_cht": "指與「地質時代」相關的年代分期、時段或地質時代單位。",
+    "traditional_chinese": "地質世",
+    "definition_cht": "地質時間尺度中的一級單位，位於「紀」之下、「期」之上，用以劃分某一紀內較短的地質時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/geologic_epoch"
   },
   {
     "english": "geologic era",
-    "traditional_chinese": "地質時代",
-    "definition_cht": "指與「地質時代」相關的較長時間分期、地質代或歷史階段。",
+    "traditional_chinese": "地質代",
+    "definition_cht": "地質時間尺度中的一級大型單位，位於「宙」之下、「紀」之上，用以劃分地球歷史中的主要發展階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/geologic_era"
   },
   {
     "english": "geologic period",
-    "traditional_chinese": "地質時期",
-    "definition_cht": "指與「地質時期」相關、以特定時間尺度界定的氣候期、週期或統計時段。",
+    "traditional_chinese": "地質紀",
+    "definition_cht": "地質時間尺度中的一級單位，位於「代」之下、「世」之上，用以劃分具有代表性地層與生物演化特徵的時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/geologic_period"
   },
   {
     "english": "geologic time",
-    "traditional_chinese": "地質年代",
-    "definition_cht": "指與「地質年代」相關的時間尺度、時制或地質年代概念。",
+    "traditional_chinese": "地質時間",
+    "definition_cht": "指地球自形成以來的整體歷史時間尺度，通常依岩層、化石與定年資料劃分為宙、代、紀、世、期等單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/geologic_time"
   },
   {
     "english": "geomagnetic coordinates",
     "traditional_chinese": "地磁座標",
-    "definition_cht": "指表示「地磁座標」相關位置、方向或空間基準的座標系統。",
+    "definition_cht": "以地磁軸或近似偶極地磁場為基準建立的位置座標系，用於描述地球周圍的電離層、磁層及極光等空間地球物理現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_coordinates"
   },
   {
     "english": "geomagnetic equator",
     "traditional_chinese": "地磁赤道",
-    "definition_cht": "指與「地磁赤道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "地球表面上磁傾角為零的連線，約對應於偶極地磁場的磁赤道，為劃分南北地磁緯度的重要基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_equator"
   },
   {
     "english": "geomagnetic latitude",
     "traditional_chinese": "地磁緯度",
-    "definition_cht": "指與「地磁緯度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "相對於地磁赤道或地磁軸所定義的緯度，用於表示某地在地磁座標系中的南北位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_latitude"
   },
   {
     "english": "geomagnetic meridian",
     "traditional_chinese": "地磁子午線",
-    "definition_cht": "指與「地磁子午線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "通過觀測點並包含地磁軸或地磁極的子午面，其與地表的交線稱為地磁子午線，常作描述地磁方向的參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_meridian"
   },
   {
     "english": "geomagnetic pole",
     "traditional_chinese": "地磁極",
-    "definition_cht": "指與「地磁極」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "若將地球主磁場近似為位於地心的偶極磁場，則其磁軸與地表相交的兩點稱為地磁極，與實際觀測的磁極位置並不完全相同。",
     "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_pole"
   },
   {
     "english": "geomagnetism",
     "traditional_chinese": "地磁學",
-    "definition_cht": "指與「地磁學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "研究地球磁場的來源、結構、時空變化及其與電離層、磁層和太陽活動交互作用的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/geomagnetism"
   },
   {
     "english": "geometric mean",
     "traditional_chinese": "幾何平均數",
-    "definition_cht": "指「幾何平均數」所代表之平均量、統計均值或代表性平均狀態。",
+    "definition_cht": "n 個正數乘積的 n 次方根；適用於平均比率、成長倍數或跨數量級變化的資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/geometric_mean"
   },
   {
     "english": "geometric optics",
     "traditional_chinese": "幾何光學",
-    "definition_cht": "指與「幾何光學」相關的光學理論、光路特性或輻射傳播現象。",
+    "definition_cht": "將光視為沿光線直線傳播並研究其反射、折射與成像規律的光學理論，適用於波長相對系統尺度可忽略的情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/geometric_optics"
   },
   {
     "english": "geomorphology",
     "traditional_chinese": "地形學",
-    "definition_cht": "指與「地形學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "研究地表地形與地貌的形態、分布、成因及其演變過程的學科，常結合構造、侵蝕、搬運與堆積作用進行分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/geomorphology"
   },
   {
     "english": "geophysical day",
     "traditional_chinese": "地球物理日",
-    "definition_cht": "指與「地球物理日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "地球物理觀測與資料整理常用的一日時間單位，通常指自世界時 0000 起算的 24 小時間隔。",
     "source_url": "https://glossary.ametsoc.org/wiki/geophysical_day"
   },
   {
