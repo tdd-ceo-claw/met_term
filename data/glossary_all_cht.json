@@ -19129,8 +19129,8 @@
   },
   {
     "english": "flaw",
-    "traditional_chinese": "裂隙開口；瑕疵",
-    "definition_cht": "在海冰語境中常指沿岸冰層與外海浮冰間形成的狹長開水帶或裂隙；廣義上亦指資料、樣本或結構中的缺陷。",
+    "traditional_chinese": "冰隙水道；缺陷",
+    "definition_cht": "在海冰用語中，指沿岸固定冰與外側浮冰之間形成的狹長開水帶或裂隙水道；在一般語境下亦可指資料、樣本或結構上的缺陷。",
     "source_url": "https://glossary.ametsoc.org/wiki/flaw"
   },
   {
@@ -19148,7 +19148,7 @@
   {
     "english": "flight documentation",
     "traditional_chinese": "飛航文件",
-    "definition_cht": "航空作業前提供飛行員與航管使用的文件總稱，內容可含天氣圖、預報、航路資訊、通告與燃油計畫。",
+    "definition_cht": "供飛航作業使用的書面或圖表資料總稱，可包括天氣圖、預報、航路與機場資訊、航行通告及其他飛行準備文件。",
     "source_url": "https://glossary.ametsoc.org/wiki/flight_documentation"
   },
   {
@@ -19172,7 +19172,7 @@
   {
     "english": "flight level",
     "traditional_chinese": "飛航空層",
-    "definition_cht": "以標準氣壓面為基準表示之航空器飛行高度層級，通常以百英尺為單位編碼，供航路高度分隔使用。",
+    "definition_cht": "以 1013.25 百帕標準氣壓面為基準所定義的等壓高度層，通常以百英尺為編號單位表示，供航空器巡航與垂直間隔使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/flight_level"
   },
   {
@@ -19183,8 +19183,8 @@
   },
   {
     "english": "flight train",
-    "traditional_chinese": "串列飛行器系統",
-    "definition_cht": "由多個彼此連接或序列排列的探測載具、感測器或氣球組成之觀測配置，用於取得大氣剖面或拖曳式量測資料。",
+    "traditional_chinese": "氣球儀器懸掛列",
+    "definition_cht": "指繫掛於自由氣球下方、由降落傘、探空儀、反射器或其他感測器依序組成的懸掛系統，用於高空或大氣剖面觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/flight_train"
   },
   {
@@ -19195,8 +19195,8 @@
   },
   {
     "english": "float barograph",
-    "traditional_chinese": "浮子式氣壓計",
-    "definition_cht": "利用浮子受液面或壓力變化帶動記錄機構，以連續記錄氣壓變動的自記式氣壓儀。",
+    "traditional_chinese": "浮筒式氣壓記錄器",
+    "definition_cht": "利用液體槽內浮筒隨氣壓變化而升降，並經機械裝置連續描記氣壓變動的自記式氣壓儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/float_barograph"
   },
   {
@@ -19219,14 +19219,14 @@
   },
   {
     "english": "floccus",
-    "traditional_chinese": "絮狀雲塊",
-    "definition_cht": "雲屬或附屬特徵中的絮狀小雲塊，底部常呈破碎或鋸齒狀，多見於中高雲並反映局部對流或不穩定。",
+    "traditional_chinese": "絮狀",
+    "definition_cht": "雲種特徵之一，指呈一簇簇絮團或羊毛狀的小雲塊，常具有破碎下緣；可見於卷積雲、高積雲或層積雲，通常反映局部不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/floccus"
   },
   {
     "english": "floe",
     "traditional_chinese": "浮冰片",
-    "definition_cht": "由海冰破裂形成、可在水面漂移的片狀冰體，尺度可由數公尺至數公里不等。",
+    "definition_cht": "由海冰破裂後形成、可在海面漂移的片狀冰體，尺度可由數公尺至數公里以上不等，常為浮冰區的基本組成單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/floe"
   },
   {
