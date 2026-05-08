@@ -18872,121 +18872,121 @@
   {
     "english": "finite-difference equation",
     "traditional_chinese": "有限差分方程",
-    "definition_cht": "將微分方程離散化後，以格點值與差分運算表示的方程形式，用於數值模式求解。",
+    "definition_cht": "將連續微分方程以格點函數值與差分算子離散化後所得的代數方程，用於數值天氣預報、海洋模式與其他數值模擬的計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/finite-difference_equation"
   },
   {
     "english": "finite-element model",
     "traditional_chinese": "有限元素模式",
-    "definition_cht": "以有限元素法離散空間域並求解控制方程的數值模型，對複雜邊界與不規則地形具有良好適應性。",
+    "definition_cht": "以有限元素法將空間域劃分為多個元素，並在各元素上近似求解控制方程的數值模式；對複雜邊界、不規則地形與非均勻網格具有良好適應性。",
     "source_url": "https://glossary.ametsoc.org/wiki/finite-element_model"
   },
   {
     "english": "fire behavior",
     "traditional_chinese": "火行為",
-    "definition_cht": "野火或燃燒前線在特定燃料、地形與氣象條件下的蔓延、火焰強度、熱釋放與火場動態表現。",
+    "definition_cht": "火在燃料、天氣與地形條件共同作用下所呈現的反應與發展方式，包括引燃、蔓延速率、火焰長度、火勢強度與火場變化等。",
     "source_url": "https://glossary.ametsoc.org/wiki/fire_behavior"
   },
   {
     "english": "fire weather",
-    "traditional_chinese": "火險天氣",
-    "definition_cht": "影響野火發生、延燒與控制的氣象條件總稱，主要包括風、溫度、濕度、降水與大氣穩定度。",
+    "traditional_chinese": "火天氣",
+    "definition_cht": "會影響野火引發、蔓延、火勢強弱與滅火作業的氣象條件總稱，尤指風、氣溫、相對濕度與降水等要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/fire_weather"
   },
   {
     "english": "fire-danger meter",
-    "traditional_chinese": "火險儀",
-    "definition_cht": "依據氣象與燃料乾燥狀況評估火災危險程度的測算或顯示裝置，用於林火預警與作業決策。",
+    "traditional_chinese": "火險計",
+    "definition_cht": "將多種火險因子綜合換算為火災危險等級的圖解或機械裝置，常用於依季節狀態、前期降水、風與濕度等條件評估森林或草地火險。",
     "source_url": "https://glossary.ametsoc.org/wiki/fire-danger_meter"
   },
   {
     "english": "firm yield",
     "traditional_chinese": "保證供水量",
-    "definition_cht": "在既定水文條件與系統管理規則下，水庫或供水系統可長期可靠提供而不致失供的最大穩定供水量。",
+    "definition_cht": "在指定水文條件、蓄水設施與操作規則下，水庫或供水系統於不致失供的前提下可可靠提供的最大穩定供水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/firm_yield"
   },
   {
     "english": "firn",
     "traditional_chinese": "粒雪",
-    "definition_cht": "介於新雪與冰川冰之間的顆粒狀老雪，經反覆融凍、壓實與再結晶後形成，密度高於新雪而低於冰。",
+    "definition_cht": "介於新雪與冰川冰之間、歷經至少一個消融季後保存下來並經壓實與再結晶的老雪，顆粒較圓鈍、膠結較佳，密度高於新雪而低於冰川冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/firn"
   },
   {
     "english": "firn field",
     "traditional_chinese": "粒雪原",
-    "definition_cht": "高山或極地冰川上由廣大粒雪覆蓋的區域，通常位於多年積雪保存並逐步向冰川冰轉化之處。",
+    "definition_cht": "大面積由粒雪覆蓋的區域，通常位於冰川或冰帽的積聚區，也可泛指未明顯匯流成冰川的高地粒雪覆蓋地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/firn_field"
   },
   {
     "english": "firn line",
     "traditional_chinese": "粒雪線",
-    "definition_cht": "冰川表面上多年積雪最終能轉變為粒雪的界線，常近似反映多年平均平衡線位置。",
+    "definition_cht": "冰川上一年消融季結束後仍有積雪得以存留並轉化為粒雪的界線；若無上覆再凍冰影響，通常近似於平衡線。",
     "source_url": "https://glossary.ametsoc.org/wiki/firn_line"
   },
   {
     "english": "firnification",
     "traditional_chinese": "粒雪化",
-    "definition_cht": "新雪在積壓、再結晶、融凍與水氣轉移作用下逐漸轉變為粒雪的過程。",
+    "definition_cht": "新雪在堆積、壓實、再結晶、融凍與水汽遷移等作用下，逐步轉變為粒雪的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/firnification"
   },
   {
     "english": "firnspiegel",
-    "traditional_chinese": "冰殼層",
-    "definition_cht": "粒雪或積雪內部因融化後再凍結而形成的薄冰層或冰殼，常可作為雪層年際變化或融凍事件的辨識標誌。",
+    "traditional_chinese": "粒雪鏡冰層",
+    "definition_cht": "春季高海拔冰川表面的雪或粒雪受日照加熱後迅速再凍結，形成薄而明亮、近鏡面的冰殼或冰膜。",
     "source_url": "https://glossary.ametsoc.org/wiki/firnspiegel"
   },
   {
     "english": "first gust",
     "traditional_chinese": "初陣風",
-    "definition_cht": "雷暴、鋒面或陣風鋒抵達觀測點前後最先出現的明顯風速突增，常為天氣驟變的先兆。",
+    "definition_cht": "雷暴胞進入初熟階段時，隨冷性下沉氣流前緣或其不連續帶通過而最先出現的明顯強陣風，常是雷暴大風的前兆。",
     "source_url": "https://glossary.ametsoc.org/wiki/first_gust"
   },
   {
     "english": "first law of thermodynamics",
     "traditional_chinese": "熱力學第一定律",
-    "definition_cht": "能量守恆定律在熱力系統中的表述，指出系統內能變化等於輸入熱量減去系統對外所作功，是大氣熱力學基本原理。",
+    "definition_cht": "熱力學中的能量守恆定律；對非孤立系統而言，系統內能的變化等於輸入熱量減去系統對外所作的功，是大氣熱力學的基本原理之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/first_law_of_thermodynamics"
   },
   {
     "english": "first-hop wave",
     "traditional_chinese": "第一跳波",
-    "definition_cht": "無線電波經一次電離層反射或折返後到達接收點所形成的傳播波，常用於高頻遠距通信分析。",
+    "definition_cht": "閃電放電所產生的電磁波在原始地面波之後，經電離層一次反射（或折返）抵達接收端的第一個天空波分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/first-hop_wave"
   },
   {
     "english": "first-order climatological station",
     "traditional_chinese": "一等氣候站",
-    "definition_cht": "在氣候觀測網中，設備、觀測要素與資料品質較完備的主要測站，用以提供長期而高標準的氣候紀錄。",
+    "definition_cht": "設備與觀測項目完整的主要氣候測站，需對氣壓、氣溫、濕度、風、日照與降水作連續自記或逐時觀測，並於固定時刻記錄雲量、雲形與天氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/first-order_climatological_station"
   },
   {
     "english": "first-order closure",
     "traditional_chinese": "一階閉合",
-    "definition_cht": "以平均量的一階梯度來參數化湍流通量的閉合理論，例如將動量或熱通量表示為擴散形式。",
+    "definition_cht": "以平均場的一階梯度來參數化湍流通量的閉合理論，假設熱、動量或水氣通量沿平均梯度方向傳輸，且其強度與渦流擴散係數成正比，亦稱 K 理論。",
     "source_url": "https://glossary.ametsoc.org/wiki/first-order_closure"
   },
   {
     "english": "first-order reactions",
     "traditional_chinese": "一級反應",
-    "definition_cht": "反應速率與單一反應物濃度成正比的化學反應，在大氣化學衰減、放射性衰變與示蹤物轉化中常見。",
+    "definition_cht": "反應速率與單一反應物濃度成正比的化學反應；在大氣化學中，光解反應及某些單分子分解過程常可視為一級動力學。",
     "source_url": "https://glossary.ametsoc.org/wiki/first-order_reactions"
   },
   {
     "english": "first-order station",
     "traditional_chinese": "一等測站",
-    "definition_cht": "觀測網內層級較高、設備完整且資料品質要求嚴格的基準測站，常承擔主要氣象觀測與校驗功能。",
+    "definition_cht": "氣象觀測網中等級較高、設備較完整的主要測站，通常執行逐時或連續自記觀測，負責蒐集氣壓、溫度、濕度、風、雲、日照與降水等基本資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/first-order_station"
   },
   {
     "english": "first-year ice",
     "traditional_chinese": "一年冰",
-    "definition_cht": "形成未滿一個融冰季的海冰，厚度與鹽度特性有別於多年冰，常見於季節性結冰海域。",
+    "definition_cht": "自形成起尚未經歷一個夏季消融期的海冰，通常厚約 0.3 至 2 公尺；未受擠壓變形時表面較平坦，若形成冰脊則多呈尖銳粗糙，性質有別於多年冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/first-year_ice"
   },
   {
     "english": "Fisher & Porter rain gauge",
     "traditional_chinese": "費雪－波特雨量計",
-    "definition_cht": "一種自記式降水觀測儀，常以翻斗、稱重或機械記錄機制搭配，用於連續記錄降水量與降水歷時。",
+    "definition_cht": "一種稱重式自記雨量計，藉由量測收集桶重量變化換算降水量，並按固定時間間隔自動記錄；可長期設置於偏遠地區，冬季亦可藉防凍液測量降雪水當量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fisher_%26_Porter_rain_gauge"
   },
   {
