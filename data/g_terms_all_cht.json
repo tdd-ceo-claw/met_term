@@ -1856,121 +1856,121 @@
   {
     "english": "groundwater hydrology",
     "traditional_chinese": "地下水水文學",
-    "definition_cht": "指與「地下水水文學」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "研究地下水之分布、補注、流動、儲存與排泄等過程的水文學分支，常與水文地質學並用。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_hydrology"
   },
   {
     "english": "groundwater level",
     "traditional_chinese": "地下水位",
-    "definition_cht": "指與「地下水位」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "地下水面在某一地點的高程或深度，通常指飽和帶上界即地下水面的位置；其變化可反映補注、抽水與排泄情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_level"
   },
   {
     "english": "groundwater mining",
-    "traditional_chinese": "地下水開採",
-    "definition_cht": "指與「地下水開採」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "地下水超採",
+    "definition_cht": "地下水開採量長期超過自然補注量，致使地下水存量持續減少的狀態；常造成水位下降、地層下陷或水質惡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_mining"
   },
   {
     "english": "groundwater mound",
     "traditional_chinese": "地下水丘",
-    "definition_cht": "指與「地下水丘」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "因局部補注增加（如入滲、人工補注或漏水）而使地下水面向上隆起形成的地下水位高區。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_mound"
   },
   {
     "english": "groundwater runoff",
     "traditional_chinese": "地下水徑流",
-    "definition_cht": "指與「地下水徑流」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "由地下含水層流向泉源、河川、湖泊或海洋的地下水流出量；常構成河川基流的重要來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_runoff"
   },
   {
     "english": "groundwater station",
-    "traditional_chinese": "地下水站",
-    "definition_cht": "指與「地下水站」相關的觀測站、測站設施或資料蒐集位置。",
+    "traditional_chinese": "地下水測站",
+    "definition_cht": "用於觀測地下水位、水溫、水質或抽水變化的測站或觀測井設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_station"
   },
   {
     "english": "groundwater storage",
-    "traditional_chinese": "地下水儲存",
-    "definition_cht": "指與「地下水儲存」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "地下水儲量",
+    "definition_cht": "儲存在土壤與岩層孔隙、裂隙中的地下水總量，或其可供利用的有效貯存量。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_storage"
   },
   {
     "english": "group velocity",
     "traditional_chinese": "群速度",
-    "definition_cht": "指與「群速度」相關的速度量，用於描述流體、粒子或波動之運動快慢與方向。",
+    "definition_cht": "波群包絡或振幅調制訊號在介質中傳播的速度；在色散介質中可與相速度不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/group_velocity"
   },
   {
     "english": "grower's year",
-    "traditional_chinese": "種植者年",
-    "definition_cht": "指與「種植者年」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "作物年",
+    "definition_cht": "以作物生長與收穫週期劃分的一年，常用於農業氣象與作物統計，不一定與曆年一致。",
     "source_url": "https://glossary.ametsoc.org/wiki/grower%27s_year"
   },
   {
     "english": "growing degree-day",
-    "traditional_chinese": "學位日",
-    "definition_cht": "指與「學位日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "積溫日",
+    "definition_cht": "以日平均氣溫相對某基準溫度的超額量累積而成的熱量指標，用於估計作物、昆蟲等生長發育進程。",
     "source_url": "https://glossary.ametsoc.org/wiki/growing_degree-day"
   },
   {
     "english": "growing degree-hour",
-    "traditional_chinese": "增長學位小時",
-    "definition_cht": "指與「增長學位小時」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "積溫時",
+    "definition_cht": "以逐時氣溫相對某基準溫度的超額量累積而成的熱量指標，為 growing degree-day 的較高時間解析度形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/growing_degree-hour"
   },
   {
     "english": "growing season",
     "traditional_chinese": "生長季",
-    "definition_cht": "指與「生長季」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "一年中氣溫、水分與其他環境條件適合植物持續生長的時段；常以最後一次霜日與首次霜日之間期間近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/growing_season"
   },
   {
     "english": "growler",
-    "traditional_chinese": "咆哮者",
-    "definition_cht": "指與「咆哮者」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "小冰塊",
+    "definition_cht": "由冰山崩解形成、露出水面很低的小型浮冰，尺度小於 bergy bit，對航行仍具危險性。",
     "source_url": "https://glossary.ametsoc.org/wiki/growler"
   },
   {
     "english": "Gts",
-    "traditional_chinese": "GTs",
-    "definition_cht": "指與「GTs」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "全球電信系統",
+    "definition_cht": "Global Telecommunication System 的縮寫；為世界氣象組織全球天氣與氣候資料交換的通信網路。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gts"
   },
   {
     "english": "guba",
-    "traditional_chinese": "古巴",
-    "definition_cht": "指與「古巴」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "古巴風暴線",
+    "definition_cht": "古巴一帶用語，指伴隨雷暴與強陣風的猛烈颮線或突發風暴天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/guba"
   },
   {
     "english": "Guiana Current",
     "traditional_chinese": "圭亞那海流",
-    "definition_cht": "指與「圭亞那海流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "definition_cht": "南美洲東北岸外海向西北流動的暖流，為南赤道流的一支，沿圭亞那海岸通往加勒比海。",
     "source_url": "https://glossary.ametsoc.org/wiki/Guiana_Current"
   },
   {
     "english": "Guinea Current",
-    "traditional_chinese": "幾內亞洋流",
-    "definition_cht": "指與「幾內亞洋流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "traditional_chinese": "幾內亞海流",
+    "definition_cht": "西非幾內亞灣沿岸一帶大致向東流動的暖流，受季風與赤道環流季節變化影響明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/Guinea_Current"
   },
   {
     "english": "Gulf of Papagayo",
     "traditional_chinese": "帕帕加約灣",
-    "definition_cht": "指與「帕帕加約灣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "中美洲太平洋岸的海灣，位於哥斯大黎加西北部外海，常與冬季強烈離岸噴流及沿岸上升流相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gulf_of_Papagayo"
   },
   {
     "english": "Gulf of Tehuantepec",
     "traditional_chinese": "特萬特佩克灣",
-    "definition_cht": "指與「特萬特佩克灣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "墨西哥南部太平洋岸的海灣，常受穿越地峽的強烈北風噴流影響，為著名的 Tehuantepecer 發生區。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gulf_of_Tehuantepec"
   },
   {
     "english": "Gulf Stream",
     "traditional_chinese": "灣流",
-    "definition_cht": "指與「灣流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "北大西洋西部由佛羅里達海峽沿美國東岸向東北流動的強暖流，對海洋熱輸送與區域氣候具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gulf_Stream"
   },
   {
