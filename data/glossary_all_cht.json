@@ -21272,121 +21272,121 @@
   {
     "english": "gegenschein",
     "traditional_chinese": "對日照",
-    "definition_cht": "位於反太陽點附近、由行星際塵埃反射與後向散射日光所形成的微弱亮區，常見於晴朗暗夜天空。",
+    "definition_cht": "夜空中位於反太陽點附近的微弱漫射亮斑，主要由行星際塵埃對日光的後向散射所形成，屬黃道光系統的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/gegenschein"
   },
   {
     "english": "gending",
-    "traditional_chinese": "性別劃分",
-    "definition_cht": "指與「性別劃分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "gending",
+    "definition_cht": "目前未查得穩定且具權威性的氣象定義；此詞在公開資料中多非指氣象概念，疑為專名、拼寫異體或來源條目待校對，故暫保留原文以待後續核實。",
     "source_url": "https://glossary.ametsoc.org/wiki/gending"
   },
   {
     "english": "General Broadcast",
-    "traditional_chinese": "普通廣播",
-    "definition_cht": "指與「普通廣播」相關的較長時間分期、地質代或歷史階段。",
+    "traditional_chinese": "一般廣播",
+    "definition_cht": "面向所有海軍艦艇與商船播發的無線電氣象廣播，內容通常包括海上警報、分區預報、天氣圖分析與預報，以及地面、高空、航空器與衛星等氣象資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/General_Broadcast"
   },
   {
     "english": "general circulation",
-    "traditional_chinese": "一般循環",
-    "definition_cht": "指與「一般循環」相關的環流系統，描述大氣或海洋中流體之平均運動與輸送結構。",
+    "traditional_chinese": "大氣一般環流",
+    "definition_cht": "指地球大氣在長時間平均下的大尺度環流結構與統計特徵，用以描述全球熱量、動量與水氣的主要輸送型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/general_circulation"
   },
   {
     "english": "general circulation model",
-    "traditional_chinese": "大氣環流模型",
-    "definition_cht": "用於表徵「大氣環流模型」相關過程或系統的理論、概念或數值模式，以分析其主要物理機制。",
+    "traditional_chinese": "一般環流模式",
+    "definition_cht": "以流體力學、熱力學、輻射與物質循環等方程為基礎，數值模擬大氣或海氣陸系統三維一般環流及其演變的模式，常用於天氣與氣候研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/general_circulation_model"
   },
   {
     "english": "generalized absorption coefficient",
     "traditional_chinese": "廣義吸收係數",
-    "definition_cht": "表示「廣義吸收係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。",
+    "definition_cht": "在吸收頻帶內以單一等效值表示整體吸收行為的吸收係數，常與廣義傳遞函數搭配，用於估算整個頻帶的積分透射效果。",
     "source_url": "https://glossary.ametsoc.org/wiki/generalized_absorption_coefficient"
   },
   {
     "english": "generalized coordinates",
     "traditional_chinese": "廣義座標",
-    "definition_cht": "指表示「廣義座標」相關位置、方向或空間基準的座標系統。",
+    "definition_cht": "凡能用來描述系統狀態的一組座標或變數皆可稱為廣義座標；在受約束系統中，常選取最少且彼此獨立的變數以表徵其自由度。",
     "source_url": "https://glossary.ametsoc.org/wiki/generalized_coordinates"
   },
   {
     "english": "generalized hydrostatic equation",
-    "traditional_chinese": "廣義流體靜力方程",
-    "definition_cht": "描述「廣義流體靜力方程」相關物理量之間關係、守恆條件或診斷計算方法的方程式。",
+    "traditional_chinese": "廣義靜力方程",
+    "definition_cht": "在自然座標的運動方程垂直分量中，以虛重力取代重力後得到的靜力平衡關係；對多數氣象應用而言，與一般靜力方程幾乎等價。",
     "source_url": "https://glossary.ametsoc.org/wiki/generalized_hydrostatic_equation"
   },
   {
     "english": "generalized transmission function",
     "traditional_chinese": "廣義傳遞函數",
-    "definition_cht": "描述「廣義傳遞函數」相關變數關係、響應特性或分布型態的函數表述。",
+    "definition_cht": "將特定頻帶模式推廣至較一般情況後所得的透射函數，用以表示某一吸收頻帶部分或全部波長範圍的積分透射特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/generalized_transmission_function"
   },
   {
     "english": "generate and test",
     "traditional_chinese": "生成並測試",
-    "definition_cht": "指與「生成並測試」相關的較長時間分期、地質代或歷史階段。",
+    "definition_cht": "一種問題求解方法，先產生若干可能方案，再逐一檢驗是否滿足條件，直到找到可接受的解；未必遍歷所有可能，也不保證得到最佳解。",
     "source_url": "https://glossary.ametsoc.org/wiki/generate_and_test"
   },
   {
     "english": "generating area",
-    "traditional_chinese": "發電區",
-    "definition_cht": "指與「發電區」相關的較長時間分期、地質代或歷史階段。",
+    "traditional_chinese": "波浪生成區",
+    "definition_cht": "海面受風作用而產生波浪的海域，即風浪正在形成與增長的區域；波浪離開此區後可轉為湧浪傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/generating_area"
   },
   {
     "english": "generating cell",
-    "traditional_chinese": "生成細胞",
-    "definition_cht": "指與「生成細胞」相關的較長時間分期、地質代或歷史階段。",
+    "traditional_chinese": "生成胞",
+    "definition_cht": "雷達上反射率局部偏高的小範圍區域，常被視為降水粒子尤其雪晶生成與成長的來源，並可能因凝華或凝結釋放潛熱所誘發的對流而維持。",
     "source_url": "https://glossary.ametsoc.org/wiki/generating_cell"
   },
   {
     "english": "generic rule",
     "traditional_chinese": "通用規則",
-    "definition_cht": "指與「通用規則」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "在專家系統或知識庫中，可同樣適用於各地理位置且不依賴特定資料來源的 IF-THEN 規則。",
     "source_url": "https://glossary.ametsoc.org/wiki/generic_rule"
   },
   {
     "english": "Genitus",
-    "traditional_chinese": "天才",
-    "definition_cht": "指與「天才」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "母雲衍生雲綴詞",
+    "definition_cht": "國際雲圖分類中的附加綴詞，用於表示某雲種由另一母雲發育或衍生而成；當原雲的一部分發展為不同雲屬時，可在新雲名後加上 genitus。",
     "source_url": "https://glossary.ametsoc.org/wiki/Genitus"
   },
   {
     "english": "Genoa cyclone",
     "traditional_chinese": "熱那亞氣旋",
-    "definition_cht": "指與「熱那亞氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指出現於或在熱那亞灣（利古里亞海）附近生成、發展的低氣壓或氣旋，常與阿爾卑斯山南側地形作用及地中海氣旋發生有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Genoa_cyclone"
   },
   {
     "english": "GENOT",
-    "traditional_chinese": "傑諾特",
-    "definition_cht": "「GENOT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "一般通告",
+    "definition_cht": "general notice 的縮寫。指由美國聯邦航空總署發布，經各類航空氣象電傳服務傳送的通用通知，內容供飛航人員、預報員及其他航空與氣象作業相關人員參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/GENOT"
   },
   {
     "english": "gentle breeze",
-    "traditional_chinese": "微風",
-    "definition_cht": "指與「微風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "和風",
+    "definition_cht": "蒲福風級第 3 級，約為 7 至 10 節（約 8 至 12 英里每小時）的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/gentle_breeze"
   },
   {
     "english": "GEO-KOMPSAT 2A",
-    "traditional_chinese": "地理衛星2A",
-    "definition_cht": "指與「地理衛星2A」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "韓國靜止軌道複合衛星2A號",
+    "definition_cht": "南韓第二代靜止軌道複合衛星系列中的氣象衛星，主要任務為作業氣象觀測；搭載多光譜先進氣象酬載，可持續監測東亞與西太平洋的雲系、颱風與環境場。",
     "source_url": "https://glossary.ametsoc.org/wiki/GEO-KOMPSAT_2A"
   },
   {
     "english": "geocentric reference system",
     "traditional_chinese": "地心參考系",
-    "definition_cht": "指與「地心參考系」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "原點設在地球質心的參考座標系，與原點設於地表某點的座標系相對，常用於衛星測地、天文定位與地球系統觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/geocentric_reference_system"
   },
   {
     "english": "geodesic grid",
-    "traditional_chinese": "測地線網格",
-    "definition_cht": "指與「測地線網格」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "測地線格網",
+    "definition_cht": "在球面上以測地線或細分多面體構成的近均勻格網，常用於天氣、海洋與氣候數值模式，以減少傳統經緯度格網在極區的格點收斂與面積失真問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/geodesic_grid"
   },
   {
