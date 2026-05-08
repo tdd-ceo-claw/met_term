@@ -1321,122 +1321,122 @@
   },
   {
     "english": "folding",
-    "traditional_chinese": "folding",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「folding」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "摺疊",
+    "definition_cht": "在訊號處理、雷達與遙測中，指高於奈奎斯特頻率或超出可解析範圍的訊號成分，經取樣後被折返到較低頻或錯誤區間的現象；在都卜勒雷達中常表現為速度或距離模糊。",
     "source_url": "https://glossary.ametsoc.org/wiki/folding"
   },
   {
     "english": "folding frequency",
-    "traditional_chinese": "folding 頻率",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「folding 頻率」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "摺疊頻率",
+    "definition_cht": "指取樣系統中訊號開始發生頻譜摺疊（aliasing）的臨界頻率，通常相當於奈奎斯特頻率，即取樣頻率的一半。",
     "source_url": "https://glossary.ametsoc.org/wiki/folding_frequency"
   },
   {
     "english": "following wind",
-    "traditional_chinese": "following wind",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「following wind」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "順風；尾風",
+    "definition_cht": "指沿物體或載具前進方向吹送的風；在航空與航海上相當於尾風，可提高地速或航速，但在起降與操縱上亦可能帶來限制。",
     "source_url": "https://glossary.ametsoc.org/wiki/following_wind"
   },
   {
     "english": "foot-candle",
-    "traditional_chinese": "foot-candle",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「foot-candle」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "呎燭光",
+    "definition_cht": "英制照度單位，表示一流明的光通量均勻分布於一平方英尺表面所形成的照度，約等於 10.764 勒克斯。",
     "source_url": "https://glossary.ametsoc.org/wiki/foot-candle"
   },
   {
     "english": "foot-pound",
-    "traditional_chinese": "foot-pound",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「foot-pound」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "英尺磅",
+    "definition_cht": "英制功或能量單位，指一磅力作用於一英尺距離所作的功，約等於 1.356 焦耳；須與表示力矩的 pound-foot 區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/foot-pound"
   },
   {
     "english": "footlambert",
-    "traditional_chinese": "footlambert",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「footlambert」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "呎朗伯",
+    "definition_cht": "英制亮度單位，用於表示發光或反射表面的亮度；1 footlambert 約等於 3.426 坎德拉每平方公尺。",
     "source_url": "https://glossary.ametsoc.org/wiki/footlambert"
   },
   {
     "english": "footprint",
-    "traditional_chinese": "footprint",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「footprint」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "足跡；通量足跡",
+    "definition_cht": "在邊界層與通量觀測中，指上風處對量測儀器所記錄之熱、水氣、動量或氣體通量有實質貢獻的地表來源區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/footprint"
   },
   {
     "english": "footprint modeling",
-    "traditional_chinese": "footprint modeling",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「footprint modeling」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "足跡模式化",
+    "definition_cht": "利用邊界層結構、湍流傳輸與量測高度等條件，估算通量觀測對應之上風來源區域及其相對貢獻的建模方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/footprint_modeling"
   },
   {
     "english": "forano",
-    "traditional_chinese": "forano",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forano」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "福拉諾風",
+    "definition_cht": "地方性風名，通常指阿爾卑斯山南側或義大利部分地區出現的焚風型下坡風，特徵為背風側增暖、乾燥且陣風較強。",
     "source_url": "https://glossary.ametsoc.org/wiki/forano"
   },
   {
     "english": "forbidden transitions",
-    "traditional_chinese": "forbidden transitions",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forbidden transitions」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "禁制躍遷",
+    "definition_cht": "指依量子力學選擇定則，在理想條件下發生機率極低或名義上不允許的原子、分子或離子能階躍遷；在稀薄大氣與天體光譜中仍可能觀測到其譜線。",
     "source_url": "https://glossary.ametsoc.org/wiki/forbidden_transitions"
   },
   {
     "english": "force-restore method",
-    "traditional_chinese": "力-restore method",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「力-restore method」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "強迫－恢復法",
+    "definition_cht": "一種簡化陸面或土壤熱濕度過程的參數化方法，以外部週期性強迫描述地表日變化，並以恢復項表示土壤向較深層平均狀態回復的作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/force-restore_method"
   },
   {
     "english": "forced cloud",
-    "traditional_chinese": "forced cloud",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forced cloud」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "強迫上升雲",
+    "definition_cht": "指氣流因地形抬升、鋒面抬升或其他動力作用被迫上升，在冷卻凝結後形成的雲；地形雲為常見例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/forced_cloud"
   },
   {
     "english": "forced wave",
-    "traditional_chinese": "forced wave",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forced wave」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "強迫波",
+    "definition_cht": "指由外部週期性或持續性強迫所激發並維持的波動，而非系統自由振盪自發產生；其振幅與相位受外力頻率及介質特性控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/forced_wave"
   },
   {
     "english": "forcing function",
-    "traditional_chinese": "forcing 函數",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「forcing 函數」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "強迫函數",
+    "definition_cht": "在描述大氣、海洋或其他物理系統的方程式中，指代表外部驅動、源項或擾動輸入的函數，用以決定系統的受迫響應。",
     "source_url": "https://glossary.ametsoc.org/wiki/forcing_function"
   },
   {
     "english": "forecast amendment",
-    "traditional_chinese": "預報 amendment",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 amendment」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報修正",
+    "definition_cht": "指在原預報發布後，因新觀測、模式結果或天氣演變顯示原內容已不再適切，而對其進行的補充、更新或更正。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_amendment"
   },
   {
     "english": "forecast area",
-    "traditional_chinese": "預報 area",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 area」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報區",
+    "definition_cht": "指某一預報產品或預報機構負責發布天氣資訊的地理範圍，可依行政區、氣候區、海域或作業責任區劃分。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_area"
   },
   {
     "english": "forecast chart",
-    "traditional_chinese": "預報 chart",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 chart」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報圖",
+    "definition_cht": "以圖形方式呈現未來特定時刻或時段之氣象要素、天氣系統與預期分布的圖表，例如地面預報圖、高空預報圖或顯著天氣圖。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_chart"
   },
   {
     "english": "forecast error",
-    "traditional_chinese": "預報 error",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 error」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報誤差",
+    "definition_cht": "指預報值與實際觀測值或後驗分析值之間的差異，是衡量預報準確度與偏差的重要基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_error"
   },
   {
     "english": "forecast evaluation",
-    "traditional_chinese": "預報 evaluation",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 evaluation」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報評估",
+    "definition_cht": "指利用觀測、分析資料與統計指標，系統性檢查預報品質、技巧分數、偏差與可靠度的作業；亦常稱為預報檢證。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_evaluation"
   },
   {
     "english": "forecast lead time",
-    "traditional_chinese": "預報 lead time",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「預報 lead time」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "預報提前時間",
+    "definition_cht": "指自預報發布或模式起報時刻起，到預報所對應目標時刻之間的時間間隔；提前時間越長，通常不確定性越高。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_lead_time"
   },
   {
