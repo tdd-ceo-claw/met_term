@@ -601,122 +601,122 @@
   },
   {
     "english": "fitness figure",
-    "traditional_chinese": "適配指標",
-    "definition_cht": "用以衡量理論、模式、參數組合或經驗公式與觀測資料符合程度的量化指標。",
+    "traditional_chinese": "適合度指標",
+    "definition_cht": "用以量化理論、模式、參數組合或經驗公式與觀測資料符合程度的指標；可作為評估配適優劣、比較方案表現或最佳化參數設定的依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/fitness_figure"
   },
   {
     "english": "five-and-ten system",
-    "traditional_chinese": "五十編碼制",
-    "definition_cht": "以 5 與 10 為基礎進行分級或編碼的表示系統，曾用於雲量、能見度或其他觀測要素的簡化記錄。",
+    "traditional_chinese": "五與十節風羽表示制",
+    "definition_cht": "在綜觀天氣圖上以風桿與風羽符號表示風速的常用方法，按最接近 5 節的風速繪製；半羽代表 5 節、全羽代表 10 節、三角旗代表 50 節。",
     "source_url": "https://glossary.ametsoc.org/wiki/five-and-ten_system"
   },
   {
     "english": "five-day forecast",
     "traditional_chinese": "五日預報",
-    "definition_cht": "對未來五天內天氣狀況所作之預測，內容通常包括溫度、降水、風與主要天氣現象。",
+    "definition_cht": "對未來五日天氣狀況所作的預測，通常涵蓋溫度、降水、風、雲量及主要天氣現象等要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/five-day_forecast"
   },
   {
     "english": "five-point method",
     "traditional_chinese": "五點法",
-    "definition_cht": "利用中心點及其周圍四個鄰點建立數值近似或分析計算的方法，常見於差分、平滑與場量估算。",
+    "definition_cht": "水文測流中用以估算深水斷面垂向平均流速的方法，根據水面、0.2D、0.6D、0.8D 與河底等五個深度位置的流速觀測值加權求得平均流速，其中 D 為水深。",
     "source_url": "https://glossary.ametsoc.org/wiki/five-point_method"
   },
   {
     "english": "fix",
-    "traditional_chinese": "定位",
-    "definition_cht": "根據觀測資料、導航資訊或遙測特徵確定目標位置的結果；在熱帶氣旋分析中亦可指風暴中心定位。",
+    "traditional_chinese": "定位點；定位",
+    "definition_cht": "依據地面目標、無線電導航設施、天體觀測或其他導航／遙測資訊所決定的地理位置；在氣象作業中亦可指對熱帶氣旋中心等目標位置所作的定位。",
     "source_url": "https://glossary.ametsoc.org/wiki/fix"
   },
   {
     "english": "fixed time broadcast",
     "traditional_chinese": "定時廣播",
-    "definition_cht": "按預定時刻週期性播送的資訊傳輸方式，氣象作業中常用於定時發布預報、警報或航海氣象資料。",
+    "definition_cht": "依國際或國內既定時程定時播送的資訊傳輸方式；氣象作業中常用於例行發布天氣預報、警報、航海氣象或航空氣象資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/fixed_time_broadcast"
   },
   {
     "english": "fixing of atmospheric gases",
     "traditional_chinese": "大氣氣體固定作用",
-    "definition_cht": "將原本以游離或分子形態存在於大氣中的氣體，透過生物、化學或物理過程轉化為較穩定化合物的作用，如氮固定。",
+    "definition_cht": "指將大氣中的氣體分子納入生物系統或經由工業過程轉化為較穩定化合物的作用；最常見者為氮固定，使生物得以利用原本性質穩定的大氣氮。",
     "source_url": "https://glossary.ametsoc.org/wiki/fixing_of_atmospheric_gases"
   },
   {
     "english": "fjord",
     "traditional_chinese": "峽灣",
-    "definition_cht": "由冰川侵蝕形成、後經海水侵入的狹長深水灣，兩側地形陡峭，常見於高緯或山地海岸。",
+    "definition_cht": "由冰川侵蝕形成、後經海水侵入的狹長深水海灣，兩側多為陡峭山壁或峭壁，常見於高緯度或山地海岸。",
     "source_url": "https://glossary.ametsoc.org/wiki/fjord"
   },
   {
     "english": "flame collector",
     "traditional_chinese": "火焰集電器",
-    "definition_cht": "利用火焰所產生之離子提高導電性，用以收集大氣電荷或量測電位梯度、空氣電流等大氣電參數的觀測裝置。",
+    "definition_cht": "利用火焰使空氣電離、提高導電度，以收集大氣電荷或量測電位梯度與空氣電流等大氣電學參數的觀測裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/flame_collector"
   },
   {
     "english": "flame ionization detection",
     "traditional_chinese": "火焰離子化檢測",
-    "definition_cht": "以氫火焰使有機化合物電離，再量測所生離子電流以判定濃度的分析方法，常用於大氣微量碳氫化合物監測。",
+    "definition_cht": "以氫火焰使有機化合物燃燒並產生離子，再量測離子電流以推定濃度的分析方法，常作為氣相層析之火焰離子化偵測器（FID）原理，用於大氣微量碳氫化合物監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/flame_ionization_detection"
   },
   {
     "english": "flan",
-    "traditional_chinese": "層狀冰雪地形",
-    "definition_cht": "指冰雪表面因融化、再凍結或風蝕作用形成的平坦板狀地形或殼層，屬雪冰表面微地形用語。",
+    "traditional_chinese": "陸發突風",
+    "definition_cht": "蘇格蘭地區用語，指自陸地方向突然吹出的強陣風或短暫狂風。",
     "source_url": "https://glossary.ametsoc.org/wiki/flan"
   },
   {
     "english": "Flanders storm",
-    "traditional_chinese": "法蘭德斯風暴",
-    "definition_cht": "影響法蘭德斯地區及其鄰近海域的強烈風暴個例名稱，通常用於區域氣候或歷史災害記述。",
+    "traditional_chinese": "法蘭德斯風雪",
+    "definition_cht": "英格蘭地區用語，指伴隨南風而來的強降雪或風雪天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/Flanders_storm"
   },
   {
     "english": "flanking line",
-    "traditional_chinese": "側翼積雲線",
-    "definition_cht": "超級胞或強對流系統主上升區側後方常見的積雲或積雨雲排列，反映低層暖濕空氣持續匯入與新生對流發展。",
+    "traditional_chinese": "側翼雲列",
+    "definition_cht": "與超級胞或強多胞對流風暴成熟上升塔相連並向外延伸的積雲、濃積雲組織化抬升帶，常呈階梯狀排列，顯示低層暖濕氣流持續匯入並供應新生對流。",
     "source_url": "https://glossary.ametsoc.org/wiki/flanking_line"
   },
   {
     "english": "Flare",
-    "traditional_chinese": "閃焰；耀斑",
-    "definition_cht": "可指燃燒排放氣體的火炬火焰；於太陽物理中則指太陽大氣局部區域磁能快速釋放所造成的短時強輻射增強現象。",
+    "traditional_chinese": "耀斑；火炬火焰",
+    "definition_cht": "可指石化或工業設施用於燃燒排放氣體的火炬火焰；在太空天氣與太陽物理中則指太陽大氣局部磁能快速釋放所造成的短時強輻射增強現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Flare"
   },
   {
     "english": "flare echo",
     "traditional_chinese": "耀斑回波",
-    "definition_cht": "雷達或無線電系統因太陽耀斑增強電離層擾動或外來電磁輻射而出現的異常回波或雜訊訊號。",
+    "definition_cht": "雷達上出現在強雷暴高反射核心下游徑向延伸的狹長弱回波假象，通常與大冰雹造成的三體散射有關，因此亦常視為 hail spike 的一種表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/flare_echo"
   },
   {
     "english": "flash",
-    "traditional_chinese": "閃現；閃蒸",
-    "definition_cht": "泛指極短時間內快速發生的現象；於水文或熱工語境中，亦可指液體因壓力驟降而瞬間汽化的閃蒸過程。",
+    "traditional_chinese": "閃現；突發",
+    "definition_cht": "指在極短時間內快速出現的現象、訊號或事件；在氣象與相關科學語境中，常用作其他複合術語的語根，以強調其突發、短時或迅速發展的特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/flash"
   },
   {
     "english": "Flash drought",
     "traditional_chinese": "驟旱",
-    "definition_cht": "在數週至數月內因降水偏少、蒸散旺盛與高溫共同作用而迅速形成並加劇的乾旱事件，常對農業與生態造成突發性衝擊。",
+    "definition_cht": "在數週內迅速發展並明顯惡化的乾旱事件，通常由降水不足、高溫、強風、日照與蒸散增強共同促成，常快速衝擊農業、生態與水資源。",
     "source_url": "https://glossary.ametsoc.org/wiki/Flash_drought"
   },
   {
     "english": "Flash flood",
     "traditional_chinese": "暴洪",
-    "definition_cht": "由短時強降雨、潰壩或冰塞潰決等觸發，於極短時間內迅速發生且流速大、破壞力強的洪水。",
+    "definition_cht": "通常於強降雨或其他觸發因素發生後數小時內迅速形成的洪水，具有水位上升快、流速大、破壞力強等特徵；亦可由潰壩、冰塞潰決或土石流伴生逕流引起。",
     "source_url": "https://glossary.ametsoc.org/wiki/Flash_flood"
   },
   {
     "english": "Flash freeze",
     "traditional_chinese": "驟凍",
-    "definition_cht": "地表或道路表面水分在氣溫快速降至冰點以下時於短時間內迅速結冰的現象，常顯著增加交通危險。",
+    "definition_cht": "氣溫在短時間內快速降至冰點以下，使道路或地表原有積水、融雪或濕潤表面迅速結冰的現象，常造成突發性的交通危險。",
     "source_url": "https://glossary.ametsoc.org/wiki/Flash_freeze"
   },
   {
     "english": "Flash heat",
-    "traditional_chinese": "驟熱事件",
-    "definition_cht": "氣溫在短時間內異常快速升高並造成顯著熱壓力的高溫事件，常伴隨乾燥下沉或焚風效應。",
+    "traditional_chinese": "驟熱",
+    "definition_cht": "在短時間內迅速發展的異常高溫事件，特徵為熱壓力於數日至一週左右快速升高，常與強烈下沉增溫、乾燥少雲或焚風效應有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Flash_heat"
   },
   {
