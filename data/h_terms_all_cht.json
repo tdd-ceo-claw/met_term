@@ -181,122 +181,122 @@
   },
   {
     "english": "harbor oscillations",
-    "traditional_chinese": "港口振盪",
-    "definition_cht": "指與「港口振盪」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "港灣振盪",
+    "definition_cht": "港灣或海灣內因海嘯、風暴增水、湧浪拍擊或氣壓擾動等激發的非潮汐性水位往復振盪；其物理性質與靜振（seiche）相近，振幅在受共振時可明顯增大。",
     "source_url": "https://glossary.ametsoc.org/wiki/harbor_oscillations"
   },
   {
     "english": "hard freeze",
-    "traditional_chinese": "硬冷凍",
-    "definition_cht": "指與「硬冷凍」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "嚴重凍結",
+    "definition_cht": "足以凍死季節性植被、使地表踩踏時呈堅硬凍結狀態，並使積水或容器中小水面形成厚冰的強烈結冰事件；不同於硬霜（black frost）。",
     "source_url": "https://glossary.ametsoc.org/wiki/hard_freeze"
   },
   {
     "english": "hard radiation",
     "traditional_chinese": "硬輻射",
-    "definition_cht": "指與「硬輻射」相關的輻射收支、能量傳輸或電磁傳播效應。",
+    "definition_cht": "穿透能力很強的量子輻射，通常具有較高頻率與較短波長；相較於軟輻射，更能穿透厚鉛等屏蔽物。",
     "source_url": "https://glossary.ametsoc.org/wiki/hard_radiation"
   },
   {
     "english": "hard rime",
-    "traditional_chinese": "硬霧凇",
-    "definition_cht": "指與「硬霧凇」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "硬霧淞",
+    "definition_cht": "由濃密過冷霧滴迅速凍附於迎風物體表面所形成的不透明顆粒狀霧淞，質地較軟霧淞緻密，常向迎風側長成冰羽或冰錐。",
     "source_url": "https://glossary.ametsoc.org/wiki/hard_rime"
   },
   {
     "english": "hardpan",
-    "traditional_chinese": "硬質",
-    "definition_cht": "指與「硬質」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "硬磐層",
+    "definition_cht": "土壤中緻密而堅硬、會阻礙水分下滲與植物根系穿透的土層；常由氧化鐵、二氧化矽、碳酸鈣或有機物膠結形成，受含水量變化影響不大。",
     "source_url": "https://glossary.ametsoc.org/wiki/hardpan"
   },
   {
     "english": "harmattan",
     "traditional_chinese": "哈麥丹風",
-    "definition_cht": "指與「哈麥丹風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "西非乾季常見、由東北或東方自撒哈拉吹向幾內亞灣一帶的乾燥含塵風，盛行於約 11 月下旬至 3 月中旬，常伴隨低濕、揚塵與能見度惡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/harmattan"
   },
   {
     "english": "harmonic",
     "traditional_chinese": "諧波",
-    "definition_cht": "指與「諧波」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "物理系統中頻率為基頻整數倍的波動分量；在傅立葉表示中，也指組成週期訊號的正弦或餘弦分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/harmonic"
   },
   {
     "english": "harmonic analysis",
     "traditional_chinese": "諧波分析",
-    "definition_cht": "將週期性或準週期性訊號分解為不同頻率正弦與餘弦分量的分析方法，廣用於潮汐、氣候振盪與時間序列研究。",
+    "definition_cht": "利用傅立葉級數或相關方法，將資料分解為不同週期的諧波成分，以估計其振幅、週期與相位的分析方法；常用於潮汐、氣候週期與亂流頻譜研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/harmonic_analysis"
   },
   {
     "english": "harmonic function",
     "traditional_chinese": "調和函數",
-    "definition_cht": "描述「調和函數」相關變數關係、響應特性或分布型態的函數表述。",
+    "definition_cht": "滿足拉普拉斯方程的函數，常用於位勢理論、流體力學與地球物理場的數學描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/harmonic_function"
   },
   {
     "english": "harmonic mean",
     "traditional_chinese": "調和平均",
-    "definition_cht": "指「調和平均」所代表之平均量、統計均值或代表性平均狀態。",
+    "definition_cht": "一組數值倒數之算術平均再取倒數所得的平均數；適合用於速率、比值或單位量值的平均表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/harmonic_mean"
   },
   {
     "english": "haster",
-    "traditional_chinese": "哈斯特",
-    "definition_cht": "指與「哈斯特」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "哈斯特暴雨",
+    "definition_cht": "英格蘭地方用語，指猛烈的暴雨或暴風雨；屬區域性俗稱，並非現代標準天氣分類術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/haster"
   },
   {
     "english": "haud",
-    "traditional_chinese": "豪德",
-    "definition_cht": "指與「豪德」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "豪德陣颮",
+    "definition_cht": "蘇格蘭地方用語，指突發而短暫的強風或陣颮。屬區域性俗稱，常對應一般氣象上的 squall。",
     "source_url": "https://glossary.ametsoc.org/wiki/haud"
   },
   {
     "english": "haugull",
-    "traditional_chinese": "豪鷗",
-    "definition_cht": "指與「豪鷗」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "豪古爾海風",
+    "definition_cht": "蘇格蘭與挪威夏季自海上吹來的寒冷潮濕風之地方名稱，常帶來低溫、濕氣與海霧感受。",
     "source_url": "https://glossary.ametsoc.org/wiki/haugull"
   },
   {
     "english": "haze",
     "traditional_chinese": "霾",
-    "definition_cht": "由大量微小乾粒子懸浮於空氣中所造成的能見度降低現象，與霧不同，其相對濕度通常較低且不致使空氣達飽和。",
+    "definition_cht": "空氣中懸浮微小乾性或吸濕性粒子，因散射光線而使能見度與天空清晰度降低的現象；其粒子常為氣膠、污染微粒或鹽粒，與飽和條件下形成的霧不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/haze"
   },
   {
     "english": "haze aloft",
-    "traditional_chinese": "高處的陰霾",
-    "definition_cht": "指與「高處的陰霾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高空霾",
+    "definition_cht": "底部未接觸地表、懸浮於空中的霾層，即霾主要存在於離地一定高度的大氣層中。",
     "source_url": "https://glossary.ametsoc.org/wiki/haze_aloft"
   },
   {
     "english": "haze droplet",
-    "traditional_chinese": "霧滴",
-    "definition_cht": "指與「霧滴」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "霾滴",
+    "definition_cht": "構成大氣霾狀態的小型液滴，粒徑通常小於 1 微米；常為未達飽和環境中的鹽類水溶液滴，也可能含有烴類或硫酸銨等污染成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/haze_droplet"
   },
   {
     "english": "haze horizon",
-    "traditional_chinese": "霾際線",
-    "definition_cht": "指與「霾際線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "霾天際線",
+    "definition_cht": "自高處向外觀測時，受低層逆溫限制的霾層上界因外觀近似地平線而形成的視覺界線；此時真實地平線常被霾層遮蔽。",
     "source_url": "https://glossary.ametsoc.org/wiki/haze_horizon"
   },
   {
     "english": "haze layer",
     "traditional_chinese": "霾層",
-    "definition_cht": "指與「霾層」相關的大氣、海洋或湖泊層結構，通常依熱力、密度、鹽度或動力特徵加以區分。",
+    "definition_cht": "大氣中由大量霾粒子組成的層狀區域，上界常受逆溫層限制而形成明顯界面，範圍可由局地都市延伸至大尺度穩定氣團。",
     "source_url": "https://glossary.ametsoc.org/wiki/haze_layer"
   },
   {
     "english": "haze line",
-    "traditional_chinese": "霧線",
-    "definition_cht": "指與「霧線」相關的線性界面、基準線或分析線，常作為場型判讀與結構定位的輔助。",
+    "traditional_chinese": "霾界線",
+    "definition_cht": "霾層與其上方較清澈空氣之間的邊界面，即霾層頂部；常位於抑制垂直混合的逆溫層底附近，從飛機上觀測時特別清楚。",
     "source_url": "https://glossary.ametsoc.org/wiki/haze_line"
   },
   {
     "english": "hazemeter",
-    "traditional_chinese": "霧度計",
-    "definition_cht": "用於量測「霧度計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "霾度計",
+    "definition_cht": "有時用來泛指透射儀（transmissometer）的名稱，即以量測光束穿透大氣或介質後衰減程度來評估霾、能見度或透光性的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/hazemeter"
   },
   {
