@@ -21865,122 +21865,122 @@
   },
   {
     "english": "glacial rebound",
-    "traditional_chinese": "冰川反彈",
-    "definition_cht": "指與「冰川反彈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冰後回彈",
+    "definition_cht": "大型冰蓋或冰川消融後，地殼因失去冰體重量而逐漸回升的等靜力調整現象；其影響可延續數千年，並會改變相對海平面與地表高程。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial_rebound"
   },
   {
     "english": "glacial trough",
-    "traditional_chinese": "冰槽",
-    "definition_cht": "指與「冰槽」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冰蝕槽谷",
+    "definition_cht": "由冰川侵蝕形成的 U 形谷地，橫剖面常呈谷底較寬平、谷壁較陡直的槽狀地形。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacial_trough"
   },
   {
     "english": "glaciation",
-    "traditional_chinese": "冰化作用",
-    "definition_cht": "可指雲中過冷水滴轉變為冰晶之冰化過程，亦可泛指地表受冰川作用影響之冰川化現象；實際意義依語境而定。",
+    "traditional_chinese": "冰川作用",
+    "definition_cht": "泛指冰川形成、擴張與消退，以及其對地表造成侵蝕、搬運與堆積的過程；在古氣候語境中亦可指冰期中冰體擴展的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/glaciation"
   },
   {
     "english": "glaciation limit",
-    "traditional_chinese": "冰河作用極限",
-    "definition_cht": "指與「冰河作用極限」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冰川作用界限",
+    "definition_cht": "指冰川侵蝕、堆積或冰體覆蓋所能到達的界線，用以標示某地曾受冰川作用影響的最大範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/glaciation_limit"
   },
   {
     "english": "glacier",
     "traditional_chinese": "冰川",
-    "definition_cht": "指與「冰川」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "由多年積雪經壓實與再結晶形成、並在重力作用下持續流動的陸地冰體。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacier"
   },
   {
     "english": "glacier flood",
     "traditional_chinese": "冰川洪水",
-    "definition_cht": "指與「冰川洪水」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "由冰川融水大量匯流、冰川湖潰決，或冰體暫時阻水後突然釋放所引發的洪水。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacier_flood"
   },
   {
     "english": "glacier flow",
-    "traditional_chinese": "冰川流",
-    "definition_cht": "指與「冰川流」相關的流動型態、平均流場或輸送結構。",
+    "traditional_chinese": "冰川流動",
+    "definition_cht": "冰川在重力作用下，經由內部變形與底部滑動而沿坡向下移動的流動現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacier_flow"
   },
   {
     "english": "glacier front",
-    "traditional_chinese": "冰河前緣",
-    "definition_cht": "指與「冰河前緣」相關的鋒面或密度邊界結構，常伴隨風、溫度與濕度的明顯變化。",
+    "traditional_chinese": "冰川前緣",
+    "definition_cht": "冰川向前延伸的末端邊界，亦稱冰川終端；其位置常隨冰川前進或後退而改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacier_front"
   },
   {
     "english": "glacier ice",
     "traditional_chinese": "冰川冰",
-    "definition_cht": "指與「冰川冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "definition_cht": "由積雪經多年壓密與再結晶形成的致密冰體，是構成冰川的主要冰質材料。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacier_ice"
   },
   {
     "english": "glacier tongue",
-    "traditional_chinese": "冰川舌",
-    "definition_cht": "指與「冰川舌」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冰舌",
+    "definition_cht": "自山谷或主冰體向外伸出的狹長冰川部分，外形似舌，常沿谷地向下游延伸。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacier_tongue"
   },
   {
     "english": "glacier wind",
     "traditional_chinese": "冰川風",
-    "definition_cht": "受冰川表面強冷卻影響，冷密空氣沿坡面向下流動而形成的局地下坡風。",
+    "definition_cht": "受冰川表面強烈冷卻影響，冷密空氣沿冰川或山坡向下流動而形成的局地下坡風，屬於一種冰川性下降風。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacier_wind"
   },
   {
     "english": "glacierization",
     "traditional_chinese": "冰川化",
-    "definition_cht": "指與「冰川化」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "地表區域因冰川形成或擴張而被冰體覆蓋，並逐漸呈現冰川地貌特徵的過程或狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/glacierization"
   },
   {
     "english": "glaciology",
     "traditional_chinese": "冰川學",
-    "definition_cht": "指與「冰川學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "研究冰川、冰蓋、積雪與其他天然冰體之形成、性質、運動與演變的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/glaciology"
   },
   {
     "english": "glaçon",
-    "traditional_chinese": "格拉松",
-    "definition_cht": "指與「格拉松」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冰柱；冰塊（法語）",
+    "definition_cht": "法語詞，常指冰柱，也可指小冰塊或冰塊；在氣象或寒區語境中多用於描述結冰外觀，而非常用英語專門術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/gla%C3%A7on"
   },
   {
     "english": "glare",
-    "traditional_chinese": "強光",
-    "definition_cht": "指與「強光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "眩光",
+    "definition_cht": "由直射或反射的強光造成視覺不適或辨識能力下降的現象，常影響道路、航空與海面觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/glare"
   },
   {
     "english": "glare ice",
-    "traditional_chinese": "光滑冰",
-    "definition_cht": "指與「光滑冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "traditional_chinese": "透明冰",
+    "definition_cht": "表面光滑且近乎透明的薄冰，常由凍雨或過冷水在路面、跑道等表面凍結形成，因不易察覺而具高度危險性。",
     "source_url": "https://glossary.ametsoc.org/wiki/glare_ice"
   },
   {
     "english": "glass",
     "traditional_chinese": "玻璃",
-    "definition_cht": "指與「玻璃」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "泛指玻璃材料；在氣象儀器語境中，常指溫度計、氣壓計、觀測窗或防護罩所用的玻璃部件。",
     "source_url": "https://glossary.ametsoc.org/wiki/glass"
   },
   {
     "english": "glaves",
-    "traditional_chinese": "手套",
-    "definition_cht": "指與「手套」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "手套（古字／異拼）",
+    "definition_cht": "英語中的古字或異拼形式，意指手套；在寒區或野外觀測語境中可泛指保護手部以防寒、防濕或防磨損的裝備。",
     "source_url": "https://glossary.ametsoc.org/wiki/glaves"
   },
   {
     "english": "glaze",
-    "traditional_chinese": "釉",
-    "definition_cht": "指與「釉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "釉冰",
+    "definition_cht": "由凍雨或毛毛凍雨在物體表面凍結所形成的光滑透明冰層，常附著於樹枝、電線、道路或航空器表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/glaze"
   },
   {
     "english": "glaze storm",
-    "traditional_chinese": "釉風暴",
-    "definition_cht": "指與「釉風暴」相關的風暴、擾動系統或劇烈天氣現象。",
+    "traditional_chinese": "釉冰暴",
+    "definition_cht": "以凍雨造成大範圍釉冰積聚為主要特徵的冬季風暴，常導致交通中斷、樹木折損與電力設施受損。",
     "source_url": "https://glossary.ametsoc.org/wiki/glaze_storm"
   },
   {
