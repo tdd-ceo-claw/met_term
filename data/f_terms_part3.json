@@ -421,103 +421,103 @@
   },
   {
     "english": "free water",
-    "traditional_chinese": "free water",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free water」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "自由水",
+    "definition_cht": "在水文、土壤或雲微物理中，指未被礦物顆粒、孔隙結構或化學鍵強烈束縛、可自由移動、滲流或被排出的液態水。"
   },
   {
     "english": "free wave",
-    "traditional_chinese": "free wave",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free wave」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "自由波",
+    "definition_cht": "指在初始擾動形成後，不再受持續外力驅動，而依介質本身的動力與邊界條件自行傳播的波動。"
   },
   {
     "english": "free-board",
-    "traditional_chinese": "free-board",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free-board」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "乾舷",
+    "definition_cht": "指船舶、浮冰或其他浮體自水線至其上緣或甲板邊緣的垂直距離，可用來表示露出水面的高度與剩餘浮力。"
   },
   {
     "english": "free-stream Mach number",
-    "traditional_chinese": "free-stream Mach number",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free-stream Mach number」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "自由流馬赫數",
+    "definition_cht": "指物體上游未受其擾動之來流的馬赫數，亦即自由流速度與當地音速之比，常用於航空與可壓縮流分析。"
   },
   {
     "english": "free-surface conditions",
-    "traditional_chinese": "free-surface conditions",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「free-surface conditions」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "自由液面條件",
+    "definition_cht": "指流體具有與大氣相接的自由液面之狀態；此時液面壓力通常近似為大氣壓，常見於河川、渠道、湖泊與水槽流。"
   },
   {
     "english": "freeze",
-    "traditional_chinese": "freeze",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "結凍",
+    "definition_cht": "在天氣與農業氣象上，通常指近地面氣溫降至冰點或以下，使植物、地表或淺層水體可能受凍；其發生不一定伴隨霜的形成。"
   },
   {
     "english": "freeze probability curve",
-    "traditional_chinese": "freeze probability curve",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze probability curve」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "結凍機率曲線",
+    "definition_cht": "依歷年氣候統計繪製之機率曲線，用以表示某地在一年中不同日期發生結凍事件的機率，常用於推估初霜、終霜或作物風險。"
   },
   {
     "english": "freeze-free period",
-    "traditional_chinese": "freeze-free period",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze-free period」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "無凍期",
+    "definition_cht": "指一年中春季最後一次結凍與秋季第一次結凍之間、通常不會出現冰點以下致害低溫的期間。"
   },
   {
     "english": "freeze-up",
-    "traditional_chinese": "freeze-up",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze-up」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "封凍",
+    "definition_cht": "指河川、湖泊或海面進入季節性結冰並逐漸形成連續冰層的過程或其開始時段。"
   },
   {
     "english": "freeze–thaw pattern",
-    "traditional_chinese": "freeze–thaw pattern",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「freeze–thaw pattern」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "凍融型態",
+    "definition_cht": "指地表、土壤、積雪或岩體在一段時間內反覆凍結與融解的時序、頻率與空間分布特徵。"
   },
   {
     "english": "freezing",
     "traditional_chinese": "凍結",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結」有關的現象、物理量、觀測方法或分析概念。"
+    "definition_cht": "指液態物質因降溫至其凝固條件而轉變為固態的相變過程；在氣象上常特別指水轉變為冰。"
   },
   {
     "english": "Freezing drizzle",
-    "traditional_chinese": "凍結 drizzle",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 drizzle」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "凍毛毛雨",
+    "definition_cht": "指在近地面氣溫低於冰點時降落的過冷毛毛雨，液滴落到地面或物體後立即結冰，航空與路面危害顯著。"
   },
   {
     "english": "freezing fog",
-    "traditional_chinese": "凍結 霧",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 霧」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "凍霧",
+    "definition_cht": "指由過冷水滴組成、且環境氣溫低於冰點的霧；霧滴接觸地物後會迅速結冰，常在迎風面形成霧淞或薄冰。"
   },
   {
     "english": "freezing index",
-    "traditional_chinese": "凍結 index",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 index」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "凍結指數",
+    "definition_cht": "指一段期間內低於冰點之日平均氣溫累積量，常以負積溫或度日表示，用於估算土壤凍深、路基受凍與工程設計。"
   },
   {
     "english": "freezing level",
-    "traditional_chinese": "凍結 level",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 level」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "冰點高度",
+    "definition_cht": "指大氣中氣溫等於 0°C 的高度，常作為判斷降水相態、積冰與對流層熱力結構的重要參考。"
   },
   {
     "english": "freezing nucleus",
-    "traditional_chinese": "凍結 nucleus",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 nucleus」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "凍結核",
+    "definition_cht": "指能促使過冷水滴開始結冰的微小粒子，屬冰核的一種，可藉提供成核表面而降低凍結所需能障。"
   },
   {
     "english": "freezing point",
-    "traditional_chinese": "凍結 point",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 point」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "凝固點",
+    "definition_cht": "指液體在特定壓力與成分條件下開始轉變為固體的溫度；對純水而言，在標準大氣壓下約為 0°C。"
   },
   {
     "english": "freezing precipitation",
-    "traditional_chinese": "凍結 precipitation",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 precipitation」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "凍性降水",
+    "definition_cht": "指以過冷液態形式降至近地面，接觸地面或物體後即結冰的降水總稱，主要包括凍雨與凍毛毛雨。"
   },
   {
     "english": "Freezing rain",
-    "traditional_chinese": "凍結 rain",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 rain」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "凍雨",
+    "definition_cht": "指雨滴穿過近地面冰點以下氣層後仍維持過冷液態，落到地面或外露物體時立即結冰並形成透明冰層。"
   },
   {
     "english": "freezing season",
-    "traditional_chinese": "凍結 season",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「凍結 season」有關的現象、物理量、觀測方法或分析概念。"
+    "traditional_chinese": "結凍季",
+    "definition_cht": "指一年中氣溫經常降至冰點或以下、足以使地表、水體、土壤或植被反覆發生結凍現象的季節性時段。"
   },
   {
     "english": "freezing spray",
