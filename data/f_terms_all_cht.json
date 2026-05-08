@@ -1214,7 +1214,7 @@
   {
     "english": "foehn storm",
     "traditional_chinese": "焚風暴",
-    "definition_cht": "伴隨強烈焚風、顯著陣風與劇烈乾暖效應的天氣事件，常對火災與設施安全造成威脅。",
+    "definition_cht": "指伴隨強烈焚風的風暴性天氣事件，特徵為背風側出現顯著升溫、乾燥與強陣風；在山麓與谷地常造成火險升高、能見度惡化或設施受損。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_storm"
   },
   {
@@ -1297,26 +1297,26 @@
   },
   {
     "english": "fog horizon",
-    "traditional_chinese": "霧 horizon",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「霧 horizon」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "霧際線",
+    "definition_cht": "自高處或遠處觀察大片霧層時，其上表面或遠端邊界所呈現的視覺地平線；常用於描述霧海、海霧或低層霧層的外觀界線。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_horizon"
   },
   {
     "english": "fog patches",
-    "traditional_chinese": "霧 patches",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「霧 patches」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "零星霧區",
+    "definition_cht": "分散出現、範圍較小且分布不連續的局部霧區，常較 patchy fog 更強調可辨識的個別霧塊或霧片。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_patches"
   },
   {
     "english": "fog scale",
-    "traditional_chinese": "霧 scale",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「霧 scale」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "霧級",
+    "definition_cht": "依能見度降低程度、霧滴濃度或觀測外觀對霧進行分級的尺度或分類方式；不同單位與文獻之分級門檻可略有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_scale"
   },
   {
     "english": "fog wind",
-    "traditional_chinese": "霧 wind",
-    "definition_cht": "此術語用於氣象、海洋、水文或相關環境科學領域，描述與「霧 wind」有關的現象、物理量、觀測方法或分析概念。",
+    "traditional_chinese": "霧風",
+    "definition_cht": "指伴隨霧或將霧輸送至某地的氣流；常用於描述把海霧、谷霧或低層濕冷空氣帶入沿岸或低地、因而使能見度惡化的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_wind"
   },
   {
