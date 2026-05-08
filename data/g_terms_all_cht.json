@@ -1736,121 +1736,121 @@
   {
     "english": "ground state",
     "traditional_chinese": "基態",
-    "definition_cht": "指與「基態」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "在物理或化學中，指系統能量最低且最穩定的狀態；於大氣輻射、光譜與雲微物理討論中，常指原子或分子未受激發時的最低能階。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_state"
   },
   {
     "english": "ground streamer",
-    "traditional_chinese": "地面飄帶",
-    "definition_cht": "指與「地面飄帶」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面上行流光",
+    "definition_cht": "雷暴強電場作用下，自地面或高聳物體尖端向上發展的細弱電離通道；其若與下行先導接合，可能成為閃電回擊的起始路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_streamer"
   },
   {
     "english": "ground swell",
-    "traditional_chinese": "地面隆起",
-    "definition_cht": "指與「地面隆起」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "湧浪",
+    "definition_cht": "由遠方風暴或持續強風吹送所生成、傳播至當地海域的規則長週期海浪，通常較當地風浪平順且波長較長。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_swell"
   },
   {
     "english": "ground target",
-    "traditional_chinese": "地面目標",
-    "definition_cht": "指與「地面目標」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面標靶",
+    "definition_cht": "遙測、雷達或攝影測量中設置或選取於地表的已知目標，用以校正儀器、定位幾何、估算回波特性或驗證觀測產品。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_target"
   },
   {
     "english": "ground track",
-    "traditional_chinese": "地面軌道",
-    "definition_cht": "指與「地面軌道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面軌跡",
+    "definition_cht": "衛星、太空載具或航空器在飛行過程中，其在地球表面正下方所描出的投影路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_track"
   },
   {
     "english": "ground truth",
-    "traditional_chinese": "基本事實",
-    "definition_cht": "指與「基本事實」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面實測真值",
+    "definition_cht": "由地面或近地現場直接觀測與量測所得的實際資料，常用來校正與驗證遙測產品、數值模式、分類結果或分析方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_truth"
   },
   {
     "english": "ground visibility",
     "traditional_chinese": "地面能見度",
-    "definition_cht": "指與「地面能見度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "由地面觀測員或地面儀器在測站附近評定的水平能見距離，用以表示近地面大氣透明度，並可作為航空與地面天氣報告之依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_visibility"
   },
   {
     "english": "ground wave",
     "traditional_chinese": "地波",
-    "definition_cht": "指與「地波」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "definition_cht": "沿地表或緊貼地表傳播的無線電波，能藉繞射順應地球曲率前進，常見於長波與中波通訊傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_wave"
   },
   {
     "english": "ground-check chamber",
-    "traditional_chinese": "地面檢查室",
-    "definition_cht": "指與「地面檢查室」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面檢驗艙",
+    "definition_cht": "在探空或氣象儀器施放前，用於地面檢查、比對與校正感測器的封閉艙室，可提供受控環境以確認儀器讀值是否正常。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground-check_chamber"
   },
   {
     "english": "ground-controlled approach",
-    "traditional_chinese": "地面控制進場",
-    "definition_cht": "指與「地面控制進場」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面管制進場",
+    "definition_cht": "由地面雷達監視飛機位置，並透過無線電持續指示航向與下滑路徑的進場方式，常用於低能見度或精密進場引導。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground-controlled_approach"
   },
   {
     "english": "ground-to-cloud discharge",
     "traditional_chinese": "地對雲放電",
-    "definition_cht": "指與「地對雲放電」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、形成機制與所對應的大氣狀態。",
+    "definition_cht": "由地面物體向上發展並連接雲中電荷區的閃電放電型式，屬上行閃電的一類，常見於高塔、山峰或風機附近。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground-to-cloud_discharge"
   },
   {
     "english": "Groundhog Day",
     "traditional_chinese": "土撥鼠日",
-    "definition_cht": "指與「土撥鼠日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "北美於每年 2 月 2 日舉行的民俗節日，依土撥鼠是否見到自身影子來預測冬季是否延長，屬民間天氣諺語傳統而非科學預報方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/Groundhog_Day"
   },
   {
     "english": "grounding line",
     "traditional_chinese": "接地線",
-    "definition_cht": "指與「接地線」相關的線性界面、基準線或分析線，常作為場型判讀與結構定位的輔助。",
+    "definition_cht": "冰川學中指冰蓋或冰川底部由附著於基岩、海床而轉為漂浮冰棚的交界線，是評估海洋型冰蓋穩定性的重要邊界。",
     "source_url": "https://glossary.ametsoc.org/wiki/grounding_line"
   },
   {
     "english": "groundwater",
     "traditional_chinese": "地下水",
-    "definition_cht": "指與「地下水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "存在於地表以下土壤孔隙、沉積物或岩體裂隙中的水體，通常儲存於含水層內，為重要的淡水資源。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater"
   },
   {
     "english": "groundwater basin",
     "traditional_chinese": "地下水盆地",
-    "definition_cht": "指與「地下水盆地」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "具有共同補注、儲存與排泄特性的地下水地質單元，通常由水文地質邊界所界定，可作為地下水資源管理與評估的基本區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_basin"
   },
   {
     "english": "groundwater dam",
     "traditional_chinese": "地下水壩",
-    "definition_cht": "指與「地下水壩」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "設於地下含水層或谷地沉積層中的阻水構造，用以攔截地下水流、提高上游地下水位並增加可利用儲水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_dam"
   },
   {
     "english": "groundwater dating",
-    "traditional_chinese": "地下水約會",
-    "definition_cht": "指與「地下水約會」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "地下水定年",
+    "definition_cht": "利用同位素、溶質示蹤劑或化學成分推估地下水補注年代與停留時間的方法，用於判定地下水年齡及流動歷程。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_dating"
   },
   {
     "english": "groundwater depletion curve",
-    "traditional_chinese": "地下水枯竭曲線",
-    "definition_cht": "指與「地下水枯竭曲線」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "地下水消退曲線",
+    "definition_cht": "表示在補注減弱或停止後，地下水位、泉流量或基流隨時間遞減關係的曲線，用於分析含水層釋水特性與儲量變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_depletion_curve"
   },
   {
     "english": "groundwater divide",
-    "traditional_chinese": "地下水分水嶺",
-    "definition_cht": "指與「地下水分水嶺」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "地下水分水界",
+    "definition_cht": "分隔不同地下水流向或地下水流域的界線，通常對應於地下水位面上的高點或脊線。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_divide"
   },
   {
     "english": "groundwater flow",
-    "traditional_chinese": "地下水流量",
-    "definition_cht": "指與「地下水流量」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "地下水流動",
+    "definition_cht": "地下水在孔隙介質或岩層裂隙中，受水力梯度與重力驅動而產生的移動過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/groundwater_flow"
   },
   {
