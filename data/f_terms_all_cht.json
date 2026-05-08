@@ -2041,122 +2041,122 @@
   },
   {
     "english": "friagem",
-    "traditional_chinese": "南侵冷潮",
-    "definition_cht": "南美洲熱帶地區，特別是亞馬遜盆地，受中高緯冷空氣北侵影響而出現的短期顯著降溫現象。",
+    "traditional_chinese": "寒潮南侵",
+    "definition_cht": "指南半球冬季冷空氣自南向北侵入亞馬遜盆地及玻利維亞東部等熱帶地區所造成的短期明顯降溫現象，亦常伴隨風向與濕度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/friagem"
   },
   {
     "english": "friction",
     "traditional_chinese": "摩擦",
-    "definition_cht": "相鄰流體層或流體與固體邊界間因黏滯作用而產生的阻力，可耗散動能並改變風場、水流與湍流結構。",
+    "definition_cht": "指相鄰流體層之間或流體與地表、固體邊界之間因黏滯與粗糙效應所產生的阻力；在氣象上會減弱近地風速，並改變風向與湍流結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/friction"
   },
   {
     "english": "friction head",
     "traditional_chinese": "摩擦水頭損失",
-    "definition_cht": "流體在管道、孔隙介質或水力系統中流動時，因摩擦阻力所損失的等效水頭。",
+    "definition_cht": "流體在管道、渠道或孔隙介質中流動時，因摩擦阻力造成之總水頭降低，常以等效水頭損失表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/friction_head"
   },
   {
     "english": "friction layer",
     "traditional_chinese": "摩擦層",
-    "definition_cht": "接近地表或海面、受摩擦力顯著影響的流體層，風速與風向會隨高度快速調整，通常屬行星邊界層下部。",
+    "definition_cht": "受地表摩擦顯著影響的大氣下層，通常約自地表延伸至約 1 公里高度，風速與風向會在此層內明顯隨高度改變；常視為行星邊界層。",
     "source_url": "https://glossary.ametsoc.org/wiki/friction_layer"
   },
   {
     "english": "friction loss",
     "traditional_chinese": "摩擦損失",
-    "definition_cht": "流體運動過程中因壁面阻力或內部黏滯耗散而造成的能量損耗，常表現為壓降或水頭降低。",
+    "definition_cht": "流體流動時因壁面阻力與內部黏滯耗散所造成的能量損失，常表現為壓力損失或水頭損失。",
     "source_url": "https://glossary.ametsoc.org/wiki/friction_loss"
   },
   {
     "english": "friction velocity",
     "traditional_chinese": "摩擦速度",
-    "definition_cht": "由表面剪應力定義的速度尺度，常記為 u*，用於表徵地表層動量交換與湍流強度。",
+    "definition_cht": "由表面或邊界剪應力換算得到的特徵速度尺度，常記為 u*，亦稱剪應速度，用於表徵近地層動量交換與湍流強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/friction_velocity"
   },
   {
     "english": "frictional convergence",
     "traditional_chinese": "摩擦輻合",
-    "definition_cht": "近地面氣流受摩擦減速後，風向偏向低壓區而造成的水平輻合現象，常促進上升運動與雲雨發展。",
+    "definition_cht": "近地面氣流受摩擦減速後，科氏力隨之減弱，使風更偏向低壓方向而形成的水平輻合，常有利於上升運動與雲雨發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/frictional_convergence"
   },
   {
     "english": "frictional divergence",
     "traditional_chinese": "摩擦輻散",
-    "definition_cht": "近地面氣流在摩擦作用下形成的水平散開現象，常見於高壓區附近，並有助於下沉運動維持。",
+    "definition_cht": "近地面氣流在摩擦作用下形成的水平散開現象，常見於高壓區附近，並有助於維持下沉運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/frictional_divergence"
   },
   {
     "english": "frictional drag",
     "traditional_chinese": "摩擦阻力",
-    "definition_cht": "流體與邊界面或不同流層間因黏滯與粗糙效應所產生的阻力，是動量耗散的重要來源。",
+    "definition_cht": "流體與邊界面或不同流層之間因黏滯與表面粗糙效應所產生的阻力，為動量耗散的重要來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/frictional_drag"
   },
   {
     "english": "frictional force",
     "traditional_chinese": "摩擦力",
-    "definition_cht": "阻礙相對運動的力；在氣象與海洋中主要指地表或內部黏滯作用對氣流、水流所施加之阻力。",
+    "definition_cht": "阻礙相對運動的力；在氣象與海洋中多指地表或流體內部黏滯作用對氣流、水流施加的阻力。",
     "source_url": "https://glossary.ametsoc.org/wiki/frictional_force"
   },
   {
     "english": "frictional skin drag",
     "traditional_chinese": "表面摩擦阻力",
-    "definition_cht": "流體沿物體表面流動時，由邊界層內剪應力所造成的阻力成分，與表面粗糙度及流速有關。",
+    "definition_cht": "流體沿物體表面流動時，由邊界層內剪應力所造成的阻力成分，與表面粗糙度、流速及流況有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/frictional_skin_drag"
   },
   {
     "english": "frictional torque",
     "traditional_chinese": "摩擦力矩",
-    "definition_cht": "摩擦力相對某旋轉軸產生的力矩，可改變環流、渦旋或旋轉機械系統的角動量。",
+    "definition_cht": "摩擦力相對某一旋轉軸所產生的力矩，可改變流體環流、渦旋或旋轉系統的角動量。",
     "source_url": "https://glossary.ametsoc.org/wiki/frictional_torque"
   },
   {
     "english": "friendly ice",
-    "traditional_chinese": "易航冰",
-    "definition_cht": "對船舶航行阻礙較小、較易通過的海冰狀態，通常指分散、薄弱或活動度較高之冰況。",
+    "traditional_chinese": "易通航冰況",
+    "definition_cht": "對船舶航行阻礙較小、較易穿越的海冰狀態，通常指冰層較薄、分散度較高或活動性較大的冰況。",
     "source_url": "https://glossary.ametsoc.org/wiki/friendly_ice"
   },
   {
     "english": "Frigid zone",
     "traditional_chinese": "寒帶",
-    "definition_cht": "地理上指位於兩極圈以內的高緯度帶，全年太陽高度低、氣溫偏低，冰雪與極地氣候特徵明顯。",
+    "definition_cht": "地理上指位於北極圈與南極圈以內的高緯度地帶，全年太陽高度低、熱量收支偏少，為極地與寒冷氣候特徵最明顯的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/Frigid_zone"
   },
   {
     "english": "frigorimeter",
-    "traditional_chinese": "冷量計",
-    "definition_cht": "用於量測冷卻效應或低溫造成熱量損失程度的儀器，歷史上曾用於環境冷卻能力評估。",
+    "traditional_chinese": "低溫溫度計",
+    "definition_cht": "用於量測低溫的溫度計；歷史文獻中亦可指評估寒冷環境冷卻效應的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/frigorimeter"
   },
   {
     "english": "fringe region",
     "traditional_chinese": "邊緣區",
-    "definition_cht": "某一主要天氣系統、雲體、回波場或水文影響範圍之外圍過渡地帶，其物理特徵通常較核心區弱且變化較大。",
+    "definition_cht": "外逸層上部的區域，亦稱 spray region；在此處逃逸錐可達或超過 180°，粒子碰撞機率極低，常沿近自由軌道受地球重力控制而運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/fringe_region"
   },
   {
     "english": "frog storm",
-    "traditional_chinese": "蛙雨暴風",
-    "definition_cht": "民俗或罕見報導用語，指強對流或龍捲等天氣將蛙類捲升後隨降水落下的特殊現象。",
+    "traditional_chinese": "蛙鳴暴風",
+    "definition_cht": "罕用俗稱，指春季經過一段暖和天氣後首次出現的風暴或明顯不穩定天氣，亦稱 whippoorwill storm，並非指蛙類自空中落下。",
     "source_url": "https://glossary.ametsoc.org/wiki/frog_storm"
   },
   {
     "english": "front",
-    "traditional_chinese": "鋒",
-    "definition_cht": "性質不同的兩氣團之間所形成的狹窄過渡帶，常伴隨明顯的溫度、濕度、風向與天氣變化。",
+    "traditional_chinese": "鋒面",
+    "definition_cht": "性質不同的兩個氣團之間所形成的邊界或過渡帶，常伴隨明顯的溫度、濕度、風向與天氣變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/front"
   },
   {
     "english": "frontal analysis",
     "traditional_chinese": "鋒面分析",
-    "definition_cht": "依據地面與高空觀測資料判定鋒面位置、性質與結構的天氣分析作業，是綜觀診斷的重要內容。",
+    "definition_cht": "依據地面與高空觀測資料研判鋒面的位置、性質與結構之分析作業，是綜觀天氣診斷的重要內容。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_analysis"
   },
   {
     "english": "frontal contour",
     "traditional_chinese": "鋒面等值線",
-    "definition_cht": "用於表示鋒面相關變數分布或鋒面位置形態的分析線條，可輔助描繪鋒區結構與延伸方向。",
+    "definition_cht": "用於表示鋒區附近相關氣象變數分布的等值線，可輔助辨識鋒面位置、走向與鋒區結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_contour"
   },
   {
