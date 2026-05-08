@@ -2762,13 +2762,13 @@
   {
     "english": "annual storage",
     "traditional_chinese": "年蓄水量",
-    "definition_cht": "為調節一年內河川流量的季節變化而水庫所需具備的年調節庫容。",
+    "definition_cht": "指水庫為調節一年內河川徑流的季節變化而需保留的年調節庫容。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_storage"
   },
   {
     "english": "anomalous",
     "traditional_chinese": "異常的",
-    "definition_cht": "偏離一般規律或常見型態的；其所指差異通常偏重性質或型態上的不同，而不僅是程度上的大小差別。",
+    "definition_cht": "指偏離正常、常態或預期型態的；在氣象上常用以描述距平、折射、傳播等異常現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/anomalous"
   },
   {
@@ -2780,7 +2780,7 @@
   {
     "english": "anomalous refraction",
     "traditional_chinese": "異常折射",
-    "definition_cht": "非典型或異常的大氣折射現象，常由近地層溫度或濕度梯度異常引起，並可能導致海市蜃樓等光學現象。",
+    "definition_cht": "因大氣折射率的垂直梯度偏離常態而產生的異常折射現象，可使光線或電磁波路徑明顯彎曲，並造成海市蜃樓或雷達／無線電傳播異常。",
     "source_url": "https://glossary.ametsoc.org/wiki/anomalous_refraction"
   },
   {
@@ -2792,25 +2792,25 @@
   {
     "english": "anomaly correlation",
     "traditional_chinese": "距平相關係數",
-    "definition_cht": "將預報距平與驗證分析距平相對於氣候平均進行空間相關所得之指標，用以衡量預報對實際異常型態的掌握程度。",
+    "definition_cht": "以氣候平均為基準，計算預報距平場與驗證距平場之空間相關的指標，用以評估預報對實際異常型態與位置的掌握程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/anomaly_correlation"
   },
   {
     "english": "antarctic air",
     "traditional_chinese": "南極氣團",
-    "definition_cht": "形成於南極大陸上的極冷、乾燥氣團；其近地面溫度全年通常低於北極氣團。",
+    "definition_cht": "形成於南極大陸及其鄰近高緯地區的極冷、乾燥氣團，為南半球極地低層大氣的重要氣團類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_air"
   },
   {
     "english": "antarctic anticyclone",
     "traditional_chinese": "南極高壓",
-    "definition_cht": "位於南極冰蓋上空、與格陵蘭高壓相對應的冰原高壓（或冰川反氣旋），主要受強烈冷卻與冰蓋地形影響而形成。",
+    "definition_cht": "位於南極冰蓋上空、由強烈輻射冷卻與高原地形共同維持的準常性冷高壓，亦可稱冰原高壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_anticyclone"
   },
   {
     "english": "Antarctic Bottom Water",
     "traditional_chinese": "南極底層水",
-    "definition_cht": "在南極沿岸形成、密度極高並下沉至全球海洋深底層的水團，是深層海洋環流的重要組成。",
+    "definition_cht": "在南極沿岸陸棚與沿岸開放水域形成的極高密度底層水團，主要受海冰生成時鹽析增密與冷卻控制，之後下沉並充填全球深海底層。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antarctic_Bottom_Water"
   },
   {
@@ -2828,13 +2828,13 @@
   {
     "english": "antarctic divergence",
     "traditional_chinese": "南極輻散帶",
-    "definition_cht": "指南極極鋒以南、約南緯 60 度附近的海洋輻散區，深層水在此上湧並與低鹽的南極表層水混合。",
+    "definition_cht": "指南極沿岸外海的表層海水輻散區，主要由沿岸流與南極繞極流之間的艾克曼輸送差異造成，常伴隨深層水上湧。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_divergence"
   },
   {
     "english": "antarctic front",
     "traditional_chinese": "南極鋒",
-    "definition_cht": "指南極大陸上空南極氣團與南大洋極地海洋上空極地氣團之間近乎常年存在、近乎連續的鋒面。",
+    "definition_cht": "氣象上指南半球高緯、約南緯 60 度附近的極鋒地帶，為南極冷空氣與較暖中緯度空氣之交界。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_front"
   },
   {
@@ -2846,37 +2846,37 @@
   {
     "english": "Antarctic Intermediate Water",
     "traditional_chinese": "南極中層水",
-    "definition_cht": "形成於南大洋並向北擴散至中層海洋的低鹽水團，為全球海洋中層環流的重要成分。",
+    "definition_cht": "形成於南極輻合帶附近、具有相對低鹽特徵並向北擴散至中層海洋的水團，為全球海洋中層環流的重要成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antarctic_Intermediate_Water"
   },
   {
     "english": "antarctic ozone hole",
     "traditional_chinese": "南極臭氧洞",
-    "definition_cht": "南極春季平流層臭氧柱總量大幅減少所形成的區域性臭氧稀薄現象。",
+    "definition_cht": "每年南半球春季，南極平流層臭氧因極地平流層雲上的鹵素化學反應而大幅耗減，形成臭氧總量顯著偏低的區域性現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_ozone_hole"
   },
   {
     "english": "Antarctic Polar Front",
     "traditional_chinese": "南極極鋒",
-    "definition_cht": "指南極繞極流的南界，亦常稱南極輻合帶，分隔南側的南極帶與北側的極鋒帶。",
+    "definition_cht": "又稱南極輻合帶，為環繞南極的海洋鋒面；冷的南極表層水在此與較暖的亞南極水相遇並下沉，是南大洋重要的水團與生態分界。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antarctic_Polar_Front"
   },
   {
     "english": "antarctic sea smoke",
     "traditional_chinese": "南極海煙",
-    "definition_cht": "極冷空氣流過較暖開放水面時，強烈蒸發與凝結形成貼近海面的霧狀蒸氣。",
+    "definition_cht": "極冷空氣掠過較暖的開放水面時，在近海面混合冷卻後形成的蒸汽霧，外觀常呈貼近海面的煙霧狀。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_sea_smoke"
   },
   {
     "english": "antarctic stratospheric vortex",
     "traditional_chinese": "南極平流層極渦",
-    "definition_cht": "冬春季圍繞南極平流層形成的強大環狀西風渦旋，與臭氧洞演變密切相關。",
+    "definition_cht": "冬春季圍繞南極平流層形成的強大環狀氣旋式西風渦旋，與極區低溫維持及臭氧洞的形成與演變密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/antarctic_stratospheric_vortex"
   },
   {
     "english": "Antarctic Surface Water",
     "traditional_chinese": "南極表層水",
-    "definition_cht": "分布於南大洋高緯表層、受海冰與季節性熱鹽交換影響顯著的水團。",
+    "definition_cht": "分布於南極輻合帶以南的低溫表層水團，受海冰形成與融化、淡水輸入及季節性熱鹽交換明顯影響，並參與南大洋上層環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Antarctic_Surface_Water"
   },
   {
