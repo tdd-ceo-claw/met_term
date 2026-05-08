@@ -18248,121 +18248,121 @@
   {
     "english": "extended forecast",
     "traditional_chinese": "延伸預報",
-    "definition_cht": "時效較一般短期預報更長的預報產品，常涵蓋中期至次季節尺度。",
+    "definition_cht": "指預報時效超過一般短期天氣預報的產品，通常涵蓋數日至二週左右，著重較大尺度環流型態與溫度、降水等趨勢判斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/extended_forecast"
   },
   {
     "english": "extended source",
-    "traditional_chinese": "延展源",
-    "definition_cht": "「延展源」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "延展源；擴展源",
+    "definition_cht": "指在空間上具有可觀尺寸、不可視為單一點位的源區；在輻射、聲學、污染擴散或遙測中，常用以區別於點源，其發射或放射需考慮面積、形狀與角展度。",
     "source_url": "https://glossary.ametsoc.org/wiki/extended_source"
   },
   {
     "english": "extensible balloon",
-    "traditional_chinese": "可伸縮氣球",
-    "definition_cht": "「可伸縮氣球」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "可膨脹氣球",
+    "definition_cht": "指可隨外界氣壓降低而持續伸張的氣球，常用於高空探測；升空過程中球體膨脹，直到材料極限時破裂，以攜帶探空儀量測高空氣象要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/extensible_balloon"
   },
   {
     "english": "extensive quantity",
     "traditional_chinese": "廣延量",
-    "definition_cht": "表示「廣延量」所對應性質、能力或統計特徵的抽象量，用於描述系統行為或介質特性。",
+    "definition_cht": "其數值會隨系統大小、質量或物質總量成比例改變的物理量，例如質量、體積與總能量；與不隨系統尺度改變的強度量（intensive quantity）相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/extensive_quantity"
   },
   {
     "english": "external forcings",
     "traditional_chinese": "外部強迫",
-    "definition_cht": "「外部強迫」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指來自氣候或環境系統外部的驅動因子，例如太陽輻射變化、火山氣膠、人為溫室氣體排放或土地利用改變，可改變系統能量收支與演變趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/external_forcings"
   },
   {
     "english": "external water circulation",
     "traditional_chinese": "外部水循環",
-    "definition_cht": "指「外部水循環」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "指地表與大氣之間進行的水循環過程，包括蒸發、凝結、降水、逕流與入滲等，通常用以區別於地球內部由岩漿或深部地質作用所驅動的內部水循環。",
     "source_url": "https://glossary.ametsoc.org/wiki/external_water_circulation"
   },
   {
     "english": "external wave",
     "traditional_chinese": "外波",
-    "definition_cht": "指與「外波」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "definition_cht": "在分層流體中，主要表現為自由表面起伏、且整個水柱近乎同相運動的重力波；其相速通常較內波快，海面波常可視為外波的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/external_wave"
   },
   {
     "english": "extinction",
     "traditional_chinese": "消光",
-    "definition_cht": "指「消光」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "指光或其他電磁輻射在介質中因吸收與散射而逐漸衰減的現象；在大氣光學與遙測中，消光大小會影響能見度、輻射傳輸與反演結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/extinction"
   },
   {
     "english": "extinction coefficient",
     "traditional_chinese": "消光係數",
-    "definition_cht": "描述光束或電磁波在介質中因吸收與散射而衰減速率的係數。",
+    "definition_cht": "表示電磁波在介質中因吸收與散射而隨傳播距離衰減速率的係數，常用於描述大氣、雲霧、氣膠或水體對輻射的削弱程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/extinction_coefficient"
   },
   {
     "english": "extinction cross section",
     "traditional_chinese": "消光截面",
-    "definition_cht": "指「消光截面」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "表示單一粒子對入射輻射造成總消光能力的等效面積，為吸收截面與散射截面之和；常用於氣膠、雲滴與降水粒子的光學性質分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/extinction_cross_section"
   },
   {
     "english": "extraordinary ray",
     "traditional_chinese": "異常射線",
-    "definition_cht": "「異常射線」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在雙折射介質或受地磁場影響的電離層中，與普通射線相對的一種傳播模態；其折射率、偏振與傳播路徑受介質各向異性影響，常見於無線電波與電磁波傳播分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/extraordinary_ray"
   },
   {
     "english": "extrapolation",
     "traditional_chinese": "外推",
-    "definition_cht": "指「外推」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "根據既有觀測值、經驗關係或模式結果，將估計延伸至已知資料範圍之外的方法；在氣象與水文應用中常用於時間、空間或統計關係的推估，但不確定性通常高於內插。",
     "source_url": "https://glossary.ametsoc.org/wiki/extrapolation"
   },
   {
     "english": "extraterrestrial radiation",
     "traditional_chinese": "地外輻射",
-    "definition_cht": "到達大氣頂外側的太陽輻射量，尚未受大氣吸收與散射影響。",
+    "definition_cht": "指到達地球大氣層頂之外側的太陽輻射量，尚未經大氣吸收、散射或反射；常作為太陽能、蒸發散估算與輻射收支計算的基準量。",
     "source_url": "https://glossary.ametsoc.org/wiki/extraterrestrial_radiation"
   },
   {
     "english": "extratropical",
-    "traditional_chinese": "溫帶外的",
-    "definition_cht": "「溫帶外的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "熱帶外的",
+    "definition_cht": "指位於熱帶地區之外，通常為中高緯度的區域、氣團、天氣系統或氣候特徵；常用以區別於 tropical（熱帶）的性質與動力機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/extratropical"
   },
   {
     "english": "extratropical cyclone",
-    "traditional_chinese": "溫帶氣旋",
-    "definition_cht": "形成於中高緯度、主要由水平溫度梯度與斜壓不穩定維持發展的氣旋系統。",
+    "traditional_chinese": "溫帶氣旋；熱帶外氣旋",
+    "definition_cht": "形成並發展於中高緯度、主要受水平溫度梯度與斜壓不穩定驅動的低壓天氣系統，常伴隨鋒面、雲帶、降水與強風，是溫帶地區主要的擾動型態之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/extratropical_cyclone"
   },
   {
     "english": "extreme",
     "traditional_chinese": "極端",
-    "definition_cht": "「極端」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指變數值落在機率分布尾端、顯著偏離一般狀態的情形，可表現為異常偏高、偏低、偏強或偏弱；在氣候與災害研究中常用於描述少見但影響顯著的事件或條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/extreme"
   },
   {
     "english": "extreme temperature",
     "traditional_chinese": "極端溫度",
-    "definition_cht": "指與「極端溫度」相關的溫度量、代表性熱狀態或熱力診斷參數。",
+    "definition_cht": "指相對於當地氣候平均而言異常偏高或偏低、位於溫度分布尾端的溫度狀況，可對人體健康、生態、農業、能源需求與基礎設施造成顯著影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/extreme_temperature"
   },
   {
     "english": "extreme value analysis",
     "traditional_chinese": "極值分析",
-    "definition_cht": "研究樣本極大值或極小值統計特性的分析方法，常用於估計重現期與風險門檻。",
+    "definition_cht": "以極大值、極小值或超越門檻樣本為對象，分析其機率分布與發生機率的方法，常用於估算重現期、設計值與高衝擊天氣水文事件風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/extreme_value_analysis"
   },
   {
     "english": "extreme value distribution",
     "traditional_chinese": "極值分布",
-    "definition_cht": "描述「極值分布」相關量值在空間、時間或樣本中的分布型態。",
+    "definition_cht": "用於描述樣本極大值或極小值統計行為的一類機率分布；在氣象、水文與工程風險分析中，常用以配適極端降雨、洪水、風速、浪高等資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/extreme_value_distribution"
   },
   {
     "english": "extreme wave height",
     "traditional_chinese": "極端浪高",
-    "definition_cht": "指與「極端浪高」相關的波動或擾動型態，用於描述其傳播、振幅、相速與動力特徵。",
+    "definition_cht": "指在特定海域、期間或重現期條件下極為罕見且特別巨大的波高值，常以極值統計方法估算，供海岸與海洋工程設計及風暴風險評估使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/extreme_wave_height"
   },
   {
