@@ -2653,8 +2653,8 @@
   },
   {
     "english": "angular velocity of the earth",
-    "traditional_chinese": "地球角速度",
-    "definition_cht": "地球自轉的角速度，約為 7.2921×10⁻⁵ 弧度每秒，是地轉偏向力與地球旋轉動力學的重要常數。",
+    "traditional_chinese": "地球自轉角速度",
+    "definition_cht": "地球自轉的角速度，約為 7.2921×10⁻⁵ 弧度每秒，是地轉偏向力、慣性週期與地球旋轉動力學的重要常數。",
     "source_url": "https://glossary.ametsoc.org/wiki/angular_velocity_of_the_earth"
   },
   {
@@ -2678,19 +2678,19 @@
   {
     "english": "angularity correction",
     "traditional_chinese": "角度修正",
-    "definition_cht": "為補償量測或觀測系統在不同入射、觀測或掃描角度下之響應差異而施加的校正或訂正。",
+    "definition_cht": "為補償儀器、感測器或觀測系統在不同入射角、觀測角或掃描角下響應差異所施加的校正或訂正。",
     "source_url": "https://glossary.ametsoc.org/wiki/angularity_correction"
   },
   {
     "english": "anhyetism",
     "traditional_chinese": "少雨性",
-    "definition_cht": "指一地區氣候上長期降水偏少的特性，常用以描述乾燥或近乾旱環境的雨量不足傾向。",
+    "definition_cht": "指一地區氣候上長期降水偏少的特性，常用以描述乾燥、半乾旱或近乾旱環境的雨量不足傾向。",
     "source_url": "https://glossary.ametsoc.org/wiki/anhyetism"
   },
   {
     "english": "anisotropic",
     "traditional_chinese": "各向異性的",
-    "definition_cht": "指物質、介質或場的物理性質會隨測量或作用方向不同而改變的。",
+    "definition_cht": "指物質、介質或場的物理性質會隨方向不同而改變，即不同方向的量測值或響應並不相同。",
     "source_url": "https://glossary.ametsoc.org/wiki/anisotropic"
   },
   {
@@ -2707,8 +2707,8 @@
   },
   {
     "english": "annual cycle",
-    "traditional_chinese": "年週期",
-    "definition_cht": "某一變數隨一年中日期而規律變化、且與特定年份無關的季節性週期成分。",
+    "traditional_chinese": "年循環",
+    "definition_cht": "某一變數在一年尺度上規律重複的週期性變化，通常反映季節效應，且與特定年份的個別異常無關。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_cycle"
   },
   {
@@ -2719,44 +2719,44 @@
   },
   {
     "english": "annual flood",
-    "traditional_chinese": "年洪水",
-    "definition_cht": "某一水文年內出現的最大洪峰流量；亦即該年代表性的最大洪水事件。",
+    "traditional_chinese": "年最大洪水",
+    "definition_cht": "某一水文年或曆年內所出現的最大洪峰流量或最大洪水事件，常作為洪水頻率分析的年代表值。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_flood"
   },
   {
     "english": "annual flood series",
-    "traditional_chinese": "年洪水序列",
-    "definition_cht": "由觀測紀錄中每一年所出現之最大洪水所組成的時間序列。",
+    "traditional_chinese": "年最大洪水序列",
+    "definition_cht": "由觀測紀錄中每一年所選取之最大洪水或最大洪峰流量組成的時間序列。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_flood_series"
   },
   {
     "english": "annual maximum series",
-    "traditional_chinese": "年最大值序列",
-    "definition_cht": "在水文或氣候極值分析中，由每一年最大觀測值組成的資料序列。",
+    "traditional_chinese": "年極大值序列",
+    "definition_cht": "在水文、氣候或環境極值分析中，由每一年所選取的最大觀測值組成之資料序列。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_maximum_series"
   },
   {
     "english": "annual minimum series",
-    "traditional_chinese": "年最小值序列",
-    "definition_cht": "在水文或氣候極值分析中，由每一年最小觀測值組成的資料序列。",
+    "traditional_chinese": "年極小值序列",
+    "definition_cht": "在水文、氣候或環境極值分析中，由每一年所選取的最小觀測值組成之資料序列。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_minimum_series"
   },
   {
     "english": "annual range",
     "traditional_chinese": "年較差",
-    "definition_cht": "某氣象要素一年內的變動幅度，常指最暖月與最冷月平均值之差；若用極值定義，則為年內最高值與最低值之差。",
+    "definition_cht": "某氣象要素在一年內的變動幅度；就氣溫而言，通常指最暖月與最冷月平均氣溫之差。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_range"
   },
   {
     "english": "annual runoff",
     "traditional_chinese": "年逕流量",
-    "definition_cht": "某流域或排水區於一年內產生並流出之總逕流量，常以體積、流量總和或等效水深表示。",
+    "definition_cht": "某流域或排水區在一年內產生並流出之總逕流量，可用總體積、流量累積量或等效水深表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_runoff"
   },
   {
     "english": "annual series",
     "traditional_chinese": "年序列",
-    "definition_cht": "以每年選取一個代表值（通常為極大值或極小值）所形成的年統計序列。",
+    "definition_cht": "以每年擇取一個代表值（通常為年最大值或年最小值）所形成的統計序列，常用於水文與氣候極值頻率分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/annual_series"
   },
   {
