@@ -21992,121 +21992,121 @@
   {
     "english": "glide path",
     "traditional_chinese": "下滑道",
-    "definition_cht": "指與「下滑道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "航空器在最後進場或落地時用以提供垂直導引的下降路徑；在儀器降落系統中通常指引導航空器沿適當下降角接近跑道的下滑訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/glide_path"
   },
   {
     "english": "glime",
-    "traditional_chinese": "格萊姆",
-    "definition_cht": "指與「格萊姆」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "微光；短暫晴光（罕用）",
+    "definition_cht": "罕用英語詞，指微弱閃現的光亮；在天氣語境中可引申為雲隙間短暫透出的微光或瞬間放晴，但並非常用現代氣象正式術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/glime"
   },
   {
     "english": "glitter",
-    "traditional_chinese": "閃光",
-    "definition_cht": "指與「閃光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "閃爍反光",
+    "definition_cht": "指光線照射粗糙表面後所產生的點狀閃爍反射；在海洋與遙測語境中常指太陽光受水面波紋反射形成的波光或日閃區。",
     "source_url": "https://glossary.ametsoc.org/wiki/glitter"
   },
   {
     "english": "GLM",
-    "traditional_chinese": "廣義線性模型",
-    "definition_cht": "「GLM」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "靜止軌道閃電測圖儀",
+    "definition_cht": "Geostationary Lightning Mapper 的縮寫，為搭載於 GOES-R 系列上的閃電觀測儀器，可持續監測雲內、雲對雲與雲對地閃電活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/GLM"
   },
   {
     "english": "global area coverage",
     "traditional_chinese": "全球區域覆蓋",
-    "definition_cht": "指與「全球區域覆蓋」相關的較長時間分期、地質代或歷史階段。",
+    "definition_cht": "常縮寫為 GAC，指極軌氣象衛星為兼顧全球覆蓋而對原始觀測資料進行抽樣或降採樣後形成的較低空間解析度資料型式，常見於 AVHRR 等感測器產品。",
     "source_url": "https://glossary.ametsoc.org/wiki/global_area_coverage"
   },
   {
     "english": "global baseline datasets",
-    "traditional_chinese": "全球基線數據集",
-    "definition_cht": "指與「全球基線數據集」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "全球基線資料集",
+    "definition_cht": "指經標準化、品質控管與長期維護後，可作為全球尺度比較、趨勢分析或模式驗證之參考基準資料集，常用於氣候、海洋與大氣環境監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/global_baseline_datasets"
   },
   {
     "english": "global circuit",
-    "traditional_chinese": "全球電路",
-    "definition_cht": "指與「全球電路」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "全球大氣電路",
+    "definition_cht": "指地表、對流層、電離層與雷暴活動共同構成的全球性大氣電流閉合系統；雷暴與帶電雲系可作為發電源，維持晴空區的微弱傳導電流。",
     "source_url": "https://glossary.ametsoc.org/wiki/global_circuit"
   },
   {
     "english": "Global Data Processing System",
     "traditional_chinese": "全球資料處理系統",
-    "definition_cht": "指與「全球資料處理系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指國際氣象作業中用於蒐集、處理、交換與產製觀測資料及分析預報產品的全球性作業系統，通常由世界級、區域級與國家級中心協同運作。",
     "source_url": "https://glossary.ametsoc.org/wiki/Global_Data_Processing_System"
   },
   {
     "english": "Global Level of the Sea Surface",
-    "traditional_chinese": "全球海平面",
-    "definition_cht": "指與「全球海平面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "全球海面水位",
+    "definition_cht": "指全球尺度海洋表面的平均高度或其變化情形，常以驗潮站、衛星高度計與重力場參考框架估算，用於監測海平面變動與氣候變遷訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/Global_Level_of_the_Sea_Surface"
   },
   {
     "english": "Global Observing System",
     "traditional_chinese": "全球觀測系統",
-    "definition_cht": "指與「全球觀測系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "世界氣象組織協調的全球性觀測網與平台體系，整合地面站、海洋浮標、船舶、航空器、雷達與氣象衛星等觀測資源，以支援天氣、氣候、水文與環境監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Global_Observing_System"
   },
   {
     "english": "Global Positioning System",
     "traditional_chinese": "全球定位系統",
-    "definition_cht": "指與「全球定位系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "由衛星、地面控制站與使用者接收器構成的衛星導航系統，可提供全球性的定位、導航與授時資訊；在氣象上亦廣泛應用於探空、觀測平台定位與 GNSS 遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Global_Positioning_System"
   },
   {
     "english": "global radiation",
     "traditional_chinese": "全天空總輻射",
-    "definition_cht": "指與「全天空總輻射」相關的輻射收支、能量傳輸或電磁傳播效應。",
+    "definition_cht": "到達水平面之太陽短波輻射總量，為直達日射與散射日射之和；常用於地表能量收支、蒸發估算與太陽能資源評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/global_radiation"
   },
   {
     "english": "Global Telecommunications System",
     "traditional_chinese": "全球電信系統",
-    "definition_cht": "指與「全球電信系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "世界氣象組織用以快速交換觀測資料、分析場、預報產品與警報訊息的國際通信網路，是全球作業氣象資料傳輸的核心基礎設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/Global_Telecommunications_System"
   },
   {
     "english": "glory",
     "traditional_chinese": "輝光",
-    "definition_cht": "觀測者背向太陽時，於雲滴或霧滴所形成的反太陽點周圍彩色同心光環現象，與後向散射及繞射有關。",
+    "definition_cht": "觀測者背向太陽或月光時，在雲滴或霧滴所形成之反太陽點周圍出現的一圈或多圈彩色同心光環；其形成與後向散射、繞射及波干涉效應有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/glory"
   },
   {
     "english": "GLOSS",
-    "traditional_chinese": "光澤度",
-    "definition_cht": "「GLOSS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "全球海平面觀測系統",
+    "definition_cht": "Global Sea Level Observing System 的縮寫，為 UNESCO/IOC 協調之全球海平面觀測網，透過驗潮站等原位觀測支援海平面變化、海嘯監測與氣候研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/GLOSS"
   },
   {
     "english": "glow discharge",
     "traditional_chinese": "輝光放電",
-    "definition_cht": "指與「輝光放電」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "低壓氣體在外加電場作用下發生的自持放電現象，會形成可見發光等離子體；於大氣電學與電離物理研究中常作為基礎放電型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/glow_discharge"
   },
   {
     "english": "GMS",
-    "traditional_chinese": "GMS",
-    "definition_cht": "「GMS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "地球同步氣象衛星",
+    "definition_cht": "Geostationary Meteorological Satellite 的縮寫，通常特指日本氣象廳早期的向日葵（Himawari）地球同步氣象衛星系列，用於雲圖監測、颱風追蹤與天氣分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/GMS"
   },
   {
     "english": "goal-directed reasoning",
     "traditional_chinese": "目標導向推理",
-    "definition_cht": "指與「目標導向推理」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "一種由欲證明之結論或目標反向追查所需條件與規則的推理方式，常見於專家系統與知識庫推論，也可用於氣象診斷或決策支援系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/goal-directed_reasoning"
   },
   {
     "english": "Goes",
-    "traditional_chinese": "去吧",
-    "definition_cht": "指與「去吧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地球同步作業環境衛星",
+    "definition_cht": "通常指 GOES（Geostationary Operational Environmental Satellite）系列，即美國在地球同步軌道運行的作業環境／氣象衛星，用於連續監測雲系、風場、輻射與強對流活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Goes"
   },
   {
     "english": "GOES High-Resolution Interferometer Sounder",
-    "traditional_chinese": "GOES 高解析度干涉儀發聲器",
-    "definition_cht": "用於量測「GOES 高解析度干涉儀發聲器」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "GOES 高解析干涉式探空儀",
+    "definition_cht": "為 GOES 概念或發展規劃中的高光譜紅外線探空儀，利用干涉量測取得高解析度光譜，以反演大氣溫度、濕度及其垂直結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/GOES_High-Resolution_Interferometer_Sounder"
   },
   {
