@@ -1,1 +1,2156 @@
-[{"english":"G-region","traditional_chinese":"G層","definition_cht":"指與「G層」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/G-region"},{"english":"G-scale","traditional_chinese":"G尺度","definition_cht":"指與「G尺度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/G-scale"},{"english":"gaign","traditional_chinese":"蓋恩風","definition_cht":"指與「蓋恩風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gaign"},{"english":"gain","traditional_chinese":"增益","definition_cht":"指與「增益」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gain"},{"english":"Gale","traditional_chinese":"烈風","definition_cht":"指與「烈風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gale"},{"english":"Gale warning","traditional_chinese":"烈風警報","definition_cht":"預報或觀測顯示平均風力將達烈風等級時所發布的海上或沿海警報，用以提醒航行與作業防範強風危害。","source_url":"https://glossary.ametsoc.org/wiki/Gale_warning"},{"english":"Galerkin approximation","traditional_chinese":"伽遼金近似","definition_cht":"求解偏微分方程與數值模式時常用的近似方法，藉由將解表示於有限基底空間中，以獲得可計算的離散方程組。","source_url":"https://glossary.ametsoc.org/wiki/Galerkin_approximation"},{"english":"Galerkin methods","traditional_chinese":"伽遼金方法","definition_cht":"一類以試函數與權函數同屬同一函數空間為特徵的加權殘值法，廣泛用於有限元素法與流體數值模擬。","source_url":"https://glossary.ametsoc.org/wiki/Galerkin_methods"},{"english":"galerne","traditional_chinese":"加勒訥","definition_cht":"指與「加勒訥」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/galerne"},{"english":"Galilei","traditional_chinese":"伽利略","definition_cht":"指與「伽利略」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Galilei"},{"english":"gallego","traditional_chinese":"加列戈","definition_cht":"指與「加列戈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gallego"},{"english":"gallium","traditional_chinese":"鎵","definition_cht":"指與「鎵」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gallium"},{"english":"gamma distribution","traditional_chinese":"伽瑪分佈","definition_cht":"指「伽瑪分佈」所代表的分布型態或機率分布，用於描述變量在空間、時間或數值上的配置特徵。","source_url":"https://glossary.ametsoc.org/wiki/gamma_distribution"},{"english":"gamma ray","traditional_chinese":"伽瑪射線","definition_cht":"指與「伽瑪射線」相關的射線、輻射束或粒子束。","source_url":"https://glossary.ametsoc.org/wiki/gamma_ray"},{"english":"gamma-ray snow gauge","traditional_chinese":"伽瑪射線雪計","definition_cht":"指與「伽瑪射線雪計」相關的降雪現象、雪況條件或雪量特徵。","source_url":"https://glossary.ametsoc.org/wiki/gamma-ray_snow_gauge"},{"english":"gap wind","traditional_chinese":"峽口風","definition_cht":"指與「峽口風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。","source_url":"https://glossary.ametsoc.org/wiki/gap_wind"},{"english":"garbin","traditional_chinese":"加爾賓","definition_cht":"指與「加爾賓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/garbin"},{"english":"Garrett–Munk spectrum","traditional_chinese":"加勒特-蒙克譜","definition_cht":"指與「加勒特-蒙克譜」相關的頻譜、能譜或波譜分布，用於分析不同尺度上的能量配置。","source_url":"https://glossary.ametsoc.org/wiki/Garrett%E2%80%93Munk_spectrum"},{"english":"garúa","traditional_chinese":"加魯阿","definition_cht":"指與「加魯阿」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gar%C3%BAa"},{"english":"gas chromatography","traditional_chinese":"氣相層析法","definition_cht":"以圖形方式呈現「氣相層析法」相關量值變化、對應關係或分類結果的圖表。","source_url":"https://glossary.ametsoc.org/wiki/gas_chromatography"},{"english":"gas constant","traditional_chinese":"氣體常數","definition_cht":"描述氣體狀態方程中壓力、體積與溫度關係的常數；在氣象上常區分通用氣體常數與乾空氣、濕空氣之比氣體常數。","source_url":"https://glossary.ametsoc.org/wiki/gas_constant"},{"english":"gas filter correlation spectroscopy","traditional_chinese":"氣體過濾相關光譜","definition_cht":"用於擷取、保留或抑制「氣體過濾相關光譜」相關頻率成分、訊號變化或尺度資訊的濾波方法或裝置。","source_url":"https://glossary.ametsoc.org/wiki/gas_filter_correlation_spectroscopy"},{"english":"gas laws","traditional_chinese":"氣體定律","definition_cht":"「氣體定律」相關的定律或經驗法則，用以概括物理關係、尺度關係或統計規律。","source_url":"https://glossary.ametsoc.org/wiki/gas_laws"},{"english":"gas thermometer","traditional_chinese":"氣體溫度計","definition_cht":"用於量測「氣體溫度計」相關物理量的儀器、計量設備或感測裝置。","source_url":"https://glossary.ametsoc.org/wiki/gas_thermometer"},{"english":"gas transfer","traditional_chinese":"氣體傳輸","definition_cht":"指與「氣體傳輸」相關的傳輸、交換或移轉過程，常涉及熱量、氣體、動量或物質通量。","source_url":"https://glossary.ametsoc.org/wiki/gas_transfer"},{"english":"gas-particle distribution factor","traditional_chinese":"氣體顆粒分佈係數","definition_cht":"指「氣體顆粒分佈係數」所代表的分布型態或機率分布，用於描述變量在空間、時間或數值上的配置特徵。","source_url":"https://glossary.ametsoc.org/wiki/gas-particle_distribution_factor"},{"english":"gas-phase kinetics","traditional_chinese":"氣相動力學","definition_cht":"指「氣相動力學」所涉及的反應動力學、轉化速率或化學過程特徵。","source_url":"https://glossary.ametsoc.org/wiki/gas-phase_kinetics"},{"english":"gas–solid reactions","traditional_chinese":"氣固反應","definition_cht":"指與「氣固反應」相關的化學或物理反應過程，用於說明物質轉換與能量變化。","source_url":"https://glossary.ametsoc.org/wiki/gas%E2%80%93solid_reactions"},{"english":"gate-to-gate azimuthal shear","traditional_chinese":"門到門方位角剪切","definition_cht":"指與「門到門方位角剪切」相關的風切、速度梯度或形變特徵，常用於診斷對流與流場結構。","source_url":"https://glossary.ametsoc.org/wiki/gate-to-gate_azimuthal_shear"},{"english":"gating","traditional_chinese":"門控","definition_cht":"指與「門控」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gating"},{"english":"gauge height","traditional_chinese":"標距高度","definition_cht":"指與「標距高度」相關的高度量測、垂直尺度或特徵層位。","source_url":"https://glossary.ametsoc.org/wiki/gauge_height"},{"english":"gauge relation","traditional_chinese":"規範關係","definition_cht":"指「規範關係」所表達之變量對應、換算或經驗關係。","source_url":"https://glossary.ametsoc.org/wiki/gauge_relation"},{"english":"gauge zero","traditional_chinese":"表零","definition_cht":"指與「表零」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gauge_zero"},{"english":"gauging section","traditional_chinese":"測量部分","definition_cht":"指與「測量部分」相關的斷面、河段或分析區段，用於量測、監測或計算。","source_url":"https://glossary.ametsoc.org/wiki/gauging_section"},{"english":"gauging site","traditional_chinese":"測量地點","definition_cht":"指與「測量地點」相關的站址、測點或作業地點。","source_url":"https://glossary.ametsoc.org/wiki/gauging_site"},{"english":"gauss","traditional_chinese":"高斯","definition_cht":"指與「高斯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gauss"},{"english":"Gauss curve","traditional_chinese":"高斯曲線","definition_cht":"指表示「高斯曲線」相關變化關係、分布形態或統計特徵的曲線。","source_url":"https://glossary.ametsoc.org/wiki/Gauss_curve"},{"english":"Gauss elimination","traditional_chinese":"高斯消去法","definition_cht":"指與「高斯消去法」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gauss_elimination"},{"english":"Gaussian grid","traditional_chinese":"高斯網格","definition_cht":"指與「高斯網格」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/Gaussian_grid"},{"english":"Gaussian plume models","traditional_chinese":"高斯羽流模型","definition_cht":"用於表徵「高斯羽流模型」相關過程或系統的理論、概念或數值模式，以分析其主要物理機制。","source_url":"https://glossary.ametsoc.org/wiki/Gaussian_plume_models"},{"english":"Gaussian process","traditional_chinese":"高斯過程","definition_cht":"指與「高斯過程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gaussian_process"},{"english":"Gaussian wave packet","traditional_chinese":"高斯波包","definition_cht":"指與「高斯波包」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。","source_url":"https://glossary.ametsoc.org/wiki/Gaussian_wave_packet"},{"english":"GCA","traditional_chinese":"GCA","definition_cht":"「GCA」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GCA"},{"english":"GCA minimums","traditional_chinese":"GCA 最小值","definition_cht":"指與「GCA 最小值」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/GCA_minimums"},{"english":"GCM","traditional_chinese":"氣相層析法","definition_cht":"「GCM」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GCM"},{"english":"Gdd","traditional_chinese":"吉德","definition_cht":"指與「吉德」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gdd"},{"english":"GDH","traditional_chinese":"粵港澳大灣區","definition_cht":"「GDH」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GDH"},{"english":"GDPS","traditional_chinese":"國內生產毛額","definition_cht":"「GDPS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GDPS"},{"english":"geg","traditional_chinese":"格格","definition_cht":"指與「格格」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geg"},{"english":"gegenschein","traditional_chinese":"對日照","definition_cht":"位於反太陽點附近、由行星際塵埃反射與後向散射日光所形成的微弱亮區，常見於晴朗暗夜天空。","source_url":"https://glossary.ametsoc.org/wiki/gegenschein"},{"english":"gending","traditional_chinese":"性別劃分","definition_cht":"指與「性別劃分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gending"},{"english":"General Broadcast","traditional_chinese":"普通廣播","definition_cht":"指與「普通廣播」相關的較長時間分期、地質代或歷史階段。","source_url":"https://glossary.ametsoc.org/wiki/General_Broadcast"},{"english":"general circulation","traditional_chinese":"一般循環","definition_cht":"指與「一般循環」相關的環流系統，描述大氣或海洋中流體之平均運動與輸送結構。","source_url":"https://glossary.ametsoc.org/wiki/general_circulation"},{"english":"general circulation model","traditional_chinese":"大氣環流模型","definition_cht":"用於表徵「大氣環流模型」相關過程或系統的理論、概念或數值模式，以分析其主要物理機制。","source_url":"https://glossary.ametsoc.org/wiki/general_circulation_model"},{"english":"generalized absorption coefficient","traditional_chinese":"廣義吸收係數","definition_cht":"表示「廣義吸收係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。","source_url":"https://glossary.ametsoc.org/wiki/generalized_absorption_coefficient"},{"english":"generalized coordinates","traditional_chinese":"廣義座標","definition_cht":"指表示「廣義座標」相關位置、方向或空間基準的座標系統。","source_url":"https://glossary.ametsoc.org/wiki/generalized_coordinates"},{"english":"generalized hydrostatic equation","traditional_chinese":"廣義流體靜力方程","definition_cht":"描述「廣義流體靜力方程」相關物理量之間關係、守恆條件或診斷計算方法的方程式。","source_url":"https://glossary.ametsoc.org/wiki/generalized_hydrostatic_equation"},{"english":"generalized transmission function","traditional_chinese":"廣義傳遞函數","definition_cht":"描述「廣義傳遞函數」相關變數關係、響應特性或分布型態的函數表述。","source_url":"https://glossary.ametsoc.org/wiki/generalized_transmission_function"},{"english":"generate and test","traditional_chinese":"生成並測試","definition_cht":"指與「生成並測試」相關的較長時間分期、地質代或歷史階段。","source_url":"https://glossary.ametsoc.org/wiki/generate_and_test"},{"english":"generating area","traditional_chinese":"發電區","definition_cht":"指與「發電區」相關的較長時間分期、地質代或歷史階段。","source_url":"https://glossary.ametsoc.org/wiki/generating_area"},{"english":"generating cell","traditional_chinese":"生成細胞","definition_cht":"指與「生成細胞」相關的較長時間分期、地質代或歷史階段。","source_url":"https://glossary.ametsoc.org/wiki/generating_cell"},{"english":"generic rule","traditional_chinese":"通用規則","definition_cht":"指與「通用規則」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/generic_rule"},{"english":"Genitus","traditional_chinese":"天才","definition_cht":"指與「天才」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Genitus"},{"english":"Genoa cyclone","traditional_chinese":"熱那亞氣旋","definition_cht":"指與「熱那亞氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Genoa_cyclone"},{"english":"GENOT","traditional_chinese":"傑諾特","definition_cht":"「GENOT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GENOT"},{"english":"gentle breeze","traditional_chinese":"微風","definition_cht":"指與「微風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gentle_breeze"},{"english":"GEO-KOMPSAT 2A","traditional_chinese":"地理衛星2A","definition_cht":"指與「地理衛星2A」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/GEO-KOMPSAT_2A"},{"english":"geocentric reference system","traditional_chinese":"地心參考系","definition_cht":"指與「地心參考系」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geocentric_reference_system"},{"english":"geodesic grid","traditional_chinese":"測地線網格","definition_cht":"指與「測地線網格」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/geodesic_grid"},{"english":"geodesy","traditional_chinese":"大地測量學","definition_cht":"研究地球形狀、重力場、參考系與精密定位測量的學科。","source_url":"https://glossary.ametsoc.org/wiki/geodesy"},{"english":"Geodetic Satellite","traditional_chinese":"大地測量衛星","definition_cht":"指與「大地測量衛星」相關的人造衛星、衛星任務或其觀測平台。","source_url":"https://glossary.ametsoc.org/wiki/Geodetic_Satellite"},{"english":"geographic effect on winds","traditional_chinese":"地理對風的影響","definition_cht":"指與「地理對風的影響」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。","source_url":"https://glossary.ametsoc.org/wiki/geographic_effect_on_winds"},{"english":"geographically possible sunshine duration","traditional_chinese":"地理上可能的日照時長","definition_cht":"以圖形方式呈現「地理上可能的日照時長」相關量值變化、對應關係或分類結果的圖表。","source_url":"https://glossary.ametsoc.org/wiki/geographically_possible_sunshine_duration"},{"english":"geoid","traditional_chinese":"大地水準面","definition_cht":"指與「大地水準面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geoid"},{"english":"geologic age","traditional_chinese":"地質時代","definition_cht":"指與「地質時代」相關的年代、地質期或發展階段。","source_url":"https://glossary.ametsoc.org/wiki/geologic_age"},{"english":"geologic epoch","traditional_chinese":"地質時代","definition_cht":"指與「地質時代」相關的年代分期、時段或地質時代單位。","source_url":"https://glossary.ametsoc.org/wiki/geologic_epoch"},{"english":"geologic era","traditional_chinese":"地質時代","definition_cht":"指與「地質時代」相關的較長時間分期、地質代或歷史階段。","source_url":"https://glossary.ametsoc.org/wiki/geologic_era"},{"english":"geologic period","traditional_chinese":"地質時期","definition_cht":"指與「地質時期」相關、以特定時間尺度界定的氣候期、週期或統計時段。","source_url":"https://glossary.ametsoc.org/wiki/geologic_period"},{"english":"geologic time","traditional_chinese":"地質年代","definition_cht":"指與「地質年代」相關的時間尺度、時制或地質年代概念。","source_url":"https://glossary.ametsoc.org/wiki/geologic_time"},{"english":"geomagnetic coordinates","traditional_chinese":"地磁座標","definition_cht":"指表示「地磁座標」相關位置、方向或空間基準的座標系統。","source_url":"https://glossary.ametsoc.org/wiki/geomagnetic_coordinates"},{"english":"geomagnetic equator","traditional_chinese":"地磁赤道","definition_cht":"指與「地磁赤道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geomagnetic_equator"},{"english":"geomagnetic latitude","traditional_chinese":"地磁緯度","definition_cht":"指與「地磁緯度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geomagnetic_latitude"},{"english":"geomagnetic meridian","traditional_chinese":"地磁子午線","definition_cht":"指與「地磁子午線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geomagnetic_meridian"},{"english":"geomagnetic pole","traditional_chinese":"地磁極","definition_cht":"指與「地磁極」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geomagnetic_pole"},{"english":"geomagnetism","traditional_chinese":"地磁學","definition_cht":"指與「地磁學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geomagnetism"},{"english":"geometric mean","traditional_chinese":"幾何平均數","definition_cht":"指「幾何平均數」所代表之平均量、統計均值或代表性平均狀態。","source_url":"https://glossary.ametsoc.org/wiki/geometric_mean"},{"english":"geometric optics","traditional_chinese":"幾何光學","definition_cht":"指與「幾何光學」相關的光學理論、光路特性或輻射傳播現象。","source_url":"https://glossary.ametsoc.org/wiki/geometric_optics"},{"english":"geomorphology","traditional_chinese":"地形學","definition_cht":"指與「地形學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geomorphology"},{"english":"geophysical day","traditional_chinese":"地球物理日","definition_cht":"指與「地球物理日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geophysical_day"},{"english":"geophysics","traditional_chinese":"地球物理學","definition_cht":"指與「地球物理學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geophysics"},{"english":"geopotential","traditional_chinese":"位勢","definition_cht":"單位質量空氣自海平面或參考面移至某高度時所具有的位能，常用於描述大氣壓力面之高度與動力結構。","source_url":"https://glossary.ametsoc.org/wiki/geopotential"},{"english":"geopotential field","traditional_chinese":"位元場","definition_cht":"指與「位元場」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geopotential_field"},{"english":"Geopotential height","traditional_chinese":"位勢高度","definition_cht":"指與「位勢高度」相關的高度量測、垂直尺度或特徵層位。","source_url":"https://glossary.ametsoc.org/wiki/Geopotential_height"},{"english":"geopotential meter","traditional_chinese":"位勢計","definition_cht":"用於量測「位勢計」相關物理量的儀器、計量設備或感測裝置。","source_url":"https://glossary.ametsoc.org/wiki/geopotential_meter"},{"english":"geopotential surface","traditional_chinese":"位勢面","definition_cht":"指與「位勢面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geopotential_surface"},{"english":"geopotential thickness","traditional_chinese":"位勢厚度","definition_cht":"指與「位勢厚度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geopotential_thickness"},{"english":"geopotential topography","traditional_chinese":"位勢地形","definition_cht":"以圖形方式呈現「位勢地形」相關量值變化、對應關係或分類結果的圖表。","source_url":"https://glossary.ametsoc.org/wiki/geopotential_topography"},{"english":"GEOSAT","traditional_chinese":"地球衛星","definition_cht":"「GEOSAT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GEOSAT"},{"english":"geosphere","traditional_chinese":"地圈","definition_cht":"指與「地圈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geosphere"},{"english":"Geostationary Earth Radiation Budget","traditional_chinese":"對地靜止地球輻射預算","definition_cht":"指與「對地靜止地球輻射預算」相關的輻射收支、能量傳輸或電磁傳播效應。","source_url":"https://glossary.ametsoc.org/wiki/Geostationary_Earth_Radiation_Budget"},{"english":"Geostationary Lightning Mapper","traditional_chinese":"對地靜止閃電測繪儀","definition_cht":"指與「對地靜止閃電測繪儀」相關的觀測站、測站設施或資料蒐集位置。","source_url":"https://glossary.ametsoc.org/wiki/Geostationary_Lightning_Mapper"},{"english":"Geostationary Meteorological Satellite","traditional_chinese":"對地靜止氣象衛星","definition_cht":"指與「對地靜止氣象衛星」相關的觀測站、測站設施或資料蒐集位置。","source_url":"https://glossary.ametsoc.org/wiki/Geostationary_Meteorological_Satellite"},{"english":"Geostationary operational environmental satellite","traditional_chinese":"對地靜止運轉環境衛星","definition_cht":"指與「對地靜止運轉環境衛星」相關的觀測站、測站設施或資料蒐集位置。","source_url":"https://glossary.ametsoc.org/wiki/Geostationary_operational_environmental_satellite"},{"english":"Geostationary Operational Meteorological Satellite","traditional_chinese":"對地靜止業務氣象衛星","definition_cht":"指與「對地靜止業務氣象衛星」相關的觀測站、測站設施或資料蒐集位置。","source_url":"https://glossary.ametsoc.org/wiki/Geostationary_Operational_Meteorological_Satellite"},{"english":"Geostationary satellite","traditional_chinese":"對地靜止衛星","definition_cht":"指與「對地靜止衛星」相關的觀測站、測站設施或資料蒐集位置。","source_url":"https://glossary.ametsoc.org/wiki/Geostationary_satellite"},{"english":"geostrophic","traditional_chinese":"地轉的","definition_cht":"指與「地轉的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic"},{"english":"geostrophic adjustment","traditional_chinese":"地轉調整","definition_cht":"指與「地轉調整」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_adjustment"},{"english":"geostrophic advection","traditional_chinese":"地轉平流","definition_cht":"指與「地轉平流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_advection"},{"english":"geostrophic approximation","traditional_chinese":"地轉近似","definition_cht":"用於處理「地轉近似」相關問題的近似假設，以保留主要物理機制並簡化數學描述。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_approximation"},{"english":"geostrophic balance","traditional_chinese":"地轉平衡","definition_cht":"指與「地轉平衡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_balance"},{"english":"geostrophic coordinates","traditional_chinese":"地轉座標","definition_cht":"指表示「地轉座標」相關位置、方向或空間基準的座標系統。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_coordinates"},{"english":"geostrophic current","traditional_chinese":"地轉流","definition_cht":"指與「地轉流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_current"},{"english":"geostrophic departure","traditional_chinese":"地轉偏離","definition_cht":"指與「地轉偏離」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_departure"},{"english":"geostrophic deviation","traditional_chinese":"地轉偏差","definition_cht":"指與「地轉偏差」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_deviation"},{"english":"geostrophic dividers","traditional_chinese":"地轉分隔線","definition_cht":"指與「地轉分隔線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_dividers"},{"english":"geostrophic drag coefficient","traditional_chinese":"地轉阻力係數","definition_cht":"表示「地轉阻力係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_drag_coefficient"},{"english":"geostrophic equilibrium","traditional_chinese":"地轉平衡","definition_cht":"指與「地轉平衡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_equilibrium"},{"english":"geostrophic flow","traditional_chinese":"地轉流","definition_cht":"指與「地轉流」相關的流動型態、平均流場或輸送結構。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_flow"},{"english":"geostrophic flux","traditional_chinese":"地轉通量","definition_cht":"指單位時間穿過單位面積之「地轉通量」通量，用以量化能量、質量或動量傳輸。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_flux"},{"english":"geostrophic momentum approximation","traditional_chinese":"地轉量近似","definition_cht":"用於處理「地轉量近似」相關問題的近似假設，以保留主要物理機制並簡化數學描述。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_momentum_approximation"},{"english":"geostrophic vorticity","traditional_chinese":"地轉渦度","definition_cht":"指與「地轉渦度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_vorticity"},{"english":"geostrophic wind","traditional_chinese":"地轉風","definition_cht":"在科氏力與氣壓梯度力達近似平衡時所形成、平行等壓線吹送的理想風，是中高緯大尺度流場分析的重要近似。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_wind"},{"english":"geostrophic wind level","traditional_chinese":"地轉風級","definition_cht":"指與「地轉風級」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_wind_level"},{"english":"geostrophic wind scale","traditional_chinese":"地轉風級","definition_cht":"指與「地轉風級」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。","source_url":"https://glossary.ametsoc.org/wiki/geostrophic_wind_scale"},{"english":"geosynchronous satellite","traditional_chinese":"地球同步衛星","definition_cht":"指與「地球同步衛星」相關的人造衛星、衛星任務或其觀測平台。","source_url":"https://glossary.ametsoc.org/wiki/geosynchronous_satellite"},{"english":"geothermometer","traditional_chinese":"地溫計","definition_cht":"用於量測「地溫計」相關物理量的儀器、計量設備或感測裝置。","source_url":"https://glossary.ametsoc.org/wiki/geothermometer"},{"english":"GERB","traditional_chinese":"胃食道逆流症","definition_cht":"「GERB」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GERB"},{"english":"Gerdien aspirator","traditional_chinese":"Gerdien 吸氣器","definition_cht":"指與「Gerdien 吸氣器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gerdien_aspirator"},{"english":"Gerstner wave","traditional_chinese":"郭士納波","definition_cht":"指與「郭士納波」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。","source_url":"https://glossary.ametsoc.org/wiki/Gerstner_wave"},{"english":"gestalt","traditional_chinese":"格式塔","definition_cht":"指與「格式塔」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gestalt"},{"english":"geyser","traditional_chinese":"噴泉","definition_cht":"指與「噴泉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/geyser"},{"english":"gharbi","traditional_chinese":"加爾比","definition_cht":"指與「加爾比」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gharbi"},{"english":"gharra","traditional_chinese":"加拉","definition_cht":"指與「加拉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gharra"},{"english":"ghibli","traditional_chinese":"吉卜力","definition_cht":"指與「吉卜力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ghibli"},{"english":"GHIS","traditional_chinese":"地理資訊系統","definition_cht":"「GHIS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GHIS"},{"english":"ghost","traditional_chinese":"鬼","definition_cht":"指與「鬼」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ghost"},{"english":"Gibbs function","traditional_chinese":"吉布斯函數","definition_cht":"描述「吉布斯函數」相關變數關係、響應特性或分布型態的函數表述。","source_url":"https://glossary.ametsoc.org/wiki/Gibbs_function"},{"english":"gibla","traditional_chinese":"吉卜拉","definition_cht":"指與「吉卜拉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gibla"},{"english":"Gibraltar outflow water","traditional_chinese":"直布羅陀流出水","definition_cht":"指與「直布羅陀流出水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/Gibraltar_outflow_water"},{"english":"gigahertz","traditional_chinese":"吉赫","definition_cht":"指與「吉赫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gigahertz"},{"english":"Gill anemometer","traditional_chinese":"鰓風速計","definition_cht":"用於量測「鰓風速計」相關物理量的儀器、計量設備或感測裝置。","source_url":"https://glossary.ametsoc.org/wiki/Gill_anemometer"},{"english":"glacial","traditional_chinese":"冰川的","definition_cht":"指與「冰川的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacial"},{"english":"glacial anticyclone","traditional_chinese":"冰川反氣旋","definition_cht":"指與「冰川反氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacial_anticyclone"},{"english":"glacial drift","traditional_chinese":"冰川漂流","definition_cht":"指與「冰川漂流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacial_drift"},{"english":"glacial epoch","traditional_chinese":"冰期","definition_cht":"指與「冰期」相關的年代分期、時段或地質時代單位。","source_url":"https://glossary.ametsoc.org/wiki/glacial_epoch"},{"english":"glacial geology","traditional_chinese":"冰河地質學","definition_cht":"指與「冰河地質學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacial_geology"},{"english":"glacial maximum","traditional_chinese":"盛冰期","definition_cht":"指與「盛冰期」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacial_maximum"},{"english":"glacial period","traditional_chinese":"冰期","definition_cht":"指與「冰期」相關、以特定時間尺度界定的氣候期、週期或統計時段。","source_url":"https://glossary.ametsoc.org/wiki/glacial_period"},{"english":"glacial rebound","traditional_chinese":"冰川反彈","definition_cht":"指與「冰川反彈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacial_rebound"},{"english":"glacial trough","traditional_chinese":"冰槽","definition_cht":"指與「冰槽」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacial_trough"},{"english":"glaciation","traditional_chinese":"冰化作用","definition_cht":"可指雲中過冷水滴轉變為冰晶之冰化過程，亦可泛指地表受冰川作用影響之冰川化現象；實際意義依語境而定。","source_url":"https://glossary.ametsoc.org/wiki/glaciation"},{"english":"glaciation limit","traditional_chinese":"冰河作用極限","definition_cht":"指與「冰河作用極限」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glaciation_limit"},{"english":"glacier","traditional_chinese":"冰川","definition_cht":"指與「冰川」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacier"},{"english":"glacier flood","traditional_chinese":"冰川洪水","definition_cht":"指與「冰川洪水」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacier_flood"},{"english":"glacier flow","traditional_chinese":"冰川流","definition_cht":"指與「冰川流」相關的流動型態、平均流場或輸送結構。","source_url":"https://glossary.ametsoc.org/wiki/glacier_flow"},{"english":"glacier front","traditional_chinese":"冰河前緣","definition_cht":"指與「冰河前緣」相關的鋒面或密度邊界結構，常伴隨風、溫度與濕度的明顯變化。","source_url":"https://glossary.ametsoc.org/wiki/glacier_front"},{"english":"glacier ice","traditional_chinese":"冰川冰","definition_cht":"指與「冰川冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。","source_url":"https://glossary.ametsoc.org/wiki/glacier_ice"},{"english":"glacier tongue","traditional_chinese":"冰川舌","definition_cht":"指與「冰川舌」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacier_tongue"},{"english":"glacier wind","traditional_chinese":"冰川風","definition_cht":"受冰川表面強冷卻影響，冷密空氣沿坡面向下流動而形成的局地下坡風。","source_url":"https://glossary.ametsoc.org/wiki/glacier_wind"},{"english":"glacierization","traditional_chinese":"冰川化","definition_cht":"指與「冰川化」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glacierization"},{"english":"glaciology","traditional_chinese":"冰川學","definition_cht":"指與「冰川學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glaciology"},{"english":"glaçon","traditional_chinese":"格拉松","definition_cht":"指與「格拉松」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gla%C3%A7on"},{"english":"glare","traditional_chinese":"強光","definition_cht":"指與「強光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glare"},{"english":"glare ice","traditional_chinese":"光滑冰","definition_cht":"指與「光滑冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。","source_url":"https://glossary.ametsoc.org/wiki/glare_ice"},{"english":"glass","traditional_chinese":"玻璃","definition_cht":"指與「玻璃」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glass"},{"english":"glaves","traditional_chinese":"手套","definition_cht":"指與「手套」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glaves"},{"english":"glaze","traditional_chinese":"釉","definition_cht":"指與「釉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glaze"},{"english":"glaze storm","traditional_chinese":"釉風暴","definition_cht":"指與「釉風暴」相關的風暴、擾動系統或劇烈天氣現象。","source_url":"https://glossary.ametsoc.org/wiki/glaze_storm"},{"english":"glazed frost","traditional_chinese":"釉面霜","definition_cht":"指與「釉面霜」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glazed_frost"},{"english":"glide path","traditional_chinese":"下滑道","definition_cht":"指與「下滑道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glide_path"},{"english":"glime","traditional_chinese":"格萊姆","definition_cht":"指與「格萊姆」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glime"},{"english":"glitter","traditional_chinese":"閃光","definition_cht":"指與「閃光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glitter"},{"english":"GLM","traditional_chinese":"廣義線性模型","definition_cht":"「GLM」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GLM"},{"english":"global area coverage","traditional_chinese":"全球區域覆蓋","definition_cht":"指與「全球區域覆蓋」相關的較長時間分期、地質代或歷史階段。","source_url":"https://glossary.ametsoc.org/wiki/global_area_coverage"},{"english":"global baseline datasets","traditional_chinese":"全球基線數據集","definition_cht":"指與「全球基線數據集」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/global_baseline_datasets"},{"english":"global circuit","traditional_chinese":"全球電路","definition_cht":"指與「全球電路」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/global_circuit"},{"english":"Global Data Processing System","traditional_chinese":"全球資料處理系統","definition_cht":"指與「全球資料處理系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Global_Data_Processing_System"},{"english":"Global Level of the Sea Surface","traditional_chinese":"全球海平面","definition_cht":"指與「全球海平面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Global_Level_of_the_Sea_Surface"},{"english":"Global Observing System","traditional_chinese":"全球觀測系統","definition_cht":"指與「全球觀測系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Global_Observing_System"},{"english":"Global Positioning System","traditional_chinese":"全球定位系統","definition_cht":"指與「全球定位系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Global_Positioning_System"},{"english":"global radiation","traditional_chinese":"全天空總輻射","definition_cht":"指與「全天空總輻射」相關的輻射收支、能量傳輸或電磁傳播效應。","source_url":"https://glossary.ametsoc.org/wiki/global_radiation"},{"english":"Global Telecommunications System","traditional_chinese":"全球電信系統","definition_cht":"指與「全球電信系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Global_Telecommunications_System"},{"english":"glory","traditional_chinese":"輝光","definition_cht":"觀測者背向太陽時，於雲滴或霧滴所形成的反太陽點周圍彩色同心光環現象，與後向散射及繞射有關。","source_url":"https://glossary.ametsoc.org/wiki/glory"},{"english":"GLOSS","traditional_chinese":"光澤度","definition_cht":"「GLOSS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GLOSS"},{"english":"glow discharge","traditional_chinese":"輝光放電","definition_cht":"指與「輝光放電」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/glow_discharge"},{"english":"GMS","traditional_chinese":"GMS","definition_cht":"「GMS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GMS"},{"english":"goal-directed reasoning","traditional_chinese":"目標導向推理","definition_cht":"指與「目標導向推理」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/goal-directed_reasoning"},{"english":"Goes","traditional_chinese":"去吧","definition_cht":"指與「去吧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Goes"},{"english":"GOES High-Resolution Interferometer Sounder","traditional_chinese":"GOES 高解析度干涉儀發聲器","definition_cht":"用於量測「GOES 高解析度干涉儀發聲器」相關物理量的儀器、計量設備或感測裝置。","source_url":"https://glossary.ametsoc.org/wiki/GOES_High-Resolution_Interferometer_Sounder"},{"english":"GOES Variable","traditional_chinese":"GOES變數","definition_cht":"指與「GOES變數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/GOES_Variable"},{"english":"GOES-R","traditional_chinese":"GOES-R","definition_cht":"「GOES-R」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GOES-R"},{"english":"Gold slide","traditional_chinese":"金色滑梯","definition_cht":"指與「金色滑梯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gold_slide"},{"english":"goldbeater's skin hygrometer","traditional_chinese":"Goldbeater 皮膚濕度計","definition_cht":"用於量測「Goldbeater 皮膚濕度計」相關物理量的儀器、計量設備或感測裝置。","source_url":"https://glossary.ametsoc.org/wiki/goldbeater%27s_skin_hygrometer"},{"english":"golfada","traditional_chinese":"高爾夫達","definition_cht":"指與「高爾夫達」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/golfada"},{"english":"GOMS","traditional_chinese":"GOMS","definition_cht":"「GOMS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GOMS"},{"english":"goniometer","traditional_chinese":"測角器","definition_cht":"用於量測「測角器」相關物理量的儀器、計量設備或感測裝置。","source_url":"https://glossary.ametsoc.org/wiki/goniometer"},{"english":"goodness of fit","traditional_chinese":"擬合優度","definition_cht":"指與「擬合優度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/goodness_of_fit"},{"english":"gorge wind","traditional_chinese":"峽谷風","definition_cht":"指與「峽谷風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。","source_url":"https://glossary.ametsoc.org/wiki/gorge_wind"},{"english":"gosling blast","traditional_chinese":"小鵝爆發","definition_cht":"指與「小鵝爆發」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gosling_blast"},{"english":"gowk storm","traditional_chinese":"古克風暴","definition_cht":"指與「古克風暴」相關的風暴、擾動系統或劇烈天氣現象。","source_url":"https://glossary.ametsoc.org/wiki/gowk_storm"},{"english":"GPS","traditional_chinese":"全球定位系統","definition_cht":"「GPS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GPS"},{"english":"grab sampling","traditional_chinese":"抓樣","definition_cht":"指與「抓樣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/grab_sampling"},{"english":"gradex method","traditional_chinese":"等級法","definition_cht":"指處理「等級法」相關問題的分析、估算、分類、反演或推算方法。","source_url":"https://glossary.ametsoc.org/wiki/gradex_method"},{"english":"gradient","traditional_chinese":"梯度","definition_cht":"指與「梯度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gradient"},{"english":"gradient current","traditional_chinese":"梯度流","definition_cht":"指與「梯度流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。","source_url":"https://glossary.ametsoc.org/wiki/gradient_current"},{"english":"gradient flow","traditional_chinese":"梯度流","definition_cht":"指與「梯度流」相關的流動型態、平均流場或輸送結構。","source_url":"https://glossary.ametsoc.org/wiki/gradient_flow"},{"english":"gradient Richardson number","traditional_chinese":"梯度理查森數","definition_cht":"以浮力穩定效應與垂直風切強度之比值衡量層結穩定度與亂流生成傾向的無因次參數。","source_url":"https://glossary.ametsoc.org/wiki/gradient_Richardson_number"},{"english":"gradient transport theory","traditional_chinese":"梯度輸運理論","definition_cht":"指與「梯度輸運理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gradient_transport_theory"},{"english":"Gradient wind","traditional_chinese":"漸層風","definition_cht":"指與「漸層風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。","source_url":"https://glossary.ametsoc.org/wiki/Gradient_wind"},{"english":"Gradient-based similarity theory","traditional_chinese":"基於梯度的相似理論","definition_cht":"指與「基於梯度的相似理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gradient-based_similarity_theory"},{"english":"grading","traditional_chinese":"等級","definition_cht":"指與「等級」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/grading"},{"english":"graduation","traditional_chinese":"畢業","definition_cht":"指與「畢業」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/graduation"},{"english":"grains of ice","traditional_chinese":"冰粒","definition_cht":"指與「冰粒」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。","source_url":"https://glossary.ametsoc.org/wiki/grains_of_ice"},{"english":"gram","traditional_chinese":"克","definition_cht":"指與「克」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gram"},{"english":"gram calorie","traditional_chinese":"克卡路里","definition_cht":"指與「克卡路里」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gram_calorie"},{"english":"Gram-mole","traditional_chinese":"克摩爾","definition_cht":"指與「克摩爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gram-mole"},{"english":"granular snow","traditional_chinese":"粒狀雪","definition_cht":"指與「粒狀雪」相關的降雪現象、雪況條件或雪量特徵。","source_url":"https://glossary.ametsoc.org/wiki/granular_snow"},{"english":"granules","traditional_chinese":"顆粒","definition_cht":"指與「顆粒」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/granules"},{"english":"graphing board","traditional_chinese":"繪圖板","definition_cht":"以圖形方式呈現「繪圖板」相關量值變化、對應關係或分類結果的圖表。","source_url":"https://glossary.ametsoc.org/wiki/graphing_board"},{"english":"Grashoff number","traditional_chinese":"格拉肖夫數","definition_cht":"指與「格拉肖夫數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Grashoff_number"},{"english":"grass","traditional_chinese":"草","definition_cht":"指與「草」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/grass"},{"english":"grass minimum","traditional_chinese":"草最少","definition_cht":"指與「草最少」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/grass_minimum"},{"english":"grass temperature","traditional_chinese":"草溫","definition_cht":"指與「草溫」相關的溫度量、溫度分布或代表性熱狀態特徵。","source_url":"https://glossary.ametsoc.org/wiki/grass_temperature"},{"english":"graupel","traditional_chinese":"霰","definition_cht":"由過冷水滴凍附於雪晶或冰晶表面所形成的白色不透明粒狀固態降水，粒徑通常小於冰雹。","source_url":"https://glossary.ametsoc.org/wiki/graupel"},{"english":"gravimetric hygrometry","traditional_chinese":"重力濕度測定法","definition_cht":"指與「重力濕度測定法」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gravimetric_hygrometry"},{"english":"gravitation","traditional_chinese":"重力","definition_cht":"指與「重力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gravitation"},{"english":"gravitational head","traditional_chinese":"重力頭","definition_cht":"指與「重力頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gravitational_head"},{"english":"gravitational potential","traditional_chinese":"重力位能","definition_cht":"指與「重力位能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gravitational_potential"},{"english":"gravitational potential energy","traditional_chinese":"重力位能","definition_cht":"指與「重力位能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gravitational_potential_energy"},{"english":"Gravitational tide","traditional_chinese":"引力潮汐","definition_cht":"指與「引力潮汐」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gravitational_tide"},{"english":"gravitational water","traditional_chinese":"重力水","definition_cht":"指與「重力水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/gravitational_water"},{"english":"gravity","traditional_chinese":"重力","definition_cht":"指與「重力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gravity"},{"english":"gravity current","traditional_chinese":"重力流","definition_cht":"因密度差異而在重力驅動下沿地表或界面水平推進的流體，如冷池外流、海風前緣或鹽水入侵。","source_url":"https://glossary.ametsoc.org/wiki/gravity_current"},{"english":"gravity flow","traditional_chinese":"重力流","definition_cht":"指與「重力流」相關的流動型態、平均流場或輸送結構。","source_url":"https://glossary.ametsoc.org/wiki/gravity_flow"},{"english":"gravity wave","traditional_chinese":"重力波","definition_cht":"流體中受重力或浮力作為回復力所形成的波動，可見於大氣穩定層結、山脈背風波與海洋內波。","source_url":"https://glossary.ametsoc.org/wiki/gravity_wave"},{"english":"gravity wave drag","traditional_chinese":"重力波阻力","definition_cht":"指與「重力波阻力」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。","source_url":"https://glossary.ametsoc.org/wiki/gravity_wave_drag"},{"english":"gravity wave drag parameterization","traditional_chinese":"重力波阻力參數化","definition_cht":"指與「重力波阻力參數化」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。","source_url":"https://glossary.ametsoc.org/wiki/gravity_wave_drag_parameterization"},{"english":"gravity wind","traditional_chinese":"重力風","definition_cht":"指與「重力風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。","source_url":"https://glossary.ametsoc.org/wiki/gravity_wind"},{"english":"gray absorber","traditional_chinese":"灰色吸收體","definition_cht":"指與「灰色吸收體」相關的射線、輻射束或粒子束。","source_url":"https://glossary.ametsoc.org/wiki/gray_absorber"},{"english":"gray ice","traditional_chinese":"灰冰","definition_cht":"指與「灰冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。","source_url":"https://glossary.ametsoc.org/wiki/gray_ice"},{"english":"graybody","traditional_chinese":"灰體","definition_cht":"指與「灰體」相關的射線、輻射束或粒子束。","source_url":"https://glossary.ametsoc.org/wiki/graybody"},{"english":"grayscale","traditional_chinese":"灰階","definition_cht":"指與「灰階」相關的射線、輻射束或粒子束。","source_url":"https://glossary.ametsoc.org/wiki/grayscale"},{"english":"grease ice","traditional_chinese":"油脂冰","definition_cht":"指與「油脂冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。","source_url":"https://glossary.ametsoc.org/wiki/grease_ice"},{"english":"Great Basin high","traditional_chinese":"大盆地高","definition_cht":"指與「大盆地高」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Great_Basin_high"},{"english":"great circle","traditional_chinese":"大圓","definition_cht":"指與「大圓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/great_circle"},{"english":"great-circle course","traditional_chinese":"大圓課程","definition_cht":"指與「大圓課程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/great-circle_course"},{"english":"greco","traditional_chinese":"格雷科","definition_cht":"指與「格雷科」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/greco"},{"english":"green flash","traditional_chinese":"綠閃光","definition_cht":"日出或日落瞬間因大氣折射與色散作用，使太陽上緣短暫出現綠色閃現的光學現象。","source_url":"https://glossary.ametsoc.org/wiki/green_flash"},{"english":"green iceberg","traditional_chinese":"綠色冰山","definition_cht":"指與「綠色冰山」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。","source_url":"https://glossary.ametsoc.org/wiki/green_iceberg"},{"english":"green rim","traditional_chinese":"綠邊","definition_cht":"指與「綠邊」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/green_rim"},{"english":"green snow","traditional_chinese":"綠雪","definition_cht":"指與「綠雪」相關的降雪現象、雪況條件或雪量特徵。","source_url":"https://glossary.ametsoc.org/wiki/green_snow"},{"english":"green thunderstorm","traditional_chinese":"綠色雷暴","definition_cht":"指與「綠色雷暴」相關的風暴、擾動系統或劇烈天氣現象。","source_url":"https://glossary.ametsoc.org/wiki/green_thunderstorm"},{"english":"Green's function","traditional_chinese":"格林函數","definition_cht":"描述「格林函數」相關變數關係、響應特性或分布型態的函數表述。","source_url":"https://glossary.ametsoc.org/wiki/Green%27s_function"},{"english":"Green's theorem","traditional_chinese":"格林定理","definition_cht":"「格林定理」相關的理論定理或數學命題，用於說明特定物理或統計性質。","source_url":"https://glossary.ametsoc.org/wiki/Green%27s_theorem"},{"english":"Greenhouse effect","traditional_chinese":"溫室效應","definition_cht":"指與「溫室效應」相關的物理、化學或觀測效應，用於描述特定機制造成的結果。","source_url":"https://glossary.ametsoc.org/wiki/Greenhouse_effect"},{"english":"greenhouse gas stabilization","traditional_chinese":"溫室氣體穩定","definition_cht":"指與「溫室氣體穩定」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/greenhouse_gas_stabilization"},{"english":"greenhouse gases","traditional_chinese":"溫室氣體","definition_cht":"指與「溫室氣體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/greenhouse_gases"},{"english":"Greenland anticyclone","traditional_chinese":"格陵蘭反氣旋","definition_cht":"指與「格陵蘭反氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Greenland_anticyclone"},{"english":"Greenland ice sheet","traditional_chinese":"格陵蘭冰原","definition_cht":"指與「格陵蘭冰原」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。","source_url":"https://glossary.ametsoc.org/wiki/Greenland_ice_sheet"},{"english":"Greenland Sea Deep Water","traditional_chinese":"格陵蘭海深水","definition_cht":"指與「格陵蘭海深水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/Greenland_Sea_Deep_Water"},{"english":"gregale","traditional_chinese":"格雷加勒風","definition_cht":"指與「格雷加勒風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gregale"},{"english":"gregori wind","traditional_chinese":"格雷戈里風","definition_cht":"指與「格雷戈里風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。","source_url":"https://glossary.ametsoc.org/wiki/gregori_wind"},{"english":"grenade sounding","traditional_chinese":"手榴彈響起","definition_cht":"指與「手榴彈響起」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/grenade_sounding"},{"english":"GRIB","traditional_chinese":"GRIB","definition_cht":"「GRIB」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。","source_url":"https://glossary.ametsoc.org/wiki/GRIB"},{"english":"grid","traditional_chinese":"網格","definition_cht":"指與「網格」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/grid"},{"english":"grid heading","traditional_chinese":"網格標題","definition_cht":"指與「網格標題」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/grid_heading"},{"english":"grid length","traditional_chinese":"網格長度","definition_cht":"指與「網格長度」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/grid_length"},{"english":"grid meridians","traditional_chinese":"網格經絡","definition_cht":"指與「網格經絡」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/grid_meridians"},{"english":"grid navigation","traditional_chinese":"網格導航","definition_cht":"指與「網格導航」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/grid_navigation"},{"english":"grid nephoscope","traditional_chinese":"網格腎鏡","definition_cht":"指與「網格腎鏡」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/grid_nephoscope"},{"english":"grid telescoping","traditional_chinese":"網格伸縮","definition_cht":"指與「網格伸縮」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/grid_telescoping"},{"english":"grid turbulence","traditional_chinese":"網格湍流","definition_cht":"指與「網格湍流」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/grid_turbulence"},{"english":"gridding","traditional_chinese":"網格化","definition_cht":"指與「網格化」相關的格網系統、網格配置或離散化架構。","source_url":"https://glossary.ametsoc.org/wiki/gridding"},{"english":"Gringorten plotting position","traditional_chinese":"格林戈滕繪圖位置","definition_cht":"指與「格林戈滕繪圖位置」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gringorten_plotting_position"},{"english":"gross interception loss","traditional_chinese":"總攔截損失","definition_cht":"指與「總攔截損失」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gross_interception_loss"},{"english":"gross primary production","traditional_chinese":"初級生產總值","definition_cht":"指與「初級生產總值」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gross_primary_production"},{"english":"gross-austausch","traditional_chinese":"大奧斯陶什","definition_cht":"指與「大奧斯陶什」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gross-austausch"},{"english":"Grosswetterlage","traditional_chinese":"格羅斯韋特拉赫","definition_cht":"指與「格羅斯韋特拉赫」相關的年代、地質期或發展階段。","source_url":"https://glossary.ametsoc.org/wiki/Grosswetterlage"},{"english":"ground check","traditional_chinese":"地面檢查","definition_cht":"指與「地面檢查」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_check"},{"english":"ground clutter","traditional_chinese":"地物雜波","definition_cht":"雷達接收到自地形、建築物或其他固定地物反射而非來自降水目標的回波雜訊。","source_url":"https://glossary.ametsoc.org/wiki/ground_clutter"},{"english":"ground flash","traditional_chinese":"地面閃光","definition_cht":"指與「地面閃光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_flash"},{"english":"ground flux","traditional_chinese":"接地通量","definition_cht":"指單位時間穿過單位面積之「接地通量」通量，用以量化能量、質量或動量傳輸。","source_url":"https://glossary.ametsoc.org/wiki/ground_flux"},{"english":"ground fog","traditional_chinese":"地面霧","definition_cht":"主要侷限於近地表淺薄層中的霧，多由夜間地表冷卻使接地空氣達飽和而形成。","source_url":"https://glossary.ametsoc.org/wiki/ground_fog"},{"english":"ground frost","traditional_chinese":"地面霜","definition_cht":"指與「地面霜」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_frost"},{"english":"ground ice","traditional_chinese":"地面冰","definition_cht":"指與「地面冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。","source_url":"https://glossary.ametsoc.org/wiki/ground_ice"},{"english":"Ground illumination","traditional_chinese":"地面照明","definition_cht":"指與「地面照明」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Ground_illumination"},{"english":"ground inversion","traditional_chinese":"地面反演","definition_cht":"指與「地面反演」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_inversion"},{"english":"ground layer","traditional_chinese":"地層","definition_cht":"指與「地層」相關的大氣、海洋或湖泊層結構，通常依熱力、密度、鹽度或動力特徵加以區分。","source_url":"https://glossary.ametsoc.org/wiki/ground_layer"},{"english":"ground speed","traditional_chinese":"對地速度","definition_cht":"指與「對地速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_speed"},{"english":"ground state","traditional_chinese":"基態","definition_cht":"指與「基態」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_state"},{"english":"ground streamer","traditional_chinese":"地面飄帶","definition_cht":"指與「地面飄帶」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_streamer"},{"english":"ground swell","traditional_chinese":"地面隆起","definition_cht":"指與「地面隆起」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_swell"},{"english":"ground target","traditional_chinese":"地面目標","definition_cht":"指與「地面目標」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_target"},{"english":"ground track","traditional_chinese":"地面軌道","definition_cht":"指與「地面軌道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_track"},{"english":"ground truth","traditional_chinese":"基本事實","definition_cht":"指與「基本事實」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_truth"},{"english":"ground visibility","traditional_chinese":"地面能見度","definition_cht":"指與「地面能見度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground_visibility"},{"english":"ground wave","traditional_chinese":"地波","definition_cht":"指與「地波」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。","source_url":"https://glossary.ametsoc.org/wiki/ground_wave"},{"english":"ground-check chamber","traditional_chinese":"地面檢查室","definition_cht":"指與「地面檢查室」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground-check_chamber"},{"english":"ground-controlled approach","traditional_chinese":"地面控制進場","definition_cht":"指與「地面控制進場」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/ground-controlled_approach"},{"english":"ground-to-cloud discharge","traditional_chinese":"地對雲放電","definition_cht":"指與「地對雲放電」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、形成機制與所對應的大氣狀態。","source_url":"https://glossary.ametsoc.org/wiki/ground-to-cloud_discharge"},{"english":"Groundhog Day","traditional_chinese":"土撥鼠日","definition_cht":"指與「土撥鼠日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Groundhog_Day"},{"english":"grounding line","traditional_chinese":"接地線","definition_cht":"指與「接地線」相關的線性界面、基準線或分析線，常作為場型判讀與結構定位的輔助。","source_url":"https://glossary.ametsoc.org/wiki/grounding_line"},{"english":"groundwater","traditional_chinese":"地下水","definition_cht":"指與「地下水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater"},{"english":"groundwater basin","traditional_chinese":"地下水盆地","definition_cht":"指與「地下水盆地」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_basin"},{"english":"groundwater dam","traditional_chinese":"地下水壩","definition_cht":"指與「地下水壩」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_dam"},{"english":"groundwater dating","traditional_chinese":"地下水約會","definition_cht":"指與「地下水約會」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_dating"},{"english":"groundwater depletion curve","traditional_chinese":"地下水枯竭曲線","definition_cht":"指與「地下水枯竭曲線」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_depletion_curve"},{"english":"groundwater divide","traditional_chinese":"地下水分水嶺","definition_cht":"指與「地下水分水嶺」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_divide"},{"english":"groundwater flow","traditional_chinese":"地下水流量","definition_cht":"指與「地下水流量」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_flow"},{"english":"groundwater hydrology","traditional_chinese":"地下水水文學","definition_cht":"指與「地下水水文學」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_hydrology"},{"english":"groundwater level","traditional_chinese":"地下水位","definition_cht":"指與「地下水位」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_level"},{"english":"groundwater mining","traditional_chinese":"地下水開採","definition_cht":"指與「地下水開採」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_mining"},{"english":"groundwater mound","traditional_chinese":"地下水丘","definition_cht":"指與「地下水丘」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_mound"},{"english":"groundwater runoff","traditional_chinese":"地下水徑流","definition_cht":"指與「地下水徑流」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_runoff"},{"english":"groundwater station","traditional_chinese":"地下水站","definition_cht":"指與「地下水站」相關的觀測站、測站設施或資料蒐集位置。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_station"},{"english":"groundwater storage","traditional_chinese":"地下水儲存","definition_cht":"指與「地下水儲存」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。","source_url":"https://glossary.ametsoc.org/wiki/groundwater_storage"},{"english":"group velocity","traditional_chinese":"群速度","definition_cht":"指與「群速度」相關的速度量，用於描述流體、粒子或波動之運動快慢與方向。","source_url":"https://glossary.ametsoc.org/wiki/group_velocity"},{"english":"grower's year","traditional_chinese":"種植者年","definition_cht":"指與「種植者年」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/grower%27s_year"},{"english":"growing degree-day","traditional_chinese":"學位日","definition_cht":"指與「學位日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/growing_degree-day"},{"english":"growing degree-hour","traditional_chinese":"增長學位小時","definition_cht":"指與「增長學位小時」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/growing_degree-hour"},{"english":"growing season","traditional_chinese":"生長季","definition_cht":"指與「生長季」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/growing_season"},{"english":"growler","traditional_chinese":"咆哮者","definition_cht":"指與「咆哮者」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/growler"},{"english":"Gts","traditional_chinese":"GTs","definition_cht":"指與「GTs」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gts"},{"english":"guba","traditional_chinese":"古巴","definition_cht":"指與「古巴」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/guba"},{"english":"Guiana Current","traditional_chinese":"圭亞那海流","definition_cht":"指與「圭亞那海流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。","source_url":"https://glossary.ametsoc.org/wiki/Guiana_Current"},{"english":"Guinea Current","traditional_chinese":"幾內亞洋流","definition_cht":"指與「幾內亞洋流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。","source_url":"https://glossary.ametsoc.org/wiki/Guinea_Current"},{"english":"Gulf of Papagayo","traditional_chinese":"帕帕加約灣","definition_cht":"指與「帕帕加約灣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gulf_of_Papagayo"},{"english":"Gulf of Tehuantepec","traditional_chinese":"特萬特佩克灣","definition_cht":"指與「特萬特佩克灣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gulf_of_Tehuantepec"},{"english":"Gulf Stream","traditional_chinese":"灣流","definition_cht":"指與「灣流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gulf_Stream"},{"english":"Gulf Stream rings","traditional_chinese":"灣流環","definition_cht":"指與「灣流環」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gulf_Stream_rings"},{"english":"Gulf Stream System","traditional_chinese":"灣流系統","definition_cht":"指與「灣流系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Gulf_Stream_System"},{"english":"gully-squall","traditional_chinese":"溝壑","definition_cht":"指與「溝壑」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gully-squall"},{"english":"gust","traditional_chinese":"陣風","definition_cht":"在短時間內風速顯著增強的瞬時強風，通常用以描述相對於平均風之快速脈動。","source_url":"https://glossary.ametsoc.org/wiki/gust"},{"english":"gust amplitude","traditional_chinese":"陣風幅度","definition_cht":"指與「陣風幅度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gust_amplitude"},{"english":"gust decay time","traditional_chinese":"陣風衰減時間","definition_cht":"指與「陣風衰減時間」相關的時間尺度、時制或地質年代概念。","source_url":"https://glossary.ametsoc.org/wiki/gust_decay_time"},{"english":"gust duration","traditional_chinese":"陣風持續時間","definition_cht":"指與「陣風持續時間」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gust_duration"},{"english":"gust formation time","traditional_chinese":"陣風形成時間","definition_cht":"指與「陣風形成時間」相關的時間尺度、時制或地質年代概念。","source_url":"https://glossary.ametsoc.org/wiki/gust_formation_time"},{"english":"gust frequency","traditional_chinese":"陣風頻率","definition_cht":"指與「陣風頻率」相關的頻率特性、振盪速率或波動尺度指標。","source_url":"https://glossary.ametsoc.org/wiki/gust_frequency"},{"english":"gust frequency interval","traditional_chinese":"陣風頻率間隔","definition_cht":"指與「陣風頻率間隔」相關的頻率特性、振盪速率或波動尺度指標。","source_url":"https://glossary.ametsoc.org/wiki/gust_frequency_interval"},{"english":"gust front","traditional_chinese":"陣風鋒","definition_cht":"雷暴下沉冷空氣向外擴散時所形成的近地面密度鋒，可觸發新對流並伴隨風向、風速與溫度突變。","source_url":"https://glossary.ametsoc.org/wiki/gust_front"},{"english":"gust load","traditional_chinese":"陣風載重","definition_cht":"指與「陣風載重」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gust_load"},{"english":"gust peak speed","traditional_chinese":"陣風峰值速度","definition_cht":"指與「陣風峰值速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gust_peak_speed"},{"english":"gust probe","traditional_chinese":"陣風探頭","definition_cht":"指與「陣風探頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gust_probe"},{"english":"gust vector","traditional_chinese":"陣風向量","definition_cht":"指與「陣風向量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gust_vector"},{"english":"gust-gradient distance","traditional_chinese":"陣風梯度距離","definition_cht":"指與「陣風梯度距離」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gust-gradient_distance"},{"english":"gustiness","traditional_chinese":"味覺","definition_cht":"指與「味覺」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gustiness"},{"english":"gustiness components","traditional_chinese":"味覺成分","definition_cht":"指與「味覺成分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gustiness_components"},{"english":"gustiness factor","traditional_chinese":"味覺係數","definition_cht":"指與「味覺係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gustiness_factor"},{"english":"gustnado","traditional_chinese":"陣風龍捲","definition_cht":"沿陣風鋒或下擊暴流邊界生成之淺層短生命旋轉渦柱，雖外觀近似龍捲，但成因與母體環流不同。","source_url":"https://glossary.ametsoc.org/wiki/gustnado"},{"english":"gustsonde","traditional_chinese":"古斯特松德","definition_cht":"指與「古斯特松德」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/gustsonde"},{"english":"Guti weather","traditional_chinese":"古蒂 天氣","definition_cht":"指與「古蒂 天氣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/Guti_weather"},{"english":"guttation","traditional_chinese":"吐水作用","definition_cht":"指與「吐水作用」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/guttation"},{"english":"guttra","traditional_chinese":"滴狀雲","definition_cht":"指與「滴狀雲」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/guttra"},{"english":"guxen","traditional_chinese":"焚風型突風","definition_cht":"指與「焚風型突風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/guxen"},{"english":"Guyana Current","traditional_chinese":"蓋亞那海流","definition_cht":"指與「蓋亞那海流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。","source_url":"https://glossary.ametsoc.org/wiki/Guyana_Current"},{"english":"guzzle","traditional_chinese":"急流槽口","definition_cht":"指與「急流槽口」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。","source_url":"https://glossary.ametsoc.org/wiki/guzzle"},{"english":"GVAR","traditional_chinese":"地球同步可見紅外分析系統","definition_cht":"地球同步氣象衛星之可見光與紅外資料傳輸系統，用於即時下傳衛星影像與相關產品。","source_url":"https://glossary.ametsoc.org/wiki/GVAR"},{"english":"gyres","traditional_chinese":"環流","definition_cht":"在風應力、科氏力與海盆邊界共同作用下形成的大尺度環狀海洋環流系統，可分為副熱帶與副極地環流。","source_url":"https://glossary.ametsoc.org/wiki/gyres"},{"english":"gyro-frequency","traditional_chinese":"迴旋頻率","definition_cht":"指與「迴旋頻率」相關的頻率特性、振盪速率或波動尺度指標。","source_url":"https://glossary.ametsoc.org/wiki/gyro-frequency"}]
+[
+  {
+    "english": "G-region",
+    "traditional_chinese": "G區",
+    "definition_cht": "舊稱或罕用術語，通常指假設位於 F 層之上的高空電離層區域；現代電離層分類多不另設獨立的 G 層。",
+    "source_url": "https://glossary.ametsoc.org/wiki/G-region"
+  },
+  {
+    "english": "G-scale",
+    "traditional_chinese": "G級尺度",
+    "definition_cht": "NOAA 太空天氣尺度中用以分級地磁暴強度的尺度，級別由 G1 至 G5，數值愈大表示地磁擾動及其對電力、通訊與衛星系統的影響愈強。",
+    "source_url": "https://glossary.ametsoc.org/wiki/G-scale"
+  },
+  {
+    "english": "gaign",
+    "traditional_chinese": "蓋恩風",
+    "definition_cht": "義大利的地方性山越風，指跨越山脈並在山脊附近促使雲生成的氣流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gaign"
+  },
+  {
+    "english": "gain",
+    "traditional_chinese": "增益",
+    "definition_cht": "電子、雷達或通訊系統中輸出訊號相對於輸入訊號的放大量度，常以功率比或振幅比表示；調整增益會影響回波顯示強弱。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gain"
+  },
+  {
+    "english": "Gale",
+    "traditional_chinese": "烈風",
+    "definition_cht": "一種強風等級，通常指持續風速達 34 至 47 節（約 17.5 至 24.2 公尺每秒）的風，常用於海上與航海氣象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gale"
+  },
+  {
+    "english": "Gale warning",
+    "traditional_chinese": "烈風警報",
+    "definition_cht": "當預報或觀測顯示持續風或頻繁陣風將達烈風等級時所發布的海上或沿岸警報，用以提醒航行與海事作業防範強風危害。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gale_warning"
+  },
+  {
+    "english": "Galerkin approximation",
+    "traditional_chinese": "伽遼金近似",
+    "definition_cht": "求解微分方程的近似方法，以基底函數線性組合表示未知解，並令整體殘差在選定函數空間中最小化，以建立可計算的離散方程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Galerkin_approximation"
+  },
+  {
+    "english": "Galerkin methods",
+    "traditional_chinese": "伽遼金方法",
+    "definition_cht": "一類以試函數與權函數取自同一函數空間為特徵的加權殘值法，廣泛應用於有限元素法、譜元素法及大氣海洋數值模擬。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Galerkin_methods"
+  },
+  {
+    "english": "galerne",
+    "traditional_chinese": "加勒訥風",
+    "definition_cht": "法國西部沿岸的地方性風名，通常指自西北或北西北吹來、偏冷且潮濕並常帶陣風的海風或鋒後氣流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/galerne"
+  },
+  {
+    "english": "Galilei",
+    "traditional_chinese": "伽利略",
+    "definition_cht": "指與「伽利略」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Galilei"
+  },
+  {
+    "english": "gallego",
+    "traditional_chinese": "加列戈",
+    "definition_cht": "指與「加列戈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gallego"
+  },
+  {
+    "english": "gallium",
+    "traditional_chinese": "鎵",
+    "definition_cht": "指與「鎵」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gallium"
+  },
+  {
+    "english": "gamma distribution",
+    "traditional_chinese": "伽瑪分佈",
+    "definition_cht": "指「伽瑪分佈」所代表的分布型態或機率分布，用於描述變量在空間、時間或數值上的配置特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gamma_distribution"
+  },
+  {
+    "english": "gamma ray",
+    "traditional_chinese": "伽瑪射線",
+    "definition_cht": "指與「伽瑪射線」相關的射線、輻射束或粒子束。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gamma_ray"
+  },
+  {
+    "english": "gamma-ray snow gauge",
+    "traditional_chinese": "伽瑪射線雪計",
+    "definition_cht": "指與「伽瑪射線雪計」相關的降雪現象、雪況條件或雪量特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gamma-ray_snow_gauge"
+  },
+  {
+    "english": "gap wind",
+    "traditional_chinese": "峽口風",
+    "definition_cht": "指與「峽口風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gap_wind"
+  },
+  {
+    "english": "garbin",
+    "traditional_chinese": "加爾賓",
+    "definition_cht": "指與「加爾賓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/garbin"
+  },
+  {
+    "english": "Garrett–Munk spectrum",
+    "traditional_chinese": "加勒特-蒙克譜",
+    "definition_cht": "指與「加勒特-蒙克譜」相關的頻譜、能譜或波譜分布，用於分析不同尺度上的能量配置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Garrett%E2%80%93Munk_spectrum"
+  },
+  {
+    "english": "garúa",
+    "traditional_chinese": "加魯阿",
+    "definition_cht": "指與「加魯阿」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gar%C3%BAa"
+  },
+  {
+    "english": "gas chromatography",
+    "traditional_chinese": "氣相層析法",
+    "definition_cht": "以圖形方式呈現「氣相層析法」相關量值變化、對應關係或分類結果的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas_chromatography"
+  },
+  {
+    "english": "gas constant",
+    "traditional_chinese": "氣體常數",
+    "definition_cht": "描述氣體狀態方程中壓力、體積與溫度關係的常數；在氣象上常區分通用氣體常數與乾空氣、濕空氣之比氣體常數。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas_constant"
+  },
+  {
+    "english": "gas filter correlation spectroscopy",
+    "traditional_chinese": "氣體過濾相關光譜",
+    "definition_cht": "用於擷取、保留或抑制「氣體過濾相關光譜」相關頻率成分、訊號變化或尺度資訊的濾波方法或裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas_filter_correlation_spectroscopy"
+  },
+  {
+    "english": "gas laws",
+    "traditional_chinese": "氣體定律",
+    "definition_cht": "「氣體定律」相關的定律或經驗法則，用以概括物理關係、尺度關係或統計規律。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas_laws"
+  },
+  {
+    "english": "gas thermometer",
+    "traditional_chinese": "氣體溫度計",
+    "definition_cht": "用於量測「氣體溫度計」相關物理量的儀器、計量設備或感測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas_thermometer"
+  },
+  {
+    "english": "gas transfer",
+    "traditional_chinese": "氣體傳輸",
+    "definition_cht": "指與「氣體傳輸」相關的傳輸、交換或移轉過程，常涉及熱量、氣體、動量或物質通量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas_transfer"
+  },
+  {
+    "english": "gas-particle distribution factor",
+    "traditional_chinese": "氣體顆粒分佈係數",
+    "definition_cht": "指「氣體顆粒分佈係數」所代表的分布型態或機率分布，用於描述變量在空間、時間或數值上的配置特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas-particle_distribution_factor"
+  },
+  {
+    "english": "gas-phase kinetics",
+    "traditional_chinese": "氣相動力學",
+    "definition_cht": "指「氣相動力學」所涉及的反應動力學、轉化速率或化學過程特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas-phase_kinetics"
+  },
+  {
+    "english": "gas–solid reactions",
+    "traditional_chinese": "氣固反應",
+    "definition_cht": "指與「氣固反應」相關的化學或物理反應過程，用於說明物質轉換與能量變化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gas%E2%80%93solid_reactions"
+  },
+  {
+    "english": "gate-to-gate azimuthal shear",
+    "traditional_chinese": "門到門方位角剪切",
+    "definition_cht": "指與「門到門方位角剪切」相關的風切、速度梯度或形變特徵，常用於診斷對流與流場結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gate-to-gate_azimuthal_shear"
+  },
+  {
+    "english": "gating",
+    "traditional_chinese": "門控",
+    "definition_cht": "指與「門控」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gating"
+  },
+  {
+    "english": "gauge height",
+    "traditional_chinese": "標距高度",
+    "definition_cht": "指與「標距高度」相關的高度量測、垂直尺度或特徵層位。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gauge_height"
+  },
+  {
+    "english": "gauge relation",
+    "traditional_chinese": "規範關係",
+    "definition_cht": "指「規範關係」所表達之變量對應、換算或經驗關係。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gauge_relation"
+  },
+  {
+    "english": "gauge zero",
+    "traditional_chinese": "表零",
+    "definition_cht": "指與「表零」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gauge_zero"
+  },
+  {
+    "english": "gauging section",
+    "traditional_chinese": "測量部分",
+    "definition_cht": "指與「測量部分」相關的斷面、河段或分析區段，用於量測、監測或計算。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gauging_section"
+  },
+  {
+    "english": "gauging site",
+    "traditional_chinese": "測量地點",
+    "definition_cht": "指與「測量地點」相關的站址、測點或作業地點。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gauging_site"
+  },
+  {
+    "english": "gauss",
+    "traditional_chinese": "高斯",
+    "definition_cht": "指與「高斯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gauss"
+  },
+  {
+    "english": "Gauss curve",
+    "traditional_chinese": "高斯曲線",
+    "definition_cht": "指表示「高斯曲線」相關變化關係、分布形態或統計特徵的曲線。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gauss_curve"
+  },
+  {
+    "english": "Gauss elimination",
+    "traditional_chinese": "高斯消去法",
+    "definition_cht": "指與「高斯消去法」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gauss_elimination"
+  },
+  {
+    "english": "Gaussian grid",
+    "traditional_chinese": "高斯網格",
+    "definition_cht": "指與「高斯網格」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gaussian_grid"
+  },
+  {
+    "english": "Gaussian plume models",
+    "traditional_chinese": "高斯羽流模型",
+    "definition_cht": "用於表徵「高斯羽流模型」相關過程或系統的理論、概念或數值模式，以分析其主要物理機制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gaussian_plume_models"
+  },
+  {
+    "english": "Gaussian process",
+    "traditional_chinese": "高斯過程",
+    "definition_cht": "指與「高斯過程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gaussian_process"
+  },
+  {
+    "english": "Gaussian wave packet",
+    "traditional_chinese": "高斯波包",
+    "definition_cht": "指與「高斯波包」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gaussian_wave_packet"
+  },
+  {
+    "english": "GCA",
+    "traditional_chinese": "GCA",
+    "definition_cht": "「GCA」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GCA"
+  },
+  {
+    "english": "GCA minimums",
+    "traditional_chinese": "GCA 最小值",
+    "definition_cht": "指與「GCA 最小值」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GCA_minimums"
+  },
+  {
+    "english": "GCM",
+    "traditional_chinese": "氣相層析法",
+    "definition_cht": "「GCM」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GCM"
+  },
+  {
+    "english": "Gdd",
+    "traditional_chinese": "吉德",
+    "definition_cht": "指與「吉德」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gdd"
+  },
+  {
+    "english": "GDH",
+    "traditional_chinese": "粵港澳大灣區",
+    "definition_cht": "「GDH」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GDH"
+  },
+  {
+    "english": "GDPS",
+    "traditional_chinese": "國內生產毛額",
+    "definition_cht": "「GDPS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GDPS"
+  },
+  {
+    "english": "geg",
+    "traditional_chinese": "格格",
+    "definition_cht": "指與「格格」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geg"
+  },
+  {
+    "english": "gegenschein",
+    "traditional_chinese": "對日照",
+    "definition_cht": "位於反太陽點附近、由行星際塵埃反射與後向散射日光所形成的微弱亮區，常見於晴朗暗夜天空。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gegenschein"
+  },
+  {
+    "english": "gending",
+    "traditional_chinese": "性別劃分",
+    "definition_cht": "指與「性別劃分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gending"
+  },
+  {
+    "english": "General Broadcast",
+    "traditional_chinese": "普通廣播",
+    "definition_cht": "指與「普通廣播」相關的較長時間分期、地質代或歷史階段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/General_Broadcast"
+  },
+  {
+    "english": "general circulation",
+    "traditional_chinese": "一般循環",
+    "definition_cht": "指與「一般循環」相關的環流系統，描述大氣或海洋中流體之平均運動與輸送結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/general_circulation"
+  },
+  {
+    "english": "general circulation model",
+    "traditional_chinese": "大氣環流模型",
+    "definition_cht": "用於表徵「大氣環流模型」相關過程或系統的理論、概念或數值模式，以分析其主要物理機制。",
+    "source_url": "https://glossary.ametsoc.org/wiki/general_circulation_model"
+  },
+  {
+    "english": "generalized absorption coefficient",
+    "traditional_chinese": "廣義吸收係數",
+    "definition_cht": "表示「廣義吸收係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。",
+    "source_url": "https://glossary.ametsoc.org/wiki/generalized_absorption_coefficient"
+  },
+  {
+    "english": "generalized coordinates",
+    "traditional_chinese": "廣義座標",
+    "definition_cht": "指表示「廣義座標」相關位置、方向或空間基準的座標系統。",
+    "source_url": "https://glossary.ametsoc.org/wiki/generalized_coordinates"
+  },
+  {
+    "english": "generalized hydrostatic equation",
+    "traditional_chinese": "廣義流體靜力方程",
+    "definition_cht": "描述「廣義流體靜力方程」相關物理量之間關係、守恆條件或診斷計算方法的方程式。",
+    "source_url": "https://glossary.ametsoc.org/wiki/generalized_hydrostatic_equation"
+  },
+  {
+    "english": "generalized transmission function",
+    "traditional_chinese": "廣義傳遞函數",
+    "definition_cht": "描述「廣義傳遞函數」相關變數關係、響應特性或分布型態的函數表述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/generalized_transmission_function"
+  },
+  {
+    "english": "generate and test",
+    "traditional_chinese": "生成並測試",
+    "definition_cht": "指與「生成並測試」相關的較長時間分期、地質代或歷史階段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/generate_and_test"
+  },
+  {
+    "english": "generating area",
+    "traditional_chinese": "發電區",
+    "definition_cht": "指與「發電區」相關的較長時間分期、地質代或歷史階段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/generating_area"
+  },
+  {
+    "english": "generating cell",
+    "traditional_chinese": "生成細胞",
+    "definition_cht": "指與「生成細胞」相關的較長時間分期、地質代或歷史階段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/generating_cell"
+  },
+  {
+    "english": "generic rule",
+    "traditional_chinese": "通用規則",
+    "definition_cht": "指與「通用規則」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/generic_rule"
+  },
+  {
+    "english": "Genitus",
+    "traditional_chinese": "天才",
+    "definition_cht": "指與「天才」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Genitus"
+  },
+  {
+    "english": "Genoa cyclone",
+    "traditional_chinese": "熱那亞氣旋",
+    "definition_cht": "指與「熱那亞氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Genoa_cyclone"
+  },
+  {
+    "english": "GENOT",
+    "traditional_chinese": "傑諾特",
+    "definition_cht": "「GENOT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GENOT"
+  },
+  {
+    "english": "gentle breeze",
+    "traditional_chinese": "微風",
+    "definition_cht": "指與「微風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gentle_breeze"
+  },
+  {
+    "english": "GEO-KOMPSAT 2A",
+    "traditional_chinese": "地理衛星2A",
+    "definition_cht": "指與「地理衛星2A」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GEO-KOMPSAT_2A"
+  },
+  {
+    "english": "geocentric reference system",
+    "traditional_chinese": "地心參考系",
+    "definition_cht": "指與「地心參考系」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geocentric_reference_system"
+  },
+  {
+    "english": "geodesic grid",
+    "traditional_chinese": "測地線網格",
+    "definition_cht": "指與「測地線網格」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geodesic_grid"
+  },
+  {
+    "english": "geodesy",
+    "traditional_chinese": "大地測量學",
+    "definition_cht": "研究地球形狀、重力場、參考系與精密定位測量的學科。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geodesy"
+  },
+  {
+    "english": "Geodetic Satellite",
+    "traditional_chinese": "大地測量衛星",
+    "definition_cht": "指與「大地測量衛星」相關的人造衛星、衛星任務或其觀測平台。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Geodetic_Satellite"
+  },
+  {
+    "english": "geographic effect on winds",
+    "traditional_chinese": "地理對風的影響",
+    "definition_cht": "指與「地理對風的影響」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geographic_effect_on_winds"
+  },
+  {
+    "english": "geographically possible sunshine duration",
+    "traditional_chinese": "地理上可能的日照時長",
+    "definition_cht": "以圖形方式呈現「地理上可能的日照時長」相關量值變化、對應關係或分類結果的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geographically_possible_sunshine_duration"
+  },
+  {
+    "english": "geoid",
+    "traditional_chinese": "大地水準面",
+    "definition_cht": "指與「大地水準面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geoid"
+  },
+  {
+    "english": "geologic age",
+    "traditional_chinese": "地質時代",
+    "definition_cht": "指與「地質時代」相關的年代、地質期或發展階段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geologic_age"
+  },
+  {
+    "english": "geologic epoch",
+    "traditional_chinese": "地質時代",
+    "definition_cht": "指與「地質時代」相關的年代分期、時段或地質時代單位。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geologic_epoch"
+  },
+  {
+    "english": "geologic era",
+    "traditional_chinese": "地質時代",
+    "definition_cht": "指與「地質時代」相關的較長時間分期、地質代或歷史階段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geologic_era"
+  },
+  {
+    "english": "geologic period",
+    "traditional_chinese": "地質時期",
+    "definition_cht": "指與「地質時期」相關、以特定時間尺度界定的氣候期、週期或統計時段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geologic_period"
+  },
+  {
+    "english": "geologic time",
+    "traditional_chinese": "地質年代",
+    "definition_cht": "指與「地質年代」相關的時間尺度、時制或地質年代概念。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geologic_time"
+  },
+  {
+    "english": "geomagnetic coordinates",
+    "traditional_chinese": "地磁座標",
+    "definition_cht": "指表示「地磁座標」相關位置、方向或空間基準的座標系統。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_coordinates"
+  },
+  {
+    "english": "geomagnetic equator",
+    "traditional_chinese": "地磁赤道",
+    "definition_cht": "指與「地磁赤道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_equator"
+  },
+  {
+    "english": "geomagnetic latitude",
+    "traditional_chinese": "地磁緯度",
+    "definition_cht": "指與「地磁緯度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_latitude"
+  },
+  {
+    "english": "geomagnetic meridian",
+    "traditional_chinese": "地磁子午線",
+    "definition_cht": "指與「地磁子午線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_meridian"
+  },
+  {
+    "english": "geomagnetic pole",
+    "traditional_chinese": "地磁極",
+    "definition_cht": "指與「地磁極」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geomagnetic_pole"
+  },
+  {
+    "english": "geomagnetism",
+    "traditional_chinese": "地磁學",
+    "definition_cht": "指與「地磁學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geomagnetism"
+  },
+  {
+    "english": "geometric mean",
+    "traditional_chinese": "幾何平均數",
+    "definition_cht": "指「幾何平均數」所代表之平均量、統計均值或代表性平均狀態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geometric_mean"
+  },
+  {
+    "english": "geometric optics",
+    "traditional_chinese": "幾何光學",
+    "definition_cht": "指與「幾何光學」相關的光學理論、光路特性或輻射傳播現象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geometric_optics"
+  },
+  {
+    "english": "geomorphology",
+    "traditional_chinese": "地形學",
+    "definition_cht": "指與「地形學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geomorphology"
+  },
+  {
+    "english": "geophysical day",
+    "traditional_chinese": "地球物理日",
+    "definition_cht": "指與「地球物理日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geophysical_day"
+  },
+  {
+    "english": "geophysics",
+    "traditional_chinese": "地球物理學",
+    "definition_cht": "指與「地球物理學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geophysics"
+  },
+  {
+    "english": "geopotential",
+    "traditional_chinese": "位勢",
+    "definition_cht": "單位質量空氣自海平面或參考面移至某高度時所具有的位能，常用於描述大氣壓力面之高度與動力結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geopotential"
+  },
+  {
+    "english": "geopotential field",
+    "traditional_chinese": "位元場",
+    "definition_cht": "指與「位元場」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geopotential_field"
+  },
+  {
+    "english": "Geopotential height",
+    "traditional_chinese": "位勢高度",
+    "definition_cht": "指與「位勢高度」相關的高度量測、垂直尺度或特徵層位。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Geopotential_height"
+  },
+  {
+    "english": "geopotential meter",
+    "traditional_chinese": "位勢計",
+    "definition_cht": "用於量測「位勢計」相關物理量的儀器、計量設備或感測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geopotential_meter"
+  },
+  {
+    "english": "geopotential surface",
+    "traditional_chinese": "位勢面",
+    "definition_cht": "指與「位勢面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geopotential_surface"
+  },
+  {
+    "english": "geopotential thickness",
+    "traditional_chinese": "位勢厚度",
+    "definition_cht": "指與「位勢厚度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geopotential_thickness"
+  },
+  {
+    "english": "geopotential topography",
+    "traditional_chinese": "位勢地形",
+    "definition_cht": "以圖形方式呈現「位勢地形」相關量值變化、對應關係或分類結果的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geopotential_topography"
+  },
+  {
+    "english": "GEOSAT",
+    "traditional_chinese": "地球衛星",
+    "definition_cht": "「GEOSAT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GEOSAT"
+  },
+  {
+    "english": "geosphere",
+    "traditional_chinese": "地圈",
+    "definition_cht": "指與「地圈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geosphere"
+  },
+  {
+    "english": "Geostationary Earth Radiation Budget",
+    "traditional_chinese": "對地靜止地球輻射預算",
+    "definition_cht": "指與「對地靜止地球輻射預算」相關的輻射收支、能量傳輸或電磁傳播效應。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_Earth_Radiation_Budget"
+  },
+  {
+    "english": "Geostationary Lightning Mapper",
+    "traditional_chinese": "對地靜止閃電測繪儀",
+    "definition_cht": "指與「對地靜止閃電測繪儀」相關的觀測站、測站設施或資料蒐集位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_Lightning_Mapper"
+  },
+  {
+    "english": "Geostationary Meteorological Satellite",
+    "traditional_chinese": "對地靜止氣象衛星",
+    "definition_cht": "指與「對地靜止氣象衛星」相關的觀測站、測站設施或資料蒐集位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_Meteorological_Satellite"
+  },
+  {
+    "english": "Geostationary operational environmental satellite",
+    "traditional_chinese": "對地靜止運轉環境衛星",
+    "definition_cht": "指與「對地靜止運轉環境衛星」相關的觀測站、測站設施或資料蒐集位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_operational_environmental_satellite"
+  },
+  {
+    "english": "Geostationary Operational Meteorological Satellite",
+    "traditional_chinese": "對地靜止業務氣象衛星",
+    "definition_cht": "指與「對地靜止業務氣象衛星」相關的觀測站、測站設施或資料蒐集位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_Operational_Meteorological_Satellite"
+  },
+  {
+    "english": "Geostationary satellite",
+    "traditional_chinese": "對地靜止衛星",
+    "definition_cht": "指與「對地靜止衛星」相關的觀測站、測站設施或資料蒐集位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_satellite"
+  },
+  {
+    "english": "geostrophic",
+    "traditional_chinese": "地轉的",
+    "definition_cht": "指與「地轉的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic"
+  },
+  {
+    "english": "geostrophic adjustment",
+    "traditional_chinese": "地轉調整",
+    "definition_cht": "指與「地轉調整」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_adjustment"
+  },
+  {
+    "english": "geostrophic advection",
+    "traditional_chinese": "地轉平流",
+    "definition_cht": "指與「地轉平流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_advection"
+  },
+  {
+    "english": "geostrophic approximation",
+    "traditional_chinese": "地轉近似",
+    "definition_cht": "用於處理「地轉近似」相關問題的近似假設，以保留主要物理機制並簡化數學描述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_approximation"
+  },
+  {
+    "english": "geostrophic balance",
+    "traditional_chinese": "地轉平衡",
+    "definition_cht": "指與「地轉平衡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_balance"
+  },
+  {
+    "english": "geostrophic coordinates",
+    "traditional_chinese": "地轉座標",
+    "definition_cht": "指表示「地轉座標」相關位置、方向或空間基準的座標系統。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_coordinates"
+  },
+  {
+    "english": "geostrophic current",
+    "traditional_chinese": "地轉流",
+    "definition_cht": "指與「地轉流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_current"
+  },
+  {
+    "english": "geostrophic departure",
+    "traditional_chinese": "地轉偏離",
+    "definition_cht": "指與「地轉偏離」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_departure"
+  },
+  {
+    "english": "geostrophic deviation",
+    "traditional_chinese": "地轉偏差",
+    "definition_cht": "指與「地轉偏差」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_deviation"
+  },
+  {
+    "english": "geostrophic dividers",
+    "traditional_chinese": "地轉分隔線",
+    "definition_cht": "指與「地轉分隔線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_dividers"
+  },
+  {
+    "english": "geostrophic drag coefficient",
+    "traditional_chinese": "地轉阻力係數",
+    "definition_cht": "表示「地轉阻力係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_drag_coefficient"
+  },
+  {
+    "english": "geostrophic equilibrium",
+    "traditional_chinese": "地轉平衡",
+    "definition_cht": "指與「地轉平衡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_equilibrium"
+  },
+  {
+    "english": "geostrophic flow",
+    "traditional_chinese": "地轉流",
+    "definition_cht": "指與「地轉流」相關的流動型態、平均流場或輸送結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_flow"
+  },
+  {
+    "english": "geostrophic flux",
+    "traditional_chinese": "地轉通量",
+    "definition_cht": "指單位時間穿過單位面積之「地轉通量」通量，用以量化能量、質量或動量傳輸。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_flux"
+  },
+  {
+    "english": "geostrophic momentum approximation",
+    "traditional_chinese": "地轉量近似",
+    "definition_cht": "用於處理「地轉量近似」相關問題的近似假設，以保留主要物理機制並簡化數學描述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_momentum_approximation"
+  },
+  {
+    "english": "geostrophic vorticity",
+    "traditional_chinese": "地轉渦度",
+    "definition_cht": "指與「地轉渦度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_vorticity"
+  },
+  {
+    "english": "geostrophic wind",
+    "traditional_chinese": "地轉風",
+    "definition_cht": "在科氏力與氣壓梯度力達近似平衡時所形成、平行等壓線吹送的理想風，是中高緯大尺度流場分析的重要近似。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_wind"
+  },
+  {
+    "english": "geostrophic wind level",
+    "traditional_chinese": "地轉風級",
+    "definition_cht": "指與「地轉風級」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_wind_level"
+  },
+  {
+    "english": "geostrophic wind scale",
+    "traditional_chinese": "地轉風級",
+    "definition_cht": "指與「地轉風級」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_wind_scale"
+  },
+  {
+    "english": "geosynchronous satellite",
+    "traditional_chinese": "地球同步衛星",
+    "definition_cht": "指與「地球同步衛星」相關的人造衛星、衛星任務或其觀測平台。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geosynchronous_satellite"
+  },
+  {
+    "english": "geothermometer",
+    "traditional_chinese": "地溫計",
+    "definition_cht": "用於量測「地溫計」相關物理量的儀器、計量設備或感測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geothermometer"
+  },
+  {
+    "english": "GERB",
+    "traditional_chinese": "胃食道逆流症",
+    "definition_cht": "「GERB」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GERB"
+  },
+  {
+    "english": "Gerdien aspirator",
+    "traditional_chinese": "Gerdien 吸氣器",
+    "definition_cht": "指與「Gerdien 吸氣器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gerdien_aspirator"
+  },
+  {
+    "english": "Gerstner wave",
+    "traditional_chinese": "郭士納波",
+    "definition_cht": "指與「郭士納波」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gerstner_wave"
+  },
+  {
+    "english": "gestalt",
+    "traditional_chinese": "格式塔",
+    "definition_cht": "指與「格式塔」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gestalt"
+  },
+  {
+    "english": "geyser",
+    "traditional_chinese": "噴泉",
+    "definition_cht": "指與「噴泉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/geyser"
+  },
+  {
+    "english": "gharbi",
+    "traditional_chinese": "加爾比",
+    "definition_cht": "指與「加爾比」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gharbi"
+  },
+  {
+    "english": "gharra",
+    "traditional_chinese": "加拉",
+    "definition_cht": "指與「加拉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gharra"
+  },
+  {
+    "english": "ghibli",
+    "traditional_chinese": "吉卜力",
+    "definition_cht": "指與「吉卜力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ghibli"
+  },
+  {
+    "english": "GHIS",
+    "traditional_chinese": "地理資訊系統",
+    "definition_cht": "「GHIS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GHIS"
+  },
+  {
+    "english": "ghost",
+    "traditional_chinese": "鬼",
+    "definition_cht": "指與「鬼」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ghost"
+  },
+  {
+    "english": "Gibbs function",
+    "traditional_chinese": "吉布斯函數",
+    "definition_cht": "描述「吉布斯函數」相關變數關係、響應特性或分布型態的函數表述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gibbs_function"
+  },
+  {
+    "english": "gibla",
+    "traditional_chinese": "吉卜拉",
+    "definition_cht": "指與「吉卜拉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gibla"
+  },
+  {
+    "english": "Gibraltar outflow water",
+    "traditional_chinese": "直布羅陀流出水",
+    "definition_cht": "指與「直布羅陀流出水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gibraltar_outflow_water"
+  },
+  {
+    "english": "gigahertz",
+    "traditional_chinese": "吉赫",
+    "definition_cht": "指與「吉赫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gigahertz"
+  },
+  {
+    "english": "Gill anemometer",
+    "traditional_chinese": "鰓風速計",
+    "definition_cht": "用於量測「鰓風速計」相關物理量的儀器、計量設備或感測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gill_anemometer"
+  },
+  {
+    "english": "glacial",
+    "traditional_chinese": "冰川的",
+    "definition_cht": "指與「冰川的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial"
+  },
+  {
+    "english": "glacial anticyclone",
+    "traditional_chinese": "冰川反氣旋",
+    "definition_cht": "指與「冰川反氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial_anticyclone"
+  },
+  {
+    "english": "glacial drift",
+    "traditional_chinese": "冰川漂流",
+    "definition_cht": "指與「冰川漂流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial_drift"
+  },
+  {
+    "english": "glacial epoch",
+    "traditional_chinese": "冰期",
+    "definition_cht": "指與「冰期」相關的年代分期、時段或地質時代單位。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial_epoch"
+  },
+  {
+    "english": "glacial geology",
+    "traditional_chinese": "冰河地質學",
+    "definition_cht": "指與「冰河地質學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial_geology"
+  },
+  {
+    "english": "glacial maximum",
+    "traditional_chinese": "盛冰期",
+    "definition_cht": "指與「盛冰期」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial_maximum"
+  },
+  {
+    "english": "glacial period",
+    "traditional_chinese": "冰期",
+    "definition_cht": "指與「冰期」相關、以特定時間尺度界定的氣候期、週期或統計時段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial_period"
+  },
+  {
+    "english": "glacial rebound",
+    "traditional_chinese": "冰川反彈",
+    "definition_cht": "指與「冰川反彈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial_rebound"
+  },
+  {
+    "english": "glacial trough",
+    "traditional_chinese": "冰槽",
+    "definition_cht": "指與「冰槽」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacial_trough"
+  },
+  {
+    "english": "glaciation",
+    "traditional_chinese": "冰化作用",
+    "definition_cht": "可指雲中過冷水滴轉變為冰晶之冰化過程，亦可泛指地表受冰川作用影響之冰川化現象；實際意義依語境而定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glaciation"
+  },
+  {
+    "english": "glaciation limit",
+    "traditional_chinese": "冰河作用極限",
+    "definition_cht": "指與「冰河作用極限」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glaciation_limit"
+  },
+  {
+    "english": "glacier",
+    "traditional_chinese": "冰川",
+    "definition_cht": "指與「冰川」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacier"
+  },
+  {
+    "english": "glacier flood",
+    "traditional_chinese": "冰川洪水",
+    "definition_cht": "指與「冰川洪水」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacier_flood"
+  },
+  {
+    "english": "glacier flow",
+    "traditional_chinese": "冰川流",
+    "definition_cht": "指與「冰川流」相關的流動型態、平均流場或輸送結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacier_flow"
+  },
+  {
+    "english": "glacier front",
+    "traditional_chinese": "冰河前緣",
+    "definition_cht": "指與「冰河前緣」相關的鋒面或密度邊界結構，常伴隨風、溫度與濕度的明顯變化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacier_front"
+  },
+  {
+    "english": "glacier ice",
+    "traditional_chinese": "冰川冰",
+    "definition_cht": "指與「冰川冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacier_ice"
+  },
+  {
+    "english": "glacier tongue",
+    "traditional_chinese": "冰川舌",
+    "definition_cht": "指與「冰川舌」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacier_tongue"
+  },
+  {
+    "english": "glacier wind",
+    "traditional_chinese": "冰川風",
+    "definition_cht": "受冰川表面強冷卻影響，冷密空氣沿坡面向下流動而形成的局地下坡風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacier_wind"
+  },
+  {
+    "english": "glacierization",
+    "traditional_chinese": "冰川化",
+    "definition_cht": "指與「冰川化」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glacierization"
+  },
+  {
+    "english": "glaciology",
+    "traditional_chinese": "冰川學",
+    "definition_cht": "指與「冰川學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glaciology"
+  },
+  {
+    "english": "glaçon",
+    "traditional_chinese": "格拉松",
+    "definition_cht": "指與「格拉松」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gla%C3%A7on"
+  },
+  {
+    "english": "glare",
+    "traditional_chinese": "強光",
+    "definition_cht": "指與「強光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glare"
+  },
+  {
+    "english": "glare ice",
+    "traditional_chinese": "光滑冰",
+    "definition_cht": "指與「光滑冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glare_ice"
+  },
+  {
+    "english": "glass",
+    "traditional_chinese": "玻璃",
+    "definition_cht": "指與「玻璃」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glass"
+  },
+  {
+    "english": "glaves",
+    "traditional_chinese": "手套",
+    "definition_cht": "指與「手套」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glaves"
+  },
+  {
+    "english": "glaze",
+    "traditional_chinese": "釉",
+    "definition_cht": "指與「釉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glaze"
+  },
+  {
+    "english": "glaze storm",
+    "traditional_chinese": "釉風暴",
+    "definition_cht": "指與「釉風暴」相關的風暴、擾動系統或劇烈天氣現象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glaze_storm"
+  },
+  {
+    "english": "glazed frost",
+    "traditional_chinese": "釉面霜",
+    "definition_cht": "指與「釉面霜」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glazed_frost"
+  },
+  {
+    "english": "glide path",
+    "traditional_chinese": "下滑道",
+    "definition_cht": "指與「下滑道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glide_path"
+  },
+  {
+    "english": "glime",
+    "traditional_chinese": "格萊姆",
+    "definition_cht": "指與「格萊姆」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glime"
+  },
+  {
+    "english": "glitter",
+    "traditional_chinese": "閃光",
+    "definition_cht": "指與「閃光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glitter"
+  },
+  {
+    "english": "GLM",
+    "traditional_chinese": "廣義線性模型",
+    "definition_cht": "「GLM」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GLM"
+  },
+  {
+    "english": "global area coverage",
+    "traditional_chinese": "全球區域覆蓋",
+    "definition_cht": "指與「全球區域覆蓋」相關的較長時間分期、地質代或歷史階段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/global_area_coverage"
+  },
+  {
+    "english": "global baseline datasets",
+    "traditional_chinese": "全球基線數據集",
+    "definition_cht": "指與「全球基線數據集」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/global_baseline_datasets"
+  },
+  {
+    "english": "global circuit",
+    "traditional_chinese": "全球電路",
+    "definition_cht": "指與「全球電路」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/global_circuit"
+  },
+  {
+    "english": "Global Data Processing System",
+    "traditional_chinese": "全球資料處理系統",
+    "definition_cht": "指與「全球資料處理系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Global_Data_Processing_System"
+  },
+  {
+    "english": "Global Level of the Sea Surface",
+    "traditional_chinese": "全球海平面",
+    "definition_cht": "指與「全球海平面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Global_Level_of_the_Sea_Surface"
+  },
+  {
+    "english": "Global Observing System",
+    "traditional_chinese": "全球觀測系統",
+    "definition_cht": "指與「全球觀測系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Global_Observing_System"
+  },
+  {
+    "english": "Global Positioning System",
+    "traditional_chinese": "全球定位系統",
+    "definition_cht": "指與「全球定位系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Global_Positioning_System"
+  },
+  {
+    "english": "global radiation",
+    "traditional_chinese": "全天空總輻射",
+    "definition_cht": "指與「全天空總輻射」相關的輻射收支、能量傳輸或電磁傳播效應。",
+    "source_url": "https://glossary.ametsoc.org/wiki/global_radiation"
+  },
+  {
+    "english": "Global Telecommunications System",
+    "traditional_chinese": "全球電信系統",
+    "definition_cht": "指與「全球電信系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Global_Telecommunications_System"
+  },
+  {
+    "english": "glory",
+    "traditional_chinese": "輝光",
+    "definition_cht": "觀測者背向太陽時，於雲滴或霧滴所形成的反太陽點周圍彩色同心光環現象，與後向散射及繞射有關。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glory"
+  },
+  {
+    "english": "GLOSS",
+    "traditional_chinese": "光澤度",
+    "definition_cht": "「GLOSS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GLOSS"
+  },
+  {
+    "english": "glow discharge",
+    "traditional_chinese": "輝光放電",
+    "definition_cht": "指與「輝光放電」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/glow_discharge"
+  },
+  {
+    "english": "GMS",
+    "traditional_chinese": "GMS",
+    "definition_cht": "「GMS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GMS"
+  },
+  {
+    "english": "goal-directed reasoning",
+    "traditional_chinese": "目標導向推理",
+    "definition_cht": "指與「目標導向推理」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/goal-directed_reasoning"
+  },
+  {
+    "english": "Goes",
+    "traditional_chinese": "去吧",
+    "definition_cht": "指與「去吧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Goes"
+  },
+  {
+    "english": "GOES High-Resolution Interferometer Sounder",
+    "traditional_chinese": "GOES 高解析度干涉儀發聲器",
+    "definition_cht": "用於量測「GOES 高解析度干涉儀發聲器」相關物理量的儀器、計量設備或感測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GOES_High-Resolution_Interferometer_Sounder"
+  },
+  {
+    "english": "GOES Variable",
+    "traditional_chinese": "GOES變數",
+    "definition_cht": "指與「GOES變數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GOES_Variable"
+  },
+  {
+    "english": "GOES-R",
+    "traditional_chinese": "GOES-R",
+    "definition_cht": "「GOES-R」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GOES-R"
+  },
+  {
+    "english": "Gold slide",
+    "traditional_chinese": "金色滑梯",
+    "definition_cht": "指與「金色滑梯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gold_slide"
+  },
+  {
+    "english": "goldbeater's skin hygrometer",
+    "traditional_chinese": "Goldbeater 皮膚濕度計",
+    "definition_cht": "用於量測「Goldbeater 皮膚濕度計」相關物理量的儀器、計量設備或感測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/goldbeater%27s_skin_hygrometer"
+  },
+  {
+    "english": "golfada",
+    "traditional_chinese": "高爾夫達",
+    "definition_cht": "指與「高爾夫達」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/golfada"
+  },
+  {
+    "english": "GOMS",
+    "traditional_chinese": "GOMS",
+    "definition_cht": "「GOMS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GOMS"
+  },
+  {
+    "english": "goniometer",
+    "traditional_chinese": "測角器",
+    "definition_cht": "用於量測「測角器」相關物理量的儀器、計量設備或感測裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/goniometer"
+  },
+  {
+    "english": "goodness of fit",
+    "traditional_chinese": "擬合優度",
+    "definition_cht": "指與「擬合優度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/goodness_of_fit"
+  },
+  {
+    "english": "gorge wind",
+    "traditional_chinese": "峽谷風",
+    "definition_cht": "指與「峽谷風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gorge_wind"
+  },
+  {
+    "english": "gosling blast",
+    "traditional_chinese": "小鵝爆發",
+    "definition_cht": "指與「小鵝爆發」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gosling_blast"
+  },
+  {
+    "english": "gowk storm",
+    "traditional_chinese": "古克風暴",
+    "definition_cht": "指與「古克風暴」相關的風暴、擾動系統或劇烈天氣現象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gowk_storm"
+  },
+  {
+    "english": "GPS",
+    "traditional_chinese": "全球定位系統",
+    "definition_cht": "「GPS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GPS"
+  },
+  {
+    "english": "grab sampling",
+    "traditional_chinese": "抓樣",
+    "definition_cht": "指與「抓樣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grab_sampling"
+  },
+  {
+    "english": "gradex method",
+    "traditional_chinese": "等級法",
+    "definition_cht": "指處理「等級法」相關問題的分析、估算、分類、反演或推算方法。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gradex_method"
+  },
+  {
+    "english": "gradient",
+    "traditional_chinese": "梯度",
+    "definition_cht": "指與「梯度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gradient"
+  },
+  {
+    "english": "gradient current",
+    "traditional_chinese": "梯度流",
+    "definition_cht": "指與「梯度流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gradient_current"
+  },
+  {
+    "english": "gradient flow",
+    "traditional_chinese": "梯度流",
+    "definition_cht": "指與「梯度流」相關的流動型態、平均流場或輸送結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gradient_flow"
+  },
+  {
+    "english": "gradient Richardson number",
+    "traditional_chinese": "梯度理查森數",
+    "definition_cht": "以浮力穩定效應與垂直風切強度之比值衡量層結穩定度與亂流生成傾向的無因次參數。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gradient_Richardson_number"
+  },
+  {
+    "english": "gradient transport theory",
+    "traditional_chinese": "梯度輸運理論",
+    "definition_cht": "指與「梯度輸運理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gradient_transport_theory"
+  },
+  {
+    "english": "Gradient wind",
+    "traditional_chinese": "漸層風",
+    "definition_cht": "指與「漸層風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gradient_wind"
+  },
+  {
+    "english": "Gradient-based similarity theory",
+    "traditional_chinese": "基於梯度的相似理論",
+    "definition_cht": "指與「基於梯度的相似理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gradient-based_similarity_theory"
+  },
+  {
+    "english": "grading",
+    "traditional_chinese": "等級",
+    "definition_cht": "指與「等級」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grading"
+  },
+  {
+    "english": "graduation",
+    "traditional_chinese": "畢業",
+    "definition_cht": "指與「畢業」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/graduation"
+  },
+  {
+    "english": "grains of ice",
+    "traditional_chinese": "冰粒",
+    "definition_cht": "指與「冰粒」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grains_of_ice"
+  },
+  {
+    "english": "gram",
+    "traditional_chinese": "克",
+    "definition_cht": "指與「克」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gram"
+  },
+  {
+    "english": "gram calorie",
+    "traditional_chinese": "克卡路里",
+    "definition_cht": "指與「克卡路里」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gram_calorie"
+  },
+  {
+    "english": "Gram-mole",
+    "traditional_chinese": "克摩爾",
+    "definition_cht": "指與「克摩爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gram-mole"
+  },
+  {
+    "english": "granular snow",
+    "traditional_chinese": "粒狀雪",
+    "definition_cht": "指與「粒狀雪」相關的降雪現象、雪況條件或雪量特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/granular_snow"
+  },
+  {
+    "english": "granules",
+    "traditional_chinese": "顆粒",
+    "definition_cht": "指與「顆粒」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/granules"
+  },
+  {
+    "english": "graphing board",
+    "traditional_chinese": "繪圖板",
+    "definition_cht": "以圖形方式呈現「繪圖板」相關量值變化、對應關係或分類結果的圖表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/graphing_board"
+  },
+  {
+    "english": "Grashoff number",
+    "traditional_chinese": "格拉肖夫數",
+    "definition_cht": "指與「格拉肖夫數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Grashoff_number"
+  },
+  {
+    "english": "grass",
+    "traditional_chinese": "草",
+    "definition_cht": "指與「草」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grass"
+  },
+  {
+    "english": "grass minimum",
+    "traditional_chinese": "草最少",
+    "definition_cht": "指與「草最少」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grass_minimum"
+  },
+  {
+    "english": "grass temperature",
+    "traditional_chinese": "草溫",
+    "definition_cht": "指與「草溫」相關的溫度量、溫度分布或代表性熱狀態特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grass_temperature"
+  },
+  {
+    "english": "graupel",
+    "traditional_chinese": "霰",
+    "definition_cht": "由過冷水滴凍附於雪晶或冰晶表面所形成的白色不透明粒狀固態降水，粒徑通常小於冰雹。",
+    "source_url": "https://glossary.ametsoc.org/wiki/graupel"
+  },
+  {
+    "english": "gravimetric hygrometry",
+    "traditional_chinese": "重力濕度測定法",
+    "definition_cht": "指與「重力濕度測定法」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravimetric_hygrometry"
+  },
+  {
+    "english": "gravitation",
+    "traditional_chinese": "重力",
+    "definition_cht": "指與「重力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravitation"
+  },
+  {
+    "english": "gravitational head",
+    "traditional_chinese": "重力頭",
+    "definition_cht": "指與「重力頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravitational_head"
+  },
+  {
+    "english": "gravitational potential",
+    "traditional_chinese": "重力位能",
+    "definition_cht": "指與「重力位能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravitational_potential"
+  },
+  {
+    "english": "gravitational potential energy",
+    "traditional_chinese": "重力位能",
+    "definition_cht": "指與「重力位能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravitational_potential_energy"
+  },
+  {
+    "english": "Gravitational tide",
+    "traditional_chinese": "引力潮汐",
+    "definition_cht": "指與「引力潮汐」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gravitational_tide"
+  },
+  {
+    "english": "gravitational water",
+    "traditional_chinese": "重力水",
+    "definition_cht": "指與「重力水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravitational_water"
+  },
+  {
+    "english": "gravity",
+    "traditional_chinese": "重力",
+    "definition_cht": "指與「重力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravity"
+  },
+  {
+    "english": "gravity current",
+    "traditional_chinese": "重力流",
+    "definition_cht": "因密度差異而在重力驅動下沿地表或界面水平推進的流體，如冷池外流、海風前緣或鹽水入侵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravity_current"
+  },
+  {
+    "english": "gravity flow",
+    "traditional_chinese": "重力流",
+    "definition_cht": "指與「重力流」相關的流動型態、平均流場或輸送結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravity_flow"
+  },
+  {
+    "english": "gravity wave",
+    "traditional_chinese": "重力波",
+    "definition_cht": "流體中受重力或浮力作為回復力所形成的波動，可見於大氣穩定層結、山脈背風波與海洋內波。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravity_wave"
+  },
+  {
+    "english": "gravity wave drag",
+    "traditional_chinese": "重力波阻力",
+    "definition_cht": "指與「重力波阻力」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravity_wave_drag"
+  },
+  {
+    "english": "gravity wave drag parameterization",
+    "traditional_chinese": "重力波阻力參數化",
+    "definition_cht": "指與「重力波阻力參數化」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravity_wave_drag_parameterization"
+  },
+  {
+    "english": "gravity wind",
+    "traditional_chinese": "重力風",
+    "definition_cht": "指與「重力風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gravity_wind"
+  },
+  {
+    "english": "gray absorber",
+    "traditional_chinese": "灰色吸收體",
+    "definition_cht": "指與「灰色吸收體」相關的射線、輻射束或粒子束。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gray_absorber"
+  },
+  {
+    "english": "gray ice",
+    "traditional_chinese": "灰冰",
+    "definition_cht": "指與「灰冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gray_ice"
+  },
+  {
+    "english": "graybody",
+    "traditional_chinese": "灰體",
+    "definition_cht": "指與「灰體」相關的射線、輻射束或粒子束。",
+    "source_url": "https://glossary.ametsoc.org/wiki/graybody"
+  },
+  {
+    "english": "grayscale",
+    "traditional_chinese": "灰階",
+    "definition_cht": "指與「灰階」相關的射線、輻射束或粒子束。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grayscale"
+  },
+  {
+    "english": "grease ice",
+    "traditional_chinese": "油脂冰",
+    "definition_cht": "指與「油脂冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grease_ice"
+  },
+  {
+    "english": "Great Basin high",
+    "traditional_chinese": "大盆地高",
+    "definition_cht": "指與「大盆地高」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Great_Basin_high"
+  },
+  {
+    "english": "great circle",
+    "traditional_chinese": "大圓",
+    "definition_cht": "指與「大圓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/great_circle"
+  },
+  {
+    "english": "great-circle course",
+    "traditional_chinese": "大圓課程",
+    "definition_cht": "指與「大圓課程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/great-circle_course"
+  },
+  {
+    "english": "greco",
+    "traditional_chinese": "格雷科",
+    "definition_cht": "指與「格雷科」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/greco"
+  },
+  {
+    "english": "green flash",
+    "traditional_chinese": "綠閃光",
+    "definition_cht": "日出或日落瞬間因大氣折射與色散作用，使太陽上緣短暫出現綠色閃現的光學現象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/green_flash"
+  },
+  {
+    "english": "green iceberg",
+    "traditional_chinese": "綠色冰山",
+    "definition_cht": "指與「綠色冰山」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/green_iceberg"
+  },
+  {
+    "english": "green rim",
+    "traditional_chinese": "綠邊",
+    "definition_cht": "指與「綠邊」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/green_rim"
+  },
+  {
+    "english": "green snow",
+    "traditional_chinese": "綠雪",
+    "definition_cht": "指與「綠雪」相關的降雪現象、雪況條件或雪量特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/green_snow"
+  },
+  {
+    "english": "green thunderstorm",
+    "traditional_chinese": "綠色雷暴",
+    "definition_cht": "指與「綠色雷暴」相關的風暴、擾動系統或劇烈天氣現象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/green_thunderstorm"
+  },
+  {
+    "english": "Green's function",
+    "traditional_chinese": "格林函數",
+    "definition_cht": "描述「格林函數」相關變數關係、響應特性或分布型態的函數表述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Green%27s_function"
+  },
+  {
+    "english": "Green's theorem",
+    "traditional_chinese": "格林定理",
+    "definition_cht": "「格林定理」相關的理論定理或數學命題，用於說明特定物理或統計性質。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Green%27s_theorem"
+  },
+  {
+    "english": "Greenhouse effect",
+    "traditional_chinese": "溫室效應",
+    "definition_cht": "指與「溫室效應」相關的物理、化學或觀測效應，用於描述特定機制造成的結果。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Greenhouse_effect"
+  },
+  {
+    "english": "greenhouse gas stabilization",
+    "traditional_chinese": "溫室氣體穩定",
+    "definition_cht": "指與「溫室氣體穩定」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/greenhouse_gas_stabilization"
+  },
+  {
+    "english": "greenhouse gases",
+    "traditional_chinese": "溫室氣體",
+    "definition_cht": "指與「溫室氣體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/greenhouse_gases"
+  },
+  {
+    "english": "Greenland anticyclone",
+    "traditional_chinese": "格陵蘭反氣旋",
+    "definition_cht": "指與「格陵蘭反氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Greenland_anticyclone"
+  },
+  {
+    "english": "Greenland ice sheet",
+    "traditional_chinese": "格陵蘭冰原",
+    "definition_cht": "指與「格陵蘭冰原」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Greenland_ice_sheet"
+  },
+  {
+    "english": "Greenland Sea Deep Water",
+    "traditional_chinese": "格陵蘭海深水",
+    "definition_cht": "指與「格陵蘭海深水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Greenland_Sea_Deep_Water"
+  },
+  {
+    "english": "gregale",
+    "traditional_chinese": "格雷加勒風",
+    "definition_cht": "指與「格雷加勒風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gregale"
+  },
+  {
+    "english": "gregori wind",
+    "traditional_chinese": "格雷戈里風",
+    "definition_cht": "指與「格雷戈里風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gregori_wind"
+  },
+  {
+    "english": "grenade sounding",
+    "traditional_chinese": "手榴彈響起",
+    "definition_cht": "指與「手榴彈響起」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grenade_sounding"
+  },
+  {
+    "english": "GRIB",
+    "traditional_chinese": "GRIB",
+    "definition_cht": "「GRIB」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GRIB"
+  },
+  {
+    "english": "grid",
+    "traditional_chinese": "網格",
+    "definition_cht": "指與「網格」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grid"
+  },
+  {
+    "english": "grid heading",
+    "traditional_chinese": "網格標題",
+    "definition_cht": "指與「網格標題」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grid_heading"
+  },
+  {
+    "english": "grid length",
+    "traditional_chinese": "網格長度",
+    "definition_cht": "指與「網格長度」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grid_length"
+  },
+  {
+    "english": "grid meridians",
+    "traditional_chinese": "網格經絡",
+    "definition_cht": "指與「網格經絡」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grid_meridians"
+  },
+  {
+    "english": "grid navigation",
+    "traditional_chinese": "網格導航",
+    "definition_cht": "指與「網格導航」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grid_navigation"
+  },
+  {
+    "english": "grid nephoscope",
+    "traditional_chinese": "網格腎鏡",
+    "definition_cht": "指與「網格腎鏡」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grid_nephoscope"
+  },
+  {
+    "english": "grid telescoping",
+    "traditional_chinese": "網格伸縮",
+    "definition_cht": "指與「網格伸縮」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grid_telescoping"
+  },
+  {
+    "english": "grid turbulence",
+    "traditional_chinese": "網格湍流",
+    "definition_cht": "指與「網格湍流」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grid_turbulence"
+  },
+  {
+    "english": "gridding",
+    "traditional_chinese": "網格化",
+    "definition_cht": "指與「網格化」相關的格網系統、網格配置或離散化架構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gridding"
+  },
+  {
+    "english": "Gringorten plotting position",
+    "traditional_chinese": "格林戈滕繪圖位置",
+    "definition_cht": "指與「格林戈滕繪圖位置」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gringorten_plotting_position"
+  },
+  {
+    "english": "gross interception loss",
+    "traditional_chinese": "總攔截損失",
+    "definition_cht": "指與「總攔截損失」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gross_interception_loss"
+  },
+  {
+    "english": "gross primary production",
+    "traditional_chinese": "初級生產總值",
+    "definition_cht": "指與「初級生產總值」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gross_primary_production"
+  },
+  {
+    "english": "gross-austausch",
+    "traditional_chinese": "大奧斯陶什",
+    "definition_cht": "指與「大奧斯陶什」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gross-austausch"
+  },
+  {
+    "english": "Grosswetterlage",
+    "traditional_chinese": "格羅斯韋特拉赫",
+    "definition_cht": "指與「格羅斯韋特拉赫」相關的年代、地質期或發展階段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Grosswetterlage"
+  },
+  {
+    "english": "ground check",
+    "traditional_chinese": "地面檢查",
+    "definition_cht": "指與「地面檢查」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_check"
+  },
+  {
+    "english": "ground clutter",
+    "traditional_chinese": "地物雜波",
+    "definition_cht": "雷達接收到自地形、建築物或其他固定地物反射而非來自降水目標的回波雜訊。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_clutter"
+  },
+  {
+    "english": "ground flash",
+    "traditional_chinese": "地面閃光",
+    "definition_cht": "指與「地面閃光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_flash"
+  },
+  {
+    "english": "ground flux",
+    "traditional_chinese": "接地通量",
+    "definition_cht": "指單位時間穿過單位面積之「接地通量」通量，用以量化能量、質量或動量傳輸。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_flux"
+  },
+  {
+    "english": "ground fog",
+    "traditional_chinese": "地面霧",
+    "definition_cht": "主要侷限於近地表淺薄層中的霧，多由夜間地表冷卻使接地空氣達飽和而形成。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_fog"
+  },
+  {
+    "english": "ground frost",
+    "traditional_chinese": "地面霜",
+    "definition_cht": "指與「地面霜」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_frost"
+  },
+  {
+    "english": "ground ice",
+    "traditional_chinese": "地面冰",
+    "definition_cht": "指與「地面冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_ice"
+  },
+  {
+    "english": "Ground illumination",
+    "traditional_chinese": "地面照明",
+    "definition_cht": "指與「地面照明」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Ground_illumination"
+  },
+  {
+    "english": "ground inversion",
+    "traditional_chinese": "地面反演",
+    "definition_cht": "指與「地面反演」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_inversion"
+  },
+  {
+    "english": "ground layer",
+    "traditional_chinese": "地層",
+    "definition_cht": "指與「地層」相關的大氣、海洋或湖泊層結構，通常依熱力、密度、鹽度或動力特徵加以區分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_layer"
+  },
+  {
+    "english": "ground speed",
+    "traditional_chinese": "對地速度",
+    "definition_cht": "指與「對地速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_speed"
+  },
+  {
+    "english": "ground state",
+    "traditional_chinese": "基態",
+    "definition_cht": "指與「基態」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_state"
+  },
+  {
+    "english": "ground streamer",
+    "traditional_chinese": "地面飄帶",
+    "definition_cht": "指與「地面飄帶」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_streamer"
+  },
+  {
+    "english": "ground swell",
+    "traditional_chinese": "地面隆起",
+    "definition_cht": "指與「地面隆起」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_swell"
+  },
+  {
+    "english": "ground target",
+    "traditional_chinese": "地面目標",
+    "definition_cht": "指與「地面目標」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_target"
+  },
+  {
+    "english": "ground track",
+    "traditional_chinese": "地面軌道",
+    "definition_cht": "指與「地面軌道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_track"
+  },
+  {
+    "english": "ground truth",
+    "traditional_chinese": "基本事實",
+    "definition_cht": "指與「基本事實」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_truth"
+  },
+  {
+    "english": "ground visibility",
+    "traditional_chinese": "地面能見度",
+    "definition_cht": "指與「地面能見度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_visibility"
+  },
+  {
+    "english": "ground wave",
+    "traditional_chinese": "地波",
+    "definition_cht": "指與「地波」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground_wave"
+  },
+  {
+    "english": "ground-check chamber",
+    "traditional_chinese": "地面檢查室",
+    "definition_cht": "指與「地面檢查室」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground-check_chamber"
+  },
+  {
+    "english": "ground-controlled approach",
+    "traditional_chinese": "地面控制進場",
+    "definition_cht": "指與「地面控制進場」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground-controlled_approach"
+  },
+  {
+    "english": "ground-to-cloud discharge",
+    "traditional_chinese": "地對雲放電",
+    "definition_cht": "指與「地對雲放電」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、形成機制與所對應的大氣狀態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ground-to-cloud_discharge"
+  },
+  {
+    "english": "Groundhog Day",
+    "traditional_chinese": "土撥鼠日",
+    "definition_cht": "指與「土撥鼠日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Groundhog_Day"
+  },
+  {
+    "english": "grounding line",
+    "traditional_chinese": "接地線",
+    "definition_cht": "指與「接地線」相關的線性界面、基準線或分析線，常作為場型判讀與結構定位的輔助。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grounding_line"
+  },
+  {
+    "english": "groundwater",
+    "traditional_chinese": "地下水",
+    "definition_cht": "指與「地下水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater"
+  },
+  {
+    "english": "groundwater basin",
+    "traditional_chinese": "地下水盆地",
+    "definition_cht": "指與「地下水盆地」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_basin"
+  },
+  {
+    "english": "groundwater dam",
+    "traditional_chinese": "地下水壩",
+    "definition_cht": "指與「地下水壩」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_dam"
+  },
+  {
+    "english": "groundwater dating",
+    "traditional_chinese": "地下水約會",
+    "definition_cht": "指與「地下水約會」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_dating"
+  },
+  {
+    "english": "groundwater depletion curve",
+    "traditional_chinese": "地下水枯竭曲線",
+    "definition_cht": "指與「地下水枯竭曲線」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_depletion_curve"
+  },
+  {
+    "english": "groundwater divide",
+    "traditional_chinese": "地下水分水嶺",
+    "definition_cht": "指與「地下水分水嶺」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_divide"
+  },
+  {
+    "english": "groundwater flow",
+    "traditional_chinese": "地下水流量",
+    "definition_cht": "指與「地下水流量」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_flow"
+  },
+  {
+    "english": "groundwater hydrology",
+    "traditional_chinese": "地下水水文學",
+    "definition_cht": "指與「地下水水文學」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_hydrology"
+  },
+  {
+    "english": "groundwater level",
+    "traditional_chinese": "地下水位",
+    "definition_cht": "指與「地下水位」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_level"
+  },
+  {
+    "english": "groundwater mining",
+    "traditional_chinese": "地下水開採",
+    "definition_cht": "指與「地下水開採」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_mining"
+  },
+  {
+    "english": "groundwater mound",
+    "traditional_chinese": "地下水丘",
+    "definition_cht": "指與「地下水丘」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_mound"
+  },
+  {
+    "english": "groundwater runoff",
+    "traditional_chinese": "地下水徑流",
+    "definition_cht": "指與「地下水徑流」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_runoff"
+  },
+  {
+    "english": "groundwater station",
+    "traditional_chinese": "地下水站",
+    "definition_cht": "指與「地下水站」相關的觀測站、測站設施或資料蒐集位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_station"
+  },
+  {
+    "english": "groundwater storage",
+    "traditional_chinese": "地下水儲存",
+    "definition_cht": "指與「地下水儲存」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/groundwater_storage"
+  },
+  {
+    "english": "group velocity",
+    "traditional_chinese": "群速度",
+    "definition_cht": "指與「群速度」相關的速度量，用於描述流體、粒子或波動之運動快慢與方向。",
+    "source_url": "https://glossary.ametsoc.org/wiki/group_velocity"
+  },
+  {
+    "english": "grower's year",
+    "traditional_chinese": "種植者年",
+    "definition_cht": "指與「種植者年」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/grower%27s_year"
+  },
+  {
+    "english": "growing degree-day",
+    "traditional_chinese": "學位日",
+    "definition_cht": "指與「學位日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/growing_degree-day"
+  },
+  {
+    "english": "growing degree-hour",
+    "traditional_chinese": "增長學位小時",
+    "definition_cht": "指與「增長學位小時」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/growing_degree-hour"
+  },
+  {
+    "english": "growing season",
+    "traditional_chinese": "生長季",
+    "definition_cht": "指與「生長季」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/growing_season"
+  },
+  {
+    "english": "growler",
+    "traditional_chinese": "咆哮者",
+    "definition_cht": "指與「咆哮者」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/growler"
+  },
+  {
+    "english": "Gts",
+    "traditional_chinese": "GTs",
+    "definition_cht": "指與「GTs」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gts"
+  },
+  {
+    "english": "guba",
+    "traditional_chinese": "古巴",
+    "definition_cht": "指與「古巴」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/guba"
+  },
+  {
+    "english": "Guiana Current",
+    "traditional_chinese": "圭亞那海流",
+    "definition_cht": "指與「圭亞那海流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Guiana_Current"
+  },
+  {
+    "english": "Guinea Current",
+    "traditional_chinese": "幾內亞洋流",
+    "definition_cht": "指與「幾內亞洋流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Guinea_Current"
+  },
+  {
+    "english": "Gulf of Papagayo",
+    "traditional_chinese": "帕帕加約灣",
+    "definition_cht": "指與「帕帕加約灣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gulf_of_Papagayo"
+  },
+  {
+    "english": "Gulf of Tehuantepec",
+    "traditional_chinese": "特萬特佩克灣",
+    "definition_cht": "指與「特萬特佩克灣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gulf_of_Tehuantepec"
+  },
+  {
+    "english": "Gulf Stream",
+    "traditional_chinese": "灣流",
+    "definition_cht": "指與「灣流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gulf_Stream"
+  },
+  {
+    "english": "Gulf Stream rings",
+    "traditional_chinese": "灣流環",
+    "definition_cht": "指與「灣流環」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gulf_Stream_rings"
+  },
+  {
+    "english": "Gulf Stream System",
+    "traditional_chinese": "灣流系統",
+    "definition_cht": "指與「灣流系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Gulf_Stream_System"
+  },
+  {
+    "english": "gully-squall",
+    "traditional_chinese": "溝壑",
+    "definition_cht": "指與「溝壑」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gully-squall"
+  },
+  {
+    "english": "gust",
+    "traditional_chinese": "陣風",
+    "definition_cht": "在短時間內風速顯著增強的瞬時強風，通常用以描述相對於平均風之快速脈動。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust"
+  },
+  {
+    "english": "gust amplitude",
+    "traditional_chinese": "陣風幅度",
+    "definition_cht": "指與「陣風幅度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_amplitude"
+  },
+  {
+    "english": "gust decay time",
+    "traditional_chinese": "陣風衰減時間",
+    "definition_cht": "指與「陣風衰減時間」相關的時間尺度、時制或地質年代概念。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_decay_time"
+  },
+  {
+    "english": "gust duration",
+    "traditional_chinese": "陣風持續時間",
+    "definition_cht": "指與「陣風持續時間」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_duration"
+  },
+  {
+    "english": "gust formation time",
+    "traditional_chinese": "陣風形成時間",
+    "definition_cht": "指與「陣風形成時間」相關的時間尺度、時制或地質年代概念。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_formation_time"
+  },
+  {
+    "english": "gust frequency",
+    "traditional_chinese": "陣風頻率",
+    "definition_cht": "指與「陣風頻率」相關的頻率特性、振盪速率或波動尺度指標。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_frequency"
+  },
+  {
+    "english": "gust frequency interval",
+    "traditional_chinese": "陣風頻率間隔",
+    "definition_cht": "指與「陣風頻率間隔」相關的頻率特性、振盪速率或波動尺度指標。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_frequency_interval"
+  },
+  {
+    "english": "gust front",
+    "traditional_chinese": "陣風鋒",
+    "definition_cht": "雷暴下沉冷空氣向外擴散時所形成的近地面密度鋒，可觸發新對流並伴隨風向、風速與溫度突變。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_front"
+  },
+  {
+    "english": "gust load",
+    "traditional_chinese": "陣風載重",
+    "definition_cht": "指與「陣風載重」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_load"
+  },
+  {
+    "english": "gust peak speed",
+    "traditional_chinese": "陣風峰值速度",
+    "definition_cht": "指與「陣風峰值速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_peak_speed"
+  },
+  {
+    "english": "gust probe",
+    "traditional_chinese": "陣風探頭",
+    "definition_cht": "指與「陣風探頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_probe"
+  },
+  {
+    "english": "gust vector",
+    "traditional_chinese": "陣風向量",
+    "definition_cht": "指與「陣風向量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust_vector"
+  },
+  {
+    "english": "gust-gradient distance",
+    "traditional_chinese": "陣風梯度距離",
+    "definition_cht": "指與「陣風梯度距離」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gust-gradient_distance"
+  },
+  {
+    "english": "gustiness",
+    "traditional_chinese": "味覺",
+    "definition_cht": "指與「味覺」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gustiness"
+  },
+  {
+    "english": "gustiness components",
+    "traditional_chinese": "味覺成分",
+    "definition_cht": "指與「味覺成分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gustiness_components"
+  },
+  {
+    "english": "gustiness factor",
+    "traditional_chinese": "味覺係數",
+    "definition_cht": "指與「味覺係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gustiness_factor"
+  },
+  {
+    "english": "gustnado",
+    "traditional_chinese": "陣風龍捲",
+    "definition_cht": "沿陣風鋒或下擊暴流邊界生成之淺層短生命旋轉渦柱，雖外觀近似龍捲，但成因與母體環流不同。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gustnado"
+  },
+  {
+    "english": "gustsonde",
+    "traditional_chinese": "古斯特松德",
+    "definition_cht": "指與「古斯特松德」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gustsonde"
+  },
+  {
+    "english": "Guti weather",
+    "traditional_chinese": "古蒂 天氣",
+    "definition_cht": "指與「古蒂 天氣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Guti_weather"
+  },
+  {
+    "english": "guttation",
+    "traditional_chinese": "吐水作用",
+    "definition_cht": "指與「吐水作用」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/guttation"
+  },
+  {
+    "english": "guttra",
+    "traditional_chinese": "滴狀雲",
+    "definition_cht": "指與「滴狀雲」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/guttra"
+  },
+  {
+    "english": "guxen",
+    "traditional_chinese": "焚風型突風",
+    "definition_cht": "指與「焚風型突風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/guxen"
+  },
+  {
+    "english": "Guyana Current",
+    "traditional_chinese": "蓋亞那海流",
+    "definition_cht": "指與「蓋亞那海流」相關的海流、氣流或密度流系統，著重其流向、形成機制及輸送作用。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Guyana_Current"
+  },
+  {
+    "english": "guzzle",
+    "traditional_chinese": "急流槽口",
+    "definition_cht": "指與「急流槽口」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/guzzle"
+  },
+  {
+    "english": "GVAR",
+    "traditional_chinese": "地球同步可見紅外分析系統",
+    "definition_cht": "地球同步氣象衛星之可見光與紅外資料傳輸系統，用於即時下傳衛星影像與相關產品。",
+    "source_url": "https://glossary.ametsoc.org/wiki/GVAR"
+  },
+  {
+    "english": "gyres",
+    "traditional_chinese": "環流",
+    "definition_cht": "在風應力、科氏力與海盆邊界共同作用下形成的大尺度環狀海洋環流系統，可分為副熱帶與副極地環流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gyres"
+  },
+  {
+    "english": "gyro-frequency",
+    "traditional_chinese": "迴旋頻率",
+    "definition_cht": "指與「迴旋頻率」相關的頻率特性、振盪速率或波動尺度指標。",
+    "source_url": "https://glossary.ametsoc.org/wiki/gyro-frequency"
+  }
+]

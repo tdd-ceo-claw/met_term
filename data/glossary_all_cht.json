@@ -20912,121 +20912,121 @@
   {
     "english": "fundamental equations of hydrodynamics",
     "traditional_chinese": "流體動力學基本方程",
-    "definition_cht": "描述流體守恆關係的基本方程組，通常包括質量、動量與能量守恆方程，是大氣與海洋動力學之基礎。",
+    "definition_cht": "指描述流體運動之基本控制方程組，通常包含動量方程、連續方程與能量方程，並配合狀態方程構成大氣與海洋動力學分析及數值模擬的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/fundamental_equations_of_hydrodynamics"
   },
   {
     "english": "fundamental frequency",
     "traditional_chinese": "基頻",
-    "definition_cht": "週期訊號中最低的基本振動頻率，其餘諧波通常為其整數倍。",
+    "definition_cht": "週期訊號或振動中最低的基本頻率，其餘諧波通常為其整數倍；亦可對應最長的基本週期或波長。",
     "source_url": "https://glossary.ametsoc.org/wiki/fundamental_frequency"
   },
   {
     "english": "fundamental unit",
     "traditional_chinese": "基本單位",
-    "definition_cht": "量測系統中不再由其他單位導出的基礎單位，用以構成各種導出單位與物理量表示。",
+    "definition_cht": "對基本物理量所採用、無須由其他單位導出的單位，如長度、質量、時間等基礎量之單位；其他導出單位皆由此組合而成。",
     "source_url": "https://glossary.ametsoc.org/wiki/fundamental_unit"
   },
   {
     "english": "funnel cloud",
     "traditional_chinese": "漏斗雲",
-    "definition_cht": "自積雨雲或對流雲底向下延伸、呈漏斗狀的凝結雲體，代表旋轉上升氣流但未必接地成龍捲。",
+    "definition_cht": "自積雨雲或較高聳對流雲底向下伸出的漏斗狀凝結雲，與旋轉氣流有關；若其環流未接觸地面或水面，則不稱為龍捲或水龍捲。",
     "source_url": "https://glossary.ametsoc.org/wiki/funnel_cloud"
   },
   {
     "english": "funneling",
     "traditional_chinese": "狹管加速效應",
-    "definition_cht": "氣流或水流通過山谷、海峽、都市通道等狹窄地形時，因流道收縮而產生加速的現象。",
+    "definition_cht": "氣流通過山口、谷地、海峽或都市通道等狹窄地形時，因流道收束而風速增強的現象，常使局地風明顯加強。",
     "source_url": "https://glossary.ametsoc.org/wiki/funneling"
   },
   {
     "english": "furiani",
     "traditional_chinese": "富里亞尼風",
-    "definition_cht": "地中海或地方性氣候文獻中的區域風名，指特定地區依地形與天氣型態而出現的局地風。",
+    "definition_cht": "地方性風名。公開可得資料有限，通常指法國科西嘉島富里亞尼一帶受地形影響的局地風。",
     "source_url": "https://glossary.ametsoc.org/wiki/furiani"
   },
   {
     "english": "fusion",
-    "traditional_chinese": "熔化",
-    "definition_cht": "物質由固態轉變為液態的相變過程；在冰雪與雹粒研究中常用以描述受熱融解。",
+    "traditional_chinese": "融解",
+    "definition_cht": "物質由固態轉為液態的相變過程；在冰雪、霰與雹等研究中，常用以描述冰相粒子受熱後轉成液態水。",
     "source_url": "https://glossary.ametsoc.org/wiki/fusion"
   },
   {
     "english": "fuzzy knowledge",
     "traditional_chinese": "模糊知識",
-    "definition_cht": "以模糊集合與不確定規則表示之知識形式，適合處理邊界不明確或經驗性強的判斷問題。",
+    "definition_cht": "以模糊集合、語意類別與模糊規則表達的知識形式，用於描述界線不明確或難以精確量化的經驗判斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/fuzzy_knowledge"
   },
   {
     "english": "fuzzy logic",
     "traditional_chinese": "模糊邏輯",
-    "definition_cht": "允許真值介於 0 與 1 之間的推理方法，可用於氣象分類、控制系統與不確定資訊判釋。",
+    "definition_cht": "允許真值在 0 與 1 之間連續變化的多值推理方法，可處理模糊語意與不精確資訊，常用於分類、控制與預報判釋。",
     "source_url": "https://glossary.ametsoc.org/wiki/fuzzy_logic"
   },
   {
     "english": "fuzzy set",
     "traditional_chinese": "模糊集合",
-    "definition_cht": "元素對某集合的隸屬程度可為連續值而非僅有屬於或不屬於的數學集合概念。",
+    "definition_cht": "其元素對某集合的隸屬程度可取 0 至 1 之間連續值，而非僅分為屬於或不屬於的集合概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/fuzzy_set"
   },
   {
     "english": "fuzzy variable",
     "traditional_chinese": "模糊變數",
-    "definition_cht": "以模糊集合描述其可能取值或語意範圍的變數，用於表達不精確、模糊或語意化的系統狀態。",
+    "definition_cht": "在模糊邏輯中以語意類別或模糊集合表示其可能取值的變數，例如溫度可表為高、適中或低，而非單一精確數值。",
     "source_url": "https://glossary.ametsoc.org/wiki/fuzzy_variable"
   },
   {
     "english": "G-region",
-    "traditional_chinese": "G層",
-    "definition_cht": "指與「G層」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "G區",
+    "definition_cht": "舊稱或罕用術語，通常指假設位於 F 層之上的高空電離層區域；現代電離層分類多不另設獨立的 G 層。",
     "source_url": "https://glossary.ametsoc.org/wiki/G-region"
   },
   {
     "english": "G-scale",
-    "traditional_chinese": "G尺度",
-    "definition_cht": "指與「G尺度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "G級尺度",
+    "definition_cht": "NOAA 太空天氣尺度中用以分級地磁暴強度的尺度，級別由 G1 至 G5，數值愈大表示地磁擾動及其對電力、通訊與衛星系統的影響愈強。",
     "source_url": "https://glossary.ametsoc.org/wiki/G-scale"
   },
   {
     "english": "gaign",
     "traditional_chinese": "蓋恩風",
-    "definition_cht": "指與「蓋恩風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "義大利的地方性山越風，指跨越山脈並在山脊附近促使雲生成的氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/gaign"
   },
   {
     "english": "gain",
     "traditional_chinese": "增益",
-    "definition_cht": "指與「增益」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "電子、雷達或通訊系統中輸出訊號相對於輸入訊號的放大量度，常以功率比或振幅比表示；調整增益會影響回波顯示強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/gain"
   },
   {
     "english": "Gale",
     "traditional_chinese": "烈風",
-    "definition_cht": "指與「烈風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "一種強風等級，通常指持續風速達 34 至 47 節（約 17.5 至 24.2 公尺每秒）的風，常用於海上與航海氣象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gale"
   },
   {
     "english": "Gale warning",
     "traditional_chinese": "烈風警報",
-    "definition_cht": "預報或觀測顯示平均風力將達烈風等級時所發布的海上或沿海警報，用以提醒航行與作業防範強風危害。",
+    "definition_cht": "當預報或觀測顯示持續風或頻繁陣風將達烈風等級時所發布的海上或沿岸警報，用以提醒航行與海事作業防範強風危害。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gale_warning"
   },
   {
     "english": "Galerkin approximation",
     "traditional_chinese": "伽遼金近似",
-    "definition_cht": "求解偏微分方程與數值模式時常用的近似方法，藉由將解表示於有限基底空間中，以獲得可計算的離散方程組。",
+    "definition_cht": "求解微分方程的近似方法，以基底函數線性組合表示未知解，並令整體殘差在選定函數空間中最小化，以建立可計算的離散方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/Galerkin_approximation"
   },
   {
     "english": "Galerkin methods",
     "traditional_chinese": "伽遼金方法",
-    "definition_cht": "一類以試函數與權函數同屬同一函數空間為特徵的加權殘值法，廣泛用於有限元素法與流體數值模擬。",
+    "definition_cht": "一類以試函數與權函數取自同一函數空間為特徵的加權殘值法，廣泛應用於有限元素法、譜元素法及大氣海洋數值模擬。",
     "source_url": "https://glossary.ametsoc.org/wiki/Galerkin_methods"
   },
   {
     "english": "galerne",
-    "traditional_chinese": "加勒訥",
-    "definition_cht": "指與「加勒訥」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "加勒訥風",
+    "definition_cht": "法國西部沿岸的地方性風名，通常指自西北或北西北吹來、偏冷且潮濕並常帶陣風的海風或鋒後氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/galerne"
   },
   {
