@@ -21032,121 +21032,121 @@
   {
     "english": "Galilei",
     "traditional_chinese": "伽利略",
-    "definition_cht": "指與「伽利略」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "通常指義大利科學家伽利略（Galileo Galilei）；在氣象與地球科學史中常與早期溫度測量、觀測儀器發展及近代實驗科學方法的建立相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Galilei"
   },
   {
     "english": "gallego",
-    "traditional_chinese": "加列戈",
-    "definition_cht": "指與「加列戈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "加列戈風",
+    "definition_cht": "西班牙或南美部分地區使用的地方風名，通常指帶有較冷空氣性質的偏西至西北風；其確切風向與天氣特徵會隨地域習慣而略有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/gallego"
   },
   {
     "english": "gallium",
     "traditional_chinese": "鎵",
-    "definition_cht": "指與「鎵」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "化學元素 Ga，熔點低且常用於半導體、光電與分析儀器材料；在大氣與環境科學中多見於痕量元素分析或感測技術相關脈絡。",
     "source_url": "https://glossary.ametsoc.org/wiki/gallium"
   },
   {
     "english": "gamma distribution",
-    "traditional_chinese": "伽瑪分佈",
-    "definition_cht": "指「伽瑪分佈」所代表的分布型態或機率分布，用於描述變量在空間、時間或數值上的配置特徵。",
+    "traditional_chinese": "伽瑪分布",
+    "definition_cht": "一種連續機率分布，可描述僅取正值且常呈偏態的變數；在氣象與水文上常用於降水量、雨滴粒徑或等待時間等統計建模。",
     "source_url": "https://glossary.ametsoc.org/wiki/gamma_distribution"
   },
   {
     "english": "gamma ray",
     "traditional_chinese": "伽瑪射線",
-    "definition_cht": "指與「伽瑪射線」相關的射線、輻射束或粒子束。",
+    "definition_cht": "波長極短、能量極高的電磁輻射，源自放射性衰變、核反應或高能天體過程；在地球科學中常用於放射探測與遙測量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/gamma_ray"
   },
   {
     "english": "gamma-ray snow gauge",
-    "traditional_chinese": "伽瑪射線雪計",
-    "definition_cht": "指與「伽瑪射線雪計」相關的降雪現象、雪況條件或雪量特徵。",
+    "traditional_chinese": "伽瑪射線雪量計",
+    "definition_cht": "利用地面天然或人工伽瑪射線穿透積雪後的衰減程度，推算雪中含水量或雪水當量的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/gamma-ray_snow_gauge"
   },
   {
     "english": "gap wind",
     "traditional_chinese": "峽口風",
-    "definition_cht": "指與「峽口風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "definition_cht": "氣流在山口、海峽或地形缺口中因壓力梯度與地形導流而被加速形成的強風，常具有通道化與陣風增強特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/gap_wind"
   },
   {
     "english": "garbin",
-    "traditional_chinese": "加爾賓",
-    "definition_cht": "指與「加爾賓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "加爾賓風",
+    "definition_cht": "地中海沿岸的地方風名，常指亞得里亞海或義大利東岸一帶自東南至南方吹來、較暖且偏濕的風；不同地區對其風向定義可略有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/garbin"
   },
   {
     "english": "Garrett–Munk spectrum",
-    "traditional_chinese": "加勒特-蒙克譜",
-    "definition_cht": "指與「加勒特-蒙克譜」相關的頻譜、能譜或波譜分布，用於分析不同尺度上的能量配置。",
+    "traditional_chinese": "加勒特－芒克譜",
+    "definition_cht": "描述海洋內波能量在頻率與垂直波數上分布的經驗頻譜模型，是研究開闊海域內波背景場的經典參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/Garrett%E2%80%93Munk_spectrum"
   },
   {
     "english": "garúa",
-    "traditional_chinese": "加魯阿",
-    "definition_cht": "指與「加魯阿」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "加魯阿毛毛雨",
+    "definition_cht": "秘魯與厄瓜多沿岸常見的低雲性細雨或毛毛雨，多與冷海流、逆溫層及海霧型層雲環境有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/gar%C3%BAa"
   },
   {
     "english": "gas chromatography",
     "traditional_chinese": "氣相層析法",
-    "definition_cht": "以圖形方式呈現「氣相層析法」相關量值變化、對應關係或分類結果的圖表。",
+    "definition_cht": "以載氣將揮發性樣品帶入層析柱，依各成分在固定相與流動相間分配差異加以分離與定量的分析方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas_chromatography"
   },
   {
     "english": "gas constant",
     "traditional_chinese": "氣體常數",
-    "definition_cht": "描述氣體狀態方程中壓力、體積與溫度關係的常數；在氣象上常區分通用氣體常數與乾空氣、濕空氣之比氣體常數。",
+    "definition_cht": "理想氣體狀態方程中的比例常數；氣象學常區分通用氣體常數，以及乾空氣與水汽各自的比氣體常數。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas_constant"
   },
   {
     "english": "gas filter correlation spectroscopy",
-    "traditional_chinese": "氣體過濾相關光譜",
-    "definition_cht": "用於擷取、保留或抑制「氣體過濾相關光譜」相關頻率成分、訊號變化或尺度資訊的濾波方法或裝置。",
+    "traditional_chinese": "氣體濾波相關光譜法",
+    "definition_cht": "利用含目標氣體的參考濾波池與待測光束進行相關比對，選擇性量測特定吸收譜帶，以反演痕量氣體濃度的光譜技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas_filter_correlation_spectroscopy"
   },
   {
     "english": "gas laws",
     "traditional_chinese": "氣體定律",
-    "definition_cht": "「氣體定律」相關的定律或經驗法則，用以概括物理關係、尺度關係或統計規律。",
+    "definition_cht": "描述氣體壓力、體積、溫度與物質量之間關係的一組物理定律，如波以耳定律、查理定律與理想氣體定律。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas_laws"
   },
   {
     "english": "gas thermometer",
     "traditional_chinese": "氣體溫度計",
-    "definition_cht": "用於量測「氣體溫度計」相關物理量的儀器、計量設備或感測裝置。",
+    "definition_cht": "利用氣體在定容或定壓條件下壓力、體積隨溫度變化的關係來測溫的儀器，可作為精密溫標建立的基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas_thermometer"
   },
   {
     "english": "gas transfer",
     "traditional_chinese": "氣體傳輸",
-    "definition_cht": "指與「氣體傳輸」相關的傳輸、交換或移轉過程，常涉及熱量、氣體、動量或物質通量。",
+    "definition_cht": "指氣體在介質中或跨界面移動與交換的過程；在海氣研究中常特指二氧化碳、氧等氣體於海面兩側的交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas_transfer"
   },
   {
     "english": "gas-particle distribution factor",
-    "traditional_chinese": "氣體顆粒分佈係數",
-    "definition_cht": "指「氣體顆粒分佈係數」所代表的分布型態或機率分布，用於描述變量在空間、時間或數值上的配置特徵。",
+    "traditional_chinese": "氣固粒分配係數",
+    "definition_cht": "表示半揮發性化合物在氣相與氣膠粒相之間分配程度的係數，用於描述其吸附、凝結與環境傳輸行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas-particle_distribution_factor"
   },
   {
     "english": "gas-phase kinetics",
-    "traditional_chinese": "氣相動力學",
-    "definition_cht": "指「氣相動力學」所涉及的反應動力學、轉化速率或化學過程特徵。",
+    "traditional_chinese": "氣相反應動力學",
+    "definition_cht": "研究氣態化學反應之速率、反應機制及其對溫度、壓力與濃度依賴性的學科，是大氣化學建模的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas-phase_kinetics"
   },
   {
     "english": "gas–solid reactions",
     "traditional_chinese": "氣固反應",
-    "definition_cht": "指與「氣固反應」相關的化學或物理反應過程，用於說明物質轉換與能量變化。",
+    "definition_cht": "發生於氣體與固體表面或顆粒之間的化學反應與質量交換過程，常見於氣膠化學、雲凝結核與污染物轉化研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/gas%E2%80%93solid_reactions"
   },
   {
     "english": "gate-to-gate azimuthal shear",
-    "traditional_chinese": "門到門方位角剪切",
-    "definition_cht": "指與「門到門方位角剪切」相關的風切、速度梯度或形變特徵，常用於診斷對流與流場結構。",
+    "traditional_chinese": "門對門方位向風切",
+    "definition_cht": "都卜勒雷達相鄰距離門在方位向上出現明顯相反徑向速度時所反映的強烈旋轉或剪切訊號，常用於偵測中氣旋或龍捲相關渦旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/gate-to-gate_azimuthal_shear"
   },
   {
