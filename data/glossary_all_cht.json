@@ -20552,121 +20552,121 @@
   {
     "english": "frontal cyclone",
     "traditional_chinese": "鋒面氣旋",
-    "definition_cht": "生成或發展於鋒面帶上的中緯度低壓系統，通常伴隨暖鋒、冷鋒與明顯斜壓不穩定。",
+    "definition_cht": "沿鋒面或靜止鋒上發展的中緯度低壓系統（溫帶氣旋），主要由水平溫度梯度提供能量，常伴隨暖鋒、冷鋒與波狀擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_cyclone"
   },
   {
     "english": "frontal fog",
     "traditional_chinese": "鋒面霧",
-    "definition_cht": "在鋒面附近因降水蒸發增濕、暖濕空氣平流冷卻或近地層飽和而形成的霧。",
+    "definition_cht": "鋒面附近因較暖降水落入近地冷空氣後蒸發增濕，或暖濕空氣在鋒區上方冷卻至飽和而形成的霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_fog"
   },
   {
     "english": "frontal inversion",
     "traditional_chinese": "鋒面逆溫",
-    "definition_cht": "鋒面附近因暖冷氣團疊置而出現的逆溫層，常反映鋒面斜坡上的熱力不連續結構。",
+    "definition_cht": "出現在鋒面或其鄰近層結中的逆溫層，由暖空氣覆於較冷空氣之上所致，反映鋒面斜坡上的熱力不連續。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_inversion"
   },
   {
     "english": "frontal lifting",
     "traditional_chinese": "鋒面抬升",
-    "definition_cht": "暖濕空氣沿鋒面斜坡被迫上升的過程，可促成雲系發展、降水及潛熱釋放。",
+    "definition_cht": "沿鋒面斜坡的強迫上升作用，常指暖濕空氣滑升至較冷且較密空氣之上，促進成雲與降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_lifting"
   },
   {
     "english": "frontal model",
     "traditional_chinese": "鋒面模式",
-    "definition_cht": "用以描述鋒面形成、結構、演變與伴隨天氣現象的概念或數值模型。",
+    "definition_cht": "描述鋒面及其伴隨氣旋、雲系、降水與風場結構及演變的概念模型或分析架構。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_model"
   },
   {
     "english": "frontal passage",
     "traditional_chinese": "鋒面過境",
-    "definition_cht": "鋒面通過某地時的過程，常伴隨風向轉變、氣溫與氣壓突變，以及降水或對流天氣。",
+    "definition_cht": "某鋒面通過測站或地區的過程，常伴隨風向、溫度、氣壓、露點與天氣現象的明顯轉變。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_passage"
   },
   {
     "english": "frontal precipitation",
     "traditional_chinese": "鋒面降水",
-    "definition_cht": "由鋒面抬升作用引發的降水，常呈帶狀分布，並與暖鋒、冷鋒或囚錮鋒結構密切相關。",
+    "definition_cht": "由鋒面作用所造成的降水，主要源於暖空氣沿鋒面抬升，常呈帶狀分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_precipitation"
   },
   {
     "english": "frontal profile",
     "traditional_chinese": "鋒面剖面",
-    "definition_cht": "沿垂直平面描述鋒面傾斜結構及其溫度、濕度、風場與雲降水分布的剖面圖或概念描述。",
+    "definition_cht": "沿垂直剖面顯示鋒面坡度及其兩側溫度、濕度、風與雲降水分布的分析圖。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_profile"
   },
   {
     "english": "frontal strip",
     "traditional_chinese": "鋒面帶",
-    "definition_cht": "沿鋒面延伸、具有較強水平梯度與活躍天氣現象的狹長區域。",
+    "definition_cht": "與鋒面相關、沿鋒線延伸的狹長帶狀區域，常為雲、降水與顯著水平梯度集中的地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_strip"
   },
   {
     "english": "frontal system",
     "traditional_chinese": "鋒面系統",
-    "definition_cht": "由冷鋒、暖鋒、囚錮鋒及其相關低壓環流所組成的整體天氣系統。",
+    "definition_cht": "由冷鋒、暖鋒、囚錮鋒等鋒面及其相關低壓環流所構成的整體天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_system"
   },
   {
     "english": "frontal theory",
     "traditional_chinese": "鋒面理論",
-    "definition_cht": "解釋中緯度天氣系統中鋒面之形成、演變與氣旋發展機制的理論架構，為挪威學派綜觀氣象的重要基礎。",
+    "definition_cht": "解釋中緯度天氣系統中鋒面形成、演變及氣旋發展機制的理論架構，為挪威學派綜觀氣象的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_theory"
   },
   {
     "english": "frontal thunderstorm",
     "traditional_chinese": "鋒面雷暴",
-    "definition_cht": "沿鋒面或其附近因抬升與不穩定條件配合而形成的雷暴，常見於冷鋒前緣或鋒生區。",
+    "definition_cht": "沿鋒面或其附近因抬升作用與大氣不穩定配合而形成的雷暴，常見於冷鋒前緣或鋒生區。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_thunderstorm"
   },
   {
     "english": "frontal wave",
     "traditional_chinese": "鋒面波",
-    "definition_cht": "鋒面上產生的波狀擾動，常為溫帶氣旋生成與發展的初始階段。",
+    "definition_cht": "發生於鋒面上的波狀擾動，通常使鋒線產生彎曲，並可進一步發展為波動低壓或溫帶氣旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_wave"
   },
   {
     "english": "frontogenesis",
     "traditional_chinese": "鋒生",
-    "definition_cht": "水平溫度或位溫梯度增強、使鋒面形成或強化的動力與熱力過程。",
+    "definition_cht": "水平溫度或位溫梯度增強，使鋒面形成或強化的動力與熱力過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontogenesis"
   },
   {
     "english": "frontogenetical function",
     "traditional_chinese": "鋒生函數",
-    "definition_cht": "定量描述氣團邊界上水平梯度增強或減弱速率的診斷量，用於評估鋒生與鋒消的強弱。",
+    "definition_cht": "描述隨氣流移動時水平位溫（或溫度）梯度增強或減弱速率的診斷量，用以量化鋒生與鋒消。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontogenetical_function"
   },
   {
     "english": "frontolysis",
     "traditional_chinese": "鋒消",
-    "definition_cht": "鋒面之水平熱力梯度減弱、結構鬆散或消失的過程，常與混合作用或變形場改變有關。",
+    "definition_cht": "使鋒面或鋒區之水平溫度梯度隨時間減弱的過程，鋒面因而趨於鬆散或消失。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontolysis"
   },
   {
     "english": "fropa",
     "traditional_chinese": "鋒面通過",
-    "definition_cht": "front passage 的縮略用語，業務氣象中常用以簡記冷鋒、暖鋒或其他鋒面通過測站或區域的事件。",
+    "definition_cht": "front passage 的業務縮寫，常寫作 FROPA，用以簡記冷鋒、暖鋒或其他鋒面通過測站或區域的事件。",
     "source_url": "https://glossary.ametsoc.org/wiki/fropa"
   },
   {
     "english": "frost",
     "traditional_chinese": "霜",
-    "definition_cht": "地表或近地物體溫度降至冰點以下時，空氣中的水氣直接凝華為冰晶並附著其上的現象。",
+    "definition_cht": "地表或近地物體表面溫度降至冰點以下時，空氣中的水氣直接凝華為冰晶並附著其上的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/frost"
   },
   {
     "english": "frost action",
-    "traditional_chinese": "凍霜作用",
-    "definition_cht": "土壤或岩石受凍結、融解與冰晶生長反覆作用而引起破碎、位移或變形的地表過程。",
+    "traditional_chinese": "凍融作用",
+    "definition_cht": "土壤、岩石或地表材料因水分凍結膨脹與融解反覆交替，而發生破裂、隆起、位移或鬆動的作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/frost_action"
   },
   {
     "english": "frost belt",
     "traditional_chinese": "霜帶",
-    "definition_cht": "地形、冷空氣滯留或局地輻射冷卻作用下，較易頻繁發生霜害的狹長地帶。",
+    "definition_cht": "因冷空氣沿坡下沉並在低處聚積，而較易頻繁發生霜凍的地帶，常見於谷地底部或坡麓低處。",
     "source_url": "https://glossary.ametsoc.org/wiki/frost_belt"
   },
   {
