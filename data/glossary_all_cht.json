@@ -19351,8 +19351,8 @@
   },
   {
     "english": "flooding",
-    "traditional_chinese": "淹水",
-    "definition_cht": "水體溢出河道、排水系統或地表容納範圍，導致陸地、道路或聚落被水覆蓋的狀態。",
+    "traditional_chinese": "洪氾；淹水",
+    "definition_cht": "洪水、潮水或積水外溢，使原本通常乾燥的陸地、道路或聚落被水淹覆的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/flooding"
   },
   {
@@ -19369,8 +19369,8 @@
   },
   {
     "english": "flow line",
-    "traditional_chinese": "流線",
-    "definition_cht": "在某一時刻處處與流速向量相切的曲線，用以表示流場方向結構；穩定流下可近似粒子軌跡。",
+    "traditional_chinese": "流線；流動線",
+    "definition_cht": "在二維定常流中表示單一流體微團運動路徑的曲線；在穩定流條件下，其方向與局部流速場一致。",
     "source_url": "https://glossary.ametsoc.org/wiki/flow_line"
   },
   {
@@ -19382,7 +19382,7 @@
   {
     "english": "flow pattern",
     "traditional_chinese": "流場型態",
-    "definition_cht": "流體在空間中的運動配置與結構特徵，包含主流方向、渦旋、收斂、分岔與剪切分布。",
+    "definition_cht": "流體在空間中的整體運動配置與結構特徵，包括主流方向、彎曲、渦旋、收斂、分流與剪切等分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/flow_pattern"
   },
   {
@@ -19418,7 +19418,7 @@
   {
     "english": "flume",
     "traditional_chinese": "水槽；量水槽",
-    "definition_cht": "供控制水流、進行水力試驗或量測流量的人工槽道；在水文上常特指具標準斷面的量水設施。",
+    "definition_cht": "供控制水流、進行水工試驗或量測流量的人工槽道；在水文上常特指具有標準斷面、用於推算流量的量水設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/flume"
   },
   {
@@ -19454,19 +19454,19 @@
   {
     "english": "flux adjustment",
     "traditional_chinese": "通量調整",
-    "definition_cht": "在耦合模式中對海氣或陸氣交換通量施加校正，以減少模式偏差並改善長期平均狀態的方法。",
+    "definition_cht": "在海氣或陸氣耦合模式中，對熱量、淡水或動量交換通量施加校正項，以降低系統性偏差並改善長期平均狀態的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux_adjustment"
   },
   {
     "english": "flux aggregation",
     "traditional_chinese": "通量聚合",
-    "definition_cht": "將較小尺度或多來源的通量資料依空間或時間加總、平均或整合，以建立較大尺度代表值的處理。",
+    "definition_cht": "將較小尺度、不同來源或多個網格的通量資料，依空間或時間加總、平均或整合，以形成較大尺度代表值的處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux_aggregation"
   },
   {
     "english": "flux density",
     "traditional_chinese": "通量密度",
-    "definition_cht": "單位面積上的通量大小，是描述能量、質量或動量交換強弱的基本量。",
+    "definition_cht": "單位面積上的通量大小，即某物理量在單位時間穿越單位面積的傳輸強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux_density"
   },
   {
