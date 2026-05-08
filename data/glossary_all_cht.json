@@ -18512,25 +18512,25 @@
   {
     "english": "family of tornadoes",
     "traditional_chinese": "龍捲家族",
-    "definition_cht": "同一強對流系統於相近時間與區域內連續產生的多個龍捲風集合，常反映母體風暴具持續而有組織的旋轉環境。",
+    "definition_cht": "由同一母體超級胞或同一雷暴系統先後產生的一系列龍捲風；其路徑可呈連續、平行或間隔分布，早期也常被誤判為單一龍捲風持續行進。",
     "source_url": "https://glossary.ametsoc.org/wiki/family_of_tornadoes"
   },
   {
     "english": "fanning",
     "traditional_chinese": "扇散",
-    "definition_cht": "流線、煙羽、雲帶或輻射束向外展開呈扇形分布的現象，也可指穩定大氣中煙流水平擴展而垂直混合受抑的型態。",
+    "definition_cht": "在穩定大氣中常見的一種煙流擴散型態，羽流主要沿水平方向向外展開，並在近固定高度上蛇行擺動，而垂直混合相對受抑。",
     "source_url": "https://glossary.ametsoc.org/wiki/fanning"
   },
   {
     "english": "far infrared",
     "traditional_chinese": "遠紅外",
-    "definition_cht": "位於紅外光譜長波端的輻射波段，常指波長約數十至數百微米範圍，常用於熱輻射與大氣吸收特性研究。",
+    "definition_cht": "紅外光譜中介於中紅外與微波之間的長波輻射波段，常約指 15 微米至 1 毫米的範圍；在大氣長波輻射、吸收與遙測研究中相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/far_infrared"
   },
   {
     "english": "farmer's year",
     "traditional_chinese": "農事年",
-    "definition_cht": "依農作生長、播種與收穫週期劃分的一年，用於農業氣候分析時，比曆年更能反映耕作季節配置。",
+    "definition_cht": "英國氣候與農業統計中使用的 12 個月期間，通常指自最接近 3 月 1 日的星期日起算之一年，用以配合耕作季節與農事循環。",
     "source_url": "https://glossary.ametsoc.org/wiki/farmer%27s_year"
   },
   {
@@ -18542,31 +18542,31 @@
   {
     "english": "fast ice",
     "traditional_chinese": "固定海冰",
-    "definition_cht": "附著於海岸、海床淺灘或冰棚邊緣、相對不隨洋流漂移的海冰，與可移動的浮冰或流冰相對。",
+    "definition_cht": "又稱陸定冰，指因附著於海岸、海底淺灘或冰棚邊緣而相對不移動的海冰；其外海延伸範圍常可達約 20 公尺等深線附近，與漂流海冰相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/fast_ice"
   },
   {
     "english": "fast-response sensors",
     "traditional_chinese": "快速響應感測器",
-    "definition_cht": "能以極短時間常數追蹤環境變化的感測元件，常用於量測湍流通量、陣風、溫濕度快速起伏等高頻訊號。",
+    "definition_cht": "可快速響應大氣湍流起伏的原位感測器，常用於量測風速、溫度、濕度等高頻變化；塔架觀測通常要求時間常數小於 1 秒，機載觀測常需達 0.01 至 0.1 秒等級。",
     "source_url": "https://glossary.ametsoc.org/wiki/fast-response_sensors"
   },
   {
     "english": "fastest mile",
     "traditional_chinese": "最快一英里風速",
-    "definition_cht": "歷史上以氣流通過風程一英里所需最短時間換算出的風速指標，曾用於正式風速觀測與極值記錄。",
+    "definition_cht": "以 24 小時內空氣通過固定測站一英里所需最短時間之倒數換算得到的風速指標，屬早期正式風速觀測與極值紀錄常用的表示方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/fastest_mile"
   },
   {
     "english": "fata bromosa",
     "traditional_chinese": "霧幻景",
-    "definition_cht": "由大氣分層折射造成的海市蜃樓型態之一，目標物外觀可顯得朦朧、拉長或模糊，常見於溫度逆溫條件下。",
+    "definition_cht": "一種較朦朧、較不劇烈的海市蜃樓型態，常被視為比 Fata Morgana 弱的變體；影像多呈扁平或模糊的懸浮牆狀外觀，源於近地層折射異常。",
     "source_url": "https://glossary.ametsoc.org/wiki/fata_bromosa"
   },
   {
     "english": "fata morgana",
-    "traditional_chinese": "蜃景幻象",
-    "definition_cht": "由強烈垂直溫度梯度引起多重折射所形成的複雜海市蜃樓，影像常呈疊置、倒立、伸長或變形。",
+    "traditional_chinese": "法塔摩根蜃景",
+    "definition_cht": "由強烈垂直溫度梯度造成多層折射所形成的複雜海市蜃樓，通常出現在接近地平線的狹窄帶狀區域，影像可呈倒立、拉長、疊置或急劇變形。",
     "source_url": "https://glossary.ametsoc.org/wiki/fata_morgana"
   },
   {
@@ -18584,13 +18584,13 @@
   {
     "english": "fax",
     "traditional_chinese": "傳真",
-    "definition_cht": "將文字或圖像經電信系統轉換與傳送的技術；在氣象作業中常用於傳遞分析圖、預報圖及觀測產品。",
+    "definition_cht": "傳真或傳真傳輸技術；在氣象業務中常特指以傳真方式傳送天氣圖、衛星雲圖、海象分析圖或其他作業產品的 weather fax。",
     "source_url": "https://glossary.ametsoc.org/wiki/fax"
   },
   {
     "english": "feather",
     "traditional_chinese": "羽狀冰晶",
-    "definition_cht": "外形似羽毛的冰晶或霜晶結構，常在低溫高濕條件下形成，也可用以描述某些雲體纖細羽狀外觀。",
+    "definition_cht": "外觀呈羽毛狀的冰晶、霜晶或雲體纖維結構之通稱，常用來描述低溫高濕環境下形成的細長分枝晶體。",
     "source_url": "https://glossary.ametsoc.org/wiki/feather"
   },
   {
@@ -18602,13 +18602,13 @@
   {
     "english": "feed",
     "traditional_chinese": "資料饋送",
-    "definition_cht": "將觀測、影像、模式或其他資訊持續輸入接收端、處理系統或顯示設備的資料供應流程。",
+    "definition_cht": "在氣象上常指低層雲帶或對流帶向雷暴上升氣流區持續輸送的情形，亦可指熱帶氣旋周圍螺旋狀對流雨帶向中心匯入的補給帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/feed"
   },
   {
     "english": "feedback",
     "traditional_chinese": "回饋",
-    "definition_cht": "系統輸出反過來影響其後續演變的作用機制；在氣候與大氣科學中可為正回饋或負回饋，決定擾動被放大或抑制。",
+    "definition_cht": "系統輸出反過來影響其後續演變的作用機制；在大氣與氣候科學中可分為正回饋與負回饋，分別代表對原始擾動的放大或抑制。",
     "source_url": "https://glossary.ametsoc.org/wiki/feedback"
   },
   {
@@ -18625,8 +18625,8 @@
   },
   {
     "english": "Feng Yun",
-    "traditional_chinese": "風雲",
-    "definition_cht": "中國氣象衛星系列之名稱，用於氣象觀測、雲圖監測、環境探測與數值天氣預報資料同化。",
+    "traditional_chinese": "風雲衛星",
+    "definition_cht": "中國的氣象衛星系列名稱，英文常寫作 FengYun 或縮寫 FY；其中奇數系列多為極軌衛星，偶數系列多為地球同步衛星，用於氣象觀測、環境監測與數值天氣預報資料同化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Feng_Yun"
   },
   {
