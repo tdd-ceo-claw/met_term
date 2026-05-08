@@ -18398,7 +18398,7 @@
   {
     "english": "F-region",
     "traditional_chinese": "F 區",
-    "definition_cht": "電離層中約 150 至 500 公里以上的高電離區域，白天常分為 F1 與 F2 層，夜間多合併為單一層；對高頻無線電波傳播影響極大。",
+    "definition_cht": "電離層中約 150 至 800 公里高度的高電離區域，內含自由電子與離子濃度最大的部分；白天常可分為 F1 與 F2 層，夜間多合併為單一 F 層，對高頻無線電波長距離傳播影響極大。",
     "source_url": "https://glossary.ametsoc.org/wiki/F-region"
   },
   {
@@ -18445,8 +18445,8 @@
   },
   {
     "english": "Faculae",
-    "traditional_chinese": "譜斑",
-    "definition_cht": "太陽光球表面或其附近呈現的明亮斑狀區域，通常與磁場活動增強相關，在太陽邊緣附近較易觀測。",
+    "traditional_chinese": "光斑",
+    "definition_cht": "太陽光球表面或其附近呈現的明亮斑狀區域，通常與局部磁場增強有關，在太陽圓盤邊緣附近因對比效果而較易觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Faculae"
   },
   {
@@ -18476,13 +18476,13 @@
   {
     "english": "fall wind",
     "traditional_chinese": "下坡風",
-    "definition_cht": "空氣沿山坡向下流動形成的風，常因重力作用、冷空氣堆積或越山後下沉增暖而產生，局地可表現為乾暖且陣強的風。",
+    "definition_cht": "一種下坡風，指高處較冷且較密的空氣沿坡地下滑並侵入下方較暖空氣所形成的風；其成因不同於由坡面夜間輻射冷卻主導的典型焚風式山坡冷流。",
     "source_url": "https://glossary.ametsoc.org/wiki/fall_wind"
   },
   {
     "english": "falling sphere",
-    "traditional_chinese": "下落球探測",
-    "definition_cht": "由高空釋放球體並追蹤其下落軌跡，以推求高空風場、密度或其他大氣參數的觀測方法。",
+    "traditional_chinese": "落球探空",
+    "definition_cht": "自高空釋放球體並追蹤其下落軌跡或速度變化，以推求高空風場、氣密度或相關大氣參數的觀測方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/falling_sphere"
   },
   {
@@ -18493,8 +18493,8 @@
   },
   {
     "english": "fallout winds",
-    "traditional_chinese": "下沉爆發風",
-    "definition_cht": "由對流雲中冷重空氣迅速下沉並向外擴散所形成的強風，常伴隨雷暴、降水拖曳與蒸發冷卻作用。",
+    "traditional_chinese": "下擊暴流外流風",
+    "definition_cht": "由雷暴或強對流中冷重空氣快速下沉、抵達地面後向外擴散所形成的突發強風，常與下擊暴流、強降水拖曳及蒸發冷卻有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/fallout_winds"
   },
   {
@@ -18505,8 +18505,8 @@
   },
   {
     "english": "family of chemical species",
-    "traditional_chinese": "化學物種族群",
-    "definition_cht": "在大氣化學中，將性質、反應途徑或守恆關係相近的化學物種合併為一組處理，以利機制分析與模式計算。",
+    "traditional_chinese": "化學物種家族",
+    "definition_cht": "在大氣化學中，將反應途徑、性質或近似守恆關係相近的多種化學物種合併成一組處理的概念，以利機制分析、模式化簡與預算診斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/family_of_chemical_species"
   },
   {
