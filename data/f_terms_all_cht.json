@@ -242,121 +242,121 @@
   {
     "english": "Fengyun 2",
     "traditional_chinese": "風雲二號",
-    "definition_cht": "中國第二代地球同步軌道氣象衛星系列，主要提供東亞及周邊區域之雲圖、輻射與天氣監測資料。",
+    "definition_cht": "中國第二代地球同步自旋穩定氣象衛星系列，搭載可見光與紅外掃描儀，主要提供東亞與西北太平洋區域的雲圖、輻射與天氣監測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fengyun_2"
   },
   {
     "english": "Fermat's principle",
     "traditional_chinese": "費馬原理",
-    "definition_cht": "光線在兩點間傳播時會選取光程為駐值的路徑；在大氣光學中可用以解釋折射、蜃景與波傳播路徑。",
+    "definition_cht": "光在兩點間傳播時會取使傳播時間或光程為駐值的路徑；在大氣光學中常用以說明折射、蜃景與光線彎曲路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fermat%27s_principle"
   },
   {
     "english": "Ferrel cell",
     "traditional_chinese": "費雷爾環流",
-    "definition_cht": "中緯度大氣三圈環流中的間接環流單元，近地面多呈向極流動、高空向赤道回流，與西風帶及鋒面活動密切相關。",
+    "definition_cht": "中緯度三圈環流中的熱力間接環流單元；近地面空氣偏向極地流動並形成盛行西風，高空則向赤道回流，與鋒面帶及噴流活動密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ferrel_cell"
   },
   {
     "english": "fetch",
     "traditional_chinese": "風程",
-    "definition_cht": "風沿近似固定方向吹越水面或其他地表的有效距離，為控制波浪發育、蒸發與通量交換的重要尺度。",
+    "definition_cht": "指測站、受體或關注區域上游方向具有相對均一地表性質的有效距離；在海洋與湖泊中亦常指風沿近固定方向吹越開闊水面的距離，為影響波浪發育的重要尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/fetch"
   },
   {
     "english": "FFT",
     "traditional_chinese": "快速傅立葉轉換",
-    "definition_cht": "fast Fourier transform 的縮寫，指以高效率方式計算頻譜分解的演算法，廣泛應用於氣象訊號與遙測資料分析。",
+    "definition_cht": "fast Fourier transform 的縮寫，指用以快速計算離散傅立葉轉換及其反變換的演算法，廣泛應用於氣象訊號、頻譜分析與遙測資料處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/FFT"
   },
   {
     "english": "fibratus",
     "traditional_chinese": "纖維狀",
-    "definition_cht": "雲形分類形容詞，指雲體呈細長纖絲或毛髮狀結構，常見於卷雲並反映高空風場拉伸作用。",
+    "definition_cht": "雲種形狀分類用語，指雲體呈細長纖絲或毛髮狀結構；常見於卷雲或卷層雲，通常反映高空持續而較整齊的強風拉伸作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/fibratus"
   },
   {
     "english": "fido",
-    "traditional_chinese": "裂變碎片沉降作業系統",
-    "definition_cht": "核子氣象與擴散領域中的縮寫用語，通常指用於評估裂變產物沉降、擴散或污染影響的作業或分析系統。",
+    "traditional_chinese": "FIDO 人工消霧系統",
+    "definition_cht": "第二次世界大戰期間用於機場跑道人工消散濃霧的系統，作法是在跑道旁間隔燃燒汽油或其他燃料，以加熱空氣並蒸散霧滴；名稱源自 Fog Investigation and Dispersal Operation。",
     "source_url": "https://glossary.ametsoc.org/wiki/fido"
   },
   {
     "english": "fiducial point",
     "traditional_chinese": "基準點",
-    "definition_cht": "作為定位、校正、比對或時間對齊之固定參考點，常用於圖像判讀、儀器校正與資料處理。",
+    "definition_cht": "刻度上供參照或比較的固定點或基準線；在氣象儀器校正中可指溫度計對應水的冰點與沸點等標定點，也可泛指圖像、地圖或資料配準所用的參考點。",
     "source_url": "https://glossary.ametsoc.org/wiki/fiducial_point"
   },
   {
     "english": "fiducial temperature",
     "traditional_chinese": "基準溫度",
-    "definition_cht": "用作比較、校正、標定或理論推導的參考溫度值，儀器設計與物性換算中常以此作為標準條件之一。",
+    "definition_cht": "對某具氣壓計而言，在指定緯度下使其氣壓刻度讀值無須再作溫度或緯度修正的溫度；在緯度 45° 時常稱為該儀器的標準溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/fiducial_temperature"
   },
   {
     "english": "field",
     "traditional_chinese": "場",
-    "definition_cht": "物理量在空間與時間上的分布，如溫度場、風場、壓力場或電場，為描述連續介質狀態的基本概念。",
+    "definition_cht": "物理量在空間中各點（並可隨時間）之分布，如溫度場、風場、氣壓場或電場，是描述連續介質狀態的基本概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/field"
   },
   {
     "english": "field capacity",
     "traditional_chinese": "田間持水量",
-    "definition_cht": "土壤在自由重力排水大致結束後所能保留的含水狀態，為農業氣象與水文中評估土壤可用水的重要指標。",
+    "definition_cht": "土壤在充分濕潤後，待多餘重力水排出且向下移動速率明顯減弱時所保留的含水狀態，為農業氣象與水文評估土壤可用水的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/field_capacity"
   },
   {
     "english": "field changes",
     "traditional_chinese": "電場變化",
-    "definition_cht": "大氣電場隨時間發生的增減或突變，常用於雷暴電活動、閃電放電及電荷結構演變之監測。",
+    "definition_cht": "地表及雷雲內外電場的快速變動，常用於推定雷暴電荷分布、放電過程與閃電活動特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/field_changes"
   },
   {
     "english": "field excursion associated with precipitation",
     "traditional_chinese": "降水伴隨電場偏移",
-    "definition_cht": "降水粒子通過觀測點附近時，因帶電水滴、冰粒或局地電荷結構改變而引起的大氣電場顯著偏移現象。",
+    "definition_cht": "降水雲正下方電場紀錄中的特徵性偏移現象，通常與帶電降水粒子通過、局地空間電荷改變及降水開始或減弱時的電場重組有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/field_excursion_associated_with_precipitation"
   },
   {
     "english": "field mill",
     "traditional_chinese": "電場磨",
-    "definition_cht": "量測大氣靜電場的儀器，利用週期性遮蔽感應電極來轉換靜電訊號，常用於雷暴監測與大氣電研究。",
+    "definition_cht": "連續量測大氣靜電場符號與強度的儀器，利用旋轉遮蔽器週期性遮蔽與暴露感應電極，將靜電場轉換為交流訊號，常用於雷暴監測與大氣電研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/field_mill"
   },
   {
     "english": "field of view",
     "traditional_chinese": "視場",
-    "definition_cht": "儀器、感測器或觀測系統在特定幾何條件下可同時接收或觀測的空間範圍，常以角度或地面覆蓋尺度表示。",
+    "definition_cht": "儀器、感測器或觀測系統在特定幾何條件下一次可接收或觀測到的空間範圍，通常以角度表示；遙測上常與瞬時視場等概念相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/field_of_view"
   },
   {
     "english": "field permeability",
     "traditional_chinese": "田間滲透性",
-    "definition_cht": "土壤在自然田間狀態下允許水分穿透與傳輸的能力，受孔隙結構、含水量與土壤質地控制。",
+    "definition_cht": "土壤或其他多孔介質在天然田間條件下允許水分穿透與傳輸的能力，主要受孔隙結構、土壤質地與含水狀態控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/field_permeability"
   },
   {
     "english": "field strength",
     "traditional_chinese": "場強",
-    "definition_cht": "描述電場、磁場或電磁波強度大小的物理量；在無線電傳播中常用以表示接收訊號之強弱。",
+    "definition_cht": "某處電場的振幅或強度；在雷達與無線電傳播中常用以表示接收訊號的強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/field_strength"
   },
   {
     "english": "field water-holding capacity",
     "traditional_chinese": "田間保水容量",
-    "definition_cht": "土壤在田間條件下對水分的保留能力，通常指接近田間持水量時可儲存之水分總量。",
+    "definition_cht": "土壤在重力水排出後仍可保留的水量，即接近田間持水量時的保水能力，常用以描述土壤可供作物利用之水分儲存上限。",
     "source_url": "https://glossary.ametsoc.org/wiki/field_water-holding_capacity"
   },
   {
     "english": "FIFOR",
-    "traditional_chinese": "飛航預報區空中報告",
-    "definition_cht": "氣象或航空作業中的縮寫，通常指與飛航情報區相關之飛機天氣報告或其作業格式；實際全名可依作業系統而異。",
+    "traditional_chinese": "飛航預報代碼",
+    "definition_cht": "國際上用以表示飛航預報（flight forecast）的代碼詞；其所指為隨航空器沿航程推進而逐段適用的航程式預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/FIFOR"
   },
   {
     "english": "Filament",
     "traditional_chinese": "日珥暗條",
-    "definition_cht": "從太陽盤面觀測時呈細長暗帶的冷密等離子結構，懸浮於較熱的日冕背景中；出現在日緣時則可見為日珥。",
+    "definition_cht": "從太陽盤面觀測時呈細長暗帶的較冷、較高密度等離子體結構，受磁場支撐懸浮於較熱的日冕背景中；出現在太陽邊緣時則稱為日珥。",
     "source_url": "https://glossary.ametsoc.org/wiki/Filament"
   },
   {
