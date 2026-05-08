@@ -1495,122 +1495,122 @@
   },
   {
     "english": "green rim",
-    "traditional_chinese": "綠邊",
-    "definition_cht": "指與「綠邊」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "綠緣",
+    "definition_cht": "綠閃光的一種類型；在日出或日落時，因大氣折射與色散使太陽上緣或月緣短暫呈現細薄綠色邊帶，未必形成明顯閃現。",
     "source_url": "https://glossary.ametsoc.org/wiki/green_rim"
   },
   {
     "english": "green snow",
     "traditional_chinese": "綠雪",
-    "definition_cht": "指與「綠雪」相關的降雪現象、雪況條件或雪量特徵。",
+    "definition_cht": "受雪藻等微生物大量生長影響而呈綠色的積雪或冰雪表面，常見於極地、高山冰雪區與融雪季。",
     "source_url": "https://glossary.ametsoc.org/wiki/green_snow"
   },
   {
     "english": "green thunderstorm",
     "traditional_chinese": "綠色雷暴",
-    "definition_cht": "指與「綠色雷暴」相關的風暴、擾動系統或劇烈天氣現象。",
+    "definition_cht": "口語上指天空呈現綠色調的強雷暴；此現象多與厚實含水雲體對光的散射有關，常見於伴隨大冰雹或強對流的風暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/green_thunderstorm"
   },
   {
     "english": "Green's function",
     "traditional_chinese": "格林函數",
-    "definition_cht": "描述「格林函數」相關變數關係、響應特性或分布型態的函數表述。",
+    "definition_cht": "解線性微分方程邊界值問題時所用的響應函數；在大氣與海洋動力學中可用來表示系統對點源或脈衝強迫的線性回應。",
     "source_url": "https://glossary.ametsoc.org/wiki/Green%27s_function"
   },
   {
     "english": "Green's theorem",
     "traditional_chinese": "格林定理",
-    "definition_cht": "「格林定理」相關的理論定理或數學命題，用於說明特定物理或統計性質。",
+    "definition_cht": "向量分析中的基本定理，將平面封閉曲線上的線積分與其所圍區域上的二重積分連結，常用於流體力學與場論推導。",
     "source_url": "https://glossary.ametsoc.org/wiki/Green%27s_theorem"
   },
   {
     "english": "Greenhouse effect",
     "traditional_chinese": "溫室效應",
-    "definition_cht": "指與「溫室效應」相關的物理、化學或觀測效應，用於描述特定機制造成的結果。",
+    "definition_cht": "大氣中的溫室氣體吸收並再放射地表發出的長波輻射，減弱地球向外太空散熱、從而提高近地表與對流層溫度的效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/Greenhouse_effect"
   },
   {
     "english": "greenhouse gas stabilization",
-    "traditional_chinese": "溫室氣體穩定",
-    "definition_cht": "指與「溫室氣體穩定」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "溫室氣體穩定化",
+    "definition_cht": "指透過減排、移除或其他管理措施，使大氣中溫室氣體濃度或其輻射強迫趨於穩定，以限制進一步氣候暖化。",
     "source_url": "https://glossary.ametsoc.org/wiki/greenhouse_gas_stabilization"
   },
   {
     "english": "greenhouse gases",
     "traditional_chinese": "溫室氣體",
-    "definition_cht": "指與「溫室氣體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "能吸收並再放射地表長波輻射、進而增強溫室效應的氣體總稱，例如水氣、二氧化碳、甲烷、氧化亞氮與臭氧等。",
     "source_url": "https://glossary.ametsoc.org/wiki/greenhouse_gases"
   },
   {
     "english": "Greenland anticyclone",
     "traditional_chinese": "格陵蘭反氣旋",
-    "definition_cht": "指與「格陵蘭反氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "位於格陵蘭或其附近的持續性高壓系統，常與冰原上冷而密實空氣的堆積有關，對北大西洋環流與風暴路徑具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Greenland_anticyclone"
   },
   {
     "english": "Greenland ice sheet",
     "traditional_chinese": "格陵蘭冰原",
-    "definition_cht": "指與「格陵蘭冰原」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "definition_cht": "覆蓋格陵蘭大部分地區的大型大陸冰原，為全球第二大冰體；其質量平衡與融化變化對海平面上升及高緯度氣候極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/Greenland_ice_sheet"
   },
   {
     "english": "Greenland Sea Deep Water",
-    "traditional_chinese": "格陵蘭海深水",
-    "definition_cht": "指與「格陵蘭海深水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "格陵蘭海深層水",
+    "definition_cht": "形成於格陵蘭海的高密度深層水團，主要由冬季強烈冷卻、海冰生成增鹽及深對流所產生，為北大西洋深層環流的重要來源之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/Greenland_Sea_Deep_Water"
   },
   {
     "english": "gregale",
     "traditional_chinese": "格雷加勒風",
-    "definition_cht": "指與「格雷加勒風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "地中海傳統風名之一，指影響馬爾他及鄰近海域的強勁偏東北冷風，通常與其南側低壓通過時建立的壓力梯度有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/gregale"
   },
   {
     "english": "gregori wind",
     "traditional_chinese": "格雷戈里風",
-    "definition_cht": "指與「格雷戈里風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "definition_cht": "歷史性或地方性風名，通常指與 gregale／greco 同系、由東北至偏東北方吹來的局地風；實際用法需依區域風名脈絡判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/gregori_wind"
   },
   {
     "english": "grenade sounding",
-    "traditional_chinese": "手榴彈響起",
-    "definition_cht": "指與「手榴彈響起」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "爆炸聲測",
+    "definition_cht": "利用手榴彈或其他小型炸藥爆炸所產生的聲波或壓力波，推估大氣、雪層、水體或地層結構的早期聲測方法；屬歷史性觀測技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/grenade_sounding"
   },
   {
     "english": "GRIB",
-    "traditional_chinese": "GRIB",
-    "definition_cht": "「GRIB」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "GRIB 格點二進位資料格式",
+    "definition_cht": "世界氣象組織標準化的格點二進位資料格式，用於儲存與交換數值天氣預報、分析場及其他氣象海洋格網資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/GRIB"
   },
   {
     "english": "grid",
-    "traditional_chinese": "網格",
-    "definition_cht": "指與「網格」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "格網",
+    "definition_cht": "由規則或不規則間距的格點與格線構成的空間離散架構，常用於天氣分析、地圖投影、遙測重採樣與數值模式計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/grid"
   },
   {
     "english": "grid heading",
-    "traditional_chinese": "網格標題",
-    "definition_cht": "指與「網格標題」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "格網航向",
+    "definition_cht": "以格網北而非真北或磁北為基準所量得的航向角，常用於極區地圖投影、軍事製圖與格網導航。",
     "source_url": "https://glossary.ametsoc.org/wiki/grid_heading"
   },
   {
     "english": "grid length",
-    "traditional_chinese": "網格長度",
-    "definition_cht": "指與「網格長度」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "格網長度",
+    "definition_cht": "格網中沿某一方向相鄰格點或格線之間的距離，亦可指單一網格邊長，是數值模式解析度與空間離散的重要尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/grid_length"
   },
   {
     "english": "grid meridians",
-    "traditional_chinese": "網格經絡",
-    "definition_cht": "指與「網格經絡」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "格網經線",
+    "definition_cht": "在地圖格網系統中代表經向方向或格網北方向的參考線；其與真子午線的夾角可用於描述格網與地理方向的差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/grid_meridians"
   },
   {
     "english": "grid navigation",
-    "traditional_chinese": "網格導航",
-    "definition_cht": "指與「網格導航」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "格網導航",
+    "definition_cht": "在高緯或投影失真較大的地區，以地圖格網的北向與座標系統作為定向與航行基準的導航方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/grid_navigation"
   },
   {
