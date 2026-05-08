@@ -2161,122 +2161,122 @@
   },
   {
     "english": "exchange coefficients",
-    "traditional_chinese": "交換係數",
-    "definition_cht": "參數化動量、熱量、水氣等在界面或湍流中交換效率的係數。",
+    "traditional_chinese": "交換係數；傳輸係數",
+    "definition_cht": "用於參數化動量、熱量、水氣或其他標量在地表與大氣、或不同流體層之間交換效率的係數；在邊界層與湍流研究中，常作為通量與平均梯度之間的比例關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/exchange_coefficients"
   },
   {
     "english": "excited state",
     "traditional_chinese": "激發態",
-    "definition_cht": "「激發態」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "原子、分子或其他量子系統能量高於基態的狀態；在大氣輻射、光化學與遙測中，激發態粒子的躍遷與退激發會影響吸收、放射與螢光訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/excited_state"
   },
   {
     "english": "exhalation",
-    "traditional_chinese": "逸散",
-    "definition_cht": "指「逸散」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "traditional_chinese": "逸氣；呼氣",
+    "definition_cht": "指氣體由介質或生物體向外釋出的過程；在環境與大氣研究中，常指土壤、岩石或建材向近地表空氣逸散 radon 等氣體的通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/exhalation"
   },
   {
     "english": "exhaust trail",
     "traditional_chinese": "排氣尾跡",
-    "definition_cht": "「排氣尾跡」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "航空器、火箭或其他引擎排放的高溫氣體與微粒在空中留下的尾流或可見痕跡；其外觀可受凝結、冰晶形成、煙塵含量與周圍大氣穩定度影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/exhaust_trail"
   },
   {
     "english": "exit region",
     "traditional_chinese": "出口區",
-    "definition_cht": "「出口區」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在噴流核、噴嘴或其他高速流場中，流體離開最大風速或主流通道的下游區域；在高空噴流分析裡，常特指 jet streak 的出口區，與輻散、輻合及垂直運動分布密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/exit_region"
   },
   {
     "english": "exogenic influences",
-    "traditional_chinese": "外生成因影響",
-    "definition_cht": "「外生成因影響」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "外生成因影響；外部作用",
+    "definition_cht": "指來自系統外部的控制或擾動因素，例如外部能量輸入、鄰近環境條件或外在強迫，對大氣、海洋、水文或地貌系統演變所造成的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/exogenic_influences"
   },
   {
     "english": "exogenous electrification",
     "traditional_chinese": "外生起電",
-    "definition_cht": "指「外生起電」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "definition_cht": "因外部電場、外來帶電粒子沉積、接觸外物或其他非系統內部電荷分離機制所造成的帶電現象；用以區別由物體自身內部過程產生的起電。",
     "source_url": "https://glossary.ametsoc.org/wiki/exogenous_electrification"
   },
   {
     "english": "exorheic",
     "traditional_chinese": "外流的",
-    "definition_cht": "「外流的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指河川、湖泊或流域的排水最終可經由河道輸送至海洋的開放式水系，與水流不通海、以蒸發或滲漏為主的內流（endorheic）系統相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/exorheic"
   },
   {
     "english": "exosphere",
     "traditional_chinese": "外逸層",
-    "definition_cht": "地球大氣最外層，空氣極度稀薄，粒子碰撞稀少並可能直接逸散至外太空。",
+    "definition_cht": "地球大氣最外層，位於熱層之上，空氣極為稀薄，粒子碰撞機率很低，部分原子與分子可沿彈道運動並逐漸逸散至外太空。",
     "source_url": "https://glossary.ametsoc.org/wiki/exosphere"
   },
   {
     "english": "expansion wave",
-    "traditional_chinese": "膨脹波",
-    "definition_cht": "流體壓力降低時所形成的膨脹擾動波，在可壓縮流中常與加速與降溫相伴。",
+    "traditional_chinese": "膨脹波；稀疏波",
+    "definition_cht": "可壓縮流體在壓力降低並向外擴張時形成的擾動波；在超音速流中常表現為由多個 Mach 波組成的膨脹扇，使流速增加而壓力與溫度降低。",
     "source_url": "https://glossary.ametsoc.org/wiki/expansion_wave"
   },
   {
     "english": "expected value",
     "traditional_chinese": "期望值",
-    "definition_cht": "隨機變數依其機率分布加權後所得的理論平均值。",
+    "definition_cht": "隨機變數依其機率分布加權後所得的理論平均值，用以表示長期重複試驗下該變數的平均水準，常記為平均數或數學期望。",
     "source_url": "https://glossary.ametsoc.org/wiki/expected_value"
   },
   {
     "english": "expendable bathythermograph",
     "traditional_chinese": "投棄式深溫儀",
-    "definition_cht": "可由船舶投放、於下沉過程量測海水溫度剖面的拋棄式海洋觀測儀器。",
+    "definition_cht": "由船舶航行中投放的拋棄式海洋探測器，可在下沉過程中量測海水溫度，並依探頭落速關係推估深度，以快速取得上層海洋溫度剖面；英文常縮寫為 XBT。",
     "source_url": "https://glossary.ametsoc.org/wiki/expendable_bathythermograph"
   },
   {
     "english": "experimental basin",
-    "traditional_chinese": "實驗流域",
-    "definition_cht": "「實驗流域」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "實驗流域；試驗集水區",
+    "definition_cht": "為研究降雨、逕流、蒸散、侵蝕、泥砂輸送或其他水文過程，而設置儀器並長期監測的流域或集水區。",
     "source_url": "https://glossary.ametsoc.org/wiki/experimental_basin"
   },
   {
     "english": "expert system",
     "traditional_chinese": "專家系統",
-    "definition_cht": "「專家系統」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "以知識庫與推論規則模擬人類專家判斷的電腦系統，可用於天氣診斷、預報輔助、警報判釋或環境決策支援。",
     "source_url": "https://glossary.ametsoc.org/wiki/expert_system"
   },
   {
     "english": "expertise",
-    "traditional_chinese": "專門知識",
-    "definition_cht": "「專門知識」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "專門知識；專業能力",
+    "definition_cht": "指在特定領域經由訓練與經驗累積而形成的高水準知識、判讀能力與實務技巧。",
     "source_url": "https://glossary.ametsoc.org/wiki/expertise"
   },
   {
     "english": "explanation",
-    "traditional_chinese": "解釋項",
-    "definition_cht": "指「解釋項」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "traditional_chinese": "解釋；說明",
+    "definition_cht": "對觀測現象、理論關係、模式結果或資料特徵所提出的原因、機制與脈絡說明，用以幫助理解其形成與影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/explanation"
   },
   {
     "english": "explosive warming",
     "traditional_chinese": "爆發性增暖",
-    "definition_cht": "「爆發性增暖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指在短時間內出現的劇烈升溫現象，通常與強烈暖平流、下沉增溫、焚風效應或局地混合作用有關；其用法依文獻情境可略有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/explosive_warming"
   },
   {
     "english": "exposure",
-    "traditional_chinese": "曝露",
-    "definition_cht": "「曝露」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "曝露；露置條件",
+    "definition_cht": "指觀測站、儀器、樣區或地物相對於周圍地形、障礙物、日照、風場與其他環境因子的設置情況；其良窳會直接影響觀測值的代表性與可比性。",
     "source_url": "https://glossary.ametsoc.org/wiki/exposure"
   },
   {
     "english": "exposure of instruments",
-    "traditional_chinese": "儀器設置曝露條件",
-    "definition_cht": "為量測「儀器設置曝露條件」相關物理量或環境條件所使用的儀器設備。",
+    "traditional_chinese": "儀器曝露條件；儀器露置",
+    "definition_cht": "指氣象或環境觀測儀器的設置位置與周遭環境條件，包括高度、方位、遮蔽、通風、受日照情形及與地面的相對關係；是否符合標準露置規範，會顯著影響量測品質。",
     "source_url": "https://glossary.ametsoc.org/wiki/exposure_of_instruments"
   },
   {
     "english": "exsiccation",
-    "traditional_chinese": "乾涸",
-    "definition_cht": "指「乾涸」所代表的物理、化學或環境過程，著重其形成機制、演變與影響。",
+    "traditional_chinese": "乾涸；乾燥化",
+    "definition_cht": "因水分大量散失而導致土壤、水體、沉積物或生物組織變乾的過程；在水文與環境脈絡中，可指湖沼、濕地或地表材料逐漸失水而乾涸。",
     "source_url": "https://glossary.ametsoc.org/wiki/exsiccation"
   },
   {
