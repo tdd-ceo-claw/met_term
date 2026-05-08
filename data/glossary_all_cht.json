@@ -22591,122 +22591,122 @@
   },
   {
     "english": "grid nephoscope",
-    "traditional_chinese": "網格腎鏡",
-    "definition_cht": "指與「網格腎鏡」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "格網式雲向鏡",
+    "definition_cht": "一種在觀測鏡面或參考面上設有格網的雲向鏡，用於觀測雲的移動方向，並可配合時間與雲高估計雲速。",
     "source_url": "https://glossary.ametsoc.org/wiki/grid_nephoscope"
   },
   {
     "english": "grid telescoping",
-    "traditional_chinese": "網格伸縮",
-    "definition_cht": "指與「網格伸縮」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "格網伸縮",
+    "definition_cht": "數值模式中使格距由粗至細逐步變化的格網配置方法，常用於在重點區域提高解析度，同時降低整體計算成本。",
     "source_url": "https://glossary.ametsoc.org/wiki/grid_telescoping"
   },
   {
     "english": "grid turbulence",
-    "traditional_chinese": "網格湍流",
-    "definition_cht": "指與「網格湍流」相關的格網系統、網格配置或離散化架構。",
+    "traditional_chinese": "格網湍流",
+    "definition_cht": "流體通過風洞中的格柵後在下游產生的湍流，常用作近似均勻且各向同性湍流的實驗基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/grid_turbulence"
   },
   {
     "english": "gridding",
     "traditional_chinese": "網格化",
-    "definition_cht": "指與「網格化」相關的格網系統、網格配置或離散化架構。",
+    "definition_cht": "將不規則分布的觀測或分析資料內插、重採樣或整理到規則或指定格網上的處理程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/gridding"
   },
   {
     "english": "Gringorten plotting position",
     "traditional_chinese": "格林戈滕繪圖位置",
-    "definition_cht": "指與「格林戈滕繪圖位置」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "頻率分析中依樣本排序估計累積機率或超越機率的繪圖位置公式，常用於極端降雨、洪水與其他水文氣候極值資料的機率紙擬合。",
     "source_url": "https://glossary.ametsoc.org/wiki/Gringorten_plotting_position"
   },
   {
     "english": "gross interception loss",
-    "traditional_chinese": "總攔截損失",
-    "definition_cht": "指與「總攔截損失」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "總截留損失",
+    "definition_cht": "降水被植被冠層或其他地表覆蓋物暫時截留後，再經蒸發而未到達地面的總水量；常可由總降水扣除穿落水與幹流量估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/gross_interception_loss"
   },
   {
     "english": "gross primary production",
-    "traditional_chinese": "初級生產總值",
-    "definition_cht": "指與「初級生產總值」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "總初級生產量",
+    "definition_cht": "生態系中自營生物於單位時間內經光合作用或化學合成固定的有機碳總量，尚未扣除其自身呼吸消耗。",
     "source_url": "https://glossary.ametsoc.org/wiki/gross_primary_production"
   },
   {
     "english": "gross-austausch",
-    "traditional_chinese": "大奧斯陶什",
-    "definition_cht": "指與「大奧斯陶什」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "總交換量",
+    "definition_cht": "源自德文的歷史性術語，指某界面或層面兩側在單位時間內彼此雙向交換的總量，著重總交換強度而非淨通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/gross-austausch"
   },
   {
     "english": "Grosswetterlage",
-    "traditional_chinese": "格羅斯韋特拉赫",
-    "definition_cht": "指與「格羅斯韋特拉赫」相關的年代、地質期或發展階段。",
+    "traditional_chinese": "大尺度天氣型",
+    "definition_cht": "德語天氣分類術語，指支配廣大區域數日以上之主要環流與天氣配置，常用於歐洲綜觀天氣型分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Grosswetterlage"
   },
   {
     "english": "ground check",
-    "traditional_chinese": "地面檢查",
-    "definition_cht": "指與「地面檢查」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面查核",
+    "definition_cht": "以地面實地觀測或量測結果，檢核遙測、航空觀測、雷達回波或其他間接天氣資訊之正確性與代表性的作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_check"
   },
   {
     "english": "ground clutter",
     "traditional_chinese": "地物雜波",
-    "definition_cht": "雷達接收到自地形、建築物或其他固定地物反射而非來自降水目標的回波雜訊。",
+    "definition_cht": "雷達接收到自地形、建築物、樹木或其他固定地物反射而非來自降水目標的回波雜訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_clutter"
   },
   {
     "english": "ground flash",
-    "traditional_chinese": "地面閃光",
-    "definition_cht": "指與「地面閃光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "對地閃電",
+    "definition_cht": "放電通道抵達地面的閃電，包含雲對地放電及其回擊過程，為造成人員與設施雷擊危害的主要型態之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_flash"
   },
   {
     "english": "ground flux",
-    "traditional_chinese": "接地通量",
-    "definition_cht": "指單位時間穿過單位面積之「接地通量」通量，用以量化能量、質量或動量傳輸。",
+    "traditional_chinese": "地中熱通量",
+    "definition_cht": "地表與土壤之間因熱傳導而向下或向上傳遞的熱通量，是地表能量收支的重要項目之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_flux"
   },
   {
     "english": "ground fog",
     "traditional_chinese": "地面霧",
-    "definition_cht": "主要侷限於近地表淺薄層中的霧，多由夜間地表冷卻使接地空氣達飽和而形成。",
+    "definition_cht": "侷限於近地表淺薄層中的霧，常由夜間地面冷卻使近地空氣達到飽和而形成，厚度通常較淺。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_fog"
   },
   {
     "english": "ground frost",
     "traditional_chinese": "地面霜",
-    "definition_cht": "指與「地面霜」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "近地表物體表面溫度降至冰點以下時，水氣直接凝華所形成的霜；可在百葉箱氣溫仍略高於 0°C 時出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_frost"
   },
   {
     "english": "ground ice",
-    "traditional_chinese": "地面冰",
-    "definition_cht": "指與「地面冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "traditional_chinese": "地表冰",
+    "definition_cht": "形成於地表或地表上覆物上的冰層或冰體，可由降水凍結、融雪再結冰或土壤中水分凍結所產生。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_ice"
   },
   {
     "english": "Ground illumination",
     "traditional_chinese": "地面照明",
-    "definition_cht": "指與「地面照明」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "夜間因月光、天光、閃電或其他自然光源使地面可被看見的照明狀態；在航空氣象中可影響夜間目視判識與觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ground_illumination"
   },
   {
     "english": "ground inversion",
-    "traditional_chinese": "地面反演",
-    "definition_cht": "指與「地面反演」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地面逆溫",
+    "definition_cht": "自地表起始、氣溫隨高度增加而上升的逆溫層，常見於晴朗微風夜晚，易抑制近地層垂直混合。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_inversion"
   },
   {
     "english": "ground layer",
-    "traditional_chinese": "地層",
-    "definition_cht": "指與「地層」相關的大氣、海洋或湖泊層結構，通常依熱力、密度、鹽度或動力特徵加以區分。",
+    "traditional_chinese": "地面層",
+    "definition_cht": "最靠近地表、直接受地面摩擦、加熱與冷卻影響的大氣最低層，通常指邊界層中近地面的部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_layer"
   },
   {
     "english": "ground speed",
     "traditional_chinese": "對地速度",
-    "definition_cht": "指與「對地速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "航空器相對於地表的實際水平移動速度，為空速受順風或逆風修正後所呈現的地面前進速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/ground_speed"
   },
   {
