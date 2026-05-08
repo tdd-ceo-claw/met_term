@@ -536,121 +536,121 @@
   {
     "english": "geophysics",
     "traditional_chinese": "地球物理學",
-    "definition_cht": "指與「地球物理學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "研究地球及其周圍空間環境之物理性質、結構與動力過程的學科，涵蓋重力、地磁、地震、海洋、大氣與行星物理等領域。",
     "source_url": "https://glossary.ametsoc.org/wiki/geophysics"
   },
   {
     "english": "geopotential",
     "traditional_chinese": "位勢",
-    "definition_cht": "單位質量空氣自海平面或參考面移至某高度時所具有的位能，常用於描述大氣壓力面之高度與動力結構。",
+    "definition_cht": "地球重力場的位勢，表示單位質量在重力場中的位能；在氣象上常用來描述等壓面高度與大尺度大氣動力結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/geopotential"
   },
   {
     "english": "geopotential field",
-    "traditional_chinese": "位元場",
-    "definition_cht": "指與「位元場」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "位勢場",
+    "definition_cht": "等壓面上位勢高度的空間分布，或更一般地指地球重力位勢在空間中的分布情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/geopotential_field"
   },
   {
     "english": "Geopotential height",
     "traditional_chinese": "位勢高度",
-    "definition_cht": "指與「位勢高度」相關的高度量測、垂直尺度或特徵層位。",
+    "definition_cht": "將位勢除以標準重力加速度後得到的高度量，近似代表某等壓面高於平均海平面的高度，為天氣分析常用垂直座標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Geopotential_height"
   },
   {
     "english": "geopotential meter",
-    "traditional_chinese": "位勢計",
-    "definition_cht": "用於量測「位勢計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "位勢米",
+    "definition_cht": "位勢高度的長度單位，指 1 公尺的位勢高度差；在數值上約等於 0.98 動力米。",
     "source_url": "https://glossary.ametsoc.org/wiki/geopotential_meter"
   },
   {
     "english": "geopotential surface",
     "traditional_chinese": "位勢面",
-    "definition_cht": "指與「位勢面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "位勢值處處相同的面，亦即等位勢面；靜止水面可近似視為位勢面，其法線方向與重力方向一致。",
     "source_url": "https://glossary.ametsoc.org/wiki/geopotential_surface"
   },
   {
     "english": "geopotential thickness",
     "traditional_chinese": "位勢厚度",
-    "definition_cht": "指與「位勢厚度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "大氣中兩個定壓面之間的位勢高度差，與該層平均虛溫或平均氣溫成正比，常用於判斷冷暖空氣分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/geopotential_thickness"
   },
   {
     "english": "geopotential topography",
     "traditional_chinese": "位勢地形",
-    "definition_cht": "以圖形方式呈現「位勢地形」相關量值變化、對應關係或分類結果的圖表。",
+    "definition_cht": "以等位勢線表示某一表面起伏形態的圖示方式；在氣象上常指等壓面位勢高度場的等高線分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/geopotential_topography"
   },
   {
     "english": "GEOSAT",
-    "traditional_chinese": "地球衛星",
-    "definition_cht": "「GEOSAT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "GEOSAT 衛星",
+    "definition_cht": "美國海軍於 1985 年發射的地球觀測衛星，原名為 Geodetic Satellite，搭載雷達高度計，用於海面高度與海洋環流等測量。",
     "source_url": "https://glossary.ametsoc.org/wiki/GEOSAT"
   },
   {
     "english": "geosphere",
     "traditional_chinese": "地圈",
-    "definition_cht": "指與「地圈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "地球系統中由岩石、土壤、地殼、地函與地核等固體部分構成的圈層，常與大氣圈、水圈、生物圈並列。",
     "source_url": "https://glossary.ametsoc.org/wiki/geosphere"
   },
   {
     "english": "Geostationary Earth Radiation Budget",
-    "traditional_chinese": "對地靜止地球輻射預算",
-    "definition_cht": "指與「對地靜止地球輻射預算」相關的輻射收支、能量傳輸或電磁傳播效應。",
+    "traditional_chinese": "地球靜止軌道地球輻射收支儀",
+    "definition_cht": "GERB 的全名，為搭載於 Meteosat Second Generation 的輻射觀測儀器，用以量測入射太陽輻射、反射短波與地球放射長波，監測地球輻射收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_Earth_Radiation_Budget"
   },
   {
     "english": "Geostationary Lightning Mapper",
-    "traditional_chinese": "對地靜止閃電測繪儀",
-    "definition_cht": "指與「對地靜止閃電測繪儀」相關的觀測站、測站設施或資料蒐集位置。",
+    "traditional_chinese": "地球靜止閃電測繪儀",
+    "definition_cht": "GLM 的全名，為搭載於 GOES-R 系列上的近紅外光學閃電感測儀，可自地球靜止軌道持續偵測並定位雲內、雲間與雲對地閃電活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_Lightning_Mapper"
   },
   {
     "english": "Geostationary Meteorological Satellite",
-    "traditional_chinese": "對地靜止氣象衛星",
-    "definition_cht": "指與「對地靜止氣象衛星」相關的觀測站、測站設施或資料蒐集位置。",
+    "traditional_chinese": "地球靜止氣象衛星",
+    "definition_cht": "通常縮寫為 GMS，指日本氣象廳使用的地球靜止氣象衛星系統，用於東亞與西太平洋地區的雲圖、颱風與天氣監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_Meteorological_Satellite"
   },
   {
     "english": "Geostationary operational environmental satellite",
-    "traditional_chinese": "對地靜止運轉環境衛星",
-    "definition_cht": "指與「對地靜止運轉環境衛星」相關的觀測站、測站設施或資料蒐集位置。",
+    "traditional_chinese": "地球靜止業務環境衛星",
+    "definition_cht": "GOES 的全名，指美國 NOAA 的地球靜止環境觀測衛星系統，可連續提供天氣監測、強烈風暴追蹤與環境資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_operational_environmental_satellite"
   },
   {
     "english": "Geostationary Operational Meteorological Satellite",
-    "traditional_chinese": "對地靜止業務氣象衛星",
-    "definition_cht": "指與「對地靜止業務氣象衛星」相關的觀測站、測站設施或資料蒐集位置。",
+    "traditional_chinese": "地球靜止業務氣象衛星",
+    "definition_cht": "通常縮寫為 GOMS，指俄羅斯設計的地球靜止氣象衛星系統，用於對中亞與印度洋一帶進行氣象觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_Operational_Meteorological_Satellite"
   },
   {
     "english": "Geostationary satellite",
-    "traditional_chinese": "對地靜止衛星",
-    "definition_cht": "指與「對地靜止衛星」相關的觀測站、測站設施或資料蒐集位置。",
+    "traditional_chinese": "地球靜止衛星",
+    "definition_cht": "運行於赤道上空約 35,786 公里的地球靜止軌道、繞地週期與地球自轉相同的衛星，從地面觀測看起來固定在同一經度上空。",
     "source_url": "https://glossary.ametsoc.org/wiki/Geostationary_satellite"
   },
   {
     "english": "geostrophic",
     "traditional_chinese": "地轉的",
-    "definition_cht": "指與「地轉的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指在水平氣壓梯度力與科氏力互相平衡、且可忽略摩擦時所對應的狀態或性質，如地轉風。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic"
   },
   {
     "english": "geostrophic adjustment",
     "traditional_chinese": "地轉調整",
-    "definition_cht": "指與「地轉調整」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "原本不平衡的大氣或海洋流場，經由風場與壓力場（或高度場）相互調節而趨近地轉平衡的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_adjustment"
   },
   {
     "english": "geostrophic advection",
     "traditional_chinese": "地轉平流",
-    "definition_cht": "指與「地轉平流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "由地轉風所造成的平流作用，常用於分析溫度、渦度或厚度等場在大尺度天氣系統中的輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_advection"
   },
   {
     "english": "geostrophic approximation",
     "traditional_chinese": "地轉近似",
-    "definition_cht": "用於處理「地轉近似」相關問題的近似假設，以保留主要物理機制並簡化數學描述。",
+    "definition_cht": "在中高緯度大尺度運動中，假設水平氣壓梯度力與科氏力近乎平衡、摩擦與局部加速度可忽略的近似，用以簡化大氣動力方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/geostrophic_approximation"
   },
   {
