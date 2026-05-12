@@ -19352,121 +19352,121 @@
   {
     "english": "flooding",
     "traditional_chinese": "洪氾；淹水",
-    "definition_cht": "洪水、潮水或積水外溢，使原本通常乾燥的陸地、道路或聚落被水淹覆的現象。",
+    "definition_cht": "河川、湖泊、海水或地表逕流超出原有水道或排水能力，致使原本通常乾燥的地面被水覆蓋的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/flooding"
   },
   {
     "english": "Florida Current",
     "traditional_chinese": "佛羅里達洋流",
-    "definition_cht": "流經佛羅里達海峽、由墨西哥灣流向北大西洋的強暖流，為墨西哥灣流上游的重要組成。",
+    "definition_cht": "流經佛羅里達海峽、沿佛羅里達半島東側向北流動的強暖流，為墨西哥灣流的上游主體之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/Florida_Current"
   },
   {
     "english": "flow law",
     "traditional_chinese": "流動定律",
-    "definition_cht": "描述流體、冰體或土體中應力與應變率、流速或變形關係的物理定律或經驗公式。",
+    "definition_cht": "描述流體、冰體或其他連續介質之應力與應變率或變形速率關係的物理或經驗定律，常用以表徵其流變性。",
     "source_url": "https://glossary.ametsoc.org/wiki/flow_law"
   },
   {
     "english": "flow line",
     "traditional_chinese": "流線；流動線",
-    "definition_cht": "在二維定常流中表示單一流體微團運動路徑的曲線；在穩定流條件下，其方向與局部流速場一致。",
+    "definition_cht": "流場中的曲線，其任一點切線方向皆與該處瞬時速度向量一致；在定常流中，流線可與粒子軌跡線重合。",
     "source_url": "https://glossary.ametsoc.org/wiki/flow_line"
   },
   {
     "english": "flow net",
     "traditional_chinese": "流網",
-    "definition_cht": "由流線與等勢線構成的圖解網格，用於分析地下水、滲流或二維勢流中的流動分布。",
+    "definition_cht": "由流線與等勢線構成的圖解網格，用以表示二維勢流或地下水滲流的流動分布與水頭變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/flow_net"
   },
   {
     "english": "flow pattern",
     "traditional_chinese": "流場型態",
-    "definition_cht": "流體在空間中的整體運動配置與結構特徵，包括主流方向、彎曲、渦旋、收斂、分流與剪切等分布。",
+    "definition_cht": "流體在一定空間與時間尺度上的整體流動配置與結構特徵，如主流方向、彎曲、渦旋、收斂與分流等。",
     "source_url": "https://glossary.ametsoc.org/wiki/flow_pattern"
   },
   {
     "english": "flow velocity",
     "traditional_chinese": "流速",
-    "definition_cht": "流體在單位時間內移動的速度向量或其大小，可用於描述河流、氣流、地下水或海流運動。",
+    "definition_cht": "流體質點或流體微團在單位時間內的位移速度，可指局部速度向量或其大小，用以描述水流、氣流或海流運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/flow_velocity"
   },
   {
     "english": "flowmeter",
     "traditional_chinese": "流量計",
-    "definition_cht": "量測流體體積流率、質量流率或流速的儀器，應用於水文、氣象實驗與環境監測。",
+    "definition_cht": "用以量測流體體積流率、質量流率或流速的儀器，廣泛應用於水文、水工、環境監測與實驗量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/flowmeter"
   },
   {
     "english": "fluctuation",
     "traditional_chinese": "擾動；波動",
-    "definition_cht": "物理量相對於平均值或趨勢值所呈現的短期變化，常用以描述湍流、溫度、濃度或壓力的不規則起伏。",
+    "definition_cht": "某物理量相對其平均值、平衡值或趨勢值所呈現的短期起伏或偏差，常用於描述湍流、溫度、壓力與濃度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/fluctuation"
   },
   {
     "english": "flue gas",
     "traditional_chinese": "煙道氣",
-    "definition_cht": "燃燒設備排放至煙道中的混合氣體，含二氧化碳、水氣、氮氧化物、硫氧化物與懸浮微粒等成分。",
+    "definition_cht": "燃料燃燒後經煙道排出的混合廢氣，主要含氮、二氧化碳與水氣，並可能夾帶氮氧化物、硫氧化物及粒狀污染物。",
     "source_url": "https://glossary.ametsoc.org/wiki/flue_gas"
   },
   {
     "english": "fluid parcel",
     "traditional_chinese": "流體微團",
-    "definition_cht": "在流體力學分析中視為具有近似均勻性質且可隨流場移動的小體積流體，用以研究動量與熱質傳輸。",
+    "definition_cht": "流體力學中假想的一小團流體，其尺度足夠小以可視為內部性質近似均勻，並可隨流場移動以分析動量與熱質傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/fluid_parcel"
   },
   {
     "english": "flume",
     "traditional_chinese": "水槽；量水槽",
-    "definition_cht": "供控制水流、進行水工試驗或量測流量的人工槽道；在水文上常特指具有標準斷面、用於推算流量的量水設施。",
+    "definition_cht": "供控制水流、進行水工試驗或量測流量的人工槽道；在水文與灌排工程中，亦常指具有既定斷面以推算流量的量水設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/flume"
   },
   {
     "english": "fluorescence",
     "traditional_chinese": "螢光",
-    "definition_cht": "物質吸收特定波長輻射後，於極短時間內以較長波長再放射能量的發光現象，可用於示蹤與光學量測。",
+    "definition_cht": "物質吸收較短波長輻射後，幾乎立即以較長波長再放射能量的發光現象，可用於示蹤、遙測與光學量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/fluorescence"
   },
   {
     "english": "flurry",
     "traditional_chinese": "陣雪",
-    "definition_cht": "短暫、間歇且通常強度不大的降雪現象，常伴隨陣性風或對流性雲系。",
+    "definition_cht": "短暫、間歇且強度通常較弱的降雪，常由積雲或層積雲等對流性雲系產生，持續時間短且積雪量通常不大。",
     "source_url": "https://glossary.ametsoc.org/wiki/flurry"
   },
   {
     "english": "fluvial dynamics",
     "traditional_chinese": "河川動力學",
-    "definition_cht": "研究河流水流、輸沙、河床變形與河道演變機制的學科，屬水文與地貌學的重要分支。",
+    "definition_cht": "研究河川水流運動、能量損失、輸砂作用及河床沖淤變化等機制的學科，屬水文與河川工程的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/fluvial_dynamics"
   },
   {
     "english": "fluvial morphology",
     "traditional_chinese": "河川形態學",
-    "definition_cht": "探討河道平面形狀、縱橫剖面、河床材料及其隨水流與輸沙作用演變之學科。",
+    "definition_cht": "研究河道平面形狀、縱橫剖面、河床材料及其在水流與輸砂作用下演變規律的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/fluvial_morphology"
   },
   {
     "english": "flux",
     "traditional_chinese": "通量",
-    "definition_cht": "某物理量在單位時間穿越單位面積的傳輸率，可指動量、熱、質量、水氣、輻射或磁通等。",
+    "definition_cht": "某物理量穿越給定面之傳輸率；在氣象與水文中常指熱、水氣、動量、質量或輻射等跨越單位面積的交換強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux"
   },
   {
     "english": "flux adjustment",
     "traditional_chinese": "通量調整",
-    "definition_cht": "在海氣或陸氣耦合模式中，對熱量、淡水或動量交換通量施加校正項，以降低系統性偏差並改善長期平均狀態的方法。",
+    "definition_cht": "在海氣或陸氣耦合模式中，對熱、淡水或動量交換通量加入校正項，以補償系統性偏差並改善模擬氣候平均狀態的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux_adjustment"
   },
   {
     "english": "flux aggregation",
     "traditional_chinese": "通量聚合",
-    "definition_cht": "將較小尺度、不同來源或多個網格的通量資料，依空間或時間加總、平均或整合，以形成較大尺度代表值的處理。",
+    "definition_cht": "將較小空間尺度、不同來源或多個網格的通量資料，依空間或時間進行加總、平均或整合，以得到較大尺度代表值的處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux_aggregation"
   },
   {
     "english": "flux density",
     "traditional_chinese": "通量密度",
-    "definition_cht": "單位面積上的通量大小，即某物理量在單位時間穿越單位面積的傳輸強度。",
+    "definition_cht": "單位面積上的通量，即某物理量在單位時間穿越單位面積的傳輸強度，常用於表示熱、質量、動量或輻射交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/flux_density"
   },
   {
