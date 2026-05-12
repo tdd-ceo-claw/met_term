@@ -1622,121 +1622,121 @@
   {
     "english": "hydrolysis",
     "traditional_chinese": "水解",
-    "definition_cht": "指與「水解」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "指化合物與水分子反應而發生鍵結斷裂，生成兩個或以上產物的化學過程；在大氣化學與環境化學中，常用於描述氣膠、雲滴或水體中物質受水作用而轉化的反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrolysis"
   },
   {
     "english": "hydrometeor",
     "traditional_chinese": "水象",
-    "definition_cht": "由大氣中水或冰所組成並可被觀測之粒子集合體，包括雲滴、雨滴、雪、霰、冰雹等。",
+    "definition_cht": "泛指由大氣中的水或冰所形成、懸浮、飄落、沉降或吹揚的液態與固態粒子集合體，包括雲、霧、雨、毛雨、雪、霰、冰雹及地面吹雪等。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrometeor"
   },
   {
     "english": "hydrometeor charge",
-    "traditional_chinese": "水凝物電荷",
-    "definition_cht": "指與「水凝物電荷」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "水象電荷",
+    "definition_cht": "指單一水象粒子或水象粒子群所帶的淨電荷，例如雨滴、冰晶、霰或冰雹所攜帶的正電或負電；其形成與分離過程是雲中電化與閃電發展的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrometeor_charge"
   },
   {
     "english": "hydrometeorology",
-    "traditional_chinese": "氣象水文學",
-    "definition_cht": "結合氣象與水文，研究降水、蒸發、土壤水分、逕流與洪旱等過程及其相互作用的學科。",
+    "traditional_chinese": "水文氣象學",
+    "definition_cht": "結合氣象學與水文學的學科，研究大氣、地表與地下之間水分與能量的交換，以及降水、蒸發、土壤含水量、逕流、洪水與乾旱等過程的監測、模擬與預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrometeorology"
   },
   {
     "english": "hydrometer",
-    "traditional_chinese": "比重計",
-    "definition_cht": "用於量測「比重計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "液體比重計",
+    "definition_cht": "利用浮力原理量測液體密度或比重的儀器；常用於鹽度、酸鹼液、酒精或電池液等液體性質判定，屬物理與化學量測設備，並非量測空氣濕度的濕度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrometer"
   },
   {
     "english": "hydrometric station",
-    "traditional_chinese": "水文測量站",
-    "definition_cht": "指與「水文測量站」相關的觀測站、測站設施或資料蒐集位置。",
+    "traditional_chinese": "水文測站",
+    "definition_cht": "設置於河川、湖泊、水庫或其他水體附近，用以持續觀測水位、流量、流速、降水量及相關水文要素的測站，是洪水預警、水資源管理與長期水文監測的重要基礎設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrometric_station"
   },
   {
     "english": "hydrometry",
-    "traditional_chinese": "比重測定法",
-    "definition_cht": "指與「比重測定法」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "水文測量",
+    "definition_cht": "指對水文循環相關要素進行量測、觀測與計算的技術與方法總稱，通常包括降水、水位、流量、流速、地下水與水質等資料的取得與分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrometry"
   },
   {
     "english": "hydroperoxides",
     "traditional_chinese": "氫過氧化物",
-    "definition_cht": "指與「氫過氧化物」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "含有 -OOH 官能基的一類化合物；在大氣化學中常指過氧化氫及有機氫過氧化物，為 HOx 化學循環的重要中間產物與儲存庫，影響氧化能力、雲水化學與污染物轉化。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydroperoxides"
   },
   {
     "english": "hydroperoxyl radical",
     "traditional_chinese": "氫過氧自由基",
-    "definition_cht": "指與「氫過氧自由基」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "化學式為 HO₂ 的自由基，為超氧陰離子質子化後的形式，也是大氣 HOx 鏈反應的重要成員；參與臭氧生成與破壞、污染物氧化及平流層與對流層光化學反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydroperoxyl_radical"
   },
   {
     "english": "hydrophotometer",
-    "traditional_chinese": "水光度計",
-    "definition_cht": "用於量測「水光度計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "水下光度計",
+    "definition_cht": "用於量測水中光輻射強度、透光度或光衰減特性的儀器，常應用於海洋、湖泊與水庫的水色、透明度及水下輻射傳輸觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrophotometer"
   },
   {
     "english": "hydrophyte",
     "traditional_chinese": "水生植物",
-    "definition_cht": "指與「水生植物」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "指適應長期浸水、漂浮、沉水或飽和土壤環境生長的植物總稱，常見於湖泊、池塘、沼澤、濕地及河岸地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrophyte"
   },
   {
     "english": "hydrophytic plant",
-    "traditional_chinese": "水生植物",
-    "definition_cht": "指與「水生植物」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "濕生植物；水生植物",
+    "definition_cht": "指需水量高、適應淹水或長期土壤飽和條件生長的植物，常見於濕地、沼澤與 marsh 等環境；在濕地判釋中常作為判定濕地生態條件的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrophytic_plant"
   },
   {
     "english": "hydrosol",
     "traditional_chinese": "水溶膠",
-    "definition_cht": "指與「水溶膠」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "以水為分散介質的膠體系統，亦即微細固體或液體粒子穩定分散於水中的溶膠；相關概念見於雲霧微物理、天然水體與膠體化學研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrosol"
   },
   {
     "english": "hydrosphere",
     "traditional_chinese": "水圈",
-    "definition_cht": "指與「水圈」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "地球系統中所有液態、固態與氣態水的總體，包括海洋、河川、湖泊、冰雪、地下水、土壤水與大氣水氣；為氣候系統與水文循環的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrosphere"
   },
   {
     "english": "hydrostatic approximation",
-    "traditional_chinese": "流體靜力近似",
-    "definition_cht": "在垂直尺度遠小於水平尺度的大尺度流動中，假設垂直加速度可忽略，使垂直壓力梯度力與重力近似平衡的近似。",
+    "traditional_chinese": "靜力近似",
+    "definition_cht": "在地球流體力學中，當水平尺度遠大於垂直尺度且垂直加速度相對很小時，將垂直動量方程近似為壓力梯度力與重力相平衡的近似；常用於大尺度大氣與海洋模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrostatic_approximation"
   },
   {
     "english": "hydrostatic assumption",
-    "traditional_chinese": "流體靜力假設",
-    "definition_cht": "指與「流體靜力假設」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "靜力假設",
+    "definition_cht": "假定流體在鉛直方向上近似滿足靜力平衡，即向上的壓力梯度力大致抵銷向下的重力，因此可忽略鉛直加速度對鉛直動量方程的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrostatic_assumption"
   },
   {
     "english": "hydrostatic balance",
-    "traditional_chinese": "流體靜力平衡",
-    "definition_cht": "大氣或海洋中垂直方向上，向上的壓力梯度力與向下的重力近似互相平衡的基本力學關係。",
+    "traditional_chinese": "靜力平衡",
+    "definition_cht": "指流體中鉛直方向的壓力梯度力與重力近似互相平衡的狀態；地球大氣與海洋在大尺度、弱鉛直加速度條件下通常接近此平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrostatic_balance"
   },
   {
     "english": "hydrostatic equation",
-    "traditional_chinese": "流體靜力方程",
-    "definition_cht": "表述流體靜力平衡下壓力隨高度變化率與流體密度、重力間關係的方程式。",
+    "traditional_chinese": "靜力方程",
+    "definition_cht": "描述靜力平衡下壓力隨高度變化與密度、重力之間關係的方程，常寫為 dp/dz = -ρg；為大氣厚度、氣壓垂直分布與位勢高度分析的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrostatic_equation"
   },
   {
     "english": "hydrostatic equilibrium",
-    "traditional_chinese": "靜水力平衡",
-    "definition_cht": "指與「靜水力平衡」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "靜力平衡狀態",
+    "definition_cht": "指流體或可塑介質內部由壓力梯度力與重力等外力彼此平衡而保持力學平衡的狀態；在氣象語境中通常與 hydrostatic balance 同義。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrostatic_equilibrium"
   },
   {
     "english": "hydrostatic model",
-    "traditional_chinese": "靜水力學模型",
-    "definition_cht": "用於表徵「靜水力學模型」相關過程或系統的理論、概念或數值模式，以分析其主要物理機制。",
+    "traditional_chinese": "靜力模式",
+    "definition_cht": "在數值天氣或氣候模式中，採用靜力近似處理鉛直動量方程的大氣模式；適用於水平尺度較大、鉛直加速度較小的系統，並可濾除快速聲波以提高計算效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrostatic_model"
   },
   {
