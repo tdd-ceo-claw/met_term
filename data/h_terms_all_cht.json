@@ -1022,121 +1022,121 @@
   {
     "english": "homosphere",
     "traditional_chinese": "均質層",
-    "definition_cht": "指與「均質層」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "大氣中自近地面延伸至均質層頂（homopause）之下、因湍流混合而使主要氣體成分近乎均一的區域；其上方則進入依分子量逐漸分層的異質層。",
     "source_url": "https://glossary.ametsoc.org/wiki/homosphere"
   },
   {
     "english": "homothermy",
-    "traditional_chinese": "恆溫",
-    "definition_cht": "指與「恆溫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "恆溫性",
+    "definition_cht": "指生物體藉由代謝、行為或生理調節，使體溫在外界環境變化下仍維持相對穩定的特性；於生物氣象學中常用以討論生物與熱環境的交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/homothermy"
   },
   {
     "english": "hook echo",
     "traditional_chinese": "鉤狀回波",
-    "definition_cht": "都卜勒或反射率雷達上位於超級胞後側、呈鉤狀彎曲的回波特徵，常與中氣旋及龍捲生成潛勢相關。",
+    "definition_cht": "在超級胞雷暴低層反射率圖上呈鉤狀彎曲的雷達回波特徵，通常由降水、冰雹或碎屑繞中氣旋包裹所形成，常與龍捲發生潛勢有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/hook_echo"
   },
   {
     "english": "hook gauge",
-    "traditional_chinese": "鉤規",
-    "definition_cht": "指與「鉤規」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "鉤式水位計",
+    "definition_cht": "以細鉤尖端接觸靜水面並配合精密刻度讀取水位高程的量測儀器，常用於水槽試驗、潮位或實驗室高精度水位觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/hook_gauge"
   },
   {
     "english": "horizon",
     "traditional_chinese": "地平線",
-    "definition_cht": "指與「地平線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "自觀測者視角所見天空與地表或海面相接的界線；在幾何與大氣光學上可區分真地平線、視地平線及受折射影響的地平線。",
     "source_url": "https://glossary.ametsoc.org/wiki/horizon"
   },
   {
     "english": "horizon distance",
-    "traditional_chinese": "水平距離",
-    "definition_cht": "指與「水平距離」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "地平線距離",
+    "definition_cht": "由觀測者位置至可見地平線之距離，主要取決於觀測高度、地球曲率及大氣折射條件，常用於航海、雷達與視程估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/horizon_distance"
   },
   {
     "english": "horizontal convective rolls",
-    "traditional_chinese": "水平對流輥",
-    "definition_cht": "指與「水平對流輥」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水平對流滾軸",
+    "definition_cht": "行星邊界層內由浮力對流與風切共同作用形成、沿平均風向延伸的成對反向旋轉長條渦卷，常使雲街或近地面風場呈帶狀排列。",
     "source_url": "https://glossary.ametsoc.org/wiki/horizontal_convective_rolls"
   },
   {
     "english": "horizontal divergence",
-    "traditional_chinese": "水平發散",
-    "definition_cht": "指與「水平發散」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水平散度",
+    "definition_cht": "水平風場在單位面積上的流出與流入程度，即水平風速對水平座標的散度；正值表示發散，負值表示輻合，常用於診斷上升或下沉運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/horizontal_divergence"
   },
   {
     "english": "horizontal pressure force",
-    "traditional_chinese": "水平壓力",
-    "definition_cht": "指與「水平壓力」相關的壓力概念、壓力分布或其衍生診斷量。",
+    "traditional_chinese": "水平壓力梯度力",
+    "definition_cht": "由水平方向氣壓差所產生、驅動空氣自高壓往低壓加速的力，為大尺度風場形成的基本動力之一，並常與科氏力共同決定流向。",
     "source_url": "https://glossary.ametsoc.org/wiki/horizontal_pressure_force"
   },
   {
     "english": "horizontal visibility",
     "traditional_chinese": "水平能見度",
-    "definition_cht": "指與「水平能見度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "在觀測點周圍水平方向上，正常視力觀測者可辨識目標物或燈光的最遠距離；為地面氣象觀測與航空作業常用的視程指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/horizontal_visibility"
   },
   {
     "english": "horizontal wind shear",
-    "traditional_chinese": "水平風切",
-    "definition_cht": "風速或風向在水平方向上隨距離改變的現象，對中尺度環流、對流組織與航空安全皆具重要影響。",
+    "traditional_chinese": "水平風切變",
+    "definition_cht": "風速或風向在水平方向上隨距離快速改變的現象，可出現在鋒面、海陸風交界、出流邊界或對流系統附近，對天氣演變與航空安全均具重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/horizontal_wind_shear"
   },
   {
     "english": "horn antenna",
     "traditional_chinese": "喇叭天線",
-    "definition_cht": "指與「喇叭天線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "由波導向外漸擴形成開口的定向微波天線，具有增益高、波束較集中與阻抗匹配佳等特性，常用於雷達、微波量測與遙測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/horn_antenna"
   },
   {
     "english": "horse latitudes",
     "traditional_chinese": "副熱帶無風帶",
-    "definition_cht": "副熱帶高壓帶附近盛行沉降、風弱少雨的緯度帶，大致位於南北緯 30 度附近。",
+    "definition_cht": "約位於南北緯 30 度附近、與副熱帶高壓帶相聯的緯度區，常見下沉氣流、晴朗少雨與近地面風速偏弱，並為信風與西風帶之間的過渡區。",
     "source_url": "https://glossary.ametsoc.org/wiki/horse_latitudes"
   },
   {
     "english": "hot belt",
-    "traditional_chinese": "熱帶",
-    "definition_cht": "指與「熱帶」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "炎熱帶",
+    "definition_cht": "傳統地理與氣候分區中指回歸線之間、全年太陽高度較高且整體氣候偏暖的低緯區域，概念大致相當於熱帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/hot_belt"
   },
   {
     "english": "hot wind",
     "traditional_chinese": "熱風",
-    "definition_cht": "指與「熱風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "definition_cht": "溫度顯著偏高、常伴隨乾燥特性的暖風，可指局地熱風或焚風類型氣流；其形成通常與強烈加熱、下沉增溫或高溫氣團輸送有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/hot_wind"
   },
   {
     "english": "hot-film anemometer",
-    "traditional_chinese": "熱膜風速計",
-    "definition_cht": "用於量測「熱膜風速計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "熱膜風速儀",
+    "definition_cht": "利用受熱薄膜感測元件與周圍氣流間的熱交換變化來推算風速的儀器，反應快，常用於湍流、邊界層及低速流場量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/hot-film_anemometer"
   },
   {
     "english": "hot-wire anemometer",
-    "traditional_chinese": "熱線風速計",
-    "definition_cht": "用於量測「熱線風速計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "熱線風速儀",
+    "definition_cht": "利用受熱細金屬線與氣流之間的對流散熱關係測定風速的儀器，可量測快速且微小的速度擾動，廣泛用於湍流與實驗流體力學研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/hot-wire_anemometer"
   },
   {
     "english": "hourly observation",
-    "traditional_chinese": "每小時觀察",
-    "definition_cht": "指與「每小時觀察」相關的觀測作業、量測資料或診斷結果。",
+    "traditional_chinese": "逐時觀測",
+    "definition_cht": "按固定整點或每小時一次進行並編報的氣象觀測，內容通常包括氣壓、氣溫、濕度、風、雲、能見度與現在天氣等要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/hourly_observation"
   },
   {
     "english": "hourly time-front computer",
-    "traditional_chinese": "每小時計時計算機",
-    "definition_cht": "指與「每小時計時計算機」相關的鋒面或密度邊界結構，常伴隨風、溫度與濕度的明顯變化。",
+    "traditional_chinese": "逐時鋒面時距計算器",
+    "definition_cht": "舊式天氣分析輔助器具，用於依逐時觀測資料與鋒面位置推算鋒面通過時刻、移動距離或時間—距離關係；屬罕用歷史術語，實際定義須依原文脈絡判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/hourly_time-front_computer"
   },
   {
     "english": "Hovmöller diagram",
     "traditional_chinese": "霍夫莫勒圖",
-    "definition_cht": "指與「霍夫莫勒圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "以時間為一軸、空間座標（常為經度、緯度或距離）為另一軸，並以陰影或等值線呈現變數演變的圖表，常用於分析季內振盪、波動傳播與對流訊號移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Hovm%C3%B6ller_diagram"
   },
   {
