@@ -1928,7 +1928,7 @@
   {
     "english": "freezing-level chart",
     "traditional_chinese": "零度層高度圖",
-    "definition_cht": "以圖面呈現大氣中攝氏零度等溫面或冰點高度分布的分析／預報圖，常供航空氣象、降水相態判釋與地形降雪研判使用。",
+    "definition_cht": "以圖面呈現大氣中攝氏零度等溫面（freezing level）高度分布的分析或預報圖，常供航空氣象、降水相態判釋及山區降雪研判使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/freezing-level_chart"
   },
   {
@@ -1958,7 +1958,7 @@
   {
     "english": "frequency analysis",
     "traditional_chinese": "頻率分析",
-    "definition_cht": "利用觀測事件的出現頻度與統計分布，估計不同量級事件發生機率或重現期的方法；水文上常用於洪水、暴雨與枯水等極端事件評估。",
+    "definition_cht": "利用觀測值、事件次數或其統計分布來分析各量級出現頻度、發生機率與重現期的方法；在氣象與水文上常用於暴雨、洪水、乾旱等極端事件評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/frequency_analysis"
   },
   {
@@ -2005,8 +2005,8 @@
   },
   {
     "english": "fresh",
-    "traditional_chinese": "清勁",
-    "definition_cht": "傳統風力術語，用於形容風勢明顯增強且具有持續性的狀態，但尚未達強風或烈風等級；常見於航海與蒲福風級相關描述。",
+    "traditional_chinese": "清新；清勁",
+    "definition_cht": "氣象與航海描述用語，可指空氣令人感到清新、涼爽而有提神感；用於風力描述時，則表示風勢偏強而穩定，常見於 fresh breeze、fresh gale 等術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/fresh"
   },
   {
