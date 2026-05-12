@@ -24511,122 +24511,122 @@
   },
   {
     "english": "hydraulic resistivity",
-    "traditional_chinese": "水力電阻率",
-    "definition_cht": "指與「水力電阻率」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水力阻抗",
+    "definition_cht": "指多孔介質或含水層對水流通過所呈現的阻抗程度，常可視為水力傳導度的倒數；數值越大，表示水越不易流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_resistivity"
   },
   {
     "english": "hydraulic routing",
-    "traditional_chinese": "油壓路由",
-    "definition_cht": "指與「油壓路由」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水力演算",
+    "definition_cht": "在已知河道、渠道或水工構造物幾何與流動方程下，推算洪水波或流量歷線沿程傳播、變形與衰減的計算方法；屬洪水演算的一類。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_routing"
   },
   {
     "english": "hydraulic similarity",
-    "traditional_chinese": "水力相似性",
-    "definition_cht": "指與「水力相似性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水力相似",
+    "definition_cht": "指模型與原型在流體運動中具有對應的幾何、運動與動力條件，使流速、壓力、水面形等無因次關係相近，得以用模型試驗推估原型行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_similarity"
   },
   {
     "english": "hydraulic structures",
-    "traditional_chinese": "水工建築物",
-    "definition_cht": "指與「水工建築物」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水工構造物",
+    "definition_cht": "設置於河川、渠道、水庫、海岸或其他水體中，用以攔蓄、導引、分配、控制或量測水流的工程構造物，如水壩、堰、閘門與消能工等。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_structures"
   },
   {
     "english": "hydraulics",
     "traditional_chinese": "水力學",
-    "definition_cht": "指與「水力學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "研究液體靜止與流動規律及其工程應用的學科，重點包括壓力、流速、流量、能量損失與輸送等問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulics"
   },
   {
     "english": "hydrocarbons",
     "traditional_chinese": "碳氫化合物",
-    "definition_cht": "指與「碳氫化合物」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "僅由碳與氫兩種元素組成的有機化合物總稱，包括烷類、烯類、炔類與芳香族化合物；在大氣化學中常為重要的揮發性前驅物與污染物成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrocarbons"
   },
   {
     "english": "hydrochemical facies",
     "traditional_chinese": "水化學相",
-    "definition_cht": "指與「水化學相」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "依地下水或天然水體中主要陽離子與陰離子組成特徵所劃分的化學類型，用以描述水體來源、演化過程與流動路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrochemical_facies"
   },
   {
     "english": "hydrochlorofluorocarbons",
-    "traditional_chinese": "氫氯氟烴",
-    "definition_cht": "指與「氫氯氟烴」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "氫氯氟碳化合物",
+    "definition_cht": "含氫、氯、氟與碳的人工鹵代烴，簡稱 HCFCs，曾廣泛用作冷媒、發泡劑與清洗劑；其破壞臭氧層的潛勢低於 CFCs，但仍具臭氧消耗與溫室效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrochlorofluorocarbons"
   },
   {
     "english": "hydrodynamic dispersion",
     "traditional_chinese": "流體動力分散",
-    "definition_cht": "指與「流體動力分散」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "溶質在多孔介質或流體中，因流速空間差異造成的機械分散與分子擴散共同作用而擴散展布的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrodynamic_dispersion"
   },
   {
     "english": "hydrodynamic equations of motion",
     "traditional_chinese": "流體動力學運動方程",
-    "definition_cht": "描述「流體動力學運動方程」相關物理量之間關係、守恆條件或診斷計算方法的方程式。",
+    "definition_cht": "描述流體在質量、動量與能量守恆條件下之運動規律的方程組，通常包括連續方程與牛頓第二定律在流體中的表述，如納維－斯托克斯方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrodynamic_equations_of_motion"
   },
   {
     "english": "hydrodynamic pressure",
     "traditional_chinese": "流體動壓",
-    "definition_cht": "指與「流體動壓」相關的壓力概念、壓力分布或其衍生診斷量。",
+    "definition_cht": "流體因運動而產生或附加於靜水壓之上的壓力成分，常用以表示流速所對應的動力效應；在不可壓縮流中常與 1/2ρV² 相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrodynamic_pressure"
   },
   {
     "english": "hydrodynamically rough surface",
-    "traditional_chinese": "流體動力學粗糙表面",
-    "definition_cht": "指與「流體動力學粗糙表面」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "流體動力粗糙表面",
+    "definition_cht": "就流體力學而言，表面粗糙元素尺度大到足以穿出近壁層黏性次層，致使阻力與流動特性主要受粗糙度而非流體黏性控制的表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrodynamically_rough_surface"
   },
   {
     "english": "hydrodynamics",
     "traditional_chinese": "流體動力學",
-    "definition_cht": "研究流體在力作用下運動規律及其動量、能量傳輸特性的學科。",
+    "definition_cht": "研究液體或廣義流體在受力條件下之運動、壓力分布與動量傳輸的學科，為流體力學中討論流動現象的重要分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrodynamics"
   },
   {
     "english": "hydrofluorocarbons",
     "traditional_chinese": "氫氟碳化合物",
-    "definition_cht": "指與「氫氟碳化合物」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "含氫、氟與碳的人工化合物，簡稱 HFCs，常用作冷媒、發泡劑與氣膠推進劑；雖不含氯而通常不直接破壞臭氧層，但多數具有顯著溫室效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrofluorocarbons"
   },
   {
     "english": "hydrogen",
     "traditional_chinese": "氫",
-    "definition_cht": "指與「氫」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "化學元素，符號 H，原子序 1，為最輕且最豐富的元素；在大氣與行星科學中可作為重要化學成分、反應物或能量載體。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrogen"
   },
   {
     "english": "hydrogen chloride",
     "traditional_chinese": "氯化氫",
-    "definition_cht": "指與「氯化氫」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "由氫與氯組成的氣態化合物，化學式 HCl；溶於水後形成鹽酸，在大氣化學中屬含氯痕量氣體，可參與酸化與鹵素化學反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrogen_chloride"
   },
   {
     "english": "hydrogen ion",
     "traditional_chinese": "氫離子",
-    "definition_cht": "指與「氫離子」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "帶一個正電荷的氫陽離子，常記為 H⁺；在水溶液中通常以水合形式存在，其活度是酸鹼度（pH）的核心指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrogen_ion"
   },
   {
     "english": "hydrogen peroxide",
     "traditional_chinese": "過氧化氫",
-    "definition_cht": "指與「過氧化氫」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "化學式 H₂O₂ 的氧化性化合物，可存在於降水、雲水與大氣中，為重要的氧化劑之一，參與硫與有機物等多種化學反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrogen_peroxide"
   },
   {
     "english": "hydrogen sulfide",
     "traditional_chinese": "硫化氫",
-    "definition_cht": "指與「硫化氫」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "化學式 H₂S 的無色氣體，具明顯臭雞蛋氣味，常見於缺氧水體、火山與有機物分解環境；在大氣與環境科學中屬重要還原性含硫氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrogen_sulfide"
   },
   {
     "english": "hydrogeochemistry",
     "traditional_chinese": "水文地球化學",
-    "definition_cht": "指與「水文地球化學」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "研究地下水、地表水與地質介質間化學交互作用及其演化的學科，用以解析水質形成機制、溶質來源、反應途徑與污染傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrogeochemistry"
   },
   {
