@@ -25855,122 +25855,122 @@
   },
   {
     "english": "index correction",
-    "traditional_chinese": "指數校正",
-    "definition_cht": "用以量化「指數校正」相關狀態、強度、頻率或特性的指標。",
+    "traditional_chinese": "示度校正",
+    "definition_cht": "指加於水銀氣壓計觀測值的校正量，用以補償儀器示度所受溫度與重力差異等影響；其數值通常與示度誤差大小相等、符號相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/index_correction"
   },
   {
     "english": "index cycle",
     "traditional_chinese": "指數循環",
-    "definition_cht": "用以量化「指數循環」相關狀態、強度、頻率或特性的指標。",
+    "definition_cht": "指帶狀指數約略呈週期性的起伏變化，常用於描述中緯度西風環流強弱隨時間的低頻振盪；典型週期約數週，冬季較為明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/index_cycle"
   },
   {
     "english": "index error",
-    "traditional_chinese": "指數誤差",
-    "definition_cht": "用以量化「指數誤差」相關狀態、強度、頻率或特性的指標。",
+    "traditional_chinese": "示度誤差",
+    "definition_cht": "指水銀氣壓計或其他量測儀器因指示零點或刻度偏差所產生的固定性誤差，通常可藉由與標準儀器比對求得，並以示度校正加以修正。",
     "source_url": "https://glossary.ametsoc.org/wiki/index_error"
   },
   {
     "english": "index of aridity",
     "traditional_chinese": "乾燥度指數",
-    "definition_cht": "用以量化「乾燥度指數」相關狀態、強度、頻率或特性的指標。",
+    "definition_cht": "用以量化某地氣候乾燥程度的指標，通常以降水量與潛在蒸發散或其他可用水分條件之比值或函數表示，用來評估氣候缺水程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/index_of_aridity"
   },
   {
     "english": "index of continentality",
     "traditional_chinese": "大陸性指數",
-    "definition_cht": "用以量化「大陸性指數」相關狀態、強度、頻率或特性的指標。",
+    "definition_cht": "用以表示某地氣候受大陸性或海洋性影響強弱的指標，常依年溫差、緯度或季節性溫度變化幅度計算，以衡量氣候的內陸特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/index_of_continentality"
   },
   {
     "english": "index of evaporating surface of horizontal area",
-    "traditional_chinese": "水平蒸發面指數",
-    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。",
+    "traditional_chinese": "水平面蒸發面指數",
+    "definition_cht": "指植被覆蓋地表單位水平面積的水分散失量，相對於自由水面（如 A 類蒸發皿）蒸發量的比值，用以表示該地表蒸散能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/index_of_evaporating_surface_of_horizontal_area"
   },
   {
     "english": "index of wetness",
     "traditional_chinese": "濕潤度指數",
-    "definition_cht": "用以量化「濕潤度指數」相關狀態、強度、頻率或特性的指標。",
+    "definition_cht": "用以量化某地氣候或地表環境濕潤程度的指標，通常依降水、蒸發散、土壤水分或地形集水條件等資料推算，可用於水文與氣候分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/index_of_wetness"
   },
   {
     "english": "Indian Deep Water",
-    "traditional_chinese": "印度深層水",
-    "definition_cht": "指與「印度深層水」相關的水團或水體類型，著重其形成區域、溫鹽結構與輸送特性。",
+    "traditional_chinese": "印度洋深層水",
+    "definition_cht": "指分布於印度洋深層的水團，主要由南大洋來源深水經環流與混合作用輸入，具有相對低溫、高密度並參與深海熱鹽輸送的特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Indian_Deep_Water"
   },
   {
     "english": "Indian equatorial jet",
-    "traditional_chinese": "印度 equatorial jet",
-    "definition_cht": "「印度 equatorial jet」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "印度洋赤道噴流",
+    "definition_cht": "指印度洋赤道附近於季風轉換期出現的強東向窄噴流，通常持續約數週，流速在赤道上最強，對上層海洋熱量分布與赤道動力調整相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/Indian_equatorial_jet"
   },
   {
     "english": "Indian National Satellite System",
     "traditional_chinese": "印度國家衛星系統",
-    "definition_cht": "指與「印度國家衛星系統」相關的衛星、作業系統或整合觀測架構，用於資料蒐集、傳輸或環境監測。",
+    "definition_cht": "印度太空研究組織建置的 INSAT 多用途同步衛星系統，提供電信、廣播、氣象觀測、災害監測與搜救等服務，是印度重要的作業衛星平台。",
     "source_url": "https://glossary.ametsoc.org/wiki/Indian_National_Satellite_System"
   },
   {
     "english": "Indian spring low water",
-    "traditional_chinese": "印度 spring 低壓水",
-    "definition_cht": "指與「印度 spring 低壓水」相關的水團或水體類型，著重其形成區域、溫鹽結構與輸送特性。",
+    "traditional_chinese": "印度大潮低潮面",
+    "definition_cht": "一種潮位基準面，原用於印度潮汐研究，定義為平均海面以下一段由主要分潮振幅組合決定的高度，約略對應大潮時的低潮水位，常用於海道測量與海圖基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/Indian_spring_low_water"
   },
   {
     "english": "Indian summer",
-    "traditional_chinese": "印度 summer",
-    "definition_cht": "「印度 summer」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "小陽春",
+    "definition_cht": "指秋季晚期至初冬出現的一段乾燥、平靜且異常溫暖的天氣，多見於首波寒冷天氣之後；英語世界常以此描述秋末短暫回暖現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Indian_summer"
   },
   {
     "english": "indicated airspeed",
-    "traditional_chinese": "indicated airspeed",
-    "definition_cht": "由空速表直接讀得並經有限校正後表示的飛機相對氣流速度。",
+    "traditional_chinese": "指示空速",
+    "definition_cht": "指航空器由皮托－靜壓系統經空速表直接顯示的空速，尚未進一步改正儀器、位置、壓縮性與密度效應，是飛行操作的基本速度參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/indicated_airspeed"
   },
   {
     "english": "indicated altitude",
-    "traditional_chinese": "indicated altitude",
-    "definition_cht": "由高度表在既定設定值下直接顯示的高度。",
+    "traditional_chinese": "指示高度",
+    "definition_cht": "指高度表在既定氣壓設定值下直接顯示的高度；其數值未必等於真高度，會隨實際氣壓與標準大氣偏差而改變，但為航空垂直間隔管理的重要基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/indicated_altitude"
   },
   {
     "english": "indicator",
-    "traditional_chinese": "指示器",
-    "definition_cht": "「指示器」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "指標；指示器",
+    "definition_cht": "泛指用來顯示、判別或量化某種狀態、變化或類別的量、符號或裝置；在氣象與氣候領域可指診斷環境條件的數值指標，也可指儀器上的顯示或告示元件。",
     "source_url": "https://glossary.ametsoc.org/wiki/indicator"
   },
   {
     "english": "indicator function",
-    "traditional_chinese": "指示器 function",
-    "definition_cht": "指與「指示器 function」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "指示函數",
+    "definition_cht": "指用來判定資料是否屬於某一條件、區域或子集合的函數；在觀測分析與統計處理中，常以 1 與 0 標記樣本是否納入計算或分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/indicator_function"
   },
   {
     "english": "indirect cell",
-    "traditional_chinese": "間接 cell",
-    "definition_cht": "熱力驅動方向與實際質量環流方向相反的環流胞，如中緯度費瑞耳環流。",
+    "traditional_chinese": "間接環流胞",
+    "definition_cht": "指鉛直剖面上的封閉環流胞，其中上升運動發生在較低位溫區、下沉運動發生在較高位溫區，因此無法由局地熱力直接驅動，典型例子為費瑞耳胞。",
     "source_url": "https://glossary.ametsoc.org/wiki/indirect_cell"
   },
   {
     "english": "indirect circulation",
     "traditional_chinese": "間接環流",
-    "definition_cht": "藉由外部強迫或動力調整維持、其質量輸送方向與局地熱力驅動相反的環流。",
+    "definition_cht": "指上升運動出現在較冷區、下沉運動出現在較暖區的環流型態，需由渦動量傳輸、壓力場調整或其他動力過程維持，而非單純由熱力強迫直接驅動。",
     "source_url": "https://glossary.ametsoc.org/wiki/indirect_circulation"
   },
   {
     "english": "individual derivative",
-    "traditional_chinese": "individual derivative",
-    "definition_cht": "「individual derivative」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "隨體導數",
+    "definition_cht": "又稱物質導數、粒子導數，指沿著流體質點移動時某物理量對時間的變化率，包含局地時間變化與平流造成的改變，是流體力學與動力氣象的基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/individual_derivative"
   },
   {
     "english": "Indonesian Throughflow",
     "traditional_chinese": "印尼穿流",
-    "definition_cht": "太平洋海水經印尼群島海峽流入印度洋的跨海盆海流系統，對熱量與鹽度輸送極為重要。",
+    "definition_cht": "指上層至中層太平洋海水經印尼群島各海峽流入印度洋的跨洋交換流系，是低緯度海洋熱量、淡水與鹽度輸送的重要通道，對區域與全球氣候皆具影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Indonesian_Throughflow"
   },
   {
