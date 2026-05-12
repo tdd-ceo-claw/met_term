@@ -26095,122 +26095,122 @@
   },
   {
     "english": "inertial stability",
-    "traditional_chinese": "慣性 stability",
-    "definition_cht": "描述流體對軸對稱擾動所具抗拒離心失穩能力的性質。",
+    "traditional_chinese": "慣性穩定度",
+    "definition_cht": "指旋轉流體對軸對稱水平位移擾動的穩定程度；當絕對角動量隨半徑向外增加時，流場傾向維持穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_stability"
   },
   {
     "english": "inertial sublayer",
-    "traditional_chinese": "慣性 sublayer",
-    "definition_cht": "指與「慣性 sublayer」相關的層狀結構，常用於描述大氣、海洋或地表附近具有相對一致性質的區域。",
+    "traditional_chinese": "慣性次層",
+    "definition_cht": "大氣表面層中位於粗糙元素上方、其上通量近似為常數且平均風速常呈對數分布的層次。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_sublayer"
   },
   {
     "english": "inertial subrange",
-    "traditional_chinese": "慣性子範圍",
-    "definition_cht": "「慣性子範圍」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "慣性次範圍",
+    "definition_cht": "湍流能譜中介於能量輸入尺度與黏滯耗散尺度之間的尺度範圍，能量主要靠渦旋間級聯傳遞而非直接產生或耗散。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_subrange"
   },
   {
     "english": "inertial wave",
     "traditional_chinese": "慣性波",
-    "definition_cht": "指與「慣性波」相關的波動現象，著重其恢復力來源、傳播特徵與能量交換。",
+    "definition_cht": "存在於旋轉流體內部、以科氏力為主要回復力的波動，常見於大氣、海洋與湖泊。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_wave"
   },
   {
     "english": "inertial-convective subrange",
-    "traditional_chinese": "慣性—convective 子範圍",
-    "definition_cht": "「慣性—convective 子範圍」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "慣性－對流次範圍",
+    "definition_cht": "被動標量湍流譜中的尺度範圍，在此尺度下標量變異主要受慣性湍渦平流與攪拌控制，分子擴散影響仍可忽略。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial-convective_subrange"
   },
   {
     "english": "inertial-diffusive subrange",
-    "traditional_chinese": "慣性—diffusive 子範圍",
-    "definition_cht": "「慣性—diffusive 子範圍」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "慣性－擴散次範圍",
+    "definition_cht": "被動標量湍流譜中由慣性傳輸逐步過渡到分子擴散主導的尺度範圍，常位於較高施密特數或普朗特數條件下的細尺度區。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial-diffusive_subrange"
   },
   {
     "english": "inertio-gravity wave",
-    "traditional_chinese": "inertio—重力波",
-    "definition_cht": "指與「inertio—重力波」相關的波動現象，著重其恢復力來源、傳播特徵與能量交換。",
+    "traditional_chinese": "慣性重力波",
+    "definition_cht": "同時受重力或浮力與科氏力控制的波動，常出現在大氣與海洋中，其頻率介於慣性頻率與浮力相關尺度之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertio-gravity_wave"
   },
   {
     "english": "inference",
     "traditional_chinese": "推論",
-    "definition_cht": "「推論」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "根據已知觀測、事實或規則推導未知狀態、結論或最可能解釋的過程；在氣象資訊處理中常用於診斷與判識。",
     "source_url": "https://glossary.ametsoc.org/wiki/inference"
   },
   {
     "english": "inference engine",
-    "traditional_chinese": "推論 engine",
-    "definition_cht": "「推論 engine」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "推論引擎",
+    "definition_cht": "知識型系統中的核心模組，負責依據知識庫與邏輯規則進行前向或後向推論，以導出新結論或決策結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/inference_engine"
   },
   {
     "english": "inferior mirage",
-    "traditional_chinese": "inferior mirage",
-    "definition_cht": "近地層強烈增溫致折射率垂直梯度異常時，遠物影像出現在真實物體下方的海市蜃樓。",
+    "traditional_chinese": "下蜃景",
+    "definition_cht": "近地面暖空氣使折射率隨高度迅速增加時形成的蜃景，遠處影像會出現在真實物體下方，常呈似水面反射的倒像。",
     "source_url": "https://glossary.ametsoc.org/wiki/inferior_mirage"
   },
   {
     "english": "infiltration",
-    "traditional_chinese": "infiltration",
-    "definition_cht": "地表水經土壤孔隙向下進入土層的過程。",
+    "traditional_chinese": "入滲",
+    "definition_cht": "地表水經土壤表面進入土體孔隙的過程，是降雨分配為土壤含水與地表逕流的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltration"
   },
   {
     "english": "infiltration capacity",
-    "traditional_chinese": "infiltration capacity",
-    "definition_cht": "在既有土壤條件下，土壤可吸納入滲水量的最大速率。",
+    "traditional_chinese": "入滲能力",
+    "definition_cht": "在特定土壤與含水條件下，土壤所能接受水分入滲的最大速率；當降雨強度超過此值時，易產生地表逕流。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltration_capacity"
   },
   {
     "english": "infiltration coefficient",
-    "traditional_chinese": "infiltration 係數",
-    "definition_cht": "表示「infiltration 係數」所對應成分相對於基準量之比例或混合關係。",
+    "traditional_chinese": "入滲係數",
+    "definition_cht": "表示降水或供水量中實際進入土壤部分所占比例的係數，用以概括地表水轉為土壤入滲量的效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltration_coefficient"
   },
   {
     "english": "infiltration gallery",
-    "traditional_chinese": "infiltration gallery",
-    "definition_cht": "表示「infiltration gallery」所對應成分相對於基準量之比例或混合關係。",
+    "traditional_chinese": "入滲廊道",
+    "definition_cht": "為收集或導引經河床、砂礫層或土層入滲之地下水而設的水平集水構造，常作為給水或人工補注設施的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltration_gallery"
   },
   {
     "english": "infiltration index",
-    "traditional_chinese": "infiltration index",
-    "definition_cht": "用以量化「infiltration index」相關狀態、強度、頻率或特性的指標。",
+    "traditional_chinese": "入滲指數",
+    "definition_cht": "水文分析中用來代表某場降雨平均入滲損失速率的指標；常定義為使超過該速率的有效雨量恰對應直接逕流量之平均速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltration_index"
   },
   {
     "english": "infiltration rate",
-    "traditional_chinese": "infiltration rate",
-    "definition_cht": "表示「infiltration rate」所對應成分相對於基準量之比例或混合關係。",
+    "traditional_chinese": "入滲率",
+    "definition_cht": "單位時間內水分自地表進入土壤的實際速率，會隨降雨強度、土壤性質與含水狀態而變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltration_rate"
   },
   {
     "english": "infiltration routing",
-    "traditional_chinese": "infiltration routing",
-    "definition_cht": "表示「infiltration routing」所對應成分相對於基準量之比例或混合關係。",
+    "traditional_chinese": "入滲演算",
+    "definition_cht": "在水文模式中依時間推估降雨如何轉為土壤入滲與剩餘有效雨量的計算程序，用於逕流模擬與洪水分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltration_routing"
   },
   {
     "english": "infiltration well",
-    "traditional_chinese": "infiltration well",
-    "definition_cht": "表示「infiltration well」所對應成分相對於基準量之比例或混合關係。",
+    "traditional_chinese": "入滲井",
+    "definition_cht": "將地表水導入地下土層或含水層以促進入滲、補注地下水或減少地表積水的井狀設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltration_well"
   },
   {
     "english": "infiltrometer",
-    "traditional_chinese": "infiltrometer",
-    "definition_cht": "量測土壤入滲能力或入滲速率的儀器。",
+    "traditional_chinese": "入滲儀",
+    "definition_cht": "量測土壤或其他多孔介質入滲速率、入滲能力或相關水力特性的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/infiltrometer"
   },
   {
     "english": "Inflow",
-    "traditional_chinese": "流入",
-    "definition_cht": "「流入」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "入流",
+    "definition_cht": "流入某一區域、河段、水庫、低壓系統或對流系統的空氣或水流；在強對流中常指輸送暖濕空氣進入風暴的氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Inflow"
   },
   {
