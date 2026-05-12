@@ -20221,20 +20221,20 @@
   },
   {
     "english": "freeze",
-    "traditional_chinese": "結凍",
-    "definition_cht": "在天氣與農業氣象上，通常指近地面氣溫降至冰點或以下，使植物、地表或淺層水體可能受凍；其發生不一定伴隨霜的形成。",
+    "traditional_chinese": "霜凍；低溫凍害",
+    "definition_cht": "在天氣與農業氣象上，通常指近地面氣溫降至冰點或以下並持續一段時間，足以對植物、作物或淺層水體造成凍害的事件；其發生不一定伴隨霜的形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/freeze"
   },
   {
     "english": "freeze probability curve",
-    "traditional_chinese": "結凍機率曲線",
-    "definition_cht": "依歷年氣候統計繪製之機率曲線，用以表示某地在一年中不同日期發生結凍事件的機率，常用於推估初霜、終霜或作物風險。",
+    "traditional_chinese": "霜凍機率曲線",
+    "definition_cht": "依歷年氣候統計繪製之機率曲線，用以表示某地在一年中不同日期發生霜凍或致害低溫事件的機率，常用於推估初霜、終霜與農作風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/freeze_probability_curve"
   },
   {
     "english": "freeze-free period",
-    "traditional_chinese": "無凍期",
-    "definition_cht": "指一年中春季最後一次結凍與秋季第一次結凍之間、通常不會出現冰點以下致害低溫的期間。",
+    "traditional_chinese": "無霜凍期",
+    "definition_cht": "指一年中春季最後一次霜凍（或致害低溫）與秋季第一次霜凍之間，通常不會出現冰點以下致害低溫的期間；為農業氣候區劃的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/freeze-free_period"
   },
   {
@@ -20269,8 +20269,8 @@
   },
   {
     "english": "freezing index",
-    "traditional_chinese": "凍結指數",
-    "definition_cht": "指一段期間內低於冰點之日平均氣溫累積量，常以負積溫或度日表示，用於估算土壤凍深、路基受凍與工程設計。",
+    "traditional_chinese": "凍結指數；負積溫指數",
+    "definition_cht": "指一段期間內低於冰點之日平均氣溫累積量，常以度日表示，用於估算土壤凍深、路基受凍程度及寒區工程設計需求。",
     "source_url": "https://glossary.ametsoc.org/wiki/freezing_index"
   },
   {
@@ -20282,13 +20282,13 @@
   {
     "english": "freezing nucleus",
     "traditional_chinese": "凍結核",
-    "definition_cht": "指能促使過冷水滴開始結冰的微小粒子，屬冰核的一種，可藉提供成核表面而降低凍結所需能障。",
+    "definition_cht": "能促使過冷水滴開始凍結的微小粒子，屬冰核的一類；其藉由提供成核表面而降低水滴結冰所需能障，對雲中冰相形成與人工增雨均具重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/freezing_nucleus"
   },
   {
     "english": "freezing point",
-    "traditional_chinese": "凝固點",
-    "definition_cht": "指液體在特定壓力與成分條件下開始轉變為固體的溫度；對純水而言，在標準大氣壓下約為 0°C。",
+    "traditional_chinese": "冰點；凝固點",
+    "definition_cht": "指液體在特定壓力與成分條件下開始轉變為固體的溫度；對純水而言，在標準大氣壓下約為 0°C，氣象上常稱為冰點。",
     "source_url": "https://glossary.ametsoc.org/wiki/freezing_point"
   },
   {
@@ -20305,8 +20305,8 @@
   },
   {
     "english": "freezing season",
-    "traditional_chinese": "結凍季",
-    "definition_cht": "指一年中氣溫經常降至冰點或以下、足以使地表、水體、土壤或植被反覆發生結凍現象的季節性時段。",
+    "traditional_chinese": "結凍季；凍季",
+    "definition_cht": "指一年中氣溫經常降至冰點或以下、足以使地表、水體、土壤或植被反覆發生凍結現象的季節性時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/freezing_season"
   },
   {
