@@ -542,121 +542,121 @@
   {
     "english": "height-change chart",
     "traditional_chinese": "高度變化圖",
-    "definition_cht": "用於呈現「高度變化圖」相關分析結果、場型分布或統計資訊的圖表。",
+    "definition_cht": "表示某一等壓面在指定前一段時間內高度變化量的分析圖；其用途相當於氣壓變化圖，但描繪的是定壓面高度的升降。",
     "source_url": "https://glossary.ametsoc.org/wiki/height-change_chart"
   },
   {
     "english": "height-change line",
     "traditional_chinese": "高度變化線",
-    "definition_cht": "指與「高度變化線」相關的高度量測、垂直尺度或特徵層位。",
+    "definition_cht": "連結某一等壓面在指定前一段時間內具有相同高度變化量各點的線，又稱等高度變化線（isallohypse）；常用於高度變化圖上分析大尺度擾動演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/height-change_line"
   },
   {
     "english": "height-finding radar",
     "traditional_chinese": "測高雷達",
-    "definition_cht": "指與「測高雷達」相關的高度量測、垂直尺度或特徵層位。",
+    "definition_cht": "專供精確測定目標高度或仰角的雷達；其天線波束通常在垂直方向較窄，以提高目標高度判定能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/height-finding_radar"
   },
   {
     "english": "heiligenschein",
     "traditional_chinese": "海利根光",
-    "definition_cht": "指與「海利根光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "一種光學現象，當日光照射覆有露珠或細小反射體的表面時，觀測者頭影周圍會出現局部增亮的光斑；在遙測與攝影測量中常稱為熱點（hot spot）。",
     "source_url": "https://glossary.ametsoc.org/wiki/heiligenschein"
   },
   {
     "english": "helical scanning",
     "traditional_chinese": "螺旋掃描",
-    "definition_cht": "指與「螺旋掃描」相關的掃描方式、掃描幾何或觀測程序。",
+    "definition_cht": "機載都卜勒雷達的一種掃描技術，利用飛機前進運動配合朝機側掃描，使觀測波束在空間形成近似螺旋狀取樣路徑，以調查一定體積的大氣結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/helical_scanning"
   },
   {
     "english": "helicity",
     "traditional_chinese": "螺旋度",
-    "definition_cht": "描述流場旋轉與流向排列程度的物理量，常用於對流風暴環境與渦度分析。",
+    "definition_cht": "描述流場中速度與渦度排列關係的物理量，可表徵氣流產生螺旋式運動的潛勢；在強對流分析中常用來衡量垂直風切與風向旋轉對超級胞發展的有利程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/helicity"
   },
   {
     "english": "heliograph",
     "traditional_chinese": "日照計",
-    "definition_cht": "以圖形方式呈現「日照計」相關量值變化、對應關係或分類結果的圖表。",
+    "definition_cht": "用於記錄日照時數的儀器，典型形式為坎貝爾－斯托克斯日照計，藉由聚焦陽光在記錄紙上留下灼痕，以估算實際有日照的時段長度。",
     "source_url": "https://glossary.ametsoc.org/wiki/heliograph"
   },
   {
     "english": "helion",
-    "traditional_chinese": "日光",
-    "definition_cht": "指與「日光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "日／太陽（詞尾）",
+    "definition_cht": "用於氣象光學相關術語中的後綴，表示與太陽或日光有關；複數形式為 helia，常與表示月亮的詞根或詞尾相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/helion"
   },
   {
     "english": "helioseismology",
     "traditional_chinese": "日震學",
-    "definition_cht": "指與「日震學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "透過分析太陽表面與內部振盪訊號來研究太陽內部結構、動力過程與流場的學科；其方法類似以地震波反演地球內部構造的地震學。",
     "source_url": "https://glossary.ametsoc.org/wiki/helioseismology"
   },
   {
     "english": "heliostat",
     "traditional_chinese": "定日鏡",
-    "definition_cht": "指與「定日鏡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "可隨太陽視運動自動調整方向的反射裝置，通常以平面鏡將日光持續反射至固定目標；常用於太陽能集熱、輻射實驗與光學觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/heliostat"
   },
   {
     "english": "heliotropic wind",
-    "traditional_chinese": "向日風",
-    "definition_cht": "指與「向日風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "traditional_chinese": "向日轉向風",
+    "definition_cht": "受太陽加熱自東向西推移所誘發的微弱日變風向分量，表現為風向隨日照進程而逐漸偏轉的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/heliotropic_wind"
   },
   {
     "english": "helium",
     "traditional_chinese": "氦",
-    "definition_cht": "指與「氦」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "化學元素，符號 He，為無色、無味且化學性質極不活潑的輕氣體；在氣象業務上常用於填充探空氣球，使其攜帶無線電探空儀上升觀測高空大氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/helium"
   },
   {
     "english": "helm wind",
-    "traditional_chinese": "舵風",
-    "definition_cht": "指與「舵風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "traditional_chinese": "赫爾姆風",
+    "definition_cht": "英格蘭北部克羅斯費爾地區著名的局地下坡強風，常在東至東北風越過山脊後於背風坡加速下沉時發生，並伴隨山脊上方的 helm cloud 與其下方相對晴空帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/helm_wind"
   },
   {
     "english": "Helmholtz equation",
     "traditional_chinese": "亥姆霍茲方程",
-    "definition_cht": "描述「亥姆霍茲方程」相關物理量之間關係、守恆條件或診斷計算方法的方程式。",
+    "definition_cht": "形式為 ∇²ψ + k²ψ = 0（或含源項的對應形式）的偏微分方程，常出現在波動、振動、聲學、電磁學及動力氣象的分離變數問題中。",
     "source_url": "https://glossary.ametsoc.org/wiki/Helmholtz_equation"
   },
   {
     "english": "Helmholtz free energy",
     "traditional_chinese": "亥姆霍茲自由能",
-    "definition_cht": "指與「亥姆霍茲自由能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "熱力學勢之一，定義為 F = U − TS，其中 U 為內能、T 為絕對溫度、S 為熵；在定溫定容條件下，可用來衡量系統可提供的最大有用功。",
     "source_url": "https://glossary.ametsoc.org/wiki/Helmholtz_free_energy"
   },
   {
     "english": "Helmholtz instability",
-    "traditional_chinese": "亥姆霍茲不穩定性",
-    "definition_cht": "指與「亥姆霍茲不穩定性」相關的不穩定機制，可導致擾動增幅、波動發展或對流觸發。",
+    "traditional_chinese": "亥姆霍茲不穩定",
+    "definition_cht": "通常指由速度切變所引發的界面或層結不穩定，常與凱爾文－亥姆霍茲不穩定並稱；當兩層流體之間存在顯著相對速度時，擾動可增長並形成波狀或捲雲狀結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Helmholtz_instability"
   },
   {
     "english": "Helmholtz wave",
     "traditional_chinese": "亥姆霍茲波",
-    "definition_cht": "由兩層流體速度差與密度分層共同作用所產生的界面波動，常與凱爾文－亥姆霍茲不穩定發展有關。",
+    "definition_cht": "在具有速度差的兩層流體交界面上形成的不穩定波動，常視為凱爾文－亥姆霍茲不穩定發展時的波狀表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/Helmholtz_wave"
   },
   {
     "english": "Helmholtz's theorem",
     "traditional_chinese": "亥姆霍茲定理",
-    "definition_cht": "「亥姆霍茲定理」相關的理論定理或數學命題，用於說明特定物理或統計性質。",
+    "definition_cht": "指在適當條件下，向量場可分解為無旋部分與無散部分之和的定理；在流體力學與動力氣象中常用來分析速度場或力場的結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Helmholtz%27s_theorem"
   },
   {
     "english": "hemispheric model",
-    "traditional_chinese": "半球模型",
-    "definition_cht": "用於表徵「半球模型」相關過程或系統的理論、概念或數值模式，以分析其主要物理機制。",
+    "traditional_chinese": "半球模式",
+    "definition_cht": "以單一半球作為計算範圍、並在赤道附近施加邊界條件的數值天氣模式；早期常用於大尺度環流與中長期預報研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/hemispheric_model"
   },
   {
     "english": "Henry's law",
     "traditional_chinese": "亨利定律",
-    "definition_cht": "「亨利定律」相關的定律或經驗法則，用以概括物理關係、尺度關係或統計規律。",
+    "definition_cht": "在定溫平衡下，液體中溶解氣體的濃度通常與其在液面上方的分壓成正比；比例常數稱為亨利常數，常用於描述海氣之間氣體交換與水體溶氣行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/Henry%27s_law"
   },
   {
