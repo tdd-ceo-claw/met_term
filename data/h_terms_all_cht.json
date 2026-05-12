@@ -901,122 +901,122 @@
   },
   {
     "english": "hippy",
-    "traditional_chinese": "嬉皮",
-    "definition_cht": "指與「嬉皮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "嬉皮族",
+    "definition_cht": "英語一般詞，指 1960 年代興起之嬉皮族或其風格；查無權威氣象文獻將其視為通行專業術語，若出現在資料中通常需依原始語境另行判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/hippy"
   },
   {
     "english": "HIRS",
-    "traditional_chinese": "HIRS",
-    "definition_cht": "「HIRS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "高解析紅外線輻射探測儀",
+    "definition_cht": "High-resolution Infrared Radiation Sounder 的縮寫，為搭載於氣象衛星的紅外線垂直探測儀，用於反演大氣溫度與水氣廓線，並可推估雲頂與外逸長波輻射等產品。",
     "source_url": "https://glossary.ametsoc.org/wiki/HIRS"
   },
   {
     "english": "histogram",
     "traditional_chinese": "直方圖",
-    "definition_cht": "指與「直方圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "以連續數值區間分組並以柱高表示各組頻數或相對頻率的統計圖，常用於分析氣象觀測值、模式輸出或氣候資料的分布形態。",
     "source_url": "https://glossary.ametsoc.org/wiki/histogram"
   },
   {
     "english": "historical climate",
-    "traditional_chinese": "歷史氣候",
-    "definition_cht": "指「歷史氣候」所代表之區域或類型氣候特徵，通常由溫度、降水與地形條件共同界定。",
+    "traditional_chinese": "歷史時期氣候",
+    "definition_cht": "指過去歷史時期的氣候狀況，通常結合文獻記載、儀器觀測與代用資料加以重建，用以研究氣候變遷及極端事件之長期背景。",
     "source_url": "https://glossary.ametsoc.org/wiki/historical_climate"
   },
   {
     "english": "hoar crystal",
-    "traditional_chinese": "白水晶",
-    "definition_cht": "指與「白水晶」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "霜晶",
+    "definition_cht": "由水汽直接凝華形成的單一冰晶，為霜華的基本晶體單元，常附著於枝葉、電線等低於冰點且暴露於空氣中的物體表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/hoar_crystal"
   },
   {
     "english": "hoarfrost",
-    "traditional_chinese": "霜",
-    "definition_cht": "指與「霜」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "霜華",
+    "definition_cht": "水汽在低於冰點的物體表面直接凝華所形成的白色冰晶沉積，常見於枝葉、草面與細線狀物體；其生成機制近似結露，但沉積時表面溫度須低於冰點。",
     "source_url": "https://glossary.ametsoc.org/wiki/hoarfrost"
   },
   {
     "english": "hodograph",
     "traditional_chinese": "風矢端跡圖",
-    "definition_cht": "將風矢量端點依高度或時間連續描繪而成的曲線圖，可用於分析風切、對流環境與暴風旋轉潛勢。",
+    "definition_cht": "將風向風速向量的端點依高度或時間連續描繪而成的圖形，可用於分析垂直風切、風暴移動方向以及對流旋轉潛勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/hodograph"
   },
   {
     "english": "hodograph analysis",
-    "traditional_chinese": "光刻分析",
-    "definition_cht": "以圖形方式呈現「光刻分析」相關量值變化、對應關係或分類結果的圖表。",
+    "traditional_chinese": "風矢端跡分析",
+    "definition_cht": "利用風矢端跡圖檢視風場隨高度的變化，以評估垂直風切、風暴相對入流、可能的對流型態與超級胞旋轉環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/hodograph_analysis"
   },
   {
     "english": "hohlraum",
-    "traditional_chinese": "黑腔",
-    "definition_cht": "指與「黑腔」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "黑體空腔",
+    "definition_cht": "輻射熱力學中近似黑體的封閉空腔；在大氣與遙測相關文獻中常作為理想化輻射平衡參考，用以說明腔內輻射場與黑體放射特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/hohlraum"
   },
   {
     "english": "Holmboe instability",
-    "traditional_chinese": "霍爾姆布不穩定性",
-    "definition_cht": "指與「霍爾姆布不穩定性」相關的不穩定機制，可導致擾動增幅、波動發展或對流觸發。",
+    "traditional_chinese": "霍姆伯不穩定",
+    "definition_cht": "發生於穩定密度分層且伴隨強速度切變之界面的剪切不穩定，可產生成對傳播的界面波與擾動增幅，常與 Kelvin–Helmholtz 不穩定並列討論。",
     "source_url": "https://glossary.ametsoc.org/wiki/Holmboe_instability"
   },
   {
     "english": "Holocene epoch",
     "traditional_chinese": "全新世",
-    "definition_cht": "指與「全新世」相關的年代分期、時段或地質時代單位。",
+    "definition_cht": "第四紀中最新且延續至今的地質世，約始於 1.17 萬年前；其氣候相對間冰期穩定，為現代人類文明發展的主要背景時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/Holocene_epoch"
   },
   {
     "english": "holosteric barometer",
-    "traditional_chinese": "整體氣壓計",
-    "definition_cht": "用於量測「整體氣壓計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "空盒氣壓計",
+    "definition_cht": "以彈性金屬空盒受氣壓伸縮變形來測定氣壓的無液氣壓計，常用於攜帶式觀測與高度估算，亦稱 aneroid barometer。",
     "source_url": "https://glossary.ametsoc.org/wiki/holosteric_barometer"
   },
   {
     "english": "homobront",
-    "traditional_chinese": "同種異體",
-    "definition_cht": "指與「同種異體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "同雷",
+    "definition_cht": "指雷暴活動或聞雷條件相同的狀態；此詞屬罕用術語，通常用於描述不同地點在雷暴出現頻率或雷聲發生上的一致性。",
     "source_url": "https://glossary.ametsoc.org/wiki/homobront"
   },
   {
     "english": "homoclime",
-    "traditional_chinese": "同質氣候",
-    "definition_cht": "指與「同質氣候」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "同氣候區",
+    "definition_cht": "指氣候特徵彼此相近、可歸為同一類型的地區或環境，用於比較不同區域在溫度、降水與季節循環上的相似性。",
     "source_url": "https://glossary.ametsoc.org/wiki/homoclime"
   },
   {
     "english": "homogeneous atmosphere",
-    "traditional_chinese": "均勻氣氛",
-    "definition_cht": "指與「均勻氣氛」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "均質大氣",
+    "definition_cht": "在理論分析中假設各處物理性質或組成於空間上均一的大氣模型，用以簡化輻射、波動或流體動力問題的推導。",
     "source_url": "https://glossary.ametsoc.org/wiki/homogeneous_atmosphere"
   },
   {
     "english": "homogeneous fluid",
     "traditional_chinese": "均質流體",
-    "definition_cht": "指與「均質流體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指成分與物理性質在空間上視為均一、無內部成分界面的流體；在大氣與海洋力學中常作為理想化近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/homogeneous_fluid"
   },
   {
     "english": "homogeneous turbulence",
     "traditional_chinese": "均勻湍流",
-    "definition_cht": "指與「均勻湍流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "其統計性質在空間中不隨位置改變的理想化湍流，常用作湍流理論、數值模擬與能譜分析的基本假設之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/homogeneous_turbulence"
   },
   {
     "english": "homogeneous wave",
-    "traditional_chinese": "均勻波",
-    "definition_cht": "指與「均勻波」相關的波動、波形或擾動結構，用於描述其傳播、振盪與能量傳遞特性。",
+    "traditional_chinese": "齊次波",
+    "definition_cht": "由齊次波動方程描述、在無外部強迫項下存在的自由波動解；常用以區分受迫波與系統本徵波。",
     "source_url": "https://glossary.ametsoc.org/wiki/homogeneous_wave"
   },
   {
     "english": "homologous turbulence",
-    "traditional_chinese": "同源湍流",
-    "definition_cht": "指與「同源湍流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "相似湍流",
+    "definition_cht": "指不同時刻或不同尺度下，湍流場在適當正規化後仍保持相同形態或統計相似性的湍流狀態，常見於衰減湍流理論。",
     "source_url": "https://glossary.ametsoc.org/wiki/homologous_turbulence"
   },
   {
     "english": "homopause",
-    "traditional_chinese": "同溫層頂混合界面",
-    "definition_cht": "指與「同溫層頂混合界面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "均質層頂",
+    "definition_cht": "大氣中由湍流混合主導的均質層頂界面；其上分子擴散逐漸占優，使各氣體成分開始依分子量分層，因此亦常視為 homosphere 與 heterosphere 的分界。",
     "source_url": "https://glossary.ametsoc.org/wiki/homopause"
   },
   {
