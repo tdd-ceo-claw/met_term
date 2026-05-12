@@ -1454,19 +1454,19 @@
   {
     "english": "forecast verification",
     "traditional_chinese": "預報驗證",
-    "definition_cht": "將預報結果與實際觀測或分析參考值比較，以評估預報準確度、偏差、技巧分數及整體效能的程序。",
+    "definition_cht": "將預報結果與其後的實際觀測、分析場或其他參考真值進行比較，以評估預報的準確度、偏差、技巧分數與整體效能之程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_verification"
   },
   {
     "english": "Forecast-informed reservoir operations",
-    "traditional_chinese": "預報導引水庫操作",
-    "definition_cht": "結合流域監測、天氣與水文預報資訊，作為水庫蓄放水決策依據的操作策略，以兼顧防洪、供水及其他管理目標。",
+    "traditional_chinese": "預報導引型水庫操作",
+    "definition_cht": "結合流域監測、天氣與水文預報資訊來調整水庫蓄放水決策的操作策略，旨在同時提升防洪、供水、發電或生態等管理效益；常簡稱為 FIRO。",
     "source_url": "https://glossary.ametsoc.org/wiki/Forecast-informed_reservoir_operations"
   },
   {
     "english": "forecast-reversal test",
     "traditional_chinese": "預報反轉測試",
-    "definition_cht": "用於檢驗某種預報驗證方法是否適切的測試；將同一驗證方法同時套用於原預報與一組相反情境的虛擬預報，比較兩者分數以判斷該驗證制度的辨識能力。",
+    "definition_cht": "用於檢驗預報驗證方法是否合理的測試；將同一評分方法同時套用於原始預報與其相反情境的虛擬預報，藉比較結果判斷該驗證制度的辨識能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast-reversal_test"
   },
   {
@@ -1484,13 +1484,13 @@
   {
     "english": "Forel scale",
     "traditional_chinese": "福雷爾色標",
-    "definition_cht": "依水體表觀顏色加以分級的色標系統，傳統上用於海洋與湖泊水色觀測，可作為水中懸浮物、藻類或光學性質變化的簡易指標。",
+    "definition_cht": "用於估計天然水體顏色的分級色標，現多指 Forel–Ule 色標；藉比對水色判定其光學特性，並可作為懸浮物、溶解物質或藻類變化的簡易指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Forel_scale"
   },
   {
     "english": "forerunner",
     "traditional_chinese": "前驅現象",
-    "definition_cht": "在主要天氣或海洋事件發生前率先出現的先行徵兆或擾動；於海象中亦可指主風暴潮或主波列到達前先行出現的水位或波動。",
+    "definition_cht": "在主要天氣、風暴潮或波浪事件到達前率先出現的先行徵兆或擾動；於海象中尤可指主波列抵達前先到達的長週期先行湧浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/forerunner"
   },
   {
@@ -1507,14 +1507,14 @@
   },
   {
     "english": "forked lightning",
-    "traditional_chinese": "叉狀閃電",
-    "definition_cht": "通道明顯分岔、呈樹枝狀延伸的閃電，常見於雲對地或雲間放電的可見主放電通道。",
+    "traditional_chinese": "枝狀閃電",
+    "definition_cht": "放電通道明顯分岔、呈樹枝狀延伸的閃電型態，常見於雲對地閃電，也可出現在雲間放電的可見主通道。",
     "source_url": "https://glossary.ametsoc.org/wiki/forked_lightning"
   },
   {
     "english": "form drag",
     "traditional_chinese": "形狀阻力",
-    "definition_cht": "流體繞過物體或粗糙地形時，因外形造成壓力分布不均與尾流分離而產生的阻力；不同於主要由表面摩擦造成的摩擦阻力。",
+    "definition_cht": "流體繞經物體或粗糙地形時，因外形造成前後壓力差與尾流分離而產生的阻力，常與壓差阻力近義；不同於主要源自表面摩擦的摩擦阻力。",
     "source_url": "https://glossary.ametsoc.org/wiki/form_drag"
   },
   {
@@ -1537,8 +1537,8 @@
   },
   {
     "english": "Fortin barometer",
-    "traditional_chinese": "福廷氣壓計",
-    "definition_cht": "一種高精度水銀氣壓計，具有可調式槽部液面與象牙指針，用以校正零點並精確量測大氣壓力。",
+    "traditional_chinese": "福丁氣壓計",
+    "definition_cht": "一種高精度水銀氣壓計，具有可調式槽部液面與象牙指針，可先校正零點再讀取水銀柱高度，以精確量測大氣壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/Fortin_barometer"
   },
   {
@@ -1556,7 +1556,7 @@
   {
     "english": "forward scatter",
     "traditional_chinese": "前向散射",
-    "definition_cht": "電磁波、光或其他輻射與粒子作用後，大致沿原入射方向散射的現象；在能見度感測、雷達與遙測中常作為量測依據。",
+    "definition_cht": "電磁波、光或其他輻射與粒子或介質作用後，仍以接近原入射方向的小角度散射的現象；常用於能見度感測、光學量測、雷達與遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/forward_scatter"
   },
   {
