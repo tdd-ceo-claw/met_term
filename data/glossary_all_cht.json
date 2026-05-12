@@ -24391,122 +24391,122 @@
   },
   {
     "english": "hurricane beacon",
-    "traditional_chinese": "颶風燈塔",
-    "definition_cht": "指與「颶風燈塔」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "颶風警示標",
+    "definition_cht": "舊稱或較少用語，通常指沿岸、港口或測站用以通報颶風威脅將近的警示燈號、信標或警報裝置；實際形式依時代與地區規範而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricane_beacon"
   },
   {
     "english": "hurricane core",
     "traditional_chinese": "颶風核心",
-    "definition_cht": "指與「颶風核心」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "颶風最內部的核心區域，包含眼及眼牆附近，為最低氣壓、最強環流與最劇烈對流活動集中的部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricane_core"
   },
   {
     "english": "hurricane hunters",
-    "traditional_chinese": "颶風獵人",
-    "definition_cht": "指與「颶風獵人」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "颶風偵察機隊；颶風獵人",
+    "definition_cht": "直接飛入熱帶氣旋內部執行觀測任務的飛行人員與機隊總稱，用以量測中心氣壓、風速、溫濕度、雷達結構及投落送資料，支援路徑與強度預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricane_hunters"
   },
   {
     "english": "hurricane surge",
-    "traditional_chinese": "颶風潮",
-    "definition_cht": "指與「颶風潮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "颶風暴潮",
+    "definition_cht": "由颶風強風與低氣壓共同造成的沿岸異常增水，即颶風引起的 storm surge；不含天文潮本身，但與天文潮疊加後可形成更高的風暴潮位。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricane_surge"
   },
   {
     "english": "hurricane warning",
     "traditional_chinese": "颶風警報",
-    "definition_cht": "指與「颶風警報」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "表示某指定地區預期將出現最大持續風速達 64 節（119 公里/小時）以上的颶風條件之正式警報；美國作業上通常在預估熱帶風暴風力開始前約 36 小時發布。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricane_warning"
   },
   {
     "english": "hurricane watch",
-    "traditional_chinese": "颶風觀察",
-    "definition_cht": "指與「颶風觀察」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "颶風警戒",
+    "definition_cht": "表示某指定地區可能出現最大持續風速達 64 節（119 公里/小時）以上的颶風條件之預警；美國作業上通常在預估熱帶風暴風力開始前約 48 小時發布。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricane_watch"
   },
   {
     "english": "hurricane-force wind",
     "traditional_chinese": "颶風級風力",
-    "definition_cht": "指與「颶風級風力」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "definition_cht": "指持續風速達 64 節（74 英里/小時，119 公里/小時）以上的風；可用於熱帶氣旋，也可描述非熱帶系統中的同等強風。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricane-force_wind"
   },
   {
     "english": "hurricano",
-    "traditional_chinese": "颶風",
-    "definition_cht": "指與「颶風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "颶風（變體拼法）",
+    "definition_cht": "hurricane 的少見變體拼法或歷史用法，通常仍指北大西洋與東北太平洋達颶風強度的熱帶氣旋；現代標準拼法為 hurricane。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricano"
   },
   {
     "english": "Huygens's construction",
-    "traditional_chinese": "惠更斯的構造",
-    "definition_cht": "指與「惠更斯的構造」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "惠更斯作圖法",
+    "definition_cht": "依惠更斯原理以前一時刻波前上各點為次波源，藉由次波包絡線構造下一時刻波前的方法；常用於說明波在介質中的傳播、反射與折射。",
     "source_url": "https://glossary.ametsoc.org/wiki/Huygens%27s_construction"
   },
   {
     "english": "hybrid",
-    "traditional_chinese": "雜交種",
-    "definition_cht": "指與「雜交種」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "混合型；混成",
+    "definition_cht": "泛指兼具兩種或以上不同結構、成因或分類特徵的現象、系統或模式；在氣象上常用於描述同時帶有熱帶與溫帶特徵的混合型擾動或氣旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/hybrid"
   },
   {
     "english": "hybrid vertical coordinate",
     "traditional_chinese": "混合垂直座標",
-    "definition_cht": "指與「混合垂直座標」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "數值模式中結合兩種以上垂直座標優點的座標系統，常見為近地面隨地形起伏、較高層逐漸轉為壓力座標，以兼顧地形解析與高空計算穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/hybrid_vertical_coordinate"
   },
   {
     "english": "hydraulic analogy",
     "traditional_chinese": "水力類比",
-    "definition_cht": "指與「水力類比」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "以自由液面水流或其他水力系統的行為，類比描述可壓縮氣流、波動或其他動力過程的方法；經典例子為以淺水波近似某些氣體動力現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_analogy"
   },
   {
     "english": "hydraulic barrier",
-    "traditional_chinese": "液壓屏障",
-    "definition_cht": "指與「液壓屏障」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水力屏障",
+    "definition_cht": "藉由抽水、回灌或水位控制所建立的地下水流場屏障，用以限制污染羽、鹽水入侵或其他地下水流動向特定區域擴散。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_barrier"
   },
   {
     "english": "hydraulic conductivity",
-    "traditional_chinese": "水力傳導率",
-    "definition_cht": "指與「水力傳導率」相關的傳導能力、導電率或輸送能力。",
+    "traditional_chinese": "水力傳導係數",
+    "definition_cht": "多孔介質傳輸水的能力指標，表示在一定水力坡降下水穿過土壤、沉積物或岩體的容易程度；受介質滲透性及流體黏滯性、密度等影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_conductivity"
   },
   {
     "english": "hydraulic grade line",
-    "traditional_chinese": "水力坡度線",
-    "definition_cht": "指與「水力坡度線」相關的線性界面、基準線或分析線，常作為場型判讀與結構定位的輔助。",
+    "traditional_chinese": "水力坡降線",
+    "definition_cht": "沿管流或地下水流方向，各點測壓水頭（壓力水頭加位置水頭）連成的線；其傾斜反映水頭損失，若忽略速度水頭，常與壓力面相對應。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_grade_line"
   },
   {
     "english": "hydraulic gradient",
     "traditional_chinese": "水力坡降",
-    "definition_cht": "指與「水力坡降」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "單位流動距離上的水頭差，通常表示為水頭沿流向的下降率；為驅動地下水或其他水流移動的重要梯度量。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_gradient"
   },
   {
     "english": "hydraulic head",
-    "traditional_chinese": "油壓頭",
-    "definition_cht": "指與「油壓頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "水頭",
+    "definition_cht": "以長度表示的流體機械能量，通常為位置水頭與壓力水頭之和；在有流速項時亦可進一步納入速度水頭，用以描述水由高能處流向低能處的驅動。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_head"
   },
   {
     "english": "hydraulic jump",
     "traditional_chinese": "水躍",
-    "definition_cht": "明渠急流在短距離內突然轉為緩流、伴隨水深躍增與能量耗散的現象。",
+    "definition_cht": "明渠急流在短距離內突然轉為緩流、伴隨水深驟增、流速降低與大量能量耗散的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_jump"
   },
   {
     "english": "hydraulic mean depth",
     "traditional_chinese": "水力平均深度",
-    "definition_cht": "指「水力平均深度」所代表之平均量、統計均值或代表性平均狀態。",
+    "definition_cht": "明渠流中流通斷面面積除以水面寬所得之代表性深度，常用以估算淺水波速及分析明渠流況。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_mean_depth"
   },
   {
     "english": "hydraulic radius",
     "traditional_chinese": "水力半徑",
-    "definition_cht": "指與「水力半徑」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "流通斷面面積與潤濕周界之比，為描述明渠或部分滿管道流動效率的重要幾何量；數值愈大通常表示邊界摩擦相對影響愈小。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydraulic_radius"
   },
   {
