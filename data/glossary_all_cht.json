@@ -25256,121 +25256,121 @@
   {
     "english": "ice day",
     "traditional_chinese": "冰日",
-    "definition_cht": "一日內最高氣溫持續低於0°C 的日子。",
+    "definition_cht": "在氣候學上指某日百葉箱內量得的最高氣溫不高於 0°C，且地表水體上的冰當日未融解的日子。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_day"
   },
   {
     "english": "ice desert",
     "traditional_chinese": "冰荒漠",
-    "definition_cht": "指與「冰荒漠」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "指終年受冰雪覆蓋的極地荒漠區，幾乎沒有植被，僅偶見紅雪或綠雪等微生物相關現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_desert"
   },
   {
     "english": "ice drift",
     "traditional_chinese": "冰漂移",
-    "definition_cht": "海冰在風力、海流與科氏力共同作用下的漂移運動。",
+    "definition_cht": "海冰、浮冰或冰群在風力、水流等作用下於水面上產生的移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_drift"
   },
   {
     "english": "ice edge",
     "traditional_chinese": "冰緣",
-    "definition_cht": "海冰區與開放水面之間的邊界。",
+    "definition_cht": "任一時刻開放水面與海冰、河冰或湖冰之間的邊界；依冰分布狀況可呈清楚或鬆散的過渡帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_edge"
   },
   {
     "english": "ice feathers",
     "traditional_chinese": "冰羽",
-    "definition_cht": "指與「冰羽」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "一種羽毛狀霜晶，常生成於地物迎風面，亦可出現在航空器由冷空氣飛入較暖氣層時；其由細長柱狀冰晶交錯生長而成。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_feathers"
   },
   {
     "english": "ice field",
-    "traditional_chinese": "冰原區",
-    "definition_cht": "指與「冰原區」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "冰原",
+    "definition_cht": "大範圍、較平坦且連續的冰體；可指廣闊海冰區，也可指由相連山岳冰川或高地冰體構成的冰原。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_field"
   },
   {
     "english": "ice flow",
     "traditional_chinese": "冰流",
-    "definition_cht": "指與「冰流」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "冰體的流動現象；冰川與冰蓋主要受重力驅動，而海冰則多受風力與海流影響而移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_flow"
   },
   {
     "english": "ice flowers",
     "traditional_chinese": "冰花",
-    "definition_cht": "指與「冰花」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "平靜水面緩慢結冰時，或新生海冰表面在極冷條件下形成的細緻花狀冰晶聚集。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_flowers"
   },
   {
     "english": "ice fog",
     "traditional_chinese": "冰霧",
-    "definition_cht": "由大量懸浮冰晶組成、常出現在極寒環境中的霧。",
+    "definition_cht": "由大量懸浮微小冰晶組成的霧，多出現在極低溫環境，常使能見度顯著下降。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_fog"
   },
   {
     "english": "ice foot",
-    "traditional_chinese": "岸冰緣",
-    "definition_cht": "指與「岸冰緣」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "冰足",
+    "definition_cht": "牢固凍結於海岸高潮線附近、且不隨潮汐升降的岸邊海冰，通常由退潮時海水結冰與飛沫凍結共同形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_foot"
   },
   {
     "english": "ice forecast",
-    "traditional_chinese": "冰預報",
-    "definition_cht": "針對海冰分布、濃度、厚度、漂移與冰緣變化所作的預報。",
+    "traditional_chinese": "冰況預報",
+    "definition_cht": "針對特定海域或水域未來冰界、冰濃度、分布、發育階段、厚度、漂移方向及冰山情況所作的預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_forecast"
   },
   {
     "english": "ice formation on aircraft",
     "traditional_chinese": "航空器結冰",
-    "definition_cht": "飛機表面因過冷水滴撞擊凍結或冰晶沉積所造成的結冰現象，會影響升力、阻力與飛航安全。",
+    "definition_cht": "航空器在地面或飛行中，因過冷水滴、霜或其他冰相沉積於機體表面而形成積冰的現象，會危及氣動性能、發動機效能與飛航安全。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_formation_on_aircraft"
   },
   {
     "english": "ice front",
-    "traditional_chinese": "冰緣面",
-    "definition_cht": "海冰或冰蓋前緣與鄰近海域、陸地或其他冰體之交界。",
+    "traditional_chinese": "冰棚前緣",
+    "definition_cht": "冰棚朝海一側呈崖狀的前緣邊界，亦即冰棚與海水接觸的外側陡壁。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_front"
   },
   {
     "english": "ice island",
     "traditional_chinese": "冰島體",
-    "definition_cht": "指與「冰島體」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "北極海常見的一類大型平頂冰山，厚約 30–50 公尺，面積可達數千平方公尺至數百平方公里，表面常呈起伏脊狀。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_island"
   },
   {
     "english": "ice jam",
     "traditional_chinese": "冰塞",
-    "definition_cht": "河道中浮冰或碎冰壅塞聚積，造成水位抬升與回水效應的現象。",
+    "definition_cht": "河道內漂流碎冰在狹窄河段、彎道或障礙物處堆積壅塞，阻礙水流並常於融冰或解凍期造成水位上升與局部洪患。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_jam"
   },
   {
     "english": "ice keel",
     "traditional_chinese": "冰脊龍骨",
-    "definition_cht": "海冰下方延伸至水中的脊狀部分，常為壓積冰構造的一部分。",
+    "definition_cht": "冰脊在水面下向下延伸的部分，為海冰受擠壓堆積後形成的水下對應構造。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_keel"
   },
   {
     "english": "ice layer",
     "traditional_chinese": "冰層",
-    "definition_cht": "指與「冰層」相關的層狀結構，常用於描述大氣、海洋或地表附近具有相對一致性質的區域。",
+    "definition_cht": "被新雪覆蓋的冰殼層；若在冰川前緣或冰裂隙剖面中露出，其橫切面可呈現為冰帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_layer"
   },
   {
     "english": "ice limit",
     "traditional_chinese": "冰界限",
-    "definition_cht": "指與「冰界限」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "依多年觀測所得，海冰範圍達到極端最小或最大時的氣候學位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_limit"
   },
   {
     "english": "ice mixing ratio",
     "traditional_chinese": "冰相混合比",
-    "definition_cht": "單位質量乾空氣中所含冰相水成分的質量。",
+    "definition_cht": "含雲冰與／或固態降水的空氣樣本中，單位質量乾空氣所含冰相水成分的質量比。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_mixing_ratio"
   },
   {
     "english": "ice mound",
     "traditional_chinese": "冰丘",
-    "definition_cht": "指與「冰丘」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "由地下或地表水在凍土環境中凍結並隆起形成、內含冰核的丘狀地形；常作為 frost mound 的同義用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_mound"
   },
   {
