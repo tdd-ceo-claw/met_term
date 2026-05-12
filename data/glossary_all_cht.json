@@ -25376,121 +25376,121 @@
   {
     "english": "ice multiplication",
     "traditional_chinese": "冰晶增殖",
-    "definition_cht": "雲中冰晶數目藉由次生冰生成機制而增加的現象。",
+    "definition_cht": "雲中既有冰晶再透過次生冰生成或破碎增生等機制，使冰粒子數量顯著增加的過程；其濃度常可高於冰核數量。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_multiplication"
   },
   {
     "english": "ice needle",
     "traditional_chinese": "冰針",
-    "definition_cht": "呈細長針狀的冰晶，常在低溫高濕環境中形成。",
+    "definition_cht": "細長針狀的冰晶，主軸與冰晶 c 軸一致，橫截面至少部分呈六角形，常在特定低溫與過飽和條件下生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_needle"
   },
   {
     "english": "ice nuclei counter",
-    "traditional_chinese": "冰核 計數器",
-    "definition_cht": "用以量測空氣中冰核濃度或活化數目的儀器。",
+    "traditional_chinese": "冰核計數器",
+    "definition_cht": "用於量測空氣中冰核數濃度及其成核活性的儀器，通常透過控制冷卻與加濕條件，統計不同亞零度環境下可形成冰晶的粒子數。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_nuclei_counter"
   },
   {
     "english": "ice nucleus",
-    "traditional_chinese": "冰冰核",
-    "definition_cht": "可促使過冷水滴凍結或促進水汽直接凝華成冰的微粒。",
+    "traditional_chinese": "冰核",
+    "definition_cht": "可作為冰晶形成核心的粒子，能促使過冷水滴凍結或使水汽直接成冰，屬大氣中異質成核的重要媒介。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_nucleus"
   },
   {
     "english": "Ice pellets",
-    "traditional_chinese": "冰冰粒",
-    "definition_cht": "雨滴或融雪再凍結後形成的小型透明或半透明冰粒，屬凍結性降水之一。",
+    "traditional_chinese": "冰粒",
+    "definition_cht": "由凍雨滴、融化雪粒再凍結或其他結冰過程形成的透明或半透明小冰粒，直徑通常小於 5 毫米，落地常會彈跳並發出敲擊聲。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ice_pellets"
   },
   {
     "english": "ice plain",
-    "traditional_chinese": "冰原平地",
-    "definition_cht": "冰體表面相對平坦、起伏較小的區域。",
+    "traditional_chinese": "冰原平臺",
+    "definition_cht": "位於部分冰流出口處、因輕微接地而形成的低起伏冰面區，基底剪應力通常很小，常見於冰流通往冰棚的過渡地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_plain"
   },
   {
     "english": "ice point",
     "traditional_chinese": "冰點",
-    "definition_cht": "純水與純冰在標準壓力下達相平衡時的溫度，常取為0°C。",
+    "definition_cht": "在一標準大氣壓下，純冰與空氣飽和的純水可共存於平衡狀態時的溫度，常作為溫標建立的基準點之一，即 0°C。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_point"
   },
   {
     "english": "ice pole",
     "traditional_chinese": "冰極",
-    "definition_cht": "指與「冰極」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "亦稱難達極，指北極多年密集浮冰區最集中部分的近似中心位置；傳統上多指約北緯 83°–84°、西經 160°附近的北冰洋區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_pole"
   },
   {
     "english": "ice prisms",
     "traditional_chinese": "冰稜晶",
-    "definition_cht": "指與「冰稜晶」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "具有明顯結晶面的冰晶，通常在底面與柱面上都可見清楚晶面；在天氣觀測中亦可指呈針、柱或板狀的無分枝冰晶降落。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_prisms"
   },
   {
     "english": "ice raft",
-    "traditional_chinese": "冰筏",
-    "definition_cht": "指與「冰筏」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "冰筏體",
+    "definition_cht": "一塊完整且移動緩慢的陸冰塊體，整體被夾帶進冰流或冰棚之中，作為其中可辨識的獨立冰體單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_raft"
   },
   {
     "english": "ice regime phase",
     "traditional_chinese": "冰況相位",
-    "definition_cht": "指與「冰況相位」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "河川、湖泊或其他水體在特定天氣熱力條件作用下所呈現的結冰狀態或發展階段，用以描述冰況的季節性演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_regime_phase"
   },
   {
     "english": "ice rind",
-    "traditional_chinese": "薄冰殼",
-    "definition_cht": "指與「薄冰殼」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "冰殼",
+    "definition_cht": "薄而硬的冰層，可指舊冰表面新生成的冰殼，亦可指低鹽度水面上直接凍結形成的脆薄浮冰；厚度通常很小，易受風浪破碎。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_rind"
   },
   {
     "english": "ice rise",
-    "traditional_chinese": "冰丘隆起",
-    "definition_cht": "指與「冰丘隆起」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "冰丘",
+    "definition_cht": "覆蓋在基岩上、表面常呈圓頂狀且四周被冰棚或海水包圍的冰體隆起；其下有基岩支撐，但岩石本身不外露。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_rise"
   },
   {
     "english": "ice run",
     "traditional_chinese": "流冰",
-    "definition_cht": "指與「流冰」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "河川中碎冰或雪泥冰隨水流移動的現象，尤常見於春夏解凍初期的河冰破裂與輸送階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_run"
   },
   {
     "english": "Ice Saints",
-    "traditional_chinese": "冰聖徒期",
-    "definition_cht": "指與「冰聖徒期」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "冰聖徒日",
+    "definition_cht": "歐洲民俗中與 5 月 11 至 13 日前後晚霜或短暫寒害相關的幾位聖徒紀念日，常被視為春末最後一波冷空氣的象徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ice_Saints"
   },
   {
     "english": "ice shelf",
     "traditional_chinese": "冰棚",
-    "definition_cht": "由陸上冰川或冰蓋向海面延伸並漂浮於海上的厚大冰板。",
+    "definition_cht": "由陸上冰川或冰蓋向海面延伸並漂浮於海上的厚大板狀冰體，其前緣崩解後常形成桌狀冰山或冰島體。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_shelf"
   },
   {
     "english": "ice storm",
     "traditional_chinese": "冰暴",
-    "definition_cht": "以凍雨或大量結冰為主要特徵、會在地物表面形成顯著覆冰的風暴。",
+    "definition_cht": "以凍雨為主要特徵的冬季風暴，會在地物表面形成釉冰並造成樹木、電線與交通設施嚴重積冰危害；亦稱銀暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_storm"
   },
   {
     "english": "ice stream",
-    "traditional_chinese": "冰流帶",
-    "definition_cht": "冰蓋或冰原中流速顯著較快、受基底與應力條件控制的狹長流動帶。",
+    "traditional_chinese": "冰流",
+    "definition_cht": "冰蓋內部流速明顯較快的狹長冰體帶，受基底滑移主導，常作為內陸冰量向海輸送的重要通道。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_stream"
   },
   {
     "english": "ice structure",
-    "traditional_chinese": "冰結構",
-    "definition_cht": "指與「冰結構」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "冰晶結構",
+    "definition_cht": "冰晶中水分子的排列方式；在一般大氣溫壓條件下，冰多呈六方晶系的 ice-Ih 結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_structure"
   },
   {
     "english": "ice tongue",
     "traditional_chinese": "冰舌",
-    "definition_cht": "由冰川前緣向海或湖面伸出的狹長舌狀冰體。",
+    "definition_cht": "冰川或冰棚向外延伸形成的狹長舌狀冰體，可為漂浮於海面的突出部分，亦可指冰帽的出口冰川。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_tongue"
   },
   {
