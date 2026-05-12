@@ -601,122 +601,122 @@
   },
   {
     "english": "inadvertent climate modification",
-    "traditional_chinese": "無意的 climate 改變",
-    "definition_cht": "指與「無意的 climate 改變」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "非蓄意氣候改變",
+    "definition_cht": "指人類活動原本並非以改變氣候為目的，卻因溫室氣體排放、氣膠、土地利用改變或都市化等作用，意外造成區域或全球氣候狀態發生改變的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/inadvertent_climate_modification"
   },
   {
     "english": "inadvertent cloud modification",
-    "traditional_chinese": "無意的雲 改變",
-    "definition_cht": "指與「無意的雲 改變」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "非蓄意雲改變",
+    "definition_cht": "指污染排放、飛機凝結尾、地表熱力擾動或其他人為活動在非刻意增雨或消霧情況下，意外改變雲的生成、微物理結構、厚度、壽命或降水效率的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/inadvertent_cloud_modification"
   },
   {
     "english": "inadvertent weather modification",
-    "traditional_chinese": "無意的 weather 改變",
-    "definition_cht": "指與「無意的 weather 改變」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "非蓄意天氣改變",
+    "definition_cht": "指人類活動並非以人工影響天氣為直接目的，卻因都市化、污染排放、土地利用變遷或大量熱源與水氣排放等作用，意外改變局地到區域尺度天氣條件的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/inadvertent_weather_modification"
   },
   {
     "english": "inch of mercury",
-    "traditional_chinese": "inch mercury",
-    "definition_cht": "「inch mercury」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "英吋汞柱",
+    "definition_cht": "壓力單位，定義為一英吋高汞柱在標準重力下所產生的壓力，常記為 inHg，於美國的氣壓觀測、航空高度表設定與冷凍空調領域仍常使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/inch_of_mercury"
   },
   {
     "english": "inclination",
     "traditional_chinese": "傾角",
-    "definition_cht": "指與「傾角」相關的離子、游離作用或電離層物理現象。",
+    "definition_cht": "指一條線、平面、軸線或向量相對於基準平面或基準方向的傾斜角度；在地磁與高空物理中，常特指磁力線與水平面的夾角。",
     "source_url": "https://glossary.ametsoc.org/wiki/inclination"
   },
   {
     "english": "inclination of the axis of a cyclone",
-    "traditional_chinese": "傾角軸 a cyclone",
-    "definition_cht": "指與「傾角軸 a cyclone」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "氣旋軸傾角",
+    "definition_cht": "指氣旋中心軸線隨高度相對鉛直方向所呈現的傾斜情形；其傾斜方向與大小可反映系統垂直結構、熱力配置及發展強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/inclination_of_the_axis_of_a_cyclone"
   },
   {
     "english": "inclination of the axis of an anticyclone",
-    "traditional_chinese": "傾角軸 an anticyclone",
-    "definition_cht": "指與「傾角軸 an anticyclone」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "反氣旋軸傾角",
+    "definition_cht": "指反氣旋中心軸線隨高度相對鉛直方向的傾斜情形，用以描述高壓系統的三維結構及其隨高度的配置特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/inclination_of_the_axis_of_an_anticyclone"
   },
   {
     "english": "inclination of the wind",
-    "traditional_chinese": "傾角風",
-    "definition_cht": "指與「傾角風」相關的風系、局地風或風場型態，著重其形成機制、風向風速分布及天氣影響。",
+    "traditional_chinese": "風傾角",
+    "definition_cht": "指風向量相對於水平面的傾斜角度，用以表示氣流帶有上升或下降分量的程度；傾角愈大，代表垂直運動成分相對愈明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/inclination_of_the_wind"
   },
   {
     "english": "incoherent echo",
-    "traditional_chinese": "非相干 echo",
-    "definition_cht": "「非相干 echo」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "非相干回波",
+    "definition_cht": "指由大量散射體隨機分布、彼此相位無固定關係所形成的雷達回波；其總回波為各散射貢獻的統計疊加，常見於晴空、湍流或電離層散射觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/incoherent_echo"
   },
   {
     "english": "incoherent scatter radar",
-    "traditional_chinese": "非相干 scatter 雷達",
-    "definition_cht": "用於偵測目標位置、回波或電離層／大氣結構的雷達系統或觀測方法。",
+    "traditional_chinese": "非相干散射雷達",
+    "definition_cht": "利用電離層電漿中電子密度隨機起伏所產生的非相干散射回波，反演電子密度、電子與離子溫度、離子成分及電漿漂移等參數的地基雷達系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/incoherent_scatter_radar"
   },
   {
     "english": "incoherent scattering",
-    "traditional_chinese": "非相干 scattering",
-    "definition_cht": "「非相干 scattering」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "非相干散射",
+    "definition_cht": "指散射體之間缺乏固定相位關係時所產生的散射現象；其散射強度通常以各散射體強度相加描述，而非像相干散射那樣由振幅直接干涉決定。",
     "source_url": "https://glossary.ametsoc.org/wiki/incoherent_scattering"
   },
   {
     "english": "incompressibility",
-    "traditional_chinese": "incompressibility",
-    "definition_cht": "「incompressibility」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "不可壓縮性",
+    "definition_cht": "指流體在受壓或運動過程中密度變化可忽略不計的性質；在流體力學中，常以密度近似常數或速度場散度為零作為不可壓縮近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/incompressibility"
   },
   {
     "english": "incompressible fluid",
-    "traditional_chinese": "incompressible 流體",
-    "definition_cht": "為流體力學中的理想化或特定性質流體概念，用於描述其動力與熱力行為。",
+    "traditional_chinese": "不可壓縮流體",
+    "definition_cht": "指密度在流動或受壓過程中可視為不變的流體理想化描述；液體多常可近似如此，低馬赫數氣流在特定條件下亦可採此近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/incompressible_fluid"
   },
   {
     "english": "incus",
-    "traditional_chinese": "incus",
-    "definition_cht": "「incus」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "砧狀雲頂",
+    "definition_cht": "指積雨雲上部發展至對流層頂附近後，因上方穩定層抑制而沿水平方向展開成砧形的雲頂結構；亦常稱砧狀雲或鐵砧雲頂。",
     "source_url": "https://glossary.ametsoc.org/wiki/incus"
   },
   {
     "english": "indefinite ceiling",
-    "traditional_chinese": "indefinite ceiling",
-    "definition_cht": "「indefinite ceiling」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "不定雲幕高",
+    "definition_cht": "航空氣象用語，指天空被霧、降水、吹雪或其他遮蔽物掩蔽而無法辨識明確雲底時，以向上可見的垂直能見度作為雲幕高表示的情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/indefinite_ceiling"
   },
   {
     "english": "independence",
-    "traditional_chinese": "independence",
-    "definition_cht": "「independence」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "獨立性",
+    "definition_cht": "在統計學中指兩個或多個事件、樣本或隨機變數彼此不受影響，其聯合機率分布可分解為各自邊際機率分布乘積的性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/independence"
   },
   {
     "english": "independent pixel approximation",
-    "traditional_chinese": "獨立 pixel approximation",
-    "definition_cht": "指與「獨立 pixel approximation」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "獨立像素近似",
+    "definition_cht": "遙測與輻射傳輸中的近似方法，將每個像素視為彼此水平獨立且均勻的單元，各自分開計算其輻射量，忽略鄰近像素之間的三維輻射傳輸與鄰接效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/independent_pixel_approximation"
   },
   {
     "english": "independent variable",
-    "traditional_chinese": "獨立 variable",
-    "definition_cht": "「獨立 variable」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "自變數",
+    "definition_cht": "在函數、實驗設計、統計或數值模型中作為輸入或控制條件的變數，其取值改變用以解釋、驅動或預測其他依變數的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/independent_variable"
   },
   {
     "english": "independently distributed",
-    "traditional_chinese": "independently distributed",
-    "definition_cht": "「independently distributed」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "相互獨立分布",
+    "definition_cht": "指一組隨機變數在機率上彼此獨立，各變數的出現不影響其他變數的分布或取值；若又具有相同分布，則屬獨立同分布的一種情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/independently_distributed"
   },
   {
     "english": "index",
-    "traditional_chinese": "index",
-    "definition_cht": "用以量化「index」相關狀態、強度、頻率或特性的指標。",
+    "traditional_chinese": "指數；指標",
+    "definition_cht": "用以量化某種狀態、強度、等級或綜合特徵的數值表示；在氣象與氣候領域，常用於描述穩定度、乾旱、震盪型態或其他環境條件的指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/index"
   },
   {
