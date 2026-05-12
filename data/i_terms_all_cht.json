@@ -362,121 +362,121 @@
   {
     "english": "ice-accretion indicator",
     "traditional_chinese": "積冰指示器",
-    "definition_cht": "指與「積冰指示器」相關的離子、游離作用或電離層物理現象。",
+    "definition_cht": "裝設於航空器或觀測設備上，用以顯示積冰是否開始發生、累積速率或厚度變化的指示裝置，供飛航與結冰觀測判讀使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice-accretion_indicator"
   },
   {
     "english": "ice-bulb temperature",
     "traditional_chinese": "冰球溫度",
-    "definition_cht": "指與「冰球溫度」相關的溫度量、特徵溫標或熱力診斷參數。",
+    "definition_cht": "溫度計球部包覆冰並置於未飽和氣流中時，因感熱交換與冰面昇華達到平衡所呈現的溫度；可視為冰面條件下的濕球溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice-bulb_temperature"
   },
   {
     "english": "ice-crystal cloud",
     "traditional_chinese": "冰晶雲",
-    "definition_cht": "指與「冰晶雲」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "主要由懸浮冰晶組成的雲，常見於高層雲或極冷環境中，雲內粒子以凝華形成之固態冰相為主。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice-crystal_cloud"
   },
   {
     "english": "ice-crystal haze",
     "traditional_chinese": "冰晶霾",
-    "definition_cht": "指與「冰晶霾」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "由大量極細小冰晶懸浮於近地層空氣中所形成的霾狀現象，常見於極低溫且風弱環境，能使能見度下降，亦常與鑽石塵現象相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice-crystal_haze"
   },
   {
     "english": "iceberg",
     "traditional_chinese": "冰山",
-    "definition_cht": "自冰川或冰棚崩解後漂浮於海上的大型淡水冰塊。",
+    "definition_cht": "由冰川、冰棚或冰帽崩解入海後漂浮於海上的大型淡水冰體，僅有一小部分露出水面，對航運具有顯著危害。",
     "source_url": "https://glossary.ametsoc.org/wiki/iceberg"
   },
   {
     "english": "iced firn",
     "traditional_chinese": "結冰粒雪",
-    "definition_cht": "經融化再凍結而含有顯著冰層或冰透鏡的粒雪。",
+    "definition_cht": "受融雪再凍結作用影響而含有明顯冰層、冰透鏡或冰質膠結構的粒雪，常見於消融較強或表層融水易滲入再凍結的冰川積雪區。",
     "source_url": "https://glossary.ametsoc.org/wiki/iced_firn"
   },
   {
     "english": "icefall",
     "traditional_chinese": "冰瀑",
-    "definition_cht": "冰川在陡坡上因流動加速與張裂而形成的破碎冰瀑地形。",
+    "definition_cht": "冰川流經陡坡、峽谷或基岩落差處時，因流速驟增而產生強烈裂隙與破碎，形成類似瀑布外觀的冰川地形。",
     "source_url": "https://glossary.ametsoc.org/wiki/icefall"
   },
   {
     "english": "Icelandic low",
     "traditional_chinese": "冰島低壓",
-    "definition_cht": "位於北大西洋冰島附近的半永久性低壓中心，對北大西洋風暴路徑與歐洲天氣有重要影響。",
+    "definition_cht": "位於冰島及其鄰近北大西洋海域的半永久性低壓作用中心，對北大西洋風暴路徑、歐洲天氣以及北大西洋震盪具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Icelandic_low"
   },
   {
     "english": "icicle",
     "traditional_chinese": "冰柱",
-    "definition_cht": "「冰柱」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "液態水沿屋簷、岩壁、樹枝等邊緣滴流時逐步凍結，向下生長形成的懸垂錐狀或柱狀冰體。",
     "source_url": "https://glossary.ametsoc.org/wiki/icicle"
   },
   {
     "english": "icing",
     "traditional_chinese": "積冰",
-    "definition_cht": "過冷水滴或冰晶在物體表面形成積冰的現象。",
+    "definition_cht": "過冷水滴、凍霧或其他含水粒子撞擊並附著於暴露表面後凍結，使其持續累積冰層的現象；在航空氣象中尤指航空器結冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/icing"
   },
   {
     "english": "icing intensity",
     "traditional_chinese": "積冰強度",
-    "definition_cht": "表示結冰累積快慢與嚴重程度的強度分級。",
+    "definition_cht": "用以表示積冰累積快慢與危害程度的分級，航空上常依積冰速率及其對飛行性能的影響區分為微量、輕度、中度與嚴重等級。",
     "source_url": "https://glossary.ametsoc.org/wiki/icing_intensity"
   },
   {
     "english": "icing level",
-    "traditional_chinese": "積冰高度",
-    "definition_cht": "大氣中容易發生結冰或積冰的重要高度層。",
+    "traditional_chinese": "積冰層位",
+    "definition_cht": "大氣中航空器可能開始發生積冰或積冰條件最易出現的高度層，常結合溫度、雲水含量與凍結高度作預報判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/icing_level"
   },
   {
     "english": "icing-rate meter",
     "traditional_chinese": "積冰速率計",
-    "definition_cht": "量測單位時間內積冰厚度或質量增長率的儀器。",
+    "definition_cht": "用於量測單位時間內積冰厚度、質量或體積增長速率的儀器，可作為航空與結冰環境監測之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/icing-rate_meter"
   },
   {
     "english": "ideal fluid",
     "traditional_chinese": "理想流體",
-    "definition_cht": "理論上不具黏滯性且常假設不可壓縮的流體，用於流體力學推導。",
+    "definition_cht": "流體力學中的理想化流體，通常假設無黏滯、不可壓縮且不產生內摩擦，用於理論推導與基本流場分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/ideal_fluid"
   },
   {
     "english": "ideal gas",
     "traditional_chinese": "理想氣體",
-    "definition_cht": "滿足理想氣體方程式、假設分子體積與分子間作用可忽略的氣體模型。",
+    "definition_cht": "假設分子本身體積可忽略、分子間除彈性碰撞外無其他作用力，並滿足理想氣體方程式的理論氣體模型。",
     "source_url": "https://glossary.ametsoc.org/wiki/ideal_gas"
   },
   {
     "english": "identical twin integrations",
-    "traditional_chinese": "同型雙重積分試驗",
-    "definition_cht": "以幾乎相同模式配置進行成對數值積分，用來檢驗敏感度、可預報度或資料同化效果的實驗設計。",
+    "traditional_chinese": "同型孿生積分試驗",
+    "definition_cht": "在數值模式研究中，利用相同模式方程與幾乎相同設定進行成對積分的試驗設計，常用於檢驗可預報度、敏感度或資料同化方法的表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/identical_twin_integrations"
   },
   {
     "english": "IF",
     "traditional_chinese": "中頻",
-    "definition_cht": "在無線電、雷達與遙測系統中，將接收訊號經混頻轉換後所得之中間頻率。",
+    "definition_cht": "在無線電、雷達與遙測接收系統中，訊號經混頻轉換後所得、介於射頻與基帶之間、便於放大與濾波處理的中間頻率。",
     "source_url": "https://glossary.ametsoc.org/wiki/IF"
   },
   {
     "english": "IF signal",
     "traditional_chinese": "中頻訊號",
-    "definition_cht": "經混頻後落於中頻範圍、便於放大與濾波處理的訊號。",
+    "definition_cht": "接收訊號經混頻轉換後落在中頻範圍內的訊號，便於後續放大、濾波、檢波與訊號分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/IF_signal"
   },
   {
     "english": "IF–THEN rule",
     "traditional_chinese": "IF–THEN 規則",
-    "definition_cht": "以條件與結果表示的規則形式，常用於專家系統、推論引擎與自動判識流程。",
+    "definition_cht": "以「若……則……」形式表達條件與結論對應關係的規則，常用於專家系統、知識庫與自動推論程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/IF%E2%80%93THEN_rule"
   },
   {
     "english": "IFF",
     "traditional_chinese": "敵我識別系統",
-    "definition_cht": "供航空與雷達系統辨識友軍、敵軍或未知目標身分的電子識別系統。",
+    "definition_cht": "用於航空、雷達與防空作業中辨識目標為友軍、敵軍或未識別目標的電子識別系統，通常透過詢答機制進行判別。",
     "source_url": "https://glossary.ametsoc.org/wiki/IFF"
   },
   {
