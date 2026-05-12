@@ -1862,121 +1862,121 @@
   {
     "english": "hygrometry",
     "traditional_chinese": "濕度測定",
-    "definition_cht": "指與「濕度測定」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指量測空氣或其他氣體中水氣含量及其相關參數的技術與方法，常用於求取相對濕度、露點、水氣壓與混合比等量。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrometry"
   },
   {
     "english": "hygroscope",
-    "traditional_chinese": "吸濕器",
-    "definition_cht": "指與「吸濕器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "濕度指示器",
+    "definition_cht": "用來指示周圍空氣濕度變化的裝置，通常著重顯示乾濕變化而非進行精密定量量測；可視為早期或簡易型的濕度觀測儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygroscope"
   },
   {
     "english": "hygroscopic",
     "traditional_chinese": "吸濕性的",
-    "definition_cht": "指與「吸濕性的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "形容物質容易自周圍空氣吸附或吸收水分的性質；在氣膠、土壤與雲微物理中，常用來描述粒子受濕度影響而吸水膨潤的能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygroscopic"
   },
   {
     "english": "hygroscopic coefficient",
     "traditional_chinese": "吸濕係數",
-    "definition_cht": "表示「吸濕係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。",
+    "definition_cht": "土壤學中指風乾土樣在特定溫度下與近飽和水汽環境達平衡後所吸附水分的重量百分比，用以表示土壤保留吸附水的能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygroscopic_coefficient"
   },
   {
     "english": "hygroscopic moisture",
-    "traditional_chinese": "吸濕性水分",
-    "definition_cht": "指與「吸濕性水分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "吸濕水分",
+    "definition_cht": "指乾燥土壤或其他多孔物質自空氣中吸附於顆粒表面的薄膜狀水分，受束縛力極強，通常不會自由移動，植物也多半無法利用。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygroscopic_moisture"
   },
   {
     "english": "hygroscopic nucleus",
-    "traditional_chinese": "吸濕凝結核",
-    "definition_cht": "能吸附水汽並促使水滴在未達純水飽和條件下成長的微粒，是雲滴形成的重要凝結核類型。",
+    "traditional_chinese": "吸濕性凝結核",
+    "definition_cht": "能有效吸附水汽並促使水滴在未達純水平衡飽和條件下形成或成長的微粒，如海鹽或可溶性粒子；屬雲凝結核的重要類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygroscopic_nucleus"
   },
   {
     "english": "hygroscopic water",
     "traditional_chinese": "吸濕水",
-    "definition_cht": "指與「吸濕水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "指緊密吸附於土壤或顆粒表面的水分，主要以極薄水膜形式存在，受分子作用力束縛甚強，不易排出，也通常不為植物根系所利用。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygroscopic_water"
   },
   {
     "english": "hygroscopicity",
     "traditional_chinese": "吸濕性",
-    "definition_cht": "指與「吸濕性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "物質自周圍空氣吸附或吸收水分的能力或傾向；在氣膠與雲微物理中，此性質會影響粒徑成長、散射特性與凝結成雲能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygroscopicity"
   },
   {
     "english": "hygrothermogram",
-    "traditional_chinese": "溫濕圖",
-    "definition_cht": "指與「溫濕圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "溫濕記錄圖",
+    "definition_cht": "由溫濕度自記器所產生、用以同時顯示溫度與濕度隨時間變化的記錄圖；常用於觀察室內環境或氣象要素的日變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrothermogram"
   },
   {
     "english": "hygrothermograph",
     "traditional_chinese": "溫濕度自記器",
-    "definition_cht": "以圖形方式呈現「溫濕度自記器」相關量值變化、對應關係或分類結果的圖表。",
+    "definition_cht": "可同時量測並連續記錄氣溫與濕度隨時間變化的自記式儀器，通常將兩者繪製在同一記錄紙或圖表上。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrothermograph"
   },
   {
     "english": "hygrothermometer",
-    "traditional_chinese": "濕度計",
-    "definition_cht": "用於量測「濕度計」相關物理量的儀器、計量設備或感測裝置。",
+    "traditional_chinese": "溫濕度計",
+    "definition_cht": "可同時量測溫度與濕度的儀器，常見於環境監測、倉儲、農業與氣象觀測；現代型式多為電子式溫濕度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrothermometer"
   },
   {
     "english": "hyperbolic point",
     "traditional_chinese": "雙曲點",
-    "definition_cht": "指與「雙曲點」相關的特徵點、基準點或分析辨識位置，用於描述幾何、光學或動力結構。",
+    "definition_cht": "在天氣圖的氣壓或高度場中，指槽線與脊線相交所形成、流場性質近似鞍點的特徵點；其附近流線呈收斂與發散交錯的雙曲型分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyperbolic_point"
   },
   {
     "english": "hypersonic",
     "traditional_chinese": "高超音速",
-    "definition_cht": "指與「高超音速」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "指速度通常達五倍音速（Mach 5）以上的飛行或流動狀態；此時氣體可壓縮效應、激波加熱與高溫化學反應皆變得特別重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/hypersonic"
   },
   {
     "english": "Hyperspectral Environmental Suite",
     "traditional_chinese": "高光譜環境套件",
-    "definition_cht": "指與「高光譜環境套件」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "原規劃搭載於 GOES-R 系列的高光譜環境遙測酬載，設計目標為提供高光譜紅外探測，以反演大氣溫度、濕度與相關環境場的高時間、高空間解析資訊；後續規劃曾調整或取消。",
     "source_url": "https://glossary.ametsoc.org/wiki/Hyperspectral_Environmental_Suite"
   },
   {
     "english": "hyperspectral sounder",
-    "traditional_chinese": "高光譜探測器",
-    "definition_cht": "指與「高光譜探測器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高光譜探空儀",
+    "definition_cht": "利用大量連續或近連續光譜通道量測大氣輻射的探測儀器，可用於反演大氣垂直溫度、濕度及部分微量氣體分布，是衛星大氣探空的重要感測器。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyperspectral_sounder"
   },
   {
     "english": "hypochlorous acid",
     "traditional_chinese": "次氯酸",
-    "definition_cht": "指與「次氯酸」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "化學式為 HOCl 的弱酸，常由氯溶於水後形成，並可部分解離生成次氯酸根；在水處理、消毒與大氣化學相關反應中皆具重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/hypochlorous_acid"
   },
   {
     "english": "hypolimnion",
     "traditional_chinese": "深水層",
-    "definition_cht": "湖泊分層期間位於溫躍層之下、通常較冷且與表層交換受限的深水層。",
+    "definition_cht": "湖泊或水庫發生熱分層時，位於溫躍層之下的低溫高密度水層；此層與表水交換較弱，常呈低溫、低溶氧且混合不易。",
     "source_url": "https://glossary.ametsoc.org/wiki/hypolimnion"
   },
   {
     "english": "hypothermia",
-    "traditional_chinese": "低體溫症",
-    "definition_cht": "指與「低體溫症」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "失溫（低體溫症）",
+    "definition_cht": "指人體核心體溫異常下降，通常降至 35°C 以下的狀態；在寒冷、強風或潮濕環境中較易發生，屬低溫天氣的重要健康風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/hypothermia"
   },
   {
     "english": "hypsithermal period",
-    "traditional_chinese": "溫暖期",
-    "definition_cht": "指與「溫暖期」相關、以特定時間尺度界定的氣候期、週期或統計時段。",
+    "traditional_chinese": "暖熱期",
+    "definition_cht": "古氣候學中指全新世中期一段被認為較現代偏暖的時期，常與全新世氣候最適期相近；其確切時間與區域表現可因研究地區而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/hypsithermal_period"
   },
   {
     "english": "hypsography",
-    "traditional_chinese": "地勢測量",
-    "definition_cht": "以圖形方式呈現「地勢測量」相關量值變化、對應關係或分類結果的圖表。",
+    "traditional_chinese": "地勢測繪",
+    "definition_cht": "指地表高程與海盆水深分布的測量、描述與統計表示，常用於呈現陸地高度與海底深度隨面積變化的關係，如地勢曲線（hypsographic curve）。",
     "source_url": "https://glossary.ametsoc.org/wiki/hypsography"
   },
   {
