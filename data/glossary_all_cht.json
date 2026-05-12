@@ -24632,121 +24632,121 @@
   {
     "english": "hydrogeological boundary",
     "traditional_chinese": "水文地質邊界",
-    "definition_cht": "指與「水文地質邊界」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "指多孔介質之外部近似界線，其水文地質性質與鄰近介質有顯著差異，可作為地下水流動與交換的邊界。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrogeological_boundary"
   },
   {
     "english": "hydrogeology",
     "traditional_chinese": "水文地質學",
-    "definition_cht": "指與「水文地質學」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "研究地下水之賦存、分布、流動、補注、排泄及其與地質介質交互作用的學科，常與地下水學密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrogeology"
   },
   {
     "english": "hydrograph",
     "traditional_chinese": "水文歷線",
-    "definition_cht": "表示河川流量、水位或其他水文量隨時間變化的曲線，是流域響應分析的重要工具。",
+    "definition_cht": "表示河川流量、水位、流速或其他水文量隨時間變化的曲線，用於分析流域對降雨、融雪或調度操作的響應。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrograph"
   },
   {
     "english": "hydrographic",
-    "traditional_chinese": "水文學的",
-    "definition_cht": "以圖形方式呈現「水文學的」相關量值變化、對應關係或分類結果的圖表。",
+    "traditional_chinese": "水道測量的",
+    "definition_cht": "與水道測量或水域地形測繪有關；通常指對水深、海床或河床地形、岸線及航行障礙物等物理特徵的量測與描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrographic"
   },
   {
     "english": "hydrographical network",
-    "traditional_chinese": "水文地理網絡",
-    "definition_cht": "以圖形方式呈現「水文地理網絡」相關量值變化、對應關係或分類結果的圖表。",
+    "traditional_chinese": "水系網",
+    "definition_cht": "指某一地區內河流與其他常設或暫時性水道、湖泊及水庫所構成的整體水系網絡。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrographical_network"
   },
   {
     "english": "hydrography",
-    "traditional_chinese": "水文學",
-    "definition_cht": "以圖形方式呈現「水文學」相關量值變化、對應關係或分類結果的圖表。",
+    "traditional_chinese": "水道測量學",
+    "definition_cht": "量測並描述海洋、河流、湖泊與沿岸水域物理特徵及其隨時間變化的應用科學，主要服務於航行安全及其他海洋活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrography"
   },
   {
     "english": "hydrologic accounting",
-    "traditional_chinese": "水文核算",
-    "definition_cht": "指與「水文核算」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "水文收支核算",
+    "definition_cht": "對流域、含水層、土層、湖庫等水文單元之流入、流出與儲量變化所作的系統性核算，亦即水量平衡或水收支分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrologic_accounting"
   },
   {
     "english": "hydrologic cycle",
     "traditional_chinese": "水文循環",
-    "definition_cht": "地球系統中水分在蒸發、凝結、降水、入滲、逕流、地下流與蒸散等過程間持續循環的整體機制。",
+    "definition_cht": "地球系統中水分在海洋、陸地與大氣之間，經蒸發、凝結、降水、入滲、逕流、地下流與蒸散等過程持續循環的整體機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrologic_cycle"
   },
   {
     "english": "hydrologic equation",
     "traditional_chinese": "水文方程",
-    "definition_cht": "描述「水文方程」相關物理量之間關係、守恆條件或診斷計算方法的方程式。",
+    "definition_cht": "用以評估水文循環某一系統或區段內水量關係的方程式，通常依流入、流出與儲量變化的連續守恆概念建立。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrologic_equation"
   },
   {
     "english": "hydrologic properties",
-    "traditional_chinese": "水文特性",
-    "definition_cht": "指與「水文特性」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "水文性質",
+    "definition_cht": "指土壤或岩石所具有的一組水力與含水特性，如導水性、滲透性、含水量與壓力水頭，以及這些性質間的關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrologic_properties"
   },
   {
     "english": "hydrologic regime",
-    "traditional_chinese": "水文狀況",
-    "definition_cht": "指與「水文狀況」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "水文情勢",
+    "definition_cht": "指水量平衡各組成在空間與時間上的變化型態，如降水、蒸發、逕流、滲漏與儲量變化的季節性或長期分布特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrologic_regime"
   },
   {
     "english": "hydrologic year",
     "traditional_chinese": "水文年",
-    "definition_cht": "指與「水文年」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "依水文季節循環劃定的一年期間，通常不與曆年完全一致；北半球常以 10 月 1 日至次年 9 月 30 日為一個水文年。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrologic_year"
   },
   {
     "english": "hydrological drought",
     "traditional_chinese": "水文乾旱",
-    "definition_cht": "指與「水文乾旱」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "由長期降水不足所引發、反映於河川流量、湖庫水位、積雪或地下水等地表與地下水供應偏低的乾旱型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrological_drought"
   },
   {
     "english": "hydrological element",
     "traditional_chinese": "水文要素",
-    "definition_cht": "指與「水文要素」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "指水文過程與現象中的個別要項，例如降水、流量、水位等；在水文模式中亦可指具有相近水文性質的區域單元。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrological_element"
   },
   {
     "english": "hydrological forecast",
     "traditional_chinese": "水文預報",
-    "definition_cht": "指以「水文預報」為核心的預報方法、預測產品或其結果。",
+    "definition_cht": "對特定地點與時段之流量、水位、洪峰到達時間、融雪逕流或其他水文狀態所作的預測結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrological_forecast"
   },
   {
     "english": "hydrological forecasting",
-    "traditional_chinese": "水文預報",
-    "definition_cht": "指以「水文預報」為核心的預報方法、預測產品或其結果。",
+    "traditional_chinese": "水文預報作業",
+    "definition_cht": "針對特定地點與時段，生成流量、水位、洪水或其他水文狀態預測的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrological_forecasting"
   },
   {
     "english": "hydrological network",
-    "traditional_chinese": "水文網絡",
-    "definition_cht": "指與「水文網絡」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "水文站網",
+    "definition_cht": "為量測降水、流量、水位、地下水等水文要素在空間與時間上的分布而設置的一組觀測站網。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrological_network"
   },
   {
     "english": "hydrological routing",
-    "traditional_chinese": "水文路線",
-    "definition_cht": "指與「水文路線」相關的水文、水力、流體或水圈過程與性質。",
+    "traditional_chinese": "水文演算",
+    "definition_cht": "以連續方程與蓄水關係為基礎，推算洪水波或流量歷線沿河道、水庫或其他水系傳遞與變形的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrological_routing"
   },
   {
     "english": "hydrological warning",
     "traditional_chinese": "水文警報",
-    "definition_cht": "指與「水文警報」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "針對預期可能造成危害的水文事件所發布的緊急警示資訊，例如洪水、高流量或異常水位警報。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrological_warning"
   },
   {
     "english": "hydrology",
     "traditional_chinese": "水文學",
-    "definition_cht": "指與「水文學」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "研究地球上各種水體之發生、分布、運動、性質及其與環境關係的科學，涵蓋水文循環中的地表水與地下水。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrology"
   },
   {
