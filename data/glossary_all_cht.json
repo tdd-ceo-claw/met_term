@@ -25616,121 +25616,121 @@
   {
     "english": "IFR",
     "traditional_chinese": "儀器飛航規則",
-    "definition_cht": "飛航在能見度或雲高不足時，依儀器與航管程序而非目視條件進行之飛航規則。",
+    "definition_cht": "航空器在雲、霧、降水或其他目視參考不足情況下，依機載儀表、導航設施與航管程序進行飛航的作業規則。",
     "source_url": "https://glossary.ametsoc.org/wiki/IFR"
   },
   {
     "english": "IFR terminal minimums",
-    "traditional_chinese": "儀器進場最低標準",
-    "definition_cht": "「儀器進場最低標準」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "終端區儀器飛航最低標準",
+    "definition_cht": "機場或終端區在儀器飛航作業時所公告的最低天氣與程序標準，通常包含進場、離場或落地所需的最低能見度、雲高或決定高度等限制。",
     "source_url": "https://glossary.ametsoc.org/wiki/IFR_terminal_minimums"
   },
   {
     "english": "IFR weather",
-    "traditional_chinese": "儀器飛航天氣",
-    "definition_cht": "「儀器飛航天氣」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "儀器飛航天氣條件",
+    "definition_cht": "天氣條件低於目視飛航規則所要求的最低標準，以致航空器必須依儀器飛航規則與相關航管程序運行的天氣狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/IFR_weather"
   },
   {
     "english": "igneous meteor",
-    "traditional_chinese": "igneous meteor",
-    "definition_cht": "「igneous meteor」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "火成流星",
+    "definition_cht": "舊稱因高溫灼亮而呈發光、似火特徵的流星或相關大氣發光現象，著重其熾熱發光的外觀，而非岩石學上的火成作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/igneous_meteor"
   },
   {
     "english": "IGRF",
     "traditional_chinese": "國際地磁參考場",
-    "definition_cht": "描述地球主磁場全球平均分布及其長期變化的國際參考模型。",
+    "definition_cht": "由國際地磁與高空物理學界定期更新的地球主磁場標準數學模型，用以描述全球尺度地磁場分布及其長期世紀變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/IGRF"
   },
   {
     "english": "illuminance",
-    "traditional_chinese": "illuminance",
-    "definition_cht": "單位面積上接受之可見光通量，通常以勒克斯表示。",
+    "traditional_chinese": "照度",
+    "definition_cht": "單位面積上所接收的可見光光通量，用以表示受照面的明亮程度，SI 單位為勒克斯（lux）。",
     "source_url": "https://glossary.ametsoc.org/wiki/illuminance"
   },
   {
     "english": "illumination",
-    "traditional_chinese": "illumination",
-    "definition_cht": "光源對目標或觀測面的照明狀態與光照分布。",
+    "traditional_chinese": "照明",
+    "definition_cht": "光源對物體、地表或觀測面的照射狀態與光分布情形；在遙測與影像判釋中，亦可指場景被光源照亮的條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/illumination"
   },
   {
     "english": "ILS",
     "traditional_chinese": "儀器降落系統",
-    "definition_cht": "協助航空器依地面無線電導引進場與降落的精密導航系統。",
+    "definition_cht": "供航空器於低能見度條件下進場與降落時使用的精密無線電導航系統，可提供跑道中心線方向與下滑道的水平、垂直導引。",
     "source_url": "https://glossary.ametsoc.org/wiki/ILS"
   },
   {
     "english": "image",
     "traditional_chinese": "影像",
-    "definition_cht": "由觀測、攝影、雷達或衛星感測所形成之空間分布圖像，用以呈現目標輻射、反射或回波特徵。",
+    "definition_cht": "由光學、攝影、雷達、衛星或其他感測系統形成的二維圖像，用以表現目標、地表或大氣現象在空間上的分布特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/image"
   },
   {
     "english": "image enhancement",
-    "traditional_chinese": "影像 enhancement",
-    "definition_cht": "透過對比增強、濾波、色階轉換等方式提升圖像可辨識度的處理。",
+    "traditional_chinese": "影像增強",
+    "definition_cht": "利用對比拉伸、濾波、色階轉換或銳化等方法，提高影像中特徵、邊界或紋理可辨識度的處理程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/image_enhancement"
   },
   {
     "english": "image processing",
     "traditional_chinese": "影像處理",
-    "definition_cht": "對數位影像進行校正、濾波、分類、特徵萃取與顯示轉換的技術流程。",
+    "definition_cht": "對數位影像進行校正、增強、壓縮、分類、特徵萃取與重建等運算處理的技術總稱，廣用於遙測與氣象影像分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/image_processing"
   },
   {
     "english": "imbibition",
-    "traditional_chinese": "imbibition",
-    "definition_cht": "多孔介質因毛細作用而吸入液體的過程。",
+    "traditional_chinese": "吸液作用",
+    "definition_cht": "液體因毛細力或基質勢作用而被多孔介質、膠體或乾燥材料吸入並滲入其內部的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/imbibition"
   },
   {
     "english": "immiscible displacement",
-    "traditional_chinese": "immiscible displacement",
-    "definition_cht": "在多孔介質中，一種與原流體不互溶的流體將其推替的過程。",
+    "traditional_chinese": "不互溶驅替",
+    "definition_cht": "在多孔介質中，以一種與原有流體互不相溶的流體將其推移或置換的過程，常見於地下水、水文地質與油藏流動分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/immiscible_displacement"
   },
   {
     "english": "impactor",
-    "traditional_chinese": "impactor",
-    "definition_cht": "利用顆粒慣性撞擊原理分離或收集氣膠粒子的取樣裝置。",
+    "traditional_chinese": "撞擊式採樣器",
+    "definition_cht": "利用粒子慣性撞擊原理，使氣膠顆粒自氣流中偏離並沉積於收集面的取樣或分徑裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/impactor"
   },
   {
     "english": "impinger",
-    "traditional_chinese": "impinger",
-    "definition_cht": "藉由氣流通過液體並使粒子或氣體被捕集的取樣器。",
+    "traditional_chinese": "衝擊吸收瓶",
+    "definition_cht": "將含粒子或氣體的氣流導入液體吸收介質中，以捕集污染物或氣膠成分的採樣裝置，常用於空氣品質與職業衛生監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/impinger"
   },
   {
     "english": "implicit time difference",
-    "traditional_chinese": "implicit time difference",
-    "definition_cht": "數值方法中使用未來時間層未知量建立差分式的時間離散法，通常較具穩定性。",
+    "traditional_chinese": "隱式時間差分",
+    "definition_cht": "時間離散時在差分方程中包含未來時間層未知量的數值格式，通常穩定性較佳，但每一步常需聯立求解。",
     "source_url": "https://glossary.ametsoc.org/wiki/implicit_time_difference"
   },
   {
     "english": "Improved TIROS Operational System",
     "traditional_chinese": "改良型 TIROS 作業系統",
-    "definition_cht": "早期氣象衛星作業系統之一，承接 TIROS 計畫並提升全球雲圖與環境觀測能力。",
+    "definition_cht": "美國早期極軌氣象衛星作業系統，為 TIROS/ESSA 系列後續改良架構，用以提供更穩定的全球雲圖與環境觀測資料；常縮寫為 ITOS。",
     "source_url": "https://glossary.ametsoc.org/wiki/Improved_TIROS_Operational_System"
   },
   {
     "english": "IN counter",
     "traditional_chinese": "冰核計數器",
-    "definition_cht": "用於統計空氣中活化冰核數目之儀器。",
+    "definition_cht": "用於量測空氣中可活化冰核數量或濃度的儀器，藉控制冷卻與過飽和條件，統計能促使冰晶形成的粒子數。",
     "source_url": "https://glossary.ametsoc.org/wiki/IN_counter"
   },
   {
     "english": "inaccuracy",
-    "traditional_chinese": "inaccuracy",
-    "definition_cht": "「inaccuracy」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "不準確度",
+    "definition_cht": "量測值、估計值或描述結果偏離真值、基準值或正確狀態的程度，為精確性不足或含有誤差的統稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/inaccuracy"
   },
   {
     "english": "inactive front",
-    "traditional_chinese": "inactive 鋒",
-    "definition_cht": "指與「inactive 鋒」相關的鋒面、鋒區或其空間邊界結構，常用於描述不同氣團之間的過渡帶。",
+    "traditional_chinese": "不活躍鋒面",
+    "definition_cht": "鋒面性質雖仍存在，但溫度梯度、垂直運動、雲雨或天氣變化均較弱，因而天氣活動不明顯的鋒面。",
     "source_url": "https://glossary.ametsoc.org/wiki/inactive_front"
   },
   {
