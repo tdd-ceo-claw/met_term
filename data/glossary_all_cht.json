@@ -19952,7 +19952,7 @@
   {
     "english": "forward scattering spectrometer probe",
     "traditional_chinese": "前向散射光譜探針",
-    "definition_cht": "利用粒子對雷射光之前向散射訊號推估雲滴或氣膠粒徑分布的機載或地面探測儀器，常用於雲物理與微物理觀測。",
+    "definition_cht": "一種以粒子對雷射光之前向散射強度推估雲滴或氣膠粒徑與濃度的光學粒子計數儀，常搭載於飛機雲物理探測平台；屬雲與降水微物理觀測常用儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/forward_scattering_spectrometer_probe"
   },
   {
@@ -19970,13 +19970,13 @@
   {
     "english": "fossil ice",
     "traditional_chinese": "化石冰",
-    "definition_cht": "在現今氣候條件下已不再形成、但自過去寒冷時期殘留保存至今的古老冰體或地下冰。",
+    "definition_cht": "指保存在永久凍土區、洞穴或其他低溫環境中、並非當前季節新形成而是自前一年或更早寒冷時期殘留至今的古老冰體或地下冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/fossil_ice"
   },
   {
     "english": "fossil water",
     "traditional_chinese": "化石水",
-    "definition_cht": "於數千年至更久以前在不同氣候條件下滲入並長期封存於含水層中的古地下水，補注速率通常極低。",
+    "definition_cht": "指在較早地質或氣候時期進入岩層、沉積物或含水層並長期封存至今的古老水體；其補注極慢，常可視為古地下水或地層保存水。",
     "source_url": "https://glossary.ametsoc.org/wiki/fossil_water"
   },
   {
@@ -20023,8 +20023,8 @@
   },
   {
     "english": "FOV",
-    "traditional_chinese": "視場",
-    "definition_cht": "field of view 的縮寫，指感測器、雷達、相機或觀測系統在一次觀測中可涵蓋的角度或空間範圍。",
+    "traditional_chinese": "視場；視野範圍",
+    "definition_cht": "field of view 的縮寫，指感測器、雷達、相機或觀測系統在一次觀測中可涵蓋的角度或空間範圍；在遙測中亦常用來描述儀器可觀測之地表或大氣區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/FOV"
   },
   {
@@ -20036,19 +20036,19 @@
   {
     "english": "fowan",
     "traditional_chinese": "焚風",
-    "definition_cht": "義大利語 foehn 的異寫，指氣流越過山脈後在背風側下沉增溫、變得乾暖的局地風。",
+    "definition_cht": "義大利地區對焚風型局地下坡暖乾風的風名之一，指氣流越過山脈後在背風側下沉增溫、變得乾暖，常伴隨陣風增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/fowan"
   },
   {
     "english": "foyer",
     "traditional_chinese": "焚風型暖風",
-    "definition_cht": "法語中可指類似 foehn 的乾暖下坡風，用於描述受地形下沉增溫影響的局地暖風。",
+    "definition_cht": "法語中用於指稱類似焚風的局地下坡暖乾風，描述氣流越過山地後於背風側下沉增溫、濕度降低所形成的暖風。",
     "source_url": "https://glossary.ametsoc.org/wiki/foyer"
   },
   {
     "english": "FPP scale",
-    "traditional_chinese": "FPP 量表",
-    "definition_cht": "用於雲滴或降水粒子譜探測結果判釋的經驗分級或尺度名稱；現代公開資料使用較少，屬較罕用術語。",
+    "traditional_chinese": "藤田－皮爾森量表",
+    "definition_cht": "Fujita-Pearson scale 的縮寫，為依龍捲風對建築物與植被造成之破壞程度來分級其強度的量表，是原藤田量表的延伸用法之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/FPP_scale"
   },
   {
@@ -20065,8 +20065,8 @@
   },
   {
     "english": "fractocumulus",
-    "traditional_chinese": "碎積雲",
-    "definition_cht": "呈破碎片段、外觀參差的積雲，常由較大積雲或層積雲破裂而成，屬低雲的一種碎雲型態。",
+    "traditional_chinese": "碎積雲（舊稱）",
+    "definition_cht": "舊式雲類名稱，指破碎、參差且呈片段狀的積雲，現多歸入 fractus 或 cumulus fractus 的描述，不再作為正式獨立雲名使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/fractocumulus"
   },
   {
