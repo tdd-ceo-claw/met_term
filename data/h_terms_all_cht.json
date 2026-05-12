@@ -661,122 +661,122 @@
   },
   {
     "english": "Henyey–Greenstein phase function",
-    "traditional_chinese": "Henyey-Greenstein 相函數",
-    "definition_cht": "描述「Henyey-Greenstein 相函數」相關變數關係、響應特性或分布型態的函數表述。",
+    "traditional_chinese": "Henyey–Greenstein 相函數",
+    "definition_cht": "描述粒子散射光角分布的經驗相函數，常用於輻射傳輸、大氣光學與遙測模擬；其不對稱參數 g 可表徵前向散射或後向散射的強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Henyey%E2%80%93Greenstein_phase_function"
   },
   {
     "english": "hertz",
     "traditional_chinese": "赫茲",
-    "definition_cht": "指與「赫茲」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "國際單位制中的頻率單位，符號為 Hz，表示每秒發生一次週期事件；在雷達、無線電通訊、聲學與各類氣象遙測系統中廣泛用於表示電磁波或訊號頻率。",
     "source_url": "https://glossary.ametsoc.org/wiki/hertz"
   },
   {
     "english": "Herzberg continuum",
-    "traditional_chinese": "赫茨伯格連續體",
-    "definition_cht": "指與「赫茨伯格連續體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "赫茨伯格連續吸收帶",
+    "definition_cht": "分子氧在紫外波段的一段連續吸收區，約位於 200–242 nm，對高層大氣中的光化學反應與氧、臭氧生成與分解過程具有重要作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Herzberg_continuum"
   },
   {
     "english": "HES",
-    "traditional_chinese": "HES",
-    "definition_cht": "「HES」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "高光譜環境觀測套件",
+    "definition_cht": "Hyperspectral Environmental Suite 的縮寫，指原規劃用於新一代地球同步氣象衛星的高光譜環境遙測儀器套件，主要設想提供高光譜紅外探測資料，以改進溫濕度垂直結構與大氣環境分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/HES"
   },
   {
     "english": "heterodyne",
     "traditional_chinese": "外差",
-    "definition_cht": "指與「外差」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "將接收訊號與本地振盪訊號在非線性元件中混頻，以產生和頻與差頻成分的技術；常用於雷達、無線電接收機、都卜勒量測與雷射遙測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/heterodyne"
   },
   {
     "english": "heterogeneous chemistry",
     "traditional_chinese": "異相化學",
-    "definition_cht": "指與「異相化學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "發生於不同相之間界面或粒子表面的化學反應，例如氣體與氣膠、雲滴或冰晶表面的反應；在平流層臭氧消耗與大氣氧化化學中相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/heterogeneous_chemistry"
   },
   {
     "english": "heterogeneous fluid",
-    "traditional_chinese": "異質流體",
-    "definition_cht": "指與「異質流體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "非均質流體",
+    "definition_cht": "在組成、密度、溫度、含粒子量或相態上並非處處均一的流體；大氣中含雲滴、冰晶、氣膠或多種氣體成分的流場常可視為非均質流體。",
     "source_url": "https://glossary.ametsoc.org/wiki/heterogeneous_fluid"
   },
   {
     "english": "heterosphere",
     "traditional_chinese": "異質層",
-    "definition_cht": "高層大氣中各氣體成分因分子擴散而依分子量分層分布的區域，位於均質層之上。",
+    "definition_cht": "位於均質層之上的高層大氣區域，其中各氣體成分受分子擴散影響，會依分子量而呈分層分布，愈高處愈以較輕氣體占優勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/heterosphere"
   },
   {
     "english": "heuristic",
-    "traditional_chinese": "啟發式的",
-    "definition_cht": "指與「啟發式的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "啟發式",
+    "definition_cht": "指依經驗法則、近似判斷或實用策略來求得可接受解答的方法或程序；在數值模式、資料探勘、最佳化與人工智慧中，常用以降低計算成本或加速搜尋。",
     "source_url": "https://glossary.ametsoc.org/wiki/heuristic"
   },
   {
     "english": "Hevel's halo",
     "traditional_chinese": "赫維爾光環",
-    "definition_cht": "指與「赫維爾光環」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "氣象光學文獻中的歷史性暈象名稱，通常指由高空六角冰晶折射或反射日光、月光而形成的光環現象；現代文獻較少單獨使用此名稱，多歸入一般暈象分類討論。",
     "source_url": "https://glossary.ametsoc.org/wiki/Hevel%27s_halo"
   },
   {
     "english": "hexagonal column",
-    "traditional_chinese": "六角柱",
-    "definition_cht": "指與「六角柱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "六角柱狀冰晶",
+    "definition_cht": "具有六角柱幾何外形的冰晶，是形成 22° 暈、日柱及若干弧狀暈象的重要冰晶形態之一；其取向與尺寸會影響光學現象的外觀。",
     "source_url": "https://glossary.ametsoc.org/wiki/hexagonal_column"
   },
   {
     "english": "hexagonal platelet",
-    "traditional_chinese": "六方片狀體",
-    "definition_cht": "指與「六方片狀體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "六角板狀冰晶",
+    "definition_cht": "呈六角薄板狀的冰晶，常在高雲中出現；當其取向較整齊時，可形成幻日、上切弧等多種大氣光學現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/hexagonal_platelet"
   },
   {
     "english": "HF",
     "traditional_chinese": "高頻",
-    "definition_cht": "「HF」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "definition_cht": "high frequency 的縮寫，指頻率介於 3 至 30 MHz 的無線電波段；在高頻雷達、電離層傳播、遠距通訊及部分海洋與大氣遙測應用中相當常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/HF"
   },
   {
     "english": "HFCs",
     "traditional_chinese": "氫氟碳化合物",
-    "definition_cht": "指與「氫氟碳化合物」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "hydrofluorocarbons 的縮寫，為含氫、氟與碳的人工有機化合物族群，常用作冷媒、發泡劑或清洗劑；雖不直接破壞臭氧層，但多屬強效溫室氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/HFCs"
   },
   {
     "english": "hi-reference signal",
     "traditional_chinese": "高參考訊號",
-    "definition_cht": "指與「高參考訊號」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "在電子、遙測或顯示系統中作為高電平、高亮度或高振幅基準的校正訊號，用以協助判定訊號尺度、增益設定或顯示對比。",
     "source_url": "https://glossary.ametsoc.org/wiki/hi-reference_signal"
   },
   {
     "english": "hibernal",
-    "traditional_chinese": "冬眠的",
-    "definition_cht": "指與「冬眠的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "冬季的",
+    "definition_cht": "形容與冬季有關或發生於冬季的；在氣候、物候與環境描述中，可用來指冬季性現象、循環或生態特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/hibernal"
   },
   {
     "english": "hidden layer",
     "traditional_chinese": "隱藏層",
-    "definition_cht": "指與「隱藏層」相關的大氣、海洋或湖泊層結構，通常依熱力、密度、鹽度或動力特徵加以區分。",
+    "definition_cht": "人工神經網路中位於輸入層與輸出層之間的中介層，負責將輸入特徵轉換為較高階的內部表徵；近年在氣象預報、影像判識與資料同化相關機器學習應用中相當常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/hidden_layer"
   },
   {
     "english": "HIFOR",
-    "traditional_chinese": "海福爾",
-    "definition_cht": "「HIFOR」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "高空預報",
+    "definition_cht": "high-level forecast 的縮寫，指供航空作業使用的高空層天氣預報，內容通常包括高空風、溫度、雲、亂流、結冰或其他影響飛航的天氣資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/HIFOR"
   },
   {
     "english": "hig",
-    "traditional_chinese": "高",
-    "definition_cht": "指與「高」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高（high 的異體）",
+    "definition_cht": "多視為 high 的異體拼寫、縮略寫法或索引變體；在氣象語境中通常仍指高壓中心、高壓區或其他與 high 相同的概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/hig"
   },
   {
     "english": "high",
-    "traditional_chinese": "高壓",
-    "definition_cht": "指與「高壓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高壓；高壓區",
+    "definition_cht": "指氣壓高於周圍地區的區域或其中心，在地面天氣圖上常表現為閉合等壓線包圍的高壓系統；通常伴隨下沉運動，常與較穩定、少雲的天氣條件有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/high"
   },
   {
