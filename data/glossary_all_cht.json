@@ -25975,122 +25975,122 @@
   },
   {
     "english": "induced recharge",
-    "traditional_chinese": "induced recharge",
-    "definition_cht": "「induced recharge」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "誘發補注",
+    "definition_cht": "因抽水或鄰近水力條件改變，促使地表水或周圍含水層之水額外流入目標含水層的地下水補注作用，常見於河岸過濾或人工補注情境。",
     "source_url": "https://glossary.ametsoc.org/wiki/induced_recharge"
   },
   {
     "english": "induction",
-    "traditional_chinese": "感應",
-    "definition_cht": "指與「感應」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "歸納",
+    "definition_cht": "由若干個別觀察、事例或資料推論出一般性規律或結論的推理方法；屬經驗性推論，結論不具嚴格演繹必然性。",
     "source_url": "https://glossary.ametsoc.org/wiki/induction"
   },
   {
     "english": "induction charging mechanism",
-    "traditional_chinese": "感應 charging mechanism",
-    "definition_cht": "粒子在外加電場或鄰近帶電體影響下產生電荷分離並帶電的機制。",
+    "traditional_chinese": "感應起電機制",
+    "definition_cht": "在外加電場或鄰近帶電體影響下，使粒子表面電荷重新分布，並在接觸、分離或碰撞後獲得淨電荷的帶電機制；常用於雲與降水粒子電化研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/induction_charging_mechanism"
   },
   {
     "english": "induction icing",
-    "traditional_chinese": "感應積冰",
-    "definition_cht": "因進氣或導流結構使過冷水滴易於撞擊並凍結而形成的結冰。",
+    "traditional_chinese": "進氣系統積冰",
+    "definition_cht": "飛機進氣系統內部或入口處因過冷水滴凍結、汽化冷卻或節流降溫而形成的積冰，會限制進氣並降低發動機性能。",
     "source_url": "https://glossary.ametsoc.org/wiki/induction_icing"
   },
   {
     "english": "industrial climatology",
-    "traditional_chinese": "工業 climatology",
-    "definition_cht": "研究氣候條件對工業設施、流程、能源需求與作業管理影響的應用氣候學分支。",
+    "traditional_chinese": "工業氣候學",
+    "definition_cht": "應用氣候學的一支，研究氣候條件及其長期統計特徵對工業選址、設施設計、能源需求、生產流程與作業管理之影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/industrial_climatology"
   },
   {
     "english": "industrial meteorology",
-    "traditional_chinese": "工業 meteorology",
-    "definition_cht": "將氣象資料與預報應用於工業安全、生產調度、污染擴散及能源管理的專業領域。",
+    "traditional_chinese": "工業氣象學",
+    "definition_cht": "將氣象觀測、分析與預報應用於工業、商業與作業決策的領域，例如污染擴散評估、能源調度、安全管理與生產規劃。",
     "source_url": "https://glossary.ametsoc.org/wiki/industrial_meteorology"
   },
   {
     "english": "inert gases",
-    "traditional_chinese": "inert gases",
-    "definition_cht": "「inert gases」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "惰性氣體",
+    "definition_cht": "通常指在一般條件下化學反應性很低、不易與其他物質作用的氣體；常包含稀有氣體，也可依使用情境泛指作為保護或示蹤用途的低反應性氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/inert_gases"
   },
   {
     "english": "inertia wave",
     "traditional_chinese": "慣性波",
-    "definition_cht": "受慣性力主導、振動頻率接近科氏參數的波動。",
+    "definition_cht": "旋轉流體中以科氏力或流體繞轉軸之慣性回復作用為主要控制機制的波動；廣義上可指不涉及位能交換、主要表現為動能振盪的波動。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertia_wave"
   },
   {
     "english": "inertial circle",
-    "traditional_chinese": "慣性 circle",
-    "definition_cht": "在無壓力梯度與無摩擦近似下，流體質點因科氏力而作之圓形運動軌跡。",
+    "traditional_chinese": "慣性圓",
+    "definition_cht": "在無壓力梯度且近似無摩擦條件下，流體質點於水平面上僅受科氏力與離心效應平衡而形成的圓形運動軌跡。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_circle"
   },
   {
     "english": "inertial coordinate system",
-    "traditional_chinese": "慣性座標系統",
-    "definition_cht": "「慣性座標系統」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "慣性座標系",
+    "definition_cht": "在其中未受合力作用的物體保持靜止或等速直線運動的座標系；只有在此類參考系中，牛頓運動定律可直接成立。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_coordinate_system"
   },
   {
     "english": "inertial current",
     "traditional_chinese": "慣性流",
-    "definition_cht": "主要受地轉偏向力與慣性作用控制的海流或流速振盪。",
+    "definition_cht": "運動方程中以慣性項與科氏力項為主要平衡的流動或海流，因此流線會在北半球向右、南半球向左彎曲。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_current"
   },
   {
     "english": "inertial flow",
     "traditional_chinese": "慣性流動",
-    "definition_cht": "以慣性效應為主導、外力影響相對較小的流動。",
+    "definition_cht": "無外力作用時的流動；在氣象上通常指等位勢面上無摩擦且無壓力梯度的流動，其離心加速度與科氏加速度互相平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_flow"
   },
   {
     "english": "inertial force",
-    "traditional_chinese": "慣性 force",
-    "definition_cht": "在非慣性參考系中為維持牛頓運動定律形式而引入的表觀力。",
+    "traditional_chinese": "慣性力",
+    "definition_cht": "在非慣性參考系中為了維持牛頓第二定律形式而引入的表觀力或虛力，例如離心力與科氏力。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_force"
   },
   {
     "english": "inertial forecast",
     "traditional_chinese": "慣性預報",
-    "definition_cht": "「慣性預報」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "假設目前天氣狀態及各氣象要素在整個預報時段內維持不變所作的預報，即持續性預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_forecast"
   },
   {
     "english": "inertial instability",
     "traditional_chinese": "慣性不穩定",
-    "definition_cht": "流體受擾動後若角動量分布不穩定而使擾動增長的動力不穩定。",
+    "definition_cht": "當流體的絕對角動量或相關動量分布隨橫向位移呈不穩定配置時，受擾動的氣塊會持續偏離原位並放大，屬一種水平動力不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_instability"
   },
   {
     "english": "inertial lag",
-    "traditional_chinese": "慣性 lag",
-    "definition_cht": "「慣性 lag」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "慣性遲滯",
+    "definition_cht": "流動對所受外力或力平衡改變之反應存在時間延遲的現象，原因在於流體本身慣性使其無法即刻調整。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_lag"
   },
   {
     "english": "inertial oscillation",
-    "traditional_chinese": "慣性 oscillation",
-    "definition_cht": "在近乎無摩擦且無顯著壓力梯度下，由科氏力控制的週期性速度振盪。",
+    "traditional_chinese": "慣性振盪",
+    "definition_cht": "在近似無摩擦且無顯著壓力梯度下，流體質點因科氏力作用而作等速圓形或近圓形的週期性水平運動；北半球速度向量隨時間向右轉，南半球則向左轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_oscillation"
   },
   {
     "english": "inertial period",
     "traditional_chinese": "慣性週期",
-    "definition_cht": "慣性振盪完成一個週期所需的時間，與所在地緯度及科氏參數有關。",
+    "definition_cht": "慣性振盪完成一周所需時間，等於慣性頻率的倒數；在地球上可寫為 2π/f，並隨緯度而變。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_period"
   },
   {
     "english": "inertial range",
-    "traditional_chinese": "慣性 range",
-    "definition_cht": "湍流能譜中能量主要由大尺度傳向小尺度、但尚未被黏滯耗散主導的尺度範圍。",
+    "traditional_chinese": "慣性次範圍",
+    "definition_cht": "湍流尺度譜中，能量由大尺度向小尺度級聯傳遞而分子黏滯耗散仍可忽略的尺度範圍，又稱慣性子區。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_range"
   },
   {
     "english": "inertial reference frame",
-    "traditional_chinese": "慣性 reference frame",
-    "definition_cht": "「慣性 reference frame」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "慣性參考系",
+    "definition_cht": "在牛頓力學中，若質點未受合力作用時相對於該參考系不會加速、而保持靜止或等速直線運動，則此參考系稱為慣性參考系。",
     "source_url": "https://glossary.ametsoc.org/wiki/inertial_reference_frame"
   },
   {
