@@ -2042,7 +2042,7 @@
   {
     "english": "friagem",
     "traditional_chinese": "寒潮南侵",
-    "definition_cht": "指南半球冬季冷空氣自南向北侵入亞馬遜盆地及玻利維亞東部等熱帶地區所造成的短期明顯降溫現象，亦常伴隨風向與濕度變化。",
+    "definition_cht": "指南半球冬季極地冷空氣自南向北侵入亞馬遜盆地、玻利維亞東部等熱帶地區所造成的短期明顯降溫現象，常伴隨風向、雲量與濕度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/friagem"
   },
   {
@@ -2060,7 +2060,7 @@
   {
     "english": "friction layer",
     "traditional_chinese": "摩擦層",
-    "definition_cht": "受地表摩擦顯著影響的大氣下層，通常約自地表延伸至約 1 公里高度，風速與風向會在此層內明顯隨高度改變；常視為行星邊界層。",
+    "definition_cht": "指大氣中受地表摩擦顯著影響的近地層，通常約自地表延伸至 1 公里左右；其內風速與風向會明顯隨高度改變，通常視為行星邊界層的主要部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/friction_layer"
   },
   {
@@ -2072,7 +2072,7 @@
   {
     "english": "friction velocity",
     "traditional_chinese": "摩擦速度",
-    "definition_cht": "由表面或邊界剪應力換算得到的特徵速度尺度，常記為 u*，亦稱剪應速度，用於表徵近地層動量交換與湍流強度。",
+    "definition_cht": "由表面或邊界剪應力換算而得的特徵速度尺度，常記為 u*，亦稱剪應速度，可用於表徵近地層動量交換、紊流強度與邊界層傳輸能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/friction_velocity"
   },
   {
@@ -2113,14 +2113,14 @@
   },
   {
     "english": "friendly ice",
-    "traditional_chinese": "易通航冰況",
-    "definition_cht": "對船舶航行阻礙較小、較易穿越的海冰狀態，通常指冰層較薄、分散度較高或活動性較大的冰況。",
+    "traditional_chinese": "易航冰況",
+    "definition_cht": "對船舶航行阻礙較小、相對容易穿越的海冰狀態，通常指冰層較薄、覆蓋較鬆散或活動性較大的冰況。",
     "source_url": "https://glossary.ametsoc.org/wiki/friendly_ice"
   },
   {
     "english": "Frigid zone",
     "traditional_chinese": "寒帶",
-    "definition_cht": "地理上指位於北極圈與南極圈以內的高緯度地帶，全年太陽高度低、熱量收支偏少，為極地與寒冷氣候特徵最明顯的區域。",
+    "definition_cht": "地理上指北極圈以北與南極圈以南的兩個高緯度地帶；全年太陽高度低、獲得日照熱量少，為極地寒冷氣候最明顯的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/Frigid_zone"
   },
   {
@@ -2144,13 +2144,13 @@
   {
     "english": "front",
     "traditional_chinese": "鋒面",
-    "definition_cht": "性質不同的兩個氣團之間所形成的邊界或過渡帶，常伴隨明顯的溫度、濕度、風向與天氣變化。",
+    "definition_cht": "指性質不同的兩個氣團之間所形成的邊界或過渡帶，常伴隨明顯的溫度、濕度、風向與天氣變化，並常是雲系與降水發展的重要區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/front"
   },
   {
     "english": "frontal analysis",
     "traditional_chinese": "鋒面分析",
-    "definition_cht": "依據地面與高空觀測資料研判鋒面的位置、性質與結構之分析作業，是綜觀天氣診斷的重要內容。",
+    "definition_cht": "依據地面與高空觀測資料，研判鋒面位置、性質、延伸方向與結構的分析作業，為綜觀天氣診斷與預報的重要內容。",
     "source_url": "https://glossary.ametsoc.org/wiki/frontal_analysis"
   },
   {
