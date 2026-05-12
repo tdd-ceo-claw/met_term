@@ -23912,121 +23912,121 @@
   {
     "english": "high arctic climate",
     "traditional_chinese": "高北極氣候",
-    "definition_cht": "指「高北極氣候」所代表之區域或類型氣候特徵，通常由溫度、降水與地形條件共同界定。",
+    "definition_cht": "指北極最北部地區極端寒冷、乾燥且夏季極短的氣候型；暖季氣溫低、降水稀少，多年凍土普遍發育，植被通常十分稀疏。",
     "source_url": "https://glossary.ametsoc.org/wiki/high_arctic_climate"
   },
   {
     "english": "high foehn",
-    "traditional_chinese": "高焚風",
-    "definition_cht": "指與「高焚風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高位焚風",
+    "definition_cht": "指焚風暖乾氣流主要出現在山區中高海拔、而未必下達谷底的情形；常見於背風坡上方，並可能與山波或逆溫結構有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/high_foehn"
   },
   {
     "english": "high fog",
     "traditional_chinese": "高位霧",
-    "definition_cht": "指與「高位霧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "霧層底部離地而不直接貼地的霧，常呈低層層雲或抬升後的霧層狀態；地面觀測者可見其下方仍保有部分水平能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/high_fog"
   },
   {
     "english": "high frequency",
     "traditional_chinese": "高頻",
-    "definition_cht": "指與「高頻」相關的頻率特性、振盪速率或波動尺度指標。",
+    "definition_cht": "在無線電與電磁波分類中，通常指 3 至 30 MHz 的頻帶；廣義上亦可指頻率較高、週期較短的振盪或波動成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/high_frequency"
   },
   {
     "english": "high index",
-    "traditional_chinese": "高指數",
-    "definition_cht": "用於量化「高指數」相關狀態、程度、異常幅度或風險的指標。",
+    "traditional_chinese": "高指數型環流",
+    "definition_cht": "指中高緯西風環流偏強、流場較為平直且緯向輸送占優勢的大尺度環流型態，通常與較弱的南北向波動及較快的天氣系統移動有關；與低指數型相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/high_index"
   },
   {
     "english": "high polar glacier",
     "traditional_chinese": "高極冰川",
-    "definition_cht": "指與「高極冰川」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "位於高緯極區、全年消融極弱且冰溫長期低於冰點的冰川；其表面融水少，冰體多呈冷冰性質，常見於北極群島與南極周邊。",
     "source_url": "https://glossary.ametsoc.org/wiki/high_polar_glacier"
   },
   {
     "english": "High Resolution Infrared Radiation Sounder",
-    "traditional_chinese": "高解析度紅外線輻射偵測器",
-    "definition_cht": "指與「高解析度紅外線輻射偵測器」相關的輻射收支、能量傳輸或電磁傳播效應。",
+    "traditional_chinese": "高解析度紅外線輻射探空儀",
+    "definition_cht": "通常縮寫為 HIRS，為搭載於極軌氣象衛星上的紅外線探空輻射儀，利用多個光譜通道反演大氣溫度、濕度、臭氧及雲頂等資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/High_Resolution_Infrared_Radiation_Sounder"
   },
   {
     "english": "High Resolution Picture Transmission",
-    "traditional_chinese": "高解析度圖傳",
-    "definition_cht": "指與「高解析度圖傳」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高解析度圖像傳輸",
+    "definition_cht": "通常縮寫為 HRPT，指極軌氣象衛星將高解析度即時觀測資料直接下傳至地面站的傳輸系統，常用於接收 AVHRR 等儀器影像。",
     "source_url": "https://glossary.ametsoc.org/wiki/High_Resolution_Picture_Transmission"
   },
   {
     "english": "High tide flooding",
-    "traditional_chinese": "漲潮洪水氾濫",
-    "definition_cht": "指與「漲潮洪水氾濫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高潮位淹水",
+    "definition_cht": "在未必伴隨劇烈風暴的情況下，僅因天文潮偏高、海平面上升或局部氣象增水而使沿岸低窪地區發生的輕度至中度淹水，亦常稱為滋擾性淹水。",
     "source_url": "https://glossary.ametsoc.org/wiki/High_tide_flooding"
   },
   {
     "english": "high water",
-    "traditional_chinese": "高水位",
-    "definition_cht": "指與「高水位」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "高水位；高潮位",
+    "definition_cht": "可指河川、湖泊或其他水體在某一時刻或事件中的較高水位；在潮汐語境中，亦指潮位上升至最高點的高潮時刻或其對應水位。",
     "source_url": "https://glossary.ametsoc.org/wiki/high_water"
   },
   {
     "english": "high-altitude station",
-    "traditional_chinese": "高空站",
-    "definition_cht": "指與「高空站」相關的觀測站、測站設施或資料蒐集位置。",
+    "traditional_chinese": "高海拔測站",
+    "definition_cht": "設於高海拔地區的氣象、空氣品質或背景環境觀測站，用於監測自由大氣、山區氣候及較少受近地面人為干擾的環境條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/high-altitude_station"
   },
   {
     "english": "high-frequency radar",
     "traditional_chinese": "高頻雷達",
-    "definition_cht": "指與「高頻雷達」相關的頻率特性、振盪速率或波動尺度指標。",
+    "definition_cht": "使用高頻（HF）電波的雷達系統；海洋遙測中常利用其與海面重力波的布拉格散射來量測表層海流、波浪與部分沿岸風場資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/high-frequency_radar"
   },
   {
     "english": "high-level thunderstorm",
     "traditional_chinese": "高層雷暴",
-    "definition_cht": "指與「高層雷暴」相關的風暴、擾動系統或劇烈天氣現象。",
+    "definition_cht": "雲底較高、對流主要起始於較高層次的雷暴，常出現在低層乾燥而中層較濕、較不穩定的環境；其降水可在落至地面前部分蒸發，並易伴隨強陣風。",
     "source_url": "https://glossary.ametsoc.org/wiki/high-level_thunderstorm"
   },
   {
     "english": "high-performance liquid chromatography",
     "traditional_chinese": "高效液相層析法",
-    "definition_cht": "以圖形方式呈現「高效液相層析法」相關量值變化、對應關係或分類結果的圖表。",
+    "definition_cht": "通常縮寫為 HPLC，為以高壓推動液態流動相通過固定相柱體、進而分離並定量化學成分的分析技術，常用於大氣氣膠、降水與環境樣品中的有機或離子物種分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/high-performance_liquid_chromatography"
   },
   {
     "english": "high-volume filter",
-    "traditional_chinese": "大容量過濾器",
-    "definition_cht": "用於擷取、保留或抑制「大容量過濾器」相關頻率成分、訊號變化或尺度資訊的濾波方法或裝置。",
+    "traditional_chinese": "大流量濾紙採樣器",
+    "definition_cht": "以較大流量抽取環境空氣，並使懸浮微粒截留於濾材上的採樣裝置；常用於總懸浮微粒或特定粒徑微粒的質量與化學成分分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/high-volume_filter"
   },
   {
     "english": "higher-order closure",
-    "traditional_chinese": "高階閉包",
-    "definition_cht": "指與「高階閉包」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "高階閉合",
+    "definition_cht": "在邊界層與湍流模式中，直接預報二階或更高階統計矩，並以參數化方式閉合更高階未知項的閉合方法，用以更完整描述湍流輸送與非局地效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/higher-order_closure"
   },
   {
     "english": "highest astronomical tide",
-    "traditional_chinese": "最高天文潮",
-    "definition_cht": "指與「最高天文潮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "最高天文潮位",
+    "definition_cht": "在平均氣象條件下，依長期天文潮計算所可能達到的最高預報潮位；不包含風暴潮、氣壓異常或其他氣象增水效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/highest_astronomical_tide"
   },
   {
     "english": "highland ice",
-    "traditional_chinese": "高地冰",
-    "definition_cht": "指與「高地冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "traditional_chinese": "高地冰體",
+    "definition_cht": "覆蓋高地、台地或山地廣闊區域的冰體總稱，常較山谷冰川分布廣，但規模未必達大型冰蓋；可包含冰帽、冰原或高地冰原類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/highland_ice"
   },
   {
     "english": "hill fog",
     "traditional_chinese": "山霧",
-    "definition_cht": "指與「山霧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "潮濕空氣沿山坡抬升後冷卻至飽和而在山區形成的霧，常包覆山丘或稜線；本質上屬地形抬升促成的低雲或霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/hill_fog"
   },
   {
     "english": "Himawari",
-    "traditional_chinese": "向日葵",
-    "definition_cht": "指與「向日葵」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "向日葵衛星",
+    "definition_cht": "日本靜止氣象衛星系列名稱，日文意為「向日葵」；由日本氣象廳運作，用於東亞與西北太平洋的雲圖、颱風、對流、海面與環境監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Himawari"
   },
   {
