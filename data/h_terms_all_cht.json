@@ -301,122 +301,122 @@
   },
   {
     "english": "Hazen method",
-    "traditional_chinese": "哈森法",
-    "definition_cht": "指處理「哈森法」相關問題的分析、估算、分類、反演或推算方法。",
+    "traditional_chinese": "哈曾法",
+    "definition_cht": "水文與頻率分析中採用的一種經驗式繪圖或估算法，常用於將觀測值排序後配置於機率紙上，以利估計超越機率、重現期或分布型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/Hazen_method"
   },
   {
     "english": "Hazen plotting position",
-    "traditional_chinese": "Hazen 繪圖位置",
-    "definition_cht": "指與「Hazen 繪圖位置」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "哈曾繪圖位置",
+    "definition_cht": "水文與極值統計常用的繪圖位置公式，用以將排序樣本對應至累積機率；其常見形式為 P = (2m-1)/(2n)，其中 m 為排序序號、n 為樣本數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Hazen_plotting_position"
   },
   {
     "english": "HCFCs",
-    "traditional_chinese": "氟氯烴",
-    "definition_cht": "指與「氟氯烴」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "氫氯氟碳化物",
+    "definition_cht": "一類含氫、氯、氟的人工鹵代烴，曾廣泛用作冷媒、發泡劑與清洗劑；其臭氧耗損潛勢雖低於 CFCs，但仍會破壞平流層臭氧，並受《蒙特婁議定書》管制淘汰。",
     "source_url": "https://glossary.ametsoc.org/wiki/HCFCs"
   },
   {
     "english": "HCMM Satellite",
     "traditional_chinese": "HCMM 衛星",
-    "definition_cht": "指與「HCMM 衛星」相關的人造衛星、衛星任務或其觀測平台。",
+    "definition_cht": "Heat Capacity Mapping Mission 的縮寫，為 NASA 於 1978 年發射之遙測衛星，用於量測地表熱紅外與可見光資訊，以推估地表熱性質、熱慣量與相關環境特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/HCMM_Satellite"
   },
   {
     "english": "head",
     "traditional_chinese": "水頭",
-    "definition_cht": "指與「水頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "流體力學與水文學中表示單位重量流體所具有位能、壓力能與速度能總和的高度量，常以液柱高度表示，並作為判斷地下水或渠道水流動方向與能量差的基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/head"
   },
   {
     "english": "heading",
-    "traditional_chinese": "標題",
-    "definition_cht": "指與「標題」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "航向",
+    "definition_cht": "船舶或航空器機首所指的方向，通常以真方位、磁方位或羅盤方位表示；其與實際移動方向的差異可由風或流造成，該差值稱為偏流角。",
     "source_url": "https://glossary.ametsoc.org/wiki/heading"
   },
   {
     "english": "headwaters",
-    "traditional_chinese": "源頭",
-    "definition_cht": "指與「源頭」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "traditional_chinese": "源流區",
+    "definition_cht": "河川或溪流上游最初匯集逕流、融雪或泉水而形成水道的區域；廣義上亦可指構成一條河川各支流源頭的整體集水源區。",
     "source_url": "https://glossary.ametsoc.org/wiki/headwaters"
   },
   {
     "english": "headwind",
     "traditional_chinese": "逆風",
-    "definition_cht": "指與「逆風」相關的風場型態、局地風系或風向風速特徵，用於描述其成因、結構與影響。",
+    "definition_cht": "相對於物體前進方向迎面吹來的風。對航空器而言，逆風會降低地速，但有助於起飛與降落時增加相對氣流並縮短所需跑道距離。",
     "source_url": "https://glossary.ametsoc.org/wiki/headwind"
   },
   {
     "english": "heap clouds",
-    "traditional_chinese": "堆雲",
-    "definition_cht": "指與「堆雲」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、形成機制與所對應的大氣狀態。",
+    "traditional_chinese": "積雲",
+    "definition_cht": "舊稱或字面描述為「堆積狀雲」的雲型，通常即指 cumulus；其特徵為底部較平坦、上部隆起如棉絮，主要由對流抬升形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/heap_clouds"
   },
   {
     "english": "heat",
     "traditional_chinese": "熱",
-    "definition_cht": "指與「熱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "熱力學上指因溫度差而在系統邊界間傳遞的能量，而非物體內部所「儲存」的一種物質；在氣象學中常用以描述顯熱、潛熱與地表—大氣之間的能量交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat"
   },
   {
     "english": "heat burst",
-    "traditional_chinese": "熱爆發",
-    "definition_cht": "指與「熱爆發」相關的突發現象、短時強化事件或脈衝式變化。",
+    "traditional_chinese": "熱暴",
+    "definition_cht": "一種罕見的近地面暖化現象，常出現在衰減中的雷暴附近夜間時段；因高空乾冷空氣團內降水蒸發後迅速下沉並受壓增溫，地面可在短時間內出現明顯升溫、乾化與陣風。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_burst"
   },
   {
     "english": "heat capacity",
-    "traditional_chinese": "熱容",
-    "definition_cht": "指「熱容」所代表的容納能力、儲存能力或熱容量等性質。",
+    "traditional_chinese": "熱容量",
+    "definition_cht": "使物體溫度升高一單位所需吸收的熱量，單位常用 J/K；其數值反映物體儲存熱能的能力，若除以質量或莫耳數，則分別為比熱與莫耳熱容。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_capacity"
   },
   {
     "english": "Heat Capacity Mapping Mission Satellite",
     "traditional_chinese": "熱容量測繪任務衛星",
-    "definition_cht": "指與「熱容量測繪任務衛星」相關的人造衛星、衛星任務或其觀測平台。",
+    "definition_cht": "Heat Capacity Mapping Mission（HCMM）衛星的全名，為早期專門觀測地表熱紅外與反照率特徵的遙測任務，用於研究地表熱慣量、土壤濕度與地表覆蓋性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/Heat_Capacity_Mapping_Mission_Satellite"
   },
   {
     "english": "heat capacity method",
-    "traditional_chinese": "熱容法",
-    "definition_cht": "指處理「熱容法」相關問題的分析、估算、分類、反演或推算方法。",
+    "traditional_chinese": "熱容量法",
+    "definition_cht": "依據介質熱容量、溫度變化與能量收支關係來估算吸熱或放熱量的方法；在地表與土壤研究中，可用於推求熱儲存、熱慣量或相關熱物理參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_capacity_method"
   },
   {
     "english": "heat conductivity",
-    "traditional_chinese": "導熱係數",
-    "definition_cht": "指與「導熱係數」相關的傳導能力、導電率或輸送能力。",
+    "traditional_chinese": "熱傳導係數",
+    "definition_cht": "表徵材料傳導熱量能力的物理量，亦稱導熱係數；其值愈大，表示在相同溫度梯度下單位面積所傳輸的熱通量愈大，常用單位為 W·m⁻¹·K⁻¹。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_conductivity"
   },
   {
     "english": "heat dome",
     "traditional_chinese": "熱穹",
-    "definition_cht": "由持續性高壓脊與下沉增溫共同造成之大範圍暖熱堆積型天氣形勢，常導致長時間極端高溫。",
+    "definition_cht": "由滯留性高壓控制、下沉增溫與弱對流共同造成的暖熱封蓋型天氣形勢，會使熱空氣長時間滯留於一地並抑制雲雨發展，因而導致顯著且持續的高溫事件。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_dome"
   },
   {
     "english": "heat engine",
     "traditional_chinese": "熱機",
-    "definition_cht": "指與「熱機」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "藉由高溫熱源與低溫熱匯之間的溫差，將部分熱能轉換為機械功或電能的裝置或系統；其運作核心為工作流體在循環過程中的受熱、膨脹、放熱與壓縮。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_engine"
   },
   {
     "english": "heat equator",
     "traditional_chinese": "熱赤道",
-    "definition_cht": "指與「熱赤道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "地球表面沿各經度年平均氣溫最高點所連成的大致帶狀區域，亦稱 thermal equator；其位置通常不與地理赤道完全重合，並會受海陸分布、洋流與季節循環影響而偏移。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_equator"
   },
   {
     "english": "heat flux",
     "traditional_chinese": "熱通量",
-    "definition_cht": "指單位時間穿過單位面積之「熱通量」通量，用以量化能量、質量或動量傳輸。",
+    "definition_cht": "單位時間穿過單位面積的熱能傳輸率，常用單位為 W/m²；在氣象與海氣交互作用中，常分為感熱通量、潛熱通量、地中熱通量與淨輻射所驅動的其他熱交換項。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_flux"
   },
   {
     "english": "Heat index",
     "traditional_chinese": "熱指數",
-    "definition_cht": "用於量化「熱指數」相關狀態、程度、異常幅度或風險的指標。",
+    "definition_cht": "將氣溫與相對濕度結合後，用以表徵人體實際感受悶熱程度的指標；濕度愈高，汗液蒸發散熱愈受抑制，體感溫度與熱傷害風險也愈高。",
     "source_url": "https://glossary.ametsoc.org/wiki/Heat_index"
   },
   {
