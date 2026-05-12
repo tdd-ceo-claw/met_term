@@ -25136,121 +25136,121 @@
   {
     "english": "I and Q channels",
     "traditional_chinese": "同相與正交通道",
-    "definition_cht": "在遙測、雷達或通訊接收中，將複數訊號分解為同相（I）與正交（Q）兩個分量的通道，用以重建振幅、相位與多普勒資訊。",
+    "definition_cht": "在雷達、遙測與通訊接收中，將複數訊號分解為同相（I, in-phase）與正交（Q, quadrature）兩個互差 90° 的分量通道，用以重建訊號的振幅、相位與多普勒資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/I_and_Q_channels"
   },
   {
     "english": "IAC",
-    "traditional_chinese": "IAC 指數／類別",
-    "definition_cht": "「IAC」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。",
+    "traditional_chinese": "國際分析電碼",
+    "definition_cht": "國際氣象資料交換中用以表示分析圖或分析資訊的標準化電碼系統，透過規定的字母與數字群組傳送天氣分析內容，以利跨國作業與資料解讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/IAC"
   },
   {
     "english": "IAS",
     "traditional_chinese": "指示空速",
-    "definition_cht": "航空上依空速表直接讀得、尚未完全校正位置與儀器誤差的空速，是飛航操作常用之基本速度量。",
+    "definition_cht": "航空器由空速表依皮托－靜壓系統直接顯示的空速，為飛航操作最基本的速度參考；通常尚未完全校正位置誤差、儀器誤差與實際空氣密度影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/IAS"
   },
   {
     "english": "Ibe wind",
     "traditional_chinese": "伊貝風",
-    "definition_cht": "指與「伊貝風」相關的風系、局地風或風場型態，著重其形成機制、風向風速分布及天氣影響。",
+    "definition_cht": "西非地區的地方風名，指特定區域沿海或近海受季風環流與海陸熱力差異影響而形成的局地風；其風向與性質需依地方氣候脈絡判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ibe_wind"
   },
   {
     "english": "IBL",
     "traditional_chinese": "內邊界層",
-    "definition_cht": "指下墊面性質突變後，近地層因動量、熱量與水氣重新調整而形成的內部邊界層。",
+    "definition_cht": "氣流越過粗糙度、溫度或濕度性質明顯不同的下墊面後，在原有邊界層內近地面重新發展出的新邊界層；其厚度會隨下風距離增加而成長。",
     "source_url": "https://glossary.ametsoc.org/wiki/IBL"
   },
   {
     "english": "ICAO",
     "traditional_chinese": "國際民用航空組織",
-    "definition_cht": "制定國際民航標準與作業程序的專門機構，其規範廣泛用於航空氣象觀測、報告、預報與飛航安全。",
+    "definition_cht": "聯合國轄下負責協調國際民航標準與建議措施的專門機構，其規範廣泛用於航空氣象觀測、報文格式、預報作業與飛航安全管理。",
     "source_url": "https://glossary.ametsoc.org/wiki/ICAO"
   },
   {
     "english": "ice",
     "traditional_chinese": "冰",
-    "definition_cht": "水在0°C 以下或適當壓力條件下形成的固態相，在雲微物理、冰凍圈與航空結冰研究中為重要介質。",
+    "definition_cht": "水在適當溫度與壓力條件下形成的固態相，廣泛存在於雲微物理、降水、冰凍圈、海冰與航空結冰等研究與作業情境中。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice"
   },
   {
     "english": "ice accretion",
     "traditional_chinese": "冰積聚",
-    "definition_cht": "過冷水滴、雪粒或冰晶附著於物體表面並持續增長的結冰過程，常見於機體、電線與地面結構。",
+    "definition_cht": "過冷水滴、凍雨、雪粒或冰晶附著於物體表面後持續凍結並增厚的過程，常見於航空器、電線、樹木與地面設施的結冰現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_accretion"
   },
   {
     "english": "ice age",
     "traditional_chinese": "冰期",
-    "definition_cht": "地球氣候長期偏冷、冰蓋與冰川大幅擴張的地質時期。",
+    "definition_cht": "地球表面與大氣長期偏冷，以致大陸冰蓋、極地冰蓋或高山冰川持續存在並顯著擴張的地質氣候時期；其中可再包含較冷的冰盛期與較暖的間冰期。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_age"
   },
   {
     "english": "ice and snow albedo–temperature feedback",
-    "traditional_chinese": "冰雪 反照率—溫度回饋",
-    "definition_cht": "冰雪高反照率使地表吸收太陽能減少而降溫，降溫又促進冰雪維持或擴張的正回饋機制。",
+    "traditional_chinese": "冰雪反照率—溫度回饋",
+    "definition_cht": "冰雪表面反照率高，會反射較多太陽短波輻射而使地表降溫；降溫又有利於冰雪維持或擴張，形成會放大冷暖變化的正回饋機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_and_snow_albedo%E2%80%93temperature_feedback"
   },
   {
     "english": "ice apron",
     "traditional_chinese": "冰裙",
-    "definition_cht": "指與「冰裙」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "沿陡坡、冰崖、山壁或冰川邊緣附著分布的裙狀狹窄冰體，通常由積雪壓實、再凍結或小規模冰流補給所形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_apron"
   },
   {
     "english": "ice band",
     "traditional_chinese": "冰帶",
-    "definition_cht": "由海冰、冰山或浮冰沿一定方向聚集形成的帶狀區域。",
+    "definition_cht": "海面、湖面或其他水域中，由浮冰、海冰或碎冰受風、流或地形影響而聚集形成的帶狀冰區。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_band"
   },
   {
     "english": "ice bands",
     "traditional_chinese": "冰帶",
-    "definition_cht": "由海冰、冰山或浮冰沿一定方向聚集形成的多條帶狀區域。",
+    "definition_cht": "海面、湖面或其他水域中，多條由浮冰、海冰或碎冰受風、流或地形影響而聚集形成的帶狀冰區。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_bands"
   },
   {
     "english": "ice bay",
     "traditional_chinese": "冰灣",
-    "definition_cht": "指與「冰灣」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "被海冰、浮冰或沿岸冰體占據的灣狀水域，亦可指冰緣或冰體內部向內凹入形成的灣狀區。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_bay"
   },
   {
     "english": "ice blink",
     "traditional_chinese": "冰映光",
-    "definition_cht": "低雲底部受大片冰雪反射而呈現的白色亮光，可作為遠方海冰或積雪存在的視覺指標。",
+    "definition_cht": "地平線附近低雲底部因遠方大片冰雪反射光線而呈現的白色亮光現象，可作為視距外海冰或積雪存在的目視判據；其相對現象為水空光。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_blink"
   },
   {
     "english": "ice breakup",
-    "traditional_chinese": "冰裂解",
-    "definition_cht": "河冰、湖冰或海冰因升溫、流動或機械作用而破裂解體的過程。",
+    "traditional_chinese": "解冰",
+    "definition_cht": "河流、湖泊或海面冰層在升溫、融化、流動或機械應力作用下破裂、鬆散並解體的過程，常出現在春季轉暖時期。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_breakup"
   },
   {
     "english": "ice cap",
     "traditional_chinese": "冰冠",
-    "definition_cht": "覆蓋範圍較冰原小、通常覆蓋高地或島嶼的穹形冰體。",
+    "definition_cht": "覆蓋面積小於冰原、通常覆蓋高地或島嶼並向四周流動的穹形大冰體；在冰川學中常以面積小於約 50,000 平方公里與冰原區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_cap"
   },
   {
     "english": "ice cover",
-    "traditional_chinese": "冰覆蓋",
-    "definition_cht": "指與「冰覆蓋」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "冰覆",
+    "definition_cht": "覆蓋於海面、湖面、河面或地表上的冰層總稱，也可指特定區域被冰覆蓋的程度、範圍或比例。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_cover"
   },
   {
     "english": "ice crust",
     "traditional_chinese": "冰殼",
-    "definition_cht": "指與「冰殼」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "definition_cht": "積雪或地表表面因融雪再凍結、凍雨或液態水結冰而形成的堅硬薄冰層，常影響地表能量交換、雪層結構與人畜通行。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_crust"
   },
   {
     "english": "ice crystal",
     "traditional_chinese": "冰晶",
-    "definition_cht": "大氣中由水汽凝華形成的固態冰粒，是高雲、降雪與結冰現象的重要微物理成分。",
+    "definition_cht": "大氣中由水汽直接凝華或過冷水滴凍結形成的微小固態冰粒，常呈六角柱、六角板或枝晶等形態，是高雲、降雪與大氣光象的重要微物理成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/ice_crystal"
   },
   {
