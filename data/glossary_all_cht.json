@@ -24872,121 +24872,121 @@
   {
     "english": "hydrostatic pressure",
     "traditional_chinese": "靜水壓",
-    "definition_cht": "指與「靜水壓」相關的壓力概念、壓力分布或其衍生診斷量。",
+    "definition_cht": "指流體在靜止狀態下，由其上方流體柱重量所產生並作用於某一點的壓力；其大小通常隨深度增加而增大，並在各方向上等向作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrostatic_pressure"
   },
   {
     "english": "hydrostatics",
     "traditional_chinese": "流體靜力學",
-    "definition_cht": "指與「流體靜力學」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "流體力學中研究靜止流體及其壓力分布、浮力、靜力平衡與受力關係的分支；在氣象中亦用於理解大氣靜力平衡與壓力隨高度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydrostatics"
   },
   {
     "english": "hydroxyl emission",
     "traditional_chinese": "羥基發射",
-    "definition_cht": "指與「羥基發射」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "指高層大氣中激發態羥基自由基（OH*）在回到較低能階時所放出的輻射，常見於夜光層與中氣層頂附近的近紅外夜氣輝觀測，常用於推估高層大氣溫度與波動活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydroxyl_emission"
   },
   {
     "english": "hydroxyl ion",
     "traditional_chinese": "氫氧根離子",
-    "definition_cht": "指與「氫氧根離子」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "化學式為 OH⁻ 的陰離子，由一個氧原子與一個氫原子組成並帶一個負電荷；在水溶液酸鹼化學中屬重要鹼性成分，並與中性的羥基自由基（OH）不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydroxyl_ion"
   },
   {
     "english": "hydroxyl radical",
     "traditional_chinese": "羥基自由基",
-    "definition_cht": "指與「羥基自由基」相關的水文、水力、流體或水圈過程與性質。",
+    "definition_cht": "化學式常記為 OH• 或 •OH 的高反應性中性自由基，是大氣化學中極重要的氧化劑，能啟動或加速多種痕量氣體與污染物的氧化反應，因此常被稱為對流層的「清潔劑」。",
     "source_url": "https://glossary.ametsoc.org/wiki/hydroxyl_radical"
   },
   {
     "english": "hyetal",
-    "traditional_chinese": "希塔爾",
-    "definition_cht": "指與「希塔爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "雨的；降雨的",
+    "definition_cht": "形容與雨、降雨量或多雨地區有關的術語，常見於較舊的氣候學與地理學用語，如 hyetal map、hyetal region 等。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyetal"
   },
   {
     "english": "hyetal coefficient",
-    "traditional_chinese": "海塔爾係數",
-    "definition_cht": "表示「海塔爾係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。",
+    "traditional_chinese": "雨量係數",
+    "definition_cht": "指用以表示某地降雨豐枯程度或降雨與其他氣候量之間比例關係的係數；在舊式氣候分類與氣候比較文獻中，常作為衡量濕潤程度的經驗指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyetal_coefficient"
   },
   {
     "english": "hyetal equator",
-    "traditional_chinese": "希塔爾赤道",
-    "definition_cht": "指與「希塔爾赤道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "雨量赤道",
+    "definition_cht": "指連結地球上平均降雨量最大區帶的概念性線帶，通常大致位於熱帶輻合帶附近，但會隨季節與海陸分布而南北擺動，並不與地理赤道完全重合。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyetal_equator"
   },
   {
     "english": "hyetal region",
-    "traditional_chinese": "希塔爾區",
-    "definition_cht": "指與「希塔爾區」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "雨量區",
+    "definition_cht": "依降雨量或降雨型態劃分出的區域，可用於描述某地的降水豐枯、季節分配或氣候特徵；屬較舊的氣候與地理用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyetal_region"
   },
   {
     "english": "hyetograph",
-    "traditional_chinese": "水分記錄儀",
-    "definition_cht": "以圖形方式呈現「水分記錄儀」相關量值變化、對應關係或分類結果的圖表。",
+    "traditional_chinese": "雨量歷線圖",
+    "definition_cht": "以圖形表示降雨強度或降雨量隨時間變化的圖，常用長條或曲線呈現暴雨歷程、設計暴雨分布與集水區降雨分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyetograph"
   },
   {
     "english": "hyetography",
-    "traditional_chinese": "植物學",
-    "definition_cht": "以圖形方式呈現「植物學」相關量值變化、對應關係或分類結果的圖表。",
+    "traditional_chinese": "雨量分布學",
+    "definition_cht": "研究降雨之時間與空間分布、記錄與表現方法的學術或技術領域；可包含降雨量統計、降雨區劃與降雨圖件製作。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyetography"
   },
   {
     "english": "hyetology",
-    "traditional_chinese": "水生學",
-    "definition_cht": "指與「水生學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "降水學",
+    "definition_cht": "氣象學中研究降水現象的分支，涵蓋雨、雪等降水的生成、分布、量測與氣候特性；在較狹義用法中也可特指雨的研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/hyetology"
   },
   {
     "english": "hygristor",
     "traditional_chinese": "濕敏電阻",
-    "definition_cht": "指與「濕敏電阻」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "一種電阻值會隨環境濕度改變而變化的電子感測元件，可作為濕度感測器，用於量測或控制空氣濕度。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygristor"
   },
   {
     "english": "hygrodeik",
-    "traditional_chinese": "海格魯代克",
-    "definition_cht": "指與「海格魯代克」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "濕度指示器",
+    "definition_cht": "一種利用乾濕球溫度計並配合可調指示尺或刻度盤，以查定相對濕度的儀器；可視為早期的指示式濕度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrodeik"
   },
   {
     "english": "hygrogram",
-    "traditional_chinese": "濕度圖",
-    "definition_cht": "指與「濕度圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "濕度記錄圖",
+    "definition_cht": "記錄大氣濕度隨時間變化的圖表，通常由濕度記錄器或自記濕度計產生，用於分析相對濕度的日變化與天氣過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrogram"
   },
   {
     "english": "hygrograph",
     "traditional_chinese": "濕度記錄器",
-    "definition_cht": "以圖形方式呈現「濕度記錄器」相關量值變化、對應關係或分類結果的圖表。",
+    "definition_cht": "可自動連續記錄大氣濕度變化的儀器，通常將相對濕度隨時間記錄成曲線或圖表；屬自記式濕度計的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrograph"
   },
   {
     "english": "hygrokinematics",
     "traditional_chinese": "濕運動學",
-    "definition_cht": "指與「濕運動學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "研究大氣中水氣或濕度場在運動過程中的分布、輸送與變化的概念性術語，可視為將運動學方法應用於濕度與水氣場分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrokinematics"
   },
   {
     "english": "hygrology",
-    "traditional_chinese": "濕氣學",
-    "definition_cht": "指與「濕氣學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "濕度學",
+    "definition_cht": "研究濕度現象與空氣中水氣性質的學科或分支，著重於濕度的量測、變化及其物理特徵；屬較少用的舊式術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrology"
   },
   {
     "english": "hygrometer",
     "traditional_chinese": "濕度計",
-    "definition_cht": "量測空氣濕度或相關水汽參數的儀器。",
+    "definition_cht": "用來量測空氣或其他氣體中水氣含量的儀器，常用於測定相對濕度、露點或相關濕度參數；可分為乾濕球式、毛髮式與電子式等。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrometer"
   },
   {
     "english": "hygrometric tables",
-    "traditional_chinese": "濕度表",
-    "definition_cht": "指與「濕度表」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "濕度計算表",
+    "definition_cht": "根據乾球與濕球溫度、氣壓等觀測值，用以查算相對濕度、露點、水氣壓或飽和差等量的表格，為傳統濕度觀測與換算常用工具。",
     "source_url": "https://glossary.ametsoc.org/wiki/hygrometric_tables"
   },
   {
