@@ -422,121 +422,121 @@
   {
     "english": "heat lightning",
     "traditional_chinese": "熱閃電",
-    "definition_cht": "遠處雷暴所產生、觀測地僅見閃光而聽不到雷聲的閃電現象，通常因距離過遠導致雷聲衰減。",
+    "definition_cht": "俗稱，指遠處雷暴所產生、在觀測地僅見天空閃光而幾乎聽不到雷聲的現象；成因通常是雷聲在長距離傳播中已明顯衰減，並非由高溫直接產生的閃電。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_lightning"
   },
   {
     "english": "heat of condensation",
     "traditional_chinese": "凝結熱",
-    "definition_cht": "指與「凝結熱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "水氣或其他蒸氣由氣態凝結為液態時所釋放的潛熱；在氣象上是雲與降水發展的重要能量來源，常以單位質量或單位莫耳的能量表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_of_condensation"
   },
   {
     "english": "heat of fusion",
     "traditional_chinese": "熔化熱",
-    "definition_cht": "指與「熔化熱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "物質在熔點由固態轉為液態時所需吸收的潛熱；若過程反向為凝固，則會釋放相同量級的熱。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_of_fusion"
   },
   {
     "english": "heat of sublimation",
     "traditional_chinese": "昇華熱",
-    "definition_cht": "指與「昇華熱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "物質在不經液態下由固態直接轉為氣態時所需吸收的潛熱；對水而言，與冰雪昇華及乾燥過程的能量交換密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_of_sublimation"
   },
   {
     "english": "heat of vaporization",
     "traditional_chinese": "汽化熱",
-    "definition_cht": "指與「汽化熱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "液體在一定溫度與壓力下轉為氣體時所需吸收的潛熱；對水而言亦稱蒸發潛熱，其逆過程凝結會釋放相同能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_of_vaporization"
   },
   {
     "english": "heat thunderstorm",
-    "traditional_chinese": "熱雷暴",
-    "definition_cht": "指與「熱雷暴」相關的風暴、擾動系統或劇烈天氣現象。",
+    "traditional_chinese": "熱對流雷暴",
+    "definition_cht": "主要由日間地表強烈加熱引發自由對流而形成的雷暴，通常缺乏明顯鋒面或強迫抬升機制，常見於夏季午後，範圍較局地。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_thunderstorm"
   },
   {
     "english": "heat transfer",
     "traditional_chinese": "熱傳",
-    "definition_cht": "熱量藉由傳導、對流或輻射在不同介質或系統間傳遞的過程。",
+    "definition_cht": "熱量因溫度差而由高溫處向低溫處傳遞的過程，主要可經由傳導、對流與輻射進行；是大氣與地表能量交換的基本機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_transfer"
   },
   {
     "english": "heat transfer coefficient",
     "traditional_chinese": "傳熱係數",
-    "definition_cht": "表示「傳熱係數」相關強度、效率、交換能力或比例關係的係數，常作為方程式或參數化中的重要參數。",
+    "definition_cht": "描述單位面積熱通量與表面和鄰近流體之間溫差關係的比例係數，用以表徵界面熱交換效率；在邊界層、蒸發與感熱通量估算中常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_transfer_coefficient"
   },
   {
     "english": "heat unit",
     "traditional_chinese": "熱量單位",
-    "definition_cht": "指量測或表示「熱量單位」時所使用的單位、尺度或計量基準。",
+    "definition_cht": "用來表示熱量或能量大小的計量單位，如卡路里、焦耳或英熱單位；在農業氣象中亦可能延伸用於表示與積溫相關的熱量指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_unit"
   },
   {
     "english": "heat wave",
     "traditional_chinese": "熱浪",
-    "definition_cht": "在一定區域與季節條件下，連續數日出現顯著高於常態之高溫事件。",
+    "definition_cht": "某地在相對於其氣候常態明顯偏高的情況下，連續數日出現異常高溫的事件；判定門檻與持續日數通常依各地氣候與業務規範而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/heat_wave"
   },
   {
     "english": "heave",
-    "traditional_chinese": "起伏",
-    "definition_cht": "指與「起伏」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "垂直起伏",
+    "definition_cht": "物體或流體在垂直方向上的上下位移或往復運動；在海氣與工程語境中，常指船舶、浮標或海面的垂直升沉。",
     "source_url": "https://glossary.ametsoc.org/wiki/heave"
   },
   {
     "english": "heaving",
-    "traditional_chinese": "起伏",
-    "definition_cht": "指與「起伏」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "上下起伏",
+    "definition_cht": "呈現持續或反覆的垂直升降運動狀態；可用於描述海面、冰面、地表或載具在外力作用下的上下起伏。",
     "source_url": "https://glossary.ametsoc.org/wiki/heaving"
   },
   {
     "english": "heavy rain",
     "traditional_chinese": "大雨",
-    "definition_cht": "指與「大雨」相關的降雨現象、雨量特徵或降水統計量。",
+    "definition_cht": "雨勢強或累積雨量達相當門檻的降雨事件；其定義可依觀測時段與各國業務標準不同而異，通常用於描述可能造成積淹水或能見度惡化的降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/heavy_rain"
   },
   {
     "english": "heavy water",
     "traditional_chinese": "重水",
-    "definition_cht": "指與「重水」相關的水體、水團、水量條件或水文狀態，常用於海洋與水文分析。",
+    "definition_cht": "以氘取代普通水中氫原子的水，化學式為 D₂O；其物理性質與一般水略有差異，常見於核工與同位素研究，並非氣象上對強降水的稱呼。",
     "source_url": "https://glossary.ametsoc.org/wiki/heavy_water"
   },
   {
     "english": "hectopascal",
-    "traditional_chinese": "百帕斯卡",
-    "definition_cht": "指與「百帕斯卡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "百帕",
+    "definition_cht": "壓力單位，1 百帕等於 100 帕斯卡，也等於 1 毫巴；為天氣分析與航空氣象中表示大氣壓力的常用單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/hectopascal"
   },
   {
     "english": "Hector",
-    "traditional_chinese": "赫克托",
-    "definition_cht": "指與「赫克托」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "赫克托雷暴",
+    "definition_cht": "澳洲北部提維群島附近著名且近乎規律午後發展的強烈對流雷暴系統，主要由海風輻合與島嶼熱力作用促成，常作為熱帶對流研究案例。",
     "source_url": "https://glossary.ametsoc.org/wiki/Hector"
   },
   {
     "english": "Height",
     "traditional_chinese": "高度",
-    "definition_cht": "指與「高度」相關的高度量測、垂直尺度或特徵層位。",
+    "definition_cht": "某一點、物體或氣象要素相對於基準面的垂直距離；在高空天氣圖中也常特指某一等壓面相對平均海平面的位勢高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Height"
   },
   {
     "english": "height analysis method",
     "traditional_chinese": "高度分析法",
-    "definition_cht": "指處理「高度分析法」相關問題的分析、估算、分類、反演或推算方法。",
+    "definition_cht": "利用等壓面高度或位勢高度場的分布、梯度與曲率來分析大氣結構及天氣系統的方法，常用於判讀槽脊、平流與大尺度環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/height_analysis_method"
   },
   {
     "english": "height pattern",
-    "traditional_chinese": "高度模式",
-    "definition_cht": "指與「高度模式」相關的高度量測、垂直尺度或特徵層位。",
+    "traditional_chinese": "高度場型",
+    "definition_cht": "某一等壓面上高度或位勢高度的空間分布形態，可用以辨識高壓脊、低壓槽、切斷低壓及其他環流配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/height_pattern"
   },
   {
     "english": "height vertical coordinate",
-    "traditional_chinese": "高度縱座標",
-    "definition_cht": "指與「高度縱座標」相關的高度量測、垂直尺度或特徵層位。",
+    "traditional_chinese": "高度垂直座標",
+    "definition_cht": "以幾何高度或相對某一基準面的實際垂直距離作為模式或分析中的垂直座標系；與氣壓座標、σ 座標等其他垂直座標系相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/height_vertical_coordinate"
   },
   {
