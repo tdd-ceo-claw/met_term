@@ -19711,8 +19711,8 @@
   },
   {
     "english": "folding",
-    "traditional_chinese": "摺疊",
-    "definition_cht": "在訊號處理、雷達與遙測中，指高於奈奎斯特頻率或超出可解析範圍的訊號成分，經取樣後被折返到較低頻或錯誤區間的現象；在都卜勒雷達中常表現為速度或距離模糊。",
+    "traditional_chinese": "摺疊；折返",
+    "definition_cht": "在訊號處理、雷達與遙測中，指訊號頻率超過奈奎斯特頻率或超出可解析範圍後，經取樣而折返到較低頻率或錯誤區間的混疊現象；在都卜勒雷達中常表現為速度摺返或距離模糊。",
     "source_url": "https://glossary.ametsoc.org/wiki/folding"
   },
   {
@@ -19724,7 +19724,7 @@
   {
     "english": "following wind",
     "traditional_chinese": "順風；尾風",
-    "definition_cht": "指沿物體或載具前進方向吹送的風；在航空與航海上相當於尾風，可提高地速或航速，但在起降與操縱上亦可能帶來限制。",
+    "definition_cht": "指沿物體、船舶或航空器前進方向吹送的風，亦即尾風；可增加地速或航速，但在航空起降與操縱上可能帶來作業限制。",
     "source_url": "https://glossary.ametsoc.org/wiki/following_wind"
   },
   {
@@ -19753,14 +19753,14 @@
   },
   {
     "english": "footprint modeling",
-    "traditional_chinese": "足跡模式化",
-    "definition_cht": "利用邊界層結構、湍流傳輸與量測高度等條件，估算通量觀測對應之上風來源區域及其相對貢獻的建模方法。",
+    "traditional_chinese": "足跡模擬",
+    "definition_cht": "在邊界層與渦流通量觀測中，利用量測高度、風場穩定度、湍流傳輸與地表粗糙度等條件，估算上風各地表區域對觀測通量之來源範圍及相對貢獻的建模方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/footprint_modeling"
   },
   {
     "english": "forano",
     "traditional_chinese": "福拉諾風",
-    "definition_cht": "地方性風名，通常指阿爾卑斯山南側或義大利部分地區出現的焚風型下坡風，特徵為背風側增暖、乾燥且陣風較強。",
+    "definition_cht": "義大利地方性風名，通常指類似焚風的局地下坡暖乾風；空氣越過地形後於背風側下沉增溫、變乾，並可能伴隨較強陣風。",
     "source_url": "https://glossary.ametsoc.org/wiki/forano"
   },
   {
@@ -19772,13 +19772,13 @@
   {
     "english": "force-restore method",
     "traditional_chinese": "強迫－恢復法",
-    "definition_cht": "一種簡化陸面或土壤熱濕度過程的參數化方法，以外部週期性強迫描述地表日變化，並以恢復項表示土壤向較深層平均狀態回復的作用。",
+    "definition_cht": "一種簡化地表或土壤熱、濕度日變化的陸面參數化方法，以外在週期性強迫描述表層受熱或受濕變動，並以恢復項表徵其向較深層平均狀態回復的作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/force-restore_method"
   },
   {
     "english": "forced cloud",
-    "traditional_chinese": "強迫上升雲",
-    "definition_cht": "指氣流因地形抬升、鋒面抬升或其他動力作用被迫上升，在冷卻凝結後形成的雲；地形雲為常見例子。",
+    "traditional_chinese": "受迫雲",
+    "definition_cht": "指氣流因地形、鋒面或其他動力抬升作用而被迫上升，經絕熱冷卻達到凝結後形成的雲；地形雲即為常見例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/forced_cloud"
   },
   {
@@ -19796,7 +19796,7 @@
   {
     "english": "forecast amendment",
     "traditional_chinese": "預報修正",
-    "definition_cht": "指在原預報發布後，因新觀測、模式結果或天氣演變顯示原內容已不再適切，而對其進行的補充、更新或更正。",
+    "definition_cht": "指原預報發布後，因新觀測、數值模式結果或天氣演變顯示原內容已不適用，而對預報內容所作的補充、更新或更正。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_amendment"
   },
   {
@@ -19819,13 +19819,13 @@
   },
   {
     "english": "forecast evaluation",
-    "traditional_chinese": "預報評估",
-    "definition_cht": "指利用觀測、分析資料與統計指標，系統性檢查預報品質、技巧分數、偏差與可靠度的作業；亦常稱為預報檢證。",
+    "traditional_chinese": "預報檢證",
+    "definition_cht": "指利用觀測、分析或再分析資料及統計指標，系統性檢查預報品質、技巧分數、偏差與可靠度的作業；在氣象業務上通常稱為預報檢證。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_evaluation"
   },
   {
     "english": "forecast lead time",
-    "traditional_chinese": "預報提前時間",
+    "traditional_chinese": "預報提前期",
     "definition_cht": "指自預報發布或模式起報時刻起，到預報所對應目標時刻之間的時間間隔；提前時間越長，通常不確定性越高。",
     "source_url": "https://glossary.ametsoc.org/wiki/forecast_lead_time"
   },
