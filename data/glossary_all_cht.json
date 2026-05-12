@@ -24271,122 +24271,122 @@
   },
   {
     "english": "HOx",
-    "traditional_chinese": "氧化氫",
-    "definition_cht": "指與「氧化氫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "HOx（奇氫氧自由基）",
+    "definition_cht": "大氣化學中由氫、氧組成的高反應性自由基族，主要包括 OH、HO2 及其相關物種；在臭氧生成與分解、甲烷氧化及大氣自淨作用中相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/HOx"
   },
   {
     "english": "hPa",
     "traditional_chinese": "百帕",
-    "definition_cht": "指與「百帕」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "壓力單位，為 hectopascal 的縮寫，1 hPa = 100 Pa，數值上等於 1 毫巴（mb），為氣象學表示氣壓的常用單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/hPa"
   },
   {
     "english": "HPLC",
     "traditional_chinese": "高效液相層析法",
-    "definition_cht": "「HPLC」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "definition_cht": "High-performance liquid chromatography 的縮寫。以高壓推動液體流動相通過固定相管柱，分離並定量樣品成分的分析技術，常用於大氣化學與環境樣品分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/HPLC"
   },
   {
     "english": "HRPT",
-    "traditional_chinese": "HRPT",
-    "definition_cht": "「HRPT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "高解析度圖像傳輸",
+    "definition_cht": "High Resolution Picture Transmission 的縮寫。極軌氣象衛星將高解析度觀測資料即時下傳至地面站的直接廣播傳輸方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/HRPT"
   },
   {
     "english": "Huggins band",
-    "traditional_chinese": "哈金斯樂隊",
-    "definition_cht": "指與「哈金斯樂隊」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "哈金斯吸收帶",
+    "definition_cht": "臭氧在近紫外波段的吸收帶，約位於 320–360 奈米，常用於遙測大氣臭氧總量與垂直分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/Huggins_band"
   },
   {
     "english": "human bioclimatology",
-    "traditional_chinese": "人類生物氣候學",
-    "definition_cht": "指與「人類生物氣候學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "人體生物氣候學",
+    "definition_cht": "研究氣候與天氣條件如何影響人體熱平衡、生理反應、健康、舒適度與活動能力的學科，屬生物氣象學的重要分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/human_bioclimatology"
   },
   {
     "english": "humid climate",
-    "traditional_chinese": "氣候潮濕",
-    "definition_cht": "指「氣候潮濕」所代表之區域或類型氣候特徵，通常由溫度、降水與地形條件共同界定。",
+    "traditional_chinese": "濕潤氣候",
+    "definition_cht": "降水量相對充足、長期水分收支不屬乾旱或半乾旱狀態的氣候類型，通常植被較易維持生長。",
     "source_url": "https://glossary.ametsoc.org/wiki/humid_climate"
   },
   {
     "english": "humid mesothermal climate",
     "traditional_chinese": "濕潤中溫氣候",
-    "definition_cht": "指「濕潤中溫氣候」所代表之區域或類型氣候特徵，通常由溫度、降水與地形條件共同界定。",
+    "definition_cht": "柯本氣候分類中屬溫帶濕潤型氣候，冬季較和緩、夏季暖熱，全年或多數季節有足夠降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/humid_mesothermal_climate"
   },
   {
     "english": "humid microthermal climate",
-    "traditional_chinese": "濕潤微熱氣候",
-    "definition_cht": "指「濕潤微熱氣候」所代表之區域或類型氣候特徵，通常由溫度、降水與地形條件共同界定。",
+    "traditional_chinese": "濕潤冷溫氣候",
+    "definition_cht": "柯本氣候分類中屬冷溫帶濕潤型氣候，冬季寒冷且常有積雪，暖季較短，但全年水分供應大致充足。",
     "source_url": "https://glossary.ametsoc.org/wiki/humid_microthermal_climate"
   },
   {
     "english": "humidity",
     "traditional_chinese": "濕度",
-    "definition_cht": "空氣中水汽含量的統稱，可用相對濕度、比濕、混合比、露點等不同物理量表示。",
+    "definition_cht": "空氣中水氣含量的統稱，可用相對濕度、比濕、混合比、露點或絕對濕度等物理量表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/humidity"
   },
   {
     "english": "humidity element",
-    "traditional_chinese": "濕度感應元件",
-    "definition_cht": "指與「濕度感應元件」相關之空氣水汽含量、濕度狀態或其觀測診斷量。",
+    "traditional_chinese": "濕度感測元件",
+    "definition_cht": "測濕儀中對空氣含水量變化具有響應的核心元件，其電性、尺寸或機械性質會隨濕度改變，用以換算濕度。",
     "source_url": "https://glossary.ametsoc.org/wiki/humidity_element"
   },
   {
     "english": "humidity index",
     "traditional_chinese": "濕度指數",
-    "definition_cht": "用於量化「濕度指數」相關狀態、程度、異常幅度或風險的指標。",
+    "definition_cht": "用來表示空氣濕潤程度的指標；可依不同應用以相對濕度、露點或其他濕度參數組合計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/humidity_index"
   },
   {
     "english": "humidity province",
-    "traditional_chinese": "濕度省",
-    "definition_cht": "指與「濕度省」相關之空氣水汽含量、濕度狀態或其觀測診斷量。",
+    "traditional_chinese": "濕度區",
+    "definition_cht": "依空氣濕潤程度或水氣條件劃分出的氣候區域，用於描述不同地區在濕度特徵上的分布差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/humidity_province"
   },
   {
     "english": "humidity strip",
-    "traditional_chinese": "濕度條",
-    "definition_cht": "指與「濕度條」相關之空氣水汽含量、濕度狀態或其觀測診斷量。",
+    "traditional_chinese": "測濕紙條",
+    "definition_cht": "利用吸濕材料隨環境濕度改變顏色、伸縮或電性的條狀感測元件，可用於簡易濕度指示或濕度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/humidity_strip"
   },
   {
     "english": "humilis",
     "traditional_chinese": "淡積雲",
-    "definition_cht": "指與「淡積雲」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "積雲的一種，垂直發展很弱、外觀扁平，通常表示低層對流有限，天氣多較穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/humilis"
   },
   {
     "english": "hummock",
     "traditional_chinese": "冰丘",
-    "definition_cht": "指與「冰丘」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "受擠壓而向上隆起的碎冰小丘，常見於河冰或海冰堆積區。",
     "source_url": "https://glossary.ametsoc.org/wiki/hummock"
   },
   {
     "english": "hummocked ice",
     "traditional_chinese": "丘狀冰",
-    "definition_cht": "指與「丘狀冰」相關的冰相現象、冰體型態或凍結狀態，常用於寒區氣象、海冰或冰川研究。",
+    "definition_cht": "多塊冰相互擠壓、凌亂堆疊而形成凹凸不平表面的冰體或冰面。",
     "source_url": "https://glossary.ametsoc.org/wiki/hummocked_ice"
   },
   {
     "english": "hurly-burly",
-    "traditional_chinese": "喧囂",
-    "definition_cht": "指與「喧囂」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "暴風雨喧擾",
+    "definition_cht": "古語或文學性用語，指暴風雨帶來的喧囂與騷動；在英語氣象語境中亦可泛指一場風雨紛亂。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurly-burly"
   },
   {
     "english": "Hurricane",
     "traditional_chinese": "颶風",
-    "definition_cht": "指與「颶風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "definition_cht": "發生於北大西洋、加勒比海、墨西哥灣及東北太平洋的強烈熱帶氣旋；其最大持續近中心風速達每小時 119 公里（64 節）以上。",
     "source_url": "https://glossary.ametsoc.org/wiki/Hurricane"
   },
   {
     "english": "hurricane band",
-    "traditional_chinese": "颶風帶",
-    "definition_cht": "指與「颶風帶」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依學科脈絡與使用情境判定。",
+    "traditional_chinese": "颶風雨帶",
+    "definition_cht": "環繞颶風中心呈弧狀分布的對流雲雨帶，常伴隨陣雨、雷暴與陣風，並可向外延伸甚遠。",
     "source_url": "https://glossary.ametsoc.org/wiki/hurricane_band"
   },
   {
