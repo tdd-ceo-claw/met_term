@@ -19592,121 +19592,121 @@
   {
     "english": "foehn period",
     "traditional_chinese": "焚風期",
-    "definition_cht": "某地區持續受焚風影響的時間區段，其間通常表現為偏高溫、低濕與陣風增強。",
+    "definition_cht": "某地區持續受焚風影響的時段；其間背風側常出現氣溫偏高、相對濕度偏低與陣風增強等特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_period"
   },
   {
     "english": "foehn phase",
     "traditional_chinese": "焚風階段",
-    "definition_cht": "焚風事件演變中的不同時期，如發生、增強、成熟與減弱階段，用於分析其時序特徵。",
+    "definition_cht": "焚風事件演變過程中的某一時期，如生成、增強、成熟或減弱階段，用於描述其時序變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_phase"
   },
   {
     "english": "foehn storm",
     "traditional_chinese": "焚風暴",
-    "definition_cht": "指伴隨強烈焚風的風暴性天氣事件，特徵為背風側出現顯著升溫、乾燥與強陣風；在山麓與谷地常造成火險升高、能見度惡化或設施受損。",
+    "definition_cht": "伴隨破壞性強陣風的強烈焚風事件；常在山脈背風側造成異常增暖、乾燥及風害，並提高火險。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_storm"
   },
   {
     "english": "foehn trough",
     "traditional_chinese": "焚風槽",
-    "definition_cht": "受焚風背風下沉與熱力作用影響，在地面或低層形成的狹長低壓槽。",
+    "definition_cht": "受焚風下沉增暖與背風側熱力作用影響，在地面或低層形成的狹長低壓槽。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_trough"
   },
   {
     "english": "foehn wall",
-    "traditional_chinese": "焚風牆雲",
-    "definition_cht": "沿山脈近山脊處排列、與焚風相關的明顯雲牆，常標示迎風凝結區與背風乾暖區之界線。",
+    "traditional_chinese": "焚風雲牆",
+    "definition_cht": "與焚風相關、沿山脊或迎風側上空形成的明顯雲牆狀雲帶，常標示迎風凝結區與背風乾暖區之分界。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_wall"
   },
   {
     "english": "foehn wave",
     "traditional_chinese": "焚風波",
-    "definition_cht": "氣流越山後於背風側形成的山岳波動結構，常與焚風增暖、透鏡雲與強烈亂流並存。",
+    "definition_cht": "氣流越過山脈後在背風側形成的波動結構，屬山岳波的一種，常與焚風增暖、透鏡雲及強亂流並見。",
     "source_url": "https://glossary.ametsoc.org/wiki/foehn_wave"
   },
   {
     "english": "fog",
     "traditional_chinese": "霧",
-    "definition_cht": "由懸浮於近地面空氣中的微小水滴或冰晶組成，使水平能見度降至一定標準以下的天氣現象。",
+    "definition_cht": "由懸浮於近地面空氣中的微小水滴或冰晶組成，致使水平能見度降至 1 公里以下的天氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog"
   },
   {
     "english": "fog bank",
     "traditional_chinese": "霧帶",
-    "definition_cht": "範圍較廣、邊界相對清楚並呈帶狀或塊狀分布的霧區，常見於海上或地形過渡地帶。",
+    "definition_cht": "範圍較廣、邊界相對清楚，呈帶狀或塊狀分布的霧區，常見於海面或地形過渡地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_bank"
   },
   {
     "english": "fog chamber",
     "traditional_chinese": "霧室",
-    "definition_cht": "用於模擬霧滴生成、凝結、成長與沉降過程的實驗裝置，亦可作為粒子活化研究設備。",
+    "definition_cht": "以加濕、冷卻等方式使微粒表面凝結液體薄膜的實驗裝置，用於研究液體與固體表面的交互作用及粒子活化等過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_chamber"
   },
   {
     "english": "fog day",
     "traditional_chinese": "霧日",
-    "definition_cht": "在氣候統計中，某日於規定觀測時段內曾觀測到霧現象者，即記為一個霧日。",
+    "definition_cht": "氣候統計中，某日於規定觀測時段內曾觀測到霧現象者，記為一個霧日。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_day"
   },
   {
     "english": "fog deposit",
     "traditional_chinese": "霧沉積",
-    "definition_cht": "霧滴藉由碰撞、攔截或附著作用沉積於植被、地表或構造物上的水分與溶質。",
+    "definition_cht": "霧滴經碰撞、攔截或附著而沉積於植被、地表或構造物上的水分與溶質。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_deposit"
   },
   {
     "english": "fog dispersal",
     "traditional_chinese": "消霧",
-    "definition_cht": "透過自然過程或人工措施使霧滴蒸發、混合或沉降，從而提高能見度並削弱霧區的過程。",
+    "definition_cht": "使霧減弱或消除、以提高能見度的過程；可由自然混合與加熱造成，也可藉人工措施在機場等地進行。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_dispersal"
   },
   {
     "english": "fog dissipation",
     "traditional_chinese": "霧消散",
-    "definition_cht": "霧因加熱、乾空氣混入、湍流攪拌或輻射條件改變而逐漸減弱直至消失的過程。",
+    "definition_cht": "霧因加熱、乾空氣混入、湍流攪拌或輻射條件改變而逐漸減弱至消失的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_dissipation"
   },
   {
     "english": "fog drip",
     "traditional_chinese": "霧滴滴落",
-    "definition_cht": "霧滴附著於樹冠、植被或人工表面後聚合成較大水滴，再因重力滴落至地面的現象。",
+    "definition_cht": "霧滴附著於樹冠、植被或其他表面後聚合成較大水滴，再因重力滴落至地面的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_drip"
   },
   {
     "english": "fog drop",
     "traditional_chinese": "霧滴",
-    "definition_cht": "構成霧的微小液態水滴，粒徑通常較雲滴略大，能顯著散射光線並降低能見度。",
+    "definition_cht": "構成霧的微小液態水滴，粒徑遠小於雨滴，能強烈散射光線並降低能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_drop"
   },
   {
     "english": "fog forest",
     "traditional_chinese": "霧林",
-    "definition_cht": "長期受雲霧籠罩、可由霧滴攔截獲得重要水分來源的森林生態系，常見於沿海山地與雲霧林帶。",
+    "definition_cht": "長期受雲霧籠罩、並可由霧滴攔截獲得重要水分來源的森林生態系，常見於沿海山地或雲霧林帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_forest"
   },
   {
     "english": "fog horizon",
     "traditional_chinese": "霧際線",
-    "definition_cht": "自高處或遠處觀察大片霧層時，其上表面或遠端邊界所呈現的視覺地平線；常用於描述霧海、海霧或低層霧層的外觀界線。",
+    "definition_cht": "自高處俯視時，受低層逆溫限制的霧層上表面所呈現、近似地平線的視覺邊界；此時真正地平線常被霧遮蔽。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_horizon"
   },
   {
     "english": "fog patches",
-    "traditional_chinese": "零星霧區",
-    "definition_cht": "分散出現、範圍較小且分布不連續的局部霧區，常較 patchy fog 更強調可辨識的個別霧塊或霧片。",
+    "traditional_chinese": "片狀霧區",
+    "definition_cht": "範圍小、垂直厚度淺且分散出現的局部霧區；常仍可透見日月星體，但會使近地面水平能見度降低。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_patches"
   },
   {
     "english": "fog scale",
     "traditional_chinese": "霧級",
-    "definition_cht": "依能見度降低程度、霧滴濃度或觀測外觀對霧進行分級的尺度或分類方式；不同單位與文獻之分級門檻可略有差異。",
+    "definition_cht": "依能見度、霧滴濃度或外觀特徵對霧所作的分級尺度；不同機關與文獻的分類門檻可略有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_scale"
   },
   {
     "english": "fog wind",
     "traditional_chinese": "霧風",
-    "definition_cht": "指伴隨霧或將霧輸送至某地的氣流；常用於描述把海霧、谷霧或低層濕冷空氣帶入沿岸或低地、因而使能見度惡化的風。",
+    "definition_cht": "指伴隨霧、或將霧輸送至某地的氣流；常用於描述把海霧或低層濕冷空氣帶入沿岸、谷地或低地的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/fog_wind"
   },
   {
