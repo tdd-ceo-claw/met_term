@@ -26815,122 +26815,122 @@
   },
   {
     "english": "intertropical front",
-    "traditional_chinese": "熱帶輻合鋒",
-    "definition_cht": "熱帶區域兩支不同來源氣流交會形成的鋒狀過渡帶。",
+    "traditional_chinese": "熱帶鋒",
+    "definition_cht": "赤道附近南、北半球信風匯聚所形成的帶狀低壓與對流區之舊稱，現今多稱為熱帶輻合帶（ITCZ）；其是否屬典型鋒面曾有爭議。",
     "source_url": "https://glossary.ametsoc.org/wiki/intertropical_front"
   },
   {
     "english": "intortus",
-    "traditional_chinese": "intortus",
-    "definition_cht": "「intortus」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "亂曲狀卷雲",
+    "definition_cht": "卷雲的一種變種，雲絲呈極不規則的彎曲、纏繞或近似鋸齒狀排列，外觀常顯得凌亂糾結。",
     "source_url": "https://glossary.ametsoc.org/wiki/intortus"
   },
   {
     "english": "intracloud flash",
-    "traditional_chinese": "intracloud flash",
-    "definition_cht": "發生於同一雲體內不同電荷區之間的閃電放電。",
+    "traditional_chinese": "雲內閃電",
+    "definition_cht": "發生於同一積雨雲或雲體內不同電荷區之間的閃電放電，是雷暴中最常見的閃電型式之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/intracloud_flash"
   },
   {
     "english": "intrinsic permeability",
-    "traditional_chinese": "intrinsic permeability",
-    "definition_cht": "多孔介質本身在不考慮流體性質時對流動能力的固有表徵。",
+    "traditional_chinese": "固有滲透率",
+    "definition_cht": "表徵多孔介質本身傳輸流體能力的物理量，只反映孔隙結構與連通性，不包含流體黏滯度或密度等性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/intrinsic_permeability"
   },
   {
     "english": "intrinsic wave frequency",
-    "traditional_chinese": "intrinsic 波頻率",
-    "definition_cht": "指與「intrinsic 波頻率」相關的波動現象，著重其恢復力來源、傳播特徵與能量交換。",
+    "traditional_chinese": "本徵波頻率",
+    "definition_cht": "在隨平均流場移動的參考系中量得的波動頻率，即扣除背景平流效應後，波本身相對於流體的振盪頻率。",
     "source_url": "https://glossary.ametsoc.org/wiki/intrinsic_wave_frequency"
   },
   {
     "english": "intromission",
-    "traditional_chinese": "intromission",
-    "definition_cht": "指與「intromission」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "側向混入",
+    "definition_cht": "在對流熱泡、混合層熱柱或積雲邊界，周遭環境空氣由側面混入其內部的過程，通常使外緣較易被稀釋而核心區相對較完整。",
     "source_url": "https://glossary.ametsoc.org/wiki/intromission"
   },
   {
     "english": "intromission zone",
-    "traditional_chinese": "intromission 帶",
-    "definition_cht": "指與「intromission 帶」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "側向混入帶",
+    "definition_cht": "位於對流熱泡、熱柱或積雲邊緣的混合區，為環境空氣與雲內或熱泡內空氣發生側向混入與交換最明顯的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/intromission_zone"
   },
   {
     "english": "invasion of air",
-    "traditional_chinese": "invasion air",
-    "definition_cht": "指與「invasion air」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "空氣侵入",
+    "definition_cht": "某一地區或高度層的空氣被來自另一地區或另一高度層、且性質明顯不同的空氣注入或推進之現象，例如冷空氣侵入暖空氣區。",
     "source_url": "https://glossary.ametsoc.org/wiki/invasion_of_air"
   },
   {
     "english": "inventories of anthropogenic pollutants",
-    "traditional_chinese": "inventories anthropogenic pollutants",
-    "definition_cht": "「inventories anthropogenic pollutants」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "人為污染物排放清冊",
+    "definition_cht": "彙整人為來源污染物排放量、排放率或其時空分布的資料庫，用於空氣品質、化學傳輸與氣候模式之排放估算與模擬。",
     "source_url": "https://glossary.ametsoc.org/wiki/inventories_of_anthropogenic_pollutants"
   },
   {
     "english": "inverna",
-    "traditional_chinese": "inverna",
-    "definition_cht": "「inverna」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "因韋納風",
+    "definition_cht": "義大利馬焦雷湖（Lago Maggiore）一帶的地方性週期風名，通常指暖季白天自南方吹入的湖風或谷風。",
     "source_url": "https://glossary.ametsoc.org/wiki/inverna"
   },
   {
     "english": "inverse-square law",
-    "traditional_chinese": "inverse—square law",
-    "definition_cht": "某些場量或輻射強度隨距離平方反比衰減的定律。",
+    "traditional_chinese": "平方反比定律",
+    "definition_cht": "描述某些力、能量通量或輻射強度隨距離增加而按距離平方反比衰減的定律。",
     "source_url": "https://glossary.ametsoc.org/wiki/inverse-square_law"
   },
   {
     "english": "inversion",
     "traditional_chinese": "逆溫",
-    "definition_cht": "氣溫隨高度上升反而增加的穩定層結。",
+    "definition_cht": "氣溫隨高度增加而上升的穩定層結，與對流層中氣溫通常隨高度遞減的正常情況相反。",
     "source_url": "https://glossary.ametsoc.org/wiki/inversion"
   },
   {
     "english": "inversion of rainfall",
-    "traditional_chinese": "逆溫降雨",
-    "definition_cht": "指與「逆溫降雨」相關的逆轉或逆溫結構，常用於描述垂直分布與穩定度異常。",
+    "traditional_chinese": "降水逆轉",
+    "definition_cht": "降水量隨地形高度增加至某一高度達最大值後，於更高處反而減少的分布現象；常與最大降水帶的位置有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/inversion_of_rainfall"
   },
   {
     "english": "inverted barometer effect",
-    "traditional_chinese": "inverted barometer effect",
-    "definition_cht": "海面或水面高度對大氣壓變化的近似反向響應，高壓時水位偏低、低壓時水位偏高。",
+    "traditional_chinese": "反氣壓計效應",
+    "definition_cht": "海面或其他自由水面對大氣壓變化的近似反向調整現象；在完全調整時，氣壓每增加 1 hPa，水位約下降 1 公分。",
     "source_url": "https://glossary.ametsoc.org/wiki/inverted_barometer_effect"
   },
   {
     "english": "Inverted trough",
     "traditional_chinese": "倒槽",
-    "definition_cht": "在天氣圖上向高壓一側延伸、形狀與一般槽線相反的低壓槽。",
+    "definition_cht": "在天氣圖上其壓力朝向高緯方向增加、走向與多數中緯度槽線相反的低壓槽；熱帶波常屬此類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/Inverted_trough"
   },
   {
     "english": "inviscid fluid",
-    "traditional_chinese": "inviscid 流體",
-    "definition_cht": "假設黏滯性可忽略的理想化流體。",
+    "traditional_chinese": "無黏性流體",
+    "definition_cht": "假設黏滯作用可忽略、剪應力不存在或極小的理想化流體，常用於流體力學與動力氣象近似分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/inviscid_fluid"
   },
   {
     "english": "ion",
     "traditional_chinese": "離子",
-    "definition_cht": "原子或分子因失去或獲得電子而帶有淨電荷的粒子。",
+    "definition_cht": "原子、分子或分子團因失去或獲得電子而帶有淨電荷的粒子，可分為陽離子與陰離子。",
     "source_url": "https://glossary.ametsoc.org/wiki/ion"
   },
   {
     "english": "ion chromatography",
-    "traditional_chinese": "離子 chromatography",
-    "definition_cht": "利用離子交換與檢測技術分離並定量離子成分的分析方法。",
+    "traditional_chinese": "離子層析法",
+    "definition_cht": "利用離子交換分離機制並配合導電度或其他檢測器，分離與定量水樣、氣膠或溶液中陰、陽離子的分析方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/ion_chromatography"
   },
   {
     "english": "Ion cloud",
     "traditional_chinese": "離子雲",
-    "definition_cht": "指與「離子雲」相關的離子、游離作用或電離層物理現象。",
+    "definition_cht": "大氣或電離環境中離子濃度異常偏高的區域或帶狀通道，表示局部電離產物聚集或分布不均。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ion_cloud"
   },
   {
     "english": "ion counter",
     "traditional_chinese": "離子計數器",
-    "definition_cht": "指與「離子計數器」相關的離子、游離作用或電離層物理現象。",
+    "definition_cht": "量測取樣空氣中離子數目或電荷濃度的儀器，常以圓柱形電容器（如 Gerdien condenser）收集離子並據其電位變化推算。",
     "source_url": "https://glossary.ametsoc.org/wiki/ion_counter"
   },
   {
