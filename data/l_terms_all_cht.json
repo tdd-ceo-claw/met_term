@@ -1147,122 +1147,122 @@
   },
   {
     "english": "line intensity",
-    "traditional_chinese": "線強度",
-    "definition_cht": "指與「線強度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "譜線強度",
+    "definition_cht": "指吸收譜線或發射譜線的強弱程度，通常以輻射能量、峰值或線下面積表示；在大氣輻射與遙測中常用以反映特定氣體對特定波長的吸收或放射能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_intensity"
   },
   {
     "english": "line of apsides",
-    "traditional_chinese": "拱廊線",
-    "definition_cht": "指與「拱廊線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拱點連線",
+    "definition_cht": "天體軌道上近拱點與遠拱點的連線，用以表示橢圓軌道長軸方向；在天文氣候與軌道強迫研究中常用於描述近日點與遠日點的方位。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_of_apsides"
   },
   {
     "english": "line of sight",
-    "traditional_chinese": "視線",
-    "definition_cht": "指與「視線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "視線方向",
+    "definition_cht": "觀測者或感測器與目標之間的直接連線方向；於雷達、衛星遙測與輻射傳輸中，常指儀器接收或量測訊號所沿的觀測路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_of_sight"
   },
   {
     "english": "line squall",
-    "traditional_chinese": "線颮",
-    "definition_cht": "指與「線颮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "線狀颮",
+    "definition_cht": "沿狹長區域成帶發生的突發強風現象，通常與線狀對流或雷暴系統相伴；現代用法多與颮線或線狀對流系統相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_squall"
   },
   {
     "english": "line vortex",
-    "traditional_chinese": "線渦流",
-    "definition_cht": "指與「線渦流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "線渦",
+    "definition_cht": "將渦度集中於一條理想化曲線上的渦流模型，亦可視為渦旋細絲；常用於流體力學與大氣動力學中分析環流、誘導速度與渦旋交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_vortex"
   },
   {
     "english": "line width",
-    "traditional_chinese": "線寬",
-    "definition_cht": "指與「線寬」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "譜線寬度",
+    "definition_cht": "指光譜線在頻率或波長空間中的寬度，常以半高全寬等指標表示；其大小受都卜勒展寬、壓力展寬與自然展寬等作用影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_width"
   },
   {
     "english": "linear",
-    "traditional_chinese": "線性",
-    "definition_cht": "指與「線性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "線性的",
+    "definition_cht": "指量與量之間符合比例與可加性關係，滿足疊加原理；在大氣科學中常用來描述線性方程、線性近似或小擾動響應。",
     "source_url": "https://glossary.ametsoc.org/wiki/linear"
   },
   {
     "english": "linear depolarization ratio",
-    "traditional_chinese": "線性退偏比",
-    "definition_cht": "指表示「線性退偏比」相關兩種量值關係的比值，常用於診斷、比較或分類。",
+    "traditional_chinese": "線性退偏振比",
+    "definition_cht": "以線性偏振發射時，回波中正交偏振分量與同偏振分量功率之比值；常用於雷達或光達判別粒子形狀、相態與非球形程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/linear_depolarization_ratio"
   },
   {
     "english": "linear differential equation",
     "traditional_chinese": "線性微分方程",
-    "definition_cht": "描述「線性微分方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "definition_cht": "未知函數及其各階導數僅以一次方形式出現，且彼此不相乘的微分方程；在線性波動、擾動分析與數值預報理論中廣泛使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/linear_differential_equation"
   },
   {
     "english": "linear instability",
-    "traditional_chinese": "線性不穩定性",
-    "definition_cht": "指與「線性不穩定性」相關的不穩定機制，可導致擾動放大、波動增強或對流觸發。",
+    "traditional_chinese": "線性不穩定",
+    "definition_cht": "指在將控制方程線性化後，小振幅擾動仍會隨時間或空間成長的不穩定性；常用於分析斜壓、正壓或剪切流中的初期擾動發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/linear_instability"
   },
   {
     "english": "linear momentum",
-    "traditional_chinese": "線性動量",
-    "definition_cht": "指與「線性動量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "線動量",
+    "definition_cht": "物體質量與速度的乘積，為描述平移運動狀態的基本力學量；在大氣動力學中常以動量方程表示風場受壓力梯度力、重力、科氏力與摩擦力的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/linear_momentum"
   },
   {
     "english": "linear operator",
     "traditional_chinese": "線性算子",
-    "definition_cht": "指與「線性算子」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "對函數或向量施作後仍保持可加性與齊次性的算子；在偏微分方程、譜分析與資料同化中，常用以表述微分、濾波或變換運算。",
     "source_url": "https://glossary.ametsoc.org/wiki/linear_operator"
   },
   {
     "english": "linear water wave theory",
     "traditional_chinese": "線性水波理論",
-    "definition_cht": "指與「線性水波理論」相關的水體、水量、水文條件或含水狀態。",
+    "definition_cht": "又稱 Airy 波理論，假設波幅相對水深與波長皆小，因而可將自由液面邊界條件線性化，用以描述小振幅重力波的波速、軌道與壓力分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/linear_water_wave_theory"
   },
   {
     "english": "linearity",
-    "traditional_chinese": "線性度",
-    "definition_cht": "指與「線性度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "線性",
+    "definition_cht": "描述系統、儀器或數學關係符合比例性與疊加原理的性質；在觀測儀器中亦指輸入與輸出維持近似直線對應的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/linearity"
   },
   {
     "english": "linearization",
     "traditional_chinese": "線性化",
-    "definition_cht": "指與「線性化」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "將原本非線性的方程、關係或系統在某基準狀態附近以一階近似改寫為線性形式的處理方法，便於解析推導、穩定度分析與數值計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/linearization"
   },
   {
     "english": "linearized differential equation",
-    "traditional_chinese": "線性微分方程",
-    "definition_cht": "描述「線性微分方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "traditional_chinese": "線性化微分方程",
+    "definition_cht": "由非線性控制方程在特定基態或參考解附近展開並略去高階非線性項後所得的微分方程，常用於研究小擾動的演變與穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/linearized_differential_equation"
   },
   {
     "english": "lines of force",
     "traditional_chinese": "力線",
-    "definition_cht": "指與「力線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "表示力場或向量場方向的曲線，其切線方向在各點皆與該場方向一致；在大氣電學與地磁學中常用來描繪電場或磁場的空間分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/lines_of_force"
   },
   {
     "english": "Linke turbidity factor",
-    "traditional_chinese": "林克濁係數",
-    "definition_cht": "指與「林克濁係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "林克混濁因子",
+    "definition_cht": "衡量真實大氣對太陽直達輻射衰減程度相對於純淨乾燥大氣的無因次指標，綜合反映氣膠與水汽造成的混濁效應，常用於太陽能與大氣輻射計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/Linke_turbidity_factor"
   },
   {
     "english": "Lips",
-    "traditional_chinese": "嘴唇",
-    "definition_cht": "指與「嘴唇」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Lips（專名）",
+    "definition_cht": "此條目在可得參考資料中未見穩定且明確的通行中文專業譯名，疑為專名或少見歷史用語；為避免誤譯，暫保留原名並標示為專名。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lips"
   },
   {
     "english": "liquid thermometer",
     "traditional_chinese": "液體溫度計",
-    "definition_cht": "指與「液體溫度計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "利用液體受熱膨脹、遇冷收縮的體積變化來指示溫度的溫度計，常見形式為液柱式或液體玻璃溫度計，使用液體可為水銀或染色酒精等。",
     "source_url": "https://glossary.ametsoc.org/wiki/liquid_thermometer"
   },
   {
