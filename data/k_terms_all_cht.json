@@ -175,20 +175,20 @@
   },
   {
     "english": "Kelvin–Helmholtz billows",
-    "traditional_chinese": "克耳文－亥姆霍茲波狀雲卷",
-    "definition_cht": "由上下層流體速度切變引發不穩定後形成的捲曲波狀結構，常表現為雲層頂部一連串翻卷浪形。",
+    "traditional_chinese": "開爾文－赫姆霍茲波狀翻捲",
+    "definition_cht": "由垂直風切變或層間速度差觸發的開爾文－赫姆霍茲不穩定所形成之捲曲波狀結構；在大氣中常呈現在雲頂的一連串翻捲浪形。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kelvin%E2%80%93Helmholtz_billows"
   },
   {
     "english": "Kelvin–Helmholtz instability",
-    "traditional_chinese": "克耳文－亥姆霍茲不穩定",
-    "definition_cht": "當流體層間存在足夠強的速度切變時所產生的動力不穩定，可導致波動增幅、混合作用加強及紊流生成。",
+    "traditional_chinese": "開爾文－赫姆霍茲不穩定",
+    "definition_cht": "流體中因明顯速度切變，或兩層流體交界面存在速度差而產生的動力不穩定；可使波動振幅增長，並進一步促進混合與紊流發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kelvin%E2%80%93Helmholtz_instability"
   },
   {
     "english": "Kelvin–Helmholtz wave",
-    "traditional_chinese": "克耳文－亥姆霍茲波",
-    "definition_cht": "由層間速度切變所激發的界面波或雲波，為克耳文－亥姆霍茲不穩定在大氣或海洋中的典型表現。",
+    "traditional_chinese": "開爾文－赫姆霍茲波",
+    "definition_cht": "由層間速度切變所激發的界面波或雲波，為開爾文－赫姆霍茲不穩定在大氣或海洋中的典型表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kelvin%E2%80%93Helmholtz_wave"
   },
   {
@@ -200,7 +200,7 @@
   {
     "english": "ketones",
     "traditional_chinese": "酮類",
-    "definition_cht": "含有羰基結構的一類有機化合物，可作為大氣痕量氣體與光化學反應中間產物，影響氧化能力與氣膠生成。",
+    "definition_cht": "含有羰基（>C=O）的一類有機化合物；在大氣化學中可作為揮發性有機物氧化後的產物或反應中間體，並影響氧化能力與有機氣膠生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/ketones"
   },
   {
@@ -253,8 +253,8 @@
   },
   {
     "english": "kilomegacycle",
-    "traditional_chinese": "千兆周",
-    "definition_cht": "舊制高頻率單位，相當於每秒十億次振動，現行通常以 gigahertz 表示。",
+    "traditional_chinese": "十億周（舊制）",
+    "definition_cht": "舊制頻率單位，等於每秒十億次振動，即 10^9 cycles per second，現多以 gigahertz（GHz）表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/kilomegacycle"
   },
   {
@@ -272,13 +272,13 @@
   {
     "english": "kinematic flux",
     "traditional_chinese": "運動學通量",
-    "definition_cht": "未乘以密度、比熱或其他轉換係數前的通量表達形式，常以速度與濃度擾動乘積表示，用於紊流交換分析。",
+    "definition_cht": "未乘上密度、比熱或潛熱等轉換係數前的通量表示法，常以垂直速度與某標量擾動的協方差表示，用於紊流熱量、水氣或動量交換分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/kinematic_flux"
   },
   {
     "english": "kinematic viscosity",
-    "traditional_chinese": "運動黏度",
-    "definition_cht": "動黏滯係數除以流體密度所得之黏度量，表示流體動量擴散能力，單位通常為平方公尺每秒。",
+    "traditional_chinese": "動黏滯係數",
+    "definition_cht": "流體之動力黏度除以密度所得的黏滯量，表示動量擴散能力，常用單位為平方公尺每秒。",
     "source_url": "https://glossary.ametsoc.org/wiki/kinematic_viscosity"
   },
   {
