@@ -27295,122 +27295,122 @@
   },
   {
     "english": "isobaric contour chart",
-    "traditional_chinese": "isobaric contour 圖",
-    "definition_cht": "「isobaric contour 圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等壓面等高線圖",
+    "definition_cht": "在固定氣壓面上，以等高線描繪該等壓面位勢高度或幾何高度分布的分析圖，常用於高空天氣分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_contour_chart"
   },
   {
     "english": "isobaric divergence",
-    "traditional_chinese": "isobaric divergence",
-    "definition_cht": "「isobaric divergence」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等壓面散度",
+    "definition_cht": "在等壓面上計算之水平風散度，用以表示空氣在固定氣壓面上的輻散或輻合程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_divergence"
   },
   {
     "english": "isobaric mixing",
-    "traditional_chinese": "isobaric 混合",
-    "definition_cht": "「isobaric 混合」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等壓混合",
+    "definition_cht": "沿同一等壓面發生的空氣混合過程，用於描述在固定氣壓層上的物質與熱力性質交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_mixing"
   },
   {
     "english": "isobaric surface",
-    "traditional_chinese": "isobaric 面",
-    "definition_cht": "氣壓相同各點所構成的曲面。",
+    "traditional_chinese": "等壓面",
+    "definition_cht": "氣壓相同各點所構成的三維曲面，是高空分析與大氣診斷常用的座標面。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_surface"
   },
   {
     "english": "isobaric thickness chart",
-    "traditional_chinese": "isobaric 厚度圖",
-    "definition_cht": "「isobaric 厚度圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等壓厚度圖",
+    "definition_cht": "表示兩個指定等壓面之間層厚分布的分析圖；層厚與該層平均虛溫或平均溫度密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_thickness_chart"
   },
   {
     "english": "isobaric tube",
-    "traditional_chinese": "isobaric tube",
-    "definition_cht": "「isobaric tube」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等壓管",
+    "definition_cht": "由一組相鄰等壓面所圍成的管狀空間體，可用來描述固定壓力層之間空氣柱的結構與質量分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_tube"
   },
   {
     "english": "isobaric vorticity",
-    "traditional_chinese": "isobaric vorticity",
-    "definition_cht": "「isobaric vorticity」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等壓面渦度",
+    "definition_cht": "在等壓面上定義的水平渦度，用以表示固定氣壓面上氣流旋轉的方向與強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_vorticity"
   },
   {
     "english": "isobaric–isosteric solenoid",
-    "traditional_chinese": "isobaric—isosteric solenoid",
-    "definition_cht": "「isobaric—isosteric solenoid」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等壓－等比容溶旋",
+    "definition_cht": "由等壓面與等比容面相交所形成的溶旋場，反映壓力梯度與密度（或比容）梯度不平行時所產生的環流生成效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric%E2%80%93isosteric_solenoid"
   },
   {
     "english": "isobath",
-    "traditional_chinese": "isobath",
-    "definition_cht": "表示同一水深的等值線。",
+    "traditional_chinese": "等深線",
+    "definition_cht": "在海圖或水深圖上連接水深相同各點的等值線，用以表示海底或湖底地形。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobath"
   },
   {
     "english": "isobathytherm",
-    "traditional_chinese": "isobathytherm",
-    "definition_cht": "「isobathytherm」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等深溫線",
+    "definition_cht": "連接某一指定水溫所在深度相同各點的等值線，用以表示該溫度面埋深的空間分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobathytherm"
   },
   {
     "english": "isobront",
-    "traditional_chinese": "isobront",
-    "definition_cht": "表示雷暴同時發生時間的等值線。",
+    "traditional_chinese": "等雷暴時線",
+    "definition_cht": "連接雷暴在同一時刻發生或到達各地點的等值線，用於分析雷暴系統的時空推移。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobront"
   },
   {
     "english": "isoceraunic",
-    "traditional_chinese": "isoceraunic",
-    "definition_cht": "「isoceraunic」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等雷日的",
+    "definition_cht": "指雷暴發生日數或雷電活動頻率相同的分布特性，常用於描述等雷日分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/isoceraunic"
   },
   {
     "english": "isoceraunic line",
-    "traditional_chinese": "isoceraunic 線",
-    "definition_cht": "連接年平均雷日數相同地點的等值線。",
+    "traditional_chinese": "等雷日線",
+    "definition_cht": "連接年平均雷暴日數相同各地點的等值線，用於表示雷電氣候分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isoceraunic_line"
   },
   {
     "english": "isochasm",
-    "traditional_chinese": "isochasm",
-    "definition_cht": "表示極光出現頻率相同的等值線。",
+    "traditional_chinese": "等極光頻度線",
+    "definition_cht": "連接極光出現頻率相同各地點的等值線，用於表示極光活動的氣候分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isochasm"
   },
   {
     "english": "isochoric",
     "traditional_chinese": "等容的",
-    "definition_cht": "「等容的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指體積保持不變的狀態或過程；在熱力學中常用於描述定容過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/isochoric"
   },
   {
     "english": "isochrone",
-    "traditional_chinese": "isochrone",
-    "definition_cht": "表示事件同時到達或發生時間相同的等時線。",
+    "traditional_chinese": "等時線",
+    "definition_cht": "在圖上連接某事件於相同時間發生、到達或具有相同時間值各點的線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isochrone"
   },
   {
     "english": "isocline",
-    "traditional_chinese": "isocline",
-    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。",
+    "traditional_chinese": "等斜線",
+    "definition_cht": "連接斜率、傾角或梯度相同各點的線；在不同學科中可依所表示量而有不同專指。",
     "source_url": "https://glossary.ametsoc.org/wiki/isocline"
   },
   {
     "english": "isoclinic line",
-    "traditional_chinese": "isoclinic 線",
-    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。",
+    "traditional_chinese": "等磁傾線",
+    "definition_cht": "連接地磁傾角（磁偶極針與水平面的夾角）相同各地點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isoclinic_line"
   },
   {
     "english": "isodef",
-    "traditional_chinese": "isodef",
-    "definition_cht": "「isodef」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等偏折線",
+    "definition_cht": "連接偏折量相同各點的等值線；實際所指偏折性質須依使用領域與圖件定義判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/isodef"
   },
   {
     "english": "isodrosotherm",
-    "traditional_chinese": "isodrosotherm",
-    "definition_cht": "表示相同露點溫度的等值線。",
+    "traditional_chinese": "等露點線",
+    "definition_cht": "連接露點溫度相同各地點的等值線，用於表示近地面水氣分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isodrosotherm"
   },
   {
