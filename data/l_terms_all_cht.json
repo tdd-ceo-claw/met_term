@@ -1028,121 +1028,121 @@
   {
     "english": "lightning mapping system",
     "traditional_chinese": "閃電測繪系統",
-    "definition_cht": "由多部雷電探測設備組成的定位系統，可利用高時間解析度量測閃電放電源所發出的電磁訊號，進而在三維空間中描繪雲內與雲地閃電結構。",
+    "definition_cht": "由多部閃電探測設備組成的觀測網，用於定位閃電放電的電磁訊號來源，並以微秒等級時間解析度在三維空間描繪雲內與雲地閃電的發生位置與結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_mapping_system"
   },
   {
     "english": "lightning rod",
     "traditional_chinese": "避雷針",
-    "definition_cht": "指與「避雷針」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "裝設於建築物或設施上的導體裝置，用於優先截受雷擊並將雷電流安全導入地面，以降低建物、設備與人員遭雷擊損害的風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_rod"
   },
   {
     "english": "lightning stroke",
-    "traditional_chinese": "雷擊",
-    "definition_cht": "指與「雷擊」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷電擊次",
+    "definition_cht": "在雲對地放電中，指一次先導與其後續回擊所構成的單一次雷擊；一次閃電常可包含數個連續擊次，且多沿近似相同的通道發生。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_stroke"
   },
   {
     "english": "lightning suppression",
     "traditional_chinese": "雷電抑制",
-    "definition_cht": "指與「雷電抑制」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指試圖降低或防止雷電發生的人為作業或技術措施，例如以人工播撒材料改變雲中電性結構；多屬實驗性天氣修改研究範疇。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_suppression"
   },
   {
     "english": "lightship code",
-    "traditional_chinese": "燈船代碼",
-    "definition_cht": "指與「燈船代碼」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "燈船識別代碼",
+    "definition_cht": "指國際氣象通報中指派給燈船的識別代號，用以標示其為氣象觀測來源；燈船在編碼上視為固定測站，以區別於航行中的船舶。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightship_code"
   },
   {
     "english": "lightship station",
-    "traditional_chinese": "燈船站",
-    "definition_cht": "指與「燈船站」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "燈船測站",
+    "definition_cht": "設於燈船上的地面綜觀氣象測站，用於於近海固定位置持續進行天氣與海況觀測及通報。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightship_station"
   },
   {
     "english": "Liman Current",
-    "traditional_chinese": "利曼電流",
-    "definition_cht": "指與「利曼電流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "traditional_chinese": "利曼海流",
+    "definition_cht": "位於庫頁島與亞洲大陸之間、沿韃靼海峽南流的寒流，將鄂霍次克海較冷海水輸送至日本海。",
     "source_url": "https://glossary.ametsoc.org/wiki/Liman_Current"
   },
   {
     "english": "limb scanning",
-    "traditional_chinese": "肢體掃描",
-    "definition_cht": "指與「肢體掃描」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "掠邊掃描",
+    "definition_cht": "由衛星或太空載具朝地球邊緣上方大氣進行側視探測的方法，藉量測不同高度上的輻射訊號以反演大氣成分與垂直剖面。",
     "source_url": "https://glossary.ametsoc.org/wiki/limb_scanning"
   },
   {
     "english": "limestone scrubbing",
-    "traditional_chinese": "石灰石洗滌",
-    "definition_cht": "指與「石灰石洗滌」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "石灰石洗滌脫硫",
+    "definition_cht": "以石灰石作為吸收劑去除廢氣中二氧化硫的污染控制技術，常見作法為在濕式洗滌塔中以石灰石漿液與煙氣接觸吸收。",
     "source_url": "https://glossary.ametsoc.org/wiki/limestone_scrubbing"
   },
   {
     "english": "limit cycle",
     "traditional_chinese": "極限環",
-    "definition_cht": "指與「極限環」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "動力系統相空間中的封閉穩定或不穩定振盪軌道，可吸引或排斥鄰近狀態；在氣象與氣候非線性系統中常用以描述自持週期振盪。",
     "source_url": "https://glossary.ametsoc.org/wiki/limit_cycle"
   },
   {
     "english": "limit of convection",
     "traditional_chinese": "對流極限",
-    "definition_cht": "指與「對流極限」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "飽和上升氣塊所能達到的中性浮力高度，亦即平衡層；氣塊上升至此後浮力消失，深對流發展通常不再持續增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/limit_of_convection"
   },
   {
     "english": "limit of the atmosphere",
-    "traditional_chinese": "大氣層的極限",
-    "definition_cht": "指與「大氣層的極限」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大氣上界",
+    "definition_cht": "指大氣密度稀薄到可視為與外層空間近乎連續過渡的高度界限；其位置並非固定常數，而會隨定義方式與大氣狀態而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/limit_of_the_atmosphere"
   },
   {
     "english": "limited fine-mesh model",
-    "traditional_chinese": "有限細網格模型",
-    "definition_cht": "用於表示「有限細網格模型」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "有限區域細網格模式",
+    "definition_cht": "縮寫為 LFM，為早期以較細水平網格在有限區域內進行數值天氣預報的模式，用於較高解析度模擬區域尺度天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/limited_fine-mesh_model"
   },
   {
     "english": "limited-area forecast model",
-    "traditional_chinese": "有限區域預測模型",
-    "definition_cht": "用於表示「有限區域預測模型」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "有限區域預報模式",
+    "definition_cht": "只在特定地理範圍內積分運算的數值天氣預報模式，通常以較高空間解析度模擬區域性天氣結構，邊界條件則由較大尺度分析或全球模式提供。",
     "source_url": "https://glossary.ametsoc.org/wiki/limited-area_forecast_model"
   },
   {
     "english": "limiting angle",
-    "traditional_chinese": "極限角",
-    "definition_cht": "指與「極限角」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "限制仰角",
+    "definition_cht": "在高空風無線電測向觀測中，指低於此仰角時因反射與折射造成的探空追蹤誤差過大，以致所推算風場結果不可靠的角度下限。",
     "source_url": "https://glossary.ametsoc.org/wiki/limiting_angle"
   },
   {
     "english": "limiting wave",
     "traditional_chinese": "極限波",
-    "definition_cht": "指與「極限波」相關的波動、擾動或傳播現象，涉及振幅、相速與能量傳遞特性。",
+    "definition_cht": "振幅或陡度已達理論最大值的波動形態，再增強即可能導致破波、失穩或波形改變；常用於表述接近破碎前的海浪極限狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/limiting_wave"
   },
   {
     "english": "line absorption",
-    "traditional_chinese": "線吸收",
-    "definition_cht": "指與「線吸收」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "譜線吸收",
+    "definition_cht": "原子或分子只在特定波長或頻率附近吸收輻射能量的現象，是大氣輻射傳輸與遙測中描述氣體吸收結構的重要概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_absorption"
   },
   {
     "english": "line average",
     "traditional_chinese": "線平均",
-    "definition_cht": "指與「線平均」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "沿一直線或曲線路徑上取得的一組觀測值之平均，例如沿航線、道路或飛行軌跡對氣象變數所做的平均。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_average"
   },
   {
     "english": "line echo wave pattern",
-    "traditional_chinese": "線回波波形",
-    "definition_cht": "指與「線回波波形」相關的波動、擾動或傳播現象，涉及振幅、相速與能量傳遞特性。",
+    "traditional_chinese": "線狀回波波動型態",
+    "definition_cht": "簡稱 LEWP，指在線狀對流回波中呈現波狀起伏並伴隨局部弓形外凸的特殊雷達結構，常顯示中尺度低壓擾動存在，並與破壞性強風或龍捲風風險有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_echo_wave_pattern"
   },
   {
     "english": "line integral",
     "traditional_chinese": "線積分",
-    "definition_cht": "指與「線積分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "沿指定曲線對純量場或向量場進行積分的數學運算，在氣象中常用於計算循環、通量或沿路徑累積量等。",
     "source_url": "https://glossary.ametsoc.org/wiki/line_integral"
   },
   {
