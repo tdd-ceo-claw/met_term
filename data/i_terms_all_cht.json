@@ -1921,122 +1921,122 @@
   },
   {
     "english": "IR",
-    "traditional_chinese": "紅外線",
-    "definition_cht": "「IR」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。",
+    "traditional_chinese": "紅外線（IR）",
+    "definition_cht": "infrared 的縮寫，指波長長於可見紅光的電磁輻射；在氣象上常指紅外線觀測或紅外衛星雲圖，可依物體放射的熱紅外訊號推估雲頂或地表亮溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/IR"
   },
   {
     "english": "iridescent clouds",
-    "traditional_chinese": "iridescent clouds",
-    "definition_cht": "雲滴或細小冰晶對陽光繞射所產生的彩虹般雲色現象。",
+    "traditional_chinese": "虹彩雲",
+    "definition_cht": "雲中大小較均勻的微小水滴或冰晶對日光、月光產生繞射與干涉時，於雲邊或雲薄處出現的珠彩色光學現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/iridescent_clouds"
   },
   {
     "english": "IRIS",
-    "traditional_chinese": "虹彩現象／IRIS 系統",
-    "definition_cht": "「IRIS」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。",
+    "traditional_chinese": "紅外干涉光譜儀（IRIS）",
+    "definition_cht": "Infrared Interferometer Spectrometer 的縮寫；為搭載於 Nimbus 3 與 Nimbus 4 的米氏干涉型紅外光譜儀，用於量測 5 至 20 微米波段的地球與大氣輻射光譜。",
     "source_url": "https://glossary.ametsoc.org/wiki/IRIS"
   },
   {
     "english": "irisation",
-    "traditional_chinese": "irisation",
-    "definition_cht": "指與「irisation」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "虹彩現象",
+    "definition_cht": "即 cloud iridescence，指雲滴或細小冰晶使陽光或月光發生繞射後，在雲的邊緣或鄰近日、月處呈現粉綠、粉紅等柔和彩色的光象。",
     "source_url": "https://glossary.ametsoc.org/wiki/irisation"
   },
   {
     "english": "iron winds",
-    "traditional_chinese": "iron winds",
-    "definition_cht": "指與「iron winds」相關的風系、局地風或風場型態，著重其形成機制、風向風速分布及天氣影響。",
+    "traditional_chinese": "鐵風",
+    "definition_cht": "中美洲的東北風，盛行於 2 至 3 月，常可持續數日穩定吹送；屬區域性季節風型強風名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/iron_winds"
   },
   {
     "english": "irradiance",
-    "traditional_chinese": "irradiance",
-    "definition_cht": "單位面積所接收的輻射通量密度。",
+    "traditional_chinese": "輻照度",
+    "definition_cht": "單位面積所接收的輻射通量密度，SI 單位為瓦特每平方公尺；在太陽輻射與能量收支分析中用以表示瞬時入射輻射強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/irradiance"
   },
   {
     "english": "irradiation",
-    "traditional_chinese": "irradiation",
-    "definition_cht": "物體表面或介質接受輻射照射的作用過程。",
+    "traditional_chinese": "輻照",
+    "definition_cht": "物體表面或介質接受輻射照射的作用，亦可指在一段時間內累積的照射量；太陽能與氣候文獻中常對應於積分後的入射輻射能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/irradiation"
   },
   {
     "english": "irregular crystal",
-    "traditional_chinese": "irregular crystal",
-    "definition_cht": "「irregular crystal」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "不規則冰晶",
+    "definition_cht": "一種無明顯晶面或規則外形的雪晶粒子，常可覆有霧淞；在雪晶分類中有時作為無法歸入其他典型形態時的末類。",
     "source_url": "https://glossary.ametsoc.org/wiki/irregular_crystal"
   },
   {
     "english": "irreversible process",
-    "traditional_chinese": "irreversible 過程",
-    "definition_cht": "「irreversible 過程」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "不可逆過程",
+    "definition_cht": "熱力學上指系統與其環境總熵增加、無法在不留下淨變化的情況下完全回復初始狀態的過程；所有實際自然過程皆具有某種不可逆性。",
     "source_url": "https://glossary.ametsoc.org/wiki/irreversible_process"
   },
   {
     "english": "irrigation",
-    "traditional_chinese": "irrigation",
-    "definition_cht": "將水人工引入土壤或作物根區以補充天然降水不足的農業供水措施。",
+    "traditional_chinese": "灌溉",
+    "definition_cht": "以人工方式將水引入農地土壤或作物根區，以補充天然降水不足並維持作物生長的供水措施。",
     "source_url": "https://glossary.ametsoc.org/wiki/irrigation"
   },
   {
     "english": "irrigation return flow",
-    "traditional_chinese": "irrigation return 流動",
-    "definition_cht": "指與「irrigation return 流動」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "灌溉回歸流",
+    "definition_cht": "灌溉用水滲漏至根區以下，或以地表逕流、地下回流等形式返回排水系統、渠道或河川的水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/irrigation_return_flow"
   },
   {
     "english": "irrotational",
-    "traditional_chinese": "irrotational",
-    "definition_cht": "流場局部渦度為零或可視為無旋的性質。",
+    "traditional_chinese": "無旋的",
+    "definition_cht": "指流場局部渦度為零，或速度場的旋度可忽略不計的性質；在二維或三維流體分析中代表流體微團不發生淨自轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/irrotational"
   },
   {
     "english": "isabnormal line",
-    "traditional_chinese": "isabnormal 線",
-    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。",
+    "traditional_chinese": "等偏離常值線",
+    "definition_cht": "圖上連結某一氣象量相對常值偏差相同各點的等值線；用於表示氣候平均值以外的正、負偏離分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isabnormal_line"
   },
   {
     "english": "isallobar",
-    "traditional_chinese": "isallobar",
-    "definition_cht": "表示同一氣壓變化量的等值線。",
+    "traditional_chinese": "等變壓線",
+    "definition_cht": "在一定時間間隔內，連結氣壓變化量相同各點的等值線，常用以判斷低壓發展、減弱及其移動趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/isallobar"
   },
   {
     "english": "isallobaric",
     "traditional_chinese": "等變壓的",
-    "definition_cht": "「等變壓的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指與氣壓變化量相等的分布或分析有關；常用於描述一定時段內的氣壓傾向場及其衍生動力效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/isallobaric"
   },
   {
     "english": "isallobaric chart",
     "traditional_chinese": "等變壓圖",
-    "definition_cht": "「等變壓圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "呈現特定時間區間內氣壓變化分析結果的圖表，通常以等變壓線表示壓力上升或下降的空間分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isallobaric_chart"
   },
   {
     "english": "isallobaric wind",
-    "traditional_chinese": "isallobaric 風",
-    "definition_cht": "由水平氣壓變化梯度驅動、與氣壓傾向分布有關的年齡不平衡風分量。",
+    "traditional_chinese": "等變壓風",
+    "definition_cht": "由氣壓傾向梯度所誘發的年齡不平衡風分量，方向大致垂直等變壓線並指向壓力下降區，其強度與變壓梯度成正比。",
     "source_url": "https://glossary.ametsoc.org/wiki/isallobaric_wind"
   },
   {
     "english": "isallohypsic wind",
-    "traditional_chinese": "isallohypsic 風",
-    "definition_cht": "指與「isallohypsic 風」相關的風系、局地風或風場型態，著重其形成機制、風向風速分布及天氣影響。",
+    "traditional_chinese": "等變高風",
+    "definition_cht": "由位勢高度傾向梯度所造成的年齡不平衡風分量，可視為高空等變壓風的對應概念，方向與高度變化等值線近於垂直。",
     "source_url": "https://glossary.ametsoc.org/wiki/isallohypsic_wind"
   },
   {
     "english": "isallotherm",
-    "traditional_chinese": "isallotherm",
-    "definition_cht": "表示同一氣溫變化量的等值線。",
+    "traditional_chinese": "等變溫線",
+    "definition_cht": "在一定時間間隔內，連結氣溫變化量相同各點的等值線，用以分析冷暖變化的空間分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isallotherm"
   },
   {
     "english": "isametric",
-    "traditional_chinese": "isametric",
-    "definition_cht": "「isametric」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等離向線",
+    "definition_cht": "罕用術語，等同 equideparture，指在圖上連結經向離距相同各點的線；常見於地圖投影與航海、氣象製圖相關脈絡。",
     "source_url": "https://glossary.ametsoc.org/wiki/isametric"
   },
   {
