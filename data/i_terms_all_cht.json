@@ -2282,121 +2282,121 @@
   {
     "english": "isodynamic",
     "traditional_chinese": "等磁力的",
-    "definition_cht": "「等磁力的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指磁力強度相同的性質；在地磁圖上常用於表示連結磁場總強度相等各點的等值線或相關分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/isodynamic"
   },
   {
     "english": "isoecho",
-    "traditional_chinese": "isoecho",
-    "definition_cht": "表示雷達回波強度相同的等值線。",
+    "traditional_chinese": "等回波線",
+    "definition_cht": "指在雷達圖上連結回波強度或雷達反射率相同各點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isoecho"
   },
   {
     "english": "isofronts–preiso code",
-    "traditional_chinese": "isofronts—preiso 代碼",
-    "definition_cht": "指與「isofronts—preiso 代碼」相關的鋒面、鋒區或其空間邊界結構，常用於描述不同氣團之間的過渡帶。",
+    "traditional_chinese": "等鋒線—PREISO 代碼",
+    "definition_cht": "指在氣象分析或資料交換中，用來標示等鋒線（isofronts）及其前置等值分析資訊的代碼。",
     "source_url": "https://glossary.ametsoc.org/wiki/isofronts%E2%80%93preiso_code"
   },
   {
     "english": "isogeotherm",
-    "traditional_chinese": "isogeotherm",
-    "definition_cht": "表示相同地溫的等值線。",
+    "traditional_chinese": "等地溫線",
+    "definition_cht": "指連結地下或地表下同一深度處地溫相同各點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isogeotherm"
   },
   {
     "english": "isogon",
-    "traditional_chinese": "isogon",
-    "definition_cht": "表示相同磁偏角的等值線。",
+    "traditional_chinese": "等風向線；等磁偏角線",
+    "definition_cht": "在氣象圖上可指連結風向相同各點的線；在航海與地磁圖上亦可指磁偏角相同的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isogon"
   },
   {
     "english": "isogonic line",
-    "traditional_chinese": "isogonic 線",
-    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。",
+    "traditional_chinese": "等磁偏角線",
+    "definition_cht": "指在地磁圖上連結磁偏角相同各點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isogonic_line"
   },
   {
     "english": "isogram",
-    "traditional_chinese": "isogram",
-    "definition_cht": "「isogram」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等值線",
+    "definition_cht": "泛指在圖上連結某一氣象或地球科學量值相同各點的線，為各類 isarithm 的通稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/isogram"
   },
   {
     "english": "isohaline",
-    "traditional_chinese": "isohaline",
-    "definition_cht": "表示相同鹽度的等值線。",
+    "traditional_chinese": "等鹽度線",
+    "definition_cht": "指在海洋或湖泊分析圖上連結鹽度相同各點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isohaline"
   },
   {
     "english": "isohel",
-    "traditional_chinese": "isohel",
-    "definition_cht": "表示日照量或日照時數相同的等值線。",
+    "traditional_chinese": "等日照線",
+    "definition_cht": "指連結日照時數或太陽輻射量相同各地點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isohel"
   },
   {
     "english": "isohume",
-    "traditional_chinese": "isohume",
-    "definition_cht": "表示相同濕度值的等值線。",
+    "traditional_chinese": "等相對濕度線",
+    "definition_cht": "指在圖上連結相對濕度相同各點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isohume"
   },
   {
     "english": "isohyet",
-    "traditional_chinese": "isohyet",
-    "definition_cht": "表示相同降水量的等值線。",
+    "traditional_chinese": "等雨量線",
+    "definition_cht": "指在圖上連結一定期間累積降水量相同各點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isohyet"
   },
   {
     "english": "isohyetal map",
     "traditional_chinese": "等雨量圖",
-    "definition_cht": "「等雨量圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指以等雨量線表示某一地區降水量空間分布的地圖。",
     "source_url": "https://glossary.ametsoc.org/wiki/isohyetal_map"
   },
   {
     "english": "isohypsic",
-    "traditional_chinese": "isohypsic",
-    "definition_cht": "「isohypsic」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等高的",
+    "definition_cht": "指高度相同的；在氣象分析中常用於描述等位勢高度面或等高分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isohypsic"
   },
   {
     "english": "isokinetic",
     "traditional_chinese": "等速的",
-    "definition_cht": "「等速的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指速度相同的；在採樣或流體量測中尤指取樣口流速與外部來流速度一致的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/isokinetic"
   },
   {
     "english": "isokinetic sampling",
-    "traditional_chinese": "isokinetic sampling",
-    "definition_cht": "使採樣口流速與外界來流速度相同，以降低粒子取樣偏差的方法。",
+    "traditional_chinese": "等速採樣",
+    "definition_cht": "指使採樣口進氣速度與外界來流速度相同，以降低粒子或氣膠取樣偏差的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/isokinetic_sampling"
   },
   {
     "english": "isolated system",
-    "traditional_chinese": "isolated 系統",
-    "definition_cht": "「isolated 系統」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "孤立系統",
+    "definition_cht": "指與外界既不交換物質也不交換能量的熱力學系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/isolated_system"
   },
   {
     "english": "isoline",
-    "traditional_chinese": "isoline",
-    "definition_cht": "表示某一物理量相同的通用等值線。",
+    "traditional_chinese": "等值線",
+    "definition_cht": "指在圖上連結同一物理量數值相同各點的通用等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isoline"
   },
   {
     "english": "isomer",
-    "traditional_chinese": "isomer",
-    "definition_cht": "「isomer」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "異構物",
+    "definition_cht": "指化學式相同但分子結構或原子排列不同，因而性質可能不同的化學物種。",
     "source_url": "https://glossary.ametsoc.org/wiki/isomer"
   },
   {
     "english": "isoneph",
-    "traditional_chinese": "isoneph",
-    "definition_cht": "表示雲量相同的等值線。",
+    "traditional_chinese": "等雲量線",
+    "definition_cht": "指在圖上連結雲量相同各地點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isoneph"
   },
   {
     "english": "isonival",
-    "traditional_chinese": "isonival",
-    "definition_cht": "「isonival」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等降雪量線",
+    "definition_cht": "指連結一定期間降雪量、積雪深度或雪水當量相同各點的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isonival"
   },
   {
