@@ -26935,122 +26935,122 @@
   },
   {
     "english": "ion density",
-    "traditional_chinese": "離子 density",
-    "definition_cht": "指與「離子 density」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "離子密度",
+    "definition_cht": "單位體積內所含離子的數目；在大氣電學、電離層與電漿物理中，常用以描述某區域帶電粒子的濃度分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/ion_density"
   },
   {
     "english": "ion mean life",
-    "traditional_chinese": "離子 mean life",
-    "definition_cht": "指與「離子 mean life」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "離子平均壽命",
+    "definition_cht": "離子自生成至因復合、附著或其他損失過程而消失的平均存續時間；其長短受空氣潔淨度、氣膠濃度與電離環境影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/ion_mean_life"
   },
   {
     "english": "ion mobility",
-    "traditional_chinese": "離子 mobility",
-    "definition_cht": "指與「離子 mobility」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "離子遷移率",
+    "definition_cht": "離子在電場作用下的漂移能力，通常定義為漂移速度與電場強度之比；為描述氣體、液體或電漿中離子傳輸的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/ion_mobility"
   },
   {
     "english": "ion pair",
-    "traditional_chinese": "離子 pair",
-    "definition_cht": "指與「離子 pair」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "離子對",
+    "definition_cht": "由一次游離作用同時產生，或因靜電吸引而成對存在的正、負離子；在輻射偵測與大氣電學中常用以表示基本帶電粒子對。",
     "source_url": "https://glossary.ametsoc.org/wiki/ion_pair"
   },
   {
     "english": "ion-capture theory",
-    "traditional_chinese": "離子—capture theory",
-    "definition_cht": "指與「離子—capture theory」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "離子捕獲理論",
+    "definition_cht": "用以說明中性粒子、微粒或液滴藉由捕獲空氣中離子而帶電的理論；常應用於大氣電學、氣膠帶電與雲滴起電等問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/ion-capture_theory"
   },
   {
     "english": "ionic conduction",
-    "traditional_chinese": "ionic conduction",
-    "definition_cht": "指與「ionic conduction」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "離子傳導",
+    "definition_cht": "電流主要藉由離子移動所形成的導電現象，可發生於電解質、潮濕介質、氣體或某些固體材料中，與電子傳導相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionic_conduction"
   },
   {
     "english": "ionization",
     "traditional_chinese": "游離",
-    "definition_cht": "中性原子或分子因能量作用而形成離子的過程。",
+    "definition_cht": "中性原子或分子因吸收足夠能量而失去或獲得電子、形成離子的過程；可由碰撞、輻射或化學反應引起。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionization"
   },
   {
     "english": "ionization chamber",
-    "traditional_chinese": "游離 chamber",
-    "definition_cht": "量測游離輻射或帶電粒子通量時，利用氣體游離電流原理的偵測器。",
+    "traditional_chinese": "游離室",
+    "definition_cht": "利用氣體受游離輻射作用後產生離子對，並收集其電荷以量測輻射強度或帶電粒子通量的偵測器。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionization_chamber"
   },
   {
     "english": "ionization potential",
-    "traditional_chinese": "游離位勢",
-    "definition_cht": "指與「游離位勢」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "游離能",
+    "definition_cht": "使原子、分子或其他粒子失去一個電子而發生游離所需的最小能量；在較早文獻中亦常稱為游離位勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionization_potential"
   },
   {
     "english": "Ionizing radiation",
     "traditional_chinese": "游離輻射",
-    "definition_cht": "指與「游離輻射」相關的電磁輻射或其能量傳輸過程。",
+    "definition_cht": "具有足夠能量可使物質原子或分子產生游離的輻射，包括高能電磁波與帶電或中性粒子輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ionizing_radiation"
   },
   {
     "english": "ionogram",
-    "traditional_chinese": "ionogram",
-    "definition_cht": "以離子探測儀量測並繪示電離層反射回波延遲與頻率關係的圖。",
+    "traditional_chinese": "電離圖",
+    "definition_cht": "由電離層探測儀量測所得、顯示回波虛高度隨無線電頻率變化關係的圖形，用以判讀電離層結構與臨界頻率。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionogram"
   },
   {
     "english": "ionosonde",
-    "traditional_chinese": "ionosonde",
-    "definition_cht": "用以探測電離層高度與電子密度結構的垂直探空雷達。",
+    "traditional_chinese": "電離層探測儀",
+    "definition_cht": "向上發射掃頻高頻無線電波並接收其自電離層反射回波的垂直探測儀器，用以測定電離層高度、臨界頻率及層結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionosonde"
   },
   {
     "english": "ionosphere",
     "traditional_chinese": "電離層",
-    "definition_cht": "位於高層大氣中、受太陽紫外與粒子輻射作用而含有大量離子與自由電子的區域。",
+    "definition_cht": "地球高層大氣中受太陽紫外線、X 射線及高能粒子作用而高度電離的區域，約自 60 公里延伸至數百公里以上，對無線電傳播與太空天氣極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionosphere"
   },
   {
     "english": "ionospheric potential",
     "traditional_chinese": "電離層位勢",
-    "definition_cht": "指與「電離層位勢」相關的離子、游離作用或電離層物理現象。",
+    "definition_cht": "相對於地面或其他參考面的電離層電位；在大氣全球電路中，常指電離層相對地表所維持的高正電位。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionospheric_potential"
   },
   {
     "english": "ionospheric radar",
     "traditional_chinese": "電離層雷達",
-    "definition_cht": "用於偵測目標位置、回波或電離層／大氣結構的雷達系統或觀測方法。",
+    "definition_cht": "用於探測電離層電子密度結構、不規則體、漂移或散射特性的雷達系統，包含垂直探測與各類相干／非相干散射觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionospheric_radar"
   },
   {
     "english": "ionospheric recorder",
-    "traditional_chinese": "電離層記錄器",
-    "definition_cht": "用於連續記錄「電離層記錄器」相關觀測量隨時間變化的儀器。",
+    "traditional_chinese": "電離層記錄儀",
+    "definition_cht": "用以連續記錄電離層探測結果的儀器或裝置，通常配合電離層探測儀保存回波、電離圖或相關參數隨時間的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionospheric_recorder"
   },
   {
     "english": "ionospheric storm",
-    "traditional_chinese": "電離層暴風",
-    "definition_cht": "受太陽活動與地磁擾動影響，電離層電子密度與結構出現顯著異常變化的現象。",
+    "traditional_chinese": "電離層暴",
+    "definition_cht": "受太陽活動與地磁擾動影響，導致電離層電子密度、層高與電波傳播條件發生顯著異常變化的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionospheric_storm"
   },
   {
     "english": "ionospheric tides",
-    "traditional_chinese": "電離層內潮汐",
-    "definition_cht": "指與「電離層內潮汐」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "電離層潮汐",
+    "definition_cht": "電離層中受太陽加熱、重力潮汐及中性大氣潮汐耦合作用所產生的週期性振盪，會反映在電子密度、電場與風場的日變化中。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionospheric_tides"
   },
   {
     "english": "ionospheric trough",
-    "traditional_chinese": "電離層 trough",
-    "definition_cht": "指與「電離層 trough」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "電離層槽",
+    "definition_cht": "中高緯度電離層中出現的狹長低電子密度區，常位於極光區赤道側，與磁暴、粒子沉降及高緯電漿動力過程有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/ionospheric_trough"
   },
   {
     "english": "IPS",
-    "traditional_chinese": "圖像處理系統",
-    "definition_cht": "「IPS」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。",
+    "traditional_chinese": "電離層預報服務",
+    "definition_cht": "Ionospheric Prediction Service 的縮寫，原指澳洲提供電離層與太空天氣預報、警報及相關服務的機構；後來併入澳洲氣象局太空天氣服務體系。",
     "source_url": "https://glossary.ametsoc.org/wiki/IPS"
   },
   {
