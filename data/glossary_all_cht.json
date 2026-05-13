@@ -26575,122 +26575,122 @@
   },
   {
     "english": "interferometry",
-    "traditional_chinese": "interferometry",
-    "definition_cht": "藉由分析干涉條紋或相位差來推求幾何、位移或輻射資訊的技術。",
+    "traditional_chinese": "干涉測量法",
+    "definition_cht": "利用波動疊加所產生的干涉條紋、相位差或光程差來推求距離、位移、折射率、表面形貌或輻射資訊的量測技術；在遙測、雷達、天文與精密光學量測中廣泛使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/interferometry"
   },
   {
     "english": "interflow",
-    "traditional_chinese": "interflow",
-    "definition_cht": "土壤中在地表以下、沿較淺土層側向流動的地下水流。",
+    "traditional_chinese": "壤中流",
+    "definition_cht": "降水或融雪入滲後，在地表下較淺的不飽和土層中沿坡面側向流動的水流，可再出露地表或匯入溪流，屬地表逕流與地下水之間的重要水文途徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/interflow"
   },
   {
     "english": "interglacial",
-    "traditional_chinese": "interglacial",
-    "definition_cht": "兩次冰期之間較為溫暖、冰量相對減少的時期。",
+    "traditional_chinese": "間冰期",
+    "definition_cht": "冰期之間相對溫暖的氣候時段，通常持續數千年至數萬年，特徵為大陸冰量減少、全球平均氣溫較高。",
     "source_url": "https://glossary.ametsoc.org/wiki/interglacial"
   },
   {
     "english": "interglacial phase",
-    "traditional_chinese": "interglacial 相",
-    "definition_cht": "「interglacial 相」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "間冰期階段",
+    "definition_cht": "指冰期循環中處於較溫暖、冰量相對減少的間冰期階段；實際時間尺度與氣候特徵需依所討論的地質年代或古氣候紀錄而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/interglacial_phase"
   },
   {
     "english": "interleaving",
-    "traditional_chinese": "interleaving",
-    "definition_cht": "「interleaving」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "交錯層化",
+    "definition_cht": "在穩定分層流體中，性質略有差異的水團或氣層彼此交互侵入，形成薄層交錯排列的層狀構造；在海洋學中常與溫鹽躍層附近的混合與雙擴散過程有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/interleaving"
   },
   {
     "english": "intermediate frequency",
-    "traditional_chinese": "中層頻率",
-    "definition_cht": "介於射頻與基帶之間、經混頻後用於後續放大處理的頻率。",
+    "traditional_chinese": "中頻",
+    "definition_cht": "接收或發射系統中經混頻後所得到、介於射頻與基帶之間的工作頻率，用於後續放大、濾波與解調；雷達與超外差接收機常採用此設計。",
     "source_url": "https://glossary.ametsoc.org/wiki/intermediate_frequency"
   },
   {
     "english": "intermediate ion",
-    "traditional_chinese": "中層離子",
-    "definition_cht": "指與「中層離子」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "中間離子",
+    "definition_cht": "大氣電學中指遷移率與粒徑介於小離子與大型帶電氣膠粒子之間的帶電粒子族群，常由離子附著於微粒或叢集成長形成，對空氣導電度與帶電收支有影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/intermediate_ion"
   },
   {
     "english": "intermediate standard times",
-    "traditional_chinese": "中層標準 times",
-    "definition_cht": "「中層標準 times」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "中間標準時次",
+    "definition_cht": "相對於主要標準觀測時次而言，介於其間的標準觀測或整理時次；在氣象作業中通常用於補充主時次之間的觀測、編碼或分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/intermediate_standard_times"
   },
   {
     "english": "intermediate water",
     "traditional_chinese": "中層水",
-    "definition_cht": "位於海洋中層、介於表層水與深層水之間且具有特定溫鹽特性的水團。",
+    "definition_cht": "位於表層水與深層水之間、具有相對明顯溫鹽特徵與形成來源的海洋水團，通常分布於數百至約一千多公尺深度範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/intermediate_water"
   },
   {
     "english": "intermittency",
-    "traditional_chinese": "intermittency",
-    "definition_cht": "「intermittency」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "間歇性",
+    "definition_cht": "指某種流動、擾動或動力行為以不連續、突發式方式出現的特性；在湍流中常指強烈渦動、耗散或通量集中於短暫時段或局部區域的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/intermittency"
   },
   {
     "english": "intermittent stream",
-    "traditional_chinese": "intermittent 流",
-    "definition_cht": "指與「intermittent 流」相關的氣流、冰流或水流帶狀結構，著重其主軸、速度分布及動力特徵。",
+    "traditional_chinese": "間歇性溪流",
+    "definition_cht": "一年中僅在部分季節或特定補注條件下有水流的溪流或河道，枯水期可中斷流動；常受降雨、融雪、地下水補注與蒸發蒸散條件控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/intermittent_stream"
   },
   {
     "english": "intermonthly variation",
-    "traditional_chinese": "intermonthly 變化",
-    "definition_cht": "指與「intermonthly 變化」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "月際變化",
+    "definition_cht": "指某氣象、水文或環境要素在相鄰月份之間的變化情形，著重月與月之間的振幅、趨勢或差異，而非單月內部變動。",
     "source_url": "https://glossary.ametsoc.org/wiki/intermonthly_variation"
   },
   {
     "english": "Internal boundary layer",
-    "traditional_chinese": "內部邊界層",
-    "definition_cht": "指與「內部邊界層」相關的層狀結構，常用於描述大氣、海洋或地表附近具有相對一致性質的區域。",
+    "traditional_chinese": "內邊界層",
+    "definition_cht": "當氣流通過下墊面粗糙度、熱力性質或濕度條件突然改變的區域後，在近地面重新發展出的邊界層；其厚度會隨下游距離逐漸增長。",
     "source_url": "https://glossary.ametsoc.org/wiki/Internal_boundary_layer"
   },
   {
     "english": "internal energy",
-    "traditional_chinese": "內部能量",
-    "definition_cht": "系統內部分子平動、轉動、振動與相互作用所包含的總能量。",
+    "traditional_chinese": "內能",
+    "definition_cht": "熱力學系統內部分子平動、轉動、振動及相互作用所包含的總能量，不含系統整體平移或外部位置所對應的動能與位能。",
     "source_url": "https://glossary.ametsoc.org/wiki/internal_energy"
   },
   {
     "english": "internal gravity wave",
-    "traditional_chinese": "內部重力波",
-    "definition_cht": "因浮力恢復力作用而在穩定成層流體內傳播的重力波。",
+    "traditional_chinese": "內重力波",
+    "definition_cht": "在穩定成層大氣或海洋內部，由浮力作為恢復力所傳播的重力波；常見於逆溫層、躍層或山脈、對流與潮汐擾動所激發的分層流體中。",
     "source_url": "https://glossary.ametsoc.org/wiki/internal_gravity_wave"
   },
   {
     "english": "internal tides",
-    "traditional_chinese": "內部內潮汐",
-    "definition_cht": "由潮汐流越過地形後在海洋密度分層內激發的內波型潮汐。",
+    "traditional_chinese": "內潮汐",
+    "definition_cht": "潮流通過海底地形並擾動分層海水後，在海洋內部激發出的潮汐頻率內波，屬內重力波的一種，對海洋混合與能量傳輸相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/internal_tides"
   },
   {
     "english": "internal water circulation",
-    "traditional_chinese": "內部水 環流",
-    "definition_cht": "指與「內部水 環流」相關的環流型態，著重質量輸送、熱量交換與動力平衡。",
+    "traditional_chinese": "內部水循環",
+    "definition_cht": "指湖泊、水庫、海灣或其他水體內部因密度差、風應力、入出流或潮汐等作用所形成的循環流動，用以重新分配熱量、鹽分、溶質與懸浮物。",
     "source_url": "https://glossary.ametsoc.org/wiki/internal_water_circulation"
   },
   {
     "english": "internal wave",
-    "traditional_chinese": "內部波",
-    "definition_cht": "存在於流體內部密度界面或穩定分層中的波動。",
+    "traditional_chinese": "內波",
+    "definition_cht": "發生於穩定分層流體內部或密度界面上的波動，主要由浮力作為恢復力；可在大氣逆溫層、海洋躍層或湖泊分層中傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/internal_wave"
   },
   {
     "english": "international analysis code",
-    "traditional_chinese": "國際分析代碼",
-    "definition_cht": "國際間用於交換分析資料或天氣圖資訊的標準編碼系統。",
+    "traditional_chinese": "國際分析碼",
+    "definition_cht": "供各國交換天氣分析資料、繪製分析圖或傳遞相關氣象要素時使用的標準化編碼系統；具體欄位與格式需依所屬國際氣象電碼規範而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/international_analysis_code"
   },
   {
     "english": "international candle",
-    "traditional_chinese": "國際 candle",
-    "definition_cht": "指與「國際 candle」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "國際燭光",
+    "definition_cht": "歷史上用於表示發光強度的單位，原以標準燭光作基準，後來被坎德拉（candela）取代；在早期輻射、照明與能見度相關文獻中仍可見。",
     "source_url": "https://glossary.ametsoc.org/wiki/international_candle"
   },
   {
