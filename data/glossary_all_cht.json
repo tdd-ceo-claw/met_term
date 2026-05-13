@@ -28736,121 +28736,121 @@
   {
     "english": "Lambert conic projection",
     "traditional_chinese": "蘭伯特圓錐投影",
-    "definition_cht": "以圓錐面投影球面的地圖投影法，常用於中緯度地區天氣圖與航空圖製作。",
+    "definition_cht": "一種保角圓錐地圖投影，可將地表投影於圓錐面後展開，常用於中緯度地區的天氣圖、航空圖與區域製圖。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lambert_conic_projection"
   },
   {
     "english": "Lambert's formula",
     "traditional_chinese": "蘭伯特公式",
-    "definition_cht": "指與「蘭伯特公式」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指描述入射光或輻射在傾斜面上之有效照度隨入射角改變的公式，通常寫成與入射角餘弦成正比，常用於日射、照度與輻射計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lambert%27s_formula"
   },
   {
     "english": "Lambert's law",
     "traditional_chinese": "蘭伯特定律",
-    "definition_cht": "指與「蘭伯特定律」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指理想漫射面或漫射光源之輻射／發光強度隨觀測方向與法線夾角的餘弦而變化的定律；因此其輻亮度對各觀測方向呈一致。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lambert%27s_law"
   },
   {
     "english": "Lambert's law of absorption",
-    "traditional_chinese": "朗伯吸收定律",
-    "definition_cht": "指與「朗伯吸收定律」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "蘭伯特吸收定律",
+    "definition_cht": "描述光束穿過吸收介質時，其強度隨光程呈指數衰減的定律，為比耳－朗伯定律的基礎，常用於大氣輻射與遙測吸收計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lambert%27s_law_of_absorption"
   },
   {
     "english": "Lambertian surface",
-    "traditional_chinese": "蘭伯特表面",
-    "definition_cht": "指與「蘭伯特表面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "蘭伯特面",
+    "definition_cht": "指理想的完全漫反射表面，其反射遵守蘭伯特餘弦定律，故由任何方向觀察時表面輻亮度皆相同，常作為遙測與輻射傳輸的理想化假設。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lambertian_surface"
   },
   {
     "english": "lambing storm",
-    "traditional_chinese": "產羔風暴",
-    "definition_cht": "指與「產羔風暴」相關的風暴、劇烈天氣系統或對流組織。",
+    "traditional_chinese": "產羔雪",
+    "definition_cht": "英國用語，指春季羊群產羔時節出現的一陣小雪或寒冷降雪天氣；亦可泛指此時期帶來寒意的短暫風雪。",
     "source_url": "https://glossary.ametsoc.org/wiki/lambing_storm"
   },
   {
     "english": "Lambrecht's polymeter",
-    "traditional_chinese": "蘭布雷希特聚合計",
-    "definition_cht": "指與「蘭布雷希特聚合計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "蘭布雷希特多用氣象計",
+    "definition_cht": "19 世紀使用的綜合氣象儀器，通常將氣壓計、溫度計與濕度計等元件組合於同一裝置，用於同時觀測多項近地面氣象要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lambrecht%27s_polymeter"
   },
   {
     "english": "lamellar vector",
-    "traditional_chinese": "層狀載體",
-    "definition_cht": "指與「層狀載體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "層面向量場",
+    "definition_cht": "向量分析與流體力學中的術語，指可表示為某一純量勢梯度、因而不具旋轉分量的向量場；其等勢面可視為一層層的 lamellae。",
     "source_url": "https://glossary.ametsoc.org/wiki/lamellar_vector"
   },
   {
     "english": "laminar boundary layer",
     "traditional_chinese": "層流邊界層",
-    "definition_cht": "指與「層流邊界層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "鄰近固體邊界、流體仍維持平滑分層而未轉為湍流的邊界層區域，剪應力主要由分子黏滯作用傳遞。",
     "source_url": "https://glossary.ametsoc.org/wiki/laminar_boundary_layer"
   },
   {
     "english": "laminar flow",
     "traditional_chinese": "層流",
-    "definition_cht": "流體以平滑層狀方式流動、擾動與混合作用較弱的流態，通常與較低雷諾數環境相關。",
+    "definition_cht": "流體以平滑層狀方式前進、相鄰流層之間幾乎不發生橫向混合的流動型態，常見於雷諾數較低的情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/laminar_flow"
   },
   {
     "english": "laminar sublayer",
     "traditional_chinese": "層流底層",
-    "definition_cht": "指與「層流底層」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "主要湍流流場中緊貼無滑移邊界的一層極薄區域，又稱黏性底層；其中黏滯剪應力占優勢，速度分布近似層流。",
     "source_url": "https://glossary.ametsoc.org/wiki/laminar_sublayer"
   },
   {
     "english": "land breeze",
     "traditional_chinese": "陸風",
-    "definition_cht": "夜間陸地降溫較快時，近地面氣流由陸地吹向水面的局地環流。",
+    "definition_cht": "夜間陸地降溫較水面快，近地層因壓力差而由陸地吹向海面或湖面的局地風，為海陸風環流的夜間支。",
     "source_url": "https://glossary.ametsoc.org/wiki/land_breeze"
   },
   {
     "english": "land evaporation",
     "traditional_chinese": "陸面蒸發",
-    "definition_cht": "指與「陸面蒸發」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "水分自土壤表面、積水地表或植被截留水直接汽化進入大氣的過程，通常與海洋蒸發相對，並常與蒸騰作用區別討論。",
     "source_url": "https://glossary.ametsoc.org/wiki/land_evaporation"
   },
   {
     "english": "land ice",
-    "traditional_chinese": "陸地冰體",
-    "definition_cht": "指與「陸地冰體」相關的冰相現象、冰體狀態或凍結產物，常應用於寒區氣象、海冰或冰川研究。",
+    "traditional_chinese": "陸地冰",
+    "definition_cht": "存在於陸地上的冰體總稱，包括冰川、冰帽與冰蓋等，與浮於海面的海冰相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/land_ice"
   },
   {
     "english": "land sky",
-    "traditional_chinese": "陸地天空",
-    "definition_cht": "指與「陸地天空」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "陸空映暗",
+    "definition_cht": "極地航海與冰區觀測用語，指遠處陸地上方雲底因下方地表較暗而呈現的暗色反映現象，可作為辨識陸地方向的線索；與 water sky 或 ice blink 相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/land_sky"
   },
   {
     "english": "land-lash",
-    "traditional_chinese": "土地鞭打",
-    "definition_cht": "指與「土地鞭打」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "狂風驟雨",
+    "definition_cht": "英國用語，指伴隨強風的猛烈降雨或驟雨，常形容雨勢彷彿抽打地面一般。",
     "source_url": "https://glossary.ametsoc.org/wiki/land-lash"
   },
   {
     "english": "landing forecast",
     "traditional_chinese": "著陸預報",
-    "definition_cht": "指以「著陸預報」為主題的預報產品、預測方法或作業結果。",
+    "definition_cht": "供機場附近起降航機與當地使用者參考的短時效航空天氣預報，用以說明機場在未來約兩小時內的風、能見度、重要天氣與雲況變化趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/landing_forecast"
   },
   {
     "english": "Landsat",
     "traditional_chinese": "陸地衛星",
-    "definition_cht": "指與「陸地衛星」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "美國 NASA 與 USGS 聯合推動的對地觀測衛星計畫及其衛星系列，長期提供多光譜地表影像，廣泛應用於土地利用、植被、水文、災害與環境變遷監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Landsat"
   },
   {
     "english": "landspout",
     "traditional_chinese": "陸龍捲",
-    "definition_cht": "在非中氣旋環境下，由近地面渦旋被對流上升氣流拉伸而形成的細長型龍捲，通常與積雲或雷暴初生階段有關。",
+    "definition_cht": "一種不伴隨中層中氣旋的龍捲，通常在對流雲發展初期由邊界層既有渦度被上升氣流向上拉伸而形成，外觀近似發生在陸地上的弱水龍捲。",
     "source_url": "https://glossary.ametsoc.org/wiki/landspout"
   },
   {
     "english": "lane",
-    "traditional_chinese": "車道",
-    "definition_cht": "指與「車道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "狹長通道",
+    "definition_cht": "泛指狹長而帶狀的開闊或較低密度區域；在海冰與地表觀測脈絡中，常指冰群或其他覆蓋物之間形成的長條狀通道。",
     "source_url": "https://glossary.ametsoc.org/wiki/lane"
   },
   {
