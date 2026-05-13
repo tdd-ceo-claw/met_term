@@ -30055,122 +30055,122 @@
   },
   {
     "english": "logarithmic scale",
-    "traditional_chinese": "對數標度",
-    "definition_cht": "指與「對數標度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "對數尺度",
+    "definition_cht": "以對數而非線性間距表示數值的尺度；在此尺度上，相等距離代表相等倍數或相同數量級的變化，適合呈現跨越多個數量級的氣象、地球科學或觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/logarithmic_scale"
   },
   {
     "english": "Logarithmic velocity profile",
-    "traditional_chinese": "對數速度分佈",
-    "definition_cht": "指與「對數速度分佈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "對數速度剖面",
+    "definition_cht": "在湍流邊界層中，平均流速隨離地或離底高度依對數關係變化的垂直分布；在中性穩定近地層常用以描述風速或水流速度隨高度的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Logarithmic_velocity_profile"
   },
   {
     "english": "lognormal cloud-size distribution",
-    "traditional_chinese": "對數常態雲大小分佈",
-    "definition_cht": "指與「對數常態雲大小分佈」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、生成條件與對應天氣狀態。",
+    "traditional_chinese": "對數常態雲粒徑分布",
+    "definition_cht": "指雲滴、冰晶或其他雲中粒子的粒徑分布可近似由對數常態分布描述；其特徵為粒徑取對數後近似服從常態分布，常用於雲微物理與降水粒子統計。",
     "source_url": "https://glossary.ametsoc.org/wiki/lognormal_cloud-size_distribution"
   },
   {
     "english": "lolly ice",
-    "traditional_chinese": "棒棒糖",
-    "definition_cht": "指與「棒棒糖」相關的冰相現象、冰體狀態或凍結產物，常應用於寒區氣象、海冰或冰川研究。",
+    "traditional_chinese": "冰棒",
+    "definition_cht": "英式英語中對冰棒或冰棍的通稱，並非氣象或海冰專有術語；若出現在原始條目中，多屬一般英語詞彙而非正式氣象名詞。",
     "source_url": "https://glossary.ametsoc.org/wiki/lolly_ice"
   },
   {
     "english": "lombarde",
-    "traditional_chinese": "隆巴德",
-    "definition_cht": "指與「隆巴德」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "隆巴德風",
+    "definition_cht": "法國南部與地中海西北部一帶的地方風名稱之一，通常指由內陸吹向海面的冷而乾的強風，常與區域地形導引及壓力梯度有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/lombarde"
   },
   {
     "english": "London (sulfurous) smog",
-    "traditional_chinese": "倫敦（含硫）煙霧",
-    "definition_cht": "指與「倫敦（含硫）煙霧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "倫敦型（含硫）煙霧",
+    "definition_cht": "以燃煤排放的二氧化硫、煙塵與霧滴為主體、常在冬季穩定層或逆溫下形成的煙霧污染型態；與受日照驅動的光化學煙霧相對，亦稱硫酸型或還原型煙霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/London_(sulfurous)_smog"
   },
   {
     "english": "long shore wind",
-    "traditional_chinese": "長岸風",
-    "definition_cht": "指與「長岸風」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "沿岸風",
+    "definition_cht": "指風向大致平行海岸線吹送的風；此類風可沿岸推移近岸水體與浪能分布，並常促進沿岸流、沿岸漂沙或局地海氣交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/long_shore_wind"
   },
   {
     "english": "long wave",
     "traditional_chinese": "長波",
-    "definition_cht": "指與「長波」相關的波動、擾動或傳播現象，涉及振幅、相速與能量傳遞特性。",
+    "definition_cht": "在動力氣象中通常指波長很長、尺度達數千公里的大尺度大氣波動，如中高緯度西風帶中的長波槽脊或羅士培波型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/long_wave"
   },
   {
     "english": "long-crested wave",
-    "traditional_chinese": "長波",
-    "definition_cht": "指與「長波」相關的波動、擾動或傳播現象，涉及振幅、相速與能量傳遞特性。",
+    "traditional_chinese": "長峰波",
+    "definition_cht": "波峰沿橫向延伸很長、方向性較集中的海浪或波動；常可近似視為二維規則波，與波峰較短且方向分散較大的短峰波相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/long-crested_wave"
   },
   {
     "english": "long-range forecast",
-    "traditional_chinese": "長期預測",
-    "definition_cht": "指以「長期預測」為主題的預報產品、預測方法或作業結果。",
+    "traditional_chinese": "長期預報",
+    "definition_cht": "預報時效延伸至數週、數月或更長期間的天氣或氣候預測，通常著重平均狀態、機率分布或距平訊號，而非單一時刻的精細天氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/long-range_forecast"
   },
   {
     "english": "long-term hydrological forecast",
     "traditional_chinese": "長期水文預報",
-    "definition_cht": "指以「長期水文預報」為主題的預報產品、預測方法或作業結果。",
+    "definition_cht": "針對未來較長時段的河川流量、水位、入庫量、土壤含水量或水資源狀況所作之預報，常結合氣候展望、流域初始條件與統計或數值水文模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/long-term_hydrological_forecast"
   },
   {
     "english": "long-train atmospherics",
-    "traditional_chinese": "長途列車大氣",
-    "definition_cht": "指與「長途列車大氣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "長串大氣電干擾",
+    "definition_cht": "在無線電氣象與電波傳播中，指由雷電等大氣放電所產生、持續時間較長或以一連串脈衝形式出現的 atmospherics（sferics）訊號或干擾。",
     "source_url": "https://glossary.ametsoc.org/wiki/long-train_atmospherics"
   },
   {
     "english": "longitude",
     "traditional_chinese": "經度",
-    "definition_cht": "指與「經度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "表示地球或其他天體表面某點相對本初子午線東西位置的角距，通常以度數表示；同一經線上的各點具有相同經度。",
     "source_url": "https://glossary.ametsoc.org/wiki/longitude"
   },
   {
     "english": "longitudinal rolls",
-    "traditional_chinese": "縱向卷",
-    "definition_cht": "指與「縱向卷」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "縱向卷流",
+    "definition_cht": "行星邊界層中與平均低層風大致平行排列的水平對流卷或渦卷結構；常表現為雲街，並對熱量、水氣、動量與污染物的垂直輸送具有重要作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/longitudinal_rolls"
   },
   {
     "english": "longitudinal section",
     "traditional_chinese": "縱剖面",
-    "definition_cht": "指與「縱剖面」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "沿某一系統主軸、流向、航線或觀測路徑方向取得的剖面圖或剖面資料，用以呈現變數沿縱向的分布與變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/longitudinal_section"
   },
   {
     "english": "longitudinal wave",
     "traditional_chinese": "縱波",
-    "definition_cht": "指與「縱波」相關的波動、擾動或傳播現象，涉及振幅、相速與能量傳遞特性。",
+    "definition_cht": "介質質點振動方向與波的傳播方向平行的波動；傳遞時會形成壓縮與稀疏區，在流體中典型例子為聲波，在地震學中則包含 P 波。",
     "source_url": "https://glossary.ametsoc.org/wiki/longitudinal_wave"
   },
   {
     "english": "longitudinal wind",
     "traditional_chinese": "縱向風",
-    "definition_cht": "指與「縱向風」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "definition_cht": "沿某一指定軸線、剖面方向、航路或觀測路徑方向的風速分量；在航空與路徑分析中，常指平行飛行航跡的順風或逆風分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/longitudinal_wind"
   },
   {
     "english": "Longmont anticyclone",
     "traditional_chinese": "朗蒙特反氣旋",
-    "definition_cht": "指與「朗蒙特反氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "美國科羅拉多州前山地帶近朗蒙特一帶可出現的中小尺度反氣旋性環流或渦旋，常與落磯山地形效應、邊界層風場調整及丹佛氣旋等區域性環流配置並列討論。",
     "source_url": "https://glossary.ametsoc.org/wiki/Longmont_anticyclone"
   },
   {
     "english": "longshore current",
     "traditional_chinese": "沿岸流",
-    "definition_cht": "指與「沿岸流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "definition_cht": "由斜向入射波浪在近岸破碎區所驅動、沿海岸線大致平行流動的水流；其對漂沙輸送、岸線變遷與近岸物質交換具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/longshore_current"
   },
   {
     "english": "longwave",
     "traditional_chinese": "長波",
-    "definition_cht": "指與「長波」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在輻射氣象中通常指波長較長的熱紅外輻射，主要與地表及大氣系統的放射有關，常用以區別於主要來自太陽的短波輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/longwave"
   },
   {
