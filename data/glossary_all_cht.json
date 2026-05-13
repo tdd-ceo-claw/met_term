@@ -29095,122 +29095,122 @@
   },
   {
     "english": "layers",
-    "traditional_chinese": "層數",
-    "definition_cht": "指與「層數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "層系",
+    "definition_cht": "泛指大氣、海洋、冰雪、土壤或其他地球流體中，依溫度、密度、成分或動力特性可區分的層狀結構或分層系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/layers"
   },
   {
     "english": "LCL",
-    "traditional_chinese": "拼箱",
-    "definition_cht": "「LCL」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "抬升凝結高度",
+    "definition_cht": "氣塊自原高度沿乾絕熱過程抬升時，恰達飽和並開始凝結形成雲滴的高度；常用來估計雲底高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/LCL"
   },
   {
     "english": "LDR",
-    "traditional_chinese": "低劑量率",
-    "definition_cht": "「LDR」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "線性退偏振比",
+    "definition_cht": "偏振都卜勒雷達常用參數，指以線性偏振發射時，回波在正交偏振通道與同偏振通道之功率比，可用於判識粒子形狀、姿態與相態。",
     "source_url": "https://glossary.ametsoc.org/wiki/LDR"
   },
   {
     "english": "leaching",
-    "traditional_chinese": "浸出",
-    "definition_cht": "指與「浸出」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "淋洗作用",
+    "definition_cht": "降水或滲流水向下移動時，將土壤、岩層或廢棄物中的可溶性物質溶出並帶往較深處或下游的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/leaching"
   },
   {
     "english": "lead",
-    "traditional_chinese": "帶領",
-    "definition_cht": "指與「帶領」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "海冰裂隙",
+    "definition_cht": "海冰場中呈狹長帶狀的開放水面或新生薄冰區，多由冰層張裂形成，對海氣熱量交換、航行與極區觀測極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/lead"
   },
   {
     "english": "leader",
-    "traditional_chinese": "領導者",
-    "definition_cht": "指與「領導者」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "先導放電",
+    "definition_cht": "雷電放電過程中在主回擊前向前延伸的高導電電離通道，可分為階梯先導、箭先導等型態，負責建立後續強放電路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/leader"
   },
   {
     "english": "leaf area index",
     "traditional_chinese": "葉面積指數",
-    "definition_cht": "用於量化「葉面積指數」相關狀態、強度、異常程度或風險高低的指標。",
+    "definition_cht": "單位地表面積上植物單面葉面積總和的無因次指標，用以描述植被冠層密度，常應用於蒸散、輻射傳輸與陸面模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/leaf_area_index"
   },
   {
     "english": "leaf wetness",
-    "traditional_chinese": "葉子濕度",
-    "definition_cht": "指與「葉子濕度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "葉面濕潤",
+    "definition_cht": "植物葉面存在露、水膜或雨滴覆蓋的狀態，為農業氣象與植物病害預警中評估感染環境的重要變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/leaf_wetness"
   },
   {
     "english": "leaf wetness duration",
-    "traditional_chinese": "葉濕潤持續時間",
-    "definition_cht": "植物葉面維持有液態水膜或露滴覆蓋的持續時間，常用於病害風險評估與農業氣象監測。",
+    "traditional_chinese": "葉面濕潤持續時間",
+    "definition_cht": "植物葉面維持液態水膜、露滴或雨水覆蓋的持續時間，常用於病害風險評估與農業氣象監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/leaf_wetness_duration"
   },
   {
     "english": "leakage",
-    "traditional_chinese": "洩漏",
-    "definition_cht": "指與「洩漏」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "滲漏",
+    "definition_cht": "水體、氣體或其他流體經由孔隙、裂隙、邊界或工程結構非預期地逸散或滲出的現象；在水文中常指渠道、水庫或含水層的漏失。",
     "source_url": "https://glossary.ametsoc.org/wiki/leakage"
   },
   {
     "english": "leakage coefficient",
-    "traditional_chinese": "洩漏係數",
-    "definition_cht": "指與「洩漏係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "滲漏係數",
+    "definition_cht": "描述半透水層、渠道底床或其他介質允許流體穿透與漏失能力的係數，常用於估算垂直滲漏通量或水力連通程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/leakage_coefficient"
   },
   {
     "english": "leaky aquifer",
     "traditional_chinese": "滲漏含水層",
-    "definition_cht": "指與「滲漏含水層」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "受上、下半透水層影響而可與鄰近含水層發生垂直漏水交換的含水層；常見於半受壓地下水系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/leaky_aquifer"
   },
   {
     "english": "leapfrog differencing",
-    "traditional_chinese": "跨越式差分",
-    "definition_cht": "指與「跨越式差分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "蛙跳差分",
+    "definition_cht": "一種顯式有限差分格式，以交錯時間層計算預報量，使新時刻值由前一時刻與前兩時刻資訊求得，常見於數值天氣預報與流體模擬。",
     "source_url": "https://glossary.ametsoc.org/wiki/leapfrog_differencing"
   },
   {
     "english": "least squares",
     "traditional_chinese": "最小平方法",
-    "definition_cht": "指與「最小平方法」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "以最小化觀測值與估計值殘差平方和為原則的參數估計方法，廣泛用於資料擬合、趨勢分析、回歸與觀測反演。",
     "source_url": "https://glossary.ametsoc.org/wiki/least_squares"
   },
   {
     "english": "least-time track",
-    "traditional_chinese": "最短時間軌跡",
-    "definition_cht": "指與「最短時間軌跡」相關的時間尺度、時制、時相或統計時間特徵。",
+    "traditional_chinese": "最短時間航線",
+    "definition_cht": "在既定起訖點之間，綜合風、浪、流與船舶性能後，預估可使航程耗時最短的航行路徑，常見於氣象船舶導航與海象路由。",
     "source_url": "https://glossary.ametsoc.org/wiki/least-time_track"
   },
   {
     "english": "lee cyclogenesis",
-    "traditional_chinese": "李循環發生",
-    "definition_cht": "指與「李循環發生」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "背風側氣旋生成",
+    "definition_cht": "氣流越過大型山脈後，在背風側因渦度變化、下沉增溫與壓力場調整而促成低壓或氣旋發展的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/lee_cyclogenesis"
   },
   {
     "english": "lee eddies",
-    "traditional_chinese": "李埃迪斯",
-    "definition_cht": "指與「李埃迪斯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "背風側渦旋",
+    "definition_cht": "氣流或水流通過山脈、島嶼或其他障礙物後，在其背風側產生的局地渦旋或回流區。",
     "source_url": "https://glossary.ametsoc.org/wiki/lee_eddies"
   },
   {
     "english": "lee trough",
-    "traditional_chinese": "利槽",
-    "definition_cht": "指與「利槽」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "背風槽",
+    "definition_cht": "位於山脈或高地背風側、因氣流越山後下沉增溫與動力調整而形成的狹長低壓槽。",
     "source_url": "https://glossary.ametsoc.org/wiki/lee_trough"
   },
   {
     "english": "lee wave",
     "traditional_chinese": "背風波",
-    "definition_cht": "氣流越過地形障礙後在背風側穩定層中產生的重力波，可伴隨雲帶、亂流與下沉增溫。",
+    "definition_cht": "穩定氣流越過山脈等地形障礙後，在背風側激發的重力波，常伴隨山波雲、強下沉氣流與晴空亂流。",
     "source_url": "https://glossary.ametsoc.org/wiki/lee_wave"
   },
   {
     "english": "lee-wave separation",
-    "traditional_chinese": "背風波分離",
-    "definition_cht": "指與「背風波分離」相關的波動、擾動或傳播現象，涉及振幅、相速與能量傳遞特性。",
+    "traditional_chinese": "背風波間距",
+    "definition_cht": "相鄰背風波波峰、波谷或主要波列之間的水平距離，可視為背風波在下游方向上的代表性波長尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/lee-wave_separation"
   },
   {
