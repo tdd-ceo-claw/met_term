@@ -313,122 +313,122 @@
   },
   {
     "english": "langkisau",
-    "traditional_chinese": "朗基紹",
-    "definition_cht": "指與「朗基紹」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "塵旋風（印尼稱 langkisau）",
+    "definition_cht": "印尼語中對塵旋風（dust devil）的稱呼，指晴熱地表上方受強烈熱對流驅動、夾帶塵沙並快速旋轉的短生命渦旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/langkisau"
   },
   {
     "english": "langley",
     "traditional_chinese": "蘭利",
-    "definition_cht": "指與「蘭利」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "輻射能量通量的傳統單位，表示每平方公分接收 1 卡熱量，常用於表示太陽輻射或日射曝露量。",
     "source_url": "https://glossary.ametsoc.org/wiki/langley"
   },
   {
     "english": "Langmuir cells",
     "traditional_chinese": "朗繆爾胞",
-    "definition_cht": "指與「朗繆爾胞」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由持續強風與表面波共同作用，在水體上層形成、沿風向排列的成對螺旋狀循環單元，常使漂浮物集中成條帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/Langmuir_cells"
   },
   {
     "english": "Langmuir circulation",
     "traditional_chinese": "朗繆爾環流",
-    "definition_cht": "在風應力與表面波共同作用下，海洋或湖面上層形成沿風向排列之縱向旋轉環流。",
+    "definition_cht": "海洋或湖泊上層沿風向排列的一系列反向旋轉渦流，由風應力與表面波的 Stokes 漂移交互作用所驅動，能增強近表層垂直混合。",
     "source_url": "https://glossary.ametsoc.org/wiki/Langmuir_circulation"
   },
   {
     "english": "Langmuir layer",
     "traditional_chinese": "朗繆爾層",
-    "definition_cht": "指與「朗繆爾層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "受朗繆爾環流顯著影響的近表層混合層區域，其中縱向渦流可加強動量、熱量與浮游物質的垂直交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/Langmuir_layer"
   },
   {
     "english": "Langmuir number",
     "traditional_chinese": "朗繆爾數",
-    "definition_cht": "指用於表徵「朗繆爾數」相關物理機制、無因次特徵或分類條件的數值指標。",
+    "definition_cht": "描述朗繆爾湍流強弱的無因次數，常用來比較風生摩擦速度與表面波 Stokes 漂移的相對重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Langmuir_number"
   },
   {
     "english": "Langmuir probe",
     "traditional_chinese": "朗繆爾探針",
-    "definition_cht": "指與「朗繆爾探針」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "插入電漿中的探針式診斷儀器，可由電流—電壓特性推算電子溫度、電子密度與電位等電漿參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Langmuir_probe"
   },
   {
     "english": "lansan",
-    "traditional_chinese": "蘭山",
-    "definition_cht": "指與「蘭山」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "強東南信風",
+    "definition_cht": "地方性風名，指較強的東南信風，即熱帶地區由副熱帶高壓吹向赤道低壓帶的東南風系。",
     "source_url": "https://glossary.ametsoc.org/wiki/lansan"
   },
   {
     "english": "Laplace equation",
     "traditional_chinese": "拉普拉斯方程",
-    "definition_cht": "描述「拉普拉斯方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "definition_cht": "滿足拉普拉斯算子為零的二階偏微分方程，常用於描述位勢流、穩態熱傳與重力位等無源場問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/Laplace_equation"
   },
   {
     "english": "Laplace transform",
     "traditional_chinese": "拉普拉斯變換",
-    "definition_cht": "指與「拉普拉斯變換」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "將時間域函數轉換到複數 s 域的積分變換，常用於求解線性微分方程與分析系統的暫態響應。",
     "source_url": "https://glossary.ametsoc.org/wiki/Laplace_transform"
   },
   {
     "english": "Laplacian operator",
     "traditional_chinese": "拉普拉斯算子",
-    "definition_cht": "指與「拉普拉斯算子」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "二階微分算子，等於梯度再取散度，常記為 ∇²，用以表示純量場的曲率、擴散或位勢分布特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Laplacian_operator"
   },
   {
     "english": "lapse line",
-    "traditional_chinese": "失效線",
-    "definition_cht": "指與「失效線」相關的線性結構、譜線、基準線或分析界線，常作為診斷與辨識依據。",
+    "traditional_chinese": "直減線",
+    "definition_cht": "表示溫度隨高度變化的曲線，用於描繪氣溫垂直分布及判讀直減率特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/lapse_line"
   },
   {
     "english": "lapse rate",
-    "traditional_chinese": "失效率",
-    "definition_cht": "指「失效率」相關量值之變化速率、生成速率、交換速率或傳輸速率。",
+    "traditional_chinese": "直減率",
+    "definition_cht": "大氣變數隨高度增加而遞減的速率，氣象上通常特指氣溫的垂直遞減率。",
     "source_url": "https://glossary.ametsoc.org/wiki/lapse_rate"
   },
   {
     "english": "large calorie",
-    "traditional_chinese": "大卡路里",
-    "definition_cht": "指與「大卡路里」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大卡；千卡",
+    "definition_cht": "能量單位，等於 1000 小卡（cal）或 1 千卡（kcal），常用於營養與熱量表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/large_calorie"
   },
   {
     "english": "large eddy model",
-    "traditional_chinese": "大渦流模型",
-    "definition_cht": "用於表示「大渦流模型」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "大渦模型",
+    "definition_cht": "以直接解析主要大尺度渦旋、並以次網格參數化表示較小湍流渦旋效應的數值湍流模型。",
     "source_url": "https://glossary.ametsoc.org/wiki/large_eddy_model"
   },
   {
     "english": "Large eddy simulation",
     "traditional_chinese": "大渦模擬",
-    "definition_cht": "指與「大渦模擬」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一種計算流體力學湍流模擬方法，直接解析主要能量含量較大的渦旋，並以次網格模型處理較小尺度渦流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Large_eddy_simulation"
   },
   {
     "english": "large eddy simulation models",
-    "traditional_chinese": "大渦模擬模型",
-    "definition_cht": "指與「大渦模擬模型」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大渦模擬模式",
+    "definition_cht": "指採用大渦模擬方法的數值模式或其模型家族，用於模擬大氣邊界層、海洋與工程流場中的湍流結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/large_eddy_simulation_models"
   },
   {
     "english": "large ion",
     "traditional_chinese": "大離子",
-    "definition_cht": "指與「大離子」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "大氣電學中指遷移率較低、尺寸較大的離子，通常由小離子附著於氣膠粒子後形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/large_ion"
   },
   {
     "english": "large Reynolds number flow",
-    "traditional_chinese": "大雷諾數流量",
-    "definition_cht": "指用於表徵「大雷諾數流量」相關物理機制、無因次特徵或分類條件的數值指標。",
+    "traditional_chinese": "高雷諾數流動",
+    "definition_cht": "雷諾數很大的流動型態，表示慣性力遠大於黏滯力，流場常呈現明顯湍流或多尺度渦動特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/large_Reynolds_number_flow"
   },
   {
     "english": "large scale",
-    "traditional_chinese": "大規模",
-    "definition_cht": "指與「大規模」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大尺度；綜觀尺度",
+    "definition_cht": "指空間尺度很大的大氣或海洋現象；在氣象上常相當於綜觀尺度，水平範圍約為數百至數千公里以上。",
     "source_url": "https://glossary.ametsoc.org/wiki/large_scale"
   },
   {
