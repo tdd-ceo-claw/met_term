@@ -28975,122 +28975,122 @@
   },
   {
     "english": "large-scale convection",
-    "traditional_chinese": "大規模對流",
-    "definition_cht": "指與「大規模對流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大尺度對流",
+    "definition_cht": "指在較廣空間範圍內組織發展的對流活動，常與大尺度輻合、季風環流、熱帶擾動或行星尺度上升運動相配合，並可影響廣泛區域的降水與能量輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/large-scale_convection"
   },
   {
     "english": "large-scale weather situation",
-    "traditional_chinese": "大範圍天氣狀況",
-    "definition_cht": "指與「大範圍天氣狀況」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大尺度天氣形勢",
+    "definition_cht": "某一時刻廣大區域內大氣整體配置與演變狀態，包括高低壓、槽脊、鋒面與主要氣流分布，是判讀天氣系統發展背景的重要綜觀概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/large-scale_weather_situation"
   },
   {
     "english": "laser",
     "traditional_chinese": "雷射",
-    "definition_cht": "指與「雷射」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "利用受激輻射放大原理產生高方向性、高單色性與高同調性光束的裝置；在氣象遙測中常用於光達、雲高儀及粒子與痕量氣體量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/laser"
   },
   {
     "english": "laser ceilometer",
-    "traditional_chinese": "雷射雲高儀",
-    "definition_cht": "指與「雷射雲高儀」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷射測雲儀",
+    "definition_cht": "利用雷射脈衝向上探測並量測回波的儀器，主要用於判定雲底高度與垂直能見度，部分系統亦可提供氣膠或邊界層結構資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/laser_ceilometer"
   },
   {
     "english": "laser radar",
-    "traditional_chinese": "光達",
-    "definition_cht": "指與「光達」相關的雷達系統、雷達觀測或遙測產品。",
+    "traditional_chinese": "雷射雷達（光達）",
+    "definition_cht": "以雷射作為發射光源、依回波時間與強度遙測目標距離與性質的主動式探測系統，即光達（LiDAR），廣用於雲、氣膠、風場與地形觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/laser_radar"
   },
   {
     "english": "laser-induced fluorescence",
     "traditional_chinese": "雷射誘導螢光",
-    "definition_cht": "指與「雷射誘導螢光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "以雷射激發原子、分子或粒子後量測其螢光放射的光譜技術，可用於偵測痕量氣體、氣膠成分或流體中的示蹤物質。",
     "source_url": "https://glossary.ametsoc.org/wiki/laser-induced_fluorescence"
   },
   {
     "english": "last glacial",
-    "traditional_chinese": "末次冰河期",
-    "definition_cht": "指與「末次冰河期」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "末次冰期",
+    "definition_cht": "指最近一次主要冰期階段，約自距今 11.5 萬年至 1.17 萬年前，期間全球氣溫偏低、冰量增大且海平面顯著下降。",
     "source_url": "https://glossary.ametsoc.org/wiki/last_glacial"
   },
   {
     "english": "last interglacial",
     "traditional_chinese": "末次間冰期",
-    "definition_cht": "指與「末次間冰期」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指末次冰期之前最近一次較溫暖的間冰期，約始於距今 13 萬年前、終於約 11.5 萬年前，海平面與高緯氣溫普遍高於冰期。",
     "source_url": "https://glossary.ametsoc.org/wiki/last_interglacial"
   },
   {
     "english": "latent heat",
     "traditional_chinese": "潛熱",
-    "definition_cht": "物質在相變過程中於溫度近乎不變條件下吸收或釋放的熱量，對大氣能量轉換與對流發展極為重要。",
+    "definition_cht": "物質在相變過程中於溫度幾乎不變條件下吸收或釋放的能量，如蒸發、凝結、融化與凝固所伴隨之熱量，對大氣能量循環與對流發展極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/latent_heat"
   },
   {
     "english": "latent instability",
     "traditional_chinese": "潛在不穩定",
-    "definition_cht": "空氣團在抬升並達飽和後，因凝結釋放潛熱而使浮力增強的不穩定特性。",
+    "definition_cht": "未飽和空氣層在現況下未必顯現不穩定，但若整層被抬升至飽和後，因濕絕熱直減率差異而轉為上冷下暖較明顯、足以支持對流發展的不穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/latent_instability"
   },
   {
     "english": "lateral inflow",
     "traditional_chinese": "側向流入",
-    "definition_cht": "指與「側向流入」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "自通道、河道、湖庫或控制體兩側進入主流區域的流入量；在水文與數值模式中常指來自坡面、支流或相鄰網格的橫向補給。",
     "source_url": "https://glossary.ametsoc.org/wiki/lateral_inflow"
   },
   {
     "english": "lateral mirage",
-    "traditional_chinese": "橫向海市蜃樓",
-    "definition_cht": "指與「橫向海市蜃樓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "側向海市蜃樓",
+    "definition_cht": "由近地表或近牆面空氣中顯著水平溫度梯度造成的折射現象，使目標影像在水平方向上產生偏移、扭曲或重影。",
     "source_url": "https://glossary.ametsoc.org/wiki/lateral_mirage"
   },
   {
     "english": "lateral mixing",
-    "traditional_chinese": "橫向混合",
-    "definition_cht": "指與「橫向混合」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "側向混合",
+    "definition_cht": "物質、熱量、鹽度或動量沿與主流或垂直方向相對的水平方向進行交換與擴散的過程，常見於河川、河口、海洋與大氣輸送研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/lateral_mixing"
   },
   {
     "english": "latitude",
     "traditional_chinese": "緯度",
-    "definition_cht": "指與「緯度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "表示地球表面某點位於赤道以北或以南角距的地理座標，通常以度數表示，並與經度共同用來定位位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/latitude"
   },
   {
     "english": "law of storms",
-    "traditional_chinese": "風暴法則",
-    "definition_cht": "指與「風暴法則」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "風暴定律",
+    "definition_cht": "依局地風向、氣壓變化與風暴環流結構推定風暴中心相對方位及移動趨勢的經驗法則，早期廣用於航海與熱帶氣旋避航判斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/law_of_storms"
   },
   {
     "english": "Lax equivalence theorem",
-    "traditional_chinese": "鬆弛等價定理",
-    "definition_cht": "指與「鬆弛等價定理」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拉克斯等價定理",
+    "definition_cht": "數值分析中的基本定理，指出對於適定線性初始值問題，線性且一致的有限差分格式，當且僅當其穩定時才收斂。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lax_equivalence_theorem"
   },
   {
     "english": "Lax–Wendroff differencing scheme",
-    "traditional_chinese": "Lax-Wendroff 差分方案",
-    "definition_cht": "指與「Lax-Wendroff 差分方案」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拉克斯－溫德羅夫差分格式",
+    "definition_cht": "求解雙曲型偏微分方程的二階顯式有限差分方法，在時間與空間上皆具二階精度，常用於波動與平流問題的數值模擬。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lax%E2%80%93Wendroff_differencing_scheme"
   },
   {
     "english": "layer cloud",
-    "traditional_chinese": "層雲",
-    "definition_cht": "指與「層雲」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "層狀雲",
+    "definition_cht": "呈大片、均勻、水平延展外觀的雲類總稱，通常以穩定層結中的大範圍抬升或冷卻形成，常見如層雲與高層雲等。",
     "source_url": "https://glossary.ametsoc.org/wiki/layer_cloud"
   },
   {
     "english": "layer depth",
     "traditional_chinese": "層深",
-    "definition_cht": "指與「層深」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "某一指定大氣、水體或地質層自底部至頂部的垂直厚度，可用於描述混合層、邊界層、逆溫層或其他分層結構的尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/layer_depth"
   },
   {
     "english": "layer of no motion",
-    "traditional_chinese": "無運動層",
-    "definition_cht": "指與「無運動層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "無流動層",
+    "definition_cht": "假設平均水平流速為零的參考層位，常用於海洋或大尺度地轉流分析，以便由壓力或密度分布推算相對流速。",
     "source_url": "https://glossary.ametsoc.org/wiki/layer_of_no_motion"
   },
   {
