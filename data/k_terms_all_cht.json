@@ -535,50 +535,50 @@
   },
   {
     "english": "Krypton hygrometer",
-    "traditional_chinese": "氪濕度計",
-    "definition_cht": "利用氪燈紫外吸收原理量測空氣水氣密度或濕度擾動的快速反應儀器，常用於渦相關通量觀測。",
+    "traditional_chinese": "氪燈濕度計",
+    "definition_cht": "利用氪燈發出的近紫外光被水汽吸收之原理，快速量測空氣中水汽密度或其擾動的濕度儀器，常用於渦相關通量觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Krypton_hygrometer"
   },
   {
     "english": "Kuo–Eliassen equation",
     "traditional_chinese": "郭－艾利亞森方程",
-    "definition_cht": "用於診斷軸對稱或準軸對稱次級環流的橢圓型方程，可分析熱力與動力強迫對環流結構的作用。",
+    "definition_cht": "用於診斷軸對稱或近軸對稱系統次級環流的橢圓型方程，可分析加熱、摩擦與動量強迫如何驅動經向與垂直環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kuo%E2%80%93Eliassen_equation"
   },
   {
     "english": "Kurihara grid",
-    "traditional_chinese": "栗原格點",
-    "definition_cht": "數值模式中為減少高緯經向收斂問題而設計的球面格點配置方式，有助於改善極區附近的計算穩定性。",
+    "traditional_chinese": "栗原格網",
+    "definition_cht": "一種為減輕球面經緯網在高緯度經線匯聚問題而設計的數值模式格網配置，可改善極區附近的計算效率與數值穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kurihara_grid"
   },
   {
     "english": "Kuroshio",
     "traditional_chinese": "黑潮",
-    "definition_cht": "北太平洋西邊界暖流，自菲律賓東側北上流經臺灣、日本南方海域，輸送大量熱量與鹽分。",
+    "definition_cht": "北太平洋西邊界的強暖流，自菲律賓東側沿臺灣東方與日本南方海域向北流動，負責輸送大量熱量、鹽分與動量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kuroshio"
   },
   {
     "english": "Kuroshio countercurrent",
     "traditional_chinese": "黑潮反流",
-    "definition_cht": "位於黑潮主軸鄰近區域、流向與主流相反的海流分支或回流結構，反映西北太平洋複雜中尺度環流特徵。",
+    "definition_cht": "位於黑潮主流南側或鄰近海域、流向與黑潮主軸相反的東向回流系統，反映西北太平洋再循環與中尺度渦旋作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kuroshio_countercurrent"
   },
   {
     "english": "Kuroshio system",
     "traditional_chinese": "黑潮系統",
-    "definition_cht": "包含黑潮主流、延伸流、再循環、反流及相關中尺度渦旋在內的整體海流體系。",
+    "definition_cht": "泛指由黑潮主流、延伸流、再循環、反流及相關中尺度渦旋共同構成的整體海流體系。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kuroshio_system"
   },
   {
     "english": "Kurtosis",
     "traditional_chinese": "峰度",
-    "definition_cht": "描述機率分布尖峭程度與尾部分布特性的統計量，常用於分析氣象變數異常值與分布形態。",
+    "definition_cht": "描述機率分布尾端厚薄與尖峭程度的統計量，常用於分析氣象或水文資料的極端值特性與分布形狀。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kurtosis"
   },
   {
     "english": "kytoon",
     "traditional_chinese": "風箏氣球",
-    "definition_cht": "兼具風箏與繫留氣球特性的升空平台，可在有風條件下較穩定地搭載氣象儀器進行低空觀測。",
+    "definition_cht": "兼具風箏與繫留氣球特性的升空平台，可藉氣體浮力與風致升力在有風環境中較穩定地搭載儀器進行低空觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/kytoon"
   }
 ]

@@ -28495,122 +28495,122 @@
   },
   {
     "english": "Krypton hygrometer",
-    "traditional_chinese": "氪濕度計",
-    "definition_cht": "利用氪燈紫外吸收原理量測空氣水氣密度或濕度擾動的快速反應儀器，常用於渦相關通量觀測。",
+    "traditional_chinese": "氪燈濕度計",
+    "definition_cht": "利用氪燈發出的近紫外光被水汽吸收之原理，快速量測空氣中水汽密度或其擾動的濕度儀器，常用於渦相關通量觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Krypton_hygrometer"
   },
   {
     "english": "Kuo–Eliassen equation",
     "traditional_chinese": "郭－艾利亞森方程",
-    "definition_cht": "用於診斷軸對稱或準軸對稱次級環流的橢圓型方程，可分析熱力與動力強迫對環流結構的作用。",
+    "definition_cht": "用於診斷軸對稱或近軸對稱系統次級環流的橢圓型方程，可分析加熱、摩擦與動量強迫如何驅動經向與垂直環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kuo%E2%80%93Eliassen_equation"
   },
   {
     "english": "Kurihara grid",
-    "traditional_chinese": "栗原格點",
-    "definition_cht": "數值模式中為減少高緯經向收斂問題而設計的球面格點配置方式，有助於改善極區附近的計算穩定性。",
+    "traditional_chinese": "栗原格網",
+    "definition_cht": "一種為減輕球面經緯網在高緯度經線匯聚問題而設計的數值模式格網配置，可改善極區附近的計算效率與數值穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kurihara_grid"
   },
   {
     "english": "Kuroshio",
     "traditional_chinese": "黑潮",
-    "definition_cht": "北太平洋西邊界暖流，自菲律賓東側北上流經臺灣、日本南方海域，輸送大量熱量與鹽分。",
+    "definition_cht": "北太平洋西邊界的強暖流，自菲律賓東側沿臺灣東方與日本南方海域向北流動，負責輸送大量熱量、鹽分與動量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kuroshio"
   },
   {
     "english": "Kuroshio countercurrent",
     "traditional_chinese": "黑潮反流",
-    "definition_cht": "位於黑潮主軸鄰近區域、流向與主流相反的海流分支或回流結構，反映西北太平洋複雜中尺度環流特徵。",
+    "definition_cht": "位於黑潮主流南側或鄰近海域、流向與黑潮主軸相反的東向回流系統，反映西北太平洋再循環與中尺度渦旋作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kuroshio_countercurrent"
   },
   {
     "english": "Kuroshio system",
     "traditional_chinese": "黑潮系統",
-    "definition_cht": "包含黑潮主流、延伸流、再循環、反流及相關中尺度渦旋在內的整體海流體系。",
+    "definition_cht": "泛指由黑潮主流、延伸流、再循環、反流及相關中尺度渦旋共同構成的整體海流體系。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kuroshio_system"
   },
   {
     "english": "Kurtosis",
     "traditional_chinese": "峰度",
-    "definition_cht": "描述機率分布尖峭程度與尾部分布特性的統計量，常用於分析氣象變數異常值與分布形態。",
+    "definition_cht": "描述機率分布尾端厚薄與尖峭程度的統計量，常用於分析氣象或水文資料的極端值特性與分布形狀。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kurtosis"
   },
   {
     "english": "kytoon",
     "traditional_chinese": "風箏氣球",
-    "definition_cht": "兼具風箏與繫留氣球特性的升空平台，可在有風條件下較穩定地搭載氣象儀器進行低空觀測。",
+    "definition_cht": "兼具風箏與繫留氣球特性的升空平台，可藉氣體浮力與風致升力在有風環境中較穩定地搭載儀器進行低空觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/kytoon"
   },
   {
     "english": "La Niña",
     "traditional_chinese": "反聖嬰",
-    "definition_cht": "指熱帶中東太平洋海表溫度持續偏冷並伴隨大氣環流異常的 ENSO 冷事件，常影響全球降水、季風與颱風活動分布。",
+    "definition_cht": "指熱帶中東太平洋海表溫度持續偏冷，並伴隨大氣環流異常的 ENSO 冷位相事件，常影響全球降水、季風與熱帶氣旋活動分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/La_Ni%C3%B1a"
   },
   {
     "english": "la serpe",
     "traditional_chinese": "拉塞爾佩",
-    "definition_cht": "指與「拉塞爾佩」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一種名稱較少見的地方風或地方性氣象用語；現有公開參考資料有限，通常仍保留原名使用，其意義須依實際區域語境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/la_serpe"
   },
   {
     "english": "labbé",
     "traditional_chinese": "拉貝",
-    "definition_cht": "指與「拉貝」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "較少見的專名型氣象用語；現有公開資料有限，通常沿用原名或音譯，其具體意義需依原始文獻或地區用法判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/labb%C3%A9"
   },
   {
     "english": "labile",
-    "traditional_chinese": "不穩定的",
-    "definition_cht": "指與「不穩定的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "易變的；不穩定的",
+    "definition_cht": "指某種狀態、結構或平衡容易受擾動而改變，因而呈現不穩定或不持久的性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/labile"
   },
   {
     "english": "laboratory tank",
     "traditional_chinese": "實驗水槽",
-    "definition_cht": "指與「實驗水槽」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在實驗室內用於模擬流體運動、分層、波浪、混合或環流現象的水槽裝置，常見於海洋與地球流體力學研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/laboratory_tank"
   },
   {
     "english": "Labrador Current",
-    "traditional_chinese": "拉布拉多海流",
-    "definition_cht": "北大西洋西北部沿拉布拉多與紐芬蘭外海向南流動的寒流，對海霧、海冰輸送與區域氣候具有重要影響。",
+    "traditional_chinese": "拉布拉多寒流",
+    "definition_cht": "北大西洋西北部沿拉布拉多與紐芬蘭外海向南流動的寒流，對海霧、海冰輸送、漁場環境與區域氣候具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Labrador_Current"
   },
   {
     "english": "Labrador Sea Water",
-    "traditional_chinese": "拉布拉多海水",
-    "definition_cht": "指與「拉布拉多海水」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "拉布拉多海水團",
+    "definition_cht": "於拉布拉多海冬季強烈對流形成的低溫高密度中層至深層水團，是北大西洋深層環流與北大西洋深層水的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/Labrador_Sea_Water"
   },
   {
     "english": "LAC",
-    "traditional_chinese": "拉克",
-    "definition_cht": "「LAC」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "區域覆蓋資料",
+    "definition_cht": "Local Area Coverage 的縮寫，指極軌衛星以較高空間解析度提供、涵蓋較有限區域範圍的遙測資料產品或傳輸格式。",
     "source_url": "https://glossary.ametsoc.org/wiki/LAC"
   },
   {
     "english": "lacunosus",
-    "traditional_chinese": "腔隙性",
-    "definition_cht": "指與「腔隙性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "絮狀雲隙補充特徵",
+    "definition_cht": "世界氣象組織雲分類中的補充特徵之一，指雲層或雲片呈現許多孔洞、網狀或蜂巢狀外觀，常見於高積雲或卷積雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/lacunosus"
   },
   {
     "english": "Lafond's tables",
-    "traditional_chinese": "拉方德的桌子",
-    "definition_cht": "指與「拉方德的桌子」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拉方德表",
+    "definition_cht": "海洋與波浪研究中使用的參考表，通常用於波浪或海況相關量的快速查算；實際用途仍須依原始文獻脈絡判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lafond%27s_tables"
   },
   {
     "english": "lag",
     "traditional_chinese": "時滯",
-    "definition_cht": "指某一氣象、水文或統計變量對另一變量變化產生反應時所呈現的時間延遲。",
+    "definition_cht": "指某一變量相對於另一變量的變化或外加強迫，出現延後反應的時間差。",
     "source_url": "https://glossary.ametsoc.org/wiki/lag"
   },
   {
     "english": "lag time",
     "traditional_chinese": "滯後時間",
-    "definition_cht": "指與「滯後時間」相關的時間尺度、時制、時相或統計時間特徵。",
+    "definition_cht": "指系統輸入與輸出、致因與回應，或兩個相關事件之間的延遲時間，水文上常用於描述降雨至流量峰值間的時間差。",
     "source_url": "https://glossary.ametsoc.org/wiki/lag_time"
   },
   {
