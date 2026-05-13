@@ -1,1 +1,200 @@
-[{"english":"J process","traditional_chinese":"J 過程","definition_cht":"雲微物理或放射轉換中使用的參數化過程名稱，實際意義需依模式或文獻中的 J 項定義判讀。","source_url":"https://glossary.ametsoc.org/wiki/J_process"},{"english":"j''-value","traditional_chinese":"j'' 值","definition_cht":"用於特定理論推導、座標轉換或參數化公式中的二階導出參數，其確切物理意義需依原方程定義而定。","source_url":"https://glossary.ametsoc.org/wiki/j%27%27-value"},{"english":"Jacobian","traditional_chinese":"雅可比量","definition_cht":"描述座標轉換局部伸縮與方向改變關係的行列式或矩陣，在數值模式與流體力學中常用於變數轉換。","source_url":"https://glossary.ametsoc.org/wiki/Jacobian"},{"english":"January thaw","traditional_chinese":"一月融凍期","definition_cht":"冬季中期短暫回暖並伴隨積雪融化的天氣事件。","source_url":"https://glossary.ametsoc.org/wiki/January_thaw"},{"english":"Japan Sea Deep Water","traditional_chinese":"日本海深層水","definition_cht":"形成於日本海深層、具低溫高溶氧等特徵的深水水團。","source_url":"https://glossary.ametsoc.org/wiki/Japan_Sea_Deep_Water"},{"english":"Japan Sea Middle Water","traditional_chinese":"日本海中層水","definition_cht":"位於日本海中層、具有特定溫鹽與通風特徵的中層水團。","source_url":"https://glossary.ametsoc.org/wiki/Japan_Sea_Middle_Water"},{"english":"jauk","traditional_chinese":"焦克風","definition_cht":"阿爾卑斯或周邊山區地方性風名，通常指受地形控制的局地強風。","source_url":"https://glossary.ametsoc.org/wiki/jauk"},{"english":"jet","traditional_chinese":"噴流","definition_cht":"由高速流體或高風速氣流形成的狹窄帶狀噴射流。","source_url":"https://glossary.ametsoc.org/wiki/jet"},{"english":"jet axis","traditional_chinese":"噴流軸","definition_cht":"噴流速度最大值沿流向連成的主軸線。","source_url":"https://glossary.ametsoc.org/wiki/jet_axis"},{"english":"jet streak","traditional_chinese":"急流核","definition_cht":"急流中局部風速特別強的區段。","source_url":"https://glossary.ametsoc.org/wiki/jet_streak"},{"english":"jet stream","traditional_chinese":"急流","definition_cht":"位於對流層上部或平流層下部、呈狹長帶狀分布的強風帶。","source_url":"https://glossary.ametsoc.org/wiki/jet_stream"},{"english":"jet stream axis","traditional_chinese":"急流軸","definition_cht":"急流核心沿空間延伸所構成的主軸。","source_url":"https://glossary.ametsoc.org/wiki/jet_stream_axis"},{"english":"jet stream cirrus","traditional_chinese":"急流卷雲","definition_cht":"受急流區上升與風切影響，在高空形成或維持的卷雲。","source_url":"https://glossary.ametsoc.org/wiki/jet_stream_cirrus"},{"english":"jet stream core","traditional_chinese":"急流核心","definition_cht":"急流內風速最大、動量最集中的核心區域。","source_url":"https://glossary.ametsoc.org/wiki/jet_stream_core"},{"english":"jet-effect wind","traditional_chinese":"噴流效應風","definition_cht":"受噴流加速、導流或地形噴嘴效應增強的局地強風。","source_url":"https://glossary.ametsoc.org/wiki/jet-effect_wind"},{"english":"jetlet","traditional_chinese":"小尺度噴流","definition_cht":"尺度較小、壽命較短的局地噴流結構。","source_url":"https://glossary.ametsoc.org/wiki/jetlet"},{"english":"Jevons effect","traditional_chinese":"杰文斯效應","definition_cht":"效率提高反而導致資源總消耗增加的反彈效應概念，亦可延伸用於能源或氣候政策討論。","source_url":"https://glossary.ametsoc.org/wiki/Jevons_effect"},{"english":"jimsphere","traditional_chinese":"金斯球探空儀","definition_cht":"以可追蹤輕球搭配定位系統量測高空風場的探空裝置。","source_url":"https://glossary.ametsoc.org/wiki/jimsphere"},{"english":"jochwinde","traditional_chinese":"山口強風","definition_cht":"經山口或鞍部加速通過的地形強風。","source_url":"https://glossary.ametsoc.org/wiki/jochwinde"},{"english":"Johnson–Williams liquid water probe","traditional_chinese":"Johnson–Williams 液態含水量探針","definition_cht":"安裝於航空器上、利用受熱元件響應量測雲中液態含水量的探針。","source_url":"https://glossary.ametsoc.org/wiki/Johnson%E2%80%93Williams_liquid_water_probe"},{"english":"JONSWAP","traditional_chinese":"JONSWAP 譜型","definition_cht":"北海聯合波浪觀測計畫衍生之風浪譜參數化架構，廣用於海洋工程。","source_url":"https://glossary.ametsoc.org/wiki/JONSWAP"},{"english":"JONSWAP spectrum","traditional_chinese":"JONSWAP 波譜","definition_cht":"用於描述受限發展風浪頻譜形狀的經驗波譜模型。","source_url":"https://glossary.ametsoc.org/wiki/JONSWAP_spectrum"},{"english":"Jordan sunshine recorder","traditional_chinese":"Jordan 日照記錄器","definition_cht":"以感光或熱效應記錄日照持續時間的儀器。","source_url":"https://glossary.ametsoc.org/wiki/Jordan_sunshine_recorder"},{"english":"joule","traditional_chinese":"焦耳","definition_cht":"國際單位制中的能量與作功單位。","source_url":"https://glossary.ametsoc.org/wiki/joule"},{"english":"Joule's constant","traditional_chinese":"焦耳常數","definition_cht":"用於表示熱與機械能等價關係的常數。","source_url":"https://glossary.ametsoc.org/wiki/Joule%27s_constant"},{"english":"jump","traditional_chinese":"躍變","definition_cht":"流體或場量在短距離內出現近似不連續的突變現象，如水躍或壓力躍變。","source_url":"https://glossary.ametsoc.org/wiki/jump"},{"english":"jump model","traditional_chinese":"躍變模式","definition_cht":"用於描述狀態量突變轉換或分段躍遷行為的數學或數值模型。","source_url":"https://glossary.ametsoc.org/wiki/jump_model"},{"english":"junction streamer","traditional_chinese":"交會流線","definition_cht":"雷暴電場中由不同放電通道交會延伸的細絲狀先導或流注。","source_url":"https://glossary.ametsoc.org/wiki/junction_streamer"},{"english":"Junge aerosol layer","traditional_chinese":"榮格氣膠層","definition_cht":"位於平流層下部、由硫酸鹽等微粒構成的全球性背景氣膠層。","source_url":"https://glossary.ametsoc.org/wiki/Junge_aerosol_layer"},{"english":"junk wind","traditional_chinese":"舢舨風","definition_cht":"東亞沿海航海語中的地方風名，指適合帆船航行或與季風轉變相關的風。","source_url":"https://glossary.ametsoc.org/wiki/junk_wind"},{"english":"junta","traditional_chinese":"焚風型局地風","definition_cht":"地方性風名，通常指在特定地形或季節條件下出現的局地風。","source_url":"https://glossary.ametsoc.org/wiki/junta"},{"english":"juran","traditional_chinese":"朱蘭風","definition_cht":"地方性風名，常指受區域地形與壓力分布控制的局地風。","source_url":"https://glossary.ametsoc.org/wiki/juran"},{"english":"jury problem","traditional_chinese":"陪審團問題","definition_cht":"在統計決策或集合判斷中，分析多個判斷者組合後正確率的理論問題。","source_url":"https://glossary.ametsoc.org/wiki/jury_problem"}]
+[
+  {
+    "english": "J process",
+    "traditional_chinese": "J 過程",
+    "definition_cht": "又稱 junction process，指雲內攜帶淨電荷、傳播速度較慢的電擊穿過程，可作為 K process 的觸發機制之一。",
+    "source_url": "https://glossary.ametsoc.org/wiki/J_process"
+  },
+  {
+    "english": "j''-value",
+    "traditional_chinese": "j'' 值",
+    "definition_cht": "以 j′′ 表示的參數記號；在較早期氣象或地球物理文獻中可用於特定公式或函數的輔助量，其確切物理意義須依原始方程式與使用脈絡判定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/j%27%27-value"
+  },
+  {
+    "english": "Jacobian",
+    "traditional_chinese": "雅可比量",
+    "definition_cht": "描述座標轉換局部伸縮與方向改變關係的行列式或矩陣，在數值模式與流體力學中常用於變數轉換。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Jacobian"
+  },
+  {
+    "english": "January thaw",
+    "traditional_chinese": "一月融凍期",
+    "definition_cht": "冬季中期短暫回暖並伴隨積雪融化的天氣事件。",
+    "source_url": "https://glossary.ametsoc.org/wiki/January_thaw"
+  },
+  {
+    "english": "Japan Sea Deep Water",
+    "traditional_chinese": "日本海深層水",
+    "definition_cht": "形成於日本海深層、具低溫高溶氧等特徵的深水水團。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Japan_Sea_Deep_Water"
+  },
+  {
+    "english": "Japan Sea Middle Water",
+    "traditional_chinese": "日本海中層水",
+    "definition_cht": "位於日本海中層、具有特定溫鹽與通風特徵的中層水團。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Japan_Sea_Middle_Water"
+  },
+  {
+    "english": "jauk",
+    "traditional_chinese": "焦克風",
+    "definition_cht": "阿爾卑斯或周邊山區地方性風名，通常指受地形控制的局地強風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jauk"
+  },
+  {
+    "english": "jet",
+    "traditional_chinese": "噴流",
+    "definition_cht": "由高速流體或高風速氣流形成的狹窄帶狀噴射流。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jet"
+  },
+  {
+    "english": "jet axis",
+    "traditional_chinese": "噴流軸",
+    "definition_cht": "噴流速度最大值沿流向連成的主軸線。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jet_axis"
+  },
+  {
+    "english": "jet streak",
+    "traditional_chinese": "急流核",
+    "definition_cht": "急流中局部風速特別強的區段。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jet_streak"
+  },
+  {
+    "english": "jet stream",
+    "traditional_chinese": "急流",
+    "definition_cht": "位於對流層上部或平流層下部、呈狹長帶狀分布的強風帶。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jet_stream"
+  },
+  {
+    "english": "jet stream axis",
+    "traditional_chinese": "急流軸",
+    "definition_cht": "急流核心沿空間延伸所構成的主軸。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jet_stream_axis"
+  },
+  {
+    "english": "jet stream cirrus",
+    "traditional_chinese": "急流卷雲",
+    "definition_cht": "受急流區上升與風切影響，在高空形成或維持的卷雲。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jet_stream_cirrus"
+  },
+  {
+    "english": "jet stream core",
+    "traditional_chinese": "急流核心",
+    "definition_cht": "急流內風速最大、動量最集中的核心區域。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jet_stream_core"
+  },
+  {
+    "english": "jet-effect wind",
+    "traditional_chinese": "噴流效應風",
+    "definition_cht": "受噴流加速、導流或地形噴嘴效應增強的局地強風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jet-effect_wind"
+  },
+  {
+    "english": "jetlet",
+    "traditional_chinese": "小尺度噴流",
+    "definition_cht": "尺度較小、壽命較短的局地噴流結構。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jetlet"
+  },
+  {
+    "english": "Jevons effect",
+    "traditional_chinese": "杰文斯效應",
+    "definition_cht": "效率提高反而導致資源總消耗增加的反彈效應概念，亦可延伸用於能源或氣候政策討論。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Jevons_effect"
+  },
+  {
+    "english": "jimsphere",
+    "traditional_chinese": "金斯球探空儀",
+    "definition_cht": "以可追蹤輕球搭配定位系統量測高空風場的探空裝置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jimsphere"
+  },
+  {
+    "english": "jochwinde",
+    "traditional_chinese": "山口強風",
+    "definition_cht": "經山口或鞍部加速通過的地形強風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jochwinde"
+  },
+  {
+    "english": "Johnson–Williams liquid water probe",
+    "traditional_chinese": "Johnson–Williams 液態含水量探針",
+    "definition_cht": "安裝於航空器上、利用受熱元件響應量測雲中液態含水量的探針。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Johnson%E2%80%93Williams_liquid_water_probe"
+  },
+  {
+    "english": "JONSWAP",
+    "traditional_chinese": "JONSWAP 譜型",
+    "definition_cht": "北海聯合波浪觀測計畫衍生之風浪譜參數化架構，廣用於海洋工程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/JONSWAP"
+  },
+  {
+    "english": "JONSWAP spectrum",
+    "traditional_chinese": "JONSWAP 波譜",
+    "definition_cht": "用於描述受限發展風浪頻譜形狀的經驗波譜模型。",
+    "source_url": "https://glossary.ametsoc.org/wiki/JONSWAP_spectrum"
+  },
+  {
+    "english": "Jordan sunshine recorder",
+    "traditional_chinese": "Jordan 日照記錄器",
+    "definition_cht": "以感光或熱效應記錄日照持續時間的儀器。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Jordan_sunshine_recorder"
+  },
+  {
+    "english": "joule",
+    "traditional_chinese": "焦耳",
+    "definition_cht": "國際單位制中的能量與作功單位。",
+    "source_url": "https://glossary.ametsoc.org/wiki/joule"
+  },
+  {
+    "english": "Joule's constant",
+    "traditional_chinese": "焦耳常數",
+    "definition_cht": "用於表示熱與機械能等價關係的常數。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Joule%27s_constant"
+  },
+  {
+    "english": "jump",
+    "traditional_chinese": "躍變",
+    "definition_cht": "流體或場量在短距離內出現近似不連續的突變現象，如水躍或壓力躍變。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jump"
+  },
+  {
+    "english": "jump model",
+    "traditional_chinese": "躍變模式",
+    "definition_cht": "用於描述狀態量突變轉換或分段躍遷行為的數學或數值模型。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jump_model"
+  },
+  {
+    "english": "junction streamer",
+    "traditional_chinese": "交會流線",
+    "definition_cht": "雷暴電場中由不同放電通道交會延伸的細絲狀先導或流注。",
+    "source_url": "https://glossary.ametsoc.org/wiki/junction_streamer"
+  },
+  {
+    "english": "Junge aerosol layer",
+    "traditional_chinese": "榮格氣膠層",
+    "definition_cht": "位於平流層下部、由硫酸鹽等微粒構成的全球性背景氣膠層。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Junge_aerosol_layer"
+  },
+  {
+    "english": "junk wind",
+    "traditional_chinese": "舢舨風",
+    "definition_cht": "東亞沿海航海語中的地方風名，指適合帆船航行或與季風轉變相關的風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/junk_wind"
+  },
+  {
+    "english": "junta",
+    "traditional_chinese": "焚風型局地風",
+    "definition_cht": "地方性風名，通常指在特定地形或季節條件下出現的局地風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/junta"
+  },
+  {
+    "english": "juran",
+    "traditional_chinese": "朱蘭風",
+    "definition_cht": "地方性風名，常指受區域地形與壓力分布控制的局地風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/juran"
+  },
+  {
+    "english": "jury problem",
+    "traditional_chinese": "陪審團問題",
+    "definition_cht": "在統計決策或集合判斷中，分析多個判斷者組合後正確率的理論問題。",
+    "source_url": "https://glossary.ametsoc.org/wiki/jury_problem"
+  }
+]

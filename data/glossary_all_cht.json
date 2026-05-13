@@ -27656,121 +27656,121 @@
   {
     "english": "isothermal",
     "traditional_chinese": "等溫的",
-    "definition_cht": "「等溫的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指在空間上各處溫度相同，或在時間上溫度保持不變的性質；可用於描述大氣層結構、熱力過程或等溫分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/isothermal"
   },
   {
     "english": "isothermal atmosphere",
-    "traditional_chinese": "isothermal 大氣",
-    "definition_cht": "垂直方向上溫度近似不隨高度變化的大氣。",
+    "traditional_chinese": "等溫大氣",
+    "definition_cht": "指氣溫在垂直方向上近似不隨高度改變的大氣理想化狀態，常用於大氣靜力與尺度高度等理論推導。",
     "source_url": "https://glossary.ametsoc.org/wiki/isothermal_atmosphere"
   },
   {
     "english": "isothermal equilibrium",
-    "traditional_chinese": "isothermal equilibrium",
-    "definition_cht": "「isothermal equilibrium」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等溫平衡",
+    "definition_cht": "指系統各部分已達到相同溫度而不再存在淨熱傳的平衡狀態；在大氣與輻射、熱力分析中屬理想化概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/isothermal_equilibrium"
   },
   {
     "english": "isothermal process",
-    "traditional_chinese": "isothermal 過程",
-    "definition_cht": "「isothermal 過程」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等溫過程",
+    "definition_cht": "熱力學中溫度維持不變的過程；對理想氣體而言，其壓力與體積變化遵循等溫關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/isothermal_process"
   },
   {
     "english": "isotimic",
-    "traditional_chinese": "isotimic",
-    "definition_cht": "「isotimic」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等時值的",
+    "definition_cht": "指某一物理量在特定時刻於空間各處具有相同數值的性質，用於描述瞬時等值分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotimic"
   },
   {
     "english": "isotimic line",
-    "traditional_chinese": "isotimic 線",
-    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。",
+    "traditional_chinese": "等時值線",
+    "definition_cht": "在某一特定時刻，圖上連結某物理量數值相同各點的線，屬瞬時場的等值線表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotimic_line"
   },
   {
     "english": "isotimic surface",
-    "traditional_chinese": "isotimic 面",
-    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。",
+    "traditional_chinese": "等時值面",
+    "definition_cht": "在某一特定時刻，由某物理量數值相同各點所構成的曲面，為瞬時三維等值分布的表示方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotimic_surface"
   },
   {
     "english": "isotope",
-    "traditional_chinese": "isotope",
-    "definition_cht": "「isotope」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "同位素",
+    "definition_cht": "同一元素中質子數相同但中子數不同的原子型式，因此質量不同而化學性質大致相近；在氣象、水文與氣候研究中常用於示蹤與來源判識。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotope"
   },
   {
     "english": "isotopic tracer",
-    "traditional_chinese": "isotopic tracer",
-    "definition_cht": "利用同位素作為示蹤物以追蹤物質來源、混合與傳輸的技術。",
+    "traditional_chinese": "同位素示蹤劑",
+    "definition_cht": "利用穩定或放射性同位素作為示蹤物，以追蹤水體、氣團或化學物質的來源、混合、傳輸與停留時間的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotopic_tracer"
   },
   {
     "english": "isotropic",
     "traditional_chinese": "各向同性的",
-    "definition_cht": "「各向同性的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指某一物質、介質或場在各個方向上具有相同性質或統計特徵，其反義為各向異性。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotropic"
   },
   {
     "english": "isotropic radiation",
-    "traditional_chinese": "isotropic 輻射",
-    "definition_cht": "指與「isotropic 輻射」相關的電磁輻射或其能量傳輸過程。",
+    "traditional_chinese": "各向同性輻射",
+    "definition_cht": "指輻射強度在各個方向上皆相同的理想化輻射場，常作為輻射傳輸與遙測中的基準假設。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotropic_radiation"
   },
   {
     "english": "isotropic radiator",
-    "traditional_chinese": "isotropic radiator",
-    "definition_cht": "「isotropic radiator」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "各向同性輻射體",
+    "definition_cht": "能向所有方向均勻發射能量的理想化點狀輻射源；在電磁、雷達與天線理論中常作為比較基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotropic_radiator"
   },
   {
     "english": "isotropic target",
-    "traditional_chinese": "isotropic target",
-    "definition_cht": "「isotropic target」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "各向同性目標體",
+    "definition_cht": "在各個方向上呈現相同性質或相同散射／反射特性的理想化目標，用於雷達、遙測與散射理論的基準分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotropic_target"
   },
   {
     "english": "isotropic turbulence",
-    "traditional_chinese": "isotropic turbulence",
-    "definition_cht": "各方向統計性質近似相同的湍流。",
+    "traditional_chinese": "各向同性湍流",
+    "definition_cht": "指湍流的統計性質在各個方向上近似相同的理想化湍流狀態，常用於湍流理論與能譜分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotropic_turbulence"
   },
   {
     "english": "ITcal",
-    "traditional_chinese": "國際表卡路里",
-    "definition_cht": "「國際表卡路里」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "國際表卡",
+    "definition_cht": "international table calorie 的縮寫，為舊制熱量單位，等同於國際表卡路里；在舊版氣象、蒸汽表與輻射換算文獻中可見。",
     "source_url": "https://glossary.ametsoc.org/wiki/ITcal"
   },
   {
     "english": "ITCZ",
-    "traditional_chinese": "熱帶輻合帶",
-    "definition_cht": "位於熱帶低緯、由兩半球信風輻合而成的主要對流與降雨帶。",
+    "traditional_chinese": "熱帶輻合帶（ITCZ）",
+    "definition_cht": "intertropical convergence zone 的縮寫，指位於熱帶低緯、由南北半球信風輻合形成的帶狀低壓與旺盛對流降雨區。",
     "source_url": "https://glossary.ametsoc.org/wiki/ITCZ"
   },
   {
     "english": "ITOS",
-    "traditional_chinese": "改良型 TIROS 作業系統",
-    "definition_cht": "「ITOS」為相關領域常用縮寫，通常指特定觀測系統、分析產品、組織或技術名詞，確切內涵需依使用情境判定。",
+    "traditional_chinese": "改良型 TIROS 作業系統（ITOS）",
+    "definition_cht": "Improved TIROS Operational System 的縮寫，為美國早期作業氣象衛星系統名稱，用於延續並改良 TIROS 衛星觀測與資料傳輸能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/ITOS"
   },
   {
     "english": "ivory point",
-    "traditional_chinese": "ivory 點",
-    "definition_cht": "早期濕度觀測中以象牙材料製成、利用吸濕變形特性作為指示元件的測濕點或構件。",
+    "traditional_chinese": "象牙尖點",
+    "definition_cht": "Fortin 水銀氣壓計貯槽上方的小型象牙尖針；觀測前調整貯槽水銀面，使其恰與尖端接觸，以固定零點並校正讀數。",
     "source_url": "https://glossary.ametsoc.org/wiki/ivory_point"
   },
   {
     "english": "J process",
     "traditional_chinese": "J 過程",
-    "definition_cht": "雲微物理或放射轉換中使用的參數化過程名稱，實際意義需依模式或文獻中的 J 項定義判讀。",
+    "definition_cht": "又稱 junction process，指雲內攜帶淨電荷、傳播速度較慢的電擊穿過程，可作為 K process 的觸發機制之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/J_process"
   },
   {
     "english": "j''-value",
     "traditional_chinese": "j'' 值",
-    "definition_cht": "用於特定理論推導、座標轉換或參數化公式中的二階導出參數，其確切物理意義需依原方程定義而定。",
+    "definition_cht": "以 j′′ 表示的參數記號；在較早期氣象或地球物理文獻中可用於特定公式或函數的輔助量，其確切物理意義須依原始方程式與使用脈絡判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/j%27%27-value"
   },
   {
