@@ -29336,121 +29336,121 @@
   {
     "english": "level of no motion",
     "traditional_chinese": "無流層",
-    "definition_cht": "指與「無流層」相關的特徵層位、標準層、診斷高度或強度分級。",
+    "definition_cht": "在海洋或大氣分析中假定水平流速可視為零的參考層位，常用來作為地轉流或動力高度計算的基準；實際上未必完全靜止，而是近似無顯著水平流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/level_of_no_motion"
   },
   {
     "english": "level of nondivergence",
-    "traditional_chinese": "無分歧水平",
-    "definition_cht": "指與「無分歧水平」相關的特徵層位、標準層、診斷高度或強度分級。",
+    "traditional_chinese": "無輻散層",
+    "definition_cht": "大氣中水平風場散度為零的層位；在典型垂直環流結構中，常位於低層輻合與高層輻散之間，可作為診斷垂直運動的重要參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/level_of_nondivergence"
   },
   {
     "english": "LEWP",
-    "traditional_chinese": "低功耗水壓",
-    "definition_cht": "「LEWP」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "線回波波狀型",
+    "definition_cht": "line echo wave pattern 的縮寫，指雷達上對流線呈波狀起伏或局部弓形外鼓的回波型態，常顯示中尺度低壓擾動增強，並伴隨強陣風、破壞性直線風或龍捲風風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/LEWP"
   },
   {
     "english": "LF",
     "traditional_chinese": "低頻",
-    "definition_cht": "「LF」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "definition_cht": "low frequency 的縮寫，通常指頻率較低的振盪、波動或電磁／聲學訊號；在氣象與遙測語境中，常依實際系統指涉低頻變化或低頻頻段。",
     "source_url": "https://glossary.ametsoc.org/wiki/LF"
   },
   {
     "english": "LFC",
-    "traditional_chinese": "利物浦足球俱樂部",
-    "definition_cht": "「LFC」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "自由對流高度",
+    "definition_cht": "level of free convection 的縮寫，指氣塊抬升至達飽和後，首次比環境更暖並獲得正浮力、可在無額外外力下自行持續上升的層位。",
     "source_url": "https://glossary.ametsoc.org/wiki/LFC"
   },
   {
     "english": "LFM model",
-    "traditional_chinese": "線性調頻模型",
-    "definition_cht": "用於表示「線性調頻模型」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "有限區域細網格模式",
+    "definition_cht": "limited fine-mesh model 的縮寫，為早期作業數值天氣預報模式之一，以有限區域細網格配置求解原始方程，用於北美地區天氣分析與短期預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/LFM_model"
   },
   {
     "english": "LFS",
-    "traditional_chinese": "線性FS",
-    "definition_cht": "「LFS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "自由下沉高度",
+    "definition_cht": "level of free sink 的縮寫，指氣塊在下降過程中首次比周圍環境更冷更重、因而獲得負浮力並可自行持續下沉的層位。",
     "source_url": "https://glossary.ametsoc.org/wiki/LFS"
   },
   {
     "english": "LI",
-    "traditional_chinese": "李",
-    "definition_cht": "「LI」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "提升指數",
+    "definition_cht": "lifted index 的縮寫，通常定義為 500 hPa 環境氣溫減去由近地面抬升氣塊在 500 hPa 的氣溫；數值愈負通常代表對流愈不穩定、強對流潛勢愈高。",
     "source_url": "https://glossary.ametsoc.org/wiki/LI"
   },
   {
     "english": "libeccio",
-    "traditional_chinese": "利貝喬",
-    "definition_cht": "指與「利貝喬」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "利貝喬風",
+    "definition_cht": "地中海西部常見的西南風地方風，義大利稱 libeccio；常伴隨風浪增強，並可帶來陣風、湧浪與天氣轉差。",
     "source_url": "https://glossary.ametsoc.org/wiki/libeccio"
   },
   {
     "english": "liberator",
-    "traditional_chinese": "救星",
-    "definition_cht": "指與「救星」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "解放者式飛機",
+    "definition_cht": "原指 Consolidated B-24 Liberator 轟炸機；在氣象史脈絡中亦指曾改裝用於高空或遠程氣象偵察與天氣資料蒐集的 Liberator 飛機。",
     "source_url": "https://glossary.ametsoc.org/wiki/liberator"
   },
   {
     "english": "lid",
-    "traditional_chinese": "蓋",
-    "definition_cht": "指與「蓋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "抑制層",
+    "definition_cht": "對流上方抑制暖層的通稱，通常指能阻止近地面暖濕空氣繼續自由上升的逆溫或近逆溫層；當此層被削弱或突破時，強對流可迅速發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/lid"
   },
   {
     "english": "lidar",
     "traditional_chinese": "光達",
-    "definition_cht": "利用雷射脈衝量測大氣、雲、氣膠或地表目標回波特性的主動遙測系統。",
+    "definition_cht": "light detection and ranging 的縮寫，為利用雷射脈衝量測目標距離及其回波特性的主動遙測技術；在氣象上常用於探測雲、氣膠、風場與邊界層結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/lidar"
   },
   {
     "english": "lidar constant",
     "traditional_chinese": "光達常數",
-    "definition_cht": "指與「光達常數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "光達方程中的系統常數，綜合發射能量、接收望遠鏡面積、光學效率、探測器響應與其他儀器參數，用以連結回波功率與大氣後向散射訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/lidar_constant"
   },
   {
     "english": "lidar equation",
     "traditional_chinese": "光達方程",
-    "definition_cht": "描述「光達方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "definition_cht": "描述光達接收回波功率與距離、後向散射、雙程消光及系統常數關係的基本方程，是反演氣膠、雲與其他大氣光學性質的理論基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/lidar_equation"
   },
   {
     "english": "Lidar ratio",
     "traditional_chinese": "光達比",
-    "definition_cht": "指表示「光達比」相關兩種量值關係的比值，常用於診斷、比較或分類。",
+    "definition_cht": "消光係數與後向散射係數的比值，常以 sr（球面度）表示；其大小與粒子種類、形狀與吸濕性有關，是反演氣膠與雲光學性質的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lidar_ratio"
   },
   {
     "english": "life zone",
-    "traditional_chinese": "生活區",
-    "definition_cht": "指與「生活區」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "生命帶",
+    "definition_cht": "依氣候條件所劃分的生態區帶，通常綜合生物溫度、降水量及其季節分配來判定，可用於描述特定氣候背景下可能對應的植被與生態環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/life_zone"
   },
   {
     "english": "lifetimes",
-    "traditional_chinese": "壽命",
-    "definition_cht": "指與「壽命」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "生命期",
+    "definition_cht": "指大氣現象、粒子、雲滴、化學物種或系統自生成到消散的持續時間，亦可指某物質在輸送與清除作用下的平均停留時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/lifetimes"
   },
   {
     "english": "lift",
-    "traditional_chinese": "舉起",
-    "definition_cht": "指與「舉起」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "抬升",
+    "definition_cht": "使空氣塊向上移動的作用或過程，可由鋒面、地形、地面加熱、輻合或高空動力機制所觸發；抬升是雲與降水形成的重要條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/lift"
   },
   {
     "english": "lifted index",
     "traditional_chinese": "提升指數",
-    "definition_cht": "用於量化「提升指數」相關狀態、強度、異常程度或風險高低的指標。",
+    "definition_cht": "衡量大氣對流不穩定度的指標，通常定義為 500 hPa 環境氣溫減去抬升氣塊在同一壓力面的氣溫；數值為負且愈小，代表對流愈容易發展且潛在強度愈高。",
     "source_url": "https://glossary.ametsoc.org/wiki/lifted_index"
   },
   {
     "english": "lifting condensation level",
     "traditional_chinese": "抬升凝結高度",
-    "definition_cht": "未飽和空氣塊在乾絕熱抬升過程中首次達到飽和並開始凝結的高度。",
+    "definition_cht": "未飽和空氣塊沿乾絕熱抬升時首次達到飽和並開始凝結的高度；在對流混合作用較均勻時，常可近似視為晴天積雲雲底高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/lifting_condensation_level"
   },
   {
