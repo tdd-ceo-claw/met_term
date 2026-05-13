@@ -30296,121 +30296,121 @@
   {
     "english": "low-temperature hygrometry",
     "traditional_chinese": "低溫濕度測定",
-    "definition_cht": "指與「低溫濕度測定」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "definition_cht": "指在低溫環境下測定空氣中水氣含量、濕度或霜點的技術與研究；由於低溫時可用水氣量極少，且儀器反應時間常增大，其量測方法通常不同於一般濕度測定。",
     "source_url": "https://glossary.ametsoc.org/wiki/low-temperature_hygrometry"
   },
   {
     "english": "lower atmosphere",
     "traditional_chinese": "低層大氣",
-    "definition_cht": "指與「低層大氣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "廣義上指靠近地表的那部分大氣，通常主要涵蓋對流層，並可視語境包含其上的低層平流層；多數天氣現象、邊界層交換與污染傳輸主要發生於此。",
     "source_url": "https://glossary.ametsoc.org/wiki/lower_atmosphere"
   },
   {
     "english": "lowest astronomical tide",
     "traditional_chinese": "最低天文潮",
-    "definition_cht": "指與「最低天文潮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在平均氣象條件下，僅由天文因素組合所能預報出的最低潮位；常作為海圖深度與潮高預報的基準面之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/lowest_astronomical_tide"
   },
   {
     "english": "LRIT",
-    "traditional_chinese": "遠端識別技術",
-    "definition_cht": "「LRIT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "低速率資訊傳輸",
+    "definition_cht": "Low Rate Information Transmission 的縮寫，指環境衛星所採用的數位資料播送服務與國際傳輸標準，用於傳送氣象影像、分析圖及其他環境資訊，並取代較早期的類比 WEFAX 系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/LRIT"
   },
   {
     "english": "LTE",
-    "traditional_chinese": "LTE",
-    "definition_cht": "「LTE」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "局部熱力學平衡",
+    "definition_cht": "local thermodynamic equilibrium 的縮寫，指介質雖整體未必處於完全熱力學平衡，但在局部小範圍內各粒子族群可近似服從由單一局地溫度決定的平衡分布；常用於大氣輻射、光譜與電離層或天體物理計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/LTE"
   },
   {
     "english": "luganot",
-    "traditional_chinese": "盧加諾",
-    "definition_cht": "指與「盧加諾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "盧加諾特風",
+    "definition_cht": "義大利加達湖一帶的地方性風名，通常指沿湖吹送的偏南至南南東強風；屬區域性湖風或峽谷導引風系用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/luganot"
   },
   {
     "english": "lull",
     "traditional_chinese": "暫歇",
-    "definition_cht": "指降水、風或風暴活動在事件進行期間出現的短暫減弱或暫停階段。",
+    "definition_cht": "指風、降水、雷暴或海況等天氣現象在持續過程中出現的短暫減弱或暫時平靜期，其後仍可能再度增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/lull"
   },
   {
     "english": "lumen",
     "traditional_chinese": "流明",
-    "definition_cht": "指與「流明」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "光通量的 SI 導出單位，符號為 lm，用以表示光源所發出可見光在人眼視覺加權下的總量；1 流明等於 1 坎德拉‧球面度。",
     "source_url": "https://glossary.ametsoc.org/wiki/lumen"
   },
   {
     "english": "luminance",
-    "traditional_chinese": "亮度",
-    "definition_cht": "指與「亮度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "輝度",
+    "definition_cht": "光度學中表示某表面或光源在特定方向上單位投影面積的發光強度之量，用以描述其看起來有多亮；SI 單位為坎德拉每平方公尺（cd/m²）。",
     "source_url": "https://glossary.ametsoc.org/wiki/luminance"
   },
   {
     "english": "luminescence",
     "traditional_chinese": "發光",
-    "definition_cht": "指與「發光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "物質在非單純受熱情況下，因電子、分子或晶格受激後回到較低能階而放出光學輻射的現象；可包括螢光、磷光、化學發光等。",
     "source_url": "https://glossary.ametsoc.org/wiki/luminescence"
   },
   {
     "english": "luminous",
     "traditional_chinese": "發光的",
-    "definition_cht": "指與「發光的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "形容物體會自行發光或具有明顯可見光輻射特性；在氣象與大氣光學語境中，常用於描述發光雲、流星、閃電或夜光現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/luminous"
   },
   {
     "english": "luminous efficiency",
     "traditional_chinese": "發光效率",
-    "definition_cht": "指與「發光效率」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "表示輻射能轉換為人眼可感知可見光之效率的量，可指光源整體輸入能量轉為可見光的效率，或指輻射本身相對於最大視覺響應的利用效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/luminous_efficiency"
   },
   {
     "english": "lumped chemical mechanism",
-    "traditional_chinese": "集總化學機理",
-    "definition_cht": "將多種化學物種或反應途徑加以合併簡化後所建立的化學反應機制，用於降低大氣化學模式計算成本。",
+    "traditional_chinese": "集總化學機制",
+    "definition_cht": "在大氣化學模式中，將多種化學物種或反應途徑依性質加以分組合併後所建立的簡化反應機制，以降低計算量並保留主要化學行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/lumped_chemical_mechanism"
   },
   {
     "english": "lunar atmospheric tide",
     "traditional_chinese": "月球大氣潮",
-    "definition_cht": "指與「月球大氣潮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由月球引力週期性作用所激發的大氣潮汐振盪，表現為氣壓、風場與密度等要素的規律性日變化或半日變化成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/lunar_atmospheric_tide"
   },
   {
     "english": "lunar day",
     "traditional_chinese": "太陰日",
-    "definition_cht": "指與「太陰日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "以月球相對於某地子午線連續兩次通過為基準的時間間隔，平均約為 24 小時 50 分；常用於潮汐與月球相關週期現象的描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/lunar_day"
   },
   {
     "english": "lunar rainbow",
     "traditional_chinese": "月虹",
-    "definition_cht": "指與「月虹」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由月光經雨滴或水霧折射、反射與色散所形成的虹，生成機制與日虹相同，但因月光較弱，肉眼常見為偏白或色彩不明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/lunar_rainbow"
   },
   {
     "english": "lunar tide",
     "traditional_chinese": "月潮",
-    "definition_cht": "由月球引力作用所引起之大氣或海洋週期性潮汐振盪。",
+    "definition_cht": "由月球引力所產生的週期性潮汐成分，可表現在海洋潮位、大氣潮汐或固體地球潮之中，是地月引潮力的重要效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/lunar_tide"
   },
   {
     "english": "lunitidal interval",
     "traditional_chinese": "月潮間隔",
-    "definition_cht": "指與「月潮間隔」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "某地月球上中天與其後緊接發生的高潮或低潮之間的時間差；為潮汐推算與港灣潮時判讀常用的地方性潮汐參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/lunitidal_interval"
   },
   {
     "english": "lux",
     "traditional_chinese": "勒克斯",
-    "definition_cht": "指與「勒克斯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "照度的 SI 單位，符號為 lx，表示每平方公尺上接受到 1 流明的光通量；用於量化表面受照明的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/lux"
   },
   {
     "english": "Lyman alpha emission line",
     "traditional_chinese": "萊曼α發射線",
-    "definition_cht": "指與「萊曼α發射線」相關的線性結構、譜線、基準線或分析界線，常作為診斷與辨識依據。",
+    "definition_cht": "氫原子電子由 n=2 躍遷至 n=1 時所產生的特徵紫外發射譜線，波長約 121.6 奈米；常用於高層大氣、日地物理與天體物理中的遙測與診斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lyman_alpha_emission_line"
   },
   {
