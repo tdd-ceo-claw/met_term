@@ -1393,122 +1393,122 @@
   },
   {
     "english": "local closure",
-    "traditional_chinese": "局部封閉",
-    "definition_cht": "指與「局部封閉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地閉合",
+    "definition_cht": "在湍流、邊界層或數值模式中，指以某一位置的局地平均量、梯度或較低階統計量，來表示未解析通量或高階統計量的閉合理論或參數化方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_closure"
   },
   {
     "english": "local derivative",
     "traditional_chinese": "局部導數",
-    "definition_cht": "指與「局部導數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指函數或場變數在某一點鄰近範圍內相對於自變數的瞬時變化率；在大氣與流體分析中，常用以描述物理量對時間、空間或其他變數的局部變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_derivative"
   },
   {
     "english": "local effects",
-    "traditional_chinese": "局部效應",
-    "definition_cht": "指與「局部效應」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地效應",
+    "definition_cht": "指由觀測地附近的地形、地表覆蓋、海陸分布、建物或其他局部環境條件所造成的影響，常使天氣、風場、溫度或降水分布偏離大尺度背景型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_effects"
   },
   {
     "english": "local forecast",
     "traditional_chinese": "當地預報",
-    "definition_cht": "指以「當地預報」為主題的預報產品、預測方法或作業結果。",
+    "definition_cht": "針對特定地點或小範圍地區發布的天氣預報，著重描述該地在一定時段內的溫度、風、降水、雲量與其他天氣條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_forecast"
   },
   {
     "english": "local free-convection similarity",
-    "traditional_chinese": "局部自由對流相似性",
-    "definition_cht": "指與「局部自由對流相似性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地自由對流相似性",
+    "definition_cht": "邊界層相似理論的一種形式，適用於近地層局部區域內浮力作用主導、機械剪切相對次要的自由對流條件，用以描述無因次梯度、變異量或通量間的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_free-convection_similarity"
   },
   {
     "english": "local inflow",
-    "traditional_chinese": "本地流入",
-    "definition_cht": "指與「本地流入」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地入流",
+    "definition_cht": "指流域、河段、湖庫或分析區域內，來自附近支流、坡面逕流或周邊小區域的流入量；通常用以區別於主要上游來水。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_inflow"
   },
   {
     "english": "local isotropy",
-    "traditional_chinese": "局部各向同性",
-    "definition_cht": "指與「局部各向同性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地各向同性",
+    "definition_cht": "指在湍流的小尺度局部範圍內，其統計性質近似與方向無關的狀態；即使大尺度流場具各向異性，足夠小的渦動仍可近似視為各向同性。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_isotropy"
   },
   {
     "english": "local lightning-flash counter",
-    "traditional_chinese": "本地閃電計數器",
-    "definition_cht": "指與「本地閃電計數器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地閃電閃次計數器",
+    "definition_cht": "設置於地面、用於記錄一定時間內本地或感測範圍內閃電閃次發生次數的儀器，可作為雷暴活動頻度監測的基本設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_lightning-flash_counter"
   },
   {
     "english": "local Mach number",
-    "traditional_chinese": "本地馬赫數",
-    "definition_cht": "指用於表徵「本地馬赫數」相關物理機制、無因次特徵或分類條件的數值指標。",
+    "traditional_chinese": "局地馬赫數",
+    "definition_cht": "流體動力學中的無因次量，定義為某一位置的流速與同一位置局地音速之比；其值會隨介質溫度與流場狀態改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_Mach_number"
   },
   {
     "english": "local similarity",
-    "traditional_chinese": "局部相似性",
-    "definition_cht": "指與「局部相似性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地相似性",
+    "definition_cht": "邊界層與湍流理論中的相似假設，指以局部通量、局部尺度或局地穩定度作為正規化基準，以描述該處無因次梯度、變異量或統計量之間的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_similarity"
   },
   {
     "english": "local storm",
-    "traditional_chinese": "局部風暴",
-    "definition_cht": "指與「局部風暴」相關的風暴、劇烈天氣系統或對流組織。",
+    "traditional_chinese": "局地風暴",
+    "definition_cht": "通常指影響範圍較小或沿狹窄路徑移動、但強度足以威脅生命財產的對流性風暴；常見例子包括伴隨大冰雹、破壞性強風或龍捲風的強烈雷暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_storm"
   },
   {
     "english": "local thermodynamic equilibrium",
-    "traditional_chinese": "局部熱力學平衡",
-    "definition_cht": "指與「局部熱力學平衡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地熱力學平衡",
+    "definition_cht": "簡稱 LTE，指系統雖未必整體達到熱力學平衡，但在足夠小的局部區域內可近似視為處於平衡狀態，因此仍可用局地溫度與其他平衡關係描述其物理性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_thermodynamic_equilibrium"
   },
   {
     "english": "local time",
     "traditional_chinese": "當地時間",
-    "definition_cht": "指與「當地時間」相關的時間尺度、時制、時相或統計時間特徵。",
+    "definition_cht": "以某地經度或所屬時區為基準的時間；在氣象觀測與預報中，常用以表示相對於世界協調時間（UTC）的地方時刻，必要時亦可指地方太陽時。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_time"
   },
   {
     "english": "local vorticity",
-    "traditional_chinese": "局部渦度",
-    "definition_cht": "指與「局部渦度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地渦度",
+    "definition_cht": "流體在某一點附近的局部旋轉強度，數學上為速度場旋度；在二維近似下，其大小等於流體微團局部角速度的兩倍。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_vorticity"
   },
   {
     "english": "local winds",
-    "traditional_chinese": "當地風",
-    "definition_cht": "指與「當地風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地風",
+    "definition_cht": "由局部地形、地表受熱差異或海陸分布所產生、侷限於較小區域的風系；例如海陸風、山谷風、焚風及其他地方性風。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_winds"
   },
   {
     "english": "locally generated sea",
-    "traditional_chinese": "當地產生的海洋",
-    "definition_cht": "指與「當地產生的海洋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "當地風浪",
+    "definition_cht": "由觀測海域或其附近風場直接生成的海浪，波形通常較短陡且較不規則；此類海況與由遠方傳來、週期較長的湧浪不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/locally_generated_sea"
   },
   {
     "english": "lodos",
-    "traditional_chinese": "洛多斯",
-    "definition_cht": "指與「洛多斯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "洛多斯風",
+    "definition_cht": "土耳其及愛琴海、馬爾馬拉海一帶的強西南風，常間歇性出現，易掀起高浪並伴隨強烈陣風；屬地中海地區具代表性的局地風之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/lodos"
   },
   {
     "english": "lofting",
-    "traditional_chinese": "放樣",
-    "definition_cht": "指與「放樣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "上抬型擴散",
+    "definition_cht": "一種煙流擴散型態，常見於穩定邊界層上方覆有中性或較不穩定層時；煙流上部易向上擴散，而下部向近地面方向的擴散較弱，因此地面濃度通常較低。",
     "source_url": "https://glossary.ametsoc.org/wiki/lofting"
   },
   {
     "english": "logarithm",
     "traditional_chinese": "對數",
-    "definition_cht": "指與「對數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在數學上，指某數相對於指定底數所對應的指數，即底數需乘冪至何值才可得到該數；在氣象與地球科學中常用於對數座標、衰減關係與跨尺度資料表達。",
     "source_url": "https://glossary.ametsoc.org/wiki/logarithm"
   },
   {
     "english": "logarithmic differentiation",
-    "traditional_chinese": "對數微分",
-    "definition_cht": "指與「對數微分」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "對數微分法",
+    "definition_cht": "一種先對函數取對數、再進行微分的運算方法，特別適用於冪次、乘積、商或變數同時出現在底數與指數中的函數。",
     "source_url": "https://glossary.ametsoc.org/wiki/logarithmic_differentiation"
   },
   {
