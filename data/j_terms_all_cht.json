@@ -134,61 +134,61 @@
   {
     "english": "Jordan sunshine recorder",
     "traditional_chinese": "Jordan 日照記錄器",
-    "definition_cht": "以感光或熱效應記錄日照持續時間的儀器。",
+    "definition_cht": "用於記錄日照時數的儀器；藉由感光、熱效應或其等效機制，判定太陽直射持續的時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/Jordan_sunshine_recorder"
   },
   {
     "english": "joule",
     "traditional_chinese": "焦耳",
-    "definition_cht": "國際單位制中的能量與作功單位。",
+    "definition_cht": "國際單位制中的能量、作功與熱量單位；一焦耳等於一牛頓的力使物體沿力方向位移一公尺所作的功。",
     "source_url": "https://glossary.ametsoc.org/wiki/joule"
   },
   {
     "english": "Joule's constant",
     "traditional_chinese": "焦耳常數",
-    "definition_cht": "用於表示熱與機械能等價關係的常數。",
+    "definition_cht": "表示熱與機械功等價關係的常數，即機械當量；用以連結作功、能量轉換與產生熱量之間的定量關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/Joule%27s_constant"
   },
   {
     "english": "jump",
     "traditional_chinese": "躍變",
-    "definition_cht": "流體或場量在短距離內出現近似不連續的突變現象，如水躍或壓力躍變。",
+    "definition_cht": "指流體或場量在極短距離或極短時間內出現近似不連續的突變；在水文與流體力學中常見如水躍等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/jump"
   },
   {
     "english": "jump model",
     "traditional_chinese": "躍變模式",
-    "definition_cht": "用於描述狀態量突變轉換或分段躍遷行為的數學或數值模型。",
+    "definition_cht": "用於描述系統狀態在不同體制間突發轉換或出現不連續變化的數學／統計模型，常用於 regime shift 或切換行為分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/jump_model"
   },
   {
     "english": "junction streamer",
-    "traditional_chinese": "交會流線",
-    "definition_cht": "雷暴電場中由不同放電通道交會延伸的細絲狀先導或流注。",
+    "traditional_chinese": "交會流注",
+    "definition_cht": "雷電放電中在不同通道或通道分支交會處發展的細絲狀流注，常與雲內再活化或局部擊穿有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/junction_streamer"
   },
   {
     "english": "Junge aerosol layer",
     "traditional_chinese": "榮格氣膠層",
-    "definition_cht": "位於平流層下部、由硫酸鹽等微粒構成的全球性背景氣膠層。",
+    "definition_cht": "位於平流層下部的全球性背景氣膠層，主要由硫酸鹽微粒組成，典型高度約在對流層頂以上至下平流層。",
     "source_url": "https://glossary.ametsoc.org/wiki/Junge_aerosol_layer"
   },
   {
     "english": "junk wind",
     "traditional_chinese": "舢舨風",
-    "definition_cht": "東亞沿海航海語中的地方風名，指適合帆船航行或與季風轉變相關的風。",
+    "definition_cht": "航海與地方氣象用語，指有利於中國式帆船（junk）航行的風，常延伸指東亞沿海與季風轉換相關的適航風。",
     "source_url": "https://glossary.ametsoc.org/wiki/junk_wind"
   },
   {
     "english": "junta",
-    "traditional_chinese": "焚風型局地風",
-    "definition_cht": "地方性風名，通常指在特定地形或季節條件下出現的局地風。",
+    "traditional_chinese": "洪塔風",
+    "definition_cht": "地方性風名；多指特定地區在地形或季節壓差影響下出現的局地風，實際性質須依原始地理用法判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/junta"
   },
   {
     "english": "juran",
     "traditional_chinese": "朱蘭風",
-    "definition_cht": "地方性風名，常指受區域地形與壓力分布控制的局地風。",
+    "definition_cht": "地方性風名，通常指受區域地形與氣壓分布控制的局地風；其溫濕與強弱特性須依原始地理語境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/juran"
   },
   {
