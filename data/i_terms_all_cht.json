@@ -2401,122 +2401,122 @@
   },
   {
     "english": "isophane",
-    "traditional_chinese": "isophane",
-    "definition_cht": "「isophane」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等物候線",
+    "definition_cht": "罕用術語，通常視為 isophene 的異名；指在地圖上連結某一季節性生物現象（如開花、萌芽或候鳥到達）於同一日期發生各地點的線，用於物候與氣候分布分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/isophane"
   },
   {
     "english": "isopleth",
-    "traditional_chinese": "isopleth",
-    "definition_cht": "「isopleth」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等值線",
+    "definition_cht": "在圖上連結某一連續變量數值相同各點的線或曲線；氣象圖上的等壓線、等溫線與等風速線皆屬 isopleth。",
     "source_url": "https://glossary.ametsoc.org/wiki/isopleth"
   },
   {
     "english": "isopluvial",
-    "traditional_chinese": "isopluvial",
-    "definition_cht": "表示相同降雨條件或降雨量的等值線或分布。",
+    "traditional_chinese": "等雨量線",
+    "definition_cht": "在圖上連結降雨量或降水深度相同各點的等值線，常用於表示特定降雨事件、歷時或重現期條件下的雨量分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isopluvial"
   },
   {
     "english": "isoprene",
-    "traditional_chinese": "isoprene",
-    "definition_cht": "「isoprene」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "異戊二烯",
+    "definition_cht": "化學式為 C5H8 的揮發性有機化合物，為植物與部分生物重要的天然排放物；在大氣化學中可參與臭氧與二次有機氣膠生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/isoprene"
   },
   {
     "english": "isopycnal",
-    "traditional_chinese": "isopycnal",
-    "definition_cht": "表示相同密度的等值線或等密度面。",
+    "traditional_chinese": "等密度線",
+    "definition_cht": "連結密度（或位密度）相同各點的線；在海洋學與氣象學中亦常延伸指等密度層或等密度面，用以描述流體分層結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/isopycnal"
   },
   {
     "english": "isopycnal mixing",
-    "traditional_chinese": "isopycnal 混合",
-    "definition_cht": "沿等密度面進行的物質或熱鹽交換。",
+    "traditional_chinese": "沿等密度面混合",
+    "definition_cht": "沿等密度面進行的物質、熱量或鹽分混合與輸送；在層化海洋中主要表現為側向交換，較少直接對抗浮力穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/isopycnal_mixing"
   },
   {
     "english": "isopycnal surface",
-    "traditional_chinese": "isopycnal 面",
-    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。",
+    "traditional_chinese": "等密度面",
+    "definition_cht": "由流體中密度相同各點所構成的曲面；常用於海洋分層、位密度分析及水團追蹤。",
     "source_url": "https://glossary.ametsoc.org/wiki/isopycnal_surface"
   },
   {
     "english": "isopycnic",
     "traditional_chinese": "等密度的",
-    "definition_cht": "「等密度的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指具有相同或固定密度的性質，常用於描述流體中的等密度線、等密度面或依密度分層的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/isopycnic"
   },
   {
     "english": "isopycnic line",
-    "traditional_chinese": "isopycnic 線",
-    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。",
+    "traditional_chinese": "等密度線",
+    "definition_cht": "在圖上連結密度相同各點的線，為描述海洋或大氣分層結構的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isopycnic_line"
   },
   {
     "english": "isopycnic surface",
-    "traditional_chinese": "isopycnic 面",
-    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。",
+    "traditional_chinese": "等密度面",
+    "definition_cht": "由密度相同各點所形成的曲面，常用於流體內部結構分析；與 isopycnal surface 同義。",
     "source_url": "https://glossary.ametsoc.org/wiki/isopycnic_surface"
   },
   {
     "english": "isoshear",
-    "traditional_chinese": "isoshear",
-    "definition_cht": "「isoshear」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等垂直風切線",
+    "definition_cht": "在圖上連結垂直風切大小相同各點的線，用以分析風隨高度變化的強弱分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isoshear"
   },
   {
     "english": "isostatic adjustment",
-    "traditional_chinese": "isostatic adjustment",
-    "definition_cht": "「isostatic adjustment」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "地殼均衡調整",
+    "definition_cht": "地殼或岩石圈在冰蓋、沉積物、海水或其他載重改變後，因重力均衡而發生的緩慢升降與變形調整；冰後回彈即其典型例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/isostatic_adjustment"
   },
   {
     "english": "isostere",
-    "traditional_chinese": "isostere",
-    "definition_cht": "「isostere」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等比容線",
+    "definition_cht": "在圖上連結比容相同各點的線；在氣象熱力分析中可用以表示空氣比容的等值分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isostere"
   },
   {
     "english": "isosteric",
-    "traditional_chinese": "等容吸附的",
-    "definition_cht": "「等容吸附的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等比容的",
+    "definition_cht": "指比容相同或保持不變的性質；在氣象與熱力學脈絡中用於描述等比容分析或相關面、線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isosteric"
   },
   {
     "english": "isosteric surface",
-    "traditional_chinese": "isosteric 面",
-    "definition_cht": "表示某一物理量相同或具特定動力、熱力條件所構成的曲面。",
+    "traditional_chinese": "等比容面",
+    "definition_cht": "由比容相同各點所形成的曲面，可視為空氣或其他流體等比容分布的三維表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/isosteric_surface"
   },
   {
     "english": "isotach",
-    "traditional_chinese": "isotach",
-    "definition_cht": "表示相同風速的等值線。",
+    "traditional_chinese": "等風速線",
+    "definition_cht": "在圖上連結風速相同各點的線，常用於高空天氣圖以判識噴流與強風軸位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotach"
   },
   {
     "english": "isotach analysis",
-    "traditional_chinese": "isotach 分析",
-    "definition_cht": "「isotach 分析」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等風速分析",
+    "definition_cht": "依觀測或分析場繪製等風速線，以呈現風速空間分布並判識噴流、風速極大區與相關動力結構的分析作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotach_analysis"
   },
   {
     "english": "isotach chart",
     "traditional_chinese": "等風速圖",
-    "definition_cht": "「等風速圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "以等風速線表示風速分布的綜觀天氣圖，常用於高空層分析與噴流診斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotach_chart"
   },
   {
     "english": "isotherm",
-    "traditional_chinese": "isotherm",
-    "definition_cht": "表示相同溫度的等值線。",
+    "traditional_chinese": "等溫線",
+    "definition_cht": "在圖上連結溫度相同各點的線，常用於地面或定壓面天氣圖，以分析冷暖空氣分布與溫度梯度。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotherm"
   },
   {
     "english": "isotherm ribbon",
-    "traditional_chinese": "isotherm ribbon",
-    "definition_cht": "「isotherm ribbon」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等溫線密集帶",
+    "definition_cht": "綜觀高空圖上等溫線特別密集的帶狀區域，表示溫度梯度遠大於一般大氣背景，常對應顯著的熱力對比區。",
     "source_url": "https://glossary.ametsoc.org/wiki/isotherm_ribbon"
   },
   {
