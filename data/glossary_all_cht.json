@@ -27175,122 +27175,122 @@
   },
   {
     "english": "isanabat",
-    "traditional_chinese": "isanabat",
-    "definition_cht": "「isanabat」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等垂直速度線",
+    "definition_cht": "連接垂直風速分量相等各點的分析線；上升運動通常取正值、下沉運動取負值，用於表示大氣垂直運動分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isanabat"
   },
   {
     "english": "isanakatabar",
-    "traditional_chinese": "isanakatabar",
-    "definition_cht": "「isanakatabar」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等氣壓變幅線",
+    "definition_cht": "在指定時間區間內，連接氣壓變動幅度相等各地點的分析線，用以表示氣壓振幅或變程的空間分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isanakatabar"
   },
   {
     "english": "isanomalous line",
-    "traditional_chinese": "isanomalous 線",
-    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。",
+    "traditional_chinese": "異常值等值線",
+    "definition_cht": "連接某氣象要素距平（相對常年值或基準值之偏差）相等各點的線；實質上即表示異常量分布的等值線。",
     "source_url": "https://glossary.ametsoc.org/wiki/isanomalous_line"
   },
   {
     "english": "isanomaly",
-    "traditional_chinese": "isanomaly",
-    "definition_cht": "「isanomaly」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "異常值等值線",
+    "definition_cht": "連接某氣象要素異常值（距平）相等各點的等值線，用於呈現其偏離常態或基準場的空間分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isanomaly"
   },
   {
     "english": "isanthesic line",
-    "traditional_chinese": "isanthesic 線",
-    "definition_cht": "以線狀方式表示某一物理量相同、變化集中或特徵帶狀分布的分析要素。",
+    "traditional_chinese": "等開花期線",
+    "definition_cht": "在物候或農業氣候學上，連接某植物開花日期相同各地點的線，用以表示開花期隨地理環境變化的分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isanthesic_line"
   },
   {
     "english": "ISCCP",
     "traditional_chinese": "國際衛星雲氣候計畫",
-    "definition_cht": "以衛星資料建立全球雲量、雲頂與輻射氣候資料集的國際合作計畫。",
+    "definition_cht": "International Satellite Cloud Climatology Project 的縮寫。此國際合作計畫利用多顆氣象衛星資料建立全球雲量、雲頂性質、輻射及相關氣候資料集。",
     "source_url": "https://glossary.ametsoc.org/wiki/ISCCP"
   },
   {
     "english": "isentrope",
-    "traditional_chinese": "isentrope",
-    "definition_cht": "位溫相同各點連成的線。",
+    "traditional_chinese": "等熵線",
+    "definition_cht": "連接熵值相同各點的線；在氣象上常以位溫相同的線表示，作為等熵分析的基本要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentrope"
   },
   {
     "english": "isentropic",
     "traditional_chinese": "等熵的",
-    "definition_cht": "「等熵的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指熵保持不變的狀態或過程；在大氣科學中常近似指位溫不變，常用於描述絕熱且可逆的氣流運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentropic"
   },
   {
     "english": "isentropic analysis",
-    "traditional_chinese": "isentropic 分析",
-    "definition_cht": "在等熵或等位溫面上分析大氣運動與熱力結構的方法。",
+    "traditional_chinese": "等熵分析",
+    "definition_cht": "以等熵面（通常即等位溫面）為基礎，分析氣流運動、濕度輸送與熱力結構的天氣分析方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentropic_analysis"
   },
   {
     "english": "isentropic chart",
-    "traditional_chinese": "isentropic 圖",
-    "definition_cht": "「isentropic 圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等熵圖",
+    "definition_cht": "在固定位溫面上繪示氣壓（或高度）、風、溫度與水汽等要素的天氣分析圖，用於進行等熵分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentropic_chart"
   },
   {
     "english": "isentropic mixing",
-    "traditional_chinese": "isentropic 混合",
-    "definition_cht": "「isentropic 混合」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等熵混合",
+    "definition_cht": "沿同一等熵面內發生的空氣混合過程；由於許多大尺度大氣運動近似可逆絕熱，此種混合在大氣交換研究中相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentropic_mixing"
   },
   {
     "english": "isentropic surface",
-    "traditional_chinese": "isentropic 面",
-    "definition_cht": "位溫處處相同的曲面。",
+    "traditional_chinese": "等熵面",
+    "definition_cht": "熵值處處相同的三維曲面；在氣象上通常視為位溫相同的曲面。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentropic_surface"
   },
   {
     "english": "isentropic thickness chart",
-    "traditional_chinese": "isentropic 厚度圖",
-    "definition_cht": "「isentropic 厚度圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等熵厚度圖",
+    "definition_cht": "表示兩個指定等熵面之間層厚的圖。該層厚與該層靜力穩定度有關，因此亦可用於判讀大氣穩定度分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentropic_thickness_chart"
   },
   {
     "english": "isentropic vertical coordinate",
-    "traditional_chinese": "isentropic vertical 座標",
-    "definition_cht": "「isentropic vertical 座標」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等熵垂直座標",
+    "definition_cht": "以位溫作為垂直座標的座標系，常用於大氣模式與診斷分析，以利描述沿等熵面的運動與輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentropic_vertical_coordinate"
   },
   {
     "english": "isentropic weight chart",
-    "traditional_chinese": "isentropic weight 圖",
-    "definition_cht": "「isentropic weight 圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "等熵重量圖",
+    "definition_cht": "表示兩個指定等熵面間氣壓差的圖；氣壓差愈大，代表兩面之間空氣柱的重量（或質量）愈大。",
     "source_url": "https://glossary.ametsoc.org/wiki/isentropic_weight_chart"
   },
   {
     "english": "iso-D",
-    "traditional_chinese": "iso—D",
-    "definition_cht": "「iso—D」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "D 值等值線",
+    "definition_cht": "連接 D 值相同各點的等值線。D 值為某等壓面實際位勢高度與標準大氣中同一壓力面高度之差。",
     "source_url": "https://glossary.ametsoc.org/wiki/iso-D"
   },
   {
     "english": "isobar",
-    "traditional_chinese": "isobar",
-    "definition_cht": "表示同一氣壓值的等值線。",
+    "traditional_chinese": "等壓線",
+    "definition_cht": "在天氣圖上連接氣壓值相同各地點的線，用於表示氣壓場分布及壓力梯度強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobar"
   },
   {
     "english": "isobaric",
     "traditional_chinese": "等壓的",
-    "definition_cht": "「等壓的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指壓力保持不變的狀態、過程或分析面；在氣象上常用以描述固定氣壓面上的物理量分布與變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric"
   },
   {
     "english": "isobaric analysis",
-    "traditional_chinese": "isobaric 分析",
-    "definition_cht": "在等壓面上分析高度、溫度、風場與其他氣象要素的綜觀方法。",
+    "traditional_chinese": "等壓分析",
+    "definition_cht": "以等壓線描繪氣壓場分布的分析，或在固定氣壓面上分析高度、溫度、風與濕度等要素的綜觀作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_analysis"
   },
   {
     "english": "isobaric chart",
     "traditional_chinese": "等壓面圖",
-    "definition_cht": "「等壓面圖」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "在固定氣壓面（如 500 hPa）上繪示位勢高度、溫度、風與濕度等要素的天氣圖。",
     "source_url": "https://glossary.ametsoc.org/wiki/isobaric_chart"
   },
   {
