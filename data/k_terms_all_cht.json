@@ -416,121 +416,121 @@
   {
     "english": "Köhler equation",
     "traditional_chinese": "柯勒方程",
-    "definition_cht": "描述含溶質液滴平衡蒸氣壓同時受曲率效應與溶質效應控制的方程，是雲凝結核活化理論的核心關係式。",
+    "definition_cht": "描述含溶質液滴之平衡蒸氣壓同時受曲率效應與溶質效應控制的方程，為雲凝結核活化與臨界過飽和度分析的核心關係式。",
     "source_url": "https://glossary.ametsoc.org/wiki/K%C3%B6hler_equation"
   },
   {
     "english": "Kolmogorov constant",
     "traditional_chinese": "柯爾莫哥洛夫常數",
-    "definition_cht": "慣性次區紊流能譜或結構函數表達式中的經驗常數，用於刻畫高雷諾數均勻紊流的統計尺度律。",
+    "definition_cht": "指紊流慣性次區能譜或結構函數表達式中的比例常數，用於描述高雷諾數均勻紊流之統計尺度律。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kolmogorov_constant"
   },
   {
     "english": "Kolmogorov microscale",
     "traditional_chinese": "柯爾莫哥洛夫微尺度",
-    "definition_cht": "紊流中黏滯耗散開始主導之最小特徵尺度，代表能量級聯終端由慣性傳遞轉為分子耗散的尺度範圍。",
+    "definition_cht": "紊流中黏滯耗散開始主導的最小特徵尺度，代表能量級聯末端由慣性傳遞轉為分子耗散的小尺度渦流範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kolmogorov_microscale"
   },
   {
     "english": "Kolmogorov scale",
     "traditional_chinese": "柯爾莫哥洛夫尺度",
-    "definition_cht": "依紊流耗散率與流體黏度定義的一組最小尺度，包括長度、時間與速度尺度，用以描述小尺度紊流結構。",
+    "definition_cht": "依紊流耗散率與運動黏滯係數所定義的一組最小尺度，包括長度、時間與速度尺度，用以描述耗散區的小尺度紊流結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kolmogorov_scale"
   },
   {
     "english": "Kolmogorov's similarity hypotheses",
     "traditional_chinese": "柯爾莫哥洛夫相似假說",
-    "definition_cht": "高雷諾數均勻紊流理論中的基本假設，認為小尺度統計性質主要由能量耗散率與黏度決定，並導出慣性次區尺度律。",
+    "definition_cht": "高雷諾數均勻紊流理論中的基本假設，認為充分小尺度紊流的統計性質主要由能量耗散率與黏度決定，並可導出慣性次區的普適尺度律。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kolmogorov%27s_similarity_hypotheses"
   },
   {
     "english": "kona",
     "traditional_chinese": "科納風",
-    "definition_cht": "夏威夷對偏南或西南風的稱呼，常與海島背風側暖濕天氣、降雨增加及低壓接近有關。",
+    "definition_cht": "夏威夷群島對來自南至西南側、與盛行東北信風相反之風向的稱呼，常伴隨暖濕、多雲及降雨增加的天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/kona"
   },
   {
     "english": "kona cyclone",
     "traditional_chinese": "科納氣旋",
-    "definition_cht": "影響夏威夷附近的副熱帶或中緯度低壓系統，常位於群島西側或西南側，能帶來強風、豪雨與雷暴。",
+    "definition_cht": "影響夏威夷的 kona 低壓型氣旋，為冬季常見、移動緩慢的大尺度低壓系統，多屬冷心性，常帶來強風、豪雨、雷暴與高浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/kona_cyclone"
   },
   {
     "english": "kona storm",
     "traditional_chinese": "科納風暴",
-    "definition_cht": "與 kona 風型相關、影響夏威夷的強風豪雨天氣事件，常由近海低壓或切離低壓所觸發。",
+    "definition_cht": "由 kona 低壓或相關冷心低壓系統造成、影響夏威夷的強風豪雨天氣事件，常伴隨雷暴、突發洪水與高海浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/kona_storm"
   },
   {
     "english": "konimeter",
     "traditional_chinese": "粉塵計",
-    "definition_cht": "用以採樣或測量空氣中粉塵濃度與粒子數的儀器，常見於工業衛生與氣膠監測。",
+    "definition_cht": "用以瞬時採樣並估計空氣中粉塵粒子濃度的儀器，常應用於工業衛生、氣膠監測與作業環境評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/konimeter"
   },
   {
     "english": "koniology",
     "traditional_chinese": "粉塵學",
-    "definition_cht": "研究粉塵之來源、組成、傳輸、沉降與生理或環境影響的學科。",
+    "definition_cht": "研究大氣或環境中粉塵之來源、組成、傳輸、沉降及其對人體與環境影響的學科。",
     "source_url": "https://glossary.ametsoc.org/wiki/koniology"
   },
   {
     "english": "koniscope",
     "traditional_chinese": "粉塵鏡",
-    "definition_cht": "用於觀察、檢測或估計空氣中粉塵粒子存在狀況的光學儀器。",
+    "definition_cht": "利用光學散射或照明效果觀察空氣中粉塵存在與多寡的儀器，用於判識含塵狀況。",
     "source_url": "https://glossary.ametsoc.org/wiki/koniscope"
   },
   {
     "english": "Köppen classification",
     "traditional_chinese": "柯本氣候分類",
-    "definition_cht": "依氣溫與降水年內分布特徵劃分全球氣候型的經典分類系統，廣泛用於氣候區劃與比較研究。",
+    "definition_cht": "依氣溫與降水的年內分布特徵劃分全球氣候型的經典分類系統，廣泛用於氣候區劃、比較研究與地理描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/K%C3%B6ppen_classification"
   },
   {
     "english": "Köppen–Supan line",
     "traditional_chinese": "柯本－蘇潘線",
-    "definition_cht": "歷史氣候地理中用以界定樹木生長或特定氣候帶邊界的經驗界線，與熱量條件及地理分布分析相關。",
+    "definition_cht": "歷史氣候地理上用以近似樹木界線與極地氣候邊界的經驗界線，通常與最暖月平均氣溫約 10°C 的條件相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/K%C3%B6ppen%E2%80%93Supan_line"
   },
   {
     "english": "koschawa",
     "traditional_chinese": "科沙瓦風",
-    "definition_cht": "巴爾幹地區著名的強勁局地風，常為乾冷且具陣風特性，受喀爾巴阡與多瑙河地形通道效應加強。",
+    "definition_cht": "巴爾幹地區著名的強勁局地風，通常為乾冷且具陣風性的東南風，受喀爾巴阡山與多瑙河地形通道效應增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/koschawa"
   },
   {
     "english": "kossava",
     "traditional_chinese": "科沙瓦風",
-    "definition_cht": "koschawa 的另一拼寫形式，指巴爾幹半島一帶受地形導引的強勁乾冷東南風。",
+    "definition_cht": "koschawa 的另一拼寫形式，指巴爾幹一帶受地形導引的強勁乾冷東南風。",
     "source_url": "https://glossary.ametsoc.org/wiki/kossava"
   },
   {
     "english": "Kp",
     "traditional_chinese": "Kp 指數",
-    "definition_cht": "由全球多個中緯度地磁站資料綜合而成的行星地磁活動指數，用於表徵全球尺度地磁擾動強弱。",
+    "definition_cht": "由多個次極光帶地磁站之三小時 K 指數標準化後合成的行星地磁活動指數，用於表徵全球尺度地磁擾動強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kp"
   },
   {
     "english": "Kp index",
     "traditional_chinese": "Kp 指數",
-    "definition_cht": "將地方 K 指數標準化並彙整後得到的行星三小時地磁指數，是太空天氣監測與磁暴評估的重要參數。",
+    "definition_cht": "將多個地磁站的三小時地方 K 指數加以標準化並彙整而成的行星指數，為太空天氣監測與磁暴評估的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kp_index"
   },
   {
     "english": "Krakatoa winds",
     "traditional_chinese": "喀拉喀托風波",
-    "definition_cht": "1883 年喀拉喀托火山爆發後，大氣中因爆炸壓力波環繞全球傳播而在各地氣壓記錄上觀測到的特異風壓擾動。",
+    "definition_cht": "指 1883 年喀拉喀托火山爆發後，爆炸所激發的大氣壓力波繞行全球，並在各地氣壓與風場觀測中留下的異常擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Krakatoa_winds"
   },
   {
     "english": "kriging",
     "traditional_chinese": "克利金插值",
-    "definition_cht": "基於變異函數與空間自相關結構的最優無偏地統計插值方法，常用於降水、污染物與地球科學場之空間估算。",
+    "definition_cht": "基於變異函數與空間自相關結構的地統計插值方法，在既定假設下可提供未採樣位置的最佳線性無偏估計。",
     "source_url": "https://glossary.ametsoc.org/wiki/kriging"
   },
   {
     "english": "krypton",
     "traditional_chinese": "氪",
-    "definition_cht": "稀有氣體元素之一，化學性質穩定，可用於光學、放電裝置與部分大氣示蹤研究。",
+    "definition_cht": "稀有氣體元素之一，化學性質穩定，可用於照明、放電裝置與部分大氣示蹤研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/krypton"
   },
   {
