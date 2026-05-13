@@ -1321,122 +1321,122 @@
   },
   {
     "english": "insulated stream",
-    "traditional_chinese": "insulated 流",
-    "definition_cht": "指與「insulated 流」相關的氣流、冰流或水流帶狀結構，著重其主軸、速度分布及動力特徵。",
+    "traditional_chinese": "隔熱水流",
+    "definition_cht": "較少見用語，通常指因冰、雪、土層或其他覆蓋物使其與外界熱交換受抑制的水流或河段；在水文或冰凍圈語境中，也可指受覆蓋層保溫而持續流動的溪流。",
     "source_url": "https://glossary.ametsoc.org/wiki/insulated_stream"
   },
   {
     "english": "insulation",
-    "traditional_chinese": "insulation",
-    "definition_cht": "指與「insulation」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "隔熱；絕緣",
+    "definition_cht": "指降低熱、電、聲或其他能量傳遞的性質、過程或材料；在氣象與地表能量收支中，常特指地表、積雪、植被或雲層對熱量交換的隔熱作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/insulation"
   },
   {
     "english": "integral depth scale",
-    "traditional_chinese": "integral depth scale",
-    "definition_cht": "描述湍流或流體結構在垂直方向上具有主要相關性的代表深度尺度。",
+    "traditional_chinese": "積分深度尺度",
+    "definition_cht": "由垂直方向自相關函數或協方差函數積分得到的代表性深度尺度，用以描述湍流、混合層或海洋／大氣結構在深度方向上的平均相關厚度。",
     "source_url": "https://glossary.ametsoc.org/wiki/integral_depth_scale"
   },
   {
     "english": "integral length scales",
-    "traditional_chinese": "integral length scales",
-    "definition_cht": "由相關函數積分定義之代表性大尺度渦旋尺寸。",
+    "traditional_chinese": "積分長度尺度",
+    "definition_cht": "由速度、溫度或其他擾動量的空間自相關函數積分所定義的大尺度特徵長度，用以表示湍流渦旋或場變量保持顯著相關的平均距離。",
     "source_url": "https://glossary.ametsoc.org/wiki/integral_length_scales"
   },
   {
     "english": "integration method",
-    "traditional_chinese": "integration method",
-    "definition_cht": "表示「integration method」所對應成分相對於基準量之比例或混合關係。",
+    "traditional_chinese": "積分法",
+    "definition_cht": "指以解析或數值方式對微分方程、通量或累積量進行積分求解的方法；在數值模式中常指時間積分格式，如 Euler 法、Runge–Kutta 法等。",
     "source_url": "https://glossary.ametsoc.org/wiki/integration_method"
   },
   {
     "english": "intensity",
     "traditional_chinese": "強度",
-    "definition_cht": "「強度」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指某一現象、作用或場量的強弱程度；在氣象與水文中可指降水、風、輻射、颱風、地震或回波等的強度，需依具體對象界定。",
     "source_url": "https://glossary.ametsoc.org/wiki/intensity"
   },
   {
     "english": "intensity modulation",
-    "traditional_chinese": "強度 modulation",
-    "definition_cht": "指與「強度 modulation」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "強度調變",
+    "definition_cht": "指訊號、輻射或影像亮度隨另一訊號而改變其振幅或功率的調變方式；在光學、雷達與遙測顯示中，常以回波或資料值控制亮度強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/intensity_modulation"
   },
   {
     "english": "intensity-modulated indicator",
-    "traditional_chinese": "強度—modulated 指示器",
-    "definition_cht": "「強度—modulated 指示器」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "強度調變式指示器",
+    "definition_cht": "以訊號強弱控制顯示亮度的指示器或顯示裝置；在雷達、示波器或早期遙測顯示中，常以光點或描跡亮度反映回波振幅。",
     "source_url": "https://glossary.ametsoc.org/wiki/intensity-modulated_indicator"
   },
   {
     "english": "intensity–duration–frequency curve",
-    "traditional_chinese": "強度—持續時間—頻率 curve",
-    "definition_cht": "描述降雨強度、持續時間與重現期之間關係的工程水文曲線。",
+    "traditional_chinese": "降雨強度—延時—頻率曲線",
+    "definition_cht": "描述特定重現期下，降雨強度與延時之關係的工程水文曲線，供排水、滯洪與防洪設施設計使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/intensity%E2%80%93duration%E2%80%93frequency_curve"
   },
   {
     "english": "intensive quantity",
-    "traditional_chinese": "intensive quantity",
-    "definition_cht": "「intensive quantity」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "強度量",
+    "definition_cht": "其數值大小不隨系統總量或尺度改變而改變的物理量，如溫度、壓力與密度；相對於隨系統大小改變的廣延量。",
     "source_url": "https://glossary.ametsoc.org/wiki/intensive_quantity"
   },
   {
     "english": "interactive image processing",
-    "traditional_chinese": "interactive 影像處理",
-    "definition_cht": "指以感測器觀測結果形成之「interactive 影像處理」圖像或其處理產品，用於判識空間結構與場分布。",
+    "traditional_chinese": "互動式影像處理",
+    "definition_cht": "指分析者可即時與電腦系統互動，對數位影像進行增強、分類、量測、判釋或校正的處理方式；常用於衛星與雷達影像判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/interactive_image_processing"
   },
   {
     "english": "interception",
-    "traditional_chinese": "interception",
-    "definition_cht": "降水被植被冠層、建築物或其他地表覆蓋截留而未立即到達地面的過程。",
+    "traditional_chinese": "截留",
+    "definition_cht": "指降水先被植被冠層、枯枝落葉層、建築物或其他覆蓋物截留，暫時儲存並部分蒸發，以致未立即成為穿透雨或地表逕流的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/interception"
   },
   {
     "english": "interceptometer",
-    "traditional_chinese": "interceptometer",
-    "definition_cht": "「interceptometer」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "截留量測儀",
+    "definition_cht": "較少見用語，通常指用以量測降水、葉面或冠層截留量，或量測截距／交點的儀器；在水文語境中多與植被截留觀測相關，實際意義須依使用領域判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/interceptometer"
   },
   {
     "english": "interchange coefficient",
-    "traditional_chinese": "interchange 係數",
-    "definition_cht": "表徵動量、熱量或物質在湍流中交換效率的係數。",
+    "traditional_chinese": "交換係數",
+    "definition_cht": "表徵湍流或次網格交換中，動量、熱量、水汽或其他示蹤物在不同層之間傳輸效率的係數，常用於通量參數化。",
     "source_url": "https://glossary.ametsoc.org/wiki/interchange_coefficient"
   },
   {
     "english": "interdiurnal variation",
-    "traditional_chinese": "interdiurnal 變化",
-    "definition_cht": "指與「interdiurnal 變化」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "日際變化",
+    "definition_cht": "指相鄰日期之間某氣象要素的日與日變動，著重不同日之間的變化幅度或型態；有別於單日內的日變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/interdiurnal_variation"
   },
   {
     "english": "interface",
-    "traditional_chinese": "interface",
-    "definition_cht": "兩種介質、氣團、水團或物理性質明顯不同區域之間的交界面。",
+    "traditional_chinese": "界面",
+    "definition_cht": "指兩種介質、氣團、水團或不同物理性質區域相接之邊界面；其兩側常伴隨密度、溫度、鹽度或折射率等量的突變或梯度。",
     "source_url": "https://glossary.ametsoc.org/wiki/interface"
   },
   {
     "english": "interfacial tension",
-    "traditional_chinese": "interfacial tension",
-    "definition_cht": "指與「interfacial tension」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "界面張力",
+    "definition_cht": "指兩種不互溶相在交界面上因分子作用而呈現的單位長度張力或單位面積自由能；在雲滴、氣膠與海氣界面微物理中具有重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/interfacial_tension"
   },
   {
     "english": "interference",
-    "traditional_chinese": "interference",
-    "definition_cht": "兩個或多個波動、訊號或輻射場疊加後產生增強或抵銷的現象。",
+    "traditional_chinese": "干涉",
+    "definition_cht": "指兩個或多個波、輻射或訊號疊加後，因相位關係不同而產生增強或抵銷的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/interference"
   },
   {
     "english": "interference region",
-    "traditional_chinese": "interference region",
-    "definition_cht": "指與「interference region」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "干涉區",
+    "definition_cht": "指兩列或多列波動相互疊加並產生干涉效應的區域，可出現振幅增強的建設性干涉與振幅減弱的破壞性干涉。",
     "source_url": "https://glossary.ametsoc.org/wiki/interference_region"
   },
   {
     "english": "interferometer",
-    "traditional_chinese": "interferometer",
-    "definition_cht": "利用波相位差或光程差進行精密量測的儀器。",
+    "traditional_chinese": "干涉儀",
+    "definition_cht": "利用兩束或多束相干波之相位差或光程差進行高精度量測的儀器，可用於測距、折射率、位移、風場或天文觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/interferometer"
   },
   {
