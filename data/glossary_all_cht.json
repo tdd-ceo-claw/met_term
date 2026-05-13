@@ -28261,8 +28261,8 @@
   },
   {
     "english": "kinetic theory",
-    "traditional_chinese": "動力學理論",
-    "definition_cht": "以大量微觀粒子的運動統計性質解釋氣體巨觀壓力、溫度與輸送現象的理論基礎。",
+    "traditional_chinese": "氣體動力論",
+    "definition_cht": "以大量微觀粒子的隨機運動與碰撞之統計性質，說明氣體壓力、溫度及輸送現象的理論基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/kinetic_theory"
   },
   {
@@ -28274,7 +28274,7 @@
   {
     "english": "Kirchhoff's equation",
     "traditional_chinese": "基爾霍夫方程",
-    "definition_cht": "與輻射、光譜或流體相關問題中由基爾霍夫提出的關係式；在氣象文獻中常指黑體輻射與吸收－放射平衡的基本表述之一。",
+    "definition_cht": "流體力學中描述剛體在理想流體內平移與轉動運動的方程組；常用於分析浸沒物體所受流體力與力矩。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kirchhoff%27s_equation"
   },
   {
@@ -28303,8 +28303,8 @@
   },
   {
     "english": "klydonograph",
-    "traditional_chinese": "波潮自記儀",
-    "definition_cht": "用以連續記錄水面波動、浪高或港灣振盪變化的儀器，常用於海岸與海洋觀測。",
+    "traditional_chinese": "雷電衝擊記錄儀",
+    "definition_cht": "用於記錄雷擊或其他瞬態高電壓脈衝之儀器，可將電湧放電特徵留存在感光介質上，以分析其極性、波形與強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/klydonograph"
   },
   {
@@ -28316,7 +28316,7 @@
   {
     "english": "knik wind",
     "traditional_chinese": "克尼克風",
-    "definition_cht": "地方性風名，通常指受海岸或山谷地形影響而形成的局地強風，其具體方向與季節性依地區而異。",
+    "definition_cht": "阿拉斯加南中部的地方風名，指沿 Knik 河谷或 Knik 冰川出口吹出的強烈東南向下坡風，常見於寒季。",
     "source_url": "https://glossary.ametsoc.org/wiki/knik_wind"
   },
   {
@@ -28364,13 +28364,13 @@
   {
     "english": "Knudsen's tables",
     "traditional_chinese": "克努森表",
-    "definition_cht": "海洋學中用於依溫度、鹽度與壓力等資料查算海水性質參數的數值表，曾廣泛應用於傳統水文分析。",
+    "definition_cht": "傳統海洋學查表工具，用於依海水的氯度（或鹽度）、溫度等資料換算密度與其他相關性質參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Knudsen%27s_tables"
   },
   {
     "english": "koembang",
     "traditional_chinese": "庫姆邦風",
-    "definition_cht": "東南亞或印尼群島語境中的地方風名，多指受季風背景與島嶼地形影響之局地風。",
+    "definition_cht": "爪哇一帶對焚風型下坡風的地方稱呼，指氣流越過山地後於背風側下沉增溫、轉為暖乾的局地強風。",
     "source_url": "https://glossary.ametsoc.org/wiki/koembang"
   },
   {
