@@ -26335,122 +26335,122 @@
   },
   {
     "english": "inner layer",
-    "traditional_chinese": "inner 層",
-    "definition_cht": "邊界層中最接近下墊面的區域，其流場主要受地表粗糙度與局地通量控制。",
+    "traditional_chinese": "內層",
+    "definition_cht": "指大氣邊界層中最貼近地表的層次，其平均風速剖面與紊流交換主要受局地地表粗糙度、切變與地表通量控制，尺度遠小於整個邊界層厚度。",
     "source_url": "https://glossary.ametsoc.org/wiki/inner_layer"
   },
   {
     "english": "input",
-    "traditional_chinese": "input",
-    "definition_cht": "「input」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "輸入量；輸入項",
+    "definition_cht": "在模式、方程、資料處理或水文收支中，指輸入系統的資料、邊界條件、控制參數，或進入某區域的質量、能量與水量等通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/input"
   },
   {
     "english": "INS",
     "traditional_chinese": "慣性導航系統",
-    "definition_cht": "利用加速度計與陀螺儀推算位置、速度與姿態的自主導航系統。",
+    "definition_cht": "利用加速度計與陀螺儀量測載具的加速度與姿態變化，經積分連續推算位置、速度與航向的自主導航系統，不需持續依賴外部訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/INS"
   },
   {
     "english": "INSAT",
-    "traditional_chinese": "印度國家衛星",
-    "definition_cht": "印度用於氣象、通訊及相關應用之國家衛星系列。",
+    "traditional_chinese": "印度國家衛星系統",
+    "definition_cht": "印度太空研究組織建置的多用途地球同步衛星系列，兼具氣象觀測、通信、廣播、搜救與災害監測等功能，是印度的重要作業衛星系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/INSAT"
   },
   {
     "english": "insolation",
-    "traditional_chinese": "insolation",
-    "definition_cht": "太陽輻射入射至地表或大氣頂的能量通量。",
+    "traditional_chinese": "日照；入射太陽輻射",
+    "definition_cht": "指到達地表、大氣層頂或特定受照面的太陽短波輻射通量，常以單位面積、單位時間所接收的能量表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/insolation"
   },
   {
     "english": "insolation duration",
-    "traditional_chinese": "insolation 持續時間",
-    "definition_cht": "表示「insolation 持續時間」所對應成分相對於基準量之比例或混合關係。",
+    "traditional_chinese": "日照時數",
+    "definition_cht": "指某一期間內直接太陽輻射達到規定閾值以上的累積持續時間，通常以小時計，為氣候統計中的日照觀測量。",
     "source_url": "https://glossary.ametsoc.org/wiki/insolation_duration"
   },
   {
     "english": "inspectional analysis",
-    "traditional_chinese": "inspectional 分析",
-    "definition_cht": "指與「inspectional 分析」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "目視分析",
+    "definition_cht": "指分析者依據觀測資料、天氣圖、探空或遙測資訊，以人工判讀方式繪製與修正氣象分析場的方法；相對於完全由演算法產生的客觀分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/inspectional_analysis"
   },
   {
     "english": "instability",
     "traditional_chinese": "不穩定",
-    "definition_cht": "系統受微小擾動後會使擾動增大而偏離原平衡狀態的性質。",
+    "definition_cht": "指大氣、流體或其他物理系統在受到微小擾動後，擾動會持續增強而使系統偏離原有平衡狀態的性質；在氣象上常與對流發展有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/instability"
   },
   {
     "english": "instability chart",
-    "traditional_chinese": "不穩定圖",
-    "definition_cht": "描述流體或大氣系統對微小擾動易於增幅的性質，是對流與動力發展的重要條件。",
+    "traditional_chinese": "不穩定度圖",
+    "definition_cht": "用以判讀大氣穩定度或對流潛勢的圖表，通常根據探空資料、熱力圖解或穩定度指數繪製，供預報對流與雷暴發展參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/instability_chart"
   },
   {
     "english": "instability line",
     "traditional_chinese": "不穩定線",
-    "definition_cht": "大氣中不穩定度顯著集中、常伴隨對流發展的線狀區域。",
+    "definition_cht": "指低層大氣中沿狹長帶狀分布的不穩定與輻合區，常作為雷陣雨或對流雲系的觸發位置，性質類似乾線或弱鋒前收斂帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/instability_line"
   },
   {
     "english": "instantaneous field of view",
-    "traditional_chinese": "instantaneous 場 view",
-    "definition_cht": "遙測儀器在某一瞬間所對應的地面或目標視場範圍。",
+    "traditional_chinese": "瞬時視場",
+    "definition_cht": "指遙測感測器在某一瞬間對應的角視場或地面涵蓋範圍，決定單一偵測元件當下所量測的目標區域大小，並影響空間解析度。",
     "source_url": "https://glossary.ametsoc.org/wiki/instantaneous_field_of_view"
   },
   {
     "english": "instantaneous unit hydrograph",
-    "traditional_chinese": "instantaneous unit hydrograph",
-    "definition_cht": "假設有效降雨脈衝於瞬時輸入時，流域出口產生之單位歷線。",
+    "traditional_chinese": "瞬時單位歷線",
+    "definition_cht": "指流域在全域均勻且瞬時輸入一單位有效降雨脈衝時，出口所產生的直接逕流歷線；為單位歷線理論中的理想化極限形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/instantaneous_unit_hydrograph"
   },
   {
     "english": "instrument correction",
-    "traditional_chinese": "儀器 correction",
-    "definition_cht": "指與「儀器 correction」相關的離子、游離作用或電離層物理現象。",
+    "traditional_chinese": "儀器改正量",
+    "definition_cht": "指為消除儀器校準偏差、零點偏移、刻度誤差或其他已知系統性偏差，而加於觀測值上的修正量。",
     "source_url": "https://glossary.ametsoc.org/wiki/instrument_correction"
   },
   {
     "english": "instrument error",
-    "traditional_chinese": "儀器 error",
-    "definition_cht": "「儀器 error」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "儀器誤差",
+    "definition_cht": "指觀測儀器本身因構造、校準、解析度、磨損或環境影響所造成的量測偏差，可表現為系統誤差、隨機誤差或兩者兼具。",
     "source_url": "https://glossary.ametsoc.org/wiki/instrument_error"
   },
   {
     "english": "instrument exposure",
-    "traditional_chinese": "儀器 exposure",
-    "definition_cht": "「儀器 exposure」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "儀器設置條件",
+    "definition_cht": "指觀測儀器周遭的設置與曝露環境，包括架設高度、通風、遮蔽物、地表性質與日照條件等，這些因素會影響量測值的代表性與可比性。",
     "source_url": "https://glossary.ametsoc.org/wiki/instrument_exposure"
   },
   {
     "english": "instrument flight",
     "traditional_chinese": "儀器飛航",
-    "definition_cht": "「儀器飛航」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指航空器主要依據機載與地面導航儀器，而非外部目視參考進行操縱與導航的飛行方式，常見於雲中、低能見度或夜間條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/instrument_flight"
   },
   {
     "english": "instrument flight rules",
-    "traditional_chinese": "儀器飛航 rules",
-    "definition_cht": "規範航空器在依賴機載與地面儀器資訊下飛航的程序與最低條件。",
+    "traditional_chinese": "儀器飛航規則",
+    "definition_cht": "規範航空器依據儀器進行飛航時所適用的程序、最低標準與航管要求，供無法維持目視飛航條件時安全運作之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/instrument_flight_rules"
   },
   {
     "english": "instrument landing system",
     "traditional_chinese": "儀器降落系統",
-    "definition_cht": "透過航向台與下滑道提供精密橫向及垂直導引的降落系統。",
+    "definition_cht": "一種精密進場與降落導引系統，利用航向道與下滑道訊號向航空器提供橫向與垂直導引，使其在低能見度下仍可依程序進場。",
     "source_url": "https://glossary.ametsoc.org/wiki/instrument_landing_system"
   },
   {
     "english": "instrument shelter",
-    "traditional_chinese": "儀器 shelter",
-    "definition_cht": "保護氣象儀器免受直射日光與降水干擾、同時維持良好通風的百葉箱或類似設施。",
+    "traditional_chinese": "儀器百葉箱",
+    "definition_cht": "供溫度計、濕度計等氣象儀器使用的通風防護箱體，可遮蔽直射日光與降水，同時維持近自由空氣的通風環境；典型形式為百葉箱。",
     "source_url": "https://glossary.ametsoc.org/wiki/instrument_shelter"
   },
   {
     "english": "instrument weather",
     "traditional_chinese": "儀器氣象條件",
-    "definition_cht": "「儀器氣象條件」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指雲底高度、能見度或其他天氣條件低於目視飛航最低標準，以致航空器必須依儀器飛航程序與儀表參考進行操作的天氣狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/instrument_weather"
   },
   {
