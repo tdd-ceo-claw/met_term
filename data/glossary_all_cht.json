@@ -29816,121 +29816,121 @@
   {
     "english": "liquid water mixing ratio",
     "traditional_chinese": "液態水混合比",
-    "definition_cht": "指與「液態水混合比」相關的水體、水量、水文條件或含水狀態。",
+    "definition_cht": "單位乾空氣所含液態水（如雲滴與液態降水）質量的比值，是描述大氣中液態凝結水含量的基本變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/liquid_water_mixing_ratio"
   },
   {
     "english": "liquid water path",
     "traditional_chinese": "液態水路徑",
-    "definition_cht": "指與「液態水路徑」相關的水體、水量、水文條件或含水狀態。",
+    "definition_cht": "大氣柱中液態水含量沿垂直方向積分得到的總量，常用於表示雲層自底至頂的液態水總負荷，單位多為克每平方公尺。",
     "source_url": "https://glossary.ametsoc.org/wiki/liquid_water_path"
   },
   {
     "english": "Liquid water potential temperature",
-    "traditional_chinese": "液態水勢溫度",
-    "definition_cht": "指與「液態水勢溫度」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "traditional_chinese": "液態水位溫",
+    "definition_cht": "將位溫對雲中液態水所對應潛熱效應加以修正後得到的熱力變數，在總含水量近似守恆的濕絕熱過程中常可近似守恆。",
     "source_url": "https://glossary.ametsoc.org/wiki/Liquid_water_potential_temperature"
   },
   {
     "english": "liquid water static energy",
     "traditional_chinese": "液態水靜能",
-    "definition_cht": "指與「液態水靜能」相關的水體、水量、水文條件或含水狀態。",
+    "definition_cht": "將顯熱、位能與液態水含量相關能量項合併後得到的熱力學量，用於描述含雲液態水空氣團的能量狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/liquid_water_static_energy"
   },
   {
     "english": "liquid-in-glass thermometer",
     "traditional_chinese": "玻璃液體溫度計",
-    "definition_cht": "指與「玻璃液體溫度計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "以水銀或酒精等液體封裝於玻璃球泡與毛細管中，利用液柱隨溫度膨脹或收縮來指示溫度的傳統溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/liquid-in-glass_thermometer"
   },
   {
     "english": "liquid-in-metal thermometer",
-    "traditional_chinese": "金屬液體溫度計",
-    "definition_cht": "指與「金屬液體溫度計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "金屬套液體溫度計",
+    "definition_cht": "將感溫液體封裝於金屬球泡或金屬導管內，藉液體體積變化帶動指示機構以測定溫度的溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/liquid-in-metal_thermometer"
   },
   {
     "english": "LIS",
-    "traditional_chinese": "資訊系統",
-    "definition_cht": "「LIS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "閃電成像感測儀",
+    "definition_cht": "Lightning Imaging Sensor 的縮寫，為搭載於衛星上的光學閃電觀測儀器，用於偵測雲內與雲地閃電的時空分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/LIS"
   },
   {
     "english": "lithometeor",
-    "traditional_chinese": "岩石流變體",
-    "definition_cht": "指與「岩石流變體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "岩質象",
+    "definition_cht": "由乾燥固體粒子所造成的大氣現象，例如沙塵、塵霾、煙霾或火山灰懸浮；其粒子成分並非由液態或固態水所主導。",
     "source_url": "https://glossary.ametsoc.org/wiki/lithometeor"
   },
   {
     "english": "lithosphere",
     "traditional_chinese": "岩石圈",
-    "definition_cht": "指與「岩石圈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "地球最外層剛性圈層，由地殼與最上部地函組成，會以板塊形式運動並覆蓋於較具延展性的軟流圈之上。",
     "source_url": "https://glossary.ametsoc.org/wiki/lithosphere"
   },
   {
     "english": "Little Ice Age",
-    "traditional_chinese": "小冰河時期",
-    "definition_cht": "指與「小冰河時期」相關的冰相現象、冰體狀態或凍結產物，常應用於寒區氣象、海冰或冰川研究。",
+    "traditional_chinese": "小冰期",
+    "definition_cht": "約自十四世紀至十九世紀間的區域性偏冷時段，以北大西洋周邊與歐洲最為顯著，但並非全球尺度的真正冰期。",
     "source_url": "https://glossary.ametsoc.org/wiki/Little_Ice_Age"
   },
   {
     "english": "livestock safety index",
     "traditional_chinese": "牲畜安全指數",
-    "definition_cht": "用於量化「牲畜安全指數」相關狀態、強度、異常程度或風險高低的指標。",
+    "definition_cht": "綜合氣溫、濕度、風與輻射等環境條件，用以評估牲畜在天氣情境下熱壓力或生理風險程度的指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/livestock_safety_index"
   },
   {
     "english": "living glacier",
     "traditional_chinese": "活冰川",
-    "definition_cht": "指與「活冰川」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "仍具有冰體流動能力並持續受冰雪補給的冰川，與已停滯、退化或僅殘存冰體的死冰川相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/living_glacier"
   },
   {
     "english": "Livingstone sphere",
-    "traditional_chinese": "利文斯頓球體",
-    "definition_cht": "指與「利文斯頓球體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "利文斯頓球",
+    "definition_cht": "一種球形輻射感測裝置，常以黑化球體配合溫度量測，用來評估太陽與地表輻射對周遭熱環境的綜合影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Livingstone_sphere"
   },
   {
     "english": "llebetjado",
-    "traditional_chinese": "萊貝賈多",
-    "definition_cht": "指與「萊貝賈多」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "列貝特哈多風",
+    "definition_cht": "地中海西部沿岸使用的地方風名，通常指自西南至南偏西吹來的暖濕風；實際風向與強度會隨地方用法而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/llebetjado"
   },
   {
     "english": "LLJ",
-    "traditional_chinese": "LLJ",
-    "definition_cht": "「LLJ」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "低空急流",
+    "definition_cht": "low-level jet 的縮寫，指位於對流層低層、風速顯著偏大的狹長強風帶，常影響水氣輸送、對流發展與夜間邊界層結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/LLJ"
   },
   {
     "english": "lobe",
-    "traditional_chinese": "葉",
-    "definition_cht": "指與「葉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "葉瓣",
+    "definition_cht": "在等值線、雲系、回波、渦度場或其他空間分布中向外突出的圓弧狀部分，常用以描述場形或結構的局部延伸區。",
     "source_url": "https://glossary.ametsoc.org/wiki/lobe"
   },
   {
     "english": "LOC",
     "traditional_chinese": "LOC",
-    "definition_cht": "「LOC」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "definition_cht": "氣象文獻中的縮寫詞；其確切展開需依資料產品、觀測系統或作業流程語境判定，單獨出現時不宜逕自固定為單一名詞。",
     "source_url": "https://glossary.ametsoc.org/wiki/LOC"
   },
   {
     "english": "local angular momentum",
     "traditional_chinese": "局部角動量",
-    "definition_cht": "指與「局部角動量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "相對於指定原點或旋轉軸，在某一局部位置上空氣質點或流體微團所具有的角動量。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_angular_momentum"
   },
   {
     "english": "local area coverage",
-    "traditional_chinese": "局部區域覆蓋",
-    "definition_cht": "指與「局部區域覆蓋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "區域即時覆蓋資料",
+    "definition_cht": "衛星遙測中指由地面接收站即時取得、涵蓋當地或有限區域的高解析度觀測資料，常用於區域天氣監測與作業分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_area_coverage"
   },
   {
     "english": "local change",
-    "traditional_chinese": "局部改變",
-    "definition_cht": "指與「局部改變」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "局地變化",
+    "definition_cht": "某一物理量在固定位置隨時間產生的變化，常對應場方程中的局地時間變化項，與平流造成的變化相區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/local_change"
   },
   {
