@@ -29455,122 +29455,122 @@
   },
   {
     "english": "lifting condensation level zone",
-    "traditional_chinese": "提升凝結水平區",
-    "definition_cht": "指與「提升凝結水平區」相關的特徵層位、標準層、診斷高度或強度分級。",
+    "traditional_chinese": "抬升凝結高度帶",
+    "definition_cht": "指近地面不同空氣團因溫度與濕度略有差異，在受抬升後達到飽和並形成抬升凝結高度（LCL）的高度範圍；可用來描述區域內雲底高度可能出現的帶狀分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/lifting_condensation_level_zone"
   },
   {
     "english": "Lifting trough",
-    "traditional_chinese": "提升槽",
-    "definition_cht": "指與「提升槽」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "高空槽",
+    "definition_cht": "高空槽的俗稱，指存在於高空、且通常比地面槽線更為明顯的低壓槽；常與高空輻散、上升運動及天氣系統發展有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lifting_trough"
   },
   {
     "english": "light",
     "traditional_chinese": "光",
-    "definition_cht": "指與「光」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "狹義指人眼可見的電磁輻射；在氣象學中常延伸至大氣輻射與光學研究，用以討論散射、吸收、能見度及各類大氣光象。",
     "source_url": "https://glossary.ametsoc.org/wiki/light"
   },
   {
     "english": "light air",
     "traditional_chinese": "軟風",
-    "definition_cht": "指與「軟風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "蒲福風級1級，風速約1至3節（約0.5至1.5公尺每秒）；通常僅能使煙流略為飄移，海面僅見細小鱗波。",
     "source_url": "https://glossary.ametsoc.org/wiki/light_air"
   },
   {
     "english": "light breeze",
-    "traditional_chinese": "微風",
-    "definition_cht": "指與「微風」相關的局地環流，通常由熱力差異或地形效應所驅動。",
+    "traditional_chinese": "輕風",
+    "definition_cht": "蒲福風級2級，風速約4至6節（約2至3公尺每秒）；人可明顯感受微弱風勢，海面出現短小而較清楚的波紋。",
     "source_url": "https://glossary.ametsoc.org/wiki/light_breeze"
   },
   {
     "english": "light freeze",
-    "traditional_chinese": "光凍結",
-    "definition_cht": "最低氣溫略低於冰點、足以造成輕微結霜或局部凍害的弱凍事件。",
+    "traditional_chinese": "輕度凍害",
+    "definition_cht": "指氣溫降至0°C以下、常約介於0至-1°C之間的輕微結凍事件，足以造成部分一年生植物受損或死亡，但通常不致全面凍死。",
     "source_url": "https://glossary.ametsoc.org/wiki/light_freeze"
   },
   {
     "english": "light frost",
-    "traditional_chinese": "輕霜",
-    "definition_cht": "指與「輕霜」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "薄霜",
+    "definition_cht": "地物或植被表面形成的薄而較不連續的白霜沉積；此詞有時被誤用為指輕度凍害，但兩者並不相同。",
     "source_url": "https://glossary.ametsoc.org/wiki/light_frost"
   },
   {
     "english": "light pillar",
     "traditional_chinese": "光柱",
-    "definition_cht": "指與「光柱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一種大氣光象，表現為光源上方或下方延伸的垂直光束，主要由大氣中近乎水平取向的板狀冰晶反射太陽、月亮或地面光源所形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/light_pillar"
   },
   {
     "english": "Lightning",
     "traditional_chinese": "閃電",
-    "definition_cht": "指與「閃電」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "大氣中兩個帶電區域之間，或雲與地面之間發生的自然靜電放電現象；放電時會產生強烈光閃、瞬時高溫、電磁輻射與雷聲。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lightning"
   },
   {
     "english": "lightning arrester",
     "traditional_chinese": "避雷器",
-    "definition_cht": "指與「避雷器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "用於電力線或通信線路的保護裝置，可在雷擊或突波發生時，將短時高電流導向接地端，以降低設備絕緣與導線受損風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_arrester"
   },
   {
     "english": "lightning channel",
     "traditional_chinese": "閃電通道",
-    "definition_cht": "指與「閃電通道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "閃電放電時由先導發展而成的狹窄導電路徑，連接不同電荷中心、雲與地面，或雲與周圍空氣，供電荷沿其快速傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_channel"
   },
   {
     "english": "lightning counter",
     "traditional_chinese": "閃電計數器",
-    "definition_cht": "指與「閃電計數器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "用於量測指定時間內閃電事件發生次數的儀器，可作為雷電活動頻度監測的基本設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_counter"
   },
   {
     "english": "lightning current",
     "traditional_chinese": "雷電流",
-    "definition_cht": "指與「雷電流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "definition_cht": "指閃電放電通道中流動的電流，包含回擊電流與可能持續較久的連續電流成分，是造成熱效應、電磁效應與損害的重要來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_current"
   },
   {
     "english": "lightning damage",
-    "traditional_chinese": "雷擊損壞",
-    "definition_cht": "指與「雷擊損壞」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷擊損害",
+    "definition_cht": "雷電直接造成的財產損壞，以及因雷擊引發火災、設備故障或事故所導致的間接損失。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_damage"
   },
   {
     "english": "lightning detection network",
-    "traditional_chinese": "雷電探測網絡",
-    "definition_cht": "指與「雷電探測網絡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷電探測網",
+    "definition_cht": "由多個雷電感測器或測向設備整合而成的觀測網路，用以即時偵測並定位雷電放電事件，常用於判定雲對地雷擊位置與雷暴活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_detection_network"
   },
   {
     "english": "lightning discharge",
     "traditional_chinese": "閃電放電",
-    "definition_cht": "指與「閃電放電」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在約1秒內沿放電通道進行的一連串電過程，使異號電荷中心之間完成電荷轉移；可發生於雲內、雲間、雲地之間或雲與周圍空氣之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_discharge"
   },
   {
     "english": "lightning echo",
-    "traditional_chinese": "閃電迴聲",
-    "definition_cht": "指與「閃電迴聲」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "閃電回波",
+    "definition_cht": "由閃電通道中的高濃度自由電子散射雷達波所形成的短暫雷達回波；其持續時間通常很短，常在1秒以內。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_echo"
   },
   {
     "english": "lightning flash",
-    "traditional_chinese": "閃電",
-    "definition_cht": "指與「閃電」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "閃電閃次",
+    "definition_cht": "一次完整可辨識的閃電放電事件，持續時間通常小於1秒；單一閃次常包含多個快速接續、肉眼難以逐一分辨的發光過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_flash"
   },
   {
     "english": "Lightning Imaging Sensor",
     "traditional_chinese": "閃電成像感測器",
-    "definition_cht": "指與「閃電成像感測器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "搭載於衛星或太空平台上的光學雷電探測儀器，可自軌道觀測並定位大範圍閃電活動，常用於即時天氣監測、對流分析與全球閃電氣候研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lightning_Imaging_Sensor"
   },
   {
     "english": "lightning mapping system",
     "traditional_chinese": "閃電測繪系統",
-    "definition_cht": "指與「閃電測繪系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由多部雷電探測設備組成的定位系統，可利用高時間解析度量測閃電放電源所發出的電磁訊號，進而在三維空間中描繪雲內與雲地閃電結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/lightning_mapping_system"
   },
   {
