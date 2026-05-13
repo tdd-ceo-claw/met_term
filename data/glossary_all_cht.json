@@ -28016,121 +28016,121 @@
   {
     "english": "kaléma",
     "traditional_chinese": "卡雷馬霧",
-    "definition_cht": "安哥拉沿岸對海霧或低雲籠罩現象的地方稱呼，通常與寒流影響、海面逆溫及近岸穩定層結有關。",
+    "definition_cht": "安哥拉沿岸對海霧或近海低雲籠罩現象的地方稱呼，通常與本格拉寒流、近海逆溫及穩定海洋邊界層有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/kal%C3%A9ma"
   },
   {
     "english": "Kalman–Bucy filter",
     "traditional_chinese": "卡爾曼－布希濾波器",
-    "definition_cht": "適用於連續時間動態系統的最佳線性估計方法，藉由結合模式預報與觀測資料，遞迴更新狀態估計與誤差協方差。",
+    "definition_cht": "卡爾曼濾波在連續時間系統中的形式，利用動態模式與連續或高頻觀測遞迴估計系統狀態及其誤差協方差，常用於資料同化與控制問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kalman%E2%80%93Bucy_filter"
   },
   {
     "english": "Kamchatka Current",
     "traditional_chinese": "堪察加海流",
-    "definition_cht": "流經堪察加半島附近的寒流系統，為北太平洋高緯海洋環流之一部分，對白令海與鄰近海域熱鹽分布有重要影響。",
+    "definition_cht": "沿堪察加半島外海向西南流動的寒流，位於白令海與西北太平洋之間，並與親潮水系相連，對高緯海域熱鹽結構與生態環境具重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kamchatka_Current"
   },
   {
     "english": "kanat",
     "traditional_chinese": "坎兒井",
-    "definition_cht": "乾燥區利用地下導水隧道與豎井引出地下水的傳統水利系統，可降低蒸發損失，常見於荒漠與半荒漠地帶。",
+    "definition_cht": "又作 qanat，指以地下導水隧道與豎井將含水層或井水引至地表的傳統供水系統，可降低乾燥區輸水時的蒸發損失。",
     "source_url": "https://glossary.ametsoc.org/wiki/kanat"
   },
   {
     "english": "karaburan",
     "traditional_chinese": "卡拉布蘭風",
-    "definition_cht": "中亞地區的強風或沙塵風地方名稱，常指挾帶沙塵、能見度低且天氣惡劣的冷性風暴現象。",
+    "definition_cht": "中亞與鄰近乾旱區的地方風名，常指伴隨強風、低能見度與沙塵的惡劣天氣；在部分地區亦可指寒冷而猛烈的暴風現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/karaburan"
   },
   {
     "english": "karajol",
     "traditional_chinese": "卡拉卓爾風",
-    "definition_cht": "地方性風名，通常用於描述某些地區受地形通道效應與季節壓差控制之強勁局地風。",
+    "definition_cht": "保加利亞沿岸的地方風名，為離岸西風，常出現在降雨之後，並可持續一至三日。",
     "source_url": "https://glossary.ametsoc.org/wiki/karajol"
   },
   {
     "english": "karema wind",
     "traditional_chinese": "卡雷馬風",
-    "definition_cht": "地方性風系名稱，多指特定區域在季節轉換期間出現的乾熱或強勁局地風，氣象特徵依地區習用而異。",
+    "definition_cht": "非洲坦干依喀湖上的猛烈東風之地方名稱，常使湖面風浪迅速增強，對航行與湖岸天氣有顯著影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/karema_wind"
   },
   {
     "english": "karif",
     "traditional_chinese": "卡里夫季",
-    "definition_cht": "南亞農業與季風氣候中對雨季作物期或相關季節的稱呼，通常與夏季季風降雨時段相對應。",
+    "definition_cht": "kharif 的另一拼寫，指南亞夏季季風雨季對應的農作季，作物多在雨季開始時播種，並於秋季前後收成。",
     "source_url": "https://glossary.ametsoc.org/wiki/karif"
   },
   {
     "english": "karst",
     "traditional_chinese": "喀斯特地形",
-    "definition_cht": "由可溶性岩石長期受溶蝕作用形成的地貌系統，常見溶洞、落水洞、地下河與洼地等特徵。",
+    "definition_cht": "可溶性岩石（如石灰岩、白雲岩）經長期溶蝕作用形成的地貌系統，常見落水洞、溶洞、地下河、窪地等特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/karst"
   },
   {
     "english": "karst hydrology",
     "traditional_chinese": "喀斯特水文學",
-    "definition_cht": "研究喀斯特地區地下水補注、徑流、儲存、溶蝕通道與泉水出流特性的水文學分支。",
+    "definition_cht": "研究喀斯特地區降水入滲、地下導水通道、泉水出流、地下水儲集與快速逕流反應等過程的水文學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/karst_hydrology"
   },
   {
     "english": "karstbora",
     "traditional_chinese": "喀斯特布拉風",
-    "definition_cht": "發生於喀斯特高原或石灰岩地區的布拉型下坡強風，受冷空氣越嶺外溢與地形加速作用影響而形成。",
+    "definition_cht": "發生於喀斯特高原或石灰岩地區的布拉型下坡強風，通常由冷密空氣越嶺外洩並受地形加速所致。",
     "source_url": "https://glossary.ametsoc.org/wiki/karstbora"
   },
   {
     "english": "katabatic front",
     "traditional_chinese": "下降風鋒",
-    "definition_cht": "由密度較大的冷空氣沿斜坡下滑並向外推進時，在其前緣形成的淺薄鋒面或鋒狀邊界。",
+    "definition_cht": "由冷而密的下坡氣流向外推進時，在其前緣形成的淺薄鋒面或鋒狀邊界，常見於冰原、冰棚或山區出流附近。",
     "source_url": "https://glossary.ametsoc.org/wiki/katabatic_front"
   },
   {
     "english": "katabatic wind",
     "traditional_chinese": "下坡風",
-    "definition_cht": "受重力驅動的冷密空氣沿山坡或冰蓋表面向低處流動之風，常見於夜間山區、冰原與極地沿岸。",
+    "definition_cht": "由重力驅動的冷密空氣沿山坡、冰蓋或高原邊坡向低處流動之風，常由地表輻射冷卻增密所觸發，為典型的下降風。",
     "source_url": "https://glossary.ametsoc.org/wiki/katabatic_wind"
   },
   {
     "english": "katafront",
     "traditional_chinese": "下降型鋒面",
-    "definition_cht": "鋒面分析中指暖空氣相對鋒面作下沉運動的鋒面型態，降水區常較貼近鋒面或位於其後側。",
+    "definition_cht": "鋒面分析中指暖空氣相對鋒面呈下沉運動的鋒面型態，降水常貼近鋒面或位於其後側，與上升型鋒面相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/katafront"
   },
   {
     "english": "katallobaric",
     "traditional_chinese": "負變壓的",
-    "definition_cht": "指氣壓隨時間下降的狀態或區域；在風場分析中常與局地氣壓下降所誘發之加速度效應相關。",
+    "definition_cht": "指氣壓隨時間下降的狀態、區域或效應；在動力氣象中常用以描述由壓力下降所伴生的風場加速度影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/katallobaric"
   },
   {
     "english": "katathermometer",
     "traditional_chinese": "冷卻溫度計",
-    "definition_cht": "以加熱後降溫速率估算環境冷卻能力的儀器，可綜合反映空氣流動、溫度與濕度對人體散熱的影響。",
+    "definition_cht": "用以測量環境空氣冷卻能力的溫度計，通常依加熱後的降溫速率估算空氣流動、溫度與濕度對散熱的綜合作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/katathermometer"
   },
   {
     "english": "kaus",
     "traditional_chinese": "考斯風",
-    "definition_cht": "古典或地方風名之一，通常指特定方位的區域風，在歷史氣象與傳統風向體系中偶有使用。",
+    "definition_cht": "古典或地方風名之一；現代標準氣象文獻對其定義較少，通常保留作歷史風名使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/kaus"
   },
   {
     "english": "kelsher",
-    "traditional_chinese": "凱爾舍風",
-    "definition_cht": "地方性風名，用於指稱某一地區慣常出現的局地風系，其具體溫濕與季節特徵依原始區域定義而定。",
+    "traditional_chinese": "凱爾舍雨",
+    "definition_cht": "英格蘭西南部方言中的天氣用語，指一陣很大的雨或傾盆大雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/kelsher"
   },
   {
     "english": "Kelvin temperature scale",
     "traditional_chinese": "克耳文溫標",
-    "definition_cht": "以絕對零度為起點的熱力學溫標，單位為開爾文，用於氣象、物理與工程中之絕對溫度表示。",
+    "definition_cht": "以絕對零度為零點的熱力學溫標，單位為克耳文，與攝氏溫標的刻度間距相同，但不使用「度」作單位名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kelvin_temperature_scale"
   },
   {
     "english": "Kelvin wave",
     "traditional_chinese": "克耳文波",
-    "definition_cht": "受地球自轉影響並受邊界或赤道束縛的重力波，具有振幅沿邊界衰減、相速受重力與流體深度控制等特性。",
+    "definition_cht": "受地球自轉影響，並由海岸、湖岸或赤道等邊界／波導所束縛的重力波；其重要特徵之一是不具頻散性，能量與波形可沿邊界傳播而較易維持。",
     "source_url": "https://glossary.ametsoc.org/wiki/Kelvin_wave"
   },
   {
