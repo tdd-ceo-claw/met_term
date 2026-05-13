@@ -73,122 +73,122 @@
   },
   {
     "english": "Lagrangian airshed models",
-    "traditional_chinese": "拉格朗日空氣流域模型",
-    "definition_cht": "指與「拉格朗日空氣流域模型」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拉格朗日空氣流域模式",
+    "definition_cht": "一類以追蹤空氣微團、粒子或氣團軌跡為核心的空氣品質模式，用以模擬污染物在大氣中的平流、擴散、轉化與沉降。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_airshed_models"
   },
   {
     "english": "Lagrangian change",
     "traditional_chinese": "拉格朗日變化",
-    "definition_cht": "指與「拉格朗日變化」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在拉格朗日描述下，沿著隨流體移動之氣塊或水體所觀察到的物理量時空變化；亦即跟隨流體質點的變化率。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_change"
   },
   {
     "english": "Lagrangian coordinates",
     "traditional_chinese": "拉格朗日座標",
-    "definition_cht": "指與「拉格朗日座標」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "以流體質點的初始位置或標記作為座標，並隨其運動加以追蹤的描述方式，常用於表示氣塊、水團或粒子之運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_coordinates"
   },
   {
     "english": "Lagrangian correlation",
-    "traditional_chinese": "拉格朗日相關性",
-    "definition_cht": "指與「拉格朗日相關性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拉格朗日相關",
+    "definition_cht": "沿著移動流體質點或示蹤粒子軌跡計算的相關關係，常指速度等變數的時間自相關，用於亂流與擴散研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_correlation"
   },
   {
     "english": "Lagrangian current measurement",
-    "traditional_chinese": "拉格朗日電流測量",
-    "definition_cht": "指與「拉格朗日電流測量」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "traditional_chinese": "拉格朗日流速測量",
+    "definition_cht": "藉由追蹤隨水體漂移之浮標、漂流器或中性浮子的位置變化，以量測水團實際移動速度與流向的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_current_measurement"
   },
   {
     "english": "Lagrangian equations",
     "traditional_chinese": "拉格朗日方程",
-    "definition_cht": "指與「拉格朗日方程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "以追隨流體質點為基礎所寫成的方程組，用來描述氣塊或水體在運動過程中的速度、位置及相關物理量變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_equations"
   },
   {
     "english": "Lagrangian equations of motion",
     "traditional_chinese": "拉格朗日運動方程",
-    "definition_cht": "指與「拉格朗日運動方程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在拉格朗日座標系中沿流體質點書寫的運動方程，表示單一質點之加速度與其所受壓力梯度、重力、摩擦等力的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_equations_of_motion"
   },
   {
     "english": "Lagrangian float",
-    "traditional_chinese": "拉格朗日浮子",
-    "definition_cht": "指與「拉格朗日浮子」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拉格朗日浮標",
+    "definition_cht": "設計成隨周遭水體一同漂移的海洋觀測浮標或中性浮子，用以追蹤水團路徑並量測流速、溫鹽等特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_float"
   },
   {
     "english": "Lagrangian hydrodynamic equations",
-    "traditional_chinese": "拉格朗日流體動力學方程",
-    "definition_cht": "指與「拉格朗日流體動力學方程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拉格朗日流體動力方程",
+    "definition_cht": "以隨流體移動的質點觀點表示之流體動力方程，將質量、動量與能量守恆關係寫成沿粒子軌跡演變的形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_hydrodynamic_equations"
   },
   {
     "english": "Lagrangian mean current",
     "traditional_chinese": "拉格朗日平均流",
-    "definition_cht": "沿隨流體移動之觀測框架所定義的平均流速，可反映粒子實際漂移與波流交互作用之淨輸送。",
+    "definition_cht": "依流體質點實際位移或漂移軌跡所定義的平均流場，可表徵粒子淨輸送，並與定點觀測所得的歐拉平均流相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_mean_current"
   },
   {
     "english": "Lagrangian timescale",
     "traditional_chinese": "拉格朗日時間尺度",
-    "definition_cht": "描述流體微粒沿運動路徑上速度自相關衰減特徵的時間尺度，常用於亂流擴散與粒子輸送研究。",
+    "definition_cht": "描述沿粒子軌跡之速度自相關衰減快慢的特徵時間尺度，常用於估算亂流擴散、混合與示蹤物輸送效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lagrangian_timescale"
   },
   {
     "english": "laheimar",
-    "traditional_chinese": "拉黑馬爾",
-    "definition_cht": "指與「拉黑馬爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "拉海馬爾",
+    "definition_cht": "AMS 詞彙中的外語借詞條目；現有可得資料僅能確認其為獨立術語名稱，缺乏公開且一致的權威定義，暫以音譯保留，待後續可取得更完整來源時再補強。",
     "source_url": "https://glossary.ametsoc.org/wiki/laheimar"
   },
   {
     "english": "lake breeze",
     "traditional_chinese": "湖風",
-    "definition_cht": "白天地表受熱差異使近地面氣流自湖面吹向陸地的局地環流，夜間通常可轉為陸風。",
+    "definition_cht": "白天陸地升溫較湖面快，近地層氣流因而由湖面吹向岸上的局地環流；夜間常可轉為由陸地吹向湖面的陸風。",
     "source_url": "https://glossary.ametsoc.org/wiki/lake_breeze"
   },
   {
     "english": "lake effect",
     "traditional_chinese": "湖泊效應",
-    "definition_cht": "指與「湖泊效應」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "冷空氣通過較暖湖面時，因感熱與水汽通量增加而使下風處雲量、降水或降雪增強的局地天氣效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/lake_effect"
   },
   {
     "english": "lake evaporation",
     "traditional_chinese": "湖泊蒸發",
-    "definition_cht": "指與「湖泊蒸發」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "湖面水分以蒸發形式進入大氣的過程，其強弱受湖面溫度、風速、氣溫、濕度及熱量收支所控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/lake_evaporation"
   },
   {
     "english": "lake ice",
     "traditional_chinese": "湖冰",
-    "definition_cht": "指與「湖冰」相關的冰相現象、冰體狀態或凍結產物，常應用於寒區氣象、海冰或冰川研究。",
+    "definition_cht": "湖泊表層水體在低溫條件下凍結形成的冰層或冰體，其生成、厚度與消融受氣溫、風、積雪及湖水熱狀態影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/lake_ice"
   },
   {
     "english": "lake surface temperature",
     "traditional_chinese": "湖面溫度",
-    "definition_cht": "指與「湖面溫度」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "definition_cht": "湖泊近表層水體的溫度，是反映湖氣熱交換、季節性分層、蒸發與生態環境狀態的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/lake_surface_temperature"
   },
   {
     "english": "lake-effect snow",
     "traditional_chinese": "湖效應雪",
-    "definition_cht": "冷空氣越過較暖湖面時獲得水汽與熱量，於下風岸形成增強降雪的現象。",
+    "definition_cht": "冷空氣越過較暖湖面時獲得熱量與水汽，於下風岸對流增強並形成帶狀或局地性強降雪的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/lake-effect_snow"
   },
   {
     "english": "lake-effect snowstorm",
     "traditional_chinese": "湖效應暴風雪",
-    "definition_cht": "指與「湖效應暴風雪」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由湖效應機制所造成、降雪強度高且影響顯著的雪暴事件，通常出現在大湖或大鹽湖下風側地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/lake-effect_snowstorm"
   },
   {
     "english": "lambert",
-    "traditional_chinese": "蘭伯特",
-    "definition_cht": "指與「蘭伯特」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "朗伯",
+    "definition_cht": "亮度的厘米–克–秒制單位，定義為均勻發光或反射表面每平方公分每球面度發出或反射 1 燭光時的亮度；現多由 SI 單位取代。",
     "source_url": "https://glossary.ametsoc.org/wiki/lambert"
   },
   {
