@@ -26215,122 +26215,122 @@
   },
   {
     "english": "influent seepage",
-    "traditional_chinese": "influent seepage",
-    "definition_cht": "「influent seepage」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "補注滲漏",
+    "definition_cht": "地表水體中的水經河床、湖床或岸坡滲入地下土層與含水層的過程；常指失水河段或水庫向地下補注之滲流。",
     "source_url": "https://glossary.ametsoc.org/wiki/influent_seepage"
   },
   {
     "english": "Infralateral tangent arcs",
-    "traditional_chinese": "Infralateral tangent arcs",
-    "definition_cht": "「Infralateral tangent arcs」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "下側切弧",
+    "definition_cht": "一種罕見的冰晶暈象，通常出現在太陽下方、位於 46° 暈之外並與其相切或近切，由近水平取向的六角柱狀冰晶折射日光形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/Infralateral_tangent_arcs"
   },
   {
     "english": "infrared",
-    "traditional_chinese": "紅外",
-    "definition_cht": "波長長於可見紅光、短於微波之電磁輻射區段。",
+    "traditional_chinese": "紅外線",
+    "definition_cht": "波長長於可見紅光、短於微波的電磁輻射區段；在氣象遙測中常用於觀測雲頂、地表與大氣的熱輻射特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrared"
   },
   {
     "english": "infrared image",
     "traditional_chinese": "紅外影像",
-    "definition_cht": "以紅外輻射亮溫或輻射強度生成的影像，常用於觀測雲頂溫度與地表熱特徵。",
+    "definition_cht": "利用目標紅外輻射所換算之亮溫或輻射強度形成的影像，可全天候監測雲頂溫度、對流發展與地表熱分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrared_image"
   },
   {
     "english": "Infrared Interferometer Spectrometer",
     "traditional_chinese": "紅外干涉光譜儀",
-    "definition_cht": "用於解析「紅外干涉光譜儀」波段光譜分布與物質特性的儀器。",
+    "definition_cht": "以干涉儀量測熱紅外光譜的儀器，可取得高光譜解析度輻射資訊，用於反演大氣溫濕度、雲性質及地表或行星輻射特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Infrared_Interferometer_Spectrometer"
   },
   {
     "english": "infrared radiation",
     "traditional_chinese": "紅外輻射",
-    "definition_cht": "波長位於紅外區之電磁輻射，是地球長波放射與遙測觀測的重要波段。",
+    "definition_cht": "位於紅外波段的電磁輻射，多數常溫物體皆會放射此類能量；其在地球長波輻射收支與衛星遙測中極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrared_radiation"
   },
   {
     "english": "infrared radiometry",
     "traditional_chinese": "紅外輻射測量",
-    "definition_cht": "量測目標紅外輻射強度、亮溫或光譜特性的技術。",
+    "definition_cht": "量測目標在紅外波段之輻射能量、亮溫或光譜分布的技術，用於大氣遙測、地表溫度估算與輻射傳輸研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrared_radiometry"
   },
   {
     "english": "infrared spectrometer",
     "traditional_chinese": "紅外光譜儀",
-    "definition_cht": "量測紅外光譜分布以分析物質組成、溫度或輻射特性的儀器。",
+    "definition_cht": "用來量測紅外波段光譜分布的儀器，可據以分析物質組成、溫度、放射特性或大氣吸收特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrared_spectrometer"
   },
   {
     "english": "infrared spectroscopy",
-    "traditional_chinese": "紅外 spectroscopy",
-    "definition_cht": "「紅外 spectroscopy」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "紅外光譜學",
+    "definition_cht": "研究物質對紅外輻射之吸收、放射或散射光譜特性的學科，可用於辨識分子組成，並應用於大氣成分與輻射遙測分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrared_spectroscopy"
   },
   {
     "english": "infrasonic",
     "traditional_chinese": "次聲的",
-    "definition_cht": "「次聲的」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "指頻率低於人耳可聽下限、約 20 Hz 以下的聲波或其相關現象；在大氣科學中常見於火山、爆炸、雷暴與重力波監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrasonic"
   },
   {
     "english": "infrasonic observatory",
     "traditional_chinese": "次聲觀測站",
-    "definition_cht": "「次聲觀測站」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "definition_cht": "以微氣壓計或陣列感測器持續監測次聲訊號的觀測設施，用於偵測火山爆發、強對流、爆炸與大氣低頻波動。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrasonic_observatory"
   },
   {
     "english": "infrasound",
-    "traditional_chinese": "infrasound",
-    "definition_cht": "頻率低於人耳可聽範圍下限的聲波，常用於監測火山、爆炸、雷暴或大氣波動。",
+    "traditional_chinese": "次聲",
+    "definition_cht": "頻率低於人耳可聽範圍下限、通常低於 20 Hz 的聲波，常用於監測火山、爆炸、雷暴、流星與大氣波動。",
     "source_url": "https://glossary.ametsoc.org/wiki/infrasound"
   },
   {
     "english": "ingesting",
-    "traditional_chinese": "ingesting",
-    "definition_cht": "「ingesting」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "資料匯入",
+    "definition_cht": "將觀測、分析或外部來源資料讀入模式、資料庫或預報系統中的處理程序，通常包含格式轉換、品質控制與時間配對。",
     "source_url": "https://glossary.ametsoc.org/wiki/ingesting"
   },
   {
     "english": "initial condition",
-    "traditional_chinese": "初始 condition",
-    "definition_cht": "數值模式或微分方程在起算時刻所指定的狀態場。",
+    "traditional_chinese": "初始條件",
+    "definition_cht": "微分方程、數值模式或模擬系統在起算時刻所指定的狀態值或狀態場，是後續時間演變計算的起點。",
     "source_url": "https://glossary.ametsoc.org/wiki/initial_condition"
   },
   {
     "english": "initial rainfall",
-    "traditional_chinese": "初始降雨",
-    "definition_cht": "「初始降雨」為氣象、海洋、水文、氣候、遙測或相關地球科學中的專業術語，其確切意義需依使用情境、觀測對象與理論脈絡判定。",
+    "traditional_chinese": "初期降雨",
+    "definition_cht": "一次降雨事件開始階段的雨量或降雨過程；在水文上常指土壤尚未接近飽和、截留與入滲損失仍較明顯的前段降雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/initial_rainfall"
   },
   {
     "english": "initial-value problem",
-    "traditional_chinese": "初始—value 問題",
-    "definition_cht": "已知起始時刻或起始位置條件，求解方程隨時間或空間演變的問題。",
+    "traditional_chinese": "初值問題",
+    "definition_cht": "在已知起始時刻或起始位置之函數值與必要導數條件下，求解方程隨時間或空間演變的數學問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/initial-value_problem"
   },
   {
     "english": "initialization",
-    "traditional_chinese": "initialization",
-    "definition_cht": "為使數值模式初始場與控制方程及觀測條件更相容而進行的調整程序。",
+    "traditional_chinese": "初始化",
+    "definition_cht": "在數值模式或資料處理開始前，設定並調整初始場、參數或系統狀態，使其與控制方程、觀測資料及邊界條件相容的程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/initialization"
   },
   {
     "english": "injection temperature",
-    "traditional_chinese": "injection 溫度",
-    "definition_cht": "指與「injection 溫度」相關的溫度量、特徵溫標或熱力診斷參數。",
+    "traditional_chinese": "注入溫度",
+    "definition_cht": "流體、空氣團或其他物質被注入某系統、井體、含水層或實驗裝置時的溫度；常作為熱交換、混合與能量收支計算的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/injection_temperature"
   },
   {
     "english": "inland ice",
-    "traditional_chinese": "內陸冰",
-    "definition_cht": "指與「內陸冰」相關的冰相過程、冰體結構或結冰現象，常見於雲微物理、冰凍圈與航空氣象。",
+    "traditional_chinese": "內陸冰蓋",
+    "definition_cht": "覆蓋大陸內陸廣大區域、厚度甚大且沿地表緩慢流動的永久冰體，典型例子為格陵蘭與南極冰蓋。",
     "source_url": "https://glossary.ametsoc.org/wiki/inland_ice"
   },
   {
     "english": "inland sea breeze",
-    "traditional_chinese": "內陸 sea breeze",
-    "definition_cht": "由內陸大型湖泊或海面與鄰近陸地受熱差異所驅動、白天由水域吹向陸地的局地風。",
+    "traditional_chinese": "內陸海風",
+    "definition_cht": "由內陸大型湖泊、內海或廣闊水域與鄰近陸地受熱差異所驅動，白天自水域吹向陸地的局地風系。",
     "source_url": "https://glossary.ametsoc.org/wiki/inland_sea_breeze"
   },
   {
