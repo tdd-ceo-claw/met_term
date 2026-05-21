@@ -35216,121 +35216,121 @@
   {
     "english": "ocean",
     "traditional_chinese": "海洋",
-    "definition_cht": "「海洋」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "definition_cht": "「海洋」指覆蓋地球大部分表面的彼此連通鹹水體總稱；在氣象與海洋學中，亦常指其中任一大洋分區，以及其與大氣之間的熱量、水氣與動量交換系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean"
   },
   {
     "english": "ocean conveyor belt",
-    "traditional_chinese": "海洋輸送帶",
-    "definition_cht": "「海洋輸送帶」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "traditional_chinese": "全球海洋輸送帶",
+    "definition_cht": "「全球海洋輸送帶」是由溫鹽差異驅動、並與風生環流相互連結的全球尺度海洋翻轉循環；其典型概念包括北大西洋深水下沉、深層水跨洋盆輸送，以及在其他海域上升回到表層。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_conveyor_belt"
   },
   {
     "english": "ocean current",
     "traditional_chinese": "洋流",
-    "definition_cht": "「洋流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
+    "definition_cht": "「洋流」指海水沿可辨識路徑持續或週期性流動的現象，可由風應力、密度梯度、潮汐、地形與科氏力等共同驅動，並負責熱量、鹽度與物質的海洋輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_current"
   },
   {
     "english": "ocean mixing",
     "traditional_chinese": "海洋混合",
-    "definition_cht": "「海洋混合」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "definition_cht": "「海洋混合」指不同海水團之間透過湍流、對流、風浪、潮汐或剪切等作用而發生的性質交換與混合作用，會改變溫度、鹽度、密度、養分與溶氧的垂直或水平分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_mixing"
   },
   {
     "english": "ocean station",
-    "traditional_chinese": "海洋站",
-    "definition_cht": "「海洋站」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "traditional_chinese": "海洋測站",
+    "definition_cht": "「海洋測站」指海上預先劃定的固定作業區域，供海洋測站船或其他平台駐留並持續進行氣象與海況觀測；當船舶位於該指定區域內執勤時，即稱為在站（on station）。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_station"
   },
   {
     "english": "ocean station vessel",
-    "traditional_chinese": "海洋氣象船",
-    "definition_cht": "「海洋氣象船」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "traditional_chinese": "海洋測站船",
+    "definition_cht": "「海洋測站船」指被派駐於海洋測站執行值守的遠洋船舶，配備人員與儀器以持續進行海面與高空氣象觀測，並回報海況、天氣與上空資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_station_vessel"
   },
   {
     "english": "Ocean Topography Experiment",
     "traditional_chinese": "海洋地形實驗",
-    "definition_cht": "「海洋地形實驗」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "definition_cht": "「海洋地形實驗」通常指 TOPEX，尤以 TOPEX/Poseidon 衛星任務最具代表性；該任務利用雷達高度計量測海面高度，並配合微波輻射計修正大氣水汽影響，以支援海洋環流與海平面研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ocean_Topography_Experiment"
   },
   {
     "english": "ocean waves",
     "traditional_chinese": "海浪",
-    "definition_cht": "「海浪」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "definition_cht": "「海浪」指海洋表面受風力擾動所產生的波動，主要受重力控制；對於較短波長的波，表面張力亦具重要影響。海浪包含風浪與湧浪等不同型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_waves"
   },
   {
     "english": "ocean weather station",
     "traditional_chinese": "海洋氣象站",
-    "definition_cht": "「海洋氣象站」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "definition_cht": "「海洋氣象站」指依世界氣象組織等作業規範，在特定海域由裝備完善且有人值守的船舶或平台持續觀測天氣與海況，並透過國際交換系統回報資料的海上觀測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_weather_station"
   },
   {
     "english": "oceanic meteorology",
     "traditional_chinese": "海洋氣象學",
-    "definition_cht": "「海洋氣象學」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "definition_cht": "「海洋氣象學」是研究海洋與大氣之間相互作用的氣象學分支，涵蓋海氣熱量、水氣與動量交換，以及其對海上天氣、海況與氣候變化的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/oceanic_meteorology"
   },
   {
     "english": "oceanicity",
     "traditional_chinese": "海洋性",
-    "definition_cht": "「海洋性」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "definition_cht": "「海洋性」指某地氣候受海洋調節影響的程度，通常表現為年溫差較小、濕度較高、降水較均勻且季節變化較不劇烈；其概念與大陸性相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/oceanicity"
   },
   {
     "english": "oceanography",
     "traditional_chinese": "海洋學",
-    "definition_cht": "「海洋學」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
+    "definition_cht": "「海洋學」是綜合研究海洋的學科，涵蓋海盆與海岸等物理邊界、海水的物理與化學性質、海洋環流，以及海洋生物與相關地球系統過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/oceanography"
   },
   {
     "english": "octa",
-    "traditional_chinese": "八分雲量單位",
-    "definition_cht": "「八分雲量單位」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "八分量雲量單位",
+    "definition_cht": "「octa」是將天空雲覆蓋程度分成八等分時所用的雲量單位；0 octa 表示晴空，8 octa 表示全天空被雲遮蔽，常用於人工觀測與航空氣象報告。",
     "source_url": "https://glossary.ametsoc.org/wiki/octa"
   },
   {
     "english": "octane",
-    "traditional_chinese": "辛烷值",
-    "definition_cht": "「辛烷值」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "辛烷",
+    "definition_cht": "「辛烷」是化學式為 C8H18 的烷類化合物，常作為汽油抗爆性比較中的基準物質之一；在氣象與大氣化學語境中，通常出現在燃料性質、揮發性有機物或污染排放討論。",
     "source_url": "https://glossary.ametsoc.org/wiki/octane"
   },
   {
     "english": "odd chlorine",
     "traditional_chinese": "奇數氯",
-    "definition_cht": "「奇數氯」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「奇數氯」是平流層化學中對一組無機含氯活性物種的統稱，主要包括 Cl 與 ClO 等可快速互相轉換並參與臭氧消耗循環的化學種。",
     "source_url": "https://glossary.ametsoc.org/wiki/odd_chlorine"
   },
   {
     "english": "odd hydrogen",
     "traditional_chinese": "奇數氫",
-    "definition_cht": "「奇數氫」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「奇數氫」通常記為 HOx，指由 H、OH 與 HO2 所組成、可快速彼此轉換的反應性化學族，在平流層與對流層光化學中均扮演重要角色，並可參與臭氧生成與破壞反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/odd_hydrogen"
   },
   {
     "english": "Odd oxygen",
     "traditional_chinese": "奇數氧",
-    "definition_cht": "「奇數氧」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「奇數氧」指原子氧 O 與臭氧 O3 濃度的總和；在低層大氣中通常因臭氧濃度遠高於原子氧，其數值常可近似視為臭氧濃度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Odd_oxygen"
   },
   {
     "english": "odd-oxygen system",
-    "traditional_chinese": "奇氧系統",
-    "definition_cht": "「奇氧系統」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "奇數氧系統",
+    "definition_cht": "「奇數氧系統」指包含奇數個氧原子的化學物種集合，主要為原子氧 O 與臭氧 O3；此系統是平流層與中高層大氣臭氧光化學分析的重要概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/odd-oxygen_system"
   },
   {
     "english": "oe",
-    "traditional_chinese": "厄",
-    "definition_cht": "「厄」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "奧斯特（符號）",
+    "definition_cht": "「Oe」是 oersted 的單位符號，為厘米—克—秒制（cgs）中磁場強度 H 的單位，常見於地磁與電磁相關文獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/oe"
   },
   {
     "english": "oersted",
     "traditional_chinese": "奧斯特",
-    "definition_cht": "「奧斯特」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「奧斯特」是厘米—克—秒制（cgs）中磁場強度 H 的單位，符號為 Oe；在自由空間中，1 Oe 對應的磁感應強度約為 1 gauss 的量級，常用於地磁與電磁測量。",
     "source_url": "https://glossary.ametsoc.org/wiki/oersted"
   },
   {
