@@ -235,8 +235,8 @@
   },
   {
     "english": "main telecommunications network",
-    "traditional_chinese": "主要通信網路",
-    "definition_cht": "在氣象通信體系中指負責連接主要氣象中心並快速交換觀測、分析與預報產品的主幹通信網路；於 WMO 架構下常指全球或區域電信系統的骨幹部分。",
+    "traditional_chinese": "主要電信網路",
+    "definition_cht": "在氣象通信體系中，指連接主要氣象中心並用於快速交換觀測、分析與預報產品的主幹電信網路；在 WMO 架構下常指全球或區域電信系統的骨幹部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/main_telecommunications_network"
   },
   {
@@ -254,7 +254,7 @@
   {
     "english": "Maloja wind",
     "traditional_chinese": "馬洛亞風",
-    "definition_cht": "瑞士上恩加丁地區的局地山谷風，氣流越過 Maloja Pass 侵入谷地而成，屬焚風型強風，並可伴隨蛇形低雲的「Maloja Snake」現象。",
+    "definition_cht": "瑞士上恩加丁地區的局地山谷風，因氣流越過 Maloja Pass 侵入谷地而成，具焚風性質；其日變化方向有別於典型山谷風，並可伴隨蛇形低雲的「Maloja Snake」現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Maloja_wind"
   },
   {
@@ -290,7 +290,7 @@
   {
     "english": "Mandatory level",
     "traditional_chinese": "強制層位",
-    "definition_cht": "高空探測中規定必須報告的標準氣壓層位，如 1000、925、850、700、500、300 hPa 等，以利不同站點間資料比較與分析。",
+    "definition_cht": "高空探測中規定必須觀測與通報的標準氣壓層位，如 1000、925、850、700、500、300 hPa 等，以利不同測站資料比較與天氣分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mandatory_level"
   },
   {
@@ -308,7 +308,7 @@
   {
     "english": "mao mao yuh",
     "traditional_chinese": "毛毛雨",
-    "definition_cht": "中國北方口語中的 drizzle，即由極細小水滴組成、強度很弱且近於飄灑狀的降水；字面含有「沒什麼大不了」的語感。",
+    "definition_cht": "中文口語中的 drizzle，指由極細小水滴組成、強度很弱且近於飄灑狀的降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/mao_mao_yuh"
   },
   {
@@ -332,7 +332,7 @@
   {
     "english": "marble crust",
     "traditional_chinese": "大理石風化殼",
-    "definition_cht": "形成於大理石表面的風化或污染殼層，常由化學風化、酸性沉降與粒狀污染物共同作用生成，並可發育為富含石膏的黑殼。",
+    "definition_cht": "形成於大理石表面的風化或污染殼層，多由化學風化、酸性沉降與粒狀污染物共同作用生成，常可發育為含石膏的黑色殼層。",
     "source_url": "https://glossary.ametsoc.org/wiki/marble_crust"
   },
   {
