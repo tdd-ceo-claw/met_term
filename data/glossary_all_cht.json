@@ -33055,122 +33055,122 @@
   },
   {
     "english": "molality",
-    "traditional_chinese": "質量摩爾濃度",
-    "definition_cht": "指與「質量摩爾濃度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "質量莫耳濃度",
+    "definition_cht": "溶液濃度的表示方式，定義為每 1 公斤溶劑中所含溶質的莫耳數，常用單位為 mol/kg。因以溶劑質量為基準，不受溫度改變體積的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/molality"
   },
   {
     "english": "molan",
-    "traditional_chinese": "莫蘭",
-    "definition_cht": "指與「莫蘭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "molan",
+    "definition_cht": "目前未查得可交叉驗證且一致的可靠氣象或地球科學術語用法；網路可見結果多為地名或一般專名。此條宜暫保留原文，待回查原始詞表或紙本來源後再定義。",
     "source_url": "https://glossary.ametsoc.org/wiki/molan"
   },
   {
     "english": "molar specific heat capacity",
-    "traditional_chinese": "摩爾比熱容",
-    "definition_cht": "指與「摩爾比熱容」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "莫耳熱容",
+    "definition_cht": "以每莫耳物質為基準表示的熱容量，指使 1 莫耳物質升高 1 K 所需的熱量，常用單位為 J/(mol·K)。可再區分為定壓莫耳熱容與定容莫耳熱容。",
     "source_url": "https://glossary.ametsoc.org/wiki/molar_specific_heat_capacity"
   },
   {
     "english": "molarity",
-    "traditional_chinese": "摩爾濃度",
-    "definition_cht": "指與「摩爾濃度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "莫耳濃度",
+    "definition_cht": "溶液濃度的表示方式，定義為每單位體積溶液中所含溶質的莫耳數，常用單位為 mol/L。因以溶液體積為基準，其數值可能隨溫度改變而變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/molarity"
   },
   {
     "english": "mole",
-    "traditional_chinese": "痣",
-    "definition_cht": "指與「痣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "莫耳",
+    "definition_cht": "國際單位制中物質的量的基本單位，符號為 mol，用來表示含有固定數目基本實體（原子、分子、離子等）的物質量。1 莫耳所含實體數由阿伏加德羅常數定義。",
     "source_url": "https://glossary.ametsoc.org/wiki/mole"
   },
   {
     "english": "mole fraction",
-    "traditional_chinese": "摩爾分數",
-    "definition_cht": "指與「摩爾分數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "莫耳分率",
+    "definition_cht": "混合物中某一成分的物質的量與全部成分總物質的量之比，為無因次量。於大氣科學中常用以表示各種氣體成分在混合氣體中的比例。",
     "source_url": "https://glossary.ametsoc.org/wiki/mole_fraction"
   },
   {
     "english": "mole fraction of water vapor",
-    "traditional_chinese": "水蒸氣的摩爾分數",
-    "definition_cht": "指與「水蒸氣的摩爾分數」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "水汽莫耳分率",
+    "definition_cht": "濕空氣中水汽的物質的量與全部氣體總物質的量之比，為描述大氣含濕量的一種無因次表示法，可與體積混合比近似對應。",
     "source_url": "https://glossary.ametsoc.org/wiki/mole_fraction_of_water_vapor"
   },
   {
     "english": "molecular weight",
     "traditional_chinese": "分子量",
-    "definition_cht": "指與「分子量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "傳統上指分子的相對質量，為組成該分子各原子相對原子量的總和；現代較精確用語常區分為分子質量或相對分子質量。",
     "source_url": "https://glossary.ametsoc.org/wiki/molecular_weight"
   },
   {
     "english": "molecular-scale temperature",
     "traditional_chinese": "分子尺度溫度",
-    "definition_cht": "指與「分子尺度溫度」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "definition_cht": "從分子運動觀點定義的溫度，反映分子平動平均動能所對應的熱狀態。在氣體動力學與統計力學中，溫度可視為微觀粒子能量分布的量度。",
     "source_url": "https://glossary.ametsoc.org/wiki/molecular-scale_temperature"
   },
   {
     "english": "Moll thermopile",
-    "traditional_chinese": "摩爾熱電堆",
-    "definition_cht": "指與「摩爾熱電堆」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Moll 熱電堆",
+    "definition_cht": "以多個熱電偶串接成的輻射感測元件或儀器，用於量測太陽輻射或熱輻射通量。其工作原理為受熱端與參考端之間的溫差所產生的熱電勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/Moll_thermopile"
   },
   {
     "english": "mollisol",
-    "traditional_chinese": "軟土",
-    "definition_cht": "指與「軟土」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "軟土綱",
+    "definition_cht": "美國土壤分類系統中的一個土綱，特徵為具有深厚、深色且富含有機質的 mollic epipedon，常形成於草原植被下，天然肥力較高。",
     "source_url": "https://glossary.ametsoc.org/wiki/mollisol"
   },
   {
     "english": "mollition",
-    "traditional_chinese": "莫利尼申",
-    "definition_cht": "指與「莫利尼申」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "mollition",
+    "definition_cht": "目前未查得可交叉驗證且一致的可靠氣象或地球科學術語定義；現有可見資料極少，疑為歷史性、地方性或轉錄有誤之條目。宜暫保留原文，待原始出處進一步確認。",
     "source_url": "https://glossary.ametsoc.org/wiki/mollition"
   },
   {
     "english": "moment",
-    "traditional_chinese": "片刻",
-    "definition_cht": "指與「片刻」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "矩",
+    "definition_cht": "數學與物理中描述某種分布相對基準點之大小、位置或形狀的量，通常以變數乘其位置、次方或權重後求和或積分表示。在統計、力學與輻射傳輸等領域皆常使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/moment"
   },
   {
     "english": "moment of inertia",
-    "traditional_chinese": "慣性矩",
-    "definition_cht": "指與「慣性矩」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "轉動慣量",
+    "definition_cht": "物體繞特定軸旋轉時對角速度改變的抗拒程度，取決於質量大小及其相對於旋轉軸的分布。其在轉動運動中的角色，相當於平移運動中的質量。",
     "source_url": "https://glossary.ametsoc.org/wiki/moment_of_inertia"
   },
   {
     "english": "momentum",
     "traditional_chinese": "動量",
-    "definition_cht": "指與「動量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "物體質量與速度的乘積，為具有大小與方向的向量物理量。在大氣與海洋中，動量的輸送與交換是風場、洋流與亂流演變的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/momentum"
   },
   {
     "english": "momentum flux",
     "traditional_chinese": "動量通量",
-    "definition_cht": "指單位時間穿過單位面積之「動量通量」通量，用於量化質量、能量或動量輸送。",
+    "definition_cht": "單位時間內穿過單位面積的動量輸送量，可由平均流、亂流或波動所攜帶。在邊界層氣象中常用來表示剪應力與垂直動量交換強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/momentum_flux"
   },
   {
     "english": "momentum transfer",
     "traditional_chinese": "動量傳遞",
-    "definition_cht": "指與「動量傳遞」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "動量因分子碰撞、亂流混合、波動或不同流體之間的交互作用，而由一處或一個系統傳送至另一處的過程。對風應力、摩擦效應與邊界層結構十分重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/momentum_transfer"
   },
   {
     "english": "Monin-obukhov similarity theory",
-    "traditional_chinese": "莫寧-奧布霍夫相似理論",
-    "definition_cht": "指與「莫寧-奧布霍夫相似理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "莫寧－奧布霍夫相似理論",
+    "definition_cht": "描述大氣地表層在非中性穩定條件下，平均風速、溫度及亂流通量之無因次關係的經驗理論。其核心尺度包含摩擦速度、溫度尺度與莫寧－奧布霍夫長度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Monin-obukhov_similarity_theory"
   },
   {
     "english": "monochromatic",
-    "traditional_chinese": "單色",
-    "definition_cht": "指與「單色」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "單色的",
+    "definition_cht": "形容輻射、光或電磁波僅具有單一波長或極窄頻帶的性質。在理想情況下指單一頻率，但實際儀器常僅能近似達成。",
     "source_url": "https://glossary.ametsoc.org/wiki/monochromatic"
   },
   {
     "english": "monochromatic radiation",
     "traditional_chinese": "單色輻射",
-    "definition_cht": "指與「單色輻射」相關的輻射傳輸、能量收支或電磁波放射現象。",
+    "definition_cht": "僅由單一波長或單一頻率所組成的理想化電磁輻射。於輻射傳輸、光譜分析與遙測理論中，常用作描述窄波段能量分布的基本概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/monochromatic_radiation"
   },
   {
