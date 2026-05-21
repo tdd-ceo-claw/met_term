@@ -50,122 +50,122 @@
   {
     "english": "Nansen bottle",
     "traditional_chinese": "南森採水瓶",
-    "definition_cht": "「南森採水瓶」為海洋或水文觀測中用於採集特定深度水樣的器具，常配合剖面觀測使用。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Nansen_bottle"
+    "definition_cht": "海洋或湖泊觀測中用於採集特定深度水樣的採水器，通常沿纜繩下放至目標深度後翻轉關閉，並可配合顛倒溫度計取得該深度水文資料。",
+    "source_url": "https://en.wikipedia.org/wiki/Nansen_bottle"
   },
   {
     "english": "Nansen cast",
-    "traditional_chinese": "南森瓶下放觀測",
-    "definition_cht": "「南森瓶下放觀測」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Nansen_cast"
+    "traditional_chinese": "南森採水瓶剖面觀測",
+    "definition_cht": "以一個或多個南森採水瓶沿纜繩下放至不同深度，依序翻轉取樣並常同時讀取溫度的海洋水文剖面觀測作業。",
+    "source_url": "https://glossary.ametsoc.org/wiki/nansen-cast"
   },
   {
     "english": "nappe",
-    "traditional_chinese": "納佩",
-    "definition_cht": "「納佩」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "越流水舌",
+    "definition_cht": "在堰、溢洪道或跌水構造上，水流越過堰頂後形成的薄層片狀水流或水幕；其形態受流量、通氣與下游水位影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/nappe"
   },
   {
     "english": "narbonnais",
-    "traditional_chinese": "納博內",
-    "definition_cht": "「納博內」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "納博內風",
+    "definition_cht": "法國地中海沿岸納博內（Narbonne）一帶的地方風名，屬區域性風系用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/narbonnais"
   },
   {
     "english": "narrow-sector recorder",
     "traditional_chinese": "窄扇區記錄儀",
-    "definition_cht": "「窄扇區記錄儀」為可連續記錄特定環境變數或觀測結果之儀器，有助於掌握時間變化特性。",
-    "source_url": "https://glossary.ametsoc.org/wiki/narrow-sector_recorder"
+    "definition_cht": "一種只接收有限方位扇區內大氣電訊號的無線電測向記錄器；天線通常連續旋轉，並將 atmospherics（sferics）來向自動記錄下來。",
+    "source_url": "https://glossary.ametsoc.org/wiki/narrow-sector-recorder"
   },
   {
     "english": "narrowband radiation",
     "traditional_chinese": "窄頻輻射",
-    "definition_cht": "「窄頻輻射」指輻射能量之發射、傳輸、吸收或收支相關概念，常用於大氣輻射、地表能量平衡與遙測分析。",
-    "source_url": "https://glossary.ametsoc.org/wiki/narrowband_radiation"
+    "definition_cht": "指能量集中於狹窄波長或頻率範圍內的電磁輻射；常見於光譜量測、遙測反演與選頻輻射分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/narrowband-radiation"
   },
   {
     "english": "NASA Scatterometer",
-    "traditional_chinese": "美國太空總署散射儀",
-    "definition_cht": "「美國太空總署散射儀」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NASA_Scatterometer"
+    "traditional_chinese": "NASA 散射儀",
+    "definition_cht": "通常指 NASA Scatterometer（NSCAT），為搭載於 ADEOS 衛星上的主動式微波雷達散射儀，利用海面回波反演海上近地面風速與風向。",
+    "source_url": "https://www.eorc.jaxa.jp/ADEOS/Project/Nscat.html"
   },
   {
     "english": "National Ambient Air Quality Standards",
     "traditional_chinese": "國家環境空氣品質標準",
-    "definition_cht": "「國家環境空氣品質標準」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/National_Ambient_Air_Quality_Standards"
+    "definition_cht": "美國環保署依《清淨空氣法》訂定之室外空氣品質標準，針對危害健康與公共福祉的主要污染物設定濃度限值與管理依據。",
+    "source_url": "https://www.epa.gov/naaqs"
   },
   {
     "english": "national standard barometer",
     "traditional_chinese": "國家標準氣壓計",
-    "definition_cht": "「國家標準氣壓計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/national_standard_barometer"
+    "definition_cht": "由國家氣象或計量機構保存之基準氣壓計，用作壓力測量的最高參考標準，供各類工作用氣壓計比對與校正。",
+    "source_url": "https://glossary.ametsoc.org/wiki/national-standard-barometer"
   },
   {
     "english": "National Tidal Datum Epoch",
     "traditional_chinese": "全國潮汐基準曆元",
-    "definition_cht": "「全國潮汐基準曆元」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/National_Tidal_Datum_Epoch"
+    "definition_cht": "美國國家海洋局用以蒐集水位觀測並計算平均海平面、平均低低潮面等潮位基準的 19 年標準時段，需定期更新以反映長期海面變化。",
+    "source_url": "https://www.tidesandcurrents.noaa.gov/datum-updates/ntde/"
   },
   {
     "english": "natural control",
-    "traditional_chinese": "自然控制",
-    "definition_cht": "「自然控制」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_control"
+    "traditional_chinese": "天然控制斷面",
+    "definition_cht": "河道中由天然地形或坡度條件形成、可使該處或上游水位穩定反映流量的控制條件；常見於坡度由緩轉陡並出現臨界水深的位置。",
+    "source_url": "https://glossary.ametsoc.org/wiki/natural-control"
   },
   {
     "english": "natural coordinates",
     "traditional_chinese": "自然座標",
-    "definition_cht": "「自然座標」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_coordinates"
+    "definition_cht": "沿流線、軌跡或路徑方向建立的座標系，通常以切向與法向為軸，用於分析運動速度、曲率與加速度分量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/natural-coordinates"
   },
   {
     "english": "natural flow",
-    "traditional_chinese": "自然流動",
-    "definition_cht": "「自然流動」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_flow"
+    "traditional_chinese": "天然流況",
+    "definition_cht": "未受水庫調節、引水、回灌、抽取或其他人為工程顯著改變前之河川或渠道流量狀態，用以表示自然條件下的流況。",
+    "source_url": "https://glossary.ametsoc.org/wiki/natural-flow"
   },
   {
     "english": "natural frequency",
     "traditional_chinese": "固有頻率",
-    "definition_cht": "「固有頻率」表示週期性現象在單位時間內發生的次數，亦可用於描述訊號、波動或事件出現特性。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_frequency"
+    "definition_cht": "振動或振盪系統在不受持續外力驅動時最自然傾向出現的頻率；當外加激發頻率接近此值時，常易發生共振。",
+    "source_url": "https://en.wikipedia.org/wiki/Natural_frequency"
   },
   {
     "english": "natural remanent magnetization",
     "traditional_chinese": "自然剩磁",
-    "definition_cht": "「自然剩磁」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_remanent_magnetization"
+    "definition_cht": "岩石、沉積物或考古材料在地質形成與後續自然作用中所獲得並保留下來的剩餘磁化，可用於古地磁與地質年代研究。",
+    "source_url": "https://en.wikipedia.org/wiki/Natural_remanent_magnetization"
   },
   {
     "english": "natural sulfur cycle",
     "traditional_chinese": "自然硫循環",
-    "definition_cht": "「自然硫循環」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_sulfur_cycle"
+    "definition_cht": "硫在岩石、土壤、水體、生物與大氣之間，經由氧化、還原、揮發、沉降與生物作用等過程進行的天然生地球化學循環。",
+    "source_url": "https://en.wikipedia.org/wiki/Sulfur_cycle"
   },
   {
     "english": "natural synoptic period",
-    "traditional_chinese": "自然天氣週期",
-    "definition_cht": "「自然天氣週期」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_synoptic_period"
+    "traditional_chinese": "自然綜觀期",
+    "definition_cht": "在廣大區域內，某一特定綜觀天氣型態之主要特徵能持續維持的那段時間。",
+    "source_url": "https://glossary.ametsoc.org/wiki/natural-synoptic-period"
   },
   {
     "english": "natural synoptic region",
-    "traditional_chinese": "自然天氣區域",
-    "definition_cht": "「自然天氣區域」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_synoptic_region"
+    "traditional_chinese": "自然綜觀區",
+    "definition_cht": "地球上某一大片區域，其綜觀過程具有明確且相對獨立的特徵，不受其他區域綜觀過程直接支配；此語曾用於前蘇聯長期預報。",
+    "source_url": "https://glossary.ametsoc.org/wiki/natural-synoptic-region"
   },
   {
     "english": "natural synoptic season",
-    "traditional_chinese": "自然天氣季節",
-    "definition_cht": "「自然天氣季節」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
-    "source_url": "https://glossary.ametsoc.org/wiki/natural_synoptic_season"
+    "traditional_chinese": "自然綜觀季節",
+    "definition_cht": "一年中某一時段，在廣大區域內由特定類型的綜觀天氣條件所主導；此語曾用於前蘇聯長期預報。",
+    "source_url": "https://glossary.ametsoc.org/wiki/natural-synoptic-season"
   },
   {
     "english": "naulu",
-    "traditional_chinese": "諾魯",
-    "definition_cht": "「諾魯」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/naulu"
+    "traditional_chinese": "納烏魯風雨",
+    "definition_cht": "夏威夷傳統氣象用語，指由海上帶來並常伴隨降雨的地方性風雨；在部分島嶼傳統中亦作特定季節風雨現象之名。",
+    "source_url": "https://hilo.hawaii.edu/chancellor/stories/2023/05/19/word-of-the-week-naulu/"
   },
   {
     "english": "nautical mile",
