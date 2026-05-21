@@ -31016,121 +31016,121 @@
   {
     "english": "Mathtest",
     "traditional_chinese": "數學測驗",
-    "definition_cht": "指與「數學測驗」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "此詞一般意為「數學測驗」，未見其作為標準氣象學術語的可靠用例；若出現在資料集中，多半屬一般教育或文件雜訊，應依原始語境另行判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mathtest"
   },
   {
     "english": "matinal",
-    "traditional_chinese": "馬丁納爾",
-    "definition_cht": "指與「馬丁納爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "晨間的",
+    "definition_cht": "一般英語形容詞，指與早晨有關、發生於清晨或晨間的；未見其作為標準氣象專門術語單獨使用，若用於科學敘述，通常僅表示晨間現象或晨間觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/matinal"
   },
   {
     "english": "mauka breeze",
-    "traditional_chinese": "莫卡微風",
-    "definition_cht": "指與「莫卡微風」相關的局地環流，通常由熱力差異或地形效應所驅動。",
+    "traditional_chinese": "向山海風",
+    "definition_cht": "夏威夷用語中 mauka 指「朝山側、向內陸」；mauka breeze 可指白天地表受熱後，自海面吹向陸地並朝山地方向推進的局地風，性質近似海風或海風沿坡上行的分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/mauka_breeze"
   },
   {
     "english": "Maunder minimum",
-    "traditional_chinese": "蒙德極小值",
-    "definition_cht": "指與「蒙德極小值」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "蒙德極小期",
+    "definition_cht": "指約西元1645年至1715年間太陽黑子活動異常稀少的一段長期低活動期，常用於太陽變率、太陽—地球關係及歷史氣候研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Maunder_minimum"
   },
   {
     "english": "maximum",
-    "traditional_chinese": "最大限度",
-    "definition_cht": "指與「最大限度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "最大值",
+    "definition_cht": "指某一變數、函數或觀測量在指定範圍、時段或條件下所能達到或實際達到的最高數值；在氣象中常用於最高溫、最大風速或最大降水量等指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum"
   },
   {
     "english": "maximum contaminant level",
-    "traditional_chinese": "最大污染物水平",
-    "definition_cht": "指與「最大污染物水平」相關的特徵層位、標準層、診斷高度或強度分級。",
+    "traditional_chinese": "最大污染物容許濃度",
+    "definition_cht": "指法規或標準對飲用水中某一污染物所訂定、可容許的最高濃度上限；超過此值通常表示水質不符合管制要求。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum_contaminant_level"
   },
   {
     "english": "maximum entropy method",
     "traditional_chinese": "最大熵法",
-    "definition_cht": "指處理「最大熵法」相關問題的分析、估算、模擬、分類或推算方法。",
+    "definition_cht": "一種依最大熵原理建立的估計方法，常用於頻譜估計、訊號分析與統計反演；在已知部分限制條件下，選取對未知資訊最少預設的分布或頻譜。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum_entropy_method"
   },
   {
     "english": "maximum possible sunshine duration",
-    "traditional_chinese": "最大可能日照時間",
-    "definition_cht": "指與「最大可能日照時間」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "最大可能日照時數",
+    "definition_cht": "指在天文條件下、若無雲遮蔽且地平線無阻擋時，某地於指定日期理論上可獲得的最長日照時數，通常近似該日可照時長。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum_possible_sunshine_duration"
   },
   {
     "english": "maximum temperature",
-    "traditional_chinese": "最高溫度",
-    "definition_cht": "指與「最高溫度」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "traditional_chinese": "最高氣溫",
+    "definition_cht": "指某一指定期間內所觀測到的最高氣溫，常見統計區間為日、12小時、6小時或24小時；日最高氣溫即通常所稱的當日高溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum_temperature"
   },
   {
     "english": "maximum thermometer",
     "traditional_chinese": "最高溫度計",
-    "definition_cht": "指與「最高溫度計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "用於記錄觀測期間內最高溫度的溫度計；達到峰值後可保留最高讀值，供氣象觀測或環境監測使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum_thermometer"
   },
   {
     "english": "maximum unambiguous range",
-    "traditional_chinese": "最大明確範圍",
-    "definition_cht": "指與「最大明確範圍」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "最大無模糊距離",
+    "definition_cht": "指脈衝雷達可在不發生距離混疊的情況下，明確判定回波實際距離的最遠量測範圍；其大小受脈衝重複頻率影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum_unambiguous_range"
   },
   {
     "english": "maximum unambiguous velocity",
-    "traditional_chinese": "最大明確速度",
-    "definition_cht": "指與「最大明確速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "最大無模糊速度",
+    "definition_cht": "指脈衝都卜勒雷達可不產生速度折返（aliasing）而明確量得的最高徑向速度；超過此值時，實際速度會以錯誤速度顯示。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum_unambiguous_velocity"
   },
   {
     "english": "maximum zonal westerlies",
     "traditional_chinese": "最大緯向西風帶",
-    "definition_cht": "指與「最大緯向西風帶」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指中緯度西風帶中，西風緯向分量達到最大值的緯度帶或區域，常用於描述高空西風急流或平均環流中的最強西風核心。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum_zonal_westerlies"
   },
   {
     "english": "maximum-wind and shear chart",
-    "traditional_chinese": "最大風速和切變圖",
-    "definition_cht": "指與「最大風速和切變圖」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "最大風速與風切圖",
+    "definition_cht": "一種航空氣象分析或預報圖，用以標示最大風速所在區域、相關風向風速分布，以及伴隨的風切變資訊，供高空航路與飛航天氣判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum-wind_and_shear_chart"
   },
   {
     "english": "maximum-wind level",
-    "traditional_chinese": "最大風力",
-    "definition_cht": "指與「最大風力」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "最大風速層",
+    "definition_cht": "指大氣垂直剖面中風速達最大值的高度或氣壓層，常與噴流核心附近的最強風區相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum-wind_level"
   },
   {
     "english": "maximum-wind topography",
-    "traditional_chinese": "最大風力地形",
-    "definition_cht": "指與「最大風力地形」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "最大風速地形圖",
+    "definition_cht": "指描繪最大風速層高度、分布形態或其空間起伏的分析圖；常用以呈現最強風帶在水平面上的配置，並輔助判讀噴流與風場結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/maximum-wind_topography"
   },
   {
     "english": "Maxwell–Boltzmann distribution",
-    "traditional_chinese": "麥克斯韋-玻爾茲曼分佈",
-    "definition_cht": "指與「麥克斯韋-玻爾茲曼分佈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "麥克斯威—波茲曼分布",
+    "definition_cht": "統計力學中的一種機率分布，用以描述處於熱平衡的經典粒子系統之速率、速度或能量分布；在氣體分子運動理論與大氣微觀過程中常作為基礎概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/Maxwell%E2%80%93Boltzmann_distribution"
   },
   {
     "english": "MCC",
-    "traditional_chinese": "中冶集團",
-    "definition_cht": "「MCC」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "中尺度對流複合體",
+    "definition_cht": "Mesoscale Convective Complex 的縮寫。指在紅外衛星雲圖上具有特定面積、持續時間與近圓形雲盾條件的大型中尺度對流系統，常伴隨豪雨、強風、冰雹與雷電。",
     "source_url": "https://glossary.ametsoc.org/wiki/MCC"
   },
   {
     "english": "MCS",
-    "traditional_chinese": "MCS",
-    "definition_cht": "「MCS」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "中尺度對流系統",
+    "definition_cht": "Mesoscale Convective System 的縮寫。指由多個雷暴組織成、尺度大於單一對流胞而小於溫帶氣旋，且通常可持續數小時以上的對流天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/MCS"
   },
   {
     "english": "Mean",
-    "traditional_chinese": "意思是",
-    "definition_cht": "指與「意思是」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "平均值",
+    "definition_cht": "指一組資料的算術平均數，亦可泛指兩個極端值之間的中間量；在氣象中常用於平均氣溫、平均風速、平均降水量等統計量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mean"
   },
   {
