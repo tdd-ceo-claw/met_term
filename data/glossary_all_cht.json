@@ -30535,122 +30535,122 @@
   },
   {
     "english": "magnetic double refraction",
-    "traditional_chinese": "磁性雙折射",
-    "definition_cht": "指與「磁性雙折射」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "磁致雙折射",
+    "definition_cht": "亦稱磁性雙折射或 Voigt 效應，指介質在磁場作用下對不同偏振方向呈現不同折射率，因而使線偏振光產生相位差或偏振態改變的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetic_double_refraction"
   },
   {
     "english": "magnetic field intensity",
     "traditional_chinese": "磁場強度",
-    "definition_cht": "指與「磁場強度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "表示磁場強弱與方向的向量物理量；在電磁學中常以 H 表示，並與磁感應強度 B 有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetic_field_intensity"
   },
   {
     "english": "magnetic induction",
     "traditional_chinese": "磁感應強度",
-    "definition_cht": "指與「磁感應強度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "即磁通密度，通常以 B 表示，用來描述磁場在空間中的強度與方向，單位為特斯拉。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetic_induction"
   },
   {
     "english": "magnetic lines of force",
     "traditional_chinese": "磁力線",
-    "definition_cht": "指與「磁力線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "用以形象表示磁場方向與分布的假想曲線，其切線方向即該處磁場方向，線越密代表磁場越強。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetic_lines_of_force"
   },
   {
     "english": "magnetic north",
     "traditional_chinese": "磁北",
-    "definition_cht": "指與「磁北」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由地球磁場所指示的北向；指南針北端所指方向即為磁北，通常與地理北極方向存在磁偏角差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetic_north"
   },
   {
     "english": "Magnetic storm",
     "traditional_chinese": "磁暴",
-    "definition_cht": "指與「磁暴」相關的風暴、劇烈天氣系統或對流組織。",
+    "definition_cht": "由太陽風或日冕物質拋射擾動地球磁層所引發的短期劇烈地磁變化現象，會影響電離層、通訊、導航與電力系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/Magnetic_storm"
   },
   {
     "english": "magnetic wind direction",
     "traditional_chinese": "磁風向",
-    "definition_cht": "指與「磁風向」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "definition_cht": "以磁北為基準量得的風向，與以真北為基準的真風向不同，兩者差異取決於當地磁偏角。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetic_wind_direction"
   },
   {
     "english": "magneto anemometer",
-    "traditional_chinese": "磁風速計",
-    "definition_cht": "指與「磁風速計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "磁式風速計",
+    "definition_cht": "利用磁性元件、感應訊號或磁電轉換機制記錄風杯或風輪轉速，進而測定風速的風速計。",
     "source_url": "https://glossary.ametsoc.org/wiki/magneto_anemometer"
   },
   {
     "english": "magneto-ionic theory",
     "traditional_chinese": "磁離子理論",
-    "definition_cht": "指與「磁離子理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "描述電磁波在受地磁場影響之電離氣體中傳播、折射、分裂與偏振特性的理論，常用於電離層與無線電傳播研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/magneto-ionic_theory"
   },
   {
     "english": "magnetograph",
-    "traditional_chinese": "磁力儀",
-    "definition_cht": "指與「磁力儀」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "自記磁力儀",
+    "definition_cht": "可連續記錄磁場強度、方向或其變化的磁場觀測儀器，常用於地磁與太陽磁場監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetograph"
   },
   {
     "english": "magnetohydrodynamic wave",
     "traditional_chinese": "磁流體動力波",
-    "definition_cht": "指與「磁流體動力波」相關的波動、擾動或傳播現象，涉及振幅、相速與能量傳遞特性。",
+    "definition_cht": "在導電流體或電漿中，由磁場與流體運動耦合所形成的波動，典型例子包括阿爾芬波與磁聲波。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetohydrodynamic_wave"
   },
   {
     "english": "magnetohydrodynamics",
     "traditional_chinese": "磁流體力學",
-    "definition_cht": "指與「磁流體力學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "研究導電流體或電漿與磁場交互作用之力學與電磁行為的學科，廣用於太空物理、地球物理與天體物理。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetohydrodynamics"
   },
   {
     "english": "magnetometer",
     "traditional_chinese": "磁力計",
-    "definition_cht": "量測磁場強度或方向的儀器，廣用於地磁監測、太空物理與地球科學觀測。",
+    "definition_cht": "用於量測磁場強度、方向或其時間變化的儀器，廣泛應用於地磁、海洋、太空與地球物理觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetometer"
   },
   {
     "english": "magnetopause",
     "traditional_chinese": "磁層頂",
-    "definition_cht": "指與「磁層頂」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "地球磁層與太陽風之間的邊界面，其位置受太陽風動壓與地球磁場強弱共同控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetopause"
   },
   {
     "english": "magnetosphere",
     "traditional_chinese": "磁層",
-    "definition_cht": "指與「磁層」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "地球或其他天體周圍由其內禀磁場主導、可偏轉帶電粒子與太陽風的空間區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetosphere"
   },
   {
     "english": "magnetospheric convection",
     "traditional_chinese": "磁層對流",
-    "definition_cht": "指與「磁層對流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "受太陽風—磁層交互作用驅動，磁層內電漿與磁通量發生大尺度輸送與循環的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetospheric_convection"
   },
   {
     "english": "magnetron",
     "traditional_chinese": "磁控管",
-    "definition_cht": "指與「磁控管」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在磁場控制下產生高功率微波的真空電子管，常用於雷達、微波加熱與部分通訊設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetron"
   },
   {
     "english": "main lobe",
     "traditional_chinese": "主瓣",
-    "definition_cht": "指與「主瓣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "天線、雷達或輻射方向圖中能量最集中、增益最大的主要波束部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/main_lobe"
   },
   {
     "english": "main meteorological office",
-    "traditional_chinese": "主要氣象局",
-    "definition_cht": "指與「主要氣象局」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "主氣象台",
+    "definition_cht": "在國家或區域氣象業務體系中負責統籌觀測、預報、通訊或行政協調的主要氣象機構。",
     "source_url": "https://glossary.ametsoc.org/wiki/main_meteorological_office"
   },
   {
     "english": "Main Page",
-    "traditional_chinese": "首頁",
-    "definition_cht": "指與「首頁」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "主頁",
+    "definition_cht": "指網站、資料庫或詞彙系統的入口首頁，用於連結主要內容與導覽功能。",
     "source_url": "https://glossary.ametsoc.org/wiki/Main_Page"
   },
   {
