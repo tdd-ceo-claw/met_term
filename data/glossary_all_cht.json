@@ -31730,121 +31730,121 @@
   {
     "english": "mesophyte",
     "traditional_chinese": "中生植物",
-    "definition_cht": "指與「中生植物」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指適應中等水分環境的陸生植物，生育條件既非極乾旱也非長期積水，常作為乾生植物與濕生植物之間的對比類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesophyte"
   },
   {
     "english": "mesoscale",
     "traditional_chinese": "中尺度",
-    "definition_cht": "介於綜觀尺度與微尺度之間的空間尺度範圍，常涵蓋海風、雷暴系統與地形環流等現象。",
+    "definition_cht": "指介於微尺度與綜觀尺度之間的大氣現象尺度，水平範圍約為數公里至數百公里，常見於海風、山谷風、雷暴群與局地對流系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoscale"
   },
   {
     "english": "mesoscale cellular convection",
-    "traditional_chinese": "中尺度細胞對流",
-    "definition_cht": "指與「中尺度細胞對流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度蜂巢狀對流",
+    "definition_cht": "指在中尺度範圍內由許多對流單元排列成開放或封閉蜂巢狀的對流型態，常見於海洋邊界層雲場，反映浮力對流與邊界層環流的組織化結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoscale_cellular_convection"
   },
   {
     "english": "mesoscale convective complex",
     "traditional_chinese": "中尺度對流複合體",
-    "definition_cht": "指與「中尺度對流複合體」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一種範圍大、壽命長且在衛星紅外雲圖上呈近圓形雲盾的中尺度對流系統，常伴隨廣泛降雨、強風、冰雹，並可能引發龍捲風。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoscale_convective_complex"
   },
   {
     "english": "mesoscale convective system",
     "traditional_chinese": "中尺度對流系統",
-    "definition_cht": "指與「中尺度對流系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由多個雷暴單體組織而成、尺度大於單一對流胞且可持續數小時以上的對流系統，常呈線狀或團塊狀，並可帶來強降雨、雷電與陣風。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoscale_convective_system"
   },
   {
     "english": "Mesoscale convective vortex",
     "traditional_chinese": "中尺度對流渦旋",
-    "definition_cht": "指與「中尺度對流渦旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在中尺度對流系統內部或其衰減後形成的中層渦旋環流，尺度通常為數十至數百公里，能維持數小時至一天以上，並可能再度觸發對流與豪雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mesoscale_convective_vortex"
   },
   {
     "english": "mesoscale disturbance",
     "traditional_chinese": "中尺度擾動",
-    "definition_cht": "指與「中尺度擾動」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指發生於中尺度範圍內的氣壓、風場、溫度或濕度擾動，可作為對流發展、降水組織化或局地天氣變化的重要觸發機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoscale_disturbance"
   },
   {
     "english": "mesoscale model",
-    "traditional_chinese": "介觀模型",
-    "definition_cht": "用於表示「介觀模型」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "中尺度模式",
+    "definition_cht": "專為模擬中尺度大氣過程而設計的數值天氣模式，可解析地形效應、海陸風、對流系統及局地環流等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoscale_model"
   },
   {
     "english": "mesosphere",
     "traditional_chinese": "中氣層",
-    "definition_cht": "位於平流層之上、熱層之下的大氣層，氣溫通常隨高度遞減。",
+    "definition_cht": "位於平流層之上、熱層之下的大氣層，約自 50 公里延伸至 80 至 90 公里高度，氣溫通常隨高度增加而降低。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesosphere"
   },
   {
     "english": "mesosphere–stratosphere–troposphere radar",
-    "traditional_chinese": "中間層-平流層-對流層雷達",
-    "definition_cht": "指與「中間層-平流層-對流層雷達」相關的雷達系統、雷達觀測或遙測產品。",
+    "traditional_chinese": "中氣層－平流層－對流層雷達",
+    "definition_cht": "一種高頻或甚高頻大氣剖風雷達，利用大氣折射率不均所造成的散射回波，遙測對流層、平流層至中氣層的風場、湍流與波動結構；常簡稱為 MST radar。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesosphere%E2%80%93stratosphere%E2%80%93troposphere_radar"
   },
   {
     "english": "mesospheric jet",
-    "traditional_chinese": "中間層噴流",
-    "definition_cht": "指與「中間層噴流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中氣層噴流",
+    "definition_cht": "指出現在中氣層中的狹長強風帶或局部風速極大區，常與潮汐、重力波及季節性大氣環流變化有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesospheric_jet"
   },
   {
     "english": "mesotherm",
-    "traditional_chinese": "中溫",
-    "definition_cht": "指與「中溫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中溫動物",
+    "definition_cht": "指體溫調節策略介於外溫動物與內溫動物之間的動物，其體溫部分仰賴代謝產熱、部分受外界環境影響；此詞多用於生理生態學。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesotherm"
   },
   {
     "english": "mesothermal",
-    "traditional_chinese": "中溫",
-    "definition_cht": "指與「中溫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中溫的；溫帶的",
+    "definition_cht": "形容溫度條件屬中等、溫和或近溫帶性質；在氣候學中常用來指非嚴寒且非熱帶的溫帶氣候特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesothermal"
   },
   {
     "english": "mesothermal climate",
     "traditional_chinese": "中溫氣候",
-    "definition_cht": "指「中溫氣候」所對應的氣候類型、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "指溫度條件屬中等的氣候類型，通常對應溫帶或暖溫帶氣候，冬季不若寒帶嚴酷，夏季則可溫暖至炎熱。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesothermal_climate"
   },
   {
     "english": "messenger",
-    "traditional_chinese": "信差",
-    "definition_cht": "指與「信差」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "牽引繩；導引索",
+    "definition_cht": "指用於先行牽引較重纜線、儀器或探測裝置的細繩或導引索；在海事、工程與觀測作業中，常作為主纜、探空器材或其他裝備的先導線。",
     "source_url": "https://glossary.ametsoc.org/wiki/messenger"
   },
   {
     "english": "met",
-    "traditional_chinese": "遇見",
-    "definition_cht": "指與「遇見」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象；氣象學（縮寫）",
+    "definition_cht": "常作為 meteorological 或 meteorology 的縮寫，用於氣象報文、航空氣象、觀測代碼、產品名稱或專業文件中。",
     "source_url": "https://glossary.ametsoc.org/wiki/met"
   },
   {
     "english": "metadata",
-    "traditional_chinese": "元數據",
-    "definition_cht": "指與「元數據」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中介資料",
+    "definition_cht": "描述其他資料之內容、來源、格式、時間、空間範圍、品質或處理方式的結構化資訊，用以協助資料搜尋、理解、管理與交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/metadata"
   },
   {
     "english": "metallic barometer",
     "traditional_chinese": "金屬氣壓計",
-    "definition_cht": "指與「金屬氣壓計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "不使用水銀、而以金屬彈性元件（如空盒）受氣壓變化而形變來測量氣壓的儀器，常見形式為無液氣壓計。",
     "source_url": "https://glossary.ametsoc.org/wiki/metallic_barometer"
   },
   {
     "english": "metamorphosis of snow",
-    "traditional_chinese": "雪的變形",
-    "definition_cht": "指與「雪的變形」相關的降雪現象、雪況條件或積雪特徵。",
+    "traditional_chinese": "雪變質作用",
+    "definition_cht": "指積雪在溫度梯度、水汽遷移、壓實、融化與再凍結等作用下，雪晶形狀、粒徑、密度與層結隨時間改變的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/metamorphosis_of_snow"
   },
   {
     "english": "METAR",
-    "traditional_chinese": "梅塔",
-    "definition_cht": "「METAR」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "機場例行天氣報告（METAR）",
+    "definition_cht": "國際航空通用的例行地面天氣觀測報文格式，用於通報機場或航空站在固定時刻的風、能見度、天氣現象、雲、氣溫、露點與氣壓等資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/METAR"
   },
   {
