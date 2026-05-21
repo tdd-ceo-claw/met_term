@@ -3110,121 +3110,121 @@
   {
     "english": "muggy",
     "traditional_chinese": "悶熱",
-    "definition_cht": "指與「悶熱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "形容近地面空氣溫暖且濕度偏高、令人感到黏膩與不舒適的天氣狀態，常見於高相對溼度且通風不良的環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/muggy"
   },
   {
     "english": "multiannual storage",
-    "traditional_chinese": "多年儲存",
-    "definition_cht": "指與「多年儲存」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "多年調節蓄水",
+    "definition_cht": "指水庫或蓄水系統可跨越一年以上進行蓄放水調節的容量或運作方式，用以把豐水年的水量保留至後續枯水年使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiannual_storage"
   },
   {
     "english": "multiband system",
     "traditional_chinese": "多頻帶系統",
-    "definition_cht": "指與「多頻帶系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指可在兩個以上頻帶或光譜波段運作的觀測、通訊或遙測系統，用以取得不同頻率下的互補資訊並提升資料判讀能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiband_system"
   },
   {
     "english": "multicell convective storm",
-    "traditional_chinese": "多單體對流風暴",
-    "definition_cht": "指與「多單體對流風暴」相關的風暴、劇烈天氣系統或對流組織。",
+    "traditional_chinese": "多胞對流風暴",
+    "definition_cht": "由多個處於不同生命週期的對流胞所組成的雷暴系統；舊胞衰減時新胞持續生成，因此可較單胞雷暴維持更久並產生強風、冰雹或短時強降雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/multicell_convective_storm"
   },
   {
     "english": "multichannel sea surface temperature",
-    "traditional_chinese": "多通道海面溫度",
-    "definition_cht": "指與「多通道海面溫度」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "traditional_chinese": "多通道海表溫度",
+    "definition_cht": "利用衛星多個熱紅外通道的亮溫組合反演而得的海表溫度產品，可藉由不同通道對大氣吸收的敏感度差異減少水氣等影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/multichannel_sea_surface_temperature"
   },
   {
     "english": "multichannel system",
     "traditional_chinese": "多通道系統",
-    "definition_cht": "指與「多通道系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指具有兩個以上獨立資料通道的觀測、傳輸、記錄或處理系統，可同時接收或輸出多組訊號，以提高資訊量與作業效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/multichannel_system"
   },
   {
     "english": "Multifunctional Transport Satellite",
     "traditional_chinese": "多功能運輸衛星",
-    "definition_cht": "指與「多功能運輸衛星」相關的衛星平台、衛星任務或其觀測資料。",
+    "definition_cht": "日本曾運行的地球同步衛星系列，兼具氣象觀測與航空管制支援功能，主要服務東亞與西北太平洋區域，後續由向日葵系列新衛星接替。",
     "source_url": "https://glossary.ametsoc.org/wiki/Multifunctional_Transport_Satellite"
   },
   {
     "english": "multilevel model",
     "traditional_chinese": "多層次模型",
-    "definition_cht": "用於表示「多層次模型」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "definition_cht": "一種處理巢狀或階層式資料的統計模型，可同時描述不同層級上的變異與關聯，例如測站、區域與時間尺度之間的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/multilevel_model"
   },
   {
     "english": "multiparameter radar",
     "traditional_chinese": "多參數雷達",
-    "definition_cht": "指與「多參數雷達」相關的雷達系統、雷達觀測或遙測產品。",
+    "definition_cht": "能同時量測兩種以上雷達變數的雷達系統，例如反射率、徑向速度、譜寬或偏極化參數，用於更完整辨識降水與目標特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiparameter_radar"
   },
   {
     "english": "multipath",
     "traditional_chinese": "多路徑",
-    "definition_cht": "指與「多路徑」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指電磁或聲學訊號經由兩條以上傳播路徑到達接收端的現象，會造成時延、相位差或振幅起伏，並可能降低雷達、導航或通訊量測精度。",
     "source_url": "https://glossary.ametsoc.org/wiki/multipath"
   },
   {
     "english": "multipath transmission",
     "traditional_chinese": "多路徑傳輸",
-    "definition_cht": "指與「多路徑傳輸」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指訊號在傳播過程中經由多條反射、折射或散射路徑抵達接收端的傳輸型態，常導致干涉、衰落與定位誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/multipath_transmission"
   },
   {
     "english": "multiple correlation",
     "traditional_chinese": "多重相關",
-    "definition_cht": "指與「多重相關」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "統計上指一個應變數與一組自變數線性組合之間的相關程度，常以多重相關係數表示，用於評估多變量預報或迴歸模式的解釋能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple_correlation"
   },
   {
     "english": "multiple drift correction",
     "traditional_chinese": "多重漂移校正",
-    "definition_cht": "指與「多重漂移校正」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指對觀測或遙測資料中多種儀器、時間或軌道漂移誤差同時進行估計與修正的程序，以降低長期序列中的系統性偏差。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple_drift_correction"
   },
   {
     "english": "multiple incursion theory",
-    "traditional_chinese": "多重入侵理論",
-    "definition_cht": "指與「多重入侵理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "多重侵入理論",
+    "definition_cht": "用以說明某些海洋、湖泊或沉積環境特徵可能由多次水團或海水侵入事件累積形成的理論觀點，強調侵入過程並非單一次發生。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple_incursion_theory"
   },
   {
     "english": "multiple register",
     "traditional_chinese": "多重暫存器",
-    "definition_cht": "指與「多重暫存器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指具有多個寄存或記錄單元的資料處理裝置，可分別儲存不同通道、不同時間步或不同類型的數值，以支援同步處理與控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple_register"
   },
   {
     "english": "multiple scattering",
     "traditional_chinese": "多重散射",
-    "definition_cht": "指與「多重散射」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指輻射、雷射或雷達波在介質中先後被多個粒子、液滴、冰晶或目標散射的現象；在雲、降水與高光學厚度大氣中尤為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple_scattering"
   },
   {
     "english": "multiple tropopause",
     "traditional_chinese": "多重對流層頂",
-    "definition_cht": "指與「多重對流層頂」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指同一垂直探空剖面中可依遞減率準則辨識出兩個以上對流層頂的現象，常與噴流、鋒面結構或平流層空氣侵入有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple_tropopause"
   },
   {
     "english": "multiple-phase flow",
     "traditional_chinese": "多相流",
-    "definition_cht": "指與「多相流」相關的流動型態、平均流場或輸送結構。",
+    "definition_cht": "指兩種以上不同相態的物質同時流動的流體系統，例如氣液、液固或氣液固混合流；在雲微物理、降水與管流問題中皆可出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple-phase_flow"
   },
   {
     "english": "multiple-purpose reservoir",
     "traditional_chinese": "多用途水庫",
-    "definition_cht": "指與「多用途水庫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "兼具兩種以上功能的水庫，例如供水、灌溉、防洪、發電、航運、遊憩或生態調節，因此其調度需平衡不同用水與防災需求。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple-purpose_reservoir"
   },
   {
     "english": "multiple-trip echo",
     "traditional_chinese": "多程回波",
-    "definition_cht": "指與「多程回波」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "雷達回波在發射端與目標之間經過超過一次往返路徑後才被接收所形成的假象回波，常使訊號顯示於錯誤距離位置，屬雷達偽回波之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/multiple-trip_echo"
   },
   {
