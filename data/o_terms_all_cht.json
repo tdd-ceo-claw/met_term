@@ -20,121 +20,121 @@
   {
     "english": "oberwind",
     "traditional_chinese": "奧伯風",
-    "definition_cht": "「奧伯風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「奧伯風」是德語文獻中使用的地方性風名，指特定地區所稱的一種局地風；現可直接取得的公開參考資料有限，詞義應依原始區域脈絡解讀，不宜泛化為一般高空風或盛行風的通稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/oberwind"
   },
   {
     "english": "objective analysis",
     "traditional_chinese": "客觀分析",
-    "definition_cht": "「客觀分析」指對觀測、模式或遙測資料所進行的系統化分析方法或成果，用於診斷環境場的結構與演變。",
+    "definition_cht": "「客觀分析」指依既定數學或統計程序，將分散的觀測資料與背景場、前次分析或氣候值加以融合，產生連續且格點化的大氣或海洋分析場；其結果不直接依賴分析者個人主觀判斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/objective_analysis"
   },
   {
     "english": "objective forecast",
     "traditional_chinese": "客觀預報",
-    "definition_cht": "「客觀預報」指依據觀測、統計或數值模式對未來大氣或海洋狀態所作之預報產品或方法。",
+    "definition_cht": "「客觀預報」指依固定的數值模式、統計關係或明確演算法所產生的預報，其結果在相同輸入資料下應可重現，不受預報員個人經驗或主觀判讀直接左右。",
     "source_url": "https://glossary.ametsoc.org/wiki/objective_forecast"
   },
   {
     "english": "oblique visual range",
-    "traditional_chinese": "斜視範圍",
-    "definition_cht": "「斜視範圍」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "斜視程",
+    "definition_cht": "「斜視程」又稱斜向能見度，指沿特定傾斜視線方向，觀測者以肉眼恰能辨識目標物的最大距離；常用於航空情境，以區別於水平能見度、垂直能見度與跑道視程。",
     "source_url": "https://glossary.ametsoc.org/wiki/oblique_visual_range"
   },
   {
     "english": "obliquity of the ecliptic",
     "traditional_chinese": "黃道傾角",
-    "definition_cht": "「黃道傾角」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「黃道傾角」是黃道面與地球赤道面之間的夾角，也就是地軸相對公轉軌道面的傾斜程度；其值約為 23.4°，是造成季節變化與太陽高度年變化的重要天文因素。",
     "source_url": "https://glossary.ametsoc.org/wiki/obliquity_of_the_ecliptic"
   },
   {
     "english": "obscuration",
     "traditional_chinese": "遮蔽",
-    "definition_cht": "「遮蔽」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「遮蔽」指因霧、煙、塵、雪或其他遮蔽物使天空或目標物無法清楚看見的現象；在航空氣象中特別常指遮蔽視線或遮斷垂直能見度的各類近地層大氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/obscuration"
   },
   {
     "english": "obscuring phenomenon",
-    "traditional_chinese": "模糊現象",
-    "definition_cht": "「模糊現象」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "遮蔽現象",
+    "definition_cht": "「遮蔽現象」指空氣中懸浮或近地面的粒子、液滴或冰晶聚集到足以明顯降低視程的現象，例如霧、靄、煙、塵、飛雪、沙塵或火山灰等。",
     "source_url": "https://glossary.ametsoc.org/wiki/obscuring_phenomenon"
   },
   {
     "english": "observation well",
-    "traditional_chinese": "觀察井",
-    "definition_cht": "「觀察井」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "觀測井",
+    "definition_cht": "「觀測井」是為量測含水層或地下水狀態而設置的井，用於監測地下水位、水溫、水質或水壓變化，常見於水文地質與地下水資源管理。",
     "source_url": "https://glossary.ametsoc.org/wiki/observation_well"
   },
   {
     "english": "observational day",
-    "traditional_chinese": "觀察日",
-    "definition_cht": "「觀察日」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "觀測日",
+    "definition_cht": "「觀測日」指氣象觀測資料所對應的一個完整統計日；自動觀測系統通常以曆日為準，而每日僅定時觀測一次時，則多指截至該次觀測時刻之前的 24 小時。",
     "source_url": "https://glossary.ametsoc.org/wiki/observational_day"
   },
   {
     "english": "observational error",
     "traditional_chinese": "觀測誤差",
-    "definition_cht": "「觀測誤差」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「觀測誤差」是某一量的觀測值與其真值之間的差異，可來自儀器校準、人為讀值、取樣限制、代表性不足或環境干擾等因素。",
     "source_url": "https://glossary.ametsoc.org/wiki/observational_error"
   },
   {
     "english": "observational network",
     "traditional_chinese": "觀測網",
-    "definition_cht": "「觀測網」指由多個觀測站、感測器、資料節點或計算單元組成的系統，用於資料蒐集、傳輸、分析或預報。",
+    "definition_cht": "「觀測網」指為特定目的而在一定區域內配置的多個觀測站、感測器或平台所組成的系統，用於持續蒐集、交換與整合氣象、水文或環境資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/observational_network"
   },
   {
     "english": "observer",
     "traditional_chinese": "觀測員",
-    "definition_cht": "「觀測員」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「觀測員」指依法或依作業規範執行並記錄氣象觀測的人員，負責判讀天氣現象、操作儀器、整理資料，並將觀測結果及時回報至作業中心。",
     "source_url": "https://glossary.ametsoc.org/wiki/observer"
   },
   {
     "english": "observing systems simulation experiment",
     "traditional_chinese": "觀測系統模擬實驗",
-    "definition_cht": "「觀測系統模擬實驗」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「觀測系統模擬實驗」常縮寫為 OSSE，指先以模式產生擬真大氣或海洋場，再模擬特定觀測系統可取得的資料，藉此評估新觀測資料加入分析或預報系統後的潛在效益。",
     "source_url": "https://glossary.ametsoc.org/wiki/observing_systems_simulation_experiment"
   },
   {
     "english": "obstacle flow signature",
     "traditional_chinese": "障礙流特徵",
-    "definition_cht": "「障礙流特徵」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「障礙流特徵」指都卜勒雷達上所見，強烈雷暴上升氣流區如同障礙物般使中層氣流繞流而形成的速度場訊號；其典型表現為上升氣流兩側流速增強，而下游尾流區流速減弱或反轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/obstacle_flow_signature"
   },
   {
     "english": "obstruction to vision",
     "traditional_chinese": "視線障礙",
-    "definition_cht": "「視線障礙」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「視線障礙」指任何足以降低能見度、妨礙目標辨識或阻礙飛航視覺判讀的天氣或懸浮現象，常包括霧、靄、煙、揚塵、飛雪與強降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/obstruction_to_vision"
   },
   {
     "english": "Obukhov length",
     "traditional_chinese": "奧布霍夫長度",
-    "definition_cht": "「奧布霍夫長度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「奧布霍夫長度」是邊界層氣象中描述浮力與機械剪切對湍流影響相對強弱的特徵長度尺度；其值可用於判別近地層穩定度，通常穩定層結為正、不穩定層結為負，中性層結則趨近無限大。",
     "source_url": "https://glossary.ametsoc.org/wiki/Obukhov_length"
   },
   {
     "english": "occluded cyclone",
-    "traditional_chinese": "閉塞氣旋",
-    "definition_cht": "「閉塞氣旋」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "囚錮氣旋",
+    "definition_cht": "「囚錮氣旋」指已發展出囚錮鋒的中緯度氣旋，通常表示冷鋒已追上暖鋒，暖空氣被抬升離開地面，氣旋進入較成熟或逐漸減弱的發展階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/occluded_cyclone"
   },
   {
     "english": "occluded depression",
-    "traditional_chinese": "閉塞性凹陷",
-    "definition_cht": "「閉塞性凹陷」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "囚錮低壓",
+    "definition_cht": "「囚錮低壓」指已有囚錮鋒形成的低壓系統，也就是冷鋒追上暖鋒後，暖區在地面分析上被切離的低壓中心。",
     "source_url": "https://glossary.ametsoc.org/wiki/occluded_depression"
   },
   {
     "english": "occluded front",
     "traditional_chinese": "囚錮鋒",
-    "definition_cht": "「囚錮鋒」為不同性質氣團或水團之間的過渡帶或鋒面結構，常伴隨風場、溫度、濕度與降水分布的顯著變化。",
+    "definition_cht": "「囚錮鋒」是冷鋒追上暖鋒後形成的鋒面，此時暖空氣被抬升離開地面，低壓中心附近的地面分析轉為冷、暖空氣直接相接；常伴隨廣泛雲系、降水與風向轉變。",
     "source_url": "https://glossary.ametsoc.org/wiki/occluded_front"
   },
   {
     "english": "occlusion",
     "traditional_chinese": "囚錮作用",
-    "definition_cht": "「囚錮作用」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「囚錮作用」指中緯度氣旋發展過程中冷鋒追上暖鋒、使暖空氣自地面抬升並形成囚錮鋒的過程，為鋒面氣旋邁向成熟的重要階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/occlusion"
   },
   {
