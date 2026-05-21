@@ -1,0 +1,22 @@
+[
+  {"english":"Mellor–Yamada parameterization","checks":["https://en.wikipedia.org/wiki/Planetary_boundary_layer#Closure_models","https://www.ecmwf.int/en/elibrary/74795-parametrization-planetary-boundary-layer"]},
+  {"english":"melt pond","checks":["https://en.wikipedia.org/wiki/Melt_pond","https://nsidc.org/learn/parts-cryosphere/sea-ice/melt-ponds"]},
+  {"english":"meltém","checks":["https://en.wikipedia.org/wiki/Etesians","https://en.wikipedia.org/wiki/Meltem"]},
+  {"english":"melting layer","checks":["https://en.wikipedia.org/wiki/Bright_band","https://training.weather.gov/wdtd/courses/rac/Interpretation/interpret-radarsignatures/story_content/external_files/Bright_Band.pdf"]},
+  {"english":"melting level","checks":["https://forecast.weather.gov/glossary.php?word=freezing+level","https://en.wikipedia.org/wiki/Bright_band"]},
+  {"english":"melting point","checks":["https://en.wikipedia.org/wiki/Melting_point","https://www.britannica.com/science/melting-point"]},
+  {"english":"Membership function","checks":["https://en.wikipedia.org/wiki/Fuzzy_set#Membership","https://mathworld.wolfram.com/FuzzySet.html"]},
+  {"english":"meniscus","checks":["https://en.wikipedia.org/wiki/Meniscus_(liquid)","https://www.britannica.com/science/meniscus-liquid-surface"]},
+  {"english":"MERCAST","checks":["https://glossary.ametsoc.org/wiki/mercast/","https://www.omao.noaa.gov/learn/maritime-operations/marine-weather-forecast"]},
+  {"english":"mercury","checks":["https://en.wikipedia.org/wiki/Mercury_(element)","https://pubchem.ncbi.nlm.nih.gov/element/Mercury"]},
+  {"english":"mercury barometer","checks":["https://en.wikipedia.org/wiki/Barometer#Mercury_barometers","https://www.britannica.com/technology/barometer"]},
+  {"english":"mercury column","checks":["https://en.wikipedia.org/wiki/Millimetre_of_mercury","https://en.wikipedia.org/wiki/Barometer#Mercury_barometers"]},
+  {"english":"mercury thermometer","checks":["https://en.wikipedia.org/wiki/Mercury-in-glass_thermometer","https://www.britannica.com/technology/thermometer"]},
+  {"english":"mercury-in-glass thermometer","checks":["https://en.wikipedia.org/wiki/Mercury-in-glass_thermometer","https://www.nist.gov/pml/museum-collection-time-and-frequency/mercury-thermometer"]},
+  {"english":"mercury-in-steel thermometer","checks":["https://www.wika.com/en-en/thermometers.WIKA","https://www.engineeringtoolbox.com/bimetal-thermometer-mercury-filled-d_957.html"]},
+  {"english":"mergozzo","checks":["https://en.wikipedia.org/wiki/Lake_Mergozzo","https://en.wikipedia.org/wiki/Mergozzo"]},
+  {"english":"meridian","checks":["https://en.wikipedia.org/wiki/Meridian_(geography)","https://education.nationalgeographic.org/resource/latitude-and-longitude/"]},
+  {"english":"meridional","checks":["https://en.wikipedia.org/wiki/Meridional_flow","https://www.weather.gov/source/zhu/ZHU_Training_Page/jetstream/upper/upper_nav.htm"]},
+  {"english":"meridional cell","checks":["https://en.wikipedia.org/wiki/Hadley_cell","https://en.wikipedia.org/wiki/Ferrel_cell"]},
+  {"english":"meridional circulation","checks":["https://en.wikipedia.org/wiki/Meridional_overturning_circulation","https://en.wikipedia.org/wiki/General_circulation_model"]}
+]

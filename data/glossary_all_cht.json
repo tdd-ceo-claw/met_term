@@ -31495,122 +31495,122 @@
   },
   {
     "english": "Mellor–Yamada parameterization",
-    "traditional_chinese": "Mellor-Yamada 參數化",
-    "definition_cht": "指與「Mellor-Yamada 參數化」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Mellor–Yamada 參數化方案",
+    "definition_cht": "大氣邊界層常用的湍流閉合參數化方案，以湍流動能與穩定度函數表示動量、熱量與水氣的垂直混合；常見於數值天氣與海洋模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mellor%E2%80%93Yamada_parameterization"
   },
   {
     "english": "melt pond",
-    "traditional_chinese": "融化池",
-    "definition_cht": "指與「融化池」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "融池",
+    "definition_cht": "春夏暖季形成於海冰或冰川表面凹地的融水池，多由淡水組成；其降低表面反照率並促進冰面進一步融化。",
     "source_url": "https://glossary.ametsoc.org/wiki/melt_pond"
   },
   {
     "english": "meltém",
-    "traditional_chinese": "梅爾滕",
-    "definition_cht": "指與「梅爾滕」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "梅爾泰米風",
+    "definition_cht": "東地中海與愛琴海一帶對夏季乾燥強勁北風的地方名稱，通常相當於愛琴海的伊特希亞風（Etesian winds）。",
     "source_url": "https://glossary.ametsoc.org/wiki/melt%C3%A9m"
   },
   {
     "english": "melting layer",
     "traditional_chinese": "融化層",
-    "definition_cht": "指與「融化層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "降水粒子在下落過程中由固態轉為液態的氣層，通常位於零度層附近；雷達上常對應亮帶現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/melting_layer"
   },
   {
     "english": "melting level",
-    "traditional_chinese": "融解層位",
-    "definition_cht": "固態降水粒子開始顯著融解的層位，常對雷達亮帶與降水相態判讀十分重要。",
+    "traditional_chinese": "融化層位",
+    "definition_cht": "大氣中降水粒子開始明顯融化的高度或氣壓層位，常用於判讀降水相態及雷達亮帶位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/melting_level"
   },
   {
     "english": "melting point",
     "traditional_chinese": "熔點",
-    "definition_cht": "指與「熔點」相關的特徵點、基準點或分析位置，用於描述幾何、光學或動力結構。",
+    "definition_cht": "物質在一定壓力下由固態轉為液態、且固液兩相可處於平衡時的溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/melting_point"
   },
   {
     "english": "Membership function",
-    "traditional_chinese": "會員功能",
-    "definition_cht": "指與「會員功能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "隸屬函數",
+    "definition_cht": "模糊集合論中用以表示某元素對某集合隸屬程度的函數，其值通常介於 0 與 1 之間；常用於模糊推論與預報決策。",
     "source_url": "https://glossary.ametsoc.org/wiki/Membership_function"
   },
   {
     "english": "meniscus",
-    "traditional_chinese": "半月板",
-    "definition_cht": "指與「半月板」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "弧液面",
+    "definition_cht": "液體在容器壁或細管內因表面張力與附著力形成的彎曲液面；在氣壓計、溫度計等量測讀值時須注意其位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/meniscus"
   },
   {
     "english": "MERCAST",
-    "traditional_chinese": "梅卡斯特",
-    "definition_cht": "「MERCAST」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "商船氣象廣播",
+    "definition_cht": "面向商船播送的海上氣象廣播，內容可包括海上警報、區域預報、天氣圖分析與預報，以及相關觀測資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/MERCAST"
   },
   {
     "english": "mercury",
     "traditional_chinese": "汞",
-    "definition_cht": "指與「汞」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "化學元素 Hg，常溫下呈液態，過去常用於氣壓計、溫度計等氣象儀器；現因毒性高而多已逐步淘汰。",
     "source_url": "https://glossary.ametsoc.org/wiki/mercury"
   },
   {
     "english": "mercury barometer",
     "traditional_chinese": "水銀氣壓計",
-    "definition_cht": "指與「水銀氣壓計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "利用玻璃管內水銀柱高度與外界大氣壓平衡關係來測量氣壓的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/mercury_barometer"
   },
   {
     "english": "mercury column",
     "traditional_chinese": "水銀柱",
-    "definition_cht": "指與「水銀柱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "氣壓計等儀器中受壓力支撐的水銀液柱，其高度可用來表示壓力大小。",
     "source_url": "https://glossary.ametsoc.org/wiki/mercury_column"
   },
   {
     "english": "mercury thermometer",
     "traditional_chinese": "水銀溫度計",
-    "definition_cht": "指與「水銀溫度計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "利用水銀隨溫度變化而膨脹或收縮的原理測量溫度的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/mercury_thermometer"
   },
   {
     "english": "mercury-in-glass thermometer",
     "traditional_chinese": "玻璃水銀溫度計",
-    "definition_cht": "指與「玻璃水銀溫度計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "以玻璃毛細管封裝水銀，利用液柱伸縮顯示溫度的傳統溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/mercury-in-glass_thermometer"
   },
   {
     "english": "mercury-in-steel thermometer",
-    "traditional_chinese": "鋼包水銀溫度計",
-    "definition_cht": "指與「鋼包水銀溫度計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "鋼製水銀溫度計",
+    "definition_cht": "以鋼製外殼與導管封裝水銀感溫系統，透過液體膨脹將溫度傳至指示端的工業用溫度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/mercury-in-steel_thermometer"
   },
   {
     "english": "mergozzo",
-    "traditional_chinese": "梅爾戈佐",
-    "definition_cht": "指與「梅爾戈佐」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "梅爾戈佐湖",
+    "definition_cht": "義大利北部的一座深水湖，常作為湖沼學與內陸水體研究案例的地名。",
     "source_url": "https://glossary.ametsoc.org/wiki/mergozzo"
   },
   {
     "english": "meridian",
     "traditional_chinese": "子午線",
-    "definition_cht": "指與「子午線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "地球表面連接南北兩極、代表固定經度的假想大圓線，用於定位與地圖投影。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridian"
   },
   {
     "english": "meridional",
     "traditional_chinese": "經向的",
-    "definition_cht": "指與「經向的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "沿南北方向、平行子午線，或與緯向相對的方向性描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional"
   },
   {
     "english": "meridional cell",
-    "traditional_chinese": "子午細胞",
-    "definition_cht": "指與「子午細胞」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "經向環流胞",
+    "definition_cht": "在緯度—高度剖面上呈現南北向輸送的環流胞結構，如哈德里胞、費雷爾胞或極胞。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional_cell"
   },
   {
     "english": "meridional circulation",
     "traditional_chinese": "經向環流",
-    "definition_cht": "以南北向輸送為主的大尺度環流，可指大氣或海洋中的經向平均流動結構。",
+    "definition_cht": "以南北向質量、熱量或動量輸送為主的大尺度環流，可指大氣或海洋中的經向平均流動結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional_circulation"
   },
   {
