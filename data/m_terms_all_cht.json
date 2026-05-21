@@ -709,122 +709,122 @@
   },
   {
     "english": "mean annual range of temperature",
-    "traditional_chinese": "年平均氣溫變化",
-    "definition_cht": "指與「年平均氣溫變化」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "traditional_chinese": "年平均氣溫年較差",
+    "definition_cht": "多年平均條件下最暖月平均氣溫與最冷月平均氣溫之差，用以表示一地年內氣溫季節變化幅度。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_annual_range_of_temperature"
   },
   {
     "english": "mean chart",
     "traditional_chinese": "平均圖",
-    "definition_cht": "指與「平均圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "將某氣象要素在一段期間內逐次觀測或分析結果取平均後所繪成的圖，如平均海平面氣壓場或平均高度場。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_chart"
   },
   {
     "english": "mean daily maximum temperature for a month",
-    "traditional_chinese": "一個月平均每日最高氣溫",
-    "definition_cht": "指與「一個月平均每日最高氣溫」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "traditional_chinese": "月平均日最高氣溫",
+    "definition_cht": "某月份內各日最高氣溫的平均值，用以表示該月白天高溫的一般水準。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_daily_maximum_temperature_for_a_month"
   },
   {
     "english": "mean daily minimum temperature for a month",
-    "traditional_chinese": "一個月日平均最低氣溫",
-    "definition_cht": "指與「一個月日平均最低氣溫」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "traditional_chinese": "月平均日最低氣溫",
+    "definition_cht": "某月份內各日最低氣溫的平均值，用以表示該月夜晨低溫的一般水準。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_daily_minimum_temperature_for_a_month"
   },
   {
     "english": "mean daily temperature",
     "traditional_chinese": "日平均氣溫",
-    "definition_cht": "指與「日平均氣溫」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "definition_cht": "一日內氣溫的平均值，常以定時觀測平均或以最高、最低氣溫推估，用來代表當日整體熱狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_daily_temperature"
   },
   {
     "english": "mean day-to-day variation",
-    "traditional_chinese": "平均日變化",
-    "definition_cht": "指與「平均日變化」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "平均日際變化",
+    "definition_cht": "某氣象要素相鄰兩日數值變化量的平均，用以表示其逐日波動的典型幅度。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_day-to-day_variation"
   },
   {
     "english": "mean deviation",
     "traditional_chinese": "平均偏差",
-    "definition_cht": "指與「平均偏差」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "各觀測值與其平均值（或其他中心值）偏差絕對值的平均，用以衡量資料離散程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_deviation"
   },
   {
     "english": "mean Doppler velocity",
-    "traditional_chinese": "平均多普勒速度",
-    "definition_cht": "指與「平均多普勒速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "平均都卜勒速度",
+    "definition_cht": "都卜勒雷達在一個解析體積內量得之平均徑向速度，表示目標相對雷達沿視線方向的平均運動分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_Doppler_velocity"
   },
   {
     "english": "mean free path",
     "traditional_chinese": "平均自由程",
-    "definition_cht": "指與「平均自由程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "粒子在兩次碰撞之間所行進距離的平均值；在大氣物理中常用以描述分子傳輸與稀薄氣體特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_free_path"
   },
   {
     "english": "mean high water",
-    "traditional_chinese": "平均高水位",
-    "definition_cht": "指與「平均高水位」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "平均高潮位",
+    "definition_cht": "在基準潮汐觀測期內，所有高潮潮位的平均高度，屬常用潮位基準之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_high_water"
   },
   {
     "english": "mean high water springs",
-    "traditional_chinese": "平均高水位泉水",
-    "definition_cht": "指與「平均高水位泉水」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "平均朔望高潮位",
+    "definition_cht": "在基準潮汐觀測期內，朔望潮期間各次高潮位的平均高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_high_water_springs"
   },
   {
     "english": "mean higher high water",
-    "traditional_chinese": "意味著更高的高水位",
-    "definition_cht": "指與「意味著更高的高水位」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "平均較高潮位",
+    "definition_cht": "對每日出現兩次高潮的地區，取每日兩個高潮中較高者，再於基準潮汐觀測期內求其平均所得之潮位基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_higher_high_water"
   },
   {
     "english": "mean kinetic energy",
     "traditional_chinese": "平均動能",
-    "definition_cht": "指與「平均動能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "單位質量或一組粒子、流體要素之動能平均值；在大氣與海洋中可指平均流場所對應的動能。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_kinetic_energy"
   },
   {
     "english": "mean life",
-    "traditional_chinese": "平均生活",
-    "definition_cht": "指與「平均生活」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "平均壽命",
+    "definition_cht": "就衰變粒子、化學物種或暫態系統而言，自生成至消失的平均存續時間；通常為指數衰減時間尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_life"
   },
   {
     "english": "mean low water",
-    "traditional_chinese": "平均低水位",
-    "definition_cht": "指與「平均低水位」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "平均低潮位",
+    "definition_cht": "在基準潮汐觀測期內，所有低潮潮位的平均高度，屬常用潮位基準之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_low_water"
   },
   {
     "english": "mean low water springs",
-    "traditional_chinese": "平均低水位泉水",
-    "definition_cht": "指與「平均低水位泉水」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "平均朔望低潮位",
+    "definition_cht": "在基準潮汐觀測期內，朔望潮期間各次低潮位的平均高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_low_water_springs"
   },
   {
     "english": "mean lower low water",
-    "traditional_chinese": "平均低水位",
-    "definition_cht": "指與「平均低水位」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "平均較低低潮位",
+    "definition_cht": "對每日出現兩次低潮的地區，取每日兩個低潮中較低者，再於基準潮汐觀測期內求其平均所得之潮位基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_lower_low_water"
   },
   {
     "english": "mean monthly maximum temperature",
-    "traditional_chinese": "月平均最高溫",
-    "definition_cht": "指與「月平均最高溫」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "traditional_chinese": "月平均最高氣溫",
+    "definition_cht": "多年統計下某一月份平均氣溫的最高值，或逐月平均氣溫序列中的最高月值；實際用法須依資料定義判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_monthly_maximum_temperature"
   },
   {
     "english": "mean monthly minimum temperature",
     "traditional_chinese": "月平均最低氣溫",
-    "definition_cht": "指與「月平均最低氣溫」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "definition_cht": "多年統計下某一月份平均氣溫的最低值，或逐月平均氣溫序列中的最低月值；實際用法須依資料定義判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_monthly_minimum_temperature"
   },
   {
     "english": "mean sea level",
     "traditional_chinese": "平均海平面",
-    "definition_cht": "長期平均後之海面高度基準，常作為測高、地形與氣壓訂正的參考面。",
+    "definition_cht": "經長時間平均後的海面高度基準，可作為高程、測圖、導航與氣壓高度訂正的參考面。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_sea_level"
   },
   {
