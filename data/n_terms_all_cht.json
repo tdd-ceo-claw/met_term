@@ -410,122 +410,122 @@
   {
     "english": "net pyrradiometer",
     "traditional_chinese": "淨輻射計",
-    "definition_cht": "「淨輻射計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_pyrradiometer"
+    "definition_cht": "量測上下兩半球視場總輻射收支的淨輻射儀，可把太陽短波與地氣系統熱輻射合併為單一淨能量通量讀值，常用於地表能量平衡觀測。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/net-pyrradiometer/"
   },
   {
     "english": "net radiation",
     "traditional_chinese": "淨輻射",
-    "definition_cht": "「淨輻射」指輻射能量之發射、傳輸、吸收或收支相關概念，常用於大氣輻射、地表能量平衡與遙測分析。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_radiation"
+    "definition_cht": "吸收與放出輻射相抵後的淨值；在地表能量收支中，通常指向下與向上短波、長波輻射通量合成後的淨輻射收支。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/net-radiation/"
   },
   {
     "english": "net radiometer",
     "traditional_chinese": "淨輻射計",
-    "definition_cht": "「淨輻射計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_radiometer"
+    "definition_cht": "量測來自上下相對半球視場輻照度差值的輻射儀，用以求得地表或觀測面的淨輻射，常分解為短波與長波分量。",
+    "source_url": "https://en.wikipedia.org/wiki/Net_radiometer"
   },
   {
     "english": "net solar radiation",
     "traditional_chinese": "淨太陽輻射",
-    "definition_cht": "「淨太陽輻射」指輻射能量之發射、傳輸、吸收或收支相關概念，常用於大氣輻射、地表能量平衡與遙測分析。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_solar_radiation"
+    "definition_cht": "向下入射與向上反射太陽短波輻射通量之差，即地表或某一界面所獲得的淨短波輻射。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/net-solar-radiation/"
   },
   {
     "english": "net terrestrial radiation",
-    "traditional_chinese": "淨地面輻射",
-    "definition_cht": "「淨地面輻射」指輻射能量之發射、傳輸、吸收或收支相關概念，常用於大氣輻射、地表能量平衡與遙測分析。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_terrestrial_radiation"
+    "traditional_chinese": "淨地球輻射",
+    "definition_cht": "地氣系統長波（紅外）輻射的淨通量，通常指向上地表長波與向下大氣逆輻射相抵後的結果，亦常稱淨長波輻射。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/net-terrestrial-radiation/"
   },
   {
     "english": "network",
-    "traditional_chinese": "網路",
-    "definition_cht": "「網路」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/network"
+    "traditional_chinese": "網紋",
+    "definition_cht": "太陽色球中由許多細小而斑駁的亮區構成之網狀結構，常見於超級顆粒邊界附近，其強度與數量會隨太陽活動週期而變化。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/network/"
   },
   {
     "english": "network density",
     "traditional_chinese": "測站網密度",
-    "definition_cht": "「測站網密度」表示單位體積、單位面積或單位尺度上的含量、強度或分布程度，是氣象與海洋分析常用的基本量。",
-    "source_url": "https://glossary.ametsoc.org/wiki/network_density"
+    "definition_cht": "指某觀測網中各測站彼此接近程度或單位面積內的站點分布密度，用以衡量特定氣象研究或監測用途之觀測網解析能力。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/network-density/"
   },
   {
     "english": "neural network",
     "traditional_chinese": "神經網路",
-    "definition_cht": "「神經網路」指由多個觀測站、感測器、資料節點或計算單元組成的系統，用於資料蒐集、傳輸、分析或預報。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neural_network"
+    "definition_cht": "由多層節點與權重連結組成的機器學習模型，可自資料中擷取非線性關係；在氣象上常用於預報、遙測反演、分類與誤差校正。",
+    "source_url": "https://en.wikipedia.org/wiki/Neural_network_(machine_learning)"
   },
   {
     "english": "Neutercane",
-    "traditional_chinese": "中性",
-    "definition_cht": "「中性」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Neutercane"
+    "traditional_chinese": "中間型小氣旋",
+    "definition_cht": "直徑通常小於約 160 公里的小型低壓系統，兼具熱帶氣旋與溫帶氣旋的部分結構或能量特徵，可視為介於兩者之間的混合型氣旋。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/neutercane/"
   },
   {
     "english": "neutral atmosphere",
     "traditional_chinese": "中性大氣",
-    "definition_cht": "「中性大氣」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neutral_atmosphere"
+    "definition_cht": "在電離層或高層大氣語境中，指未電離或近乎不帶淨電荷的那部分大氣，主要由中性原子與分子所組成。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/neutral-atmosphere/"
   },
   {
     "english": "neutral equilibrium",
     "traditional_chinese": "中性平衡",
-    "definition_cht": "「中性平衡」指系統內各作用達到相互平衡的狀態，在熱力、力學與流體分析中均屬基本概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neutral_equilibrium"
+    "definition_cht": "系統受微小擾動後既不回復原位也不繼續偏離的平衡狀態；在大氣穩定度中，指氣塊被抬升或下沉後與周圍環境密度相同而無加速趨勢。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/neutral-equilibrium/"
   },
   {
     "english": "neutral mode",
     "traditional_chinese": "中性模態",
-    "definition_cht": "「中性模態」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neutral_mode"
+    "definition_cht": "在流體或動力不穩定理論中，振幅隨時間既不增長也不衰減的波動解；亦稱中性波，常用作判定系統臨界穩定狀態。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/neutral-mode/"
   },
   {
     "english": "neutral surfaces",
-    "traditional_chinese": "中性表面",
-    "definition_cht": "「中性表面」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neutral_surfaces"
+    "traditional_chinese": "中性面",
+    "definition_cht": "海洋學中指水團若沿該面作絕熱、等鹽位移，仍可與周圍海水保持中性浮力的曲面，是描述海洋內部等密度流動與混合的重要概念。",
+    "source_url": "https://glossary.ametsoc.org/wiki/neutral-surfaces/"
   },
   {
     "english": "neutron",
     "traditional_chinese": "中子",
-    "definition_cht": "「中子」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neutron"
+    "definition_cht": "不帶電的亞原子粒子，存在於原子核中；在大氣與地球科學中常涉及宇宙射線作用、核反應量測及中子探測技術。",
+    "source_url": "https://en.wikipedia.org/wiki/Neutron"
   },
   {
     "english": "neutron logging",
     "traditional_chinese": "中子測井",
-    "definition_cht": "「中子測井」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neutron_logging"
+    "definition_cht": "井下地球物理測井法之一，利用快中子與地層中氫等原子交互作用後的響應，推估孔隙度及流體含量，常用於油氣與地下水調查。",
+    "source_url": "https://glossary.slb.com/terms/n/neutron_log"
   },
   {
     "english": "neutron-scattering method",
     "traditional_chinese": "中子散射法",
-    "definition_cht": "「中子散射法」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neutron-scattering_method"
+    "definition_cht": "利用中子與物質交互作用後的散射特性來分析材料結構、成分或含水狀態的方法；在水文與土壤科學中亦可用於估測含水量。",
+    "source_url": "https://www.iaea.org/resources/databases/neutron-science-facility-databases/what-is-neutron-scattering"
   },
   {
     "english": "neutrosphere",
-    "traditional_chinese": "中性層",
-    "definition_cht": "「中性層」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neutrosphere"
+    "traditional_chinese": "中性大氣層",
+    "definition_cht": "相對於電離層而言，由中性原子與分子主導、整體近乎不帶淨電荷的大氣區域，常泛指高層大氣中的非電離部分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/neutrosphere/"
   },
   {
     "english": "nevada",
     "traditional_chinese": "內華達州",
-    "definition_cht": "「內華達州」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nevada"
+    "definition_cht": "美國西部州名；在氣象與氣候文獻中常作為區域研究地名，用於指涉內華達州及其沙漠、高原與山區環境。",
+    "source_url": "https://en.wikipedia.org/wiki/Nevada"
   },
   {
     "english": "névé",
-    "traditional_chinese": "內韋",
-    "definition_cht": "「內韋」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/n%C3%A9v%C3%A9"
+    "traditional_chinese": "粒雪",
+    "definition_cht": "經部分融化、再凍結與壓實後形成的年輕顆粒雪，介於新雪與冰川冰之間，是冰川形成過程中的重要過渡階段。",
+    "source_url": "https://en.wikipedia.org/wiki/N%C3%A9v%C3%A9"
   },
   {
     "english": "New Guinea Coastal Current",
     "traditional_chinese": "新幾內亞沿岸流",
-    "definition_cht": "「新幾內亞沿岸流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
-    "source_url": "https://glossary.ametsoc.org/wiki/New_Guinea_Coastal_Current"
+    "definition_cht": "沿新幾內亞北岸並穿越維提亞茲海峽的季節性西邊界洋流，約於 4 至 11 月向西北流動，連接南赤道流北支與哈馬黑拉渦旋等西太平洋環流系統。",
+    "source_url": "https://r.jina.ai/http://glossary.ametsoc.org/wiki/new-guinea-coastal-current/"
   },
   {
     "english": "New Guinea Coastal Undercurrent",
