@@ -34495,122 +34495,122 @@
   },
   {
     "english": "nocturnal radiation",
-    "traditional_chinese": "夜間輻射",
-    "definition_cht": "「夜間輻射」指輻射能量之發射、傳輸、吸收或收支相關概念，常用於大氣輻射、地表能量平衡與遙測分析。",
+    "traditional_chinese": "夜間地表長波輻射",
+    "definition_cht": "指地表在夜間向外發射的長波（地球）輻射；在較早期氣象文獻中常作 terrestrial radiation 的同義或舊稱，與夜間地表冷卻及輻射逆溫形成有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/nocturnal_radiation"
   },
   {
     "english": "nodal factors",
-    "traditional_chinese": "節點因素",
-    "definition_cht": "「節點因素」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "交點因子",
+    "definition_cht": "潮汐調和分析中的小幅修正因子，用以反映月球軌道交點約 18.61 年週期所造成的振幅與相位調制。",
     "source_url": "https://glossary.ametsoc.org/wiki/nodal_factors"
   },
   {
     "english": "nodal increment",
-    "traditional_chinese": "節點增量",
-    "definition_cht": "「節點增量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "交點增量",
+    "definition_cht": "極軌衛星連續兩次通過升交點之間，地球自轉使其地面投影經度所產生的位移量，通常以經度差表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/nodal_increment"
   },
   {
     "english": "nodal period",
-    "traditional_chinese": "交點期間",
-    "definition_cht": "「交點期間」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "交點週期",
+    "definition_cht": "衛星連續兩次通過同一型態軌道交點（通常指升交點）之間所經過的時間，又稱 draconic period。",
     "source_url": "https://glossary.ametsoc.org/wiki/nodal_period"
   },
   {
     "english": "node",
-    "traditional_chinese": "節點",
-    "definition_cht": "「節點」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "交點",
+    "definition_cht": "在軌道力學中，指衛星或天體軌道與參考平面（如赤道面）相交之點，分為升交點與降交點。",
     "source_url": "https://glossary.ametsoc.org/wiki/node"
   },
   {
     "english": "Noise",
-    "traditional_chinese": "噪音",
-    "definition_cht": "「噪音」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "雜訊",
+    "definition_cht": "指疊加在有用訊號上的隨機或非期望擾動；在雷達、遙測與觀測系統中會降低訊號辨識度並限制可檢出的微弱目標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Noise"
   },
   {
     "english": "noise figure",
-    "traditional_chinese": "噪音係數",
-    "definition_cht": "「噪音係數」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "雜訊指數",
+    "definition_cht": "衡量接收機使訊號雜訊比劣化程度的指標，為實際接收機輸出雜訊與同增益、同頻寬理想接收機輸出雜訊之比，常以分貝表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/noise_figure"
   },
   {
     "english": "noise filtering",
-    "traditional_chinese": "噪音過濾",
-    "definition_cht": "「噪音過濾」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "雜訊濾除",
+    "definition_cht": "從數值解或觀測訊號中去除非研究重點之高頻、短尺度或隨機擾動成分的處理，用以凸顯較有意義的氣象或流體訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/noise_filtering"
   },
   {
     "english": "noise level",
-    "traditional_chinese": "噪音水平",
-    "definition_cht": "「噪音水平」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "雜訊電平",
+    "definition_cht": "指訊號中雜訊功率的大致強度水準；當訊號接近此水準時，單純功率量測將較難區分有用訊號與背景雜訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/noise_level"
   },
   {
     "english": "noise power",
     "traditional_chinese": "雜訊功率",
-    "definition_cht": "「雜訊功率」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "訊號中由雜訊成分所貢獻的功率，用於評估接收系統背景干擾強度及訊號可辨識程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/noise_power"
   },
   {
     "english": "Noise temperature",
-    "traditional_chinese": "噪音溫度",
-    "definition_cht": "「噪音溫度」為與溫度狀態、代表性熱環境或溫度診斷有關之術語，常用於描述熱力條件與能量交換。",
+    "traditional_chinese": "雜訊溫度",
+    "definition_cht": "以等效溫度表示系統雜訊功率的量，常定義為 T = N/kB；在雷達與微波遙測中常用以描述天線、接收機或傳輸線的雜訊特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Noise_temperature"
   },
   {
     "english": "Noise threshold",
-    "traditional_chinese": "噪音閾值",
-    "definition_cht": "「噪音閾值」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "雜訊閾值",
+    "definition_cht": "訊號功率低於此界線時易被雜訊掩蔽、難以辨識；高於此界線時則較能從背景雜訊中分辨出訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/Noise_threshold"
   },
   {
     "english": "nomogram",
     "traditional_chinese": "列線圖",
-    "definition_cht": "「列線圖」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "以一組刻度線或曲線構成的圖解計算工具，可不經數值運算而快速求得變數關係，在氣象作業中曾用於熱力、航測與工程估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/nomogram"
   },
   {
     "english": "noncoherent echo",
     "traditional_chinese": "非相干回波",
-    "definition_cht": "「非相干回波」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "舊稱，現多作 incoherent echo；指回波相位在時間上不穩定、各散射體回波彼此缺乏固定相位關係的回波。",
     "source_url": "https://glossary.ametsoc.org/wiki/noncoherent_echo"
   },
   {
     "english": "noncoherent target",
     "traditional_chinese": "非相干目標",
-    "definition_cht": "「非相干目標」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "舊稱，現多指會產生 incoherent echo 的雷達目標，如降雨等由大量隨機散射體組成之目標。",
     "source_url": "https://glossary.ametsoc.org/wiki/noncoherent_target"
   },
   {
     "english": "nondeterministic",
-    "traditional_chinese": "不確定性的",
-    "definition_cht": "「不確定性的」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非決定性的",
+    "definition_cht": "指系統演變或計算結果並非由單一確定路徑完全決定，而可能受隨機過程、機率分布或未明確指定條件影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/nondeterministic"
   },
   {
     "english": "nondimensional equation",
-    "traditional_chinese": "無量綱方程",
-    "definition_cht": "「無量綱方程」為描述物理量之間關係的方程式，常用於大氣動力、海洋過程或數值分析研究。",
+    "traditional_chinese": "無因次方程",
+    "definition_cht": "經尺度化後僅含無因次變數、參數與數值群的方程式，其形式不依賴所採用的量測單位，常用於流體力學與大氣動力分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/nondimensional_equation"
   },
   {
     "english": "nondimensional number",
-    "traditional_chinese": "無量綱數",
-    "definition_cht": "「無量綱數」為無因次數或特徵指標，用以衡量特定物理過程中各作用力、傳輸效應或尺度關係的重要性。",
+    "traditional_chinese": "無因次數",
+    "definition_cht": "數值大小與量測單位無關的純數，常由尺度分析導出，用以表示不同物理作用或傳輸效應的相對重要性，如雷諾數、羅士培數與理查森數。",
     "source_url": "https://glossary.ametsoc.org/wiki/nondimensional_number"
   },
   {
     "english": "nondimensional parameter",
-    "traditional_chinese": "無量綱參數",
-    "definition_cht": "「無量綱參數」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "無因次參數",
+    "definition_cht": "在某一物理問題中與量測單位無關的參數，通常由特徵尺度組合而成，用以控制系統行為或比較不同過程的相對強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/nondimensional_parameter"
   },
   {
     "english": "nondispersive infrared spectrometry",
     "traditional_chinese": "非色散紅外光譜法",
-    "definition_cht": "「非色散紅外光譜法」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "利用氣體對特定紅外波段的選擇性吸收進行分析，且不以單色儀、稜鏡或光柵分光的紅外量測方法，常用於二氧化碳等氣體濃度監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/nondispersive_infrared_spectrometry"
   },
   {
