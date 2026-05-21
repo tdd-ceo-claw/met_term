@@ -30775,122 +30775,122 @@
   },
   {
     "english": "mares' tails",
-    "traditional_chinese": "母馬的尾巴",
-    "definition_cht": "指與「母馬的尾巴」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬尾雲",
+    "definition_cht": "指細長而清晰、形似馬尾的卷雲絲縷，一端通常較厚、向外拖曳成尾狀，常反映高空強風並可作為天氣將轉變的徵兆。",
     "source_url": "https://glossary.ametsoc.org/wiki/mares%27_tails"
   },
   {
     "english": "Margules's equation",
     "traditional_chinese": "馬古勒斯方程",
-    "definition_cht": "描述「馬古勒斯方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "definition_cht": "用以描述兩側不同密度流體之交界面在平衡狀態下傾斜度的關係式，常用於說明鋒面或密度不連續面因重力與壓力梯度平衡所形成的斜率。",
     "source_url": "https://glossary.ametsoc.org/wiki/Margules%27s_equation"
   },
   {
     "english": "marigram",
-    "traditional_chinese": "馬里格姆",
-    "definition_cht": "指與「馬里格姆」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "驗潮記錄圖",
+    "definition_cht": "由驗潮儀連續記錄所得的潮位變化圖，通常以時間為橫軸、潮位高低為縱軸，用以表示潮汐升降歷程。",
     "source_url": "https://glossary.ametsoc.org/wiki/marigram"
   },
   {
     "english": "marigraph",
-    "traditional_chinese": "馬裡格拉夫",
-    "definition_cht": "指與「馬裡格拉夫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "自記驗潮儀",
+    "definition_cht": "可連續測記海面相對基準面升降變化的儀器，即自動記錄潮位的驗潮儀，亦稱海平面記錄儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/marigraph"
   },
   {
     "english": "marin",
-    "traditional_chinese": "馬林",
-    "definition_cht": "指與「馬林」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬蘭風",
+    "definition_cht": "法國南部與隆河三角洲一帶的濕暖海風，通常自地中海吹向陸地，多與南法、北西班牙或獅子灣附近低壓系統有關，常具持續且有時強勁的特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/marin"
   },
   {
     "english": "marine barometer",
-    "traditional_chinese": "海洋氣壓計",
-    "definition_cht": "指與「海洋氣壓計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "船用氣壓計",
+    "definition_cht": "供船舶或海上作業使用的氣壓計，用於量測大氣壓力並輔助判斷短期天氣變化；設計上通常較能適應船體搖晃與海洋環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/marine_barometer"
   },
   {
     "english": "marine climate",
     "traditional_chinese": "海洋性氣候",
-    "definition_cht": "指「海洋性氣候」所對應的氣候類型、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "受海洋調節顯著的氣候型，通常氣溫年較差較小、冬夏較溫和、濕度較高且降水分布較均勻。",
     "source_url": "https://glossary.ametsoc.org/wiki/marine_climate"
   },
   {
     "english": "marine forecast",
-    "traditional_chinese": "海洋預報",
-    "definition_cht": "指以「海洋預報」為主題的預報產品、預測方法或作業結果。",
+    "traditional_chinese": "海上氣象預報",
+    "definition_cht": "以海域航行、漁業與近岸作業為對象發布的天氣與海象預報，內容通常包括風、浪、能見度、天氣現象及警報資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/marine_forecast"
   },
   {
     "english": "marine meteorology",
     "traditional_chinese": "海洋氣象學",
-    "definition_cht": "指與「海洋氣象學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "研究海洋、沿岸與島嶼地區大氣現象及海氣交互作用的氣象學分支，並支援航運、漁業與海上作業之預報與觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/marine_meteorology"
   },
   {
     "english": "marine radar",
     "traditional_chinese": "航海雷達",
-    "definition_cht": "指與「航海雷達」相關的雷達系統、雷達觀測或遙測產品。",
+    "definition_cht": "裝設於船舶上的導航雷達，利用微波偵測附近船隻、海岸線、浮標與障礙物的位置、方位與距離，以協助航行與避碰。",
     "source_url": "https://glossary.ametsoc.org/wiki/marine_radar"
   },
   {
     "english": "marine rainbow",
-    "traditional_chinese": "海洋彩虹",
-    "definition_cht": "指與「海洋彩虹」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "海上彩虹",
+    "definition_cht": "出現在海浪飛沫中的彩虹，成因與一般彩虹相同，皆由光的折射、反射與色散形成，但因鹽水折射率略異，角半徑可有些微差別。",
     "source_url": "https://glossary.ametsoc.org/wiki/marine_rainbow"
   },
   {
     "english": "marine thermometer",
-    "traditional_chinese": "海洋溫度計",
-    "definition_cht": "指與「海洋溫度計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "海水溫度計",
+    "definition_cht": "用於量測海水溫度的溫度計，可應用於船舶、浮標或海洋觀測作業；傳統上常包括海水溫度計與顛倒溫度計等型式。",
     "source_url": "https://glossary.ametsoc.org/wiki/marine_thermometer"
   },
   {
     "english": "marine weather observation",
-    "traditional_chinese": "海洋氣象觀測",
-    "definition_cht": "指與「海洋氣象觀測」相關的觀測作業、量測資料或分析成果。",
+    "traditional_chinese": "海上氣象觀測",
+    "definition_cht": "在海面、船舶、浮標或離岸平台上進行的氣象與海象觀測，項目可包括氣壓、風、氣溫、海溫、浪高、能見度與天氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/marine_weather_observation"
   },
   {
     "english": "Mariotte's law",
-    "traditional_chinese": "馬裡奧特定律",
-    "definition_cht": "指與「馬裡奧特定律」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬里奧特定律",
+    "definition_cht": "即波以耳－馬里奧特定律，指在溫度與氣體量不變時，氣體壓力與體積成反比，故壓力與體積之乘積保持常數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mariotte%27s_law"
   },
   {
     "english": "maritime aerosol",
-    "traditional_chinese": "海洋氣溶膠",
-    "definition_cht": "指與「海洋氣溶膠」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "海洋氣膠",
+    "definition_cht": "存在於海洋大氣中的懸浮微粒，主要可由海鹽飛沫、海面破碎浪花及生物源排放形成，對雲形成、輻射收支與能見度具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/maritime_aerosol"
   },
   {
     "english": "maritime air",
-    "traditional_chinese": "海洋氣團",
-    "definition_cht": "指與「海洋氣團」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "海洋性空氣",
+    "definition_cht": "在海洋上方形成或長時間受海面調節的空氣，通常濕度較高、溫度日較差較小；若具明顯成團特徵，常可發展為海洋性氣團。",
     "source_url": "https://glossary.ametsoc.org/wiki/maritime_air"
   },
   {
     "english": "maritime cloud",
-    "traditional_chinese": "海上雲",
-    "definition_cht": "指與「海上雲」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、生成條件與對應天氣狀態。",
+    "traditional_chinese": "海洋性雲",
+    "definition_cht": "形成於海洋性空氣中的雲，因雲凝結核濃度通常較低，常具有較寬的雲滴粒徑分布與較低的雲滴數濃度，與大陸性雲的微物理特性有所不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/maritime_cloud"
   },
   {
     "english": "maritime tundra",
-    "traditional_chinese": "海苔原",
-    "definition_cht": "指與「海苔原」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "海洋性凍原",
+    "definition_cht": "分布於亞寒帶沿海地帶、受海洋影響顯著的凍原景觀，常使北極型植物與動物可延伸至較其一般分布更偏南的海岸區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/maritime_tundra"
   },
   {
     "english": "Markov chain",
     "traditional_chinese": "馬可夫鏈",
-    "definition_cht": "一種隨機過程模型，其未來狀態轉移僅依賴當前狀態而與更早歷史無直接關係。",
+    "definition_cht": "一種隨機過程模型，其下一時刻的狀態轉移機率僅取決於目前狀態，而不直接依賴更早的歷史狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/Markov_chain"
   },
   {
     "english": "Markovian",
-    "traditional_chinese": "馬可夫",
-    "definition_cht": "指與「馬可夫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬可夫性的",
+    "definition_cht": "形容系統、過程或模型具有馬可夫性，即未來演變在給定當前狀態後與更早歷史條件無直接關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/Markovian"
   },
   {
