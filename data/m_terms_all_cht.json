@@ -2269,122 +2269,122 @@
   },
   {
     "english": "mixed-layer venting",
-    "traditional_chinese": "混合層透氣",
-    "definition_cht": "指與「混合層透氣」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "混合層通風",
+    "definition_cht": "指大氣混合層透過湍流混合、夾捲與風場輸送，將熱量、水氣或污染物向上或向外擴散排出的通風作用；在空氣污染氣象中常用以描述邊界層的稀釋與排散能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed-layer_venting"
   },
   {
     "english": "mixing",
     "traditional_chinese": "混合",
-    "definition_cht": "指與「混合」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "流體中不同性質的空氣、水體或其他成分，因湍流、分子擴散、對流或剪切作用而彼此摻合，使溫度、濕度、濃度、動量等量值趨於均一的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixing"
   },
   {
     "english": "mixing cloud",
-    "traditional_chinese": "混合雲",
-    "definition_cht": "指與「混合雲」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、生成條件與對應天氣狀態。",
+    "traditional_chinese": "混合成雲",
+    "definition_cht": "兩股溫度與濕度不同、原本未達飽和的空氣彼此混合後，因混合狀態達到飽和而形成的雲。常見於不同氣團或不同來源氣流交會時。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixing_cloud"
   },
   {
     "english": "mixing fog",
     "traditional_chinese": "混合霧",
-    "definition_cht": "指與「混合霧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由兩股性質不同的空氣混合，或因水面蒸發後與鄰近空氣混合，使混合氣團達到飽和而形成的霧；屬蒸發－混合致霧的一類。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixing_fog"
   },
   {
     "english": "mixing length",
     "traditional_chinese": "混合長度",
-    "definition_cht": "指與「混合長度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "湍流理論中的特徵尺度，指流體團塊在將其原有動量、熱量或其他性質與周圍環境混合前，平均可移動的代表性距離；常用於 Prandtl 混合長度模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixing_length"
   },
   {
     "english": "mixing line",
     "traditional_chinese": "混合線",
-    "definition_cht": "指與「混合線」相關的線性結構、譜線、基準線或分析界線，常作為診斷與辨識依據。",
+    "definition_cht": "在熱力或成分分析圖上，連接兩個不同氣團或樣本狀態點的線，用以表示兩者按不同比例混合時所可能得到的中間狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixing_line"
   },
   {
     "english": "mixing potential",
-    "traditional_chinese": "混合勢",
-    "definition_cht": "指與「混合勢」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "混合潛勢",
+    "definition_cht": "指大氣邊界層對近地層熱量、水氣或污染物進行垂直與水平稀釋的能力，通常受穩定度、混合層高度與風速等條件控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixing_potential"
   },
   {
     "english": "mixing ratio",
     "traditional_chinese": "混合比",
-    "definition_cht": "單位乾空氣質量所含水汽質量的比值，是描述大氣含水量的重要變數。",
+    "definition_cht": "單位質量乾空氣中所含水汽的質量，通常以克/公斤表示，是描述大氣含水量的重要變數；在未發生凝結或蒸發時近似守恆。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixing_ratio"
   },
   {
     "english": "mixing zone",
     "traditional_chinese": "混合區",
-    "definition_cht": "指與「混合區」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "不同性質流體彼此接觸並發生顯著交換與摻混的區域；在氣象與環境應用中，可指不同氣流、水團或排放羽流與周圍介質之間的過渡混合帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixing_zone"
   },
   {
     "english": "mks system",
-    "traditional_chinese": "MK系統",
-    "definition_cht": "指與「MK系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "米－公斤－秒制",
+    "definition_cht": "以公尺、公斤與秒為基本單位的度量系統，為現代 SI 制之前的重要物理單位制；其導出單位可用於描述力、功、壓力等量。",
     "source_url": "https://glossary.ametsoc.org/wiki/mks_system"
   },
   {
     "english": "ML",
-    "traditional_chinese": "機器學習",
-    "definition_cht": "「ML」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "混合層（縮寫）",
+    "definition_cht": "在氣象與海洋文獻中常作 mixed layer 的縮寫，指因湍流作用而使溫度、濕度、鹽度或其他性質在垂直方向上近乎均一的層次；實際涵義仍須依上下文判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/ML"
   },
   {
     "english": "MMO",
-    "traditional_chinese": "大型多人線上遊戲",
-    "definition_cht": "「MMO」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "MMO（縮寫）",
+    "definition_cht": "氣象相關文獻中可作特定機構、作業單位或專業名詞的縮寫；若未附完整展開名稱，無法僅憑詞面唯一判定，應依原始上下文確認其確切所指。",
     "source_url": "https://glossary.ametsoc.org/wiki/MMO"
   },
   {
     "english": "moat",
-    "traditional_chinese": "護城河",
-    "definition_cht": "指與「護城河」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "環狀無回波區",
+    "definition_cht": "在雙眼牆或同心眼牆熱帶氣旋中，位於內外眼牆之間、對流相對較弱且雷達回波偏少的環狀區域，常稱為 moat，與眼牆置換過程有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/moat"
   },
   {
     "english": "Moazagotl",
-    "traditional_chinese": "莫阿扎戈特爾",
-    "definition_cht": "指與「莫阿扎戈特爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "莫阿札戈特雲",
+    "definition_cht": "一種因焚風背風波所形成、位置近乎固定的地形性透鏡雲帶，通常出現在山脈背風側波動系統的上部。",
     "source_url": "https://glossary.ametsoc.org/wiki/Moazagotl"
   },
   {
     "english": "Moazagotl wind",
-    "traditional_chinese": "莫阿扎戈特風",
-    "definition_cht": "指與「莫阿扎戈特風」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "莫阿札戈特風",
+    "definition_cht": "與 Moazagotl 雲相關的背風焚風型局地風，指山脈下風處在山岳波與焚風作用下所形成的氣流現象。此詞多見於中歐地形風研究語境。",
     "source_url": "https://glossary.ametsoc.org/wiki/Moazagotl_wind"
   },
   {
     "english": "mobile ship",
-    "traditional_chinese": "移動船",
-    "definition_cht": "指與「移動船」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "移動船舶",
+    "definition_cht": "指正在航行、位置會隨時間改變的船舶；在海洋與氣象觀測中，常指可沿航線持續回報海上天氣與海況資料的觀測載台。",
     "source_url": "https://glossary.ametsoc.org/wiki/mobile_ship"
   },
   {
     "english": "mobile ship station",
-    "traditional_chinese": "移動船站",
-    "definition_cht": "指與「移動船站」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "移動船舶觀測站",
+    "definition_cht": "設置於航行船舶上的氣象或海洋觀測站，可隨船移動進行定時或連續觀測，並回報風、壓、溫度、濕度、海況等資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/mobile_ship_station"
   },
   {
     "english": "mobile source",
-    "traditional_chinese": "移動來源",
-    "definition_cht": "指與「移動來源」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "移動污染源",
+    "definition_cht": "會隨位置移動並排放污染物的來源，如汽車、船舶、航空器與鐵路運具等；在空氣污染氣象與排放清冊中為重要分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/mobile_source"
   },
   {
     "english": "mobile weather station",
-    "traditional_chinese": "移動氣象站",
-    "definition_cht": "指與「移動氣象站」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "移動式氣象站",
+    "definition_cht": "可裝載於車輛、拖車、船舶或其他平台上，並依任務需求快速部署與移動的氣象觀測站，用於外場試驗、災害監測或臨時觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/mobile_weather_station"
   },
   {
     "english": "mobility",
-    "traditional_chinese": "流動性",
-    "definition_cht": "指與「流動性」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "遷移率",
+    "definition_cht": "在物理與大氣電學中，指帶電粒子在電場作用下的漂移速度與電場強度之比，可用以描述離子或帶電微粒在介質中的移動能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/mobility"
   },
   {
