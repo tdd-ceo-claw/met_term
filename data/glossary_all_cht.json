@@ -31976,121 +31976,121 @@
   {
     "english": "meteorological observing station",
     "traditional_chinese": "氣象觀測站",
-    "definition_cht": "指與「氣象觀測站」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "設置於固定地點、依標準程序持續量測與記錄氣溫、氣壓、濕度、風、降水、雲量等氣象要素的觀測站，為天氣監測、預報與氣候統計的基礎設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_observing_station"
   },
   {
     "english": "meteorological office",
-    "traditional_chinese": "氣象局",
-    "definition_cht": "指與「氣象局」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象機構",
+    "definition_cht": "辦理氣象觀測、預報、警報、資料處理與相關行政業務的官方或專責機構；在國家層級常指氣象局、氣象署或同等單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_office"
   },
   {
     "english": "meteorological optics",
-    "traditional_chinese": "氣象光學",
-    "definition_cht": "指與「氣象光學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大氣光象學",
+    "definition_cht": "研究光線在大氣中因折射、反射、繞射與散射所形成之光學現象的領域，例如虹、暈、幻日、霞光與海市蜃樓。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_optics"
   },
   {
     "english": "Meteorological range",
-    "traditional_chinese": "氣象範圍",
-    "definition_cht": "指與「氣象範圍」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象視程",
+    "definition_cht": "在當時大氣透明度條件下，觀測者可辨識標準目標或燈光的最大距離，用以表徵能見度狀況；航空與觀測業務中常作為視程評估指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Meteorological_range"
   },
   {
     "english": "meteorological reconnaissance flight",
     "traditional_chinese": "氣象偵察飛行",
-    "definition_cht": "指與「氣象偵察飛行」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由飛機進入目標天氣系統或特定空域，直接量測風、溫度、濕度、氣壓與雲降水結構等資料的任務飛行，常用於熱帶氣旋與強對流監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_reconnaissance_flight"
   },
   {
     "english": "meteorological report",
     "traditional_chinese": "氣象報告",
-    "definition_cht": "指與「氣象報告」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "依既定格式整理並發布的氣象資訊報文或報告，可包含觀測結果、天氣現況、預報內容、警報資訊或航空氣象資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_report"
   },
   {
     "english": "meteorological rocket",
     "traditional_chinese": "氣象火箭",
-    "definition_cht": "指與「氣象火箭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "攜帶氣象儀器升空，以探測高層大氣之溫度、壓力、風、密度或電離狀態等參數的探空火箭。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_rocket"
   },
   {
     "english": "meteorological satellite",
     "traditional_chinese": "氣象衛星",
-    "definition_cht": "搭載可見光、紅外、微波等感測器，用於持續觀測大氣、雲系、海面與地表狀態的人造衛星。",
+    "definition_cht": "搭載可見光、紅外與微波等感測器，用於持續觀測雲系、大氣、海洋與地表狀態的人造衛星，是現代天氣監測與數值預報的重要資料來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_satellite"
   },
   {
     "english": "meteorological service",
-    "traditional_chinese": "氣象服務",
-    "definition_cht": "指與「氣象服務」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象業務服務",
+    "definition_cht": "為公共安全、航空、航運、農業、能源等用途提供觀測、預報、警報、氣候資訊與專業支援的整體氣象服務體系。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_service"
   },
   {
     "english": "meteorological symbol",
     "traditional_chinese": "氣象符號",
-    "definition_cht": "指與「氣象符號」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "用於天氣圖、站模或觀測報表中，以約定圖形、記號或簡碼表示雲量、天氣現象、風向風速及其他氣象要素的符號系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_symbol"
   },
   {
     "english": "meteorological transmission",
-    "traditional_chinese": "氣象傳輸",
-    "definition_cht": "指與「氣象傳輸」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象資料傳輸",
+    "definition_cht": "透過通訊網路傳送氣象觀測、預報、警報或相關報文資料的作業與流程，以支援即時交換、業務發布與國際資料流通。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_transmission"
   },
   {
     "english": "meteorological watch office",
-    "traditional_chinese": "氣象觀測站",
-    "definition_cht": "指與「氣象觀測站」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象守視中心",
+    "definition_cht": "航空氣象業務中持續監視責任區內可能影響飛航之危險天氣，並發布相關守視資訊或警告（如 SIGMET）的專責單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_watch_office"
   },
   {
     "english": "Meteorologist",
     "traditional_chinese": "氣象學家",
-    "definition_cht": "指與「氣象學家」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "研究大氣過程、分析觀測與模式資料，並從事天氣預報、氣候分析或相關應用工作的專業人員。",
     "source_url": "https://glossary.ametsoc.org/wiki/Meteorologist"
   },
   {
     "english": "meteorology",
     "traditional_chinese": "氣象學",
-    "definition_cht": "研究大氣現象、天氣系統、氣候變化及其物理過程的科學。",
+    "definition_cht": "研究大氣現象、天氣系統、輻射、雲降水、環流及其物理與動力過程的科學，並延伸應用於天氣預報與氣候研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorology"
   },
   {
     "english": "Meteosat",
-    "traditional_chinese": "氣象衛星",
-    "definition_cht": "指與「氣象衛星」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Meteosat 氣象衛星",
+    "definition_cht": "由 EUMETSAT 營運的歐洲靜止軌道氣象衛星系列，主要用於歐洲、非洲與鄰近海域的雲圖監測、短延時天氣分析與氣候監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Meteosat"
   },
   {
     "english": "Meteosat Second Generation",
-    "traditional_chinese": "第二代氣象衛星",
-    "definition_cht": "指與「第二代氣象衛星」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "第二代 Meteosat 氣象衛星",
+    "definition_cht": "Meteosat 的第二代靜止軌道氣象衛星系列，具較高的時間與空間解析度，可更有效支援快速發展劇烈天氣的早期偵測、預報與氣候監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Meteosat_Second_Generation"
   },
   {
     "english": "Meteotsunami",
-    "traditional_chinese": "氣像海嘯",
-    "definition_cht": "指與「氣像海嘯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象海嘯",
+    "definition_cht": "由快速移動的大氣壓力擾動、鋒面、重力波或強對流系統引發的海面長波，其機制不同於地震海嘯，但沿岸仍可能造成顯著水位震盪與災害。",
     "source_url": "https://glossary.ametsoc.org/wiki/Meteotsunami"
   },
   {
     "english": "meter",
-    "traditional_chinese": "儀表",
-    "definition_cht": "泛指用於量測特定物理量、化學量或環境參數的計量儀器。",
+    "traditional_chinese": "公尺",
+    "definition_cht": "國際單位制中長度的基本單位，符號為 m。",
     "source_url": "https://glossary.ametsoc.org/wiki/meter"
   },
   {
     "english": "meter–tonne–second system",
-    "traditional_chinese": "米-噸-秒系統",
-    "definition_cht": "用於量測「米-噸-秒系統」相關物理量的儀器或感測設備。",
+    "traditional_chinese": "米－噸－秒制",
+    "definition_cht": "以公尺、噸與秒為基本單位所構成的力學單位系統，曾用於工程與應用物理領域。",
     "source_url": "https://glossary.ametsoc.org/wiki/meter%E2%80%93tonne%E2%80%93second_system"
   },
   {
     "english": "methacrolein",
     "traditional_chinese": "甲基丙烯醛",
-    "definition_cht": "指與「甲基丙烯醛」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一種不飽和醛類揮發性有機化合物，可由異戊二烯等碳氫化合物在大氣中氧化生成，為對流層光化學反應與臭氧生成研究中的重要中間產物。",
     "source_url": "https://glossary.ametsoc.org/wiki/methacrolein"
   },
   {
