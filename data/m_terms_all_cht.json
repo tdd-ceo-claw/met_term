@@ -1789,122 +1789,122 @@
   },
   {
     "english": "microbarogram",
-    "traditional_chinese": "微氣壓圖",
-    "definition_cht": "指與「微氣壓圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微氣壓記錄圖",
+    "definition_cht": "由微氣壓自記器記錄所得的氣壓時間變化曲線，用於呈現極微小且快速的氣壓波動。",
     "source_url": "https://glossary.ametsoc.org/wiki/microbarogram"
   },
   {
     "english": "microbarograph",
     "traditional_chinese": "微氣壓自記器",
-    "definition_cht": "指與「微氣壓自記器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "能高靈敏度連續記錄極微小、快速氣壓變化的自記式氣壓儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/microbarograph"
   },
   {
     "english": "microbarovariograph",
-    "traditional_chinese": "微壓氣壓計",
-    "definition_cht": "指與「微壓氣壓計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微氣壓變化自記器",
+    "definition_cht": "用於測定並連續記錄極微小氣壓變動率或短週期氣壓擾動的高靈敏儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/microbarovariograph"
   },
   {
     "english": "microburst",
     "traditional_chinese": "微下擊暴流",
-    "definition_cht": "自強對流雲底急速下沉並於近地面向外擴散的小尺度強烈下擊暴流，對航空安全威脅甚大。",
+    "definition_cht": "尺度很小但強度很大的下擊暴流，常自強對流雲底急遽下沉並在近地面向外擴散，可造成劇烈低空風切，對航空安全威脅甚大。",
     "source_url": "https://glossary.ametsoc.org/wiki/microburst"
   },
   {
     "english": "microclimate",
     "traditional_chinese": "微氣候",
-    "definition_cht": "受地形、植被、建物或地表性質影響而在小範圍內形成的局地氣候。",
+    "definition_cht": "受地形、植被、建成環境、土壤或水體等局地條件影響，在近地表小範圍內形成、且與周圍區域不同的氣候特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/microclimate"
   },
   {
     "english": "microclimatology",
     "traditional_chinese": "微氣候學",
-    "definition_cht": "指與「微氣候學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "研究小範圍近地表環境中氣候特徵及其形成機制的學科，著重地表與大氣之間的熱量、水分與動量交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/microclimatology"
   },
   {
     "english": "microfront",
-    "traditional_chinese": "微前端",
-    "definition_cht": "指與「微前端」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微尺度鋒面",
+    "definition_cht": "尺度很小、生命期較短的鋒面型邊界，常表現為狹窄區域內風向、溫度、濕度或密度的明顯突變。",
     "source_url": "https://glossary.ametsoc.org/wiki/microfront"
   },
   {
     "english": "microlayer",
     "traditional_chinese": "微層",
-    "definition_cht": "指與「微層」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指界面附近極薄的一層介質；在海氣交換研究中常特指海表微層，即海洋最上方具有特殊物理、化學與生物性質的薄層。",
     "source_url": "https://glossary.ametsoc.org/wiki/microlayer"
   },
   {
     "english": "micrometeorology",
     "traditional_chinese": "微氣象學",
-    "definition_cht": "指與「微氣象學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "研究微尺度大氣現象與近地表湍流交換過程的氣象學分支，特別關注地表與大氣間的熱量、水氣、動量及微量氣體通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/micrometeorology"
   },
   {
     "english": "micrometer",
-    "traditional_chinese": "千分尺",
-    "definition_cht": "指與「千分尺」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "測微計",
+    "definition_cht": "用於測量極微小距離、厚度、角距或位移的精密儀器；在不同領域可指顯微鏡、望遠鏡或機械量測所用的測微裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/micrometer"
   },
   {
     "english": "micropluviometer",
-    "traditional_chinese": "微雨計",
-    "definition_cht": "指與「微雨計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微雨量計",
+    "definition_cht": "用於量測極小降水量或短時間細微降雨變化的高靈敏雨量計。",
     "source_url": "https://glossary.ametsoc.org/wiki/micropluviometer"
   },
   {
     "english": "micropulsations",
     "traditional_chinese": "微脈動",
-    "definition_cht": "指與「微脈動」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "地球磁場中振幅很小、週期較短的自然脈動，屬超低頻地磁變動的一類，常用於日地物理與電離層研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/micropulsations"
   },
   {
     "english": "microscale",
     "traditional_chinese": "微尺度",
-    "definition_cht": "指與「微尺度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "比中尺度更小的大氣或環境尺度，通常指水平尺度約小於一公里、持續時間較短且受局地下墊面與湍流影響顯著的現象範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/microscale"
   },
   {
     "english": "microseism",
     "traditional_chinese": "微震",
-    "definition_cht": "指與「微震」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由海浪、風暴或其他自然作用所激發、振幅微弱而持續的背景地震動。",
     "source_url": "https://glossary.ametsoc.org/wiki/microseism"
   },
   {
     "english": "microstrip antenna",
     "traditional_chinese": "微帶天線",
-    "definition_cht": "指與「微帶天線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由介電基板上的金屬輻射片與接地面組成的平面天線，常用於微波、雷達與遙測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/microstrip_antenna"
   },
   {
     "english": "microstructure",
-    "traditional_chinese": "微觀結構",
-    "definition_cht": "指與「微觀結構」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微細結構",
+    "definition_cht": "物質或流體在很小空間尺度上的細部結構；在海洋與大氣研究中常指溫度、鹽度、密度或速度場的細尺度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/microstructure"
   },
   {
     "english": "microtherm",
-    "traditional_chinese": "低溫",
-    "definition_cht": "指與「低溫」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "冷溫性植物",
+    "definition_cht": "適生於年平均溫度較低環境的植物；傳統上常指適合約攝氏 0 至 14 度氣候條件生長的植物。",
     "source_url": "https://glossary.ametsoc.org/wiki/microtherm"
   },
   {
     "english": "microthermal",
-    "traditional_chinese": "微熱",
-    "definition_cht": "指與「微熱」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "冷溫型的",
+    "definition_cht": "形容熱量或溫度變化極小，或在氣候分類中指具有冷冬特徵的冷溫型、大陸性氣候性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/microthermal"
   },
   {
     "english": "microthermal climate",
-    "traditional_chinese": "微熱氣候",
-    "definition_cht": "指「微熱氣候」所對應的氣候類型、區域氣候條件或其長期平均特徵。",
+    "traditional_chinese": "冷溫型氣候",
+    "definition_cht": "氣候分類中指冬季明顯寒冷的中高緯度氣候，通常以最冷月平均氣溫低於約攝氏 -3 度作為常見判據，約當傳統所稱的冷溫型或大陸性氣候。",
     "source_url": "https://glossary.ametsoc.org/wiki/microthermal_climate"
   },
   {
     "english": "microvariation of pressure",
-    "traditional_chinese": "壓力的微變化",
-    "definition_cht": "指與「壓力的微變化」相關的壓力狀態、壓力分布或其派生診斷量。",
+    "traditional_chinese": "氣壓微變",
+    "definition_cht": "氣壓在短時間內出現的極微小波動或擾動，常需以高靈敏微氣壓儀加以觀測與記錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/microvariation_of_pressure"
   },
   {
