@@ -890,121 +890,121 @@
   {
     "english": "nonharmonic tidal analysis",
     "traditional_chinese": "非諧波潮汐分析",
-    "definition_cht": "「非諧波潮汐分析」指對觀測、模式或遙測資料所進行的系統化分析方法或成果，用於診斷環境場的結構與演變。",
+    "definition_cht": "不預先將潮位或潮流變化限制為固定諧波成分，而直接依觀測資料解析潮汐隨時間的非線性、淺水分潮與非定常特徵之分析方法；常用於河口、近岸與受地形影響明顯水域。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonharmonic_tidal_analysis"
   },
   {
     "english": "nonhydrostatic model",
-    "traditional_chinese": "非靜水力模式",
-    "definition_cht": "「非靜水力模式」為用以描述、模擬或預測大氣、海洋、水文或環境系統的概念性、統計性或數值性模式。",
+    "traditional_chinese": "非靜力模式",
+    "definition_cht": "不採靜力平衡假設、而直接求解垂直動量方程的大氣或海洋數值模式；較適合模擬強對流、山區環流、重力波及高解析度邊界層等垂直加速度不可忽略的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonhydrostatic_model"
   },
   {
     "english": "noninductive charging mechanism",
-    "traditional_chinese": "無感充電機制",
-    "definition_cht": "「無感充電機制」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非感應起電機制",
+    "definition_cht": "雷暴電氣化的重要機制之一，指霰、冰晶與過冷水滴在碰撞過程中，不需外加電場感應即發生電荷分離與轉移；被認為是積雨雲內形成主要正負電荷區的關鍵過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/noninductive_charging_mechanism"
   },
   {
     "english": "nonlinear",
-    "traditional_chinese": "非線性",
-    "definition_cht": "「非線性」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非線性的",
+    "definition_cht": "指系統輸入與輸出之間不呈線性比例關係，或控制方程含有變數乘積、次方等非線性項；在大氣與海洋動力中常導致回饋、尺度交互作用、突變或混沌行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonlinear"
   },
   {
     "english": "nonlinear instability",
-    "traditional_chinese": "非線性不穩定性",
-    "definition_cht": "「非線性不穩定性」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非線性不穩定",
+    "definition_cht": "指擾動的成長主要受非線性作用控制之不穩定現象；即使線性理論預測為中性或穩定，系統仍可能因有限振幅擾動、能量轉換或模態交互作用而快速偏離原狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonlinear_instability"
   },
   {
     "english": "nonlinearity of the equation of state",
-    "traditional_chinese": "狀態方程式的非線性",
-    "definition_cht": "「狀態方程式的非線性」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "狀態方程的非線性",
+    "definition_cht": "指流體密度對溫度、鹽度與壓力的關係並非線性，故不同水團混合後的密度變化不等於各自密度變化的線性和；在海洋學中可導致 cabbeling、thermobaricity 等效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonlinearity_of_the_equation_of_state"
   },
   {
     "english": "nonlocal closure",
-    "traditional_chinese": "非局部閉包",
-    "definition_cht": "「非局部閉包」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非局地閉合",
+    "definition_cht": "湍流或邊界層參數化中的閉合方法，將未知通量或二階量表示為與多個高度層的平均場或整層結構有關，而非僅依局地梯度；常用於對流邊界層的大尺度渦混合作用描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonlocal_closure"
   },
   {
     "english": "nonlocal flux",
-    "traditional_chinese": "非局部通量",
-    "definition_cht": "「非局部通量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非局地通量",
+    "definition_cht": "由大尺度湍渦或整層對流輸送所造成、不能僅以局地梯度擴散表示的熱量、水氣、動量或其他物質通量；在混合層中常用以表徵熱羽與大型渦旋的垂直輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonlocal_flux"
   },
   {
     "english": "nonlocal mixing",
-    "traditional_chinese": "非局部混合",
-    "definition_cht": "「非局部混合」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非局地混合",
+    "definition_cht": "指混合或輸送由尺度較大的渦旋、熱泡或整層環流主導，其效果不只取決於局地梯度，而與較遠處或整個邊界層結構相關；常見於對流邊界層與海洋混合層。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonlocal_mixing"
   },
   {
     "english": "nonlocal static stability",
-    "traditional_chinese": "非局部靜態穩定性",
-    "definition_cht": "「非局部靜態穩定性」用以描述系統受擾動後維持、恢復或偏離原有狀態的能力，是判斷流體與大氣層結的重要概念。",
+    "traditional_chinese": "非局地靜力穩定度",
+    "definition_cht": "用以評估大氣柱或流體層整體位能分布對垂直位移之穩定程度的概念，強調穩定度不僅由單一層局地溫度梯度決定，也可能受較深層整體熱力結構與遠距耦合作用影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonlocal_static_stability"
   },
   {
     "english": "nonmethane hydrocarbons",
     "traditional_chinese": "非甲烷碳氫化合物",
-    "definition_cht": "「非甲烷碳氫化合物」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "大氣中除甲烷以外各類碳氫化合物的總稱，常縮寫為 NMHC；多來自交通、石化、溶劑使用與生物排放，能參與光化學反應並促進對流層臭氧與二次有機氣膠形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonmethane_hydrocarbons"
   },
   {
     "english": "nonrecording rain gauge",
-    "traditional_chinese": "非記錄雨量計",
-    "definition_cht": "「非記錄雨量計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非記錄式雨量計",
+    "definition_cht": "僅收集並量測某一觀測時段累積降水量、但不連續記錄降水隨時間變化的雨量計；通常需人工讀值，無法直接提供降雨強度歷時曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonrecording_rain_gauge"
   },
   {
     "english": "nonsupercell tornado",
-    "traditional_chinese": "非超細胞龍捲風",
-    "definition_cht": "「非超細胞龍捲風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "非超級胞龍捲風",
+    "definition_cht": "並非由具有中尺度旋轉上升氣流的超級胞雷暴所產生的龍捲風；其生成常與邊界層渦度被積雲或弱對流上升氣流拉伸有關，陸龍捲與多數水龍捲皆屬此類。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonsupercell_tornado"
   },
   {
     "english": "nonwetting liquid",
     "traditional_chinese": "非潤濕液體",
-    "definition_cht": "「非潤濕液體」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "對某固體表面接觸角大於 90°、不易鋪展成薄膜的液體；在土壤物理、多孔介質流動與毛細作用研究中，常用以描述不易進入細孔或傾向形成分離液滴的液相。",
     "source_url": "https://glossary.ametsoc.org/wiki/nonwetting_liquid"
   },
   {
     "english": "nor'easter",
-    "traditional_chinese": "東北復活節",
-    "definition_cht": "「東北復活節」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "東北風暴",
+    "definition_cht": "發生於北美東岸與北大西洋西部的大尺度溫帶氣旋，因地面盛行東北風而得名；常伴隨強風、豪雨或暴雪、沿岸淹水與海岸侵蝕，冬半年尤為常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/nor%27easter"
   },
   {
     "english": "nor'wester",
-    "traditional_chinese": "西北報",
-    "definition_cht": "「西北報」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "焚風型西北風",
+    "definition_cht": "常指紐西蘭南島背風側在西北氣流越過南阿爾卑斯山後形成的暖而乾強風，屬典型焚風現象；在南亞地區亦可指夏季伴隨雷暴的西北風天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/nor%27wester"
   },
   {
     "english": "Nor’west Arch",
-    "traditional_chinese": "西北拱門",
-    "definition_cht": "「西北拱門」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "西北拱雲",
+    "definition_cht": "紐西蘭南島背風側常見的高白色弧形或透鏡狀雲帶，與西北焚風越山後在波動氣流中形成的地形雲有關；其出現通常表示西北暖乾強風正在或即將影響當地。",
     "source_url": "https://glossary.ametsoc.org/wiki/Nor%E2%80%99west_Arch"
   },
   {
     "english": "Nordenskjöld line",
     "traditional_chinese": "諾登舍爾德線",
-    "definition_cht": "「諾登舍爾德線」指具有診斷、統計或空間界定用途的線狀特徵，可代表邊界、軸線、趨勢或帶狀結構。",
+    "definition_cht": "氣候地理上用以界定極地植被或冰雪分布潛勢的經驗界線，將最暖月與最冷月氣溫條件結合，用來近似區分苔原與永久冰雪環境的範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/Nordenskj%C3%B6ld_line"
   },
   {
     "english": "normal",
-    "traditional_chinese": "普通的",
-    "definition_cht": "「普通的」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "氣候常態",
+    "definition_cht": "在氣候學中，指某氣象要素於標準 30 年期間的平均值或其代表性統計量，作為比較當前觀測是否偏冷、偏暖、偏乾或偏濕的基準；WMO 現行常態期多採逐十年更新之 30 年序列。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal"
   },
   {
     "english": "normal aeration",
-    "traditional_chinese": "正常通氣",
-    "definition_cht": "「正常通氣」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "正常曝氣",
+    "definition_cht": "指水體、土壤或處理系統在一般條件下與周圍空氣進行氣體交換，使氧氣得以補充並維持接近常態含氧狀態的通氣作用；常與缺氧或強制曝氣狀況相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_aeration"
   },
   {
