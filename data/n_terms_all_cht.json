@@ -170,122 +170,122 @@
   {
     "english": "nautical mile",
     "traditional_chinese": "海里",
-    "definition_cht": "「海里」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nautical_mile"
+    "definition_cht": "航海、航空與海洋領域常用的距離單位；國際海里定義為 1852 公尺，約等於地球子午線上 1 分緯度的弧長，並與節（每小時 1 海里）直接對應。",
+    "source_url": "https://en.wikipedia.org/wiki/Nautical_mile"
   },
   {
     "english": "nautical system",
-    "traditional_chinese": "航海系統",
-    "definition_cht": "「航海系統」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nautical_system"
+    "traditional_chinese": "航海方位制",
+    "definition_cht": "航海與海事中以羅盤點位或相對船艏方向表示方位的慣用方位系統；實務上常以 32 方位點或左右舷相對方位描述目標方向。",
+    "source_url": "https://en.wikipedia.org/wiki/Points_of_the_compass"
   },
   {
     "english": "nautical twilight",
-    "traditional_chinese": "航海黃昏",
-    "definition_cht": "「航海黃昏」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nautical_twilight"
+    "traditional_chinese": "航海曙暮光",
+    "definition_cht": "曙暮光的一個階段，指太陽中心位於地平線下 6° 至 12° 之間的時段；此時地平線通常仍可辨識，傳統上有利於海上目視導航與天體定位。",
+    "source_url": "https://en.wikipedia.org/wiki/Twilight#Nautical_twilight"
   },
   {
     "english": "Navier–Stokes equations",
-    "traditional_chinese": "納維-斯托克斯方程",
-    "definition_cht": "「納維-斯托克斯方程」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Navier%E2%80%93Stokes_equations"
+    "traditional_chinese": "納維－斯托克斯方程組",
+    "definition_cht": "描述黏性流體動量守恆與質量守恆的偏微分方程組，為大氣、海洋、水文與工程流體力學中模擬流速、壓力及湍流過程的重要基礎。",
+    "source_url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations"
   },
   {
     "english": "navigable semicircle",
-    "traditional_chinese": "通航半圓",
-    "definition_cht": "「通航半圓」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/navigable_semicircle"
+    "traditional_chinese": "可航半圓",
+    "definition_cht": "熱帶氣旋移動時，相對於其前進方向風速較弱、對船舶較有利的半圓區域；在北半球通常為左半圓，在南半球則相反。",
+    "source_url": "https://stormgeo.com/insights/the-safe-and-unsafe-semicircles-of-a-storm"
   },
   {
     "english": "navigation",
     "traditional_chinese": "導航",
-    "definition_cht": "「導航」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/navigation"
+    "definition_cht": "決定載具位置、航向、速度與預定路徑，並據以引導船舶、航空器或其他移動平台安全抵達目的地的作業與技術。",
+    "source_url": "https://en.wikipedia.org/wiki/Navigation"
   },
   {
     "english": "NDVI",
-    "traditional_chinese": "歸一化植被指數",
-    "definition_cht": "「歸一化植被指數」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NDVI"
+    "traditional_chinese": "標準化差值植生指數",
+    "definition_cht": "以近紅外與紅光反射率差值及其總和計算的遙測指標，常寫為 NDVI = (NIR − Red) / (NIR + Red)，用於估計植被覆蓋、生長活力與乾旱或土地狀態。",
+    "source_url": "https://science.nasa.gov/earth/earth-observatory/measuring-vegetation-ndvi-evi/"
   },
   {
     "english": "neap range",
-    "traditional_chinese": "小波範圍",
-    "definition_cht": "「小波範圍」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neap_range"
+    "traditional_chinese": "小潮潮差",
+    "definition_cht": "發生於小潮期間的潮差，即高潮位與低潮位之差；在一個朔望潮週期中通常接近最小值。",
+    "source_url": "https://en.wikipedia.org/wiki/Tide#Range_variation:_springs_and_neaps"
   },
   {
     "english": "neap tide",
     "traditional_chinese": "小潮",
-    "definition_cht": "「小潮」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neap_tide"
+    "definition_cht": "月球與太陽對地潮汐作用近似互成直角時出現的潮汐狀態，高潮較低、低潮較高，因而潮差較小，通常見於上弦與下弦附近。",
+    "source_url": "https://en.wikipedia.org/wiki/Tide#Range_variation:_springs_and_neaps"
   },
   {
     "english": "near gale",
-    "traditional_chinese": "近大風",
-    "definition_cht": "「近大風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/near_gale"
+    "traditional_chinese": "近烈風",
+    "definition_cht": "蒲福風級中的 7 級風，風速約 28–33 節（14–17 公尺每秒）；海面常見白沫被風吹成條帶，屬接近烈風的強風狀態。",
+    "source_url": "https://en.wikipedia.org/wiki/Beaufort_scale"
   },
   {
     "english": "near-infrared",
-    "traditional_chinese": "近紅外線",
-    "definition_cht": "「近紅外線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/near-infrared"
+    "traditional_chinese": "近紅外",
+    "definition_cht": "紅外光譜中最接近可見光紅端的波段，常約指 0.7 至 1.4 微米；廣泛應用於遙測、植生監測、水氣吸收分析與材料光譜量測。",
+    "source_url": "https://science.nasa.gov/earth/earth-observatory/measuring-vegetation-ndvi-evi/"
   },
   {
     "english": "near-infrared radiation",
-    "traditional_chinese": "近紅外線輻射",
-    "definition_cht": "「近紅外線輻射」指輻射能量之發射、傳輸、吸收或收支相關概念，常用於大氣輻射、地表能量平衡與遙測分析。",
-    "source_url": "https://glossary.ametsoc.org/wiki/near-infrared_radiation"
+    "traditional_chinese": "近紅外輻射",
+    "definition_cht": "波長位於近紅外波段的電磁輻射，常由地表與植被反射，也可由高溫物體發射；在大氣輻射傳輸與衛星遙測反演中十分重要。",
+    "source_url": "https://en.wikipedia.org/wiki/Infrared#Regions_within_the_infrared"
   },
   {
     "english": "NEBUL code",
-    "traditional_chinese": "星雲程式碼",
-    "definition_cht": "「星雲程式碼」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "NEBUL 雲狀編碼",
+    "definition_cht": "雲觀測與天氣電碼中用來標示雲狀或天空雲況類別的代碼名稱；其用途是將雲量、雲形或相關雲況資訊以標準化符碼方式傳遞與記錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/NEBUL_code"
   },
   {
     "english": "nebule",
-    "traditional_chinese": "星雲",
-    "definition_cht": "「星雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "霧狀雲貌",
+    "definition_cht": "雲層外觀霧化、邊界不清且細節不明顯的描述語，常用於形容均勻、朦朧而缺乏明確結構的雲狀外觀。",
     "source_url": "https://glossary.ametsoc.org/wiki/nebule"
   },
   {
     "english": "nebulosus",
-    "traditional_chinese": "星雲",
-    "definition_cht": "「星雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nebulosus"
+    "traditional_chinese": "霧狀種",
+    "definition_cht": "雲種的「種別」名稱之一，表示雲層呈大片或整片均勻鋪展、缺乏明顯細部或紋理的霧狀外觀；常見於層雲或卷層雲。",
+    "source_url": "https://en.wikipedia.org/wiki/Stratus_cloud"
   },
   {
     "english": "NEC",
-    "traditional_chinese": "日本電氣公司",
-    "definition_cht": "「日本電氣公司」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NEC"
+    "traditional_chinese": "北赤道流",
+    "definition_cht": "北太平洋與北大西洋熱帶海域中由信風驅動、主要向西流動的表層洋流，為副熱帶環流的重要組成，並常作為西邊界流的上游來源。",
+    "source_url": "https://en.wikipedia.org/wiki/North_Equatorial_Current"
   },
   {
     "english": "NECC",
-    "traditional_chinese": "國家會展中心",
-    "definition_cht": "「國家會展中心」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NECC"
+    "traditional_chinese": "北赤道逆流",
+    "definition_cht": "位於北赤道流與南赤道流之間、在熱帶海洋中主要向東流動的表層洋流，常見於太平洋與大西洋，對熱量、鹽度與海氣耦合作用具重要影響。",
+    "source_url": "https://en.wikipedia.org/wiki/Equatorial_Counter_Current"
   },
   {
     "english": "needle ice",
     "traditional_chinese": "針冰",
-    "definition_cht": "「針冰」為與冰凍圈、海冰、降水相態或結冰過程相關之術語，常用於描述其生成、分布或物理性質。",
-    "source_url": "https://glossary.ametsoc.org/wiki/needle_ice"
+    "definition_cht": "地表或淺層土壤中毛細水上升至表面後，在地表以下未凍、地表氣溫低於冰點的條件下凍結形成的細針狀冰柱；可抬升土粒並促進土壤鬆動或緩慢移動。",
+    "source_url": "https://en.wikipedia.org/wiki/Needle_ice"
   },
   {
     "english": "negative cloud-to-ground lightning",
-    "traditional_chinese": "負雲地閃電",
-    "definition_cht": "「負雲地閃電」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/negative_cloud-to-ground_lightning"
+    "traditional_chinese": "負極性雲對地閃電",
+    "definition_cht": "由雷雲主要負電荷區向地面傳輸負電荷的雲對地閃電，是最常見的雲地閃型態；其下行先導通常帶負電，地面則發展向上的正向流光。",
+    "source_url": "https://www.noaa.gov/jetstream/lightning/positive-and-negative-side-of-lightning"
   },
   {
     "english": "negative feedback",
-    "traditional_chinese": "負面回饋",
-    "definition_cht": "「負面回饋」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/negative_feedback"
+    "traditional_chinese": "負回饋",
+    "definition_cht": "系統對外部擾動或內部變化所產生的回應會削弱原先變化、使系統趨於穩定的機制；在氣候、大氣化學、水文與生態系統分析中皆常見。",
+    "source_url": "https://en.wikipedia.org/wiki/Negative_feedback"
   },
   {
     "english": "negative isothermal vorticity advection",
