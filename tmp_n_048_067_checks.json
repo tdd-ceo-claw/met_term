@@ -1,0 +1,302 @@
+[
+  {
+    "english": "negative isothermal vorticity advection",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Vorticity",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Vorticity\",\"displaytitle\":\" Vorticity \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q1143513\",\"titles\":{\"canonical\":\"Vorticity\",\"normalized\":\"Vorticity\",\"display\":\" Vorticity \"},\"pageid\":166010,\"lang\":\"en\",\"dir\":\"ltr\",\"revision\":\"1339512104\",\"tid\":\"26039f62-0eb0-11f1-b3f7-f36f22cad071\",\""
+      },
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Advection",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Advection\",\"displaytitle\":\" Advection \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q379788\",\"titles\":{\"canonical\":\"Advection\",\"normalized\":\"Advection\",\"display\":\" Advection \"},\"pageid\":166377,\"lang\":\"en\",\"dir\":\"ltr\",\"revision\":\"1338507895\",\"tid\":\"053de140-0a87-11f1-9e20-6a8f8efaf43e\",\"t"
+      }
+    ]
+  },
+  {
+    "english": "negative rain",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Precipitation",
+        "ok": true,
+        "snippet": "Precipitation - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-dis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Water_balance",
+        "ok": true,
+        "snippet": "Water balance - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-dis"
+      }
+    ]
+  },
+  {
+    "english": "negative viscosity",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eddy_viscosity",
+        "ok": true,
+        "snippet": "Viscosity - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disable"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Inverse_energy_cascade",
+        "ok": true,
+        "snippet": "Energy cascade - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-di"
+      }
+    ]
+  },
+  {
+    "english": "nemere",
+    "checks": [
+      {
+        "url": "https://www.erdely7csodaja.ro/en/nemere-mountain-and-balvanyos-resort/",
+        "ok": true,
+        "snippet": "img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size: 3000px 1500px } This Page Was Not Found - erdely7csodaja.ro {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"/#organization\",\"name\":\"WordPress\"},{\"@type\":\"WebSite\",\"@id\":\"/#website\",\"url\":\"\",\"name\":\"WordPress\",\"publisher\":{\""
+      },
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Local_wind",
+        "ok": false,
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "english": "Neoglacial",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Neoglaciation",
+        "ok": true,
+        "snippet": "Neoglaciation - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-dis"
+      },
+      {
+        "url": "https://www.britannica.com/science/Holocene-Epoch",
+        "ok": true,
+        "snippet": "Holocene epoch | Causes, Effects, & Facts | Britannica {\"adLeg\":\"D\",\"leg\":\"A\",\"userType\":\"ANONYMOUS\",\"pageType\":\"Topic\",\"articleId\":117456,\"articleTemplateType\":\"PAGINATED\",\"gisted\":false,\"hasAiTopQuestions\":true,\"hasAskButton\":true,\"hasIndexSummary\":false,\"hasNews\":false,\"hasSimplifyButton\":true,\"topicId\":269574} wind"
+      }
+    ]
+  },
+  {
+    "english": "neon",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Neon",
+        "ok": true,
+        "snippet": "Neon - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vec"
+      },
+      {
+        "url": "https://pubchem.ncbi.nlm.nih.gov/element/Neon",
+        "ok": true,
+        "snippet": "Neon | Ne (Element) - PubChem window.ncbi_startTime = new Date () { \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"PubChem\", \"url\": \"https://pubchem.ncbi.nlm.nih.gov\", \"logo\": \"https://pubchem.ncbi.nlm.nih.gov/pcfe/logo/PubChem_logo.png\", \"foundingDate\": \"2004\" } const storageAvailable=function(){t"
+      }
+    ]
+  },
+  {
+    "english": "neper",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Neper",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Neper\",\"displaytitle\":\" Neper \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q50094\",\"titles\":{\"canonical\":\"Neper\",\"normalized\":\"Neper\",\"display\":\" Neper \"},\"pageid\":41402,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/e/e3/John_Napier.jpg?utm_source=en.wikipedia.or"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/neper",
+        "ok": true,
+        "snippet": "NEPER Definition &amp; Meaning - Merriam-Webster !function(n,e,t,r,i,o,a,c,s){for(var u=!0,f=0;f -1){u&&\"no\"===document.scripts[f].getAttribute(\"data-lazy\")&&(u=!1);break}var p=[];function d(n){return\"e\"in n}function l(n){return\"p\"in n}function v(n){return\"f\"in n}var h=[];function m(n){u&&(d(n)||l(n)||v(n)&&n.f.indexOf"
+      }
+    ]
+  },
+  {
+    "english": "nephanalysis",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Nephanalysis",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Nephanalysis\",\"displaytitle\":\" Nephanalysis \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q3874228\",\"titles\":{\"canonical\":\"Nephanalysis\",\"normalized\":\"Nephanalysis\",\"display\":\" Nephanalysis \"},\"pageid\":15369533,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/5"
+      },
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Cloud",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Cloud\",\"displaytitle\":\" Cloud \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q8074\",\"titles\":{\"canonical\":\"Cloud\",\"normalized\":\"Cloud\",\"display\":\" Cloud \"},\"pageid\":47515,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/3"
+      }
+    ]
+  },
+  {
+    "english": "nephcurve",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Turbidity",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Turbidity\",\"displaytitle\":\" Turbidity \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q898574\",\"titles\":{\"canonical\":\"Turbidity\",\"normalized\":\"Turbidity\",\"display\":\" Turbidity \"},\"pageid\":289710,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/c/c6/TurbidityStandards.j"
+      },
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Nephelometry",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Nephelometer\",\"displaytitle\":\" Nephelometer \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q12133588\",\"titles\":{\"canonical\":\"Nephelometer\",\"normalized\":\"Nephelometer\",\"display\":\" Nephelometer \"},\"pageid\":290793,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/"
+      }
+    ]
+  },
+  {
+    "english": "nephelometer",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Nephelometer",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Nephelometer\",\"displaytitle\":\" Nephelometer \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q12133588\",\"titles\":{\"canonical\":\"Nephelometer\",\"normalized\":\"Nephelometer\",\"display\":\" Nephelometer \"},\"pageid\":290793,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nephelometer",
+        "ok": true,
+        "snippet": "NEPHELOMETER Definition &amp; Meaning - Merriam-Webster [{ \"@context\": \"https://schema.org\", \"@type\": \"WebPage\", \"name\": \"Definition of nephelometer\", \"url\": \"https://www.merriam-webster.com/dictionary/nephelometer\", \"description\": \"Definition of 'nephelometer' by Merriam-Webster\", \"isPartOf\": { \"@id\":\"https://www.merr"
+      }
+    ]
+  },
+  {
+    "english": "nephelometry",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nephelometer",
+        "ok": true,
+        "snippet": "Nephelometer - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Turbidity",
+        "ok": true,
+        "snippet": "Turbidity - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disable"
+      }
+    ]
+  },
+  {
+    "english": "nepheloscope",
+    "checks": [
+      {
+        "url": "https://en.wiktionary.org/wiki/nephoscope",
+        "ok": true,
+        "snippet": "nephoscope - Wiktionary, the free dictionary (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-m"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nephoscope",
+        "ok": true,
+        "snippet": "NEPHOSCOPE Definition &amp; Meaning - Merriam-Webster [{ \"@context\": \"https://schema.org\", \"@type\": \"WebPage\", \"name\": \"Definition of nephoscope\", \"url\": \"https://www.merriam-webster.com/dictionary/nephoscope\", \"description\": \"Definition of 'nephoscope' by Merriam-Webster\", \"isPartOf\": { \"@id\":\"https://www.merriam-webs"
+      }
+    ]
+  },
+  {
+    "english": "nephology",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Nephology",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Cloud\",\"displaytitle\":\" Cloud \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q8074\",\"titles\":{\"canonical\":\"Cloud\",\"normalized\":\"Cloud\",\"display\":\" Cloud \"},\"pageid\":47515,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/3"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nephology",
+        "ok": true,
+        "snippet": "NEPHOLOGY Definition &amp; Meaning - Merriam-Webster [{ \"@context\": \"https://schema.org\", \"@type\": \"WebPage\", \"name\": \"Definition of nephology\", \"url\": \"https://www.merriam-webster.com/dictionary/nephology\", \"description\": \"Definition of 'nephology' by Merriam-Webster\", \"isPartOf\": { \"@id\":\"https://www.merriam-webster."
+      }
+    ]
+  },
+  {
+    "english": "nephometer",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Cloud",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Cloud\",\"displaytitle\":\" Cloud \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q8074\",\"titles\":{\"canonical\":\"Cloud\",\"normalized\":\"Cloud\",\"display\":\" Cloud \"},\"pageid\":47515,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/3"
+      },
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Cloud_base",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Cloud base\",\"displaytitle\":\" Cloud base \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q1781211\",\"titles\":{\"canonical\":\"Cloud_base\",\"normalized\":\"Cloud base\",\"display\":\" Cloud base \"},\"pageid\":224336,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cloud_ba"
+      }
+    ]
+  },
+  {
+    "english": "nephoscope",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nephoscope",
+        "ok": true,
+        "snippet": "Nephoscope - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabl"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nephoscope",
+        "ok": true,
+        "snippet": "NEPHOSCOPE Definition &amp; Meaning - Merriam-Webster [{ \"@context\": \"https://schema.org\", \"@type\": \"WebPage\", \"name\": \"Definition of nephoscope\", \"url\": \"https://www.merriam-webster.com/dictionary/nephoscope\", \"description\": \"Definition of 'nephoscope' by Merriam-Webster\", \"isPartOf\": { \"@id\":\"https://www.merriam-webs"
+      }
+    ]
+  },
+  {
+    "english": "nested grids",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Numerical_weather_prediction",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Numerical weather prediction\",\"displaytitle\":\" Numerical weather prediction \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q837552\",\"titles\":{\"canonical\":\"Numerical_weather_prediction\",\"normalized\":\"Numerical weather prediction\",\"display\":\" Numerical weather prediction \"},\"pageid\":1505381"
+      },
+      {
+        "url": "https://www2.mmm.ucar.edu/wrf/users/wrf_users_guide/build/html/namelist_variables.html",
+        "ok": true,
+        "snippet": "Namelist Variables &#8212; WRF Users Guide documentation WRF Users Guide documentation previous | next | index Table of Contents WRF Overview WRF Preprocessing System (WPS) WRF Initialization WRF-ARW Solver WRF Data Assimilation (WRFDA) Post-processing, Analysis, and Visualization Tools Resources Foreword WRF Overview "
+      }
+    ]
+  },
+  {
+    "english": "net balance",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Glacier_mass_balance",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Glacier mass balance\",\"displaytitle\":\" Glacier mass balance \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q3528741\",\"titles\":{\"canonical\":\"Glacier_mass_balance\",\"normalized\":\"Glacier mass balance\",\"display\":\" Glacier mass balance \"},\"pageid\":4186046,\"thumbnail\":{\"source\":\"https://upload."
+      },
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Mass_balance",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Mass balance\",\"displaytitle\":\" Mass balance \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q3276889\",\"titles\":{\"canonical\":\"Mass_balance\",\"normalized\":\"Mass balance\",\"display\":\" Mass balance \"},\"pageid\":2428476,\"lang\":\"en\",\"dir\":\"ltr\",\"revision\":\"1345968248\",\"tid\":\"f39234e6-2b32-11f1-91f4"
+      }
+    ]
+  },
+  {
+    "english": "net primary production",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Net_primary_productivity",
+        "ok": true,
+        "snippet": "Primary production - Wikipedia (function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinne"
+      },
+      {
+        "url": "https://earthobservatory.nasa.gov/features/MeasuringVegetation/measuring_vegetation_2.php",
+        "ok": true,
+        "snippet": "var gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",function(){gform.scriptsLoaded=!0}),document.addEventListener(\"gform/theme/scripts_loaded\",function(){gform.themeScriptsLoaded=!0}),window.addEventListener(\"DOMContentLoaded\",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,them"
+      }
+    ]
+  },
+  {
+    "english": "net pyranometer",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Net_radiometer",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Net radiometer\",\"displaytitle\":\" Net radiometer \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q10776237\",\"titles\":{\"canonical\":\"Net_radiometer\",\"normalized\":\"Net radiometer\",\"display\":\" Net radiometer \"},\"pageid\":11467678,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/comm"
+      },
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Pyranometer",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Pyranometer\",\"displaytitle\":\" Pyranometer \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q653486\",\"titles\":{\"canonical\":\"Pyranometer\",\"normalized\":\"Pyranometer\",\"display\":\" Pyranometer \"},\"pageid\":1009291,\"lang\":\"en\",\"dir\":\"ltr\",\"revision\":\"1350417070\",\"tid\":\"fa276bb3-3dc3-11f1-b7c5-8f8d8"
+      }
+    ]
+  },
+  {
+    "english": "net pyrgeometer",
+    "checks": [
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Net_radiometer",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Net radiometer\",\"displaytitle\":\" Net radiometer \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q10776237\",\"titles\":{\"canonical\":\"Net_radiometer\",\"normalized\":\"Net radiometer\",\"display\":\" Net radiometer \"},\"pageid\":11467678,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/comm"
+      },
+      {
+        "url": "https://en.wikipedia.org/api/rest_v1/page/summary/Pyrgeometer",
+        "ok": true,
+        "snippet": "{\"type\":\"standard\",\"title\":\"Pyrgeometer\",\"displaytitle\":\" Pyrgeometer \",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q2119889\",\"titles\":{\"canonical\":\"Pyrgeometer\",\"normalized\":\"Pyrgeometer\",\"display\":\" Pyrgeometer \"},\"pageid\":1024323,\"thumbnail\":{\"source\":\"https://upload.wikimedia.org/wikipedia/en/e/e4/Pyrgeometer_C"
+      }
+    ]
+  }
+]

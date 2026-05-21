@@ -34016,122 +34016,122 @@
   {
     "english": "negative isothermal vorticity advection",
     "traditional_chinese": "負等溫渦度平流",
-    "definition_cht": "「負等溫渦度平流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/negative_isothermal_vorticity_advection"
+    "definition_cht": "在等溫分析或等熵／等溫層面診斷中，某地因平流作用而接收到較低的渦度值；常用於描述高空流場中渦度減少的平流效應，與下沉或天氣系統減弱等診斷判釋有關。",
+    "source_url": "https://glossary.ametsoc.org/wiki/vorticity_advection"
   },
   {
     "english": "negative rain",
-    "traditional_chinese": "負雨",
-    "definition_cht": "「負雨」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/negative_rain"
+    "traditional_chinese": "負雨量",
+    "definition_cht": "指因蒸發、截留回蒸或觀測／水量平衡記號慣例而以負值表示的有效降水量；在實際降水現象中並非「向上降雨」，而是表示水分收支呈淨減少。",
+    "source_url": "https://en.wikipedia.org/wiki/Precipitation"
   },
   {
     "english": "negative viscosity",
     "traditional_chinese": "負黏度",
-    "definition_cht": "「負黏度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/negative_viscosity"
+    "definition_cht": "在流體或地球物理流體力學中，指渦旋或擾動作用非但不耗散大尺度流動動能，反而把小尺度能量回饋到大尺度流場的有效黏滯行為；常見於二維亂流、噴流維持與某些大氣海洋參數化討論。",
+    "source_url": "https://en.wikipedia.org/wiki/Eddy_viscosity"
   },
   {
     "english": "nemere",
-    "traditional_chinese": "內梅雷",
-    "definition_cht": "「內梅雷」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nemere"
+    "traditional_chinese": "內梅雷風",
+    "definition_cht": "羅馬尼亞與喀爾巴阡山弧區的地方風名，通常指自東北或東方吹出的寒冷強陣風，常在冬季造成降溫與風害。",
+    "source_url": "https://en.wikipedia.org/wiki/Local_winds"
   },
   {
     "english": "Neoglacial",
     "traditional_chinese": "新冰期",
-    "definition_cht": "「新冰期」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Neoglacial"
+    "definition_cht": "全新世中晚期冰川在許多山區與高緯地區重新擴張、氣候較前期轉冷的時段或事件總稱，常用於古氣候與第四紀研究。",
+    "source_url": "https://en.wikipedia.org/wiki/Neoglaciation"
   },
   {
     "english": "neon",
     "traditional_chinese": "氖",
-    "definition_cht": "「氖」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neon"
+    "definition_cht": "化學元素，原子序 10，屬稀有氣體；在大氣中含量極低、化性穩定，常作為大氣組成或氣體分析中的微量惰性成分。",
+    "source_url": "https://en.wikipedia.org/wiki/Neon"
   },
   {
     "english": "neper",
     "traditional_chinese": "奈培",
-    "definition_cht": "「奈培」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/neper"
+    "definition_cht": "以自然對數表示振幅比或場量比的對數單位，常用於聲學、電信與波動衰減分析；1 奈培對應振幅比 e:1。",
+    "source_url": "https://en.wikipedia.org/wiki/Neper"
   },
   {
     "english": "nephanalysis",
     "traditional_chinese": "雲圖分析",
-    "definition_cht": "「雲圖分析」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "依地面、航空、衛星或其他觀測資料，分析某一時刻雲量、雲型與雲區分布的作業或成果圖，用於綜觀天氣判釋與預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/nephanalysis"
   },
   {
     "english": "nephcurve",
-    "traditional_chinese": "腎曲線",
-    "definition_cht": "「腎曲線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nephcurve"
+    "traditional_chinese": "濁度曲線",
+    "definition_cht": "以比濁或散射量測結果繪成、用以表示懸浮粒子濃度與光散射響應關係的曲線；亦可指相關校正曲線。",
+    "source_url": "https://en.wiktionary.org/wiki/nephelometer"
   },
   {
     "english": "nephelometer",
-    "traditional_chinese": "濁度計",
-    "definition_cht": "「濁度計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nephelometer"
+    "traditional_chinese": "散射濁度計",
+    "definition_cht": "利用粒子對入射光之散射強度來測量懸浮微粒、霧滴或液體濁度的儀器；在大氣科學中常用於氣膠、能見度與散射係數觀測。",
+    "source_url": "https://en.wikipedia.org/wiki/Nephelometer"
   },
   {
     "english": "nephelometry",
-    "traditional_chinese": "比濁法",
-    "definition_cht": "「比濁法」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nephelometry"
+    "traditional_chinese": "散射比濁法",
+    "definition_cht": "依樣品對光的散射強度來估算懸浮粒子或膠體濃度的量測方法，是 nephelometer 的基本測量原理。",
+    "source_url": "https://en.wikipedia.org/wiki/Nephelometer"
   },
   {
     "english": "nepheloscope",
-    "traditional_chinese": "濁度鏡",
-    "definition_cht": "「濁度鏡」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nepheloscope"
+    "traditional_chinese": "觀雲鏡",
+    "definition_cht": "用於觀測雲移方向與相對速度的儀器，通常藉鏡面、格線或基準標記追蹤雲體運動。",
+    "source_url": "https://en.wiktionary.org/wiki/nephoscope"
   },
   {
     "english": "nephology",
     "traditional_chinese": "雲學",
-    "definition_cht": "「雲學」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nephology"
+    "definition_cht": "研究雲的形成、形態、分類、演變與分布之學科，屬氣象學的重要分支。",
+    "source_url": "https://en.wiktionary.org/wiki/nephology"
   },
   {
     "english": "nephometer",
-    "traditional_chinese": "雲量測定器",
-    "definition_cht": "「雲量測定器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nephometer"
+    "traditional_chinese": "測雲儀",
+    "definition_cht": "早期用於測定雲高、雲移方向或相關雲量幾何資訊的儀器名稱；不同文獻中所指型式可略有差異。",
+    "source_url": "https://en.wiktionary.org/wiki/nephometer"
   },
   {
     "english": "nephoscope",
     "traditional_chinese": "測雲鏡",
-    "definition_cht": "「測雲鏡」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nephoscope"
+    "definition_cht": "觀測雲體移動方向與估計雲速的儀器，常藉鏡面反射天空並配合方位刻度判讀雲行。",
+    "source_url": "https://en.wikipedia.org/wiki/Nephoscope"
   },
   {
     "english": "nested grids",
     "traditional_chinese": "巢狀格網",
-    "definition_cht": "「巢狀格網」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nested_grids"
+    "definition_cht": "數值模式中在較粗解析度母網格內嵌入一個或多個較細解析度子網格的配置，用以在重點區域提高模擬精細度，同時兼顧計算效率。",
+    "source_url": "https://en.wikipedia.org/wiki/Nested_grid_model"
   },
   {
     "english": "net balance",
-    "traditional_chinese": "淨餘額",
-    "definition_cht": "「淨餘額」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_balance"
+    "traditional_chinese": "淨平衡量",
+    "definition_cht": "某一期間內收入與支出、累積與消耗或增量與減量相互抵銷後得到的淨結果；在冰川學常指累積與消融之差，在能量或水量分析中亦可類推使用。",
+    "source_url": "https://en.wikipedia.org/wiki/Glacier_mass_balance"
   },
   {
     "english": "net primary production",
-    "traditional_chinese": "淨初級生產",
-    "definition_cht": "「淨初級生產」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_primary_production"
+    "traditional_chinese": "淨初級生產量",
+    "definition_cht": "自營生物經光合作用固定的總有機碳中，扣除自身呼吸消耗後所剩可供生物量累積與食物網利用的部分。",
+    "source_url": "https://en.wikipedia.org/wiki/Net_primary_productivity"
   },
   {
     "english": "net pyranometer",
-    "traditional_chinese": "淨日射強度計",
-    "definition_cht": "「淨日射強度計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_pyranometer"
+    "traditional_chinese": "淨短波輻射計",
+    "definition_cht": "以成對感測器分別量測向下與向上太陽短波輻射，並取其差值以求得淨短波輻射的儀器。",
+    "source_url": "https://www.baranidesign.com/faq-articles/2020/1/19/net-radiometers-definition-working-principle-and-faqs"
   },
   {
     "english": "net pyrgeometer",
-    "traditional_chinese": "淨輻射強度計",
-    "definition_cht": "「淨輻射強度計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/net_pyrgeometer"
+    "traditional_chinese": "淨長波輻射計",
+    "definition_cht": "以成對感測器量測向下與向上地氣系統長波紅外輻射，並取其差值以求得淨長波輻射的儀器。",
+    "source_url": "https://www.baranidesign.com/faq-articles/2020/1/19/net-radiometers-definition-working-principle-and-faqs"
   },
   {
     "english": "net pyrradiometer",
