@@ -34255,122 +34255,122 @@
   },
   {
     "english": "New Guinea Coastal Undercurrent",
-    "traditional_chinese": "新幾內亞沿海暗流",
-    "definition_cht": "「新幾內亞沿海暗流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "新幾內亞沿岸次表層流",
+    "definition_cht": "指西太平洋赤道流系中的一支西邊界次表層海流，沿新幾內亞北岸向西北流經維蒂亞茲海峽，承接南赤道流北支水體，並為赤道潛流的重要上游來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/New_Guinea_Coastal_Undercurrent"
   },
   {
     "english": "new snow",
     "traditional_chinese": "新雪",
-    "definition_cht": "「新雪」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指最近降落且仍可辨識原始雪晶形狀的積雪；在作業觀測上亦常指前二十四小時內新降的雪量。",
     "source_url": "https://glossary.ametsoc.org/wiki/new_snow"
   },
   {
     "english": "newton",
     "traditional_chinese": "牛頓",
-    "definition_cht": "「牛頓」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "國際單位制中的力單位，符號為 N，定義為使一公斤質量產生每秒平方一公尺加速度所需之力；在大氣與海洋力學中常用於表示推力、阻力與應力量值。",
     "source_url": "https://glossary.ametsoc.org/wiki/newton"
   },
   {
     "english": "Newton's law of cooling",
     "traditional_chinese": "牛頓冷卻定律",
-    "definition_cht": "「牛頓冷卻定律」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指物體與周遭環境溫差不大且傳熱機制近似固定時，其散熱速率與物體和環境之溫度差成正比的定律。",
     "source_url": "https://glossary.ametsoc.org/wiki/Newton%27s_law_of_cooling"
   },
   {
     "english": "Newton's laws of motion",
     "traditional_chinese": "牛頓運動定律",
-    "definition_cht": "「牛頓運動定律」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指描述物體運動與受力關係的三條基本定律，包括慣性定律、加速度定律與作用反作用定律，為牛頓力學與流體動力分析的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Newton%27s_laws_of_motion"
   },
   {
     "english": "Newtonian fluid",
     "traditional_chinese": "牛頓流體",
-    "definition_cht": "「牛頓流體」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指黏滯剪應力與速度梯度（應變率）呈線性正比，比例常數為動力黏滯係數的流體；在固定溫壓下其黏度不隨剪切速率改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/Newtonian_fluid"
   },
   {
     "english": "Newtonian friction law",
     "traditional_chinese": "牛頓摩擦定律",
-    "definition_cht": "「牛頓摩擦定律」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指流體內切向應力與垂直於流向之速度梯度成正比的關係式，比例常數為動力黏滯係數，為 Navier–Stokes 黏滯項的基本假設之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/Newtonian_friction_law"
   },
   {
     "english": "Newtonian mechanics",
     "traditional_chinese": "牛頓力學",
-    "definition_cht": "「牛頓力學」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指以牛頓運動定律為核心、用來描述巨觀物體受力與運動關係的經典力學體系，廣泛應用於大氣、海洋與工程流體運動分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Newtonian_mechanics"
   },
   {
     "english": "NEXRAD",
-    "traditional_chinese": "內克斯拉德",
-    "definition_cht": "「內克斯拉德」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "traditional_chinese": "次世代天氣雷達",
+    "definition_cht": "美國 Next-Generation Radar 的縮寫，技術名稱為 WSR-88D；為由 NWS、FAA 與美國空軍共同運作的 S 波段都卜勒天氣雷達網，用於偵測降水、風場與強對流天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/NEXRAD"
   },
   {
     "english": "night visual range",
-    "traditional_chinese": "夜間可視範圍",
-    "definition_cht": "「夜間可視範圍」指夜間條件下出現或增強的氣象現象，常與輻射冷卻、邊界層穩定化及局地環流演變有關。",
+    "traditional_chinese": "夜間目視距離",
+    "definition_cht": "指夜間在既定背景亮度與大氣透明度條件下，觀測者以肉眼可辨識目標、燈光或標誌的最遠距離，用於航空與航海目視作業評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/night_visual_range"
   },
   {
     "english": "night wind",
     "traditional_chinese": "夜風",
-    "definition_cht": "「夜風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。",
+    "definition_cht": "泛指夜間吹拂的風；常因地表輻射冷卻、邊界層穩定化與局地熱力差異而形成，典型型態包括陸風與山風。",
     "source_url": "https://glossary.ametsoc.org/wiki/night_wind"
   },
   {
     "english": "nilas",
-    "traditional_chinese": "尼拉斯",
-    "definition_cht": "「尼拉斯」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "薄板冰",
+    "definition_cht": "指由海面新生冰進一步發展成的薄而平滑、富彈性的海冰層，厚度通常不超過約十公分，受波浪作用時可明顯起伏而不易破碎。",
     "source_url": "https://glossary.ametsoc.org/wiki/nilas"
   },
   {
     "english": "nimbostratus",
     "traditional_chinese": "雨層雲",
-    "definition_cht": "「雨層雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "雲屬之一，為廣闊、均勻且常呈深灰色的層狀雲，通常伴隨持續性雨、雪或霙；其降水多可到達地面，通常不伴隨閃電與雷聲。",
     "source_url": "https://glossary.ametsoc.org/wiki/nimbostratus"
   },
   {
     "english": "Nimbus",
     "traditional_chinese": "雨雲",
-    "definition_cht": "「雨雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "原指能產生降水的雲，在雲類命名中常作為表示降水性的語根，如積雨雲與雨層雲中的 nimbus。",
     "source_url": "https://glossary.ametsoc.org/wiki/Nimbus"
   },
   {
     "english": "nine-light indicator",
-    "traditional_chinese": "九燈指示燈",
-    "definition_cht": "「九燈指示燈」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "九燈指示器",
+    "definition_cht": "指以九個燈號組合顯示觀測、設備或作業狀態的指示裝置，用於將不同等級或不同類別的訊息以燈光方式快速辨識。",
     "source_url": "https://glossary.ametsoc.org/wiki/nine-light_indicator"
   },
   {
     "english": "Nipher shield",
-    "traditional_chinese": "尼弗盾",
-    "definition_cht": "「尼弗盾」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "尼弗防風罩",
+    "definition_cht": "裝設於雨量器外的圓錐形金屬防風罩，用以減弱量測口附近風場擾動、提高降雪與降雨觀測的集水效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/Nipher_shield"
   },
   {
     "english": "nitrate",
     "traditional_chinese": "硝酸鹽",
-    "definition_cht": "「硝酸鹽」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "泛指含有硝酸根離子（NO3−）的鹽類或化合物；在大氣化學、水質與營養鹽循環中，常作為反應產物、沉降成分或水體養分指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrate"
   },
   {
     "english": "nitrate ion",
     "traditional_chinese": "硝酸根離子",
-    "definition_cht": "「硝酸根離子」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學式為 NO3− 的多原子陰離子，為硝酸的共軛鹼；由一個氮原子與三個氧原子組成，在水化學與大氣沉降研究中極為常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrate_ion"
   },
   {
     "english": "nitrate radical",
-    "traditional_chinese": "硝酸根",
-    "definition_cht": "「硝酸根」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "硝酸根自由基",
+    "definition_cht": "化學式為 NO3 的含氮氧自由基，為對光敏感的強氧化劑，主要在夜間對流層大氣中參與揮發性有機物與氮氧化物的氧化反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrate_radical"
   },
   {
     "english": "nitric acid",
     "traditional_chinese": "硝酸",
-    "definition_cht": "「硝酸」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學式為 HNO3 的強酸，為大氣中氮氧化物氧化後的重要產物，可存在於氣相或氣膠中，並參與酸沉降與硝酸鹽粒子形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitric_acid"
   },
   {
