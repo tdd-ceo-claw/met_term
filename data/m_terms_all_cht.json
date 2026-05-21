@@ -2389,122 +2389,122 @@
   },
   {
     "english": "mock moon",
-    "traditional_chinese": "模擬月亮",
-    "definition_cht": "指與「模擬月亮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "幻月",
+    "definition_cht": "月暈家族中的大氣光象，又稱 paraselene；由高空六角板狀冰晶折射月光所成，常在月球左右兩側約 22° 處出現與月球等高度的亮斑。",
     "source_url": "https://glossary.ametsoc.org/wiki/mock_moon"
   },
   {
     "english": "mock sun",
-    "traditional_chinese": "模擬太陽",
-    "definition_cht": "指與「模擬太陽」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "幻日",
+    "definition_cht": "月暈家族中的大氣光象，又稱 parhelion 或 sun dog；由高空冰晶折射日光形成，常在太陽左右兩側約 22° 處出現與太陽等高度的亮斑。",
     "source_url": "https://glossary.ametsoc.org/wiki/mock_sun"
   },
   {
     "english": "mode",
-    "traditional_chinese": "模式",
-    "definition_cht": "指與「模式」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "眾數",
+    "definition_cht": "統計學中指出現次數最多的數值，或機率分布中機率密度（或機率質量）達最大值的位置；在氣象統計與氣候資料分析中常與平均數、中位數並列使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/mode"
   },
   {
     "english": "mode eddies",
-    "traditional_chinese": "模式渦流",
-    "definition_cht": "指與「模式渦流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "模態渦動",
+    "definition_cht": "指可由特定正常模態或波動模態表示的渦旋性擾動；常用於描述大氣或海洋流場中與平均環流疊加、並以模態分解方式分析的暫態渦流。",
     "source_url": "https://glossary.ametsoc.org/wiki/mode_eddies"
   },
   {
     "english": "mode water",
-    "traditional_chinese": "模式水",
-    "definition_cht": "指與「模式水」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "模態水",
+    "definition_cht": "海洋中垂直方向性質近乎均一的水團，通常由冬季深層對流或強混合作用形成，具有厚實的近等溫、近等密層，是副熱帶或副極地海域的重要水團類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/mode_water"
   },
   {
     "english": "model",
     "traditional_chinese": "模型",
-    "definition_cht": "用於表示「模型」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "definition_cht": "以數學方程、物理假設、統計關係或概念架構表徵實際大氣、海洋或水文系統的工具，用以描述、模擬、分析或預報其行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/model"
   },
   {
     "english": "model atmosphere",
-    "traditional_chinese": "模範氛圍",
-    "definition_cht": "用於表示「模範氛圍」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "理想化大氣模型",
+    "definition_cht": "為研究大氣結構、輻射傳輸或動力過程而建構的理論性大氣表示，可用一組理想化的垂直分布、熱力條件與物理假設來近似真實大氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/model_atmosphere"
   },
   {
     "english": "model calibration",
-    "traditional_chinese": "模型標定",
-    "definition_cht": "用於表示「模型標定」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "模型校準",
+    "definition_cht": "依觀測資料、歷史樣本或已知真值調整模型參數、偏差或轉換關係的過程，以提升模型輸出與實際現象之間的一致性與預報表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/model_calibration"
   },
   {
     "english": "model output statistics",
-    "traditional_chinese": "模型輸出統計",
-    "definition_cht": "用於表示「模型輸出統計」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "模式輸出統計",
+    "definition_cht": "常縮寫為 MOS，指將數值天氣預報模式的輸出與歷史觀測、氣候資料等建立統計關係，以校正系統性偏差並轉換為站點天氣要素預報的後處理方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/model_output_statistics"
   },
   {
     "english": "Model resolution",
-    "traditional_chinese": "模型分辨率",
-    "definition_cht": "用於表示「模型分辨率」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "模式解析度",
+    "definition_cht": "指模式在空間、時間或垂直層結上可分辨現象的細緻程度，通常以網格間距、層數或時間步長表示；解析度愈高，愈能表現較小尺度的結構與過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/Model_resolution"
   },
   {
     "english": "moderate breeze",
     "traditional_chinese": "和風",
-    "definition_cht": "指與「和風」相關的局地環流，通常由熱力差異或地形效應所驅動。",
+    "definition_cht": "蒲福風級第 4 級，約為 11–16 節（或 13–18 英里/時）；陸上常見小枝搖動、塵土與紙張被吹起，海面則出現較明顯的小浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/moderate_breeze"
   },
   {
     "english": "modified refractive index",
-    "traditional_chinese": "修正折射率",
-    "definition_cht": "用於量化「修正折射率」相關狀態、強度、異常程度或風險高低的指標。",
+    "traditional_chinese": "修正折射指數",
+    "definition_cht": "為將地球曲率效應併入大氣折射分析而定義的折射指數修正量，用於無線電波與雷達傳播研究，可更方便判別標準折射、次折射、超折射與導波條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/modified_refractive_index"
   },
   {
     "english": "modified refractivity",
-    "traditional_chinese": "修正折射率",
-    "definition_cht": "指與「修正折射率」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "修正折射度",
+    "definition_cht": "將大氣折射度再加上與高度有關的地球曲率修正項後所得的量，常記為 M；在電波傳播與雷達氣象中用以分析折射梯度、蒸發波導與大氣導波現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/modified_refractivity"
   },
   {
     "english": "modon",
-    "traditional_chinese": "莫東",
-    "definition_cht": "指與「莫東」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "偶極渦對",
+    "definition_cht": "流體動力學中的一類相干渦旋結構，由一對符號相反、彼此耦合的渦旋組成，可作為近似穩定且可自我傳播的偶極渦系；在大氣與海洋渦動研究中常作理想化模型。",
     "source_url": "https://glossary.ametsoc.org/wiki/modon"
   },
   {
     "english": "modular flow",
-    "traditional_chinese": "模組化流程",
-    "definition_cht": "指與「模組化流程」相關的流動型態、平均流場或輸送結構。",
+    "traditional_chinese": "模流",
+    "definition_cht": "動力系統與混沌理論中的一類理想化流動，與模曲面上的測地流密切相關，常作為研究非線性流場、遍歷性與可預報度問題的數學範例。",
     "source_url": "https://glossary.ametsoc.org/wiki/modular_flow"
   },
   {
     "english": "modulation",
-    "traditional_chinese": "調製",
-    "definition_cht": "指與「調製」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "調變",
+    "definition_cht": "指使波動、訊號或其他變量的振幅、頻率、相位或強度隨另一訊號或外在作用而改變的過程；在遙測、雷達與通信氣象中常用於資訊傳輸與訊號處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/modulation"
   },
   {
     "english": "modulator",
-    "traditional_chinese": "數據機",
-    "definition_cht": "指與「數據機」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "調變器",
+    "definition_cht": "用以對載波或其他訊號施加調變的裝置或電路，可改變其振幅、頻率、相位或脈衝特性；常見於雷達、遙測、通信與量測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/modulator"
   },
   {
     "english": "modulus",
-    "traditional_chinese": "模數",
-    "definition_cht": "指與「模數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "模量",
+    "definition_cht": "泛指描述大小、剛性或比例關係的量；在地球物理與流體相關文獻中常指彈性模量、體積模量等，用以表徵介質對壓縮、剪切或變形的抗性。",
     "source_url": "https://glossary.ametsoc.org/wiki/modulus"
   },
   {
     "english": "modus ponens",
-    "traditional_chinese": "前件",
-    "definition_cht": "指與「前件」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "肯定前件式",
+    "definition_cht": "命題邏輯中的有效推論規則：若「若 P 則 Q」為真，且 P 為真，則可推出 Q 為真；在科學推理、模式判識與演算法規則系統中常作為基本演繹形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/modus_ponens"
   },
   {
     "english": "modus tollens",
-    "traditional_chinese": "托倫斯方式",
-    "definition_cht": "指與「托倫斯方式」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "否定後件式",
+    "definition_cht": "命題邏輯中的有效推論規則：若「若 P 則 Q」為真，且 Q 不為真，則可推出 P 不為真；常用於科學論證、假說檢驗與規則式判斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/modus_tollens"
   },
   {
