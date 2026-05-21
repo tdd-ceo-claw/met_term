@@ -30656,121 +30656,121 @@
   {
     "english": "main standard time",
     "traditional_chinese": "主要標準時",
-    "definition_cht": "指與「主要標準時」相關的時間尺度、時制、時相或統計時間特徵。",
+    "definition_cht": "指一國、一地區或一套時間制度中作為主要法定依據的標準時間，通常按所屬時區的標準子午線統一採用，並與日光節約時間相區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/main_standard_time"
   },
   {
     "english": "main telecommunications network",
-    "traditional_chinese": "主要電信網路",
-    "definition_cht": "指與「主要電信網路」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "主要通信網路",
+    "definition_cht": "在氣象通信體系中指負責連接主要氣象中心並快速交換觀測、分析與預報產品的主幹通信網路；於 WMO 架構下常指全球或區域電信系統的骨幹部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/main_telecommunications_network"
   },
   {
     "english": "major ridge",
     "traditional_chinese": "主脊",
-    "definition_cht": "在大尺度高度場或氣壓場中幅度較大、延伸較明顯的高壓脊結構。",
+    "definition_cht": "在高空高度場或氣壓場中尺度較大、影響較顯著的高壓脊軸，通常對應反氣旋性曲率與較穩定、下沉的環流配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/major_ridge"
   },
   {
     "english": "major trough",
     "traditional_chinese": "主槽",
-    "definition_cht": "在大尺度高度場或氣壓場中幅度較大、延伸較明顯的低壓槽結構。",
+    "definition_cht": "在高空高度場或氣壓場中尺度較大、影響較顯著的低壓槽軸，常伴隨氣旋性曲率、輻散抬升及較活躍天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/major_trough"
   },
   {
     "english": "Maloja wind",
     "traditional_chinese": "馬洛亞風",
-    "definition_cht": "瑞士恩加丁谷地附近在特定地形與壓力分布下出現的局地谷風型強風。",
+    "definition_cht": "瑞士上恩加丁地區的局地山谷風，氣流越過 Maloja Pass 侵入谷地而成，屬焚風型強風，並可伴隨蛇形低雲的「Maloja Snake」現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Maloja_wind"
   },
   {
     "english": "Malvinas Current",
     "traditional_chinese": "馬爾維納斯海流",
-    "definition_cht": "指與「馬爾維納斯海流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "definition_cht": "又稱福克蘭海流，為南大洋環流分支形成的寒流，沿南美洲巴塔哥尼亞外海向北流，並於巴西—馬爾維納斯匯流區與巴西海流交會。",
     "source_url": "https://glossary.ametsoc.org/wiki/Malvinas_Current"
   },
   {
     "english": "mamatele",
-    "traditional_chinese": "馬馬泰萊",
-    "definition_cht": "指與「馬馬泰萊」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "mamatele",
+    "definition_cht": "目前未查得可交叉驗證且一致的權威氣象定義；暫保留原詞，視為地方性或歷史性用語，後續宜再依原始詞彙來源補證。",
     "source_url": "https://glossary.ametsoc.org/wiki/mamatele"
   },
   {
     "english": "mamma",
     "traditional_chinese": "乳房雲",
-    "definition_cht": "懸掛於積雨雲砧部或其他雲底下方、呈袋狀或乳房狀下垂突起的雲體構造。",
+    "definition_cht": "世界氣象組織雲圖將其列為雲的附屬特徵之一，表現為自雲底向下懸垂的袋狀或乳房狀突起，常見於積雨雲砧部，也可出現在其他雲底。",
     "source_url": "https://glossary.ametsoc.org/wiki/mamma"
   },
   {
     "english": "man–machine mix",
     "traditional_chinese": "人機混合作業",
-    "definition_cht": "指與「人機混合作業」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指預報或分析作業中結合人工判斷與電腦客觀指引的工作模式，由人員與自動化系統分擔資料處理、判釋與決策。",
     "source_url": "https://glossary.ametsoc.org/wiki/man%E2%80%93machine_mix"
   },
   {
     "english": "mandatory layer",
-    "traditional_chinese": "強制層",
-    "definition_cht": "指與「強制層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "強制層段",
+    "definition_cht": "在高空探測或探空資料處理中，指相鄰兩個強制氣壓層位之間的大氣層段，用於整理溫度、風與厚度等垂直結構資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/mandatory_layer"
   },
   {
     "english": "Mandatory level",
     "traditional_chinese": "強制層位",
-    "definition_cht": "指與「強制層位」相關的特徵層位、標準層、診斷高度或強度分級。",
+    "definition_cht": "高空探測中規定必須報告的標準氣壓層位，如 1000、925、850、700、500、300 hPa 等，以利不同站點間資料比較與分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mandatory_level"
   },
   {
     "english": "Manning equation",
     "traditional_chinese": "曼寧方程",
-    "definition_cht": "明渠流中用以估算平均流速或流量與水力半徑、坡度及糙率關係的經驗公式。",
+    "definition_cht": "用於明渠或部分滿流管道之重力流估算的經驗公式，以水力半徑、坡度與糙率推算平均流速或流量，又稱 Gauckler–Manning 公式。",
     "source_url": "https://glossary.ametsoc.org/wiki/Manning_equation"
   },
   {
     "english": "manometer",
     "traditional_chinese": "壓力計",
-    "definition_cht": "利用液柱高度差、彈性元件或其他感測方式量測氣體或液體壓力的儀器。",
+    "definition_cht": "利用液柱高差、彈性元件或差壓感測原理量測氣體或液體壓力的儀器；液柱式壓力計尤常用於量測壓差或較低壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/manometer"
   },
   {
     "english": "mao mao yuh",
-    "traditional_chinese": "毛玉",
-    "definition_cht": "指與「毛玉」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "毛毛雨",
+    "definition_cht": "中國北方口語中的 drizzle，即由極細小水滴組成、強度很弱且近於飄灑狀的降水；字面含有「沒什麼大不了」的語感。",
     "source_url": "https://glossary.ametsoc.org/wiki/mao_mao_yuh"
   },
   {
     "english": "map plotting",
     "traditional_chinese": "填圖",
-    "definition_cht": "指與「填圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "將各測站觀測值依規定符號與格式標示在天氣圖或分析圖上的作業，是製作地面天氣圖與進行天氣分析的基本步驟。",
     "source_url": "https://glossary.ametsoc.org/wiki/map_plotting"
   },
   {
     "english": "map projection",
     "traditional_chinese": "地圖投影",
-    "definition_cht": "將地球曲面位置轉換到平面地圖上的方法，用以表示空間位置、距離、面積或方向。",
+    "definition_cht": "以數學轉換將地球曲面上的經緯度位置表示於平面地圖的方法；各類投影必然在面積、距離、方向或形狀上產生不同程度的變形。",
     "source_url": "https://glossary.ametsoc.org/wiki/map_projection"
   },
   {
     "english": "mapped data",
     "traditional_chinese": "成圖資料",
-    "definition_cht": "指與「成圖資料」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指已配置到地圖座標系統、可直接繪示於地圖上的資料，可為站點、網格或分析後欄位，供顯示、比對與空間分析使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/mapped_data"
   },
   {
     "english": "marble crust",
-    "traditional_chinese": "大理石地殼",
-    "definition_cht": "指與「大理石地殼」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大理石風化殼",
+    "definition_cht": "形成於大理石表面的風化或污染殼層，常由化學風化、酸性沉降與粒狀污染物共同作用生成，並可發育為富含石膏的黑殼。",
     "source_url": "https://glossary.ametsoc.org/wiki/marble_crust"
   },
   {
     "english": "marching problem",
-    "traditional_chinese": "行進問題",
-    "definition_cht": "指與「行進問題」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "推進問題",
+    "definition_cht": "在數值分析與流體力學中，指沿時間或空間逐步向前積分求解的初始值問題，常以 time marching 方法遞推計算後續狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/marching_problem"
   },
   {
     "english": "marenco",
-    "traditional_chinese": "馬倫科",
-    "definition_cht": "指與「馬倫科」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "marenco",
+    "definition_cht": "目前未查得可交叉驗證且一致的權威氣象定義；暫保留原詞，視為待考條目，後續宜回查原始詞表或紙本來源確認。",
     "source_url": "https://glossary.ametsoc.org/wiki/marenco"
   },
   {
