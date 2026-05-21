@@ -1874,13 +1874,13 @@
   {
     "english": "Lyman-alpha hygrometer",
     "traditional_chinese": "萊曼α濕度計",
-    "definition_cht": "利用萊曼 α 紫外吸收特性量測水汽濃度的高靈敏度濕度儀器。",
+    "definition_cht": "利用水氣對萊曼α線（約121.6奈米）紫外輻射的吸收來量測空氣中水汽濃度的高靈敏度濕度儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lyman-alpha_hygrometer"
   },
   {
     "english": "lysimeter",
     "traditional_chinese": "蒸滲儀",
-    "definition_cht": "用於量測土壤水分收支、蒸散作用與滲漏量的裝置，是水文與農業氣象研究的重要設備。",
+    "definition_cht": "在受控土柱或土體中量測降水、蒸散、土壤水分變化與向下滲漏量的裝置，常用於水文與農業氣象研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/lysimeter"
   }
 ]

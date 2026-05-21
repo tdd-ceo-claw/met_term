@@ -30416,121 +30416,121 @@
   {
     "english": "Lyman-alpha hygrometer",
     "traditional_chinese": "萊曼α濕度計",
-    "definition_cht": "利用萊曼 α 紫外吸收特性量測水汽濃度的高靈敏度濕度儀器。",
+    "definition_cht": "利用水氣對萊曼α線（約121.6奈米）紫外輻射的吸收來量測空氣中水汽濃度的高靈敏度濕度儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/Lyman-alpha_hygrometer"
   },
   {
     "english": "lysimeter",
     "traditional_chinese": "蒸滲儀",
-    "definition_cht": "用於量測土壤水分收支、蒸散作用與滲漏量的裝置，是水文與農業氣象研究的重要設備。",
+    "definition_cht": "在受控土柱或土體中量測降水、蒸散、土壤水分變化與向下滲漏量的裝置，常用於水文與農業氣象研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/lysimeter"
   },
   {
     "english": "M component",
     "traditional_chinese": "M分量",
-    "definition_cht": "指向東西或磁場相關座標分解後所得的 M 向分量，實際定義需依所用座標系與專業情境判定。",
+    "definition_cht": "在閃電物理中，指負地閃回擊之後沿既有放電通道再度增亮的次級電流脈衝或電流湧升。",
     "source_url": "https://glossary.ametsoc.org/wiki/M_component"
   },
   {
     "english": "M meter",
     "traditional_chinese": "M計",
-    "definition_cht": "用於量測「M計」相關物理量的儀器或感測設備。",
+    "definition_cht": "用於量測大氣液態含水量的儀器名稱，屬雲中液態水觀測設備的一類。",
     "source_url": "https://glossary.ametsoc.org/wiki/M_meter"
   },
   {
     "english": "M-region",
-    "traditional_chinese": "M層區",
-    "definition_cht": "指與「M層區」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "M區",
+    "definition_cht": "高層大氣與電離層文獻中的少用舊稱，通常指與 M 層相關的區域；現代分類中已不常見，實際範圍須依原始文獻判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/M-region"
   },
   {
     "english": "Mach number",
     "traditional_chinese": "馬赫數",
-    "definition_cht": "指用於表徵「馬赫數」相關物理機制、無因次特徵或分類條件的數值指標。",
+    "definition_cht": "流體力學中的無因次量，為物體或氣流速度與當地音速之比，常用來表示可壓縮流與高速飛行狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mach_number"
   },
   {
     "english": "machine learning",
     "traditional_chinese": "機器學習",
-    "definition_cht": "指與「機器學習」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "人工智慧中使電腦系統從資料中學習規律並持續改進預測或分類表現的方法，在氣象上常用於預報、遙測反演與資料分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/machine_learning"
   },
   {
     "english": "mackerel breeze",
-    "traditional_chinese": "鯖魚微風",
-    "definition_cht": "指與「鯖魚微風」相關的局地環流，通常由熱力差異或地形效應所驅動。",
+    "traditional_chinese": "鯖風",
+    "definition_cht": "亦稱 mackerel gale，指能把海面吹出細碎波紋、因而有利於捕捉鯖魚的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/mackerel_breeze"
   },
   {
     "english": "mackerel sky",
-    "traditional_chinese": "鯖魚天空",
-    "definition_cht": "指與「鯖魚天空」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "鯖魚天",
+    "definition_cht": "天空布滿魚鱗狀的卷積雲或小塊高積雲，外觀似鯖魚鱗片，常被視為天氣將轉變的徵象。",
     "source_url": "https://glossary.ametsoc.org/wiki/mackerel_sky"
   },
   {
     "english": "macroburst",
-    "traditional_chinese": "宏爆發",
-    "definition_cht": "指與「宏爆發」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "宏下爆流",
+    "definition_cht": "下爆流的一種，其近地面外流影響範圍至少約4公里，強風通常持續5至20分鐘，可能造成嚴重直線風災。",
     "source_url": "https://glossary.ametsoc.org/wiki/macroburst"
   },
   {
     "english": "macroclimate",
-    "traditional_chinese": "大氣候",
-    "definition_cht": "指大範圍地區在長期平均下所呈現的整體氣候特徵，尺度可達區域、大陸或全球。",
+    "traditional_chinese": "大尺度氣候",
+    "definition_cht": "指廣大區域、國家、大陸或全球尺度上的整體氣候特徵，與中尺度氣候及微氣候相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/macroclimate"
   },
   {
     "english": "macroclimatology",
-    "traditional_chinese": "宏觀氣候學",
-    "definition_cht": "指與「宏觀氣候學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大尺度氣候學",
+    "definition_cht": "研究大範圍地區至全球尺度氣候分布、型態與控制因子的氣候學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/macroclimatology"
   },
   {
     "english": "macrometeorology",
-    "traditional_chinese": "宏觀氣象學",
-    "definition_cht": "指與「宏觀氣象學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大尺度氣象學",
+    "definition_cht": "研究大尺度大氣現象及其時空分布的氣象學領域，著重區域到行星尺度的天氣與環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/macrometeorology"
   },
   {
     "english": "macroscale",
-    "traditional_chinese": "宏觀尺度",
-    "definition_cht": "指與「宏觀尺度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大尺度",
+    "definition_cht": "指數百至數千公里等級的空間尺度，典型對象包括鋒面、氣旋及大型環流系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/macroscale"
   },
   {
     "english": "macroviscosity",
-    "traditional_chinese": "宏觀黏度",
-    "definition_cht": "指與「宏觀黏度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "巨觀黏滯性",
+    "definition_cht": "描述流體在大尺度平均運動中所呈現之有效黏滯作用的量，常用來把小尺度擾動或湍流混合作用以等效黏度表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/macroviscosity"
   },
   {
     "english": "Madden–Julian oscillation",
-    "traditional_chinese": "馬登-朱利安振盪",
-    "definition_cht": "指與「馬登-朱利安振盪」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬登－朱利安振盪",
+    "definition_cht": "熱帶大氣中30至90天尺度的主要季內振盪，表現為對流與環流異常自印度洋向西太平洋一帶向東傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/Madden%E2%80%93Julian_oscillation"
   },
   {
     "english": "maelstrom",
-    "traditional_chinese": "漩渦",
-    "definition_cht": "指與「漩渦」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "大漩渦",
+    "definition_cht": "指強烈而湍急的海洋渦流或巨型渦旋，也可泛指任何劇烈旋轉的水流。",
     "source_url": "https://glossary.ametsoc.org/wiki/maelstrom"
   },
   {
     "english": "maestro",
-    "traditional_chinese": "大師",
-    "definition_cht": "指與「大師」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Maestro風",
+    "definition_cht": "外來語地方風名；在氣象文獻中多見於地方性或歷史性用法，通常指特定海域或沿岸的慣稱風，實際性質須依原始文獻判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/maestro"
   },
   {
     "english": "magmatic water",
     "traditional_chinese": "岩漿水",
-    "definition_cht": "指與「岩漿水」相關的水體、水量、水文條件或含水狀態。",
+    "definition_cht": "亦稱 juvenile water，指由深部岩漿活動攜帶並釋放至地表或近地表環境的水，相較於降水來源之大氣水量通常很小。",
     "source_url": "https://glossary.ametsoc.org/wiki/magmatic_water"
   },
   {
     "english": "magnetic dipole",
-    "traditional_chinese": "磁偶極子",
-    "definition_cht": "指與「磁偶極子」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "磁偶極",
+    "definition_cht": "描述小型磁體或電流系統磁場特性的理想化模型，其強弱與方向可由磁偶極矩表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/magnetic_dipole"
   },
   {
