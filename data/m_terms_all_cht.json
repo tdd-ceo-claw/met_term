@@ -1429,122 +1429,122 @@
   },
   {
     "english": "meteor trail",
-    "traditional_chinese": "流星餘跡",
-    "definition_cht": "指與「流星餘跡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "流星尾跡",
+    "definition_cht": "流星體進入高層大氣後，因燒蝕與電離作用在其路徑上留下的發光或可反射無線電波之狹長痕跡；其持續時間可由瞬時至數秒以上。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteor_trail"
   },
   {
     "english": "meteoric dust",
-    "traditional_chinese": "流星塵埃",
-    "definition_cht": "指與「流星塵埃」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "流星塵",
+    "definition_cht": "由流星體進入大氣後燃燒、碎裂或汽化所產生的極細微固體粒子；可作為高層大氣中的氣膠成分，並可能參與凝結或散射過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteoric_dust"
   },
   {
     "english": "meteoric water",
-    "traditional_chinese": "天降水",
-    "definition_cht": "指與「天降水」相關的水體、水量、水文條件或含水狀態。",
+    "traditional_chinese": "大氣降水",
+    "definition_cht": "源自雨、雪等降水的天然水體，包含其後形成的地表水與入滲地下水；在水文與地球化學上常用以區別於海水、岩漿水或變質水。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteoric_water"
   },
   {
     "english": "meteorogram",
-    "traditional_chinese": "氣象圖",
-    "definition_cht": "指與「氣象圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象曲線圖",
+    "definition_cht": "以時間為橫軸，連續呈現某地一項或多項氣象要素觀測值或預報值的圖形產品，常包含氣溫、氣壓、降水、風速、風向與雲量等。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorogram"
   },
   {
     "english": "meteorograph",
-    "traditional_chinese": "氣象儀",
-    "definition_cht": "指與「氣象儀」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象自記儀",
+    "definition_cht": "能自動連續記錄兩種以上氣象要素變化的儀器；可同步記錄如氣溫、氣壓、濕度、風等資料，供觀測與分析使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorograph"
   },
   {
     "english": "meteorological bulletin",
-    "traditional_chinese": "氣象通報",
-    "definition_cht": "指與「氣象通報」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象公報",
+    "definition_cht": "由氣象機關定時或視需要發布的正式資訊文件，內容可包含觀測實況、天氣分析、預報、警報及相關說明。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_bulletin"
   },
   {
     "english": "meteorological cloud chamber",
     "traditional_chinese": "氣象雲室",
-    "definition_cht": "指與「氣象雲室」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、生成條件與對應天氣狀態。",
+    "definition_cht": "在受控溫度、濕度與壓力條件下模擬雲、霧或降水微物理過程的實驗裝置，用於研究凝結、冰晶生成、雲滴成長等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_cloud_chamber"
   },
   {
     "english": "meteorological code",
-    "traditional_chinese": "氣象代碼",
-    "definition_cht": "指與「氣象代碼」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象電碼",
+    "definition_cht": "依既定規則將氣象觀測、分析或預報資料編成文字、數字或字母群的標準化表示法，便於通訊傳輸、交換與機器處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_code"
   },
   {
     "english": "meteorological element series",
-    "traditional_chinese": "氣像要素系列",
-    "definition_cht": "指與「氣像要素系列」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象要素序列",
+    "definition_cht": "依時間順序排列的某一項或多項氣象要素資料序列，用於描述其連續變化、統計特性及長期趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_element_series"
   },
   {
     "english": "meteorological equator",
     "traditional_chinese": "氣象赤道",
-    "definition_cht": "指與「氣象赤道」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "地球表面平均氣溫最高區域所連成的帶狀或近似線狀地帶，通常不與地理赤道完全重合，並會隨季節南北移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_equator"
   },
   {
     "english": "meteorological forecast",
     "traditional_chinese": "氣象預報",
-    "definition_cht": "指以「氣象預報」為主題的預報產品、預測方法或作業結果。",
+    "definition_cht": "根據觀測資料、天氣分析與數值模式等方法，對未來某一地區或時段的大氣狀態與天氣現象所作之預測。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_forecast"
   },
   {
     "english": "meteorological information",
     "traditional_chinese": "氣象資訊",
-    "definition_cht": "指與「氣象資訊」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "與天氣、氣候及大氣狀況有關的各類資料與訊息，包含觀測、分析、預報、警報及其衍生產品。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_information"
   },
   {
     "english": "meteorological institute",
-    "traditional_chinese": "氣象研究所",
-    "definition_cht": "指與「氣象研究所」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象研究機構",
+    "definition_cht": "從事氣象觀測、研究、教育、技術發展或業務支援的專責機構，可為國家氣象機關、研究所或大學相關單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_institute"
   },
   {
     "english": "meteorological instrument",
     "traditional_chinese": "氣象儀器",
-    "definition_cht": "指與「氣象儀器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "用於量測或記錄氣象要素的各類儀器總稱，如溫度計、氣壓計、濕度計、風速計、雨量計與輻射量測設備等。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_instrument"
   },
   {
     "english": "meteorological message",
-    "traditional_chinese": "氣象訊息",
-    "definition_cht": "指與「氣象訊息」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象報文",
+    "definition_cht": "依通訊格式與編碼規則傳送的氣象資料訊息，內容可為觀測、預報、警報或航空氣象資訊，供交換與作業使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_message"
   },
   {
     "english": "meteorological network",
-    "traditional_chinese": "氣象網",
-    "definition_cht": "指與「氣象網」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象觀測網",
+    "definition_cht": "由多個觀測站、感測器或通訊節點組成的系統，用以在一定區域內蒐集、傳輸與整合氣象資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_network"
   },
   {
     "english": "meteorological noise",
-    "traditional_chinese": "氣象噪音",
-    "definition_cht": "指與「氣象噪音」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象雜訊",
+    "definition_cht": "由大氣現象引起、會干擾訊號接收或量測判讀的雜散擾動；在無線電與遙測領域常指雷暴等天氣所造成的電磁干擾。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_noise"
   },
   {
     "english": "meteorological observation",
     "traditional_chinese": "氣象觀測",
-    "definition_cht": "指與「氣象觀測」相關的觀測作業、量測資料或分析成果。",
+    "definition_cht": "對氣溫、氣壓、濕度、風、降水、雲及能見度等大氣要素所進行的定時或連續量測、記錄與報告作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_observation"
   },
   {
     "english": "meteorological observatory",
-    "traditional_chinese": "氣像台",
-    "definition_cht": "指與「氣像台」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象觀象臺",
+    "definition_cht": "設有儀器、場地與作業人員，專門從事氣象觀測、記錄、分析及發布相關資訊的機構或臺站。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_observatory"
   },
   {
     "english": "meteorological observer",
-    "traditional_chinese": "氣象觀察員",
-    "definition_cht": "指與「氣象觀察員」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象觀測員",
+    "definition_cht": "負責執行氣象觀測、儀器維護、資料檢核與報告編發等工作的專業人員。",
     "source_url": "https://glossary.ametsoc.org/wiki/meteorological_observer"
   },
   {
