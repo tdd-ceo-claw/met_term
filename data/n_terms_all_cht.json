@@ -1010,13 +1010,13 @@
   {
     "english": "normal barometer",
     "traditional_chinese": "標準氣壓計",
-    "definition_cht": "指經溫度、重力與器差等修正後，可作為標準參考之氣壓計，或其按標準條件換算的氣壓讀值；傳統上多指水銀氣壓計的基準表示。",
+    "definition_cht": "指經器差、溫度、重力與毛細作用等必要修正後，可作為基準比對之氣壓計；亦可泛指按標準條件換算之基準氣壓讀值，傳統上多以水銀氣壓計為代表。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_barometer"
   },
   {
     "english": "normal chart",
-    "traditional_chinese": "常態圖",
-    "definition_cht": "以多年平均氣候值（climate normals）繪製的圖表，用以表示某地或某區域在一年中各時段的典型氣候狀態，供比較當前觀測與長期平均之用。",
+    "traditional_chinese": "氣候常態圖",
+    "definition_cht": "以某地多年平均氣候值或其他氣候常態統計量繪成的圖表，用以呈現一年中各時段的典型氣候狀態，並供與即時觀測、異常值或預報結果比較。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_chart"
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "english": "normal mode initialization",
     "traditional_chinese": "正常模態初始化",
-    "definition_cht": "數值天氣預報中的初始化方法，將初始場分解為正常模態並抑制不需要的高頻重力波等快速振盪，以使風場、質量場與熱力場更趨動力平衡。",
+    "definition_cht": "數值天氣預報中的初始化方法，將初始場分解為正常模態並濾除不需要的快速重力波或慣性—重力振盪，使風場、質量場與熱力場在起報時更接近動力平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_mode_initialization"
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "english": "normal water",
     "traditional_chinese": "普通水",
-    "definition_cht": "相對於重水而言之一般天然水，其氫主要為普通氫（氕）而非氘，因此通常指組成以 H₂O 為主的水。",
+    "definition_cht": "相對於重水而言之一般天然水，主要由含普通氫（氕）的 H₂O 組成，僅含極少量氘或氚；在核化學與同位素研究中常用以與重水區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_water"
   },
   {
@@ -1076,55 +1076,55 @@
   {
     "english": "Normalized Difference Vegetation Index",
     "traditional_chinese": "常態化差異植生指數",
-    "definition_cht": "以近紅外與紅光反射率差值除以其總和計算之遙測指標，用於估計植被覆蓋、生長活性與健康狀態，常寫為 NDVI。",
+    "definition_cht": "以近紅外與紅光反射率之差除以其總和計算的遙測指標，常寫為 NDVI；可用於估計植被覆蓋程度、葉面活性與生長狀態，廣泛應用於農業、乾旱監測與地表環境分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Normalized_Difference_Vegetation_Index"
   },
   {
     "english": "Normand's theorem",
     "traditional_chinese": "諾曼德定理",
-    "definition_cht": "熱力圖解中的作圖法則：由氣塊初始溫度沿乾絕熱線上升、由初始露點沿等混合比線上升，其交點再沿飽和絕熱線返回原壓力，可求得該氣塊的濕球溫度。",
+    "definition_cht": "熱力圖解中的作圖法則：將氣塊自初始溫度沿乾絕熱線抬升、由初始露點沿等混合比線抬升至交會後，再沿濕絕熱線回到原壓力，可求得該氣塊的濕球溫度，並常用於估算抬升凝結高度等熱力量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Normand%27s_theorem"
   },
   {
     "english": "nortada",
-    "traditional_chinese": "諾塔達北風",
-    "definition_cht": "伊比利半島西岸夏季常見的沿岸偏北風，主要出現在 6 至 9 月，與內陸熱低壓及鄰近海陸壓力差有關，常使葡萄牙沿岸風力增強。",
+    "traditional_chinese": "諾塔達沿岸北風",
+    "definition_cht": "葡萄牙西岸夏季常見的沿岸偏北至西北強風，主要受伊比利半島內陸熱低壓與大西洋副熱帶高壓間的壓力梯度驅動，常在午後增強，並與沿岸湧升現象相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/nortada"
   },
   {
     "english": "norte",
-    "traditional_chinese": "北風暴",
-    "definition_cht": "墨西哥灣沿岸與墨西哥東部常見的強冷性東北至北風事件，通常伴隨冷鋒南下而發生，可造成明顯降溫、強風與海象惡化。",
+    "traditional_chinese": "北風寒潮",
+    "definition_cht": "墨西哥灣沿岸、墨西哥東部與中美洲一帶，隨冷鋒南侵而出現的強北風或東北風事件，常伴隨明顯降溫、強風、巨浪及海況惡化；西班牙語中亦可泛指北風。",
     "source_url": "https://glossary.ametsoc.org/wiki/norte"
   },
   {
     "english": "North American high",
     "traditional_chinese": "北美高壓",
-    "definition_cht": "在北美大陸上由冷而乾的空氣堆積形成之暫時性高壓或反氣旋，常見於冷季，對北美大陸與鄰近海域之氣壓場與冷空氣外流有重要影響。",
+    "definition_cht": "由北美大陸冷而密實的極地或大陸性寒冷空氣堆積形成的高壓系統，冷季較常見；其南侵或東移常主導冷空氣外流、冷鋒推進及北美東部與墨西哥灣周邊天氣變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_American_high"
   },
   {
     "english": "North Atlantic Current",
-    "traditional_chinese": "北大西洋洋流",
-    "definition_cht": "墨西哥灣流向東北延伸後在北大西洋形成的強暖流，將暖鹽水輸送至較高緯度海域，對西歐氣候與北大西洋環流具有重要影響。",
+    "traditional_chinese": "北大西洋暖流",
+    "definition_cht": "墨西哥灣流離開北美東岸後向東北延伸而成的強暖流，將暖鹽水輸送至北大西洋中高緯海域，對西歐海洋性氣候、北大西洋熱量再分配與副極區環流具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_Atlantic_Current"
   },
   {
     "english": "North Atlantic Deep Water",
     "traditional_chinese": "北大西洋深層水",
-    "definition_cht": "形成於北大西洋高緯海域的深層水團，因冷卻、增鹽與對流下沉而生成，是全球熱鹽環流與深海通氣的重要組成。",
+    "definition_cht": "形成於格陵蘭海、拉布拉多海及鄰近北大西洋高緯海域的深層水團，主要由冷卻、增鹽與深對流下沉而成，是全球翻轉環流、深海通氣與深層碳輸送的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_Atlantic_Deep_Water"
   },
   {
     "english": "North Brazil Current",
-    "traditional_chinese": "北巴西洋流",
-    "definition_cht": "南赤道洋流抵達南美洲東北岸後分出、沿巴西北岸向西北流動的暖流，為西北大西洋副熱帶環流的一部分，並與跨赤道熱量輸送有關。",
+    "traditional_chinese": "北巴西海流",
+    "definition_cht": "南赤道海流抵達南美洲東北岸後沿巴西北岸向西北流動的暖流，為熱帶大西洋西邊界海流系的一部分，並與跨赤道熱量輸送及北巴西海流環流環有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_Brazil_Current"
   },
   {
     "english": "North Equatorial Countercurrent",
     "traditional_chinese": "北赤道逆流",
-    "definition_cht": "位於熱帶大西洋、太平洋與印度洋約 3° 至 10°N 一帶的東向表層洋流，與兩側西向北、南赤道洋流相對，對熱帶海洋熱量與動量再分配相當重要。",
+    "definition_cht": "位於熱帶太平洋、大西洋與印度洋北赤道洋流之間的東向表層海流，通常出現在約 3° 至 10°N；其形成與風應力分布、海面坡度及赤道附近質量收支有關，對熱帶海洋熱量與動量再分配甚為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_Equatorial_Countercurrent"
   },
   {
