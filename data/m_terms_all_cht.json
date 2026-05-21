@@ -2150,121 +2150,121 @@
   {
     "english": "mirage",
     "traditional_chinese": "海市蜃樓",
-    "definition_cht": "指與「海市蜃樓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由不同氣層之間溫度與密度差異造成折射率梯度，使光線彎曲而形成的視覺現象；可使遠方景物看似上升、倒置、拉長或出現在實際位置之外。",
     "source_url": "https://glossary.ametsoc.org/wiki/mirage"
   },
   {
     "english": "mirror nephoscope",
-    "traditional_chinese": "鏡面腎鏡",
-    "definition_cht": "指與「鏡面腎鏡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "鏡式測雲器",
+    "definition_cht": "一種以鏡面反射觀察雲影移動的氣象儀器，用於測定雲的移動方向與相對速度；通常由刻有方位或角度標記的黑色鏡面與支架組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/mirror_nephoscope"
   },
   {
     "english": "miscible displacement",
     "traditional_chinese": "混相驅替",
-    "definition_cht": "指與「混相驅替」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在多孔介質中，一種流體推進並取代另一種流體時，兩者可彼此完全溶解混合的驅替過程；常用於地下水、土壤物理與油藏流動研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/miscible_displacement"
   },
   {
     "english": "Misocyclone",
-    "traditional_chinese": "米索旋風",
-    "definition_cht": "指與「米索旋風」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "小尺度氣旋性渦旋",
+    "definition_cht": "指發生於對流系統中的 misoscale 氣旋性旋轉渦旋，其空間尺度小於中尺度氣旋，常與雷暴、小尺度切變線或龍捲生成環境有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Misocyclone"
   },
   {
     "english": "misoscale",
-    "traditional_chinese": "米索尺度",
-    "definition_cht": "指與「米索尺度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "次中尺度",
+    "definition_cht": "氣象學中介於微尺度與中尺度之間的非正式尺度範圍，典型水平尺度約為數十公尺至數公里，用於描述雷暴局部環流、陣風鋒細部結構等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/misoscale"
   },
   {
     "english": "Mist",
     "traditional_chinese": "薄霧",
-    "definition_cht": "指與「薄霧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由懸浮於近地層空氣中的微小水滴所形成，會使水平能見度下降但通常仍在 1 公里以上；若能見度再降低，則歸為霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mist"
   },
   {
     "english": "mistral",
-    "traditional_chinese": "米斯塔拉爾",
-    "definition_cht": "指與「米斯塔拉爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "密斯脫拉風",
+    "definition_cht": "法國南部沿隆河谷吹向地中海的強勁、寒冷且乾燥的西北風，常出現在冷鋒過後或高低壓配置有利時，具有顯著的地形導引效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/mistral"
   },
   {
     "english": "mitigation",
-    "traditional_chinese": "減輕",
-    "definition_cht": "指與「減輕」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "減緩",
+    "definition_cht": "指採取措施降低災害、環境變遷或氣候變化所造成的損害、風險或其致因；在氣候領域中，常特指減少溫室氣體排放或增強碳匯。",
     "source_url": "https://glossary.ametsoc.org/wiki/mitigation"
   },
   {
     "english": "mixed cloud",
-    "traditional_chinese": "混合雲",
-    "definition_cht": "指與「混合雲」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、生成條件與對應天氣狀態。",
+    "traditional_chinese": "混合相雲",
+    "definition_cht": "同時含有過冷液態水滴與冰晶的雲。於零度以下環境中，冰晶常因水汽壓差而優先成長，促進 Bergeron–Findeisen 降水過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed_cloud"
   },
   {
     "english": "mixed distribution",
-    "traditional_chinese": "混合分佈",
-    "definition_cht": "指與「混合分佈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "混合分布",
+    "definition_cht": "由兩個或多個性質不同、或參數不同的母體分布混合而成的頻率分布，又稱複合分布；常用於表示來源不單一的觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed_distribution"
   },
   {
     "english": "mixed layer",
     "traditional_chinese": "混合層",
-    "definition_cht": "指與「混合層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "在大氣、海洋或湖泊中，因湍流混合作用而使溫度、濕度、鹽度或其他保守量在垂直方向上近乎均勻的一層流體。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed_layer"
   },
   {
     "english": "mixed layer models",
-    "traditional_chinese": "混合層模型",
-    "definition_cht": "指與「混合層模型」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "混合層模式",
+    "definition_cht": "以上層海洋或大氣混合層近似均勻、且其下方存在明顯躍層為基本假設的模式，用以模擬混合層厚度及熱量、鹽度、動量等演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed_layer_models"
   },
   {
     "english": "mixed nucleus",
-    "traditional_chinese": "混合核",
-    "definition_cht": "指與「混合核」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "混合凝結核",
+    "definition_cht": "由可溶性吸濕物質與不溶性、可能可潤濕物質共同組成的雲凝結核；其混合成分常源自粒子凝聚或反覆凝結與蒸發過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed_nucleus"
   },
   {
     "english": "mixed Rossby–gravity wave",
-    "traditional_chinese": "混合羅斯貝重力波",
-    "definition_cht": "指與「混合羅斯貝重力波」相關的波動、擾動或傳播現象，涉及振幅、相速與能量傳遞特性。",
+    "traditional_chinese": "混合羅斯貝－重力波",
+    "definition_cht": "一種赤道受困的大氣波動，同時具有羅斯貝波與重力波特性，通常向西傳播，並與熱帶對流、跨赤道氣流及平流層－對流層動力過程有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed_Rossby%E2%80%93gravity_wave"
   },
   {
     "english": "mixed tide",
     "traditional_chinese": "混合潮",
-    "definition_cht": "指與「混合潮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "日潮與半日潮分量皆相當顯著的潮汐型態；常見表現為一日兩次高潮與兩次低潮，但相鄰潮位高低不等。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed_tide"
   },
   {
     "english": "mixed-layer capping inversion",
-    "traditional_chinese": "混合層封蓋反演",
-    "definition_cht": "指與「混合層封蓋反演」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "混合層頂封蓋逆溫",
+    "definition_cht": "位於大氣邊界層頂部的穩定逆溫層，可抑制混合層內湍流與熱泡進一步向上發展，因而限制雲的垂直生長與污染物擴散高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed-layer_capping_inversion"
   },
   {
     "english": "mixed-layer depth",
     "traditional_chinese": "混合層深度",
-    "definition_cht": "指與「混合層深度」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "自地表或水面起算至混合層頂部的垂直厚度。其大小隨時間與地點而變，在晴朗白天地面加熱下常逐漸加深。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed-layer_depth"
   },
   {
     "english": "mixed-layer evolution",
-    "traditional_chinese": "混合層演化",
-    "definition_cht": "指與「混合層演化」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "混合層演變",
+    "definition_cht": "指晴朗陸地日變化中大氣邊界層混合層的典型發展過程，包括清晨淺薄混合、日間快速加深、午後成熟，以及傍晚至夜間湍流衰減。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed-layer_evolution"
   },
   {
     "english": "mixed-layer similarity",
-    "traditional_chinese": "混合層相似度",
-    "definition_cht": "指與「混合層相似度」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "混合層相似理論",
+    "definition_cht": "一種針對對流混合層建立無因次通用關係的經驗理論，通常以 Deardorff 對流速度尺度、混合層深度與溫度尺度來正規化邊界層變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed-layer_similarity"
   },
   {
     "english": "mixed-layer spectra",
-    "traditional_chinese": "混合層光譜",
-    "definition_cht": "指與「混合層光譜」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "混合層頻譜",
+    "definition_cht": "描述大氣混合層內風速、溫度或其他擾動變數之變異能量隨頻率或波數分布的頻譜，用以分析湍流尺度結構與能量傳遞特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/mixed-layer_spectra"
   },
   {
