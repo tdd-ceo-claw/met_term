@@ -2989,122 +2989,122 @@
   },
   {
     "english": "mountain-gap wind",
-    "traditional_chinese": "山縫風",
-    "definition_cht": "指與「山縫風」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "山口風",
+    "definition_cht": "氣流穿越山口、峽谷或地形缺口時，因壓力梯度與地形導流作用而顯著增強的局地強風；常具有通道化、陣風偏強與下游擴散等特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/mountain-gap_wind"
   },
   {
     "english": "mountain-wave cloud",
-    "traditional_chinese": "山波雲",
-    "definition_cht": "指與「山波雲」相關的雲系、雲形或雲微物理特徵，用於描述其外觀、生成條件與對應天氣狀態。",
+    "traditional_chinese": "山岳波雲",
+    "definition_cht": "氣流越過山脈後在背風側激發山岳波時，於上升區凝結形成的雲，常呈透鏡狀、帶狀或層狀，可作為山岳波與晴空亂流的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/mountain-wave_cloud"
   },
   {
     "english": "mountain–plains wind systems",
-    "traditional_chinese": "山地-平原風系統",
-    "definition_cht": "指與「山地-平原風系統」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "山地－平原風系",
+    "definition_cht": "由山區與鄰近平原受熱、冷卻差異所驅動的日變化局地環流系統；白天常表現為由平原指向山區的流動與上升，夜間則可反轉為由山區流向平原的排流。",
     "source_url": "https://glossary.ametsoc.org/wiki/mountain%E2%80%93plains_wind_systems"
   },
   {
     "english": "mountain–valley wind systems",
-    "traditional_chinese": "山地風系統",
-    "definition_cht": "指與「山地風系統」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "山地－谷地風系",
+    "definition_cht": "山坡與谷地因晝夜加熱、冷卻差異所形成的局地環流系統，通常包含白天的谷風、上坡風，以及夜間的山風、下坡風。",
     "source_url": "https://glossary.ametsoc.org/wiki/mountain%E2%80%93valley_wind_systems"
   },
   {
     "english": "moutonnée",
-    "traditional_chinese": "穆託內",
-    "definition_cht": "指與「穆託內」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "羊背石",
+    "definition_cht": "又稱 roche moutonnée，為冰川侵蝕形成的不對稱基岩丘；迎冰側多較平滑圓緩，背冰側則較陡峭，反映磨蝕與拔蝕共同作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/moutonn%C3%A9e"
   },
   {
     "english": "movable-scale barometer",
-    "traditional_chinese": "可移動刻度氣壓計",
-    "definition_cht": "指與「可移動刻度氣壓計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "可動刻度氣壓計",
+    "definition_cht": "刻度可相對汞柱或指示基準移動調整的氣壓計，用以校正零點、配合觀測基準或提高讀值判讀精度。",
     "source_url": "https://glossary.ametsoc.org/wiki/movable-scale_barometer"
   },
   {
     "english": "moving fetch",
-    "traditional_chinese": "移動抓取",
-    "definition_cht": "指與「移動抓取」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "移動風程",
+    "definition_cht": "在海浪生成中，指隨風暴或強風區一同移動的有效吹送距離；因強風帶沿海面持續推進，波浪可在更長時間與更大範圍內持續增長。",
     "source_url": "https://glossary.ametsoc.org/wiki/moving_fetch"
   },
   {
     "english": "moving-target indication",
     "traditional_chinese": "移動目標指示",
-    "definition_cht": "指與「移動目標指示」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "雷達用來抑制固定地物回波並凸顯移動目標回波的訊號處理技術，可提升對降水系統、飛機或其他移動目標的辨識能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/moving-target_indication"
   },
   {
     "english": "Mozambique Current",
-    "traditional_chinese": "莫三比克洋流",
-    "definition_cht": "指與「莫三比克洋流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "traditional_chinese": "莫三比克海流",
+    "definition_cht": "流經莫三比克海峽、整體趨向南流的暖流系統，與周邊渦旋活動共同將熱量與鹽分輸送至阿古拉斯海流區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mozambique_Current"
   },
   {
     "english": "MSG",
-    "traditional_chinese": "味精",
-    "definition_cht": "「MSG」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "第二代 Meteosat 氣象衛星",
+    "definition_cht": "Meteosat Second Generation 的縮寫，為 EUMETSAT 的第二代靜止軌道氣象衛星系列，較前代具更高時間與空間解析度，可支援對流監測、臨近預報與氣候監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/MSG"
   },
   {
     "english": "MSL",
-    "traditional_chinese": "MSL",
-    "definition_cht": "「MSL」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "平均海平面",
+    "definition_cht": "mean sea level 的縮寫，指經長時間平均後作為高程、氣壓訂正與測圖基準的海面參考高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/MSL"
   },
   {
     "english": "MST radar",
-    "traditional_chinese": "MST雷達",
-    "definition_cht": "指與「MST雷達」相關的雷達系統、雷達觀測或遙測產品。",
+    "traditional_chinese": "中氣層－平流層－對流層雷達",
+    "definition_cht": "Mesosphere-Stratosphere-Troposphere radar 的縮寫，為高頻或甚高頻大氣雷達，用以量測對流層至中氣層的風場、湍流與波動結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/MST_radar"
   },
   {
     "english": "MSU",
-    "traditional_chinese": "密西根州立大學",
-    "definition_cht": "「MSU」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "微波探空儀",
+    "definition_cht": "Microwave Sounding Unit 的縮寫，為氣象衛星上的被動微波遙測儀器，利用氧氣吸收頻道反演對流層至平流層的溫度垂直結構，為後續 AMSU 的前身。",
     "source_url": "https://glossary.ametsoc.org/wiki/MSU"
   },
   {
     "english": "MTI",
-    "traditional_chinese": "MTI",
-    "definition_cht": "「MTI」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "移動目標指示",
+    "definition_cht": "moving-target indication 的縮寫，指雷達藉由濾除固定雜波來強調移動目標回波的處理技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/MTI"
   },
   {
     "english": "MTN",
-    "traditional_chinese": "MTN",
-    "definition_cht": "「MTN」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "山地（縮寫）",
+    "definition_cht": "常作 mountain 的縮寫，用於氣象圖、地形說明或產品欄位中表示山地或山岳地形。",
     "source_url": "https://glossary.ametsoc.org/wiki/MTN"
   },
   {
     "english": "mts system",
-    "traditional_chinese": "MTS系統",
-    "definition_cht": "指與「MTS系統」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "MTS 系統",
+    "definition_cht": "氣象業務語境中的縮寫用語，通常指某類資料傳輸、訊息交換或遙測支援系統；實際全名需依所屬機構與作業環境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/mts_system"
   },
   {
     "english": "MTSAT",
-    "traditional_chinese": "MTSAT",
-    "definition_cht": "「MTSAT」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "多功能運輸衛星",
+    "definition_cht": "Multifunctional Transport Satellite 的縮寫，為日本兼具氣象觀測與航空管制支援功能的靜止軌道衛星系列，曾用於東亞與西北太平洋區域監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/MTSAT"
   },
   {
     "english": "mud rain",
     "traditional_chinese": "泥雨",
-    "definition_cht": "降水在下落過程中夾帶大量沙塵、火山灰或其他細粒物質，使雨滴沉降後留下泥狀沉積的現象。",
+    "definition_cht": "降水在下落過程中夾帶大量沙塵、火山灰或其他細粒物質，致使雨滴落地後留下泥狀沉積的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/mud_rain"
   },
   {
     "english": "mudflow",
-    "traditional_chinese": "土石流",
-    "definition_cht": "指與「土石流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "泥流",
+    "definition_cht": "含水量很高的細粒沉積物沿坡地或溝谷快速下移的重力流現象，常由豪雨、融雪、火山作用或邊坡失穩所觸發，屬土石流或碎屑流體系中的一類。",
     "source_url": "https://glossary.ametsoc.org/wiki/mudflow"
   },
   {
     "english": "muerto",
-    "traditional_chinese": "穆埃爾托",
-    "definition_cht": "指與「穆埃爾托」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "死寂風海（西語地名詞）",
+    "definition_cht": "源自西班牙語 muerto（意為「死寂、靜止」）的地方性術語，在海洋或天氣語境中多用於指風勢極弱、海面近乎平靜的狀態；實際用法仍須依區域資料判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/muerto"
   },
   {
