@@ -830,121 +830,121 @@
   {
     "english": "mean sea level trends",
     "traditional_chinese": "平均海平面趨勢",
-    "definition_cht": "指與「平均海平面趨勢」相關的特徵層位、標準層、診斷高度或強度分級。",
+    "definition_cht": "指某一地點平均海平面在長時段（通常為數十年）內的變化趨勢，又稱長期或世紀尺度海平面變化；其成因可包含海水體積改變與地殼垂直運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_sea_level_trends"
   },
   {
     "english": "mean solar day",
     "traditional_chinese": "平均太陽日",
-    "definition_cht": "指與「平均太陽日」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "平太陽連續兩次通過同一地方子午圈所對應的平均時間間隔，長度為 24 小時（86400 秒），為日常民用時間的基本日長。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_solar_day"
   },
   {
     "english": "mean sphere depth",
     "traditional_chinese": "平均球面深度",
-    "definition_cht": "指與「平均球面深度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "若將地球固體表面視為平滑且與大地水準面平行，海水可均勻覆蓋全球時所得到的平均水深，約為 2440 公尺。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_sphere_depth"
   },
   {
     "english": "mean temperature",
     "traditional_chinese": "平均氣溫",
-    "definition_cht": "指與「平均氣溫」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "definition_cht": "在指定時段內對氣溫觀測值取平均所得之溫度，可依日、月、年或其他統計期間計算，用以表徵該時段的整體熱狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_temperature"
   },
   {
     "english": "mean tide level",
     "traditional_chinese": "平均潮位",
-    "definition_cht": "指與「平均潮位」相關的特徵層位、標準層、診斷高度或強度分級。",
+    "definition_cht": "平均高潮位與平均低潮位的算術平均值，屬潮汐基準面之一；因受潮汐分潮高次項影響，通常不完全等同於平均海平面。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_tide_level"
   },
   {
     "english": "mean velocity",
     "traditional_chinese": "平均速度",
-    "definition_cht": "指與「平均速度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "流體在固定位置或指定區域內，於某一時間區間對速度所取之時間平均值；在亂流研究中常用以區分平均流與脈動成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_velocity"
   },
   {
     "english": "mean water level",
     "traditional_chinese": "平均水位",
-    "definition_cht": "指與「平均水位」相關的水體、水量、水文條件或含水狀態。",
+    "definition_cht": "水位長時段平均後所得之代表性水面高度；在潮汐或沿岸應用中常作為平均海平面或平均潮位的泛稱，實際定義須依採用基準而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_water_level"
   },
   {
     "english": "mean wind velocity",
-    "traditional_chinese": "平均風速",
-    "definition_cht": "指與「平均風速」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "traditional_chinese": "平均風速向量",
+    "definition_cht": "在指定時間內對風速向量所取之平均值，兼具平均風速大小與平均風向資訊，與僅就大小平均的平均風速不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean_wind_velocity"
   },
   {
     "english": "mean-square error",
     "traditional_chinese": "均方誤差",
-    "definition_cht": "指與「均方誤差」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "均方誤差，指估計值或預報值與真值之差平方後再取平均所得的統計量，用以衡量整體誤差幅度；數值越小通常表示結果越接近真值。",
     "source_url": "https://glossary.ametsoc.org/wiki/mean-square_error"
   },
   {
     "english": "meander",
     "traditional_chinese": "蜿蜒",
-    "definition_cht": "指與「蜿蜒」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指河道、洋流、噴流或其他流動路徑呈現的蛇行、曲流或波狀彎曲形態；在大氣與海洋中亦可指流束因不穩定或剪切而產生的擺動。",
     "source_url": "https://glossary.ametsoc.org/wiki/meander"
   },
   {
     "english": "measured ceiling",
-    "traditional_chinese": "測量天花板",
-    "definition_cht": "指與「測量天花板」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "實測雲幕高度",
+    "definition_cht": "以雲幕儀、雷射測雲儀等儀器實際量得的雲底高度上限，即符合天花板定義之最低雲層或遮蔽層高度；相對於人工目估天花板而言。",
     "source_url": "https://glossary.ametsoc.org/wiki/measured_ceiling"
   },
   {
     "english": "measurement cell",
     "traditional_chinese": "測量單元",
-    "definition_cht": "指與「測量單元」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "量測單元；指觀測或遙測系統中對應單一量測值的基本空間體積、區塊或感測單元，其大小由儀器解析度、取樣幾何與資料處理方式決定。",
     "source_url": "https://glossary.ametsoc.org/wiki/measurement_cell"
   },
   {
     "english": "mechanical dispersion",
     "traditional_chinese": "機械分散",
-    "definition_cht": "指與「機械分散」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由流速差異、剪切、障礙物繞流或孔隙通道差別等機械作用所造成的擴散與展布，與分子擴散不同，常用於污染物、溶質與流體混合描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/mechanical_dispersion"
   },
   {
     "english": "mechanical internal boundary layer",
     "traditional_chinese": "機械內邊界層",
-    "definition_cht": "指與「機械內邊界層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "地表粗糙度突變後，近地層因動力條件重新調整而形成的內邊界層；其生成主要受機械性粗糙度改變控制，而非熱力差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/mechanical_internal_boundary_layer"
   },
   {
     "english": "mechanical mixing",
     "traditional_chinese": "機械混合",
-    "definition_cht": "指與「機械混合」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由風切、地表摩擦、波浪或其他機械擾動所引發的混合作用，藉亂流將動量、熱量、水氣或溶質在流體中重新分配。",
     "source_url": "https://glossary.ametsoc.org/wiki/mechanical_mixing"
   },
   {
     "english": "mechanical turbulence",
     "traditional_chinese": "機械亂流",
-    "definition_cht": "由地表粗糙度、障礙物或風速垂直切變所產生的亂流。",
+    "definition_cht": "由地表粗糙度、障礙物或風速垂直切變所產生的亂流，屬動力機制驅動，與受浮力控制的熱對流亂流相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/mechanical_turbulence"
   },
   {
     "english": "Meddy",
-    "traditional_chinese": "梅迪",
-    "definition_cht": "指與「梅迪」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "地中海渦旋",
+    "definition_cht": "Mediterranean eddy 的簡稱，指源自地中海溢流水、位於東北大西洋中層的暖鹽性反氣旋渦旋，能將高鹽地中海水長距離輸送至外海。",
     "source_url": "https://glossary.ametsoc.org/wiki/Meddy"
   },
   {
     "english": "median",
     "traditional_chinese": "中位數",
-    "definition_cht": "指與「中位數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "中位數；將一組資料依大小排序後，位於正中央、可將資料分為上下兩半的代表值，常用於描述不易受極端值影響的集中趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/median"
   },
   {
     "english": "median volume diameter",
     "traditional_chinese": "中位數體積直徑",
-    "definition_cht": "指與「中位數體積直徑」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "體積中位徑；指粒徑分布中以體積（或質量）加權後，恰可使總體積一分為二的粒徑，即一半總體積來自較小粒子、另一半來自較大粒子。",
     "source_url": "https://glossary.ametsoc.org/wiki/median_volume_diameter"
   },
   {
     "english": "Medicane",
-    "traditional_chinese": "醫療",
-    "definition_cht": "指與「醫療」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "地中海類熱帶氣旋",
+    "definition_cht": "地中海類熱帶氣旋的通稱，係 Mediterranean 與 hurricane 的混成詞；指在地中海上形成、具暖心與部分熱帶氣旋特徵的強烈氣旋系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/Medicane"
   },
   {
