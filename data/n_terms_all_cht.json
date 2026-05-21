@@ -1130,122 +1130,122 @@
   {
     "english": "North Equatorial Current",
     "traditional_chinese": "北赤道洋流",
-    "definition_cht": "「北赤道洋流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
-    "source_url": "https://glossary.ametsoc.org/wiki/North_Equatorial_Current"
+    "definition_cht": "「北赤道洋流」是赤道以北受東北信風驅動、主要向西流動的表層洋流，常見於太平洋與大西洋約 5° 至 20°N 海域，為熱帶海洋環流的重要組成。",
+    "source_url": "https://en.wikipedia.org/wiki/North_Equatorial_Current"
   },
   {
     "english": "north foehn",
-    "traditional_chinese": "北焚風",
-    "definition_cht": "「北焚風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/north_foehn"
+    "traditional_chinese": "北風焚風",
+    "definition_cht": "「北風焚風」指由北向越山後在背風側下沉增溫、變得乾暖的焚風型局地風，屬地形作用所造成的暖乾下降風。",
+    "source_url": "https://en.wikipedia.org/wiki/Foehn_wind"
   },
   {
     "english": "North Korea Cold Current",
     "traditional_chinese": "北韓寒流",
-    "definition_cht": "「北韓寒流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
-    "source_url": "https://glossary.ametsoc.org/wiki/North_Korea_Cold_Current"
+    "definition_cht": "「北韓寒流」是日本海（東海）西部沿朝鮮半島東岸南下的寒流，為利曼寒流的分支，並會與東韓暖流及對馬暖流交會。",
+    "source_url": "https://en.wikipedia.org/wiki/North_Korea_Cold_Current"
   },
   {
     "english": "North Pacific Current",
     "traditional_chinese": "北太平洋洋流",
-    "definition_cht": "「北太平洋洋流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
-    "source_url": "https://glossary.ametsoc.org/wiki/North_Pacific_Current"
+    "definition_cht": "「北太平洋洋流」又稱北太平洋漂流，為北太平洋中緯度由西向東流動的洋流，由黑潮與親潮交會後形成，東進後再分為阿拉斯加洋流與加利福尼亞洋流。",
+    "source_url": "https://en.wikipedia.org/wiki/North_Pacific_Current"
   },
   {
     "english": "North Wall",
     "traditional_chinese": "北牆",
-    "definition_cht": "「北牆」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/North_Wall"
+    "definition_cht": "「北牆」通常指墨西哥灣流北側的強海洋鋒面或其北界，該區海表溫度、鹽度與流速梯度明顯，常作為海洋環流與漁場分析的重要邊界。",
+    "source_url": "https://en.wikipedia.org/wiki/Gulf_Stream"
   },
   {
     "english": "northeast storm",
     "traditional_chinese": "東北風暴",
-    "definition_cht": "「東北風暴」為一類風暴、擾動或強天氣現象名稱；通常用以描述其形成背景、結構特徵及可能造成的影響。",
-    "source_url": "https://glossary.ametsoc.org/wiki/northeast_storm"
+    "definition_cht": "「東北風暴」指以東北風為主導風向的風暴型天氣系統，常見於中緯度沿海地區，可伴隨強風、巨浪、豪雨或降雪與沿岸淹水。",
+    "source_url": "https://en.wikipedia.org/wiki/Nor%27easter"
   },
   {
     "english": "northeast trades",
-    "traditional_chinese": "東北貿易",
-    "definition_cht": "「東北貿易」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/northeast_trades"
+    "traditional_chinese": "東北信風",
+    "definition_cht": "「東北信風」是北半球熱帶地區自副熱帶高壓吹向赤道低壓帶的盛行東風，因受科氏力偏轉而呈東北向西南流動。",
+    "source_url": "https://en.wikipedia.org/wiki/Trade_winds"
   },
   {
     "english": "northeaster",
-    "traditional_chinese": "東北風",
-    "definition_cht": "「東北風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/northeaster"
+    "traditional_chinese": "東北風暴",
+    "definition_cht": "「東北風暴」通常對應 nor'easter，指北大西洋西部沿岸生成、近地面盛行東北風的強烈溫帶氣旋，可帶來豪雨、暴雪、沿岸洪水與強風。",
+    "source_url": "https://en.wikipedia.org/wiki/Northeaster"
   },
   {
     "english": "norther",
-    "traditional_chinese": "北部人",
-    "definition_cht": "「北部人」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/norther"
+    "traditional_chinese": "北風寒潮",
+    "definition_cht": "「北風寒潮」指由北方冷空氣南侵所伴隨的強勁北風，北美尤指德州與墨西哥灣沿岸快速南下、常伴隨明顯降溫的冷鋒型強風。",
+    "source_url": "https://en.wikipedia.org/wiki/Norther"
   },
   {
     "english": "northern lights",
     "traditional_chinese": "北極光",
-    "definition_cht": "「北極光」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/northern_lights"
+    "definition_cht": "「北極光」是北半球高緯度地區可見的極光現象，由太陽帶電粒子進入高層大氣後激發氧、氮等氣體發光所形成。",
+    "source_url": "https://en.wikipedia.org/wiki/Aurora"
   },
   {
     "english": "northern nanny",
-    "traditional_chinese": "北方保姆",
-    "definition_cht": "「北方保姆」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/northern_nanny"
+    "traditional_chinese": "北方保姆風",
+    "definition_cht": "「北方保姆風」屬少見的地方風名稱；現有可得資料有限，通常可理解為自北方吹來、性質較冷或較穩定的地方性風名，使用時宜再結合區域文獻確認其確切指涉。",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_local_winds"
   },
   {
     "english": "northwester",
-    "traditional_chinese": "西北",
-    "definition_cht": "「西北」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/northwester"
+    "traditional_chinese": "西北風",
+    "definition_cht": "「西北風」指自西北方吹來的風；在地方風語境中，northwester 亦常指較強的西北風事件，可伴隨乾冷或陣風增強。",
+    "source_url": "https://en.wiktionary.org/wiki/northwester"
   },
   {
     "english": "Norwegian Current",
     "traditional_chinese": "挪威海流",
-    "definition_cht": "「挪威海流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Norwegian_Current"
+    "definition_cht": "「挪威海流」是沿挪威海岸向北流動的暖鹹海流，將北大西洋海水輸送至挪威海與巴倫支海，對北歐高緯度氣候具有增溫作用。",
+    "source_url": "https://en.wikipedia.org/wiki/Norwegian_Current"
   },
   {
     "english": "Norwegian Sea Deep Water",
     "traditional_chinese": "挪威海深層水",
-    "definition_cht": "「挪威海深層水」為海洋學或海氣系統相關術語，用於描述海水性質、海洋環流、海況現象或海上觀測配置。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Norwegian_Sea_Deep_Water"
+    "definition_cht": "「挪威海深層水」指充填於挪威海深層盆地的寒冷高密度水團，與冬季深對流及北大西洋高緯度海域的深水交換有關，為熱鹽環流的重要成分。",
+    "source_url": "https://en.wikipedia.org/wiki/Norwegian_Sea"
   },
   {
     "english": "NOTAM",
-    "traditional_chinese": "航行通告",
-    "definition_cht": "「航行通告」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NOTAM"
+    "traditional_chinese": "飛航通告",
+    "definition_cht": "「飛航通告」是航空主管機關發布的即時作業資訊，用以通報航路、機場、導航設施、程序或潛在危害的新增、變更或異常情況，供飛航相關人員掌握。",
+    "source_url": "https://en.wikipedia.org/wiki/NOTAM"
   },
   {
     "english": "Notos",
-    "traditional_chinese": "諾托斯",
-    "definition_cht": "「諾托斯」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Notos"
+    "traditional_chinese": "諾托斯（南風）",
+    "definition_cht": "「諾托斯」是古希臘對南風的名稱，在古典氣象觀念中常指溫暖濕潤、並易帶來雲雨或風暴的南風。",
+    "source_url": "https://en.wikipedia.org/wiki/Notos"
   },
   {
     "english": "Nova Zemlya",
     "traditional_chinese": "新地島",
-    "definition_cht": "「新地島」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Nova_Zemlya"
+    "definition_cht": "「新地島」是位於巴倫支海與喀拉海之間的北極群島，常作為北極海冰、大氣環流、極地航道與高緯度海氣交互作用研究的區域地理參考。",
+    "source_url": "https://en.wikipedia.org/wiki/Nova_Zemlya"
   },
   {
     "english": "nowcast",
     "traditional_chinese": "臨近預報",
-    "definition_cht": "「臨近預報」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nowcast"
+    "definition_cht": "「臨近預報」指針對未來數十分鐘至數小時所做的短時天氣預報，通常綜合雷達、衛星、地面觀測與高頻更新模式，用於掌握對流、降雨與強對流的即時演變。",
+    "source_url": "https://en.wikipedia.org/wiki/Nowcast"
   },
   {
     "english": "NOx",
     "traditional_chinese": "氮氧化物",
-    "definition_cht": "「氮氧化物」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NOx"
+    "definition_cht": "「氮氧化物」在大氣化學中通常指一氧化氮（NO）與二氧化氮（NO2）等含氮氧化物的總稱，是光化學煙霧、酸雨與對流層臭氧生成的重要前驅物。",
+    "source_url": "https://en.wikipedia.org/wiki/NOx"
   },
   {
     "english": "Noxon cliff",
-    "traditional_chinese": "諾克森懸崖",
-    "definition_cht": "「諾克森懸崖」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Noxon_cliff"
+    "traditional_chinese": "諾克森崖",
+    "definition_cht": "「諾克森崖」為南極地名，指維多利亞地一帶的崖壁或稜脊地形名稱，主要作為極地地理、測繪與野外觀測定位的地形參考。",
+    "source_url": "https://en.wikipedia.org/wiki/Noxon_cliff"
   },
   {
     "english": "NRM",
