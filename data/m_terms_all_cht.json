@@ -2750,121 +2750,121 @@
   {
     "english": "monostatic radar",
     "traditional_chinese": "單基地雷達",
-    "definition_cht": "指與「單基地雷達」相關的雷達系統、雷達觀測或遙測產品。",
+    "definition_cht": "發射機與接收機共置或近乎共置、通常共用同一天線的雷達系統；雷達發出的電磁波由目標散射後再回到原站接收，與發射與接收分離的雙基地雷達相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/monostatic_radar"
   },
   {
     "english": "monsoon",
     "traditional_chinese": "季風",
-    "definition_cht": "由海陸熱力差與季節性大尺度環流轉換共同驅動、風向與降水具有顯著季節反轉特徵的環流系統。",
+    "definition_cht": "由海陸熱力差異與季節性大尺度環流調整所驅動的季節轉向風系，常伴隨降水與濕乾季的明顯年內轉換；現代用法亦可泛指與此相關的季節性大氣環流及降水變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/monsoon"
   },
   {
     "english": "monsoon climate",
     "traditional_chinese": "季風氣候",
-    "definition_cht": "指「季風氣候」所對應的氣候類型、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "受季風環流主導的氣候型，特徵為風向隨季節顯著轉換，並具有明顯的雨季與較乾季節；在柯本分類中常指熱帶季風氣候（Am）。",
     "source_url": "https://glossary.ametsoc.org/wiki/monsoon_climate"
   },
   {
     "english": "monsoon current",
-    "traditional_chinese": "季風流",
-    "definition_cht": "指與「季風流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "traditional_chinese": "季風洋流",
+    "definition_cht": "受季風季節性風場控制而隨季節改變方向或強度的海流，常見於北印度洋，包含夏季向東流動與冬季向西流動的季風洋流系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/monsoon_current"
   },
   {
     "english": "monsoon depression",
-    "traditional_chinese": "季風低壓",
-    "definition_cht": "季風槽中發展的低壓擾動，常伴隨廣泛降雨並影響南亞季風天氣。",
+    "traditional_chinese": "季風低壓擾動",
+    "definition_cht": "在季風槽內生成的廣闊低壓性天氣系統，通常伴隨低層氣旋式環流與大範圍降雨，為南亞季風區常見的強降雨擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/monsoon_depression"
   },
   {
     "english": "monsoon fog",
     "traditional_chinese": "季風霧",
-    "definition_cht": "指與「季風霧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一種較少用的平流霧，指季風環流將暖濕空氣輸送至較冷下墊面時形成的霧，常見於沿岸或近海區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/monsoon_fog"
   },
   {
     "english": "monsoon gyre",
-    "traditional_chinese": "季風環流",
-    "definition_cht": "指與「季風環流」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "季風渦旋",
+    "definition_cht": "西北太平洋夏季季風環流中的大型低層氣旋式渦旋，尺度可達數千公里，常伴隨廣闊雲帶，並會影響熱帶氣旋的生成、路徑與強度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/monsoon_gyre"
   },
   {
     "english": "monsoon low",
     "traditional_chinese": "季風低壓",
-    "definition_cht": "指與「季風低壓」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在季風槽或季風環流內發展的低壓區，具有明顯旋轉環流但結構通常較熱帶氣旋鬆散；若環境有利，後續可能進一步發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/monsoon_low"
   },
   {
     "english": "Monsoon onset vortex",
     "traditional_chinese": "季風爆發渦旋",
-    "definition_cht": "指與「季風爆發渦旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "印度夏季季風爆發前後約前後十天內，阿拉伯海上形成的綜觀尺度渦旋；其近地面強風與深厚對流常與季風爆發及水氣輸送增強有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Monsoon_onset_vortex"
   },
   {
     "english": "monsoon surge",
-    "traditional_chinese": "季風潮",
-    "definition_cht": "指與「季風潮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "季風增強",
+    "definition_cht": "指季風氣流在短時間內明顯增強的現象，常表現為低層風速上升與水氣輸送增加，進而加強對流、降雨、海況或冷空氣南下影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/monsoon_surge"
   },
   {
     "english": "Monsoon trough",
     "traditional_chinese": "季風槽",
-    "definition_cht": "指與「季風槽」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "季風區內由南北半球氣流匯聚形成的延伸低壓槽或輻合帶，常可視為熱帶輻合帶的一部分；其附近對流旺盛，且常為低壓擾動與熱帶氣旋生成區。",
     "source_url": "https://glossary.ametsoc.org/wiki/Monsoon_trough"
   },
   {
     "english": "MONT code",
-    "traditional_chinese": "蒙特代碼",
-    "definition_cht": "指與「蒙特代碼」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "MONT 電碼",
+    "definition_cht": "用於編報或交換月統計氣候資料的氣象電碼／代碼格式，供傳送每月彙整的氣候觀測摘要之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/MONT_code"
   },
   {
     "english": "Monte Carlo method",
-    "traditional_chinese": "蒙特卡羅法",
-    "definition_cht": "指處理「蒙特卡羅法」相關問題的分析、估算、模擬、分類或推算方法。",
+    "traditional_chinese": "蒙地卡羅法",
+    "definition_cht": "以大量隨機抽樣或隨機試驗來估計數值解、機率分布或系統行為的計算方法，常用於積分、風險評估、最佳化與不確定性分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Monte_Carlo_method"
   },
   {
     "english": "Monte carlo model",
-    "traditional_chinese": "蒙特卡羅模型",
-    "definition_cht": "用於表示「蒙特卡羅模型」相關過程、系統或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "蒙地卡羅模型",
+    "definition_cht": "以隨機抽樣機制描述系統不確定性並反覆模擬其可能結果的模型；常用於評估機率分布、敏感度、風險與預報不確定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Monte_carlo_model"
   },
   {
     "english": "Montgomery streamfunction",
     "traditional_chinese": "蒙哥馬利流函數",
-    "definition_cht": "指與「蒙哥馬利流函數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "等壓面或等熵面動力氣象中使用的流函數量，結合位勢高度與焓（或溫度）效應，用來表示地轉流場並分析大尺度水平運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Montgomery_streamfunction"
   },
   {
     "english": "monthly climatological summary",
-    "traditional_chinese": "每月氣候總結",
-    "definition_cht": "指與「每月氣候總結」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "每月氣候摘要",
+    "definition_cht": "依一個月觀測資料彙整而成的氣候統計摘要，通常包括月平均、極值、累積降水、偏差及其他代表該月氣候狀況的要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/monthly_climatological_summary"
   },
   {
     "english": "monthly maximum temperature",
-    "traditional_chinese": "月最高溫",
-    "definition_cht": "指與「月最高溫」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "traditional_chinese": "月最高氣溫",
+    "definition_cht": "某月內觀測到的最高氣溫值，即該月逐日或逐時氣溫資料中的最大值。",
     "source_url": "https://glossary.ametsoc.org/wiki/monthly_maximum_temperature"
   },
   {
     "english": "monthly minimum temperature",
     "traditional_chinese": "月最低氣溫",
-    "definition_cht": "指與「月最低氣溫」相關的溫度量、熱狀態或其空間時間分布特徵。",
+    "definition_cht": "某月內觀測到的最低氣溫值，即該月逐日或逐時氣溫資料中的最小值。",
     "source_url": "https://glossary.ametsoc.org/wiki/monthly_minimum_temperature"
   },
   {
     "english": "monthly record",
-    "traditional_chinese": "月記錄",
-    "definition_cht": "指與「月記錄」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "月紀錄",
+    "definition_cht": "某氣象要素在特定月份歷年觀測中的極端紀錄值，例如某站歷年七月最高溫紀錄或最低降水紀錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/monthly_record"
   },
   {
     "english": "Montreal Protocol",
     "traditional_chinese": "蒙特婁議定書",
-    "definition_cht": "指與「蒙特婁議定書」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "正式名稱為《關於消耗臭氧層物質之蒙特婁議定書》，為1987年通過的國際環境條約，旨在逐步淘汰會破壞臭氧層的物質，如氯氟碳化物與其他消耗臭氧層化學品。",
     "source_url": "https://glossary.ametsoc.org/wiki/Montreal_Protocol"
   },
   {
