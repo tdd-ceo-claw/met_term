@@ -1,0 +1,142 @@
+[
+  {
+    "english": "moon illusion",
+    "checks": [
+      "https://en.wikipedia.org/wiki/Moon_illusion",
+      "https://www.britannica.com/science/optical-illusion"
+    ]
+  },
+  {
+    "english": "moor-gallop",
+    "checks": [
+      "https://en.wiktionary.org/wiki/moor-gallop",
+      "https://www.google.com/search?q=%22moor-gallop%22+weather"
+    ]
+  },
+  {
+    "english": "moraine",
+    "checks": [
+      "https://en.wikipedia.org/wiki/Moraine",
+      "https://www.britannica.com/science/moraine"
+    ]
+  },
+  {
+    "english": "morget",
+    "checks": [
+      "https://en.wiktionary.org/wiki/morget",
+      "https://www.google.com/search?q=%22morget%22+meteorology"
+    ]
+  },
+  {
+    "english": "morning glory",
+    "checks": [
+      "https://en.wikipedia.org/wiki/Morning_Glory_cloud",
+      "https://www.britannica.com/science/morning-glory-cloud"
+    ]
+  },
+  {
+    "english": "morphology",
+    "checks": [
+      "https://en.wiktionary.org/wiki/morphology",
+      "https://www.britannica.com/science/morphology-biology"
+    ]
+  },
+  {
+    "english": "MOS",
+    "checks": [
+      "https://en.wikipedia.org/wiki/Model_output_statistics",
+      "https://www.weather.gov/mdl/mos_home"
+    ]
+  },
+  {
+    "english": "mother-cloud",
+    "checks": [
+      "https://cloudatlas.wmo.int/en/home.html",
+      "https://www.google.com/search?q=%22mother-cloud%22+cloud+atlas"
+    ]
+  },
+  {
+    "english": "mother-of-pearl clouds",
+    "checks": [
+      "https://en.wikipedia.org/wiki/Mother_of_pearl_cloud",
+      "https://cloudatlas.wmo.int/en/fog.html"
+    ]
+  },
+  {
+    "english": "motorboating",
+    "checks": [
+      "https://en.wiktionary.org/wiki/motorboating",
+      "https://en.wikipedia.org/wiki/Motorboating"
+    ]
+  },
+  {
+    "english": "Mount Rose snow sampler",
+    "checks": [
+      "https://www.google.com/search?q=%22Mount+Rose+snow+sampler%22",
+      "https://books.google.com/books?q=%22Mount+Rose+snow+sampler%22"
+    ]
+  },
+  {
+    "english": "mountain barometer",
+    "checks": [
+      "https://www.google.com/search?q=%22mountain+barometer%22+weather",
+      "https://www.britannica.com/technology/barometer"
+    ]
+  },
+  {
+    "english": "mountain breeze",
+    "checks": [
+      "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/mountain-breeze",
+      "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/mountain-wind"
+    ]
+  },
+  {
+    "english": "mountain climate",
+    "checks": [
+      "https://www.britannica.com/science/highland-climate",
+      "https://en.wikipedia.org/wiki/Highland_climate"
+    ]
+  },
+  {
+    "english": "mountain fog",
+    "checks": [
+      "https://cloudatlas.wmo.int/en/fog.html",
+      "https://www.weather.gov/source/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/Fog_definitions.html"
+    ]
+  },
+  {
+    "english": "mountain lee wave",
+    "checks": [
+      "https://en.wikipedia.org/wiki/Mountain_wave",
+      "https://forecast.weather.gov/glossary.php?word=mountain+wave"
+    ]
+  },
+  {
+    "english": "mountain observation",
+    "checks": [
+      "https://www.google.com/search?q=%22mountain+observation%22+meteorology",
+      "https://books.google.com/books?q=%22mountain+observation%22+meteorology"
+    ]
+  },
+  {
+    "english": "mountain torque",
+    "checks": [
+      "https://www.google.com/search?q=%22mountain+torque%22+meteorology",
+      "https://books.google.com/books?q=%22mountain+torque%22+meteorology"
+    ]
+  },
+  {
+    "english": "mountain wave",
+    "checks": [
+      "https://en.wikipedia.org/wiki/Mountain_wave",
+      "https://forecast.weather.gov/glossary.php?word=mountain+wave"
+    ]
+  },
+  {
+    "english": "mountain wind",
+    "checks": [
+      "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/mountain-wind",
+      "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/mountain-breeze"
+    ]
+  }
+]
