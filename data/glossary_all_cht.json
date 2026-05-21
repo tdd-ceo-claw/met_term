@@ -34975,122 +34975,122 @@
   },
   {
     "english": "NRM",
-    "traditional_chinese": "NRM",
-    "definition_cht": "「NRM」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "traditional_chinese": "自然剩磁",
+    "definition_cht": "「自然剩磁」是岩石或沉積物在形成過程中保留下來的永久磁化，記錄其生成時所處地磁場的方向與強度特徵，為古地磁學與磁性地層研究的重要依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/NRM"
   },
   {
     "english": "NRM wind scale",
     "traditional_chinese": "NRM 風級",
-    "definition_cht": "「NRM 風級」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「NRM 風級」是美國森林署為北洛磯山林區（Northern Rocky Mountains）林地環境所調整使用的風力等級，屬蒲福風級的在地化版本；其風速分級與蒲福風級相同，但以森林與樹木受風的可見效應作為判讀重點。",
     "source_url": "https://glossary.ametsoc.org/wiki/NRM_wind_scale"
   },
   {
     "english": "NSCAT",
-    "traditional_chinese": "NSCAT",
-    "definition_cht": "「NSCAT」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "traditional_chinese": "NASA 散射計",
+    "definition_cht": "「NASA 散射計」是搭載於日本 ADEOS 衛星上的 Ku 波段海面風向風速遙測儀器，利用微波後向散射訊號反演近海面風場，廣泛應用於海洋氣象、颱風分析與海氣交互作用研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/NSCAT"
   },
   {
     "english": "nT",
-    "traditional_chinese": "nT",
-    "definition_cht": "「nT」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "奈特斯拉",
+    "definition_cht": "「奈特斯拉」是磁通密度或磁感應強度的單位，1 nT = 10⁻⁹ 特斯拉；在地磁觀測、太空天氣與磁力儀資料中常用來表示地磁場強度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/nT"
   },
   {
     "english": "nuclear winter",
-    "traditional_chinese": "核冬天",
-    "definition_cht": "「核冬天」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "核冬季",
+    "definition_cht": "「核冬季」是指大規模核戰後，城市與森林火災產生的大量煙塵進入平流層並遮蔽日照，導致地表長期顯著降溫、降水改變與農業減產的假想氣候效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/nuclear_winter"
   },
   {
     "english": "nucleation",
-    "traditional_chinese": "成核",
-    "definition_cht": "「成核」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "成核作用",
+    "definition_cht": "「成核作用」是新相或新粒子開始形成的初始過程；在大氣科學中常指水汽凝結、冰晶生成或氣膠粒子形成時，先由微小核心啟動相變與粒子成長。",
     "source_url": "https://glossary.ametsoc.org/wiki/nucleation"
   },
   {
     "english": "Nucleus",
     "traditional_chinese": "核",
-    "definition_cht": "「核」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「核」指可作為物質聚集、凝結、結冰或其他相變起始中心的微小核心；在雲物理中常見於凝結核、冰核等用法，代表促使水汽或過冷水開始相變的基礎粒子或表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/Nucleus"
   },
   {
     "english": "Nucleus counter",
     "traditional_chinese": "凝結核計數器",
-    "definition_cht": "「凝結核計數器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「凝結核計數器」是量測空氣中凝結核數濃度的儀器，通常先使微小粒子在過飽和蒸氣中成長為可偵測液滴，再以光學方式逐一計數；為氣膠、雲微物理與空氣品質觀測常用設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/Nucleus_counter"
   },
   {
     "english": "nudging",
-    "traditional_chinese": "牛頓鬆弛同化",
-    "definition_cht": "「牛頓鬆弛同化」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "鬆弛校正法",
+    "definition_cht": "「鬆弛校正法」是一種資料同化或模式約束技術，於模式積分過程中加入與觀測或分析場差值成比例的校正項，使模擬場逐步向目標場靠攏；又常稱牛頓鬆弛（Newtonian relaxation）。",
     "source_url": "https://glossary.ametsoc.org/wiki/nudging"
   },
   {
     "english": "numerical dispersion",
-    "traditional_chinese": "數值彌散",
-    "definition_cht": "「數值彌散」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "數值色散",
+    "definition_cht": "「數值色散」指數值離散格式在模擬波動或平流過程時，因不同波數成分的相速被錯誤表示而產生的假性色散現象，常導致波形扭曲、相位偏移或振盪。",
     "source_url": "https://glossary.ametsoc.org/wiki/numerical_dispersion"
   },
   {
     "english": "numerical forecasting",
-    "traditional_chinese": "數值天氣預報",
-    "definition_cht": "「數值天氣預報」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "數值預報",
+    "definition_cht": "「數值預報」指以描述大氣、海洋或其他環境系統的控制方程式建立數值模式，並利用觀測初始場經計算機積分推估未來狀態的預報方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/numerical_forecasting"
   },
   {
     "english": "numerical integration",
     "traditional_chinese": "數值積分",
-    "definition_cht": "「數值積分」指依數值方法將控制方程沿時間或空間逐步求解的積分程序，常見於模式運算。",
+    "definition_cht": "「數值積分」指以離散時間步長或空間步長近似求解微分方程或積分式的計算程序；在數值模式中，常用以逐步推進控制方程，求得預報場的時間演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/numerical_integration"
   },
   {
     "english": "numerical modeling",
-    "traditional_chinese": "數值模擬建模",
-    "definition_cht": "「數值模擬建模」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "數值建模",
+    "definition_cht": "「數值建模」指將實際物理、化學或生物過程以數學方程與參數化方案表示，並透過計算機離散求解，以模擬系統結構、演變與回應的建模方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/numerical_modeling"
   },
   {
     "english": "numerical simulation",
     "traditional_chinese": "數值模擬",
-    "definition_cht": "「數值模擬」指利用理論、數值方法或實驗設計重現實際物理過程的模擬作業。",
+    "definition_cht": "「數值模擬」指利用數值方法與計算機求解控制方程或概念模型，以重現自然或工程系統在特定條件下的時間與空間演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/numerical_simulation"
   },
   {
     "english": "Nusselt number",
     "traditional_chinese": "努塞爾數",
-    "definition_cht": "「努塞爾數」為無因次數或特徵指標，用以衡量特定物理過程中各作用力、傳輸效應或尺度關係的重要性。",
+    "definition_cht": "「努塞爾數」是描述對流傳熱相對於純熱傳導強弱的無因次數，通常定義為對流熱傳係數乘以特徵長度再除以流體熱導率；數值愈大表示對流增強熱傳的效果愈顯著。",
     "source_url": "https://glossary.ametsoc.org/wiki/Nusselt_number"
   },
   {
     "english": "NWP",
     "traditional_chinese": "數值天氣預報",
-    "definition_cht": "「數值天氣預報」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "definition_cht": "「數值天氣預報」的英文縮寫為 NWP，指利用大氣動力與熱力方程，結合觀測初始場與計算機模式，對未來天氣狀態進行定量預報的作業與方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/NWP"
   },
   {
     "english": "Nyquist frequency",
     "traditional_chinese": "奈奎斯特頻率",
-    "definition_cht": "「奈奎斯特頻率」表示週期性現象在單位時間內發生的次數，亦可用於描述訊號、波動或事件出現特性。",
+    "definition_cht": "「奈奎斯特頻率」是離散取樣系統可無混疊表示的最高頻率，等於取樣頻率的一半；在雷達、訊號處理與頻譜分析中，是判斷取樣是否足以解析目標變化的重要界線。",
     "source_url": "https://glossary.ametsoc.org/wiki/Nyquist_frequency"
   },
   {
     "english": "O'Brien cubic polynomial",
     "traditional_chinese": "O'Brien 三次多項式",
-    "definition_cht": "「O'Brien 三次多項式」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「O'Brien 三次多項式」是海洋與流體數值模式中用來近似垂直速度或垂向結構的一種插值／修正方法，透過三次多項式使離散層間解更平滑，並改善質量連續或邊界條件的一致性。",
     "source_url": "https://glossary.ametsoc.org/wiki/O%27Brien_cubic_polynomial"
   },
   {
     "english": "oasis effect",
     "traditional_chinese": "綠洲效應",
-    "definition_cht": "「綠洲效應」指特定環境條件所造成的影響或響應，常用以描述大氣、海洋或地表系統中的可辨識機制。",
+    "definition_cht": "「綠洲效應」指濕潤灌溉地、植生區或水體因蒸發散作用旺盛而使近地層氣溫低於周圍乾燥地表，並形成局地較涼微氣候的現象；常見於沙漠綠洲與灌溉農區。",
     "source_url": "https://glossary.ametsoc.org/wiki/oasis_effect"
   },
   {
     "english": "ob",
-    "traditional_chinese": "觀測值",
-    "definition_cht": "「觀測值」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "觀測",
+    "definition_cht": "「ob」是 observation 的縮寫，指氣象、航空或海洋作業中的一次觀測或觀測資料；在天氣圖分析、報文處理與資料同化中常用以代表實測觀測值。",
     "source_url": "https://glossary.ametsoc.org/wiki/ob"
   },
   {
