@@ -34376,121 +34376,121 @@
   {
     "english": "nitric acid trihydrate",
     "traditional_chinese": "三水硝酸",
-    "definition_cht": "「三水硝酸」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學式為 HNO3·3H2O 的硝酸水合晶體，常簡寫為 NAT；在極區平流層可作為極地平流層雲的組成相之一，並與臭氧耗損所需的非均相化學反應及反硝化過程有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitric_acid_trihydrate"
   },
   {
     "english": "nitric oxide",
     "traditional_chinese": "一氧化氮",
-    "definition_cht": "「一氧化氮」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學式為 NO 的含氮氧化物，為無色氣體；在大氣中由燃燒、閃電與土壤微生物等來源產生，並可迅速氧化為二氧化氮，參與臭氧生成與光化學污染反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitric_oxide"
   },
   {
     "english": "nitrification",
     "traditional_chinese": "硝化作用",
-    "definition_cht": "「硝化作用」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "氮循環中的微生物氧化過程，指氨或銨離子先轉為亞硝酸鹽，再進一步轉為硝酸鹽；常發生於土壤、水體與廢水系統，並影響養分供應與水質。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrification"
   },
   {
     "english": "nitrogen",
     "traditional_chinese": "氮",
-    "definition_cht": "「氮」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學元素 N，原子序 7；在地球大氣中主要以氮氣（N2）存在，體積比約占 78%，為生物蛋白質與核酸的重要組成元素，也是大氣與生地化循環的關鍵成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrogen"
   },
   {
     "english": "nitrogen cycle",
     "traditional_chinese": "氮循環",
-    "definition_cht": "「氮循環」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "氮在大氣、土壤、水體與生物體間，以固氮、硝化、同化、氨化與反硝化等過程互相轉換與循環的生地球化學循環。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrogen_cycle"
   },
   {
     "english": "nitrogen dioxide",
     "traditional_chinese": "二氧化氮",
-    "definition_cht": "「二氧化氮」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學式為 NO2 的含氮氧化物，為具刺激性的紅棕色氣體；主要來自高溫燃燒與一氧化氮氧化，既是重要空氣污染物，也參與對流層臭氧、硝酸與細懸浮微粒形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrogen_dioxide"
   },
   {
     "english": "nitrogen fixation",
     "traditional_chinese": "固氮作用",
-    "definition_cht": "「固氮作用」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "將大氣中的分子氮（N2）轉換為氨或其他可被生物利用之含氮化合物的過程，可由固氮微生物、閃電或工業製程完成，是氮循環的起始環節之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrogen_fixation"
   },
   {
     "english": "nitrogen oxides",
     "traditional_chinese": "氮氧化物",
-    "definition_cht": "「氮氧化物」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "氮與氧形成的一類氣態化合物，常以 NOx 表示，主要指一氧化氮（NO）與二氧化氮（NO2）；多由燃燒過程產生，與光化學煙霧、酸沉降及臭氧生成密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrogen_oxides"
   },
   {
     "english": "nitrogen-fixing plants",
     "traditional_chinese": "固氮植物",
-    "definition_cht": "「固氮植物」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指能與根瘤菌或其他固氮微生物共生，藉此將大氣氮轉化為可利用含氮化合物的植物；豆科植物最具代表性，對土壤肥力與生態復育十分重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrogen-fixing_plants"
   },
   {
     "english": "nitrous acid",
     "traditional_chinese": "亞硝酸",
-    "definition_cht": "「亞硝酸」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學式為 HNO2 的弱酸，通常僅在水溶液中較短暫存在，易分解或歧化；在大氣化學中可作為亞硝酸鹽與 HONO 相關反應的重要中間物種。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrous_acid"
   },
   {
     "english": "nitrous oxide",
     "traditional_chinese": "一氧化二氮",
-    "definition_cht": "「一氧化二氮」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學式為 N2O 的無色氣體，又稱笑氣；其來源包括土壤微生物作用、農業活動與工業排放，為壽命較長的溫室氣體，並會在平流層參與臭氧消耗相關反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/nitrous_oxide"
   },
   {
     "english": "nival",
-    "traditional_chinese": "尼瓦爾",
-    "definition_cht": "「尼瓦爾」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "冰雪作用的",
+    "definition_cht": "形容與積雪、常年雪地或雪作用主導環境有關的；在地形學與氣候學中，常指受融雪、凍融與積雪覆蓋控制的地表過程、地形或氣候帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/nival"
   },
   {
     "english": "NOAA",
     "traditional_chinese": "美國國家海洋暨大氣總署",
-    "definition_cht": "「美國國家海洋暨大氣總署」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "definition_cht": "National Oceanic and Atmospheric Administration 的縮寫，隸屬美國商務部，主管氣象、海洋、氣候、漁業與衛星觀測等事務，並統轄國家氣象局等單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/NOAA"
   },
   {
     "english": "NOAA space weather scales",
     "traditional_chinese": "NOAA 太空天氣等級",
-    "definition_cht": "「NOAA 太空天氣等級」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "由 NOAA 太空天氣預報中心制定的作業分級系統，用以將地磁暴、太陽輻射風暴與無線電黑障分別以 G、S、R 等級表示，供預警與風險溝通使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/NOAA_space_weather_scales"
   },
   {
     "english": "noble gases",
-    "traditional_chinese": "惰性氣體",
-    "definition_cht": "「惰性氣體」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "稀有氣體",
+    "definition_cht": "元素週期表第 18 族氣體元素的統稱，包括氦、氖、氬、氪、氙與氡；其外層電子殼層相對穩定，化學反應性低，因此亦常稱惰性氣體。",
     "source_url": "https://glossary.ametsoc.org/wiki/noble_gases"
   },
   {
     "english": "noctilucent clouds",
     "traditional_chinese": "夜光雲",
-    "definition_cht": "「夜光雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "出現在高緯夏季中間層上部的極高雲，通常由微小冰晶組成；於日落後或日出前仍可被太陽照亮，因此在昏暮天空中呈現藍白發光外觀。",
     "source_url": "https://glossary.ametsoc.org/wiki/noctilucent_clouds"
   },
   {
     "english": "nocturnal boundary layer",
     "traditional_chinese": "夜間邊界層",
-    "definition_cht": "「夜間邊界層」指大氣、海洋、冰雪或地表環境中的一個特定層次，具有相對明確的熱力、動力或組成特徵。",
+    "definition_cht": "日落後在地表輻射冷卻作用下形成的大氣邊界層，近地層多呈穩定分層、湍流減弱且垂直混合受抑制；其結構常影響污染物累積、低空急流與霧的發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/nocturnal_boundary_layer"
   },
   {
     "english": "nocturnal cooling",
     "traditional_chinese": "夜間冷卻",
-    "definition_cht": "「夜間冷卻」指夜間條件下出現或增強的氣象現象，常與輻射冷卻、邊界層穩定化及局地環流演變有關。",
+    "definition_cht": "指地表與近地層空氣在夜間因長波輻射散熱而降溫的過程；在晴朗、少雲、弱風條件下特別明顯，常促進逆溫、露、霜或霧的形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/nocturnal_cooling"
   },
   {
     "english": "nocturnal jet",
     "traditional_chinese": "夜間急流",
-    "definition_cht": "「夜間急流」指夜間條件下出現或增強的氣象現象，常與輻射冷卻、邊界層穩定化及局地環流演變有關。",
+    "definition_cht": "夜間於穩定邊界層上方或其內部增強的低空風速極大帶，常見於低空急流型態；其形成與地表摩擦減弱、慣性振盪及夜間邊界層結構演變有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/nocturnal_jet"
   },
   {
     "english": "nocturnal minimum temperature",
     "traditional_chinese": "夜間最低氣溫",
-    "definition_cht": "「夜間最低氣溫」為與溫度狀態、代表性熱環境或溫度診斷有關之術語，常用於描述熱力條件與能量交換。",
+    "definition_cht": "指一夜之中觀測到的最低氣溫，通常出現在黎明前後；常用於評估夜間冷卻強度、霜害風險、熱浪夜間舒緩程度與都市熱島效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/nocturnal_minimum_temperature"
   },
   {
