@@ -1670,121 +1670,121 @@
   {
     "english": "methane",
     "traditional_chinese": "甲烷",
-    "definition_cht": "指與「甲烷」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "化學式為 CH4 的最簡單烴類，也是天然氣的主要成分之一；在大氣中屬重要溫室氣體，來源包含濕地、化石燃料開採、畜牧與生質分解，對氣候變遷與大氣化學具有顯著影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/methane"
   },
   {
     "english": "methanesulfonic acid",
     "traditional_chinese": "甲磺酸",
-    "definition_cht": "指與「甲磺酸」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "化學式為 CH3SO3H 的含硫有機酸，在大氣化學中常作為海洋生物排放之二甲基硫（DMS）氧化後的重要產物與示蹤物，可用於研究海鹽氣膠、硫循環與雲凝結核形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/methanesulfonic_acid"
   },
   {
     "english": "methanol",
     "traditional_chinese": "甲醇",
-    "definition_cht": "指與「甲醇」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "化學式為 CH3OH 的最簡單醇類揮發性有機化合物；在大氣中可由植被排放、燃燒與工業活動產生，並參與對流層氧化反應與臭氧前驅物化學。",
     "source_url": "https://glossary.ametsoc.org/wiki/methanol"
   },
   {
     "english": "method of characteristics",
-    "traditional_chinese": "特徵法",
-    "definition_cht": "指處理「特徵法」相關問題的分析、估算、模擬、分類或推算方法。",
+    "traditional_chinese": "特徵線法",
+    "definition_cht": "求解偏微分方程的數學方法，沿方程之特徵線把原方程轉化為較易處理的常微分方程；在可壓縮流、波動傳播與動力氣象理論分析中常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/method_of_characteristics"
   },
   {
     "english": "method of images",
-    "traditional_chinese": "圖像法",
-    "definition_cht": "指處理「圖像法」相關問題的分析、估算、模擬、分類或推算方法。",
+    "traditional_chinese": "映像法",
+    "definition_cht": "處理具邊界條件之位勢或微分方程問題的數學技巧，藉由在邊界外設置對應的虛擬源或鏡像源，使解自動滿足邊界條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/method_of_images"
   },
   {
     "english": "method of small perturbations",
     "traditional_chinese": "小擾動法",
-    "definition_cht": "指處理「小擾動法」相關問題的分析、估算、模擬、分類或推算方法。",
+    "definition_cht": "將系統中的起伏、擾動或邊界不規則視為相對主態很小，據以線性化並求近似解的方法；在波動散射、邊界層與地球物理遙測理論中常用。",
     "source_url": "https://glossary.ametsoc.org/wiki/method_of_small_perturbations"
   },
   {
     "english": "method of successive approximations",
     "traditional_chinese": "逐次逼近法",
-    "definition_cht": "指處理「逐次逼近法」相關問題的分析、估算、模擬、分類或推算方法。",
+    "definition_cht": "由初始猜測出發，反覆代入修正以逐步接近真解的數值或解析方法；在非線性方程、積分方程與大氣動力方程求解中常作為迭代程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/method_of_successive_approximations"
   },
   {
     "english": "methyl bromide",
     "traditional_chinese": "溴甲烷",
-    "definition_cht": "指與「溴甲烷」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "化學式為 CH3Br 的揮發性有機溴化合物，天然與人為來源皆可排放至大氣；其在平流層可釋放活性溴並參與臭氧消耗，因此屬受管制之消耗臭氧層物質。",
     "source_url": "https://glossary.ametsoc.org/wiki/methyl_bromide"
   },
   {
     "english": "methyl chloride",
     "traditional_chinese": "氯甲烷",
-    "definition_cht": "指與「氯甲烷」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "化學式為 CH3Cl 的揮發性有機氯化合物，是大氣中最重要的天然有機氯來源之一；可由海洋、生物燃燒與生物作用排放，並參與平流層臭氧化學。",
     "source_url": "https://glossary.ametsoc.org/wiki/methyl_chloride"
   },
   {
     "english": "methyl chloroform",
     "traditional_chinese": "甲基氯仿",
-    "definition_cht": "指與「甲基氯仿」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "即 1,1,1-三氯乙烷（CH3CCl3），曾廣泛用作工業溶劑；因會破壞臭氧層而受國際管制，其大氣濃度歷來亦常用於推估對流層中 OH 自由基的全球平均變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/methyl_chloroform"
   },
   {
     "english": "methyl iodide",
     "traditional_chinese": "碘甲烷",
-    "definition_cht": "指與「碘甲烷」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "化學式為 CH3I 的揮發性有機碘化合物，主要來自海洋與生物排放；進入大氣後可釋放活性碘，影響海洋邊界層氧化能力、氣膠生成與臭氧化學。",
     "source_url": "https://glossary.ametsoc.org/wiki/methyl_iodide"
   },
   {
     "english": "methylvinyl ketone",
     "traditional_chinese": "甲基乙烯基酮",
-    "definition_cht": "指與「甲基乙烯基酮」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "常記為 MVK，為不飽和酮類揮發性有機化合物，也是異戊二烯等生物源碳氫化合物在大氣氧化過程中的重要中間產物，常用於研究光化學反應與臭氧生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/methylvinyl_ketone"
   },
   {
     "english": "metro",
-    "traditional_chinese": "捷運",
-    "definition_cht": "指與「捷運」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "metro",
+    "definition_cht": "此詞在氣象文獻中多屬縮略寫法而非固定單一專名，常需依上下文判定是指 meteorological、metropolitan（都會區）或其他業務縮稱；單獨列為術語時宜保留原文並按語境解讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/metro"
   },
   {
     "english": "metsat",
     "traditional_chinese": "氣象衛星",
-    "definition_cht": "指與「氣象衛星」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "meteorological satellite 的縮寫，指搭載可見光、紅外或微波感測器以監測雲系、大氣、海洋與地表狀態的人造衛星，是現代天氣分析、預報與氣候監測的重要資料來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/metsat"
   },
   {
     "english": "MF",
     "traditional_chinese": "中頻",
-    "definition_cht": "「MF」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "definition_cht": "medium frequency 的縮寫，通常指頻率約 300 kHz 至 3 MHz 的電磁波頻段；在氣象與地球物理業務中可涉及無線電通訊、導航、遙測或相關儀器系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/MF"
   },
   {
     "english": "MIBL",
-    "traditional_chinese": "MIBL",
-    "definition_cht": "「MIBL」為氣象、海洋、水文、遙測或相關地球科學領域使用之縮寫、代號、儀器或產品名稱；其精確涵義仍需依專業語境判定。",
+    "traditional_chinese": "海洋內部邊界層",
+    "definition_cht": "marine internal boundary layer 的縮寫，指氣流由陸地移至海面或海面性質驟變後，在下層大氣重新調整所形成的內部邊界層，常影響近海風、湍流、雲與污染物傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/MIBL"
   },
   {
     "english": "Michael-riggs",
-    "traditional_chinese": "麥可·里格斯",
-    "definition_cht": "指與「麥可·里格斯」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Michael–Riggs 日照儀",
+    "definition_cht": "一種舊式日照觀測儀器名稱，用於記錄或估算日照持續時間與太陽輻射照射情形；現今多見於歷史氣象儀器或舊文獻脈絡。",
     "source_url": "https://glossary.ametsoc.org/wiki/Michael-riggs"
   },
   {
     "english": "Michaelson actinograph",
-    "traditional_chinese": "邁克爾遜光動記錄儀",
-    "definition_cht": "指與「邁克爾遜光動記錄儀」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Michaelson 日射記錄儀",
+    "definition_cht": "一種用於連續記錄太陽輻射變化的輻射觀測儀器，屬日射自記儀（actinograph）類型，可用於分析日照與入射輻射的時間變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Michaelson_actinograph"
   },
   {
     "english": "Michelson actinometer",
-    "traditional_chinese": "邁克爾遜光量計",
-    "definition_cht": "指與「邁克爾遜光量計」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Michelson 輻射計",
+    "definition_cht": "用以量測太陽輻射強度的輻射儀器，屬 actinometer 類；在早期氣象與輻射觀測中可用於估算入射日射能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Michelson_actinometer"
   },
   {
     "english": "microbarm",
-    "traditional_chinese": "微型酒吧",
-    "definition_cht": "指與「微型酒吧」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微氣壓振段",
+    "definition_cht": "微氣壓計或微氣壓自記儀紀錄上，平均氣壓線在同一方向兩次（或少數幾次）連續交越之間所對應的那一段波動記錄；概念上類似地震學中的 microseism。",
     "source_url": "https://glossary.ametsoc.org/wiki/microbarm"
   },
   {
