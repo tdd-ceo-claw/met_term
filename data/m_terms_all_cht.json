@@ -469,122 +469,122 @@
   },
   {
     "english": "Marsden chart",
-    "traditional_chinese": "馬斯登圖",
-    "definition_cht": "指與「馬斯登圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬斯登分區圖",
+    "definition_cht": "一種海洋與氣象資料定位用的全球分區圖，將海圖依經緯度劃分為編號的 Marsden squares，便於記錄、交換與檢索海上觀測位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/Marsden_chart"
   },
   {
     "english": "Marsden square",
-    "traditional_chinese": "馬斯登廣場",
-    "definition_cht": "指與「馬斯登廣場」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬斯登方格",
+    "definition_cht": "Marsden 分區圖中的基本編號格區，通常指 10° 緯度乘 10° 經度的海洋定位方格，用於標示海象與氣象觀測資料的位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/Marsden_square"
   },
   {
     "english": "marsh",
-    "traditional_chinese": "沼澤",
-    "definition_cht": "指與「沼澤」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "沼澤地",
+    "definition_cht": "以草本植物為主、地勢低平且長期或季節性積水的濕地，常位於湖岸、河岸、河口或海岸帶，是水域與陸域之間的過渡生態環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/marsh"
   },
   {
     "english": "Marshall-palmer relation",
-    "traditional_chinese": "馬歇爾-帕爾默關係",
-    "definition_cht": "指與「馬歇爾-帕爾默關係」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬歇爾－帕爾默關係式",
+    "definition_cht": "雷達反射率 Z 與降雨率 R 之間的經驗關係式，為雷達估雨常用基礎；典型形式為 Z = 200R^1.6，相關研究亦延伸到馬歇爾－帕爾默雨滴粒徑分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/Marshall-palmer_relation"
   },
   {
     "english": "Marvin sunshine recorder",
-    "traditional_chinese": "馬文陽光錄音機",
-    "definition_cht": "指與「馬文陽光錄音機」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "馬文日照記錄器",
+    "definition_cht": "一種日照記錄儀，利用鐘控機構帶動記錄裝置，以連續記錄晴空直射日光出現的時段或日照時數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Marvin_sunshine_recorder"
   },
   {
     "english": "masked front",
-    "traditional_chinese": "蒙面前線",
-    "definition_cht": "指與「蒙面前線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "被遮蔽鋒",
+    "definition_cht": "指因局地加熱、地形或其他近地面效應而使鋒面在地面上的典型溫度對比不明顯，但在風向、濕度或高空分析上仍可辨識的鋒面。",
     "source_url": "https://glossary.ametsoc.org/wiki/masked_front"
   },
   {
     "english": "mass absorption coefficient",
     "traditional_chinese": "質量吸收係數",
-    "definition_cht": "指與「質量吸收係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "介質或氣膠粒子對輻射的吸收能力以單位質量表示之係數，通常等於吸收截面或吸收量除以質量濃度，常用單位為 m²/kg。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_absorption_coefficient"
   },
   {
     "english": "mass accommodation coefficient",
-    "traditional_chinese": "質量調節係數",
-    "definition_cht": "指與「質量調節係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "質量容納係數",
+    "definition_cht": "氣體分子撞擊液滴、液膜或粒子表面後，實際進入凝相而非反彈離開的機率；常用於描述凝結、蒸發及氣膠攝取過程的界面效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_accommodation_coefficient"
   },
   {
     "english": "mass balance",
     "traditional_chinese": "質量平衡",
-    "definition_cht": "系統在一定時間內輸入、輸出與儲存量之間的守恆關係。",
+    "definition_cht": "依質量守恆原理，系統在一定時間內的輸入量、輸出量與儲存量變化之間所滿足的平衡關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_balance"
   },
   {
     "english": "mass convergence",
-    "traditional_chinese": "品質匯聚",
-    "definition_cht": "指與「品質匯聚」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "質量輻合",
+    "definition_cht": "空氣或其他流體的質量通量在某區域內呈淨流入的情形；在大氣中常與低層收斂及上升運動的發展有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_convergence"
   },
   {
     "english": "mass curve",
-    "traditional_chinese": "質量曲線",
-    "definition_cht": "指與「質量曲線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "累積曲線",
+    "definition_cht": "將某一變量（如降水量、逕流量或供水量）隨時間逐步累加後繪成的曲線，用於分析儲水、調節容量與水文變化趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_curve"
   },
   {
     "english": "mass divergence",
-    "traditional_chinese": "質量散度",
-    "definition_cht": "指與「質量散度」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "質量輻散",
+    "definition_cht": "空氣或其他流體的質量通量在某區域內呈淨流出的情形；在大氣中常與下沉補償或高空外流相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_divergence"
   },
   {
     "english": "mass scattering coefficient",
     "traditional_chinese": "質量散射係數",
-    "definition_cht": "指與「質量散射係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "介質或氣膠粒子對輻射的散射能力以單位質量表示之係數，通常為散射截面除以質量濃度，常用於能見度、氣膠光學與輻射傳輸研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_scattering_coefficient"
   },
   {
     "english": "mass spectrometry",
-    "traditional_chinese": "質譜分析",
-    "definition_cht": "指與「質譜分析」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "質譜法",
+    "definition_cht": "將樣品離子化後，依離子的質荷比（m/z）加以分離與偵測的分析技術，用於判定元素、同位素、分子量與化學組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_spectrometry"
   },
   {
     "english": "mass transport",
-    "traditional_chinese": "大眾運輸",
-    "definition_cht": "指與「大眾運輸」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "質量輸送",
+    "definition_cht": "物質或流體質量因平流、擴散或環流而自一地移向另一地的過程；在氣象學中可指空氣、水氣、氣膠或其他示蹤物的輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass_transport"
   },
   {
     "english": "mass-transfer method",
     "traditional_chinese": "傳質法",
-    "definition_cht": "指處理「傳質法」相關問題的分析、估算、模擬、分類或推算方法。",
+    "definition_cht": "依近地層風速、濕度差或湍流交換條件，估算水氣或其他物質跨界面通量的方法；在水文與農氣中常用於蒸發或蒸散估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/mass-transfer_method"
   },
   {
     "english": "mast",
-    "traditional_chinese": "桅杆",
-    "definition_cht": "指與「桅杆」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "氣象塔架",
+    "definition_cht": "用於架設風、溫、濕、輻射等氣象感測器的高立式支架或塔桿，使儀器能在指定高度進行連續觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/mast"
   },
   {
     "english": "Matanuska wind",
     "traditional_chinese": "馬塔努斯卡風",
-    "definition_cht": "指與「馬塔努斯卡風」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "definition_cht": "阿拉斯加南中部的局地強風，通常沿馬塔努斯卡谷地向外吹送，屬受地形導引並常帶有焚風或下坡風特性的峽谷風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Matanuska_wind"
   },
   {
     "english": "matched filter",
-    "traditional_chinese": "匹配過濾器",
-    "definition_cht": "用於擷取、保留或抑制「匹配過濾器」相關訊號或頻率成分的濾波方法或裝置。",
+    "traditional_chinese": "匹配濾波器",
+    "definition_cht": "針對已知訊號形狀所設計的線性濾波器，用以在雜訊背景中最大化輸出訊雜比，常用於雷達、通訊與影像訊號偵測。",
     "source_url": "https://glossary.ametsoc.org/wiki/matched_filter"
   },
   {
     "english": "mathematical climate",
-    "traditional_chinese": "數學氣氛",
-    "definition_cht": "指「數學氣氛」所對應的氣候類型、區域氣候條件或其長期平均特徵。",
+    "traditional_chinese": "數理氣候",
+    "definition_cht": "以數學方程、統計平均或理論推導所表徵的理想化氣候狀態，用於與實際觀測氣候區別，強調氣候量的理論或計算表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/mathematical_climate"
   },
   {
