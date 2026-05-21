@@ -1910,121 +1910,121 @@
   {
     "english": "microwave",
     "traditional_chinese": "微波",
-    "definition_cht": "指與「微波」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "波長約介於 1 公尺至 1 毫米、頻率約 300 MHz 至 300 GHz 的電磁波頻段；在氣象與遙測上常用於被動微波輻射量測、主動雷達探測，以及穿透雲層觀測降水、水氣與地表特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/microwave"
   },
   {
     "english": "microwave probing",
     "traditional_chinese": "微波探測",
-    "definition_cht": "指與「微波探測」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "利用微波遙測量測大氣或地表電磁輻射與散射特性的探測方法，可藉不同頻道反演溫度、水氣、液態水、降水與地表參數；常見於衛星與地基遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/microwave_probing"
   },
   {
     "english": "microwave radar",
     "traditional_chinese": "微波雷達",
-    "definition_cht": "指與「微波雷達」相關的雷達系統、雷達觀測或遙測產品。",
+    "definition_cht": "使用微波波段發射與接收電磁波的雷達系統，可偵測目標距離、方向、速度與回波強度；氣象上廣用於觀測降水、雲系結構、風場與中尺度天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/microwave_radar"
   },
   {
     "english": "microwave radiation",
     "traditional_chinese": "微波輻射",
-    "definition_cht": "指與「微波輻射」相關的輻射傳輸、能量收支或電磁波放射現象。",
+    "definition_cht": "屬微波波段的電磁輻射；在大氣科學中可指自然發射的微波輻射，常用於量測氧氣、水氣、雲液水與降水對輻射的吸收與放射特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/microwave_radiation"
   },
   {
     "english": "microwave refractometer",
-    "traditional_chinese": "微波折射儀",
-    "definition_cht": "指與「微波折射儀」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微波折射率儀",
+    "definition_cht": "利用微波傳播特性量測空氣折射率或其變化的儀器，可用於推估近地層溫度、氣壓與水氣對電波折射的影響，並支援電波傳播與邊界層研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/microwave_refractometer"
   },
   {
     "english": "Microwave Sounding Unit",
-    "traditional_chinese": "微波探測裝置",
-    "definition_cht": "指與「微波探測裝置」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微波探空儀",
+    "definition_cht": "縮寫為 MSU，為氣象衛星上的被動微波遙測儀器，利用氧氣吸收頻道量測大氣層結微波輻射，以反演對流層至平流層的溫度結構；為後續 AMSU 的前身。",
     "source_url": "https://glossary.ametsoc.org/wiki/Microwave_Sounding_Unit"
   },
   {
     "english": "Mid-Japan Sea Cold Current",
-    "traditional_chinese": "日本中部海寒流",
-    "definition_cht": "指與「日本中部海寒流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "traditional_chinese": "日本海中部寒流",
+    "definition_cht": "日本海內的一支寒流系，亦可視為日本海中央冷流的一部分，主要輸送較冷且低鹽度海水，並與對馬暖流等流系共同影響日本海的海洋環流、熱鹽結構與海氣交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mid-Japan_Sea_Cold_Current"
   },
   {
     "english": "middle atmosphere",
-    "traditional_chinese": "中氣氛",
-    "definition_cht": "指與「中氣氛」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中層大氣",
+    "definition_cht": "地球大氣中介於下層與高層大氣之間的統稱，通常主要指平流層與中氣層，有時亦依研究脈絡含其交界區域；是臭氧化學、重力波與輻射動力過程的重要活動層。",
     "source_url": "https://glossary.ametsoc.org/wiki/middle_atmosphere"
   },
   {
     "english": "middle infrared",
     "traditional_chinese": "中紅外線",
-    "definition_cht": "指與「中紅外線」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "介於近紅外與遠紅外之間的紅外波段，常約指 3–8 微米或相近範圍；在氣象衛星遙測中常用於雲頂、地表溫度、火點與部分大氣成分的判識。",
     "source_url": "https://glossary.ametsoc.org/wiki/middle_infrared"
   },
   {
     "english": "Midget tropical cyclone",
     "traditional_chinese": "小型熱帶氣旋",
-    "definition_cht": "指與「小型熱帶氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "尺度異常緊湊的熱帶氣旋，具有很小的最大風半徑與環流範圍，雖影響區域較小，但近中心風速、降雨與海況常可相當劇烈，預報上具高度挑戰。",
     "source_url": "https://glossary.ametsoc.org/wiki/Midget_tropical_cyclone"
   },
   {
     "english": "midnight wind",
     "traditional_chinese": "午夜風",
-    "definition_cht": "指與「午夜風」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "definition_cht": "泛指在午夜前後出現或增強的夜間局地風；多與日夜加熱差異、山谷環流、海陸風轉換或邊界層穩定化有關，通常不是全球通用的單一固定專名。",
     "source_url": "https://glossary.ametsoc.org/wiki/midnight_wind"
   },
   {
     "english": "midsection method",
-    "traditional_chinese": "中段法",
-    "definition_cht": "指處理「中段法」相關問題的分析、估算、模擬、分類或推算方法。",
+    "traditional_chinese": "中分段法",
+    "definition_cht": "水文流量測驗中以河道斷面各測點中點劃分子斷面，再將各子斷面面積與代表流速相乘後加總求得總流量的方法，為 velocity-area 測流的常用計算程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/midsection_method"
   },
   {
     "english": "Mie scattering",
     "traditional_chinese": "米氏散射",
-    "definition_cht": "指與「米氏散射」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "當粒子尺度與入射波長相近時所產生的電磁波散射現象；在大氣中常用於描述雲滴、霾粒子與氣膠對光的散射，與天空泛白、能見度降低及前向散射增強等現象有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mie_scattering"
   },
   {
     "english": "Mie theory",
     "traditional_chinese": "米氏理論",
-    "definition_cht": "指與「米氏理論」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "描述均質球形粒子對電磁波散射與吸收的理論，為求解 Maxwell 方程組所得；常用於分析雲滴、氣膠、海鹽與其他粒子之光學性質及其遙測訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mie_theory"
   },
   {
     "english": "miejour",
-    "traditional_chinese": "米耶日誌",
-    "definition_cht": "指與「米耶日誌」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "miejour",
+    "definition_cht": "未見其作為現代氣象固定術語的可靠權威用法；現有網路可檢來源多指普羅旺斯／奧克語文獻中的專名或地域語詞。納入氣象詞彙時宜暫保留原文，待原始出處或上下文進一步確認。",
     "source_url": "https://glossary.ametsoc.org/wiki/miejour"
   },
   {
     "english": "migratory",
-    "traditional_chinese": "遷徙的",
-    "definition_cht": "指與「遷徙的」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "移行性的",
+    "definition_cht": "形容天氣系統、擾動、鋒面或雲系會隨時間由一地移動至另一地，而非長時間滯留於原地；常與 stationary（滯留性、定常性）相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/migratory"
   },
   {
     "english": "mil",
-    "traditional_chinese": "米爾",
-    "definition_cht": "指與「米爾」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "密位",
+    "definition_cht": "角度單位，常用於測角與瞄準；其定義依系統而略異，常見近似為一圓周的 1/6400 或以毫弧度為基礎。在氣象相關舊式觀測、測角或軍事氣象語境中偶可見此用法。",
     "source_url": "https://glossary.ametsoc.org/wiki/mil"
   },
   {
     "english": "Milankovitch oscillations",
     "traditional_chinese": "米蘭科維奇振盪",
-    "definition_cht": "指與「米蘭科維奇振盪」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指地球軌道離心率、地軸傾角與歲差等週期變化所造成的長時間尺度氣候振盪，實質上與 Milankovitch cycles 同義，反映日照時空分布改變對氣候系統的軌道強迫。",
     "source_url": "https://glossary.ametsoc.org/wiki/Milankovitch_oscillations"
   },
   {
     "english": "Milankovitch Pleistocene climate variation",
-    "traditional_chinese": "米蘭科維奇更新世氣候變化",
-    "definition_cht": "指「米蘭科維奇更新世氣候變化」所對應的氣候類型、區域氣候條件或其長期平均特徵。",
+    "traditional_chinese": "米蘭科維奇式更新世氣候變化",
+    "definition_cht": "指更新世冰期—間冰期氣候變化可由米蘭科維奇軌道週期所驅動與調制的觀點，強調軌道參數改變如何透過日照分布變化影響冰量與古氣候演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/Milankovitch_Pleistocene_climate_variation"
   },
   {
     "english": "Milankovitch solar radiation curve",
-    "traditional_chinese": "米蘭科維奇太陽輻射曲線",
-    "definition_cht": "指與「米蘭科維奇太陽輻射曲線」相關的輻射傳輸、能量收支或電磁波放射現象。",
+    "traditional_chinese": "米蘭科維奇日照曲線",
+    "definition_cht": "根據米蘭科維奇理論計算的日照量隨時間變化曲線，用以表示特定緯度或季節所接收太陽輻射因軌道參數變動而產生的週期性改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/Milankovitch_solar_radiation_curve"
   },
   {
