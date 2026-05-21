@@ -1184,121 +1184,121 @@
   {
     "english": "meridional circulation",
     "traditional_chinese": "經向環流",
-    "definition_cht": "以南北向質量、熱量或動量輸送為主的大尺度環流，可指大氣或海洋中的經向平均流動結構。",
+    "definition_cht": "指以南北向輸送為主的環流型態；在大氣或海洋中通常強調質量、熱量、鹽度或動量沿子午線方向的再分配。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional_circulation"
   },
   {
     "english": "meridional exchange",
     "traditional_chinese": "經向交換",
-    "definition_cht": "指與「經向交換」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指大氣或海洋中沿南北方向進行的物質、熱量、水氣、鹽度或動量交換過程，是不同緯度間能量與性質傳輸的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional_exchange"
   },
   {
     "english": "meridional flow",
     "traditional_chinese": "經向流",
-    "definition_cht": "指與「經向流」相關的流動型態、平均流場或輸送結構。",
+    "definition_cht": "指流場具有顯著南北向分量的流動型態；在天氣尺度上常表示氣流偏離帶狀西風，波動較大並易促進冷暖空氣南北輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional_flow"
   },
   {
     "english": "meridional front",
-    "traditional_chinese": "子午鋒",
-    "definition_cht": "指與「子午鋒」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "經向鋒",
+    "definition_cht": "指大致呈南北走向、近似沿子午線延伸的鋒面或鋒區。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional_front"
   },
   {
     "english": "meridional index",
-    "traditional_chinese": "子午指數",
-    "definition_cht": "用於量化「子午指數」相關狀態、強度、異常程度或風險高低的指標。",
+    "traditional_chinese": "經向指數",
+    "definition_cht": "用於量化大氣環流偏向經向型程度的指標，常依波列振幅、南北位移或環流形勢評估相對於帶狀流的經向性強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional_index"
   },
   {
     "english": "meridional wind",
     "traditional_chinese": "經向風",
-    "definition_cht": "指與「經向風」相關的局地風系、盛行風型或風場特徵，通常著重其形成機制、地形效應與天氣影響。",
+    "definition_cht": "風速在南北方向上的分量；慣例上向北為正、向南為負，常以 v 分量表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/meridional_wind"
   },
   {
     "english": "meromictic lake",
-    "traditional_chinese": "半羅密克湖",
-    "definition_cht": "指與「半羅密克湖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "半混合湖",
+    "definition_cht": "湖水分層長期穩定，深層水與上層水無法在季節循環中完全混合的湖泊；深層常呈缺氧且理化性質與表層明顯不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/meromictic_lake"
   },
   {
     "english": "mesoanalysis",
-    "traditional_chinese": "細觀分析",
-    "definition_cht": "指與「細觀分析」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度分析",
+    "definition_cht": "利用高時空解析度觀測資料，分析雷暴、鋒面、海陸風、乾線或輻合線等中尺度天氣系統環境與演變的作業或產品。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoanalysis"
   },
   {
     "english": "mesoanticyclone",
-    "traditional_chinese": "中反氣旋",
-    "definition_cht": "指與「中反氣旋」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度反氣旋",
+    "definition_cht": "尺度屬中尺度、呈反氣旋式旋轉的高壓性渦旋或環流，常見於對流系統周邊、地形作用區或局地加熱造成的環境中。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoanticyclone"
   },
   {
     "english": "mesochart",
-    "traditional_chinese": "中圖",
-    "definition_cht": "指與「中圖」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度天氣圖",
+    "definition_cht": "專門描繪中尺度天氣現象的分析圖或天氣圖，通常使用較高密度觀測資料以呈現局地邊界、風場、溫濕度與壓力分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesochart"
   },
   {
     "english": "mesoclimate",
     "traditional_chinese": "中氣候",
-    "definition_cht": "指與「中氣候」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "介於大尺度氣候與微氣候之間的氣候尺度，常描述山谷、盆地、都市區或沿海帶等數公里至數十公里範圍的區域氣候特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoclimate"
   },
   {
     "english": "mesoclimatology",
     "traditional_chinese": "中氣候學",
-    "definition_cht": "指與「中氣候學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "研究中氣候形成機制、空間分布與環境影響的學科，著重地形、下墊面、都市化與局地環流對區域氣候的作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesoclimatology"
   },
   {
     "english": "mesocyclone",
     "traditional_chinese": "中尺度氣旋",
-    "definition_cht": "對流風暴內部尺度約數公里至數十公里、具持續旋轉特徵的中尺度渦旋。",
+    "definition_cht": "雷暴內部或附近尺度約數公里至數十公里、具有持續旋轉特徵的中尺度渦旋，最常見於超級胞風暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesocyclone"
   },
   {
     "english": "mesocyclone signature",
-    "traditional_chinese": "中氣旋特徵",
-    "definition_cht": "指與「中氣旋特徵」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度氣旋徵象",
+    "definition_cht": "都卜勒天氣雷達上顯示中尺度氣旋存在的旋轉訊號，常表現為相鄰的入流與出流速度對，並符合一定的強度、深度與持續時間條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesocyclone_signature"
   },
   {
     "english": "mesojet",
-    "traditional_chinese": "梅索噴射",
-    "definition_cht": "指與「梅索噴射」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度急流",
+    "definition_cht": "尺度屬中尺度的狹長強風帶或局地風速極大區，可出現在對流系統、邊界層或地形誘發環流中。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesojet"
   },
   {
     "english": "mesolow",
     "traditional_chinese": "中尺度低壓",
-    "definition_cht": "由加熱、輻合或地形等中尺度過程造成的局地低壓區。",
+    "definition_cht": "尺度屬中尺度的局地低壓中心或低壓區，常由差異加熱、潛熱釋放、地形作用或中尺度輻合所造成。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesolow"
   },
   {
     "english": "mesometeorology",
-    "traditional_chinese": "中觀氣象學",
-    "definition_cht": "指與「中觀氣象學」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度氣象學",
+    "definition_cht": "研究中尺度大氣現象的氣象分支，涵蓋雷暴系統、海陸風、山谷風、鋒生、重力波及局地環流等。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesometeorology"
   },
   {
     "english": "Mesonet",
-    "traditional_chinese": "梅索內特",
-    "definition_cht": "指與「梅索內特」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度觀測網",
+    "definition_cht": "由高密度自動氣象與環境監測站組成的觀測網，用於監測中尺度天氣現象與微氣候變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Mesonet"
   },
   {
     "english": "mesopause",
     "traditional_chinese": "中氣層頂",
-    "definition_cht": "中氣層頂部、溫度通常最低且上接熱層的過渡層。",
+    "definition_cht": "中氣層與熱層之間的界面，也是中層大氣平均氣溫最低的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesopause"
   },
   {
     "english": "mesopeak",
-    "traditional_chinese": "中峰",
-    "definition_cht": "指與「中峰」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "中尺度峰值",
+    "definition_cht": "在中尺度分析中出現的局地極大值或峰區，可指氣壓、高度、風速、溫度等氣象要素在有限區域內的相對最大中心。",
     "source_url": "https://glossary.ametsoc.org/wiki/mesopeak"
   },
   {
