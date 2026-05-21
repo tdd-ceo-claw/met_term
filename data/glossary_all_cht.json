@@ -33655,123 +33655,123 @@
   },
   {
     "english": "multiplexor",
-    "traditional_chinese": "多路復用器",
-    "definition_cht": "指與「多路復用器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multiplexor"
+    "traditional_chinese": "多工器",
+    "definition_cht": "又稱多路復用器，為一種電子切換元件，可依控制訊號自多個類比或數位輸入中選擇一路送往單一輸出；在氣象遙測與資料擷取系統中常用於彙整多通道觀測訊號。",
+    "source_url": "https://en.wikipedia.org/wiki/Multiplexer"
   },
   {
     "english": "multispectral remote sensing",
-    "traditional_chinese": "多光譜遙感",
-    "definition_cht": "指與「多光譜遙感」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multispectral_remote_sensing"
+    "traditional_chinese": "多光譜遙測",
+    "definition_cht": "利用多個彼此分離的光譜波段量測地表或大氣對電磁輻射的反射、發射或散射特性之遙測方法，可用於地物分類、雲與植被判識及環境監測。",
+    "source_url": "https://en.wikipedia.org/wiki/Multispectral_imaging"
   },
   {
     "english": "multispectral scanner",
     "traditional_chinese": "多光譜掃描儀",
-    "definition_cht": "可在多個分離波段同步或序列量測地表與大氣輻射訊號的遙測掃描儀器。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multispectral_scanner"
+    "definition_cht": "能在多個選定光譜波段同步或序列量測目標輻射的掃描式遙測儀器，常搭載於衛星或航空器，用以取得多光譜影像資料。",
+    "source_url": "https://en.wikipedia.org/wiki/Multispectral_imaging"
   },
   {
     "english": "multivariate objective analysis",
     "traditional_chinese": "多變量客觀分析",
-    "definition_cht": "指與「多變量客觀分析」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在客觀分析中同時納入風、溫度、氣壓、濕度等多種相互關聯變數，並利用統計或動力約束將離散觀測插值為一致網格場的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/multivariate_objective_analysis"
   },
   {
     "english": "multivariate signal",
-    "traditional_chinese": "多元訊號",
-    "definition_cht": "指與「多元訊號」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multivariate_signal"
+    "traditional_chinese": "多變量訊號",
+    "definition_cht": "由兩個以上同步變化之分量組成的訊號，可視為向量值訊號；在遙測、雷達與環境監測中常用以表示多通道、多波段或多參數觀測資料。",
+    "source_url": "https://en.wikipedia.org/wiki/Multivariate_statistics"
   },
   {
     "english": "multiyear ice",
     "traditional_chinese": "多年冰",
-    "definition_cht": "指與「多年冰」相關的冰相現象、冰體狀態或凍結產物，常應用於寒區氣象、海冰或冰川研究。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multiyear_ice"
+    "definition_cht": "至少歷經一個夏季融解季仍未消失的海冰，通常較一年冰更厚、鹽度較低、結構較堅實，為極區海冰狀態的重要指標。",
+    "source_url": "https://nsidc.org/learn/parts-cryosphere/sea-ice"
   },
   {
     "english": "Munk boundary layer",
     "traditional_chinese": "芒克邊界層",
-    "definition_cht": "指與「芒克邊界層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "風驅海洋環流理論中，因水平渦動黏滯作用而形成於海盆西側的狹長邊界層，用以平衡 Sverdrup 內部流所造成的渦度輸送，並解釋西岸強化現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Munk_boundary_layer"
   },
   {
     "english": "Munsell color chart",
     "traditional_chinese": "孟塞爾色卡",
-    "definition_cht": "指與「孟塞爾色卡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Munsell_color_chart"
+    "definition_cht": "依色相、明度與彩度三要素標準化編排的比色圖卡，用於一致描述顏色；在土壤、雲象、沉積物與環境觀測紀錄中常作為目視比色參考。",
+    "source_url": "https://en.wikipedia.org/wiki/Munsell_color_system"
   },
   {
     "english": "muskeg",
-    "traditional_chinese": "馬斯克格",
-    "definition_cht": "指與「馬斯克格」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/muskeg"
+    "traditional_chinese": "泥炭沼澤地",
+    "definition_cht": "見於寒帶與副寒帶地區、富含泥炭且長期積水的沼澤濕地，地表常覆有苔蘚與有機土層，排水不良，對地表能量與水文循環具有重要影響。",
+    "source_url": "https://en.wikipedia.org/wiki/Muskeg"
   },
   {
     "english": "Muskingum method",
     "traditional_chinese": "馬斯京根法",
-    "definition_cht": "以河道蓄洪概念模擬洪水歷線傳遞的經典水文演算法。",
+    "definition_cht": "以河道蓄水量與入流、出流加權關係表示洪水傳遞的經典河道演算方法，常用參數 K 與 x 來模擬洪峰延滯與歷線變形。",
     "source_url": "https://glossary.ametsoc.org/wiki/Muskingum_method"
   },
   {
     "english": "Mutatus",
-    "traditional_chinese": "積變雲",
-    "definition_cht": "指與「積變雲」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Mutatus"
+    "traditional_chinese": "變種雲",
+    "definition_cht": "國際雲分類中的附加特徵用語，指某類雲因整體演變而轉變成另一雲類，但仍保留可辨識的原始來源；名稱常接在新雲類之後以標示其轉化來源。",
+    "source_url": "https://cloudatlas.wmo.int/en/search.html?q=mutatus"
   },
   {
     "english": "Myers rating",
-    "traditional_chinese": "邁爾斯評級",
-    "definition_cht": "用於描述特定氣象、工程或風險條件等級的邁爾斯評級法；其精確定義需依所屬應用領域判定。",
+    "traditional_chinese": "邁爾斯比值",
+    "definition_cht": "用於比較不同流域極端洪水強度的經驗性指標，通常定義為某河川極端流量除以 100 倍流域面積平方根；數值愈大表示洪水相對規模愈強。",
     "source_url": "https://glossary.ametsoc.org/wiki/Myers_rating"
   },
   {
     "english": "N weather",
-    "traditional_chinese": "N 型天氣",
-    "definition_cht": "「N 型天氣」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/N_weather"
+    "traditional_chinese": "儀器飛航天氣",
+    "definition_cht": "舊用縮寫，指需要依靠航空儀表而非目視條件進行飛航的天氣狀況，本義相當於 instrument weather。",
+    "source_url": "https://glossary.ametsoc.org/wiki/n_weather"
   },
   {
     "english": "N.T.P.",
     "traditional_chinese": "標準溫度與壓力",
-    "definition_cht": "「標準溫度與壓力」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
-    "source_url": "https://glossary.ametsoc.org/wiki/N.T.P."
+    "definition_cht": "standard temperature and pressure 的縮寫，指為便於比較氣體性質或量測結果而約定之標準溫度與標準壓力條件；實際數值會隨採用標準而略有不同。",
+    "source_url": "https://en.wikipedia.org/wiki/Standard_temperature_and_pressure"
   },
   {
     "english": "n'aschi",
     "traditional_chinese": "納希風",
-    "definition_cht": "「納希風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/n%27aschi"
+    "definition_cht": "冬季出現在波斯灣伊朗沿岸及其入口附近、並可延伸至馬克蘭海岸的東北風，通常與中亞大陸高壓向伊朗高地外流有關。",
+    "source_url": "https://en.wikipedia.org/wiki/N%27aschi"
   },
   {
     "english": "NAAQS",
     "traditional_chinese": "國家環境空氣品質標準",
-    "definition_cht": "「國家環境空氣品質標準」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NAAQS"
+    "definition_cht": "National Ambient Air Quality Standards 的縮寫，為美國環保署依《清淨空氣法》對主要污染物所訂定之環境空氣品質標準，用以保護公眾健康與福祉。",
+    "source_url": "https://www.epa.gov/criteria-air-pollutants/naaqs-table"
   },
   {
     "english": "NACA Standard Atmosphere",
     "traditional_chinese": "NACA 標準大氣",
-    "definition_cht": "「NACA 標準大氣」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NACA_Standard_Atmosphere"
+    "definition_cht": "美國國家航空諮詢委員會（NACA）早期採用的標準大氣模式，以規定高度隨溫度、壓力與密度之典型垂直分布，供航空器性能、儀器校正與飛航計算參考。",
+    "source_url": "https://en.wikipedia.org/wiki/Standard_atmosphere"
   },
   {
     "english": "nacreous clouds",
-    "traditional_chinese": "珠光雲",
-    "definition_cht": "「珠光雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nacreous_clouds"
+    "traditional_chinese": "珠母雲",
+    "definition_cht": "又稱珠光雲，屬高空極區平流層雲，常在日出前或日落後呈現珍珠般彩色光澤；其形成與極低溫平流層條件及臭氧化學反應密切相關。",
+    "source_url": "https://en.wikipedia.org/wiki/Polar_stratospheric_cloud"
   },
   {
     "english": "nadir",
-    "traditional_chinese": "最低點",
-    "definition_cht": "「最低點」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/nadir"
+    "traditional_chinese": "天底",
+    "definition_cht": "指觀測者所在位置鉛直向下、與天頂相反的方向；在遙測中亦常指感測器朝正下方觀測的視向。",
+    "source_url": "https://en.wikipedia.org/wiki/Nadir"
   },
   {
     "english": "NADW",
-    "traditional_chinese": "NADW",
-    "definition_cht": "「NADW」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
-    "source_url": "https://glossary.ametsoc.org/wiki/NADW"
+    "traditional_chinese": "北大西洋深層水",
+    "definition_cht": "North Atlantic Deep Water 的縮寫，為形成於北大西洋高緯區並向全球深海擴散的高密度深層水團，是全球熱鹽環流的重要組成。",
+    "source_url": "https://en.wikipedia.org/wiki/North_Atlantic_Deep_Water"
   },
   {
     "english": "Nansen bottle",

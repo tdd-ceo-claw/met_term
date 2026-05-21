@@ -3229,74 +3229,74 @@
   },
   {
     "english": "multiplexor",
-    "traditional_chinese": "多路復用器",
-    "definition_cht": "指與「多路復用器」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multiplexor"
+    "traditional_chinese": "多工器",
+    "definition_cht": "又稱多路復用器，為一種電子切換元件，可依控制訊號自多個類比或數位輸入中選擇一路送往單一輸出；在氣象遙測與資料擷取系統中常用於彙整多通道觀測訊號。",
+    "source_url": "https://en.wikipedia.org/wiki/Multiplexer"
   },
   {
     "english": "multispectral remote sensing",
-    "traditional_chinese": "多光譜遙感",
-    "definition_cht": "指與「多光譜遙感」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multispectral_remote_sensing"
+    "traditional_chinese": "多光譜遙測",
+    "definition_cht": "利用多個彼此分離的光譜波段量測地表或大氣對電磁輻射的反射、發射或散射特性之遙測方法，可用於地物分類、雲與植被判識及環境監測。",
+    "source_url": "https://en.wikipedia.org/wiki/Multispectral_imaging"
   },
   {
     "english": "multispectral scanner",
     "traditional_chinese": "多光譜掃描儀",
-    "definition_cht": "可在多個分離波段同步或序列量測地表與大氣輻射訊號的遙測掃描儀器。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multispectral_scanner"
+    "definition_cht": "能在多個選定光譜波段同步或序列量測目標輻射的掃描式遙測儀器，常搭載於衛星或航空器，用以取得多光譜影像資料。",
+    "source_url": "https://en.wikipedia.org/wiki/Multispectral_imaging"
   },
   {
     "english": "multivariate objective analysis",
     "traditional_chinese": "多變量客觀分析",
-    "definition_cht": "指與「多變量客觀分析」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在客觀分析中同時納入風、溫度、氣壓、濕度等多種相互關聯變數，並利用統計或動力約束將離散觀測插值為一致網格場的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/multivariate_objective_analysis"
   },
   {
     "english": "multivariate signal",
-    "traditional_chinese": "多元訊號",
-    "definition_cht": "指與「多元訊號」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multivariate_signal"
+    "traditional_chinese": "多變量訊號",
+    "definition_cht": "由兩個以上同步變化之分量組成的訊號，可視為向量值訊號；在遙測、雷達與環境監測中常用以表示多通道、多波段或多參數觀測資料。",
+    "source_url": "https://en.wikipedia.org/wiki/Multivariate_statistics"
   },
   {
     "english": "multiyear ice",
     "traditional_chinese": "多年冰",
-    "definition_cht": "指與「多年冰」相關的冰相現象、冰體狀態或凍結產物，常應用於寒區氣象、海冰或冰川研究。",
-    "source_url": "https://glossary.ametsoc.org/wiki/multiyear_ice"
+    "definition_cht": "至少歷經一個夏季融解季仍未消失的海冰，通常較一年冰更厚、鹽度較低、結構較堅實，為極區海冰狀態的重要指標。",
+    "source_url": "https://nsidc.org/learn/parts-cryosphere/sea-ice"
   },
   {
     "english": "Munk boundary layer",
     "traditional_chinese": "芒克邊界層",
-    "definition_cht": "指與「芒克邊界層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "風驅海洋環流理論中，因水平渦動黏滯作用而形成於海盆西側的狹長邊界層，用以平衡 Sverdrup 內部流所造成的渦度輸送，並解釋西岸強化現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Munk_boundary_layer"
   },
   {
     "english": "Munsell color chart",
     "traditional_chinese": "孟塞爾色卡",
-    "definition_cht": "指與「孟塞爾色卡」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Munsell_color_chart"
+    "definition_cht": "依色相、明度與彩度三要素標準化編排的比色圖卡，用於一致描述顏色；在土壤、雲象、沉積物與環境觀測紀錄中常作為目視比色參考。",
+    "source_url": "https://en.wikipedia.org/wiki/Munsell_color_system"
   },
   {
     "english": "muskeg",
-    "traditional_chinese": "馬斯克格",
-    "definition_cht": "指與「馬斯克格」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/muskeg"
+    "traditional_chinese": "泥炭沼澤地",
+    "definition_cht": "見於寒帶與副寒帶地區、富含泥炭且長期積水的沼澤濕地，地表常覆有苔蘚與有機土層，排水不良，對地表能量與水文循環具有重要影響。",
+    "source_url": "https://en.wikipedia.org/wiki/Muskeg"
   },
   {
     "english": "Muskingum method",
     "traditional_chinese": "馬斯京根法",
-    "definition_cht": "以河道蓄洪概念模擬洪水歷線傳遞的經典水文演算法。",
+    "definition_cht": "以河道蓄水量與入流、出流加權關係表示洪水傳遞的經典河道演算方法，常用參數 K 與 x 來模擬洪峰延滯與歷線變形。",
     "source_url": "https://glossary.ametsoc.org/wiki/Muskingum_method"
   },
   {
     "english": "Mutatus",
-    "traditional_chinese": "積變雲",
-    "definition_cht": "指與「積變雲」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Mutatus"
+    "traditional_chinese": "變種雲",
+    "definition_cht": "國際雲分類中的附加特徵用語，指某類雲因整體演變而轉變成另一雲類，但仍保留可辨識的原始來源；名稱常接在新雲類之後以標示其轉化來源。",
+    "source_url": "https://cloudatlas.wmo.int/en/search.html?q=mutatus"
   },
   {
     "english": "Myers rating",
-    "traditional_chinese": "邁爾斯評級",
-    "definition_cht": "用於描述特定氣象、工程或風險條件等級的邁爾斯評級法；其精確定義需依所屬應用領域判定。",
+    "traditional_chinese": "邁爾斯比值",
+    "definition_cht": "用於比較不同流域極端洪水強度的經驗性指標，通常定義為某河川極端流量除以 100 倍流域面積平方根；數值愈大表示洪水相對規模愈強。",
     "source_url": "https://glossary.ametsoc.org/wiki/Myers_rating"
   }
 ]
