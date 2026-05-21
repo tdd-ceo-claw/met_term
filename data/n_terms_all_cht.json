@@ -1009,122 +1009,122 @@
   },
   {
     "english": "normal barometer",
-    "traditional_chinese": "正常氣壓計",
-    "definition_cht": "「正常氣壓計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "標準氣壓計",
+    "definition_cht": "指經溫度、重力與器差等修正後，可作為標準參考之氣壓計，或其按標準條件換算的氣壓讀值；傳統上多指水銀氣壓計的基準表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_barometer"
   },
   {
     "english": "normal chart",
-    "traditional_chinese": "正常圖表",
-    "definition_cht": "「正常圖表」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "常態圖",
+    "definition_cht": "以多年平均氣候值（climate normals）繪製的圖表，用以表示某地或某區域在一年中各時段的典型氣候狀態，供比較當前觀測與長期平均之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_chart"
   },
   {
     "english": "normal curve of error",
     "traditional_chinese": "誤差常態曲線",
-    "definition_cht": "「誤差常態曲線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指描述隨機誤差呈常態分布時之鐘形機率曲線，用以表示誤差多集中於平均值附近，偏離愈大者出現機率愈低。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_curve_of_error"
   },
   {
     "english": "normal distribution",
     "traditional_chinese": "常態分布",
-    "definition_cht": "「常態分布」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "一種連續機率分布，其機率密度函數呈對稱鐘形，並由平均數與標準差決定形狀；在誤差分析、氣候統計與資料同化中常作為基本分布假設。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_distribution"
   },
   {
     "english": "normal mode initialization",
-    "traditional_chinese": "正常模式初始化",
-    "definition_cht": "「正常模式初始化」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "正常模態初始化",
+    "definition_cht": "數值天氣預報中的初始化方法，將初始場分解為正常模態並抑制不需要的高頻重力波等快速振盪，以使風場、質量場與熱力場更趨動力平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_mode_initialization"
   },
   {
     "english": "normal modes",
-    "traditional_chinese": "正常模式",
-    "definition_cht": "「正常模式」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "正常模態",
+    "definition_cht": "動力系統在特定邊界條件下所具有的固有振盪型態；各模態具有固定頻率與相位關係，常用於分析大氣或海洋波動、潮汐與自由振盪。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_modes"
   },
   {
     "english": "normal population",
-    "traditional_chinese": "正常人群",
-    "definition_cht": "「正常人群」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "常態母體",
+    "definition_cht": "指其母體分布服從常態分布的統計母體；許多參數估計、顯著性檢定與誤差理論皆以此為基本假設。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_population"
   },
   {
     "english": "normal stresses",
-    "traditional_chinese": "正常應力",
-    "definition_cht": "「正常應力」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "法向應力",
+    "definition_cht": "作用於某一面且方向垂直於該面的應力分量；在流體與固體力學中常用以描述受壓、受拉及壓力造成的正向受力。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_stresses"
   },
   {
     "english": "normal temperature and pressure",
     "traditional_chinese": "常溫常壓",
-    "definition_cht": "「常溫常壓」為與溫度狀態、代表性熱環境或溫度診斷有關之術語，常用於描述熱力條件與能量交換。",
+    "definition_cht": "供物理與化學量測比較使用的一組參考條件；實際數值依標準而異，常見定義為 0°C 與 1 atm 或 1 bar，使用時宜註明所採規範。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_temperature_and_pressure"
   },
   {
     "english": "normal water",
     "traditional_chinese": "普通水",
-    "definition_cht": "「普通水」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "相對於重水而言之一般天然水，其氫主要為普通氫（氕）而非氘，因此通常指組成以 H₂O 為主的水。",
     "source_url": "https://glossary.ametsoc.org/wiki/normal_water"
   },
   {
     "english": "normalize",
-    "traditional_chinese": "正常化",
-    "definition_cht": "「正常化」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "正規化",
+    "definition_cht": "依既定基準對資料、場量或序列作尺度調整與換算，使其可在共同尺度上比較、分析或輸入模式；亦可指消除單位或量級差異的處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/normalize"
   },
   {
     "english": "Normalized Difference Vegetation Index",
-    "traditional_chinese": "歸一化植被指數差異",
-    "definition_cht": "「歸一化植被指數差異」為用以量化某種狀態、強度、異常或風險的指數，常見於天氣監測與氣候診斷。",
+    "traditional_chinese": "常態化差異植生指數",
+    "definition_cht": "以近紅外與紅光反射率差值除以其總和計算之遙測指標，用於估計植被覆蓋、生長活性與健康狀態，常寫為 NDVI。",
     "source_url": "https://glossary.ametsoc.org/wiki/Normalized_Difference_Vegetation_Index"
   },
   {
     "english": "Normand's theorem",
     "traditional_chinese": "諾曼德定理",
-    "definition_cht": "「諾曼德定理」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "熱力圖解中的作圖法則：由氣塊初始溫度沿乾絕熱線上升、由初始露點沿等混合比線上升，其交點再沿飽和絕熱線返回原壓力，可求得該氣塊的濕球溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Normand%27s_theorem"
   },
   {
     "english": "nortada",
-    "traditional_chinese": "諾塔達",
-    "definition_cht": "「諾塔達」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "諾塔達北風",
+    "definition_cht": "伊比利半島西岸夏季常見的沿岸偏北風，主要出現在 6 至 9 月，與內陸熱低壓及鄰近海陸壓力差有關，常使葡萄牙沿岸風力增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/nortada"
   },
   {
     "english": "norte",
-    "traditional_chinese": "北",
-    "definition_cht": "「北」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "北風暴",
+    "definition_cht": "墨西哥灣沿岸與墨西哥東部常見的強冷性東北至北風事件，通常伴隨冷鋒南下而發生，可造成明顯降溫、強風與海象惡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/norte"
   },
   {
     "english": "North American high",
-    "traditional_chinese": "北美高",
-    "definition_cht": "「北美高」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "北美高壓",
+    "definition_cht": "在北美大陸上由冷而乾的空氣堆積形成之暫時性高壓或反氣旋，常見於冷季，對北美大陸與鄰近海域之氣壓場與冷空氣外流有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_American_high"
   },
   {
     "english": "North Atlantic Current",
     "traditional_chinese": "北大西洋洋流",
-    "definition_cht": "「北大西洋洋流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
+    "definition_cht": "墨西哥灣流向東北延伸後在北大西洋形成的強暖流，將暖鹽水輸送至較高緯度海域，對西歐氣候與北大西洋環流具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_Atlantic_Current"
   },
   {
     "english": "North Atlantic Deep Water",
-    "traditional_chinese": "北大西洋深水",
-    "definition_cht": "「北大西洋深水」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "北大西洋深層水",
+    "definition_cht": "形成於北大西洋高緯海域的深層水團，因冷卻、增鹽與對流下沉而生成，是全球熱鹽環流與深海通氣的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_Atlantic_Deep_Water"
   },
   {
     "english": "North Brazil Current",
     "traditional_chinese": "北巴西洋流",
-    "definition_cht": "「北巴西洋流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
+    "definition_cht": "南赤道洋流抵達南美洲東北岸後分出、沿巴西北岸向西北流動的暖流，為西北大西洋副熱帶環流的一部分，並與跨赤道熱量輸送有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_Brazil_Current"
   },
   {
     "english": "North Equatorial Countercurrent",
     "traditional_chinese": "北赤道逆流",
-    "definition_cht": "「北赤道逆流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "位於熱帶大西洋、太平洋與印度洋約 3° 至 10°N 一帶的東向表層洋流，與兩側西向北、南赤道洋流相對，對熱帶海洋熱量與動量再分配相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/North_Equatorial_Countercurrent"
   },
   {
