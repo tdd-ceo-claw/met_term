@@ -2510,121 +2510,121 @@
   {
     "english": "moist adiabat",
     "traditional_chinese": "濕絕熱線",
-    "definition_cht": "飽和空氣塊抬升時在凝結潛熱釋放作用下所遵循的溫度變化曲線。",
+    "definition_cht": "飽和空氣塊在無熱交換條件下升降時，因水汽凝結或蒸發所伴隨的潛熱效應而遵循的溫度變化曲線；在熱力圖上多指偽絕熱過程所對應的飽和絕熱線。",
     "source_url": "https://glossary.ametsoc.org/wiki/moist_adiabat"
   },
   {
     "english": "moist air",
-    "traditional_chinese": "潮濕的空氣",
-    "definition_cht": "指與「潮濕的空氣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "濕空氣",
+    "definition_cht": "在大氣熱力學中，指由乾空氣與任意含量水汽所組成的空氣混合物；廣義上亦可指相對濕度較高、含水汽較多的空氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/moist_air"
   },
   {
     "english": "moist climate",
-    "traditional_chinese": "潮濕的氣候",
-    "definition_cht": "指「潮濕的氣候」所對應的氣候類型、區域氣候條件或其長期平均特徵。",
+    "traditional_chinese": "濕潤氣候",
+    "definition_cht": "在 Thornthwaite 1948 年氣候分類中，指季節性水分盈餘足以抵銷水分虧缺、因而水分指數大於零的氣候類型；包含濕潤半濕潤、濕潤及過濕等類別。",
     "source_url": "https://glossary.ametsoc.org/wiki/moist_climate"
   },
   {
     "english": "moist convection",
     "traditional_chinese": "濕對流",
-    "definition_cht": "受水汽凝結釋熱影響而增強之對流運動，是雷暴與深對流發展的關鍵機制。",
+    "definition_cht": "含水汽空氣在對流上升過程中因凝結釋放潛熱而被增強的對流運動；為積雲、雷暴及其他深對流系統發展的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/moist_convection"
   },
   {
     "english": "moist static energy",
     "traditional_chinese": "濕靜能",
-    "definition_cht": "指與「濕靜能」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "描述濕空氣能量狀態的熱力變數，通常由感熱、位能與水汽潛熱三部分組成，常寫為 cpT + gz + Lvq；在絕熱、無降水或近似封閉條件下常近似守恆。",
     "source_url": "https://glossary.ametsoc.org/wiki/moist_static_energy"
   },
   {
     "english": "moist tongue",
-    "traditional_chinese": "濕潤的舌頭",
-    "definition_cht": "指與「濕潤的舌頭」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "濕舌",
+    "definition_cht": "濕潤空氣向較乾區域伸展形成的舌狀高水汽帶；常與雲量增加、降水發生或對流潛勢增強有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/moist_tongue"
   },
   {
     "english": "Moist-adiabatic process",
     "traditional_chinese": "濕絕熱過程",
-    "definition_cht": "指與「濕絕熱過程」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "飽和空氣在不與外界交換熱量下所經歷的熱力過程；可區分為總水量守恆的可逆濕絕熱過程，以及凝結液態水隨即移除的偽絕熱過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/Moist-adiabatic_process"
   },
   {
     "english": "moisture",
     "traditional_chinese": "水氣",
-    "definition_cht": "指與「水氣」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在氣象學中通常指大氣中的水汽含量，廣義上亦可指空氣、土壤或其他介質中所含的水分；其多寡會影響雲、降水、能量交換與穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture"
   },
   {
     "english": "moisture adjustment",
-    "traditional_chinese": "水分調節",
-    "definition_cht": "指與「水分調節」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "水氣調整",
+    "definition_cht": "在可能最大降水量估算中，依研究流域的可能最大可降水量與個別暴風實際可降水量之比值，對觀測降水量進行修正的程序；用以反映可用水氣條件差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_adjustment"
   },
   {
     "english": "moisture content",
     "traditional_chinese": "含水量",
-    "definition_cht": "指與「含水量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "某一空氣團、土壤或物質中所含水分的多寡；在氣象用語中常與 moisture 同義，泛指大氣中的水汽含量。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_content"
   },
   {
     "english": "moisture equivalent",
     "traditional_chinese": "水分當量",
-    "definition_cht": "指與「水分當量」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "土壤科學中指原先達飽和的一公分厚土樣，在承受相當於地球重力一千倍的離心力三十分鐘後仍保留之水分重量百分比，用以表徵土壤保水能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_equivalent"
   },
   {
     "english": "moisture factor",
     "traditional_chinese": "水分係數",
-    "definition_cht": "指與「水分係數」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "早期氣候分類與乾濕度評估中使用的指標，反映隨氣溫升高蒸發增強而使有效水分減少的概念；常作為多種乾旱或濕潤指數發展的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_factor"
   },
   {
     "english": "moisture index",
-    "traditional_chinese": "水分指數",
-    "definition_cht": "用於量化「水分指數」相關狀態、強度、異常程度或風險高低的指標。",
+    "traditional_chinese": "濕潤指數",
+    "definition_cht": "衡量降水對植被需求之有效性的氣候指標；在 Thornthwaite 分類中用以綜合表示某地水分盈餘與虧缺情形，並作為區分乾濕氣候的重要依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_index"
   },
   {
     "english": "moisture inversion",
-    "traditional_chinese": "水分逆演",
-    "definition_cht": "指與「水分逆演」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "水氣逆增層",
+    "definition_cht": "指水氣含量隨高度增加的現象；亦可特指發生此種逆增的層結，或開始出現水氣向上增加的高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_inversion"
   },
   {
     "english": "moisture pooling",
-    "traditional_chinese": "水彙",
-    "definition_cht": "指與「水彙」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "水氣匯聚",
+    "definition_cht": "邊界層中因低層輻合或地形等作用，使某區水氣值高於周圍環境而形成局部高濕區的現象；常見於地面或 850 hPa 分析上，並有利不穩定度與對流發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_pooling"
   },
   {
     "english": "moisture profile",
-    "traditional_chinese": "水分分佈",
-    "definition_cht": "指與「水分分佈」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "水分剖面",
+    "definition_cht": "表示空氣或土壤中水分含量隨高度或深度變化的剖面曲線，用以描述垂直分布特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_profile"
   },
   {
     "english": "moisture tension",
-    "traditional_chinese": "水分張力",
-    "definition_cht": "指與「水分張力」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "土壤水分張力",
+    "definition_cht": "土壤保持水分的能量大小，相當於使水與土壤水經可滲透膜達到水力平衡時所需承受的負壓；常用以描述植物吸水難易與土壤含水狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_tension"
   },
   {
     "english": "moisture volume percentage",
-    "traditional_chinese": "水分體積百分比",
-    "definition_cht": "指與「水分體積百分比」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "體積含水百分率",
+    "definition_cht": "以土壤中水的體積占土壤總體積之比值乘以一百所得的含水量表示法，常用於土壤水分監測與農業、水文分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_volume_percentage"
   },
   {
     "english": "moisture weight percentage",
-    "traditional_chinese": "水分重量百分比",
-    "definition_cht": "指與「水分重量百分比」相關的氣象、海洋、水文、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "重量含水百分率",
+    "definition_cht": "以土壤中水的重量除以烘乾土壤重量後再乘以一百所得的含水量表示法，為土壤含水量常用的重量基準表示方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture_weight_percentage"
   },
   {
     "english": "moisture-continuity equation",
-    "traditional_chinese": "水分連續方程",
-    "definition_cht": "描述「水分連續方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "traditional_chinese": "水氣連續方程",
+    "definition_cht": "描述大氣中水汽隨時間變化、平流輸送、輻合輻散，以及蒸發、凝結等源匯作用之守恆關係的方程式；為分析水氣收支與降水形成的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/moisture-continuity_equation"
   },
   {
