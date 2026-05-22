@@ -37484,121 +37484,121 @@
   {
     "english": "picture element",
     "traditional_chinese": "像素",
-    "definition_cht": "數位影像或顯示畫面中可定址與控制的最小單元，為 pixel 的全名；在遙測影像中常代表一個取樣位置及其亮度或色彩值。",
+    "definition_cht": "數位影像、顯示畫面或遙測資料中可定址與處理的最小畫面單元，亦即 pixel 的全名；每個像素通常代表一個取樣位置及其亮度、色彩或其他量測值。",
     "source_url": "https://glossary.ametsoc.org/wiki/picture_element"
   },
   {
     "english": "piedmont glacier",
-    "traditional_chinese": "皮埃蒙特冰川",
-    "definition_cht": "指與「皮埃蒙特冰川」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "山麓冰川",
+    "definition_cht": "由山谷冰川流出山地後，在較開闊的山麓或平原地區向外展布形成的扇狀或葉狀冰川。",
     "source_url": "https://glossary.ametsoc.org/wiki/piedmont_glacier"
   },
   {
     "english": "Pierson–Moskowitz spectrum",
-    "traditional_chinese": "皮爾森-莫斯科維茲譜",
-    "definition_cht": "指與「皮爾森-莫斯科維茲譜」相關之頻譜分布，用於分析能量、變異或相位在頻率空間中的配置。",
+    "traditional_chinese": "皮爾森－莫斯科維茲譜",
+    "definition_cht": "描述充分發展風浪中波能隨頻率分布的經驗波譜，常用於海浪與海氣交互作用分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pierson%E2%80%93Moskowitz_spectrum"
   },
   {
     "english": "piezometer",
-    "traditional_chinese": "壓力計",
-    "definition_cht": "指量測「壓力計」相關物理量的儀器、計量裝置或測定器。",
+    "traditional_chinese": "測壓計",
+    "definition_cht": "用於量測流體壓力、孔隙水壓或地下水位水頭的裝置；在水文地質中常用以求得特定位置的測壓水位。",
     "source_url": "https://glossary.ametsoc.org/wiki/piezometer"
   },
   {
     "english": "piezometric head",
-    "traditional_chinese": "測壓頭",
-    "definition_cht": "指與「測壓頭」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "測壓水頭",
+    "definition_cht": "流體在某一點由壓力水頭與位置水頭構成的總水頭，通常表示為該點水在測壓管中可上升到的高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/piezometric_head"
   },
   {
     "english": "piezometric surface",
     "traditional_chinese": "測壓面",
-    "definition_cht": "指與「測壓面」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "由含水層各點測壓水頭連成的假想面；對受壓含水層而言，表示井水若完全貫穿含水層時可上升到的水位面。",
     "source_url": "https://glossary.ametsoc.org/wiki/piezometric_surface"
   },
   {
     "english": "pileus",
-    "traditional_chinese": "菌蓋",
-    "definition_cht": "指與「菌蓋」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "帽狀雲",
+    "definition_cht": "出現在迅速發展的積雲或積雨雲頂部上方、外形如帽或披肩的薄層附屬雲，通常短暫且有時呈現彩雲現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/pileus"
   },
   {
     "english": "pilmer",
-    "traditional_chinese": "皮爾默",
-    "definition_cht": "指與「皮爾默」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "細雨",
+    "definition_cht": "指細小而綿密的降雨，尤常用於描述英國西部沿岸常見的毛毛雨或霧雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/pilmer"
   },
   {
     "english": "pilot balloon",
     "traditional_chinese": "領航氣球",
-    "definition_cht": "指與「領航氣球」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "供氣象觀測使用的小型自由氣球，可用來測定雲底高度，或以目視／經緯儀追蹤其位置以推算高空風向與風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/pilot_balloon"
   },
   {
     "english": "pilot briefing",
-    "traditional_chinese": "飛行員簡報",
-    "definition_cht": "指與「飛行員簡報」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "飛行前氣象簡報",
+    "definition_cht": "提供飛行員的航空氣象簡報，內容通常包括現況、預報、危險天氣與其他影響飛航安全的資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/pilot_briefing"
   },
   {
     "english": "pilot chart",
-    "traditional_chinese": "飛行員圖表",
-    "definition_cht": "指與「飛行員圖表」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "航海氣候圖",
+    "definition_cht": "依長期統計資料編製的海洋氣候圖，用以顯示各月份盛行風、浪況、洋流與天氣分布，供航線規劃參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/pilot_chart"
   },
   {
     "english": "pilot report",
-    "traditional_chinese": "試辦報告",
-    "definition_cht": "指與「試辦報告」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "飛行員天氣報告",
+    "definition_cht": "由飛行員通報實際遭遇的飛行中或地面天氣與機場狀況之報告，常縮寫為 PIREP。",
     "source_url": "https://glossary.ametsoc.org/wiki/pilot_report"
   },
   {
     "english": "pilot streamer",
-    "traditional_chinese": "飛行員飄帶",
-    "definition_cht": "指與「飛行員飄帶」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "先導流注",
+    "definition_cht": "雷電放電初期先向下發展的微弱電離流注，被視為階梯先導形成前的先導通道。",
     "source_url": "https://glossary.ametsoc.org/wiki/pilot_streamer"
   },
   {
     "english": "pilot-balloon observation",
-    "traditional_chinese": "飛行員氣球觀測",
-    "definition_cht": "指與「飛行員氣球觀測」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "領航氣球觀測",
+    "definition_cht": "以追蹤領航氣球位置變化來測定不同高度風向與風速的高空風觀測方法，常縮寫為 pibal。",
     "source_url": "https://glossary.ametsoc.org/wiki/pilot-balloon_observation"
   },
   {
     "english": "pilot-balloon station",
-    "traditional_chinese": "飛行員氣球站",
-    "definition_cht": "指與「飛行員氣球站」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "領航氣球觀測站",
+    "definition_cht": "以光學方式追蹤自由氣球，專門進行高空風領航氣球觀測的測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/pilot-balloon_station"
   },
   {
     "english": "pinene",
     "traditional_chinese": "蒎烯",
-    "definition_cht": "指與「蒎烯」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "存在於松科等植物揮發油中的雙環單萜類化合物；在大氣中屬重要生物源揮發性有機物，氧化後可參與二次有機氣膠形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/pinene"
   },
   {
     "english": "piner",
-    "traditional_chinese": "皮納",
-    "definition_cht": "指與「皮納」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "皮納風",
+    "definition_cht": "英格蘭一帶對北風或東北風中較強冷風的地方性名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/piner"
   },
   {
     "english": "pingo",
-    "traditional_chinese": "平戈",
-    "definition_cht": "指與「平戈」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "冰丘",
+    "definition_cht": "形成於永凍土區、內部具有冰核的圓丘或錐丘地形，通常由凍結地下水或湖底融凍層作用使地表隆起而成。",
     "source_url": "https://glossary.ametsoc.org/wiki/pingo"
   },
   {
     "english": "pip",
-    "traditional_chinese": "點",
-    "definition_cht": "指與「點」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "點狀回波",
+    "definition_cht": "在雷達、示波器或其他顯示器上表示單一目標、訊號或回波的小點狀亮斑。",
     "source_url": "https://glossary.ametsoc.org/wiki/pip"
   },
   {
     "english": "piping",
-    "traditional_chinese": "管道",
-    "definition_cht": "指與「管道」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "管湧侵蝕",
+    "definition_cht": "滲流水沿土體內部帶走細粒物質，逐步形成管狀通道的內部侵蝕現象；為堤壩與土堤常見失穩機制之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/piping"
   },
   {
