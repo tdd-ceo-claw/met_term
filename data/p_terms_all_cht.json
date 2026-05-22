@@ -32,121 +32,121 @@
   {
     "english": "Pacific–North American pattern",
     "traditional_chinese": "太平洋－北美遙相關型",
-    "definition_cht": "北半球冬季常見的大尺度遙相關型態，以北太平洋至北美上空的波列形勢為特徵，常透過 500 hPa 位勢高度距平描述，並影響北美溫度、降水與風暴路徑。",
+    "definition_cht": "北半球冬季主要的大尺度遙相關型態之一，以北太平洋至北美上空的 500 hPa 位勢高度距平波列為特徵，具有正、負位相，並會影響北美的氣溫、降水與風暴路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pacific%E2%80%93North_American_pattern"
   },
   {
     "english": "pack ice",
-    "traditional_chinese": "浮冰群",
-    "definition_cht": "指由大量海冰緊密聚集而成的浮冰區，冰間空隙甚小，常見於高緯海域並影響航行與海氣交換。",
+    "traditional_chinese": "流動海冰群",
+    "definition_cht": "指非定著於海岸或海底、可隨風與海流移動並相互擠聚的海冰區；當海面大部分被漂移海冰覆蓋時即稱為 pack ice，常見於極區海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/pack_ice"
   },
   {
     "english": "packed tower",
     "traditional_chinese": "填料塔",
-    "definition_cht": "指與「填料塔」相關的觀測塔、支撐結構或儀器架設裝置，常用於地面層與邊界層量測。",
+    "definition_cht": "內部填充填料以增進氣體與液體接觸、傳質與熱交換的塔式裝置，常用於吸收、洗滌、冷卻或蒸發等工程過程；在大氣與環境工程中常見於空氣污染控制設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/packed_tower"
   },
   {
     "english": "paesa",
-    "traditional_chinese": "帕埃薩",
-    "definition_cht": "指與「帕埃薩」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "帕埃薩風",
+    "definition_cht": "義大利加爾達湖地區猛烈的北北東風，屬地方性強風名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/paesa"
   },
   {
     "english": "paesano",
-    "traditional_chinese": "帕埃薩諾",
-    "definition_cht": "指與「帕埃薩諾」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "帕埃薩諾風",
+    "definition_cht": "義大利加爾達湖地區夜間自山區向湖面吹降的偏北地方風，屬山風型微風。",
     "source_url": "https://glossary.ametsoc.org/wiki/paesano"
   },
   {
     "english": "PAGES",
-    "traditional_chinese": "頁面",
-    "definition_cht": "「PAGES」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
+    "traditional_chinese": "過去全球變遷計畫",
+    "definition_cht": "Past Global Changes 的縮寫，為國際古氣候研究計畫，致力於利用高解析與長時間尺度代用資料重建過去氣候與環境變遷。",
     "source_url": "https://glossary.ametsoc.org/wiki/PAGES"
   },
   {
     "english": "painter",
-    "traditional_chinese": "畫家",
-    "definition_cht": "指與「畫家」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "佩因特現象",
+    "definition_cht": "又稱 Callao painter 或 Peruvian paint，指厄爾尼諾期間海洋生物腐敗釋出的硫化氫使船體塗漆發黑的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/painter"
   },
   {
     "english": "paleoclimate",
     "traditional_chinese": "古氣候",
-    "definition_cht": "指與「古氣候」相關的氣候狀態、演變或古氣候特徵。",
+    "definition_cht": "指地球過去地質時期的氣候狀態，通常藉由冰芯、沉積物、樹輪、珊瑚與化石等代用資料加以重建。",
     "source_url": "https://glossary.ametsoc.org/wiki/paleoclimate"
   },
   {
     "english": "paleoclimatic sequence",
     "traditional_chinese": "古氣候序列",
-    "definition_cht": "指與古氣候、古環境或地質歷史時期相關的「古氣候序列」概念，用於重建過去氣候與環境變化。",
+    "definition_cht": "依地層、沉積紀錄或其他代用資料所重建的歷時性古氣候變化序列，用於辨識過去氣候階段及其演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/paleoclimatic_sequence"
   },
   {
     "english": "paleoclimatology",
     "traditional_chinese": "古氣候學",
-    "definition_cht": "研究地球過去各地質時期氣候狀態、變遷機制與環境回應的學科，常利用冰芯、沉積物、樹輪與化石等代用資料重建。",
+    "definition_cht": "研究地球過去各地質時期氣候狀態、變遷機制與環境回應的學科，常利用冰芯、沉積物、樹輪、珊瑚與化石等代用資料進行重建。",
     "source_url": "https://glossary.ametsoc.org/wiki/paleoclimatology"
   },
   {
     "english": "paleocrystic ice",
-    "traditional_chinese": "古晶冰",
-    "definition_cht": "指與「古晶冰」相關的海冰、冰體或冰相現象，用於描述其形態、分布、生成或運動特徵。",
+    "traditional_chinese": "古厚海冰",
+    "definition_cht": "指北極海中歷時甚久、厚度很大且不易於夏季融盡的多年老海冰；此詞多見於早期極地文獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/paleocrystic_ice"
   },
   {
     "english": "paleomagnetism",
     "traditional_chinese": "古地磁學",
-    "definition_cht": "指與古氣候、古環境或地質歷史時期相關的「古地磁學」概念，用於重建過去氣候與環境變化。",
+    "definition_cht": "研究岩石、沉積物或考古材料所保存之古地球磁場方向與強度的學科，可用於重建板塊運動、地磁反轉與地質年代。",
     "source_url": "https://glossary.ametsoc.org/wiki/paleomagnetism"
   },
   {
     "english": "Palmer drought severity index",
-    "traditional_chinese": "帕爾默乾旱嚴重指數",
-    "definition_cht": "指以「帕爾默乾旱嚴重指數」為名之指標，用於量化特定氣象、水文或海洋狀態的強弱與變化。",
+    "traditional_chinese": "帕爾默乾旱嚴重度指數",
+    "definition_cht": "常簡稱 PDSI，利用降水、氣溫與土壤水分平衡估算乾濕程度的區域性乾旱指標，常用於監測長時間尺度的氣象乾旱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Palmer_drought_severity_index"
   },
   {
     "english": "palouser",
-    "traditional_chinese": "帕盧瑟",
-    "definition_cht": "指與「帕盧瑟」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "帕盧瑟塵暴",
+    "definition_cht": "加拿大拉布拉多西北部的地方性塵暴名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/palouser"
   },
   {
     "english": "pampas",
     "traditional_chinese": "潘帕斯草原",
-    "definition_cht": "指與「潘帕斯草原」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指南美洲廣闊的溫帶草原，主要位於阿根廷，亦常作為當地氣候與地方風系的地理背景名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/pampas"
   },
   {
     "english": "pampero",
-    "traditional_chinese": "潘佩羅",
-    "definition_cht": "指與「潘佩羅」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "潘佩羅風",
+    "definition_cht": "阿根廷與烏拉圭潘帕斯草原上的寒冷陣風性南風或西南風，通常隨冷鋒通過而起，可視為南美洲對應於 norther 的地方風。",
     "source_url": "https://glossary.ametsoc.org/wiki/pampero"
   },
   {
     "english": "PAN",
-    "traditional_chinese": "平底鍋",
-    "definition_cht": "「PAN」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
+    "traditional_chinese": "過氧乙醯硝酸酯",
+    "definition_cht": "peroxyacetyl nitrate 的縮寫，屬光化學煙霧中的次級污染物與強烈眼部刺激物，亦可作為對流層氮氧化物的暫時儲庫。",
     "source_url": "https://glossary.ametsoc.org/wiki/PAN"
   },
   {
     "english": "pan coefficient",
-    "traditional_chinese": "泛係數",
-    "definition_cht": "指與「泛係數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "蒸發皿係數",
+    "definition_cht": "將蒸發皿蒸發量換算為參考蒸發散或實際水面蒸發量時使用的經驗係數，用以校正蒸發皿與天然環境在熱量收支及通風條件上的差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/pan_coefficient"
   },
   {
     "english": "pan evaporation",
-    "traditional_chinese": "鍋子蒸發",
-    "definition_cht": "指「鍋子蒸發」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "traditional_chinese": "蒸發皿蒸發量",
+    "definition_cht": "以標準蒸發皿量測在一定時間內水面蒸發損失的水量，常作為估算蒸發散、灌溉需水與乾濕狀況的基礎資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/pan_evaporation"
   },
   {
     "english": "panas oetara",
-    "traditional_chinese": "帕納斯奧埃塔拉",
-    "definition_cht": "指與「帕納斯奧埃塔拉」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "帕納斯奧塔拉風",
+    "definition_cht": "印尼一帶的地方風名稱；文獻多將其列為區域性熱風或乾熱風的傳統稱呼。",
     "source_url": "https://glossary.ametsoc.org/wiki/panas_oetara"
   },
   {
