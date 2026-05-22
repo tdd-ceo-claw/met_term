@@ -35575,122 +35575,122 @@
   },
   {
     "english": "optical mass",
-    "traditional_chinese": "光學品質",
-    "definition_cht": "「光學品質」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光學空氣質量",
+    "definition_cht": "「光學空氣質量」指光線穿越大氣時所經路徑長度相對於天頂方向標準路徑的比值；太陽高度愈低，光學空氣質量通常愈大，常用於估算大氣消光、輻射傳輸與觀測幾何效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_mass"
   },
   {
     "english": "optical meteor",
-    "traditional_chinese": "光學流星",
-    "definition_cht": "「光學流星」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光象",
+    "definition_cht": "「光象」指由大氣中反射、折射、繞射或散射等光學作用所形成的可見現象，例如虹、暈、幻日、海市蜃樓與曙暮光等，屬於氣象光學的重要觀測對象。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_meteor"
   },
   {
     "english": "optical particle probe",
-    "traditional_chinese": "光學粒子探針",
-    "definition_cht": "「光學粒子探針」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光學粒子探測儀",
+    "definition_cht": "「光學粒子探測儀」指利用粒子通過光束時造成的遮光、散射或成像訊號，量測雲滴、冰晶或降水粒子粒徑、數濃度與形狀特徵的儀器，常裝設於研究飛機或地面觀測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_particle_probe"
   },
   {
     "english": "optical path",
     "traditional_chinese": "光路",
-    "definition_cht": "「光路」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「光路」指光線在介質中由一點傳至另一點所遵循的實際路徑；在大氣光學與遙測中，光路會受折射率分布、幾何配置與介質不均勻性影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_path"
   },
   {
     "english": "optical pathlength",
-    "traditional_chinese": "光路長度",
-    "definition_cht": "「光路長度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光程",
+    "definition_cht": "「光程」指光線沿光路傳播時的等效路徑長度；在均勻介質中可表示為幾何路徑長乘以折射率，在非均勻介質中則需沿路徑積分，常用於描述相位延遲與干涉效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_pathlength"
   },
   {
     "english": "optical rain gauge",
-    "traditional_chinese": "光學雨量計",
-    "definition_cht": "「光學雨量計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光學式雨量計",
+    "definition_cht": "「光學式雨量計」是利用紅外線或其他光學訊號偵測雨滴穿越或撞擊感測區所造成的光強變化，以判定降雨發生並估算雨強或累積雨量的降水量測儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_rain_gauge"
   },
   {
     "english": "optical scattering probe",
-    "traditional_chinese": "光學散射探頭",
-    "definition_cht": "「光學散射探頭」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光散射粒子探針",
+    "definition_cht": "「光散射粒子探針」指利用粒子通過取樣體積時產生的散射光訊號，推算粒徑與粒子數濃度的探測儀器；常用於雲物理觀測，以量測雲滴、氣膠或小型降水粒子分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_scattering_probe"
   },
   {
     "english": "optical thickness",
     "traditional_chinese": "光學厚度",
-    "definition_cht": "「光學厚度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「光學厚度」是描述介質對輻射消光總效應的無因次量，綜合吸收與散射沿路徑造成的衰減程度；數值愈大，表示光越不易穿透，在大氣輻射與氣膠／雲遙測中常與 optical depth 近義使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_thickness"
   },
   {
     "english": "Optical Transient Detector",
     "traditional_chinese": "光學瞬態探測器",
-    "definition_cht": "「光學瞬態探測器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「光學瞬態探測器」是 NASA 發展的太空載具閃電觀測儀器，用以偵測雲系與地表上方因閃電放電產生的短暫光學訊號；其資料可用於全球閃電分布、對流活動與雷暴氣候研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Optical_Transient_Detector"
   },
   {
     "english": "optically homogeneous",
-    "traditional_chinese": "光學均勻",
-    "definition_cht": "「光學均勻」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光學均勻的",
+    "definition_cht": "「光學均勻的」指介質在空間上具有近乎一致的折射率或其他光學性質，使光線通過時不致因內部性質變化而產生明顯額外偏折、散射或像差。",
     "source_url": "https://glossary.ametsoc.org/wiki/optically_homogeneous"
   },
   {
     "english": "optically smooth",
-    "traditional_chinese": "光學平滑",
-    "definition_cht": "「光學平滑」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光學平滑的",
+    "definition_cht": "「光學平滑的」指表面起伏尺度相對於入射光波長極小，可視為近似鏡面，因此反射或散射主要呈規則反射而非顯著漫射。",
     "source_url": "https://glossary.ametsoc.org/wiki/optically_smooth"
   },
   {
     "english": "optimal perturbation",
     "traditional_chinese": "最優擾動",
-    "definition_cht": "「最優擾動」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「最優擾動」指在既定動力系統、約束條件與評估範數下，能在指定時間內產生最大成長、最大誤差放大或最強響應的初始擾動，常用於可預報度與敏感度研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/optimal_perturbation"
   },
   {
     "english": "optimal yield",
-    "traditional_chinese": "最佳產量",
-    "definition_cht": "「最佳產量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "最適產量",
+    "definition_cht": "「最適產量」指在特定環境、資源限制與管理目標下，經由分析或模式估算可達到最佳整體效益的產量水準；在農業氣象、水資源與生態管理中，通常需同時權衡效率、風險與永續性。",
     "source_url": "https://glossary.ametsoc.org/wiki/optimal_yield"
   },
   {
     "english": "optimum flight",
-    "traditional_chinese": "最佳飛行",
-    "definition_cht": "「最佳飛行」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "最佳飛航",
+    "definition_cht": "「最佳飛航」指依風場、氣溫、亂流、結冰、航程與燃油效率等條件，選定最有利的飛行高度、航路或飛行方式，以兼顧安全、時間與成本。",
     "source_url": "https://glossary.ametsoc.org/wiki/optimum_flight"
   },
   {
     "english": "optimum interpolation",
-    "traditional_chinese": "最適內插",
-    "definition_cht": "「最適內插」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "最優內插",
+    "definition_cht": "「最優內插」是一種客觀分析與資料同化方法，利用背景場與觀測值及其誤差統計權重，求得對大氣或海洋狀態的最佳線性估計；常簡稱 OI。",
     "source_url": "https://glossary.ametsoc.org/wiki/optimum_interpolation"
   },
   {
     "english": "ora",
-    "traditional_chinese": "奧拉",
-    "definition_cht": "「奧拉」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "奧拉風",
+    "definition_cht": "「奧拉風」是義大利加達湖北部一帶的地方風名稱，通常指白天因湖陸與山谷熱力差異形成、沿湖向北吹送的規則性南風，常在午後較為明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/ora"
   },
   {
     "english": "orbit",
     "traditional_chinese": "軌道",
-    "definition_cht": "「軌道」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「軌道」指天體、衛星或其他物體在重力或等效中心力作用下繞行中心體所形成的運動路徑；在氣象衛星觀測中，軌道配置直接影響重訪時間、觀測幾何與覆蓋範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/orbit"
   },
   {
     "english": "orbit number",
-    "traditional_chinese": "軌道數",
-    "definition_cht": "「軌道數」為無因次數或特徵指標，用以衡量特定物理過程中各作用力、傳輸效應或尺度關係的重要性。",
+    "traditional_chinese": "軌道編號",
+    "definition_cht": "「軌道編號」指衛星自發射或特定基準時刻起，每完成一次繞行所依序賦予的周回序號；遙測資料常以此辨識觀測條帶、重訪次序與資料定位。",
     "source_url": "https://glossary.ametsoc.org/wiki/orbit_number"
   },
   {
     "english": "orbital elements",
-    "traditional_chinese": "軌道元素",
-    "definition_cht": "「軌道元素」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "軌道要素",
+    "definition_cht": "「軌道要素」是用以唯一描述天體或衛星軌道形狀、大小、空間定向與運行位置的一組參數，常包括半長軸、偏心率、傾角、升交點赤經、近地點幅角與平近點角。",
     "source_url": "https://glossary.ametsoc.org/wiki/orbital_elements"
   },
   {
     "english": "orbital motion",
     "traditional_chinese": "軌道運動",
-    "definition_cht": "「軌道運動」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「軌道運動」指物體沿軌道繞中心體運行的運動；在海洋與水波研究中，此語也可指水粒子受波動影響所呈現的近似圓形或橢圓形運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/orbital_motion"
   },
   {
