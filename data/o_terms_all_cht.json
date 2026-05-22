@@ -380,121 +380,121 @@
   {
     "english": "onshore wind",
     "traditional_chinese": "向岸風",
-    "definition_cht": "「向岸風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。",
+    "definition_cht": "向岸風指風由海面或較大水體吹向陸地的風，為近岸地區相對風向的描述；在局地環流中常見於白天的海風，可將較涼濕空氣帶入沿岸並影響雲量、能見度與對流發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/onshore_wind"
   },
   {
     "english": "opacity",
     "traditional_chinese": "不透明度",
-    "definition_cht": "「不透明度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "不透明度指介質對輻射通過的阻礙程度，反映吸收與散射造成的衰減強弱；在大氣輻射、雲微物理與天體物理中，常用以描述光線或其他電磁輻射穿透介質的難易。",
     "source_url": "https://glossary.ametsoc.org/wiki/opacity"
   },
   {
     "english": "opacus",
-    "traditional_chinese": "暗雲",
-    "definition_cht": "「暗雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "不透明種",
+    "definition_cht": "不透明種（opacus）是雲的變種之一，見於層雲、高層雲、高積雲與層積雲等，特徵為雲層厚而蔽光，觀測時通常無法辨認太陽或月亮的位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/opacus"
   },
   {
     "english": "opaque sky cover",
     "traditional_chinese": "不透明雲量",
-    "definition_cht": "「不透明雲量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "不透明雲量指天空中被不透明雲遮蔽的覆蓋比例，即足以遮住日月輪廓的雲層所占天空份額；航空與地面觀測常將其與總雲量區分，以評估天空遮蔽程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/opaque_sky_cover"
   },
   {
     "english": "open cells",
     "traditional_chinese": "開放胞狀對流",
-    "definition_cht": "「開放胞狀對流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "開放胞狀對流指一種中尺度胞格對流型態，其雲帶多分布於胞格邊界、中心相對較晴朗；常出現在冷空氣流經較暖海面時，與邊界層對流及熱量、水氣通量有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/open_cells"
   },
   {
     "english": "open channel flow",
     "traditional_chinese": "明渠流",
-    "definition_cht": "「明渠流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "明渠流指具有自由液面的通道水流，如河川、排水溝或渠道中的流動；其運動主要受重力控制，與充滿封閉管路、以壓力差主導的管流不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/open_channel_flow"
   },
   {
     "english": "open system",
     "traditional_chinese": "開放系統",
-    "definition_cht": "「開放系統」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "開放系統指可與外界交換物質及能量的系統；在大氣與海洋科學中，多數自然系統皆屬此類，因其邊界持續與周遭環境進行熱量、動量、水氣或其他成分交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/open_system"
   },
   {
     "english": "open-cell cumulus",
     "traditional_chinese": "開放胞狀積雲",
-    "definition_cht": "「開放胞狀積雲」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "開放胞狀積雲指排列成開放胞格的積雲或層積雲雲場，雲多沿胞格邊緣發展而中央較少雲；常見於海洋冷空氣爆發後的邊界層，從衛星影像上呈蜂巢狀外觀。",
     "source_url": "https://glossary.ametsoc.org/wiki/open-cell_cumulus"
   },
   {
     "english": "Operational Linescan System",
     "traditional_chinese": "作業線掃描系統",
-    "definition_cht": "「作業線掃描系統」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "作業線掃描系統（Operational Linescan System, OLS）為美國國防氣象衛星計畫所搭載的掃描式感測器，可觀測可見光與熱紅外輻射，廣用於雲系、夜間燈光、極光及海冰等遙測分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Operational_Linescan_System"
   },
   {
     "english": "operational numerical model",
     "traditional_chinese": "作業數值模式",
-    "definition_cht": "「作業數值模式」為用以描述、模擬或預測大氣、海洋、水文或環境系統的概念性、統計性或數值性模式。",
+    "definition_cht": "作業數值模式指已投入日常預報作業的數值模式系統，定時同化最新觀測並產出天氣、海象或水文預報；其重點在穩定運轉、時效與可持續提供業務產品。",
     "source_url": "https://glossary.ametsoc.org/wiki/operational_numerical_model"
   },
   {
     "english": "operational weather limits",
     "traditional_chinese": "作業天氣限制",
-    "definition_cht": "「作業天氣限制」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "作業天氣限制指飛航、航海、地面作業或特定任務在執行時可容許的天氣條件上限或下限，如風速、雲底高、能見度、降水或結冰條件等安全門檻。",
     "source_url": "https://glossary.ametsoc.org/wiki/operational_weather_limits"
   },
   {
     "english": "operative temperature",
     "traditional_chinese": "作用溫度",
-    "definition_cht": "「作用溫度」為與溫度狀態、代表性熱環境或溫度診斷有關之術語，常用於描述熱力條件與能量交換。",
+    "definition_cht": "作用溫度指將空氣溫度與周圍表面平均輻射溫度綜合後，用以表示人體熱感受的等效溫度指標；在低風速下常作為熱舒適評估的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/operative_temperature"
   },
   {
     "english": "operator",
     "traditional_chinese": "算子",
-    "definition_cht": "「算子」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "算子指對函數、向量場或資料場施加某種數學運算的映射或運算元，如梯度、散度、旋度與微分算子；在數值模式與資料分析中常用來表述方程式中的運算形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/operator"
   },
   {
     "english": "opposing wind",
     "traditional_chinese": "逆風",
-    "definition_cht": "「逆風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。",
+    "definition_cht": "逆風指與物體運動方向相反、迎面吹來的風，即 headwind；在航空與航海中會降低對地速度、增加航程時間，起降時亦會影響性能與操作限制。",
     "source_url": "https://glossary.ametsoc.org/wiki/opposing_wind"
   },
   {
     "english": "opposition",
-    "traditional_chinese": "衝位",
-    "definition_cht": "「衝位」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "衝",
+    "definition_cht": "衝（opposition）指外行星、小行星或月球等天體與太陽分處地球兩側、其黃經相差約一百八十度的位置；此時該天體通常最適合夜間觀測，並常接近較大視直徑或較高亮度。",
     "source_url": "https://glossary.ametsoc.org/wiki/opposition"
   },
   {
     "english": "optical air mass",
-    "traditional_chinese": "光學氣團質量",
-    "definition_cht": "「光學氣團質量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光學空氣質量",
+    "definition_cht": "光學空氣質量指天體光線穿越地球大氣時的相對路徑長度，通常以天頂方向路徑為 1；太陽或星體越接近地平，光程越長，消光與折射等大氣效應也越明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_air_mass"
   },
   {
     "english": "optical counter",
     "traditional_chinese": "光學粒子計數器",
-    "definition_cht": "「光學粒子計數器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "光學粒子計數器指利用粒子通過光束時造成的散射、遮蔽或脈衝訊號來偵測並計數粒子的儀器，可估算粒徑分布與濃度，常用於氣膠、雲滴與潔淨環境監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_counter"
   },
   {
     "english": "optical depth",
     "traditional_chinese": "光學厚度",
-    "definition_cht": "「光學厚度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "光學厚度指輻射通過某介質時因吸收與散射累積造成的無因次衰減量；數值越大表示介質越不易透光，在雲、氣膠與大氣輻射傳輸研究中常作為重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_depth"
   },
   {
     "english": "optical hygrometer",
     "traditional_chinese": "光學濕度計",
-    "definition_cht": "「光學濕度計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "光學濕度計指利用光譜吸收、折射或其他光學效應量測水氣含量的儀器，可用於高精度觀測露點、混合比或絕對濕度，常見於大氣探測與實驗室校正。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_hygrometer"
   },
   {
     "english": "optical imaging probe",
-    "traditional_chinese": "光學成像探頭",
-    "definition_cht": "「光學成像探頭」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "光學成像探針",
+    "definition_cht": "光學成像探針指雲與降水微物理觀測中，利用高速光學成像記錄粒子穿越取樣區外形與尺度的探測器，可分析冰晶、雪粒、雨滴等粒子的大小、形狀與粒徑分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_imaging_probe"
   },
   {
