@@ -38324,121 +38324,121 @@
   {
     "english": "pole",
     "traditional_chinese": "極",
-    "definition_cht": "球體、天體或座標系中位於旋轉軸、磁軸或對稱軸端點的點或區域；在地球科學中常指地理極、磁極、天極等基準位置。",
+    "definition_cht": "指球體、天體或座標系上位於旋轉軸、磁軸或對稱軸端點的點或區域；在地球科學中常指地理極、磁極或天極等基準位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/pole"
   },
   {
     "english": "pole of inaccessibility",
-    "traditional_chinese": "難以到達的極點",
-    "definition_cht": "指與「難以到達的極點」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "難達極點",
+    "definition_cht": "指距離特定邊界（通常為海岸線）最遠、最不易抵達的位置；可用於大陸、海洋或其他地理區域的幾何與地理分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/pole_of_inaccessibility"
   },
   {
     "english": "pole tide",
     "traditional_chinese": "極潮",
-    "definition_cht": "指與「極潮」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "由地球自轉軸位置微小擺動所引起的長週期地潮或海潮成分，會造成海面與地殼的微弱週期性起伏。",
     "source_url": "https://glossary.ametsoc.org/wiki/pole_tide"
   },
   {
     "english": "pole-star recorder",
     "traditional_chinese": "極星記錄儀",
-    "definition_cht": "指與「極星記錄儀」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "利用北極星等近極恆星觀測其位置變化，以連續記錄時間、方位、緯度或儀器定向狀態的測定與記錄裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/pole-star_recorder"
   },
   {
     "english": "pollen analysis",
     "traditional_chinese": "花粉分析",
-    "definition_cht": "指用於研究「花粉分析」之統計、診斷或分類分析方法。",
+    "definition_cht": "藉由辨識沉積物、泥炭或土壤中的花粉與孢子組成，重建過去植被、氣候與環境變化的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/pollen_analysis"
   },
   {
     "english": "pollutant standards index",
-    "traditional_chinese": "污染物標準指數",
-    "definition_cht": "指以「污染物標準指數」為名之指標，用於量化特定氣象、水文或海洋狀態的強弱與變化。",
+    "traditional_chinese": "污染標準指數",
+    "definition_cht": "依多種空氣污染物濃度換算並綜合而成的空氣品質指數，用於表示空氣污染程度及其健康風險等級。",
     "source_url": "https://glossary.ametsoc.org/wiki/pollutant_standards_index"
   },
   {
     "english": "polycyclic aromatic hydrocarbons",
-    "traditional_chinese": "多環芳烴",
-    "definition_cht": "指與「多環芳烴」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "多環芳香烴",
+    "definition_cht": "由兩個以上稠合芳香環組成的一類有機化合物，常由燃燒過程產生，為大氣污染與環境毒理評估的重要物質。",
     "source_url": "https://glossary.ametsoc.org/wiki/polycyclic_aromatic_hydrocarbons"
   },
   {
     "english": "polyn'ya",
-    "traditional_chinese": "波里尼亞",
-    "definition_cht": "指與「波里尼亞」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "冰間湖",
+    "definition_cht": "指被海冰包圍、但局部仍維持開放水面的海域；可由強風將海冰推離岸邊，或由海洋熱通量與上升流維持不結冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/polyn%27ya"
   },
   {
     "english": "polynomial",
     "traditional_chinese": "多項式",
-    "definition_cht": "指與「多項式」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "由有限個單項式以加、減組合而成的代數式，各項變數的次方為非負整數。",
     "source_url": "https://glossary.ametsoc.org/wiki/polynomial"
   },
   {
     "english": "polytropic atmosphere",
     "traditional_chinese": "多變大氣",
-    "definition_cht": "指與「多變大氣」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "假設大氣壓力與密度或溫度之間滿足多變關係的理想化大氣模型，常用於理論推導與近似分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/polytropic_atmosphere"
   },
   {
     "english": "polytropic process",
     "traditional_chinese": "多變過程",
-    "definition_cht": "指與「多變過程」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "滿足 pV^n = 常數 的熱力學過程；其多變指數 n 可依傳熱與力學條件不同而改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/polytropic_process"
   },
   {
     "english": "POMAR code",
-    "traditional_chinese": "波瑪代碼",
-    "definition_cht": "指與「波瑪代碼」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "POMAR 代碼",
+    "definition_cht": "一種用於氣象或海洋觀測資料整理、傳輸或分類的專用代碼名稱；實際欄位與用途須依所屬觀測或通報系統定義。",
     "source_url": "https://glossary.ametsoc.org/wiki/POMAR_code"
   },
   {
     "english": "pondage",
-    "traditional_chinese": "蓄水量",
-    "definition_cht": "指與「蓄水量」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "調蓄量",
+    "definition_cht": "指水庫、壩體或水工設施為調節短期流量或發電需求而暫時蓄存的水量，亦可指相應的調節蓄水空間。",
     "source_url": "https://glossary.ametsoc.org/wiki/pondage"
   },
   {
     "english": "ponente",
-    "traditional_chinese": "波嫩特",
-    "definition_cht": "指與「波嫩特」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "西風",
+    "definition_cht": "地中海地區對西風的地方名稱，指自西方吹來的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/ponente"
   },
   {
     "english": "Ponentino",
-    "traditional_chinese": "波南蒂諾",
-    "definition_cht": "指與「波南蒂諾」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "波嫩提諾風",
+    "definition_cht": "義大利地區對地方性西風或偏西風的名稱，通常指較溫和的海風型西風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ponentino"
   },
   {
     "english": "poniente",
-    "traditional_chinese": "波尼恩特",
-    "definition_cht": "指與「波尼恩特」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "西風",
+    "definition_cht": "西班牙語地區對西風的名稱，指自西方吹來的風；在地中海沿岸亦常作為地方風名。",
     "source_url": "https://glossary.ametsoc.org/wiki/poniente"
   },
   {
     "english": "pontias",
-    "traditional_chinese": "蓬蒂亞斯",
-    "definition_cht": "指與「蓬蒂亞斯」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "蓬蒂亞斯風",
+    "definition_cht": "地中海與希臘一帶使用的地方風名，通常指來自本都方向的偏東北風或東風。",
     "source_url": "https://glossary.ametsoc.org/wiki/pontias"
   },
   {
     "english": "pool of cold air",
     "traditional_chinese": "冷空氣池",
-    "definition_cht": "指與「冷空氣池」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "冷空氣在山谷、盆地等地形低窪處聚積形成的氣團，常伴隨逆溫、霧或霜凍。",
     "source_url": "https://glossary.ametsoc.org/wiki/pool_of_cold_air"
   },
   {
     "english": "pop-up thunderstorm",
-    "traditional_chinese": "彈出雷雨",
-    "definition_cht": "指與「彈出雷雨」相關的風暴、劇烈天氣系統或其演變特徵。",
+    "traditional_chinese": "驟發雷雨",
+    "definition_cht": "在局地受熱與強對流作用下迅速生成、發展時間短且常近似單體雷暴的午後雷雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/pop-up_thunderstorm"
   },
   {
     "english": "population",
-    "traditional_chinese": "人口",
-    "definition_cht": "指與「人口」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "母體",
+    "definition_cht": "在統計學中指研究對象的全體集合；在氣象統計中可指某類事件、樣本來源或觀測值的完整母群。",
     "source_url": "https://glossary.ametsoc.org/wiki/population"
   },
   {
