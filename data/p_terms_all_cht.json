@@ -3032,121 +3032,121 @@
   {
     "english": "primary pollutants",
     "traditional_chinese": "主要污染物",
-    "definition_cht": "指與「主要污染物」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "直接排放至大氣中的污染物，並非由其他前驅物在大氣中經化學反應後生成；相對於臭氧、部分二次氣膠等次級污染物而言。",
     "source_url": "https://glossary.ametsoc.org/wiki/primary_pollutants"
   },
   {
     "english": "primary rainbow",
-    "traditional_chinese": "主彩虹",
-    "definition_cht": "指與「主彩虹」相關的降雨、雨量或雨滴過程，常用於天氣分析與水文應用。",
+    "traditional_chinese": "主虹",
+    "definition_cht": "由陽光進入雨滴後發生一次內反射所形成的彩虹，通常外側為紅色、內側為紫色，最大亮度多出現在反太陽點約 42°附近。",
     "source_url": "https://glossary.ametsoc.org/wiki/primary_rainbow"
   },
   {
     "english": "primitive equations",
     "traditional_chinese": "原始方程",
-    "definition_cht": "描述「原始方程」相關物理量之間關係、守恆條件或近似動力平衡的方程式。",
+    "definition_cht": "大氣與海洋數值模式常用的一組非線性偏微分方程，綜合動量、質量、熱量與水汽守恆，通常配合靜力近似、地球自轉與狀態方程描述大尺度流場。",
     "source_url": "https://glossary.ametsoc.org/wiki/primitive_equations"
   },
   {
     "english": "principal band",
-    "traditional_chinese": "主樂隊",
-    "definition_cht": "指與「主樂隊」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "主雨帶",
+    "definition_cht": "熱帶氣旋中最顯著的螺旋雨帶，常位於下風切一側，為渦旋環流與環境氣流相互作用而形成較強輻合、對流與降水的帶狀區。",
     "source_url": "https://glossary.ametsoc.org/wiki/principal_band"
   },
   {
     "english": "principal components analysis",
     "traditional_chinese": "主成分分析",
-    "definition_cht": "指用於研究「主成分分析」之統計、診斷或分類分析方法。",
+    "definition_cht": "一種多變量統計降維方法，將彼此相關的變數轉換為少數互相正交的主成分，以保留資料中主要變異並利於診斷、分類或預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/principal_components_analysis"
   },
   {
     "english": "principal land station",
-    "traditional_chinese": "主要陸地站",
-    "definition_cht": "指與「主要陸地站」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "主要陸地測站",
+    "definition_cht": "設於陸地、設備與人員配置較完整的地面綜觀測站，負責觀測規定氣象要素，並將資料編報供國內或國際交換使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/principal_land_station"
   },
   {
     "english": "principal plane",
     "traditional_chinese": "主平面",
-    "definition_cht": "指與「主平面」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在大氣輻射或散射觀測中，通常指包含太陽入射方向與觀測視線的平面，常作為描述散射角、偏振與角度分布的基準平面。",
     "source_url": "https://glossary.ametsoc.org/wiki/principal_plane"
   },
   {
     "english": "principal point",
-    "traditional_chinese": "重點",
-    "definition_cht": "指與「重點」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "主點",
+    "definition_cht": "攝影測量與光學中，指鏡頭主光軸與像平面或照片平面的交點，為影像幾何校正與定位的重要基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/principal_point"
   },
   {
     "english": "principle of geometric association",
     "traditional_chinese": "幾何關聯原理",
-    "definition_cht": "指與「幾何關聯原理」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在天氣分析與圖像判釋中，依目標之相對位置、形狀、排列、連續性與鄰近關係來辨識或推定其性質的判讀原則。",
     "source_url": "https://glossary.ametsoc.org/wiki/principle_of_geometric_association"
   },
   {
     "english": "probabilistic process",
     "traditional_chinese": "機率過程",
-    "definition_cht": "指與「機率過程」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "以機率法則描述其隨時間、空間或狀態演變的過程；系統未來狀態並非唯一確定，而以機率分布表示其可能結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/probabilistic_process"
   },
   {
     "english": "probability",
-    "traditional_chinese": "可能性",
-    "definition_cht": "指與「可能性」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "機率",
+    "definition_cht": "表示某事件發生可能性的數值量，通常介於 0 與 1 之間；值愈大代表事件愈可能發生。",
     "source_url": "https://glossary.ametsoc.org/wiki/probability"
   },
   {
     "english": "probability density function",
     "traditional_chinese": "機率密度函數",
-    "definition_cht": "指與「機率密度函數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "描述連續型隨機變數在各取值附近出現相對可能性的函數；其在某區間上的積分等於該變數落在該區間內的機率。",
     "source_url": "https://glossary.ametsoc.org/wiki/probability_density_function"
   },
   {
     "english": "probability distribution",
-    "traditional_chinese": "機率分佈",
-    "definition_cht": "指與「機率分佈」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "機率分布",
+    "definition_cht": "描述隨機變數各可能取值及其對應機率或機率密度的數學表示，可用以刻畫資料或現象的不確定性結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/probability_distribution"
   },
   {
     "english": "probability forecast",
-    "traditional_chinese": "機率預測",
-    "definition_cht": "指與「機率預測」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "機率預報",
+    "definition_cht": "以機率而非單一確定值表示未來事件發生可能性的預報方式，例如降雨、強風或溫度超過某門檻的發生機率。",
     "source_url": "https://glossary.ametsoc.org/wiki/probability_forecast"
   },
   {
     "english": "probability integral",
     "traditional_chinese": "機率積分",
-    "definition_cht": "指與「機率積分」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "由機率密度函數在指定區間上積分所得的量，即該隨機變數落在該區間內的累積機率；亦可泛指用積分求取機率的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/probability_integral"
   },
   {
     "english": "Probability of precipitation",
     "traditional_chinese": "降水機率",
-    "definition_cht": "指與「降水機率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在指定地點與時段內，觀測到可測降水的機率，常縮寫為 PoP；通常以百分比表示，反映該時段出現降雨、降雪或其他降水的可能性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Probability_of_precipitation"
   },
   {
     "english": "probability paper",
-    "traditional_chinese": "機率論文",
-    "definition_cht": "指與「機率論文」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "機率紙",
+    "definition_cht": "一種將特定機率刻度預先標示於坐標軸上的專用繪圖紙，用來檢視樣本是否近似某一理論分布，並估計分布參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/probability_paper"
   },
   {
     "english": "probability theory",
     "traditional_chinese": "機率論",
-    "definition_cht": "指與「機率論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。",
+    "definition_cht": "研究隨機現象、事件機率、隨機變數與機率分布等概念的數學理論，是統計推論與隨機過程分析的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/probability_theory"
   },
   {
     "english": "probable error",
-    "traditional_chinese": "可能的錯誤",
-    "definition_cht": "指與「可能的錯誤」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "概然誤差",
+    "definition_cht": "統計上表示一種誤差尺度，指相對於中心值的半區間，使一半觀測值落在其內、一半落在其外；對常態分布而言，約等於 0.6745 倍標準差。",
     "source_url": "https://glossary.ametsoc.org/wiki/probable_error"
   },
   {
     "english": "probable maximum flood",
-    "traditional_chinese": "可能的最大洪水",
-    "definition_cht": "指與「可能的最大洪水」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "可能最大洪水",
+    "definition_cht": "由可能最大降水量、融雪與流域最不利條件等組合所推估，在特定流域理論上可能發生的最大洪峰或洪水歷線，常用於大型水工設施安全設計。",
     "source_url": "https://glossary.ametsoc.org/wiki/probable_maximum_flood"
   },
   {
