@@ -38089,122 +38089,122 @@
   },
   {
     "english": "polar amplification",
-    "traditional_chinese": "極性放大",
-    "definition_cht": "指與「極性放大」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地增幅",
+    "definition_cht": "指地球輻射收支改變時，極區地表或近地面氣溫變化幅度大於全球平均的現象；在當代氣候變遷脈絡中，常特指北極增暖明顯快於全球平均的情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_amplification"
   },
   {
     "english": "polar anticyclone",
     "traditional_chinese": "極地反氣旋",
-    "definition_cht": "指與「極地反氣旋」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "位於極區的冷性高壓系統，主要由地表強烈輻射冷卻與下沉氣流形成，近地面風場自高壓中心向外流出，並為極地東風的重要來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_anticyclone"
   },
   {
     "english": "Polar cap absorption events",
-    "traditional_chinese": "極帽吸收事件",
-    "definition_cht": "指與「極帽吸收事件」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極冠吸收事件",
+    "definition_cht": "高能太陽質子進入地球極區上空並增強電離層 D 層游離作用時，造成高頻無線電波在極區傳播顯著吸收、衰減甚至中斷的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Polar_cap_absorption_events"
   },
   {
     "english": "polar cell",
-    "traditional_chinese": "極細胞",
-    "definition_cht": "指與「極細胞」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地環流胞",
+    "definition_cht": "三圈式大氣環流中位於高緯度的熱力直接環流胞；空氣大致在極區下沉、近地面向赤道流至副極地，再於較低緯度一側上升並於高空返回極區。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_cell"
   },
   {
     "english": "polar climate",
     "traditional_chinese": "極地氣候",
-    "definition_cht": "指與「極地氣候」相關的氣候狀態、演變或古氣候特徵。",
+    "definition_cht": "柯本氣候分類中最暖月平均氣溫低於 10°C 的氣候型，全年氣溫偏低、暖季極短，常見於南北極及其周邊高緯地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_climate"
   },
   {
     "english": "polar continental air",
-    "traditional_chinese": "極地大陸空氣",
-    "definition_cht": "指與「極地大陸空氣」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地大陸氣團",
+    "definition_cht": "形成於高緯大陸或積雪覆蓋陸地上的冷而乾燥氣團，層結通常較穩定；天氣圖上常以 cP（continental polar）表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_continental_air"
   },
   {
     "english": "polar coordinates",
     "traditional_chinese": "極座標",
-    "definition_cht": "指與「極座標」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "以一點到原點的距離與其相對基準方向的夾角來表示平面位置的座標系，常用於描述雷達掃描、波束方向或圓對稱場。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_coordinates"
   },
   {
     "english": "polar easterlies",
-    "traditional_chinese": "極地東風帶",
-    "definition_cht": "指與「極地東風帶」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地東風",
+    "definition_cht": "由極地高壓吹向副極地低壓、並受科氏力偏轉而形成的盛行偏東風，通常冷而乾燥，為高緯近地面主要風帶之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_easterlies"
   },
   {
     "english": "polar front",
     "traditional_chinese": "極鋒",
-    "definition_cht": "指與「極鋒」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
+    "definition_cht": "極地冷氣團與中緯度較暖氣團之間的主要鋒面或過渡邊界，常位於約 50°–60° 緯度附近，為溫帶氣旋生成與發展的重要區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_front"
   },
   {
     "english": "polar frontal zone",
-    "traditional_chinese": "極額區",
-    "definition_cht": "指與「極額區」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
+    "traditional_chinese": "極鋒區",
+    "definition_cht": "環繞極鋒附近、水平溫度梯度與風切較強的廣義過渡帶，常伴隨噴流與頻繁氣旋活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_frontal_zone"
   },
   {
     "english": "polar glacier",
-    "traditional_chinese": "極地冰川",
-    "definition_cht": "指與「極地冰川」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "寒性冰川",
+    "definition_cht": "冰川熱力分類之一，指冰體全年大致維持在壓力融點以下、內部少有液態水的冰川；亦可稱極地型冰川。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_glacier"
   },
   {
     "english": "polar high",
-    "traditional_chinese": "極地高",
-    "definition_cht": "指與「極地高」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地高壓",
+    "definition_cht": "位於極區近地面的廣闊冷性高壓帶，主要由地表強烈冷卻所維持，常與下沉氣流、晴冷天氣及極地東風有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_high"
   },
   {
     "english": "polar ice",
     "traditional_chinese": "極地冰",
-    "definition_cht": "指與「極地冰」相關的海冰、冰體或冰相現象，用於描述其形態、分布、生成或運動特徵。",
+    "definition_cht": "泛指分布於極區的各類冰體，包括海冰、冰蓋、冰棚與冰川冰等，用以描述其範圍、厚度、性質或季節變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_ice"
   },
   {
     "english": "polar invasion",
-    "traditional_chinese": "極地入侵",
-    "definition_cht": "指與「極地入侵」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地冷空氣入侵",
+    "definition_cht": "指極地或高緯冷空氣大規模向較低緯地區推進的過程，常造成顯著降溫、強風及天氣驟變。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_invasion"
   },
   {
     "english": "polar low",
-    "traditional_chinese": "極低",
-    "definition_cht": "指與「極低」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地低壓",
+    "definition_cht": "出現在主極鋒以極側海域的中尺度、生命期短暫但發展可相當強烈的低壓系統，常伴隨強風、陣雪或對流雲帶，對高緯海上作業具危害性。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_low"
   },
   {
     "english": "polar maritime air",
-    "traditional_chinese": "極地海上空氣",
-    "definition_cht": "指與「極地海上空氣」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地海洋氣團",
+    "definition_cht": "形成於高緯海洋上的冷濕氣團，天氣圖上常以 mP（maritime polar）表示；移入較暖下墊面時常轉為不穩定，易形成陣雲與降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_maritime_air"
   },
   {
     "english": "polar mesospheric clouds",
-    "traditional_chinese": "極地中層雲",
-    "definition_cht": "指與「極地中層雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "traditional_chinese": "極地中氣層雲",
+    "definition_cht": "出現在夏季高緯中氣層上部的稀薄冰晶雲，通常位於約 80–85 公里高度，常在曙暮光條件下呈現夜光雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_mesospheric_clouds"
   },
   {
     "english": "polar mesospheric summer echoes",
-    "traditional_chinese": "極地中層夏季迴聲",
-    "definition_cht": "指與「極地中層夏季迴聲」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地中氣層夏季回波",
+    "definition_cht": "夏季極區中氣層由雷達偵測到的強烈回波現象，通常與冰晶、帶電微粒及小尺度湍流結構有關，常出現在夜光雲附近高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_mesospheric_summer_echoes"
   },
   {
     "english": "polar night jet stream",
     "traditional_chinese": "極夜急流",
-    "definition_cht": "指與「極夜急流」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "冬季極區平流層至中氣層因長時間無日照與強烈南北向溫度梯度而形成的強西風急流，與極渦結構及平流層動力過程密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_night_jet_stream"
   },
   {
     "english": "polar outbreak",
-    "traditional_chinese": "極地爆發",
-    "definition_cht": "指與「極地爆發」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地冷空氣爆發",
+    "definition_cht": "指極地冷空氣迅速向較低緯擴展的強烈過程，常導致短時間劇烈降溫、強風及局地雪、冰或海效應降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_outbreak"
   },
   {
