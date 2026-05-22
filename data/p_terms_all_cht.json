@@ -3392,122 +3392,122 @@
   {
     "english": "pseudoequivalent potential temperature",
     "traditional_chinese": "偽當量位溫",
-    "definition_cht": "指與「偽當量位溫」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudoequivalent_potential_temperature"
+    "definition_cht": "氣塊先作偽絕熱膨脹，使凝結水成物隨即移除，再乾絕熱帶至標準壓力時所具有的溫度；常用以表徵暖濕空氣的熱含量與對流不穩定度。",
+    "source_url": "https://glossary.ametsoc.org/wiki/pseudoequivalent-potential-temperature/"
   },
   {
     "english": "pseudorandom numbers",
     "traditional_chinese": "偽隨機數",
-    "definition_cht": "指與「偽隨機數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudorandom_numbers"
+    "definition_cht": "由確定性演算法依初始種子產生、統計性質近似隨機但可重現的數列；常用於數值模擬、蒙地卡羅方法與集合預報擾動。",
+    "source_url": "https://glossary.ametsoc.org/wiki/pseudorandom-numbers/"
   },
   {
     "english": "PSI",
-    "traditional_chinese": "PSI",
-    "definition_cht": "「PSI」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
-    "source_url": "https://glossary.ametsoc.org/wiki/PSI"
+    "traditional_chinese": "磅／平方英吋",
+    "definition_cht": "pounds per square inch 的縮寫，為英制壓力單位，表示每平方英吋面積所承受的磅力；在部分氣壓、氣瓶或工程儀表資料中仍可見此單位。",
+    "source_url": "https://en.wikipedia.org/wiki/Pound_per_square_inch"
   },
   {
     "english": "PSMSL",
-    "traditional_chinese": "PSMSL",
-    "definition_cht": "「PSMSL」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
-    "source_url": "https://glossary.ametsoc.org/wiki/PSMSL"
+    "traditional_chinese": "平均海平面常設服務",
+    "definition_cht": "Permanent Service for Mean Sea Level 的縮寫，為彙整全球驗潮站與海底壓力紀錄之長期海平面資料庫與服務機構，廣泛用於海平面變化監測。",
+    "source_url": "https://psmsl.org/"
   },
   {
     "english": "psu",
-    "traditional_chinese": "電源",
-    "definition_cht": "指與「電源」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/psu"
+    "traditional_chinese": "實用鹽度單位",
+    "definition_cht": "practical salinity unit 的縮寫，為依實用鹽度尺度（PSS-78）表示海水鹽度時常用的記法；其本質上為無因次量，但文獻中常寫作 psu。",
+    "source_url": "https://en.wikipedia.org/wiki/Salinity"
   },
   {
     "english": "psychrometer",
     "traditional_chinese": "乾濕計",
-    "definition_cht": "指量測「乾濕計」相關物理量的儀器、計量裝置或測定器。",
-    "source_url": "https://glossary.ametsoc.org/wiki/psychrometer"
+    "definition_cht": "利用乾球與濕球溫度差推算空氣濕度、露點或水氣壓的儀器；常見型式包括吊索乾濕計與通風乾濕表。",
+    "source_url": "https://en.wikipedia.org/wiki/Psychrometer"
   },
   {
     "english": "psychrometric chart",
-    "traditional_chinese": "濕度圖",
-    "definition_cht": "指與「濕度圖」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/psychrometric_chart"
+    "traditional_chinese": "濕空氣圖",
+    "definition_cht": "在固定壓力下表示乾球溫度、濕球溫度、相對濕度、比濕、焓與露點等關係的圖表，可用於分析空氣加熱、冷卻、加濕與除濕過程。",
+    "source_url": "https://en.wikipedia.org/wiki/Psychrometrics"
   },
   {
     "english": "psychrometric constant",
-    "traditional_chinese": "濕度常數",
-    "definition_cht": "指與「濕度常數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/psychrometric_constant"
+    "traditional_chinese": "乾濕常數",
+    "definition_cht": "描述濕球蒸發冷卻與水氣壓差關係的比例常數，用於由乾、濕球溫度估算實際水氣壓、相對濕度與蒸發散。其值會隨大氣壓而變。",
+    "source_url": "https://en.wikipedia.org/wiki/Psychrometric_constant"
   },
   {
     "english": "psychrometric formula",
-    "traditional_chinese": "濕度公式",
-    "definition_cht": "指與「濕度公式」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/psychrometric_formula"
+    "traditional_chinese": "乾濕計公式",
+    "definition_cht": "利用乾球與濕球溫度，配合乾濕常數計算水氣壓、相對濕度或露點的公式；為乾濕計測濕的基本換算關係。",
+    "source_url": "https://en.wikipedia.org/wiki/Psychrometric_constant"
   },
   {
     "english": "psychrometric tables",
-    "traditional_chinese": "濕度表",
-    "definition_cht": "指與「濕度表」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/psychrometric_tables"
+    "traditional_chinese": "乾濕計算表",
+    "definition_cht": "依乾球、濕球溫度及其差值預先編製的查表資料，可快速換算相對濕度、露點或水氣壓，供觀測與工程實務使用。",
+    "source_url": "https://en.wikipedia.org/wiki/Psychrometrics"
   },
   {
     "english": "psychrometry",
-    "traditional_chinese": "濕度測定法",
-    "definition_cht": "指與「濕度測定法」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/psychrometry"
+    "traditional_chinese": "測濕學",
+    "definition_cht": "研究氣體與水汽混合物熱力性質及其量測方法的學科；在氣象實務中常特指利用乾、濕球觀測推算濕度與露點的方法。",
+    "source_url": "https://en.wikipedia.org/wiki/Psychrometrics"
   },
   {
     "english": "puelche",
-    "traditional_chinese": "普爾切",
-    "definition_cht": "指與「普爾切」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/puelche"
+    "traditional_chinese": "普艾切風",
+    "definition_cht": "智利中南部常見的乾燥焚風型東風，空氣越過安地斯山後下沉增溫而形成；春季強風可加速山區融雪並增加洪水風險。",
+    "source_url": "https://en.wikipedia.org/wiki/Puelche_(wind)"
   },
   {
     "english": "pulse",
     "traditional_chinese": "脈衝",
-    "definition_cht": "指與「脈衝」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pulse"
+    "definition_cht": "在極短時間內出現並迅速消失的單次訊號或能量包；在雷達中通常指發射器送出的短暫電磁波束。",
+    "source_url": "https://en.wikipedia.org/wiki/Pulse_repetition_frequency"
   },
   {
     "english": "pulse coding",
     "traditional_chinese": "脈衝編碼",
-    "definition_cht": "指與「脈衝編碼」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pulse_coding"
+    "definition_cht": "以脈衝的振幅、寬度、位置、相位或碼序來攜帶資訊的編碼方式；在雷達中也可用於改善偵測能力與量測表現。",
+    "source_url": "https://en.wikipedia.org/wiki/Pulse_modulation"
   },
   {
     "english": "pulse compression",
     "traditional_chinese": "脈衝壓縮",
-    "definition_cht": "指與「脈衝壓縮」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pulse_compression"
+    "definition_cht": "先以較長脈衝發射並施加調變，再於接收端相關處理，把能量集中成較窄等效脈衝的技術，可同時兼顧訊雜比與距離解析度。",
+    "source_url": "https://en.wikipedia.org/wiki/Pulse_compression"
   },
   {
     "english": "pulse duration",
     "traditional_chinese": "脈衝持續時間",
-    "definition_cht": "指「脈衝持續時間」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pulse_duration"
+    "definition_cht": "單一脈衝從開始到結束所維持的時間長度，常與脈衝寬度同義；在雷達中會影響脈衝長度、能量與距離解析度。",
+    "source_url": "https://en.wikipedia.org/wiki/Pulse_repetition_frequency"
   },
   {
     "english": "pulse integration",
     "traditional_chinese": "脈衝積分",
-    "definition_cht": "指「脈衝積分」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pulse_integration"
+    "definition_cht": "將多個回波脈衝的訊號加總或平均，以提升有效訊號相對於雜訊的可辨識度；常用於雷達偵測弱目標。",
+    "source_url": "https://en.wikipedia.org/wiki/Pulse_compression"
   },
   {
     "english": "pulse integrator",
     "traditional_chinese": "脈衝積分器",
-    "definition_cht": "指與「脈衝積分器」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pulse_integrator"
+    "definition_cht": "對連續多個脈衝訊號進行加總、平均或累積處理的電路或處理單元，用於提高弱回波的偵測能力。",
+    "source_url": "https://en.wikipedia.org/wiki/Pulse_repetition_frequency"
   },
   {
     "english": "pulse length",
     "traditional_chinese": "脈衝長度",
-    "definition_cht": "指與「脈衝長度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pulse_length"
+    "definition_cht": "脈衝在時間上的寬度，亦可換算為脈衝在空間中的延伸距離；在雷達中通常由脈衝寬度決定，並直接影響距離解析度。",
+    "source_url": "https://en.wikipedia.org/wiki/Pulse_repetition_frequency"
   },
   {
     "english": "pulse modulation",
-    "traditional_chinese": "脈衝調製",
-    "definition_cht": "指與「脈衝調製」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pulse_modulation"
+    "traditional_chinese": "脈衝調變",
+    "definition_cht": "透過改變脈衝的振幅、寬度、位置、時間或相位等參數來承載資訊的調變方法，常見於通訊、遙測與雷達訊號設計。",
+    "source_url": "https://en.wikipedia.org/wiki/Pulse_modulation"
   },
   {
     "english": "pulse repetition frequency",
