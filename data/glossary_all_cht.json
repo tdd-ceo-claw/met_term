@@ -36530,121 +36530,121 @@
   {
     "english": "path line",
     "traditional_chinese": "路徑線",
-    "definition_cht": "指與「路徑線」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在非定常流場中，單一流體質點隨時間移動所描繪出的實際軌跡；若流場為定常，路徑線、流線與跡線可相互重合。",
     "source_url": "https://glossary.ametsoc.org/wiki/path_line"
   },
   {
     "english": "path method",
     "traditional_chinese": "路徑法",
-    "definition_cht": "指與「路徑法」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "沿粒子、空氣塊或水體實際運動路徑進行分析或求解的方法；在流體力學、軌跡分析與傳輸問題中，常用以描述物質、熱量或動量沿途的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/path_method"
   },
   {
     "english": "pattern correlation",
-    "traditional_chinese": "模式相關性",
-    "definition_cht": "指「模式相關性」所代表的大尺度環流型態、空間分布結構或遙相關配置，用於診斷氣候與天氣異常。",
+    "traditional_chinese": "型態相關係數",
+    "definition_cht": "用以衡量兩個空間分布型態相似程度的相關統計量，通常比較同一網格或區域上兩場之距平分布；數值越接近 1，表示型態越相似。",
     "source_url": "https://glossary.ametsoc.org/wiki/pattern_correlation"
   },
   {
     "english": "patterned ground",
-    "traditional_chinese": "有圖案的地面",
-    "definition_cht": "指「有圖案的地面」所代表的大尺度環流型態、空間分布結構或遙相關配置，用於診斷氣候與天氣異常。",
+    "traditional_chinese": "多邊形凍土地形",
+    "definition_cht": "寒凍周冰河環境中，地表因反覆凍融、凍脹與物質分選作用而形成的規則幾何圖案地形，常見型式包括石環、石帶、多邊形地與條紋地。",
     "source_url": "https://glossary.ametsoc.org/wiki/patterned_ground"
   },
   {
     "english": "Pavlovsky's approximation",
     "traditional_chinese": "巴甫洛夫斯基近似",
-    "definition_cht": "用於處理「巴甫洛夫斯基近似」相關問題的近似假設或簡化理論，以保留主要物理機制。",
+    "definition_cht": "水力學中的近似處理方法，用於在保留主要控制因子的前提下，簡化明渠或相關流動問題的計算；多見於河道與渠道流況分析的半經驗近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pavlovsky%27s_approximation"
   },
   {
     "english": "payload",
-    "traditional_chinese": "有效負載",
-    "definition_cht": "指與「有效負載」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "酬載",
+    "definition_cht": "由飛機、火箭、探空儀或衛星搭載並執行任務的有效載荷，如科學儀器、感測器、通訊設備或其他任務裝置；在遙測與太空任務中亦常指觀測儀器本體。",
     "source_url": "https://glossary.ametsoc.org/wiki/payload"
   },
   {
     "english": "PBL",
-    "traditional_chinese": "PBL",
-    "definition_cht": "「PBL」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
+    "traditional_chinese": "行星邊界層",
+    "definition_cht": "大氣最靠近地表、直接受地表摩擦、加熱冷卻與水氣通量影響的對流層下層，厚度常隨日夜循環與天氣型態變化；英文常縮寫為 PBL。",
     "source_url": "https://glossary.ametsoc.org/wiki/PBL"
   },
   {
     "english": "PCA events",
-    "traditional_chinese": "PCA事件",
-    "definition_cht": "指與「PCA事件」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極冠吸收事件",
+    "definition_cht": "高能太陽質子進入極區上空大氣後，使 D 層電離增強並造成高頻無線電波吸收顯著增加的事件，常導致極區或高緯度通訊衰減或中斷；英文常縮寫為 PCA events。",
     "source_url": "https://glossary.ametsoc.org/wiki/PCA_events"
   },
   {
     "english": "PDSI",
-    "traditional_chinese": "PDSI",
-    "definition_cht": "「PDSI」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
+    "traditional_chinese": "帕爾默乾旱嚴重度指數",
+    "definition_cht": "Palmer drought severity index 的縮寫，利用降水、氣溫與土壤水分平衡評估區域乾濕狀況的指標，常用於監測中長時間尺度的氣象乾旱。",
     "source_url": "https://glossary.ametsoc.org/wiki/PDSI"
   },
   {
     "english": "PE",
-    "traditional_chinese": "聚乙烯醇",
-    "definition_cht": "「PE」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
+    "traditional_chinese": "潛在蒸發量",
+    "definition_cht": "在水分供應不受限制條件下，地表於既定氣象環境中可達到的蒸發量；常用於乾旱評估、水分平衡與氣候分類，英文常縮寫為 PE。",
     "source_url": "https://glossary.ametsoc.org/wiki/PE"
   },
   {
     "english": "pea-soup fog",
     "traditional_chinese": "豌豆湯霧",
-    "definition_cht": "指與「豌豆湯霧」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "受煤煙、硫氧化物與霧滴共同作用形成的濃厚黃綠色污染霧，歷史上常見於工業城市，尤以倫敦煙霧事件最具代表性；本質上屬重度煙霧（smog）而非單純自然霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/pea-soup_fog"
   },
   {
     "english": "peak current",
     "traditional_chinese": "峰值電流",
-    "definition_cht": "指與「峰值電流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "definition_cht": "在電流波形或放電過程中所達到的最大瞬時電流值；於雷電研究中，常用以描述回擊或其他放電階段的強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/peak_current"
   },
   {
     "english": "peak discharge",
-    "traditional_chinese": "尖峰放電",
-    "definition_cht": "指與「尖峰放電」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "洪峰流量",
+    "definition_cht": "一次洪水歷線中所出現的最大流量，常用以描述洪水強度、設計防洪標準及流域對降雨事件的集流反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/peak_discharge"
   },
   {
     "english": "peak frequency",
     "traditional_chinese": "峰值頻率",
-    "definition_cht": "指與「峰值頻率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "頻譜或功率譜中對應最大譜值的頻率；在海浪、湍流、聲學與訊號分析中，常用以表示能量最集中的主導頻率。",
     "source_url": "https://glossary.ametsoc.org/wiki/peak_frequency"
   },
   {
     "english": "peak gust",
-    "traditional_chinese": "峰值陣風",
-    "definition_cht": "指與「峰值陣風」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "最大陣風",
+    "definition_cht": "在指定觀測期間內所記錄到的最高瞬時或短時平均陣風風速；在航空氣象、警報作業與風害評估中為重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/peak_gust"
   },
   {
     "english": "peak power",
     "traditional_chinese": "峰值功率",
-    "definition_cht": "指與「峰值功率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "設備、發射器或脈衝訊號在運作期間可達到的最大瞬時功率；在雷達與通訊系統中，常用以描述脈衝發射強度上限。",
     "source_url": "https://glossary.ametsoc.org/wiki/peak_power"
   },
   {
     "english": "Pearson distribution",
-    "traditional_chinese": "皮爾遜分佈",
-    "definition_cht": "指與「皮爾遜分佈」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "皮爾遜分布",
+    "definition_cht": "由 Karl Pearson 提出的連續機率分布族，可依平均數、變異數、偏態與峰態等矩特徵描述多種不同形狀的分布，常用於統計擬合與水文氣象頻率分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pearson_distribution"
   },
   {
     "english": "Péclet number",
     "traditional_chinese": "佩克萊數",
-    "definition_cht": "指與「佩克萊數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "描述平流（或對流輸送）相對於擴散輸送強弱的無因次數；數值愈大表示平流主導，愈小則表示擴散影響較強，常用於熱傳、質傳與流體運動分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/P%C3%A9clet_number"
   },
   {
     "english": "pedestal",
-    "traditional_chinese": "座",
-    "definition_cht": "指與「座」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "基座",
+    "definition_cht": "支撐儀器、天線、雷達或其他設備之底座或承載結構；在工程與觀測系統語境中，亦可泛指提供穩定安裝與旋轉支撐的基底部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/pedestal"
   },
   {
     "english": "peesash",
-    "traditional_chinese": "皮阿什",
-    "definition_cht": "指與「皮阿什」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "皮薩什風",
+    "definition_cht": "地方風名稱，指特定地區傳統命名的區域性風系；相關文獻記載較少，通常保留其音譯處理，並依上下文理解其地方風性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/peesash"
   },
   {
