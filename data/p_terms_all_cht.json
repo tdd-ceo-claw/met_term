@@ -2666,121 +2666,121 @@
   {
     "english": "precipitation effectiveness",
     "traditional_chinese": "有效降水量",
-    "definition_cht": "指總降水中實際可供植生利用的部分，其可利用程度受降水強度、季節、氣溫、地表覆蓋與土壤或草皮條件等因素影響。",
+    "definition_cht": "指總降水中實際可被土壤與植被利用的部分；其大小除受降水量影響外，亦與降水季節分配、蒸發需求、氣溫、地表覆蓋與土壤條件有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_effectiveness"
   },
   {
     "english": "precipitation electricity",
-    "traditional_chinese": "降水電力",
-    "definition_cht": "指與「降水電力」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "降水電學",
+    "definition_cht": "大氣電學中研究雨、雪、霰、冰雹等降水粒子之帶電特性，以及其在下落過程中造成的電荷分離、電荷傳輸與降水電流等現象的分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_electricity"
   },
   {
     "english": "precipitation gauge",
-    "traditional_chinese": "降水量計",
-    "definition_cht": "指與「降水量計」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "雨量器",
+    "definition_cht": "用於量測在一定時間內降落於地面的液態或固態降水量的儀器，常見型式包括儲水式、傾斗式與秤重式；經換算後通常以毫米表示降水深度。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_gauge"
   },
   {
     "english": "precipitation intensity",
     "traditional_chinese": "降水強度",
-    "definition_cht": "指與「降水強度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "單位時間內的降水量，表示降水發生的快慢，常以毫米每小時表示，可用於區分小雨、豪雨或短延時強降水事件。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_intensity"
   },
   {
     "english": "precipitation inversion",
     "traditional_chinese": "降水反演",
-    "definition_cht": "指與「降水反演」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "利用雷達回波、衛星輻射量測或其他遙測觀測資料，反推降水率、降水粒徑分布或垂直降水結構的逆推估程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_inversion"
   },
   {
     "english": "precipitation physics",
     "traditional_chinese": "降水物理學",
-    "definition_cht": "指與「降水物理學」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "研究雲滴與冰晶成長、碰併、凝華、凍結、融化、蒸發與下落等形成降水之微物理過程的學科，為雲與降水機制研究的重要領域。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_physics"
   },
   {
     "english": "precipitation regime",
-    "traditional_chinese": "降水狀況",
-    "definition_cht": "指與「降水狀況」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "降水型態",
+    "definition_cht": "指某地區降水在年際、季節或日變化上的整體分布特徵，包括降水總量、頻率、強度與季節集中程度等氣候表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_regime"
   },
   {
     "english": "precipitation scavenging",
-    "traditional_chinese": "沉澱清除",
-    "definition_cht": "指與「沉澱清除」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "降水清除",
+    "definition_cht": "指雨滴、雪晶或其他降水粒子在形成與下落過程中，藉由碰撞、吸收或攔截作用移除大氣中氣膠、雲滴或可溶性氣體的過程，屬濕沉降的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_scavenging"
   },
   {
     "english": "precipitation shield",
-    "traditional_chinese": "降水盾",
-    "definition_cht": "指與「降水盾」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "盾狀降水區",
+    "definition_cht": "指中緯度氣旋、鋒面或其他天氣系統周圍大範圍且連續分布的降水區，常在天氣圖或雷達影像上呈現如盾牌般展開的廣闊雨雪帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_shield"
   },
   {
     "english": "precipitation station",
-    "traditional_chinese": "降水站",
-    "definition_cht": "指與「降水站」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "雨量站",
+    "definition_cht": "以觀測與記錄降水量為主要任務的氣象測站，可配置雨量器及相關設備，用於蒐集逐時、逐日或事件性降水資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_station"
   },
   {
     "english": "precipitation trails",
-    "traditional_chinese": "降水軌跡",
-    "definition_cht": "指與「降水軌跡」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "降水尾跡",
+    "definition_cht": "指自雲底向下延伸、呈條帶或絲縷狀的降水痕跡；其可由實際落地的降水形成，也可在下層乾燥時表現為落至半途即蒸發的條狀雨幡。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_trails"
   },
   {
     "english": "precipitation trajectory",
     "traditional_chinese": "降水軌跡",
-    "definition_cht": "指與「降水軌跡」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "降水粒子自生成至落地過程中所經過的運動路徑；其形狀受重力、粒子終端速度、垂直氣流與水平風切影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_trajectory"
   },
   {
     "english": "precipitation-effectiveness index",
-    "traditional_chinese": "降水有效性指數",
-    "definition_cht": "指以「降水有效性指數」為名之指標，用於量化特定氣象、水文或海洋狀態的強弱與變化。",
+    "traditional_chinese": "有效降水指數",
+    "definition_cht": "根據降水量與氣溫等因子綜合估算降水對植被與地表水分供應效益的氣候指標，常用於乾濕程度與氣候分類研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation-effectiveness_index"
   },
   {
     "english": "precipitation–evaporation ratio",
     "traditional_chinese": "降水蒸發比",
-    "definition_cht": "指「降水蒸發比」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "definition_cht": "指降水量與蒸發量之比，用以衡量某地區或某時段水分收支中降水補給相對於蒸發耗散的強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation%E2%80%93evaporation_ratio"
   },
   {
     "english": "precipitators",
-    "traditional_chinese": "除塵器",
-    "definition_cht": "指與「除塵器」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "集塵器",
+    "definition_cht": "泛指以機械、慣性、濾材或電力作用，自氣流中移除粒狀污染物的設備；在大氣污染控制中常包括靜電集塵器等裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitators"
   },
   {
     "english": "precision",
-    "traditional_chinese": "精確",
-    "definition_cht": "指與「精確」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "精密度",
+    "definition_cht": "量測學中指重複觀測或重複測量結果彼此接近的一致程度；精密度高不必然代表接近真值，須與準確度區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/precision"
   },
   {
     "english": "Predecessor rain event",
-    "traditional_chinese": "前次降雨事件",
-    "definition_cht": "指與「前次降雨事件」相關的降雨、雨量或雨滴過程，常用於天氣分析與水文應用。",
+    "traditional_chinese": "前導降雨事件",
+    "definition_cht": "發生於熱帶氣旋主體抵達前數百公里外的強降雨事件，通常由氣旋輸送的高含水氣流與中緯度鋒面、低層噴流或地形抬升交互作用所觸發。",
     "source_url": "https://glossary.ametsoc.org/wiki/Predecessor_rain_event"
   },
   {
     "english": "predictability",
-    "traditional_chinese": "可預測性",
-    "definition_cht": "指與「可預測性」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "可預報度",
+    "definition_cht": "指在給定初始條件、邊界條件與模式能力下，未來大氣或海氣系統狀態可被可靠預測的程度；其高低受初值誤差、非線性成長與外強迫影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/predictability"
   },
   {
     "english": "predictability limit",
-    "traditional_chinese": "可預測性極限",
-    "definition_cht": "指與「可預測性極限」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "可預報度極限",
+    "definition_cht": "指預報誤差隨時間成長至使有用預報技巧喪失時所對應的最長可預報時效，常用於描述天氣或氣候系統理論上的預測上限。",
     "source_url": "https://glossary.ametsoc.org/wiki/predictability_limit"
   },
   {
     "english": "prediction",
-    "traditional_chinese": "預言",
-    "definition_cht": "指與「預言」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "預測",
+    "definition_cht": "根據理論、觀測資料、統計方法或數值模式，對未來大氣、海洋或環境狀態所作的推估；在氣象實務中常與預報密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/prediction"
   },
   {
