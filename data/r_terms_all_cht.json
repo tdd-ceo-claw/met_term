@@ -205,122 +205,122 @@
   },
   {
     "english": "radar sounding",
-    "traditional_chinese": "雷達偵測",
-    "definition_cht": "指與「雷達偵測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "traditional_chinese": "雷達探空",
+    "definition_cht": "利用雷達追蹤探空氣球或其他目標，以測定其方位、仰角與距離，進而推算高空風場或大氣垂直結構的探空觀測方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_sounding"
   },
   {
     "english": "radar storm detection",
     "traditional_chinese": "雷達風暴偵測",
-    "definition_cht": "指與「雷達風暴偵測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "利用天氣雷達回波辨識、追蹤並預警對流風暴的作業或演算法，可用於判定強降雨、冰雹、劇烈對流與可能的龍捲風徵象。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_storm_detection"
   },
   {
     "english": "radar theodolite",
     "traditional_chinese": "雷達經緯儀",
-    "definition_cht": "指與「雷達經緯儀」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "用於追蹤探空氣球的雷達測角設備，可量測目標的方位角、仰角與距離，並據以推算不同高度的風向與風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_theodolite"
   },
   {
     "english": "radar weather observation",
     "traditional_chinese": "雷達氣象觀測",
-    "definition_cht": "指與「雷達氣象觀測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "利用氣象雷達觀測降水、雲系與風暴結構的作業，可提供回波位置、強度、移動與組織型態等資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_weather_observation"
   },
   {
     "english": "radar wind sounding",
-    "traditional_chinese": "雷達測風",
-    "definition_cht": "指與「雷達測風」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "traditional_chinese": "雷達測風探空",
+    "definition_cht": "利用雷達追蹤探空氣球或大氣散射體，取得不同高度風向與風速垂直分布的觀測方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_wind_sounding"
   },
   {
     "english": "radar wind system",
     "traditional_chinese": "雷達測風系統",
-    "definition_cht": "指與「雷達測風系統」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "以雷達為核心量測風場的觀測系統，可連續提供風向、風速及其隨高度或空間變化的資訊，常用於機場、邊界層與研究觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_wind_system"
   },
   {
     "english": "radar–rain gauge comparison",
     "traditional_chinese": "雷達與雨量計比較",
-    "definition_cht": "指與「雷達與雨量計比較」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "將雷達估算降雨與地面雨量計實測值相互比對的程序，用於檢驗偏差、校正定量降水估計，並評估雷達降雨產品的可靠度。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar%E2%80%93rain_gauge_comparison"
   },
   {
     "english": "radarscope",
     "traditional_chinese": "雷達示波器",
-    "definition_cht": "指與「雷達示波器」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "以極座標方式顯示雷達回波位置與強度的顯示裝置或螢幕，通常以雷達站為中心呈現目標的方位與距離分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/radarscope"
   },
   {
     "english": "radial inflow",
     "traditional_chinese": "徑向流入",
-    "definition_cht": "指與「徑向流入」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "流體沿半徑方向朝中心移動的流動分量；在颱風、低壓或對流系統中，常指空氣向環流中心匯入的氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/radial_inflow"
   },
   {
     "english": "radial symmetry",
     "traditional_chinese": "徑向對稱",
-    "definition_cht": "指與「徑向對稱」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "某一結構或物理量繞中心點或中心軸向外各方向分布相同的性質；在理想化環流分析中常用以表示軸對稱狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/radial_symmetry"
   },
   {
     "english": "radial velocity",
     "traditional_chinese": "徑向速度",
-    "definition_cht": "指與「徑向速度」相關的速度向量、運移速度或流速結構。",
+    "definition_cht": "物體或氣流沿觀測者視線或雷達波束方向的速度分量；對都卜勒雷達而言，這是直接量得的速度量。",
     "source_url": "https://glossary.ametsoc.org/wiki/radial_velocity"
   },
   {
     "english": "radial wind",
     "traditional_chinese": "徑向風",
-    "definition_cht": "指與「徑向風」相關的風場、局地風、環流或風速風向特徵。",
+    "definition_cht": "相對於某中心點沿半徑方向吹送的風分量，可為向中心的流入風，也可為離中心的流出風。",
     "source_url": "https://glossary.ametsoc.org/wiki/radial_wind"
   },
   {
     "english": "radian",
-    "traditional_chinese": "弧度",
-    "definition_cht": "指與「弧度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "弳度",
+    "definition_cht": "平面角單位，指弧長等於半徑時所對應的圓心角；一整圓為 2π 弳度，常用於波動、輻射與動力學公式。",
     "source_url": "https://glossary.ametsoc.org/wiki/radian"
   },
   {
     "english": "radiance",
-    "traditional_chinese": "輻射",
-    "definition_cht": "指與「輻射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "輻亮度",
+    "definition_cht": "單位投影面積、單位立體角內的輻射通量，是描述某方向上輻射強弱的重要量，在衛星遙測與輻射傳輸中廣泛使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiance"
   },
   {
     "english": "radiant",
-    "traditional_chinese": "容光煥發的",
-    "definition_cht": "指與「容光煥發的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "輻射的",
+    "definition_cht": "用以描述與電磁輻射之發射、傳輸、接收或量測有關的性質；在輻射度學中常用來區別經人眼視覺加權的光度量。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant"
   },
   {
     "english": "radiant density",
-    "traditional_chinese": "輻射密度",
-    "definition_cht": "指與「輻射密度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "輻射能密度",
+    "definition_cht": "單位體積內所含的輻射能量，用以表示某空間中輻射場的能量密集程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant_density"
   },
   {
     "english": "radiant energy",
     "traditional_chinese": "輻射能",
-    "definition_cht": "指與「輻射能」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以電磁波形式傳輸的能量，可由輻射通量對時間積分求得，常用於描述太陽與地球系統的能量交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant_energy"
   },
   {
     "english": "radiant exitance",
     "traditional_chinese": "輻射出射度",
-    "definition_cht": "指與「輻射出射度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "單位面積表面向外發射的輻射通量密度，用以表示表面發出輻射能的強弱，SI 單位為瓦特每平方公尺。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant_exitance"
   },
   {
     "english": "radiant exposure",
-    "traditional_chinese": "輻射暴露",
-    "definition_cht": "指與「輻射暴露」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "輻射曝露",
+    "definition_cht": "表面在一段時間內所接收的輻照度積分，亦即單位面積累積接收到的輻射能量，SI 單位為焦耳每平方公尺。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant_exposure"
   },
   {
     "english": "radiant flux",
     "traditional_chinese": "輻射通量",
-    "definition_cht": "指與「輻射通量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "單位時間內發射、穿過、接收或反射的輻射能量，又稱輻射功率，是輻射度學的基本量之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant_flux"
   },
   {
