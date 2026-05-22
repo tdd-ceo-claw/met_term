@@ -326,121 +326,121 @@
   {
     "english": "radiant flux density",
     "traditional_chinese": "輻射通量密度",
-    "definition_cht": "指與「輻射通量密度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "單位面積上接收、發射或穿越某表面的輻射通量大小，常以 W/m² 表示；在氣象與遙測中用來描述地表、雲層或大氣層的輻射收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant_flux_density"
   },
   {
     "english": "radiant intensity",
     "traditional_chinese": "輻射強度",
-    "definition_cht": "指與「輻射強度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "輻射源在特定方向上每單位立體角所發出的輻射通量，為具方向性的輻射量，常用於描述光源、天線或遙測儀器的發射特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant_intensity"
   },
   {
     "english": "radiant-energy thermometer",
-    "traditional_chinese": "輻射能量溫度計",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
+    "traditional_chinese": "輻射式溫度計",
+    "definition_cht": "利用物體發出的熱輻射能量推算其溫度的非接觸式溫度計，常以紅外線波段量測，結果受發射率與背景輻射影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiant-energy_thermometer"
   },
   {
     "english": "radiation",
     "traditional_chinese": "輻射",
-    "definition_cht": "指與「輻射」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "能量以電磁波形式在空間中傳播的過程；在大氣科學中主要指太陽短波與地球長波輻射及其吸收、放射、散射與收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation"
   },
   {
     "english": "radiation belts",
     "traditional_chinese": "輻射帶",
-    "definition_cht": "指與「輻射帶」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "行星磁層內聚集高能帶電粒子的區域；就地球而言通常指范艾倫輻射帶，粒子多來自太陽風與宇宙線，對衛星與太空任務具有輻射風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_belts"
   },
   {
     "english": "radiation chart",
     "traditional_chinese": "輻射圖",
-    "definition_cht": "指與「輻射圖」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "以圖形方式表示輻射量隨時間、波長、方向或高度變化的圖表，可用於分析日射、地球長波輻射或儀器量測結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_chart"
   },
   {
     "english": "radiation fog",
     "traditional_chinese": "輻射霧",
-    "definition_cht": "指與「輻射霧」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "夜間地表因長波輻射散熱而迅速冷卻，使近地層空氣降至露點後形成的霧，常出現在晴朗、微風且近地面濕度高的情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_fog"
   },
   {
     "english": "radiation frost",
     "traditional_chinese": "輻射霜",
-    "definition_cht": "指與「輻射霜」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "晴朗少雲且風弱的夜晚，地表強烈輻射冷卻使表面溫度降至冰點以下，水氣直接凝華或凍結在物體表面所形成的霜。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_frost"
   },
   {
     "english": "radiation inversion",
-    "traditional_chinese": "輻射逆演",
-    "definition_cht": "指與「輻射逆演」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "traditional_chinese": "輻射逆溫",
+    "definition_cht": "由地表夜間輻射冷卻造成的近地層逆溫層，即氣溫隨高度短距離上升而增加，常見於晴朗、微風的清晨。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_inversion"
   },
   {
     "english": "radiation laws",
     "traditional_chinese": "輻射定律",
-    "definition_cht": "指與「輻射定律」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "描述黑體或一般物體熱輻射性質的基本物理定律總稱，如普朗克定律、維恩位移定律與史蒂芬－波茲曼定律等。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_laws"
   },
   {
     "english": "radiation model",
-    "traditional_chinese": "輻射模型",
-    "definition_cht": "指與「輻射模型」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "traditional_chinese": "輻射模式",
+    "definition_cht": "用以計算大氣、雲、氣膠與地表之間吸收、放射與散射過程的數值模式或參數化方案，是天氣與氣候模式能量收支計算的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_model"
   },
   {
     "english": "radiation pattern",
     "traditional_chinese": "輻射方向圖",
-    "definition_cht": "指與「輻射方向圖」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "表示電磁波或輻射源在不同方向上輻射強弱分布的圖形；在雷達、天線與遙測系統中常用以描述波束形狀與指向性。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_pattern"
   },
   {
     "english": "radiation pressure",
-    "traditional_chinese": "輻射壓力",
-    "definition_cht": "指與「輻射壓力」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "traditional_chinese": "輻射壓",
+    "definition_cht": "電磁輻射因攜帶動量而作用在物體表面的壓力；當輻射被吸收、反射或再放射時會產生力，在太空物理與天體動力學中特別重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_pressure"
   },
   {
     "english": "radiation shield",
-    "traditional_chinese": "輻射屏蔽",
-    "definition_cht": "指與「輻射屏蔽」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "traditional_chinese": "輻射遮罩",
+    "definition_cht": "設於感測器外部、用以阻隔直射與反射輻射加熱但仍允許空氣流通的防護裝置；氣象觀測中常用於溫度與濕度感測器以降低日照誤差。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_shield"
   },
   {
     "english": "radiation torque",
     "traditional_chinese": "輻射扭矩",
-    "definition_cht": "指與「輻射扭矩」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "物體因吸收、放射或散射電磁輻射而受到的扭轉力矩；在微粒定向、衛星姿態與輻射動力學研究中可作為重要作用力。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiation_torque"
   },
   {
     "english": "radiational cooling",
     "traditional_chinese": "輻射冷卻",
-    "definition_cht": "指與「輻射冷卻」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "物體或空氣團因向外發射長波輻射而失去能量、導致溫度下降的過程；夜間地表降溫、霧與逆溫形成常與此有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiational_cooling"
   },
   {
     "english": "radiational tide",
     "traditional_chinese": "輻射潮",
-    "definition_cht": "指與「輻射潮」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "由太陽週期性加熱大氣所激發的全球尺度大氣潮汐之一，表現為氣壓、溫度、風場等要素的規律性日變化或半日變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiational_tide"
   },
   {
     "english": "radiative cooling",
     "traditional_chinese": "輻射冷卻",
-    "definition_cht": "指與「輻射冷卻」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "與 radiational cooling 同義，指系統因淨向外放射熱輻射而降溫的過程；在近地層夜間冷卻與行星能量平衡分析中常用此語。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiative_cooling"
   },
   {
     "english": "radiative equilibrium",
     "traditional_chinese": "輻射平衡",
-    "definition_cht": "指與「輻射平衡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "系統吸收的總輻射能量與放出的總輻射能量相等的狀態；此時淨輻射為零，但不必然代表整體已達完整熱力平衡。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiative_equilibrium"
   },
   {
     "english": "radiative flux density",
     "traditional_chinese": "輻射通量密度",
-    "definition_cht": "指與「輻射通量密度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "與 radiant flux density 同義，指單位面積上的輻射通量，可依方向區分為入射、出射、上行或下行分量，為輻射觀測與能量收支分析的基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiative_flux_density"
   },
   {
