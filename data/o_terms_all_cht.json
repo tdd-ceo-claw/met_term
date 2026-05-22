@@ -740,121 +740,121 @@
   {
     "english": "orographic wind flow",
     "traditional_chinese": "地形風流",
-    "definition_cht": "「地形風流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指氣流受山地或其他地形抬升、繞流、阻擋或下沉而形成的風場流動型態；常用於描述風越山、迎背風側加減速及其伴隨的雲雨或亂流分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_wind_flow"
   },
   {
     "english": "orography",
     "traditional_chinese": "地形學",
-    "definition_cht": "「地形學」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指地表起伏，尤其是山脈與高地地勢的描述與研究；在氣象上常作為影響氣流、降水分布與模式下邊界條件的重要地形背景。",
     "source_url": "https://glossary.ametsoc.org/wiki/orography"
   },
   {
     "english": "oroshi",
-    "traditional_chinese": "奧羅西",
-    "definition_cht": "「奧羅西」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "颪風（Oroshi）",
+    "definition_cht": "日本語對山坡下吹強風的稱呼，通常指由山地向平地吹送的局地下降風；在本州關東平原一帶可指寒冷而陣性的焚風或下坡風型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/oroshi"
   },
   {
     "english": "orsure",
-    "traditional_chinese": "奧蘇爾",
-    "definition_cht": "「奧蘇爾」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "奧蘇爾風",
+    "definition_cht": "局地風名。現有可交叉取得的公開資料很少，通常作為特定地區風名收錄；宜審慎理解為某地習用的地方風稱，而非普遍通行的通用氣象名詞。",
     "source_url": "https://glossary.ametsoc.org/wiki/orsure"
   },
   {
     "english": "orthogonal",
     "traditional_chinese": "正交",
-    "definition_cht": "「正交」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指兩個方向、向量、函數或訊號彼此成直角，或在所採用的內積定義下互不相關；在氣象分析、遙測與雷達訊號處理中常用以表示彼此可區分的獨立分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/orthogonal"
   },
   {
     "english": "orthogonal antennas",
     "traditional_chinese": "正交天線",
-    "definition_cht": "「正交天線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指兩組極化方向互成直角的天線配置，常用來分別發射或接收水平與垂直偏振訊號，以支援雷達、遙測或通訊中的偏振量測與分離。",
     "source_url": "https://glossary.ametsoc.org/wiki/orthogonal_antennas"
   },
   {
     "english": "orthogonal functions",
     "traditional_chinese": "正交函數",
-    "definition_cht": "「正交函數」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "在指定內積下，其乘積積分為零的一組函數；常用於展開場變量、濾波或建立數值模式中的基底函數，例如傅立葉級數與經驗正交函數分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/orthogonal_functions"
   },
   {
     "english": "orthogonal lines",
     "traditional_chinese": "正交線",
-    "definition_cht": "「正交線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "彼此相交成九十度的線；在地圖投影、座標系與向量幾何中用以表示互相垂直的方向或網格。",
     "source_url": "https://glossary.ametsoc.org/wiki/orthogonal_lines"
   },
   {
     "english": "Oscillation",
     "traditional_chinese": "振盪",
-    "definition_cht": "「振盪」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指某一物理量或系統狀態隨時間在平衡值附近作週期性或準週期性往復變化；氣象上常用於描述如南方振盪等指數或環流型態的交替起伏。",
     "source_url": "https://glossary.ametsoc.org/wiki/Oscillation"
   },
   {
     "english": "oscillator",
     "traditional_chinese": "振盪器",
-    "definition_cht": "「振盪器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "能持續產生週期性電訊號或機械振動的裝置或電路；在雷達、通訊與儀器系統中常作為頻率基準、時脈或載波來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/oscillator"
   },
   {
     "english": "osmometer",
     "traditional_chinese": "滲透壓計",
-    "definition_cht": "「滲透壓計」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "用於量測溶液滲透濃度或滲透壓相關量值的儀器；可藉冰點下降、蒸氣壓或膜平衡等方法估算溶液中溶質造成的滲透效應強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/osmometer"
   },
   {
     "english": "osmosis",
     "traditional_chinese": "滲透作用",
-    "definition_cht": "「滲透作用」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指溶劑分子經半透膜由低溶質濃度側向高溶質濃度側的自發淨移動過程，直到兩側化學勢趨於平衡；為生物體與膜分離過程中的基本傳輸機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/osmosis"
   },
   {
     "english": "Osos wind",
     "traditional_chinese": "奧索斯風",
-    "definition_cht": "「奧索斯風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。",
+    "definition_cht": "局地風名。可取得的公開資料有限，通常視為特定地區使用的地方性風稱；解讀上宜視為某一局部風系或地名相關風名，而非廣泛使用的標準分類名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Osos_wind"
   },
   {
     "english": "OSSE",
-    "traditional_chinese": "OSSE",
-    "definition_cht": "「OSSE」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "traditional_chinese": "觀測系統模擬實驗（OSSE）",
+    "definition_cht": "Observing System Simulation Experiment 的縮寫，指以數值模式與模擬觀測資料評估新觀測系統、量測策略或同化方法效益的實驗設計。",
     "source_url": "https://glossary.ametsoc.org/wiki/OSSE"
   },
   {
     "english": "ostria",
-    "traditional_chinese": "奧斯特里亞",
-    "definition_cht": "「奧斯特里亞」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "奧斯特里亞風",
+    "definition_cht": "局地風名。公開可交叉查得資料不多，一般收錄為特定區域的地方風稱；使用時宜理解為區域性風名，而非全球通用的標準風系術語。",
     "source_url": "https://glossary.ametsoc.org/wiki/ostria"
   },
   {
     "english": "OSV",
-    "traditional_chinese": "OSV",
-    "definition_cht": "「OSV」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "traditional_chinese": "海洋測站船（OSV）",
+    "definition_cht": "ocean station vessel 的縮寫，指派駐海上固定測站或巡守海域、持續執行海面與高空氣象觀測的遠洋船舶，常兼負天氣回報與海況監測任務。",
     "source_url": "https://glossary.ametsoc.org/wiki/OSV"
   },
   {
     "english": "OTD",
-    "traditional_chinese": "OTD",
-    "definition_cht": "「OTD」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "traditional_chinese": "光學瞬變探測儀（OTD）",
+    "definition_cht": "Optical Transient Detector 的縮寫，為利用可見光閃光訊號自太空偵測閃電活動的衛星儀器，用於建立全球雷電分布與發生頻率資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/OTD"
   },
   {
     "english": "ouari",
-    "traditional_chinese": "烏阿里",
-    "definition_cht": "「烏阿里」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "烏阿里風",
+    "definition_cht": "局地風名。現階段可公開交叉取得的資料相當有限，宜保守理解為某地慣用的地方性風名或區域風稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/ouari"
   },
   {
     "english": "outer atmosphere",
     "traditional_chinese": "外層大氣",
-    "definition_cht": "「外層大氣」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "通常指接近大氣上界的高層區域，約略涵蓋熱層與外逸層等部分；該區空氣極稀薄，受太陽輻射、電離與高能粒子作用明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/outer_atmosphere"
   },
   {
     "english": "outer layer",
     "traditional_chinese": "外層",
-    "definition_cht": "「外層」指大氣、海洋、冰雪或地表環境中的一個特定層次，具有相對明確的熱力、動力或組成特徵。",
+    "definition_cht": "指某一介質、系統或層狀結構最外側的部分；在氣象與地球科學語境中，可用於描述大氣、海洋、冰層或地表材料的外側層帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/outer_layer"
   },
   {
