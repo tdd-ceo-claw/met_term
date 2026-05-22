@@ -35462,7 +35462,7 @@
   {
     "english": "opacity",
     "traditional_chinese": "不透明度",
-    "definition_cht": "不透明度指介質對輻射通過的阻礙程度，反映吸收與散射造成的衰減強弱；在大氣輻射、雲微物理與天體物理中，常用以描述光線或其他電磁輻射穿透介質的難易。",
+    "definition_cht": "「不透明度」指介質對光或其他電磁輻射通過的阻礙程度，用以綜合表示吸收與散射所造成的衰減強弱；數值愈大，表示輻射愈不易穿透該介質，在大氣輻射、雲微物理與天文物理中皆為重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/opacity"
   },
   {
@@ -35480,7 +35480,7 @@
   {
     "english": "open cells",
     "traditional_chinese": "開放胞狀對流",
-    "definition_cht": "開放胞狀對流指一種中尺度胞格對流型態，其雲帶多分布於胞格邊界、中心相對較晴朗；常出現在冷空氣流經較暖海面時，與邊界層對流及熱量、水氣通量有關。",
+    "definition_cht": "「開放胞狀對流」指邊界層中尺度對流的一種胞格型態，雲帶多沿胞格邊界分布，胞格中央相對較少雲或較晴朗；常見於冷空氣移經較暖海面時的海洋層積雲區，從衛星影像上常呈蜂巢狀結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/open_cells"
   },
   {
@@ -35498,13 +35498,13 @@
   {
     "english": "open-cell cumulus",
     "traditional_chinese": "開放胞狀積雲",
-    "definition_cht": "開放胞狀積雲指排列成開放胞格的積雲或層積雲雲場，雲多沿胞格邊緣發展而中央較少雲；常見於海洋冷空氣爆發後的邊界層，從衛星影像上呈蜂巢狀外觀。",
+    "definition_cht": "「開放胞狀積雲」指呈開放胞格排列的積雲或層積雲雲場，雲主要發展在胞格邊緣而中央較少雲；常出現在冷空氣爆發後的海洋邊界層，為開放胞狀對流的典型雲系表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/open-cell_cumulus"
   },
   {
     "english": "Operational Linescan System",
     "traditional_chinese": "作業線掃描系統",
-    "definition_cht": "作業線掃描系統（Operational Linescan System, OLS）為美國國防氣象衛星計畫所搭載的掃描式感測器，可觀測可見光與熱紅外輻射，廣用於雲系、夜間燈光、極光及海冰等遙測分析。",
+    "definition_cht": "「作業線掃描系統」(Operational Linescan System, OLS) 是美國國防氣象衛星計畫（DMSP）搭載的掃描式遙測儀器，可在可見光與熱紅外波段觀測雲系、夜間燈光、極光、海冰與地表背景亮度，長期廣用於氣象與環境遙測分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Operational_Linescan_System"
   },
   {
@@ -35516,13 +35516,13 @@
   {
     "english": "operational weather limits",
     "traditional_chinese": "作業天氣限制",
-    "definition_cht": "作業天氣限制指飛航、航海、地面作業或特定任務在執行時可容許的天氣條件上限或下限，如風速、雲底高、能見度、降水或結冰條件等安全門檻。",
+    "definition_cht": "「作業天氣限制」指飛航、航海、地面作業或特定任務在執行時所容許的天氣條件門檻，例如風速、陣風、能見度、雲底高、降水、結冰或雷暴條件等；超出限制時，作業通常須延後、調整或中止。",
     "source_url": "https://glossary.ametsoc.org/wiki/operational_weather_limits"
   },
   {
     "english": "operative temperature",
     "traditional_chinese": "作用溫度",
-    "definition_cht": "作用溫度指將空氣溫度與周圍表面平均輻射溫度綜合後，用以表示人體熱感受的等效溫度指標；在低風速下常作為熱舒適評估的重要參數。",
+    "definition_cht": "「作用溫度」是綜合空氣溫度與平均輻射溫度後，用以描述人體熱舒適感受的等效溫度指標；在低風速條件下，其常近似為兩者的加權平均，廣用於建築環境與熱舒適評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/operative_temperature"
   },
   {
@@ -35540,37 +35540,37 @@
   {
     "english": "opposition",
     "traditional_chinese": "衝",
-    "definition_cht": "衝（opposition）指外行星、小行星或月球等天體與太陽分處地球兩側、其黃經相差約一百八十度的位置；此時該天體通常最適合夜間觀測，並常接近較大視直徑或較高亮度。",
+    "definition_cht": "「衝」是天文學術語，指外行星、小行星或月球等天體與太陽在天球上分居地球兩側、黃經相差約 180 度的位置；此時該天體通常於日落前後升起、日出前後落下，整夜較易觀測，且常接近較大視直徑或較高亮度。",
     "source_url": "https://glossary.ametsoc.org/wiki/opposition"
   },
   {
     "english": "optical air mass",
     "traditional_chinese": "光學空氣質量",
-    "definition_cht": "光學空氣質量指天體光線穿越地球大氣時的相對路徑長度，通常以天頂方向路徑為 1；太陽或星體越接近地平，光程越長，消光與折射等大氣效應也越明顯。",
+    "definition_cht": "「光學空氣質量」指沿觀測視線穿越地球大氣的空氣量相對於天頂方向標準路徑的比值；天體愈接近地平線，光學空氣質量通常愈大，因此大氣消光、散射與折射效應也會更明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_air_mass"
   },
   {
     "english": "optical counter",
     "traditional_chinese": "光學粒子計數器",
-    "definition_cht": "光學粒子計數器指利用粒子通過光束時造成的散射、遮蔽或脈衝訊號來偵測並計數粒子的儀器，可估算粒徑分布與濃度，常用於氣膠、雲滴與潔淨環境監測。",
+    "definition_cht": "「光學粒子計數器」是利用粒子穿越光束時產生的散射光、遮光或脈衝訊號進行偵測與計數的儀器，可估算粒子數濃度及粒徑分布；常用於氣膠、雲滴、潔淨室與空氣品質監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_counter"
   },
   {
     "english": "optical depth",
     "traditional_chinese": "光學厚度",
-    "definition_cht": "光學厚度指輻射通過某介質時因吸收與散射累積造成的無因次衰減量；數值越大表示介質越不易透光，在雲、氣膠與大氣輻射傳輸研究中常作為重要參數。",
+    "definition_cht": "「光學厚度」是描述輻射沿路徑穿越介質時，因吸收與散射累積所造成衰減程度的無因次量；數值愈大表示介質愈不易透光，在雲、氣膠與大氣輻射傳輸研究中為核心參數，亦常稱 optical thickness。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_depth"
   },
   {
     "english": "optical hygrometer",
     "traditional_chinese": "光學濕度計",
-    "definition_cht": "光學濕度計指利用光譜吸收、折射或其他光學效應量測水氣含量的儀器，可用於高精度觀測露點、混合比或絕對濕度，常見於大氣探測與實驗室校正。",
+    "definition_cht": "「光學濕度計」是利用水汽對特定波長光的吸收、折射或其他光學效應量測濕度的儀器，可推算水汽混合比、露點或絕對濕度，常用於高精度大氣探測、機載觀測與實驗室校正。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_hygrometer"
   },
   {
     "english": "optical imaging probe",
     "traditional_chinese": "光學成像探針",
-    "definition_cht": "光學成像探針指雲與降水微物理觀測中，利用高速光學成像記錄粒子穿越取樣區外形與尺度的探測器，可分析冰晶、雪粒、雨滴等粒子的大小、形狀與粒徑分布。",
+    "definition_cht": "「光學成像探針」指雲與降水微物理觀測中，利用高速光學成像記錄粒子穿越取樣區時之外形與尺度的探測器，可分析雨滴、雪粒、冰晶等粒子的大小、形狀與粒徑分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/optical_imaging_probe"
   },
   {
