@@ -2305,122 +2305,122 @@
   },
   {
     "english": "poriaz",
-    "traditional_chinese": "波里亞茲",
-    "definition_cht": "指與「波里亞茲」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "波里亞茲風",
+    "definition_cht": "地方性風名，通常指特定地區依地形與氣壓配置形成的局地風；實際風向、季節性與影響範圍須依原始地方氣候文獻或區域用法判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/poriaz"
   },
   {
     "english": "Porlezzina",
-    "traditional_chinese": "波爾萊齊納",
-    "definition_cht": "指與「波爾萊齊納」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "波爾萊齊納風",
+    "definition_cht": "義大利湖區使用的地方性風名，屬受地形導引的局地風，常與鄰近山谷、湖面與日夜氣壓差所造成的風場循環有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Porlezzina"
   },
   {
     "english": "porosity",
     "traditional_chinese": "孔隙率",
-    "definition_cht": "指與「孔隙率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指材料、土壤、岩石或沉積物中孔隙體積占總體積的比例，用以描述介質可容納空氣或水分的空隙程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/porosity"
   },
   {
     "english": "porous medium",
     "traditional_chinese": "多孔介質",
-    "definition_cht": "指與「多孔介質」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指內部含有彼此連通或部分連通孔隙的介質，如土壤、岩石、雪層或泡沫材料；流體在其中多以滲流方式運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/porous_medium"
   },
   {
     "english": "PORTS",
-    "traditional_chinese": "連接埠",
-    "definition_cht": "「PORTS」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
+    "traditional_chinese": "實時海洋觀測系統",
+    "definition_cht": "通常指 NOAA 的 PORTS（Physical Oceanographic Real-Time System），為在港口與航道即時量測水位、潮流、風、波浪與氣象條件的沿岸海洋觀測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/PORTS"
   },
   {
     "english": "Portugal Current",
     "traditional_chinese": "葡萄牙海流",
-    "definition_cht": "指與「葡萄牙海流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "definition_cht": "北大西洋東部沿葡萄牙與伊比利半島外海向南流動的弱海流，常被視為加那利海流系統的北段或其相鄰支流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Portugal_Current"
   },
   {
     "english": "position vector",
     "traditional_chinese": "位置向量",
-    "definition_cht": "指「位置向量」所代表的向量診斷量，常用於分析大氣運動、鋒生、渦度或垂直運動強迫。",
+    "definition_cht": "自座標原點指向空間中某一點的向量，用以表示該點的位置；其大小對應原點至該點的距離，方向則指向該點。",
     "source_url": "https://glossary.ametsoc.org/wiki/position_vector"
   },
   {
     "english": "positive cloud-to-ground lightning",
-    "traditional_chinese": "正雲閃電",
-    "definition_cht": "指與「正雲閃電」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "traditional_chinese": "正雲對地閃電",
+    "definition_cht": "指由雲體向地面傳輸正電荷的雲對地閃電，發生頻率較負雲對地閃電低，但單次放電電流往往較強，破壞力也可能較大。",
     "source_url": "https://glossary.ametsoc.org/wiki/positive_cloud-to-ground_lightning"
   },
   {
     "english": "positive discharge",
     "traditional_chinese": "正放電",
-    "definition_cht": "指與「正放電」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指以正電荷向外傳輸或由正極性主導的電性放電過程；在大氣電學中可用於描述正極性閃電、電暈或其他正極性放電現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/positive_discharge"
   },
   {
     "english": "positive feedback",
-    "traditional_chinese": "正面的回饋",
-    "definition_cht": "指與「正面的回饋」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "正回饋",
+    "definition_cht": "指系統輸出會進一步增強原先擾動或驅動作用的回饋機制，因而使變化持續放大；在氣候系統中常用以描述自我增強的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/positive_feedback"
   },
   {
     "english": "positive isothermal vorticity advection",
     "traditional_chinese": "正等溫渦度平流",
-    "definition_cht": "指與「正等溫渦度平流」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指在等溫分析上，較高渦度被氣流平流帶入某區域的情形；常作為診斷高空動力強迫、上升運動與天氣發展潛勢的指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/positive_isothermal_vorticity_advection"
   },
   {
     "english": "positive rain",
-    "traditional_chinese": "正雨",
-    "definition_cht": "指與「正雨」相關的降雨、雨量或雨滴過程，常用於天氣分析與水文應用。",
+    "traditional_chinese": "正電雨",
+    "definition_cht": "指雨滴攜帶淨正電荷的降水現象，屬大氣電學用語，可反映雲中電荷分離與降水粒子帶電特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/positive_rain"
   },
   {
     "english": "positron",
     "traditional_chinese": "正電子",
-    "definition_cht": "指與「正電子」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "電子的反粒子，帶有與電子等量而相反的正電荷，質量與自旋與電子相同。",
     "source_url": "https://glossary.ametsoc.org/wiki/positron"
   },
   {
     "english": "postfrontal fog",
-    "traditional_chinese": "額後霧",
-    "definition_cht": "指與「額後霧」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
+    "traditional_chinese": "鋒後霧",
+    "definition_cht": "冷鋒或其他鋒面通過後，在後側較冷空氣移入暖濕下墊面或近地層冷卻增濕時形成的霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/postfrontal_fog"
   },
   {
     "english": "Postprocessing",
     "traditional_chinese": "後處理",
-    "definition_cht": "指與「後處理」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指對模式輸出、觀測資料或影像產品在主要計算或量測完成後再進行校正、轉換、分析、平滑、統計或視覺化等處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/Postprocessing"
   },
   {
     "english": "potamology",
-    "traditional_chinese": "植物學",
-    "definition_cht": "指與「植物學」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "河川學",
+    "definition_cht": "研究河川與河流水系之流動、地形、輸砂、生態與水文特性的學科，屬水文學與河川科學的重要分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/potamology"
   },
   {
     "english": "potential",
-    "traditional_chinese": "潛在的",
-    "definition_cht": "指與「潛在的」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "勢",
+    "definition_cht": "在物理與地球科學中通常指位勢或勢函數，即每單位質量、電荷或其他廣義量在力場中的位能性質，可用以推導相關力或通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential"
   },
   {
     "english": "potential density",
-    "traditional_chinese": "勢密度",
-    "definition_cht": "指與「勢密度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "位密度",
+    "definition_cht": "流體微團若絕熱移至指定參考壓力後所具有的密度；海洋學常用此量比較不同深度水團的密度性質並分析層結穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_density"
   },
   {
     "english": "potential drop",
-    "traditional_chinese": "潛在下降",
-    "definition_cht": "指與「潛在下降」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "電位降",
+    "definition_cht": "指電流沿導體、元件或放電通道傳輸時，兩點之間電位降低的量；其大小常與電阻、電流及能量耗散有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_drop"
   },
   {
     "english": "potential energy",
     "traditional_chinese": "位能",
-    "definition_cht": "指與「位能」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "物體或系統因其在力場中的位置、構形或相對排列而具有的能量，如重力位能、彈性位能或電位能。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_energy"
   },
   {
