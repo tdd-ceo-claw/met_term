@@ -37124,121 +37124,121 @@
   {
     "english": "phase space",
     "traditional_chinese": "相空間",
-    "definition_cht": "以系統所有獨立狀態變數為坐標所構成的抽象空間，其中每一點代表系統的一個完整狀態。動力系統在相空間中的軌跡可用來分析其演變、穩定性、週期解與吸引子結構。",
+    "definition_cht": "以系統各獨立狀態變數為座標所構成的抽象空間；其中每一點唯一對應系統的一個完整狀態，常用以描述動力系統的演變軌跡、穩定性與吸引子結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_space"
   },
   {
     "english": "phase spectrum",
     "traditional_chinese": "相位譜",
-    "definition_cht": "指與「相位譜」相關之頻譜分布，用於分析能量、變異或相位在頻率空間中的配置。",
+    "definition_cht": "頻譜分析中各頻率分量相位角隨頻率分布所形成的譜，用以描述訊號不同頻率成分之相位關係，並常與振幅譜配合解釋波形結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_spectrum"
   },
   {
     "english": "phase speed",
     "traditional_chinese": "相速度",
-    "definition_cht": "指與「相速度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "波動中某一固定相位點（如波峰或波谷）向前傳播的速度；對正弦波而言通常可寫為角頻率除以波數，且未必等於群速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_speed"
   },
   {
     "english": "phase velocity",
     "traditional_chinese": "相速度",
-    "definition_cht": "指與「相速度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "波動中等相位面或固定相位點的傳播速度，即波峰、波谷等相位特徵前進的速率；在色散介質中常與群速度不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_velocity"
   },
   {
     "english": "phased-array antenna",
     "traditional_chinese": "相控陣天線",
-    "definition_cht": "指與「相控陣天線」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "由多個天線單元組成，藉控制各單元發射或接收訊號的相位差來電子式轉向與塑形波束的天線系統；常用於相控陣雷達與快速掃描觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/phased-array_antenna"
   },
   {
     "english": "phenogram",
-    "traditional_chinese": "表型圖",
-    "definition_cht": "指與「表型圖」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "物候圖",
+    "definition_cht": "以圖形方式呈現植物或動物各項季節性生物事件發生時序的圖表，用於比較不同物種、地點或年份的物候變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/phenogram"
   },
   {
     "english": "phenological observation",
-    "traditional_chinese": "物候觀察",
-    "definition_cht": "指與「物候觀察」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "物候觀測",
+    "definition_cht": "對發芽、開花、結果、落葉、遷徙等季節性生物現象進行系統性記錄與監測的作業，用以分析其與天氣、氣候及環境條件的關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/phenological_observation"
   },
   {
     "english": "phenology",
     "traditional_chinese": "物候學",
-    "definition_cht": "指與「物候學」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "研究生物生命週期中週期性事件發生時間，以及其受季節變化、年際氣候差異與棲地環境影響之科學。",
     "source_url": "https://glossary.ametsoc.org/wiki/phenology"
   },
   {
     "english": "Philippines Current",
     "traditional_chinese": "菲律賓海流",
-    "definition_cht": "指與「菲律賓海流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "definition_cht": "西北太平洋菲律賓群島東側海域的北向海流，輸送暖水並參與北赤道流分叉後的區域環流，對黑潮上游水文結構具有影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Philippines_Current"
   },
   {
     "english": "photochemical air pollution",
     "traditional_chinese": "光化學空氣污染",
-    "definition_cht": "指與「光化學空氣污染」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "氮氧化物與揮發性有機物等前驅物在日照作用下發生光化學反應，生成臭氧、過氧乙醯硝酸酯及其他二次污染物所造成的空氣污染。",
     "source_url": "https://glossary.ametsoc.org/wiki/photochemical_air_pollution"
   },
   {
     "english": "photochemical oxidants",
-    "traditional_chinese": "光化學氧化劑",
-    "definition_cht": "指與「光化學氧化劑」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "光化學氧化物",
+    "definition_cht": "空氣污染中由日照驅動光化學反應生成的一類強氧化性二次污染物，主要包括臭氧及過氧乙醯硝酸酯等，為光化學煙霧的重要成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/photochemical_oxidants"
   },
   {
     "english": "photochemical reaction",
     "traditional_chinese": "光化學反應",
-    "definition_cht": "指與「光化學反應」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "物質吸收光子能量後所引發或加速進行的化學反應，常伴隨電子激發、自由基生成或分子鍵重組。",
     "source_url": "https://glossary.ametsoc.org/wiki/photochemical_reaction"
   },
   {
     "english": "photochemical smog",
     "traditional_chinese": "光化學煙霧",
-    "definition_cht": "指與「光化學煙霧」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "都市大氣中氮氧化物與碳氫化合物在強日照下反應形成、富含臭氧與其他氧化性二次污染物的煙霧型空氣污染。",
     "source_url": "https://glossary.ametsoc.org/wiki/photochemical_smog"
   },
   {
     "english": "photochemistry",
     "traditional_chinese": "光化學",
-    "definition_cht": "指與「光化學」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "研究光與物質交互作用所引發化學變化及其反應機制的化學分支，涵蓋光激發、光分解、光解離與大氣光化學等過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/photochemistry"
   },
   {
     "english": "photoconductive cell",
-    "traditional_chinese": "光電導電池",
-    "definition_cht": "指與「光電導電池」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "光導電元件",
+    "definition_cht": "受光照時其電導率會改變的光敏感測元件，可將入射光強度轉換為電阻或電流變化，常用於輻射與亮度量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoconductive_cell"
   },
   {
     "english": "photodecomposition",
     "traditional_chinese": "光分解",
-    "definition_cht": "指與「光分解」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "化學物質因吸收光能而發生分解的過程，常導致分子鍵斷裂並生成較簡單的產物或自由基。",
     "source_url": "https://glossary.ametsoc.org/wiki/photodecomposition"
   },
   {
     "english": "photodissociation",
     "traditional_chinese": "光解離",
-    "definition_cht": "指與「光解離」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "分子吸收光子後解離為兩個或多個較小碎片的過程，是大氣化學中許多氣體在紫外輻射下生成活性物種的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/photodissociation"
   },
   {
     "english": "photoelectric cell",
-    "traditional_chinese": "光電管",
-    "definition_cht": "指與「光電管」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "光電元件",
+    "definition_cht": "利用光電效應將入射輻射轉換為電流、電壓或電子發射訊號的感測元件，廣用於測光、控制與自動化檢測。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoelectric_cell"
   },
   {
     "english": "photoelectric effect",
     "traditional_chinese": "光電效應",
-    "definition_cht": "指與「光電效應」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "物質吸收足夠頻率的電磁輻射後放出電子，或因此產生可測電性變化的現象，是光電偵測與量子理論的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoelectric_effect"
   },
   {
     "english": "photoelectric photometer",
     "traditional_chinese": "光電光度計",
-    "definition_cht": "指量測「光電光度計」相關物理量的儀器、計量裝置或測定器。",
+    "definition_cht": "以光電元件為檢測器、將入射光訊號轉換為電訊號後進行定量量測的光度計，用於測定光強、亮度或輻射通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoelectric_photometer"
   },
   {
