@@ -37730,121 +37730,121 @@
   {
     "english": "planetary boundary layer",
     "traditional_chinese": "行星邊界層",
-    "definition_cht": "指與「行星邊界層」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "大氣最接近地表的最低層，受地表摩擦、加熱、冷卻與地形影響最明顯，其內風、溫、濕與湍流等性質會在約一小時或更短時間尺度內對地表強迫作出反應；亦稱大氣邊界層。",
     "source_url": "https://glossary.ametsoc.org/wiki/planetary_boundary_layer"
   },
   {
     "english": "planetary circulation",
     "traditional_chinese": "行星環流",
-    "definition_cht": "指與「行星環流」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指行星大氣在全球尺度上的平均環流系統，由太陽輻射受熱不均、自轉與角動量守恆等共同驅動，包含哈德里環流、西風帶、極地環流等大型運動型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/planetary_circulation"
   },
   {
     "english": "planetary vorticity effect",
-    "traditional_chinese": "行星渦旋效應",
-    "definition_cht": "指與「行星渦旋效應」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "行星渦度效應",
+    "definition_cht": "地球自轉造成的科氏參數隨緯度改變，使流體在南北向位移時其行星渦度發生變化並影響流場演變的效應；為羅士比波與 β 效應的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/planetary_vorticity_effect"
   },
   {
     "english": "planetary wave",
     "traditional_chinese": "行星波",
-    "definition_cht": "指與「行星波」相關的波動、擾動或傳播現象，可見於大氣、海洋或電磁系統。",
+    "definition_cht": "在旋轉行星大氣或海洋中，由行星渦度隨緯度變化所支配的大尺度長波，通常指羅士比波；其傳播與振幅會顯著影響中高緯度環流與天氣型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/planetary_wave"
   },
   {
     "english": "planetary-geostrophic",
-    "traditional_chinese": "行星地轉",
-    "definition_cht": "指與「行星地轉」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "行星地轉的",
+    "definition_cht": "指適用於行星尺度且近似維持地轉平衡的流動或理論近似；其運動以水平壓力梯度力與科氏力大致平衡為主，常用於大尺度海洋與大氣動力分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/planetary-geostrophic"
   },
   {
     "english": "plant climate zone",
     "traditional_chinese": "植物氣候帶",
-    "definition_cht": "指與「植物氣候帶」相關的氣候狀態、演變或古氣候特徵。",
+    "definition_cht": "依氣溫、降水、季節性及生長條件等氣候因子所劃分、適合特定植物群落或作物生長的氣候區帶，用於植被分布、農業氣候與生態區劃分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/plant_climate_zone"
   },
   {
     "english": "plasma",
     "traditional_chinese": "電漿",
-    "definition_cht": "指與「電漿」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "由自由電子與帶電離子組成、整體近似電中性的高電離物質狀態，具有高導電性並會對電磁場作出集體反應；常見於電離層、磁層與太空物理環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/plasma"
   },
   {
     "english": "plasmapause",
-    "traditional_chinese": "等離子暫停",
-    "definition_cht": "指與「等離子暫停」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "電漿層頂",
+    "definition_cht": "地球電漿層的外邊界，其特徵為電漿密度在短距離內顯著下降，常用以區分較高密度的內側電漿層與外側磁層區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/plasmapause"
   },
   {
     "english": "plasmasphere",
     "traditional_chinese": "電漿層",
-    "definition_cht": "指與「電漿層」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "位於地球內磁層、沿磁力線分布的冷而高密度電漿區域，主要由電離層來源的氫離子與其他離子組成，包圍地球並隨磁場共同旋轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/plasmasphere"
   },
   {
     "english": "plate crystal",
-    "traditional_chinese": "板狀水晶",
-    "definition_cht": "指與「板狀水晶」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "板狀冰晶",
+    "definition_cht": "一類外形扁平、主要沿六角基面展開生長的冰晶，常呈六角薄板，是雲中冰晶與雪晶的重要基本型態之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/plate_crystal"
   },
   {
     "english": "playa",
-    "traditional_chinese": "普拉亞",
-    "definition_cht": "指與「普拉亞」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "乾鹽湖盆",
+    "definition_cht": "乾旱或半乾旱地區間歇性積水的封閉低地或湖盆，乾涸後常留下細粒沉積物、鹽殼或泥灘；亦可指此類暫時性乾湖床。",
     "source_url": "https://glossary.ametsoc.org/wiki/playa"
   },
   {
     "english": "Pleistocene climate",
     "traditional_chinese": "更新世氣候",
-    "definition_cht": "指與「更新世氣候」相關的氣候狀態、演變或古氣候特徵。",
+    "definition_cht": "指更新世期間反覆出現冰期與間冰期交替的氣候狀態，其特徵包括全球氣溫大幅波動、冰蓋擴張與退縮，以及海平面與環流系統的顯著變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pleistocene_climate"
   },
   {
     "english": "Pleistocene epoch",
     "traditional_chinese": "更新世",
-    "definition_cht": "指與「更新世」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "第四紀中較早的一個世，約始於 258.8 萬年前、終於 1.17 萬年前，以多次大規模冰期與間冰期循環為主要特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pleistocene_epoch"
   },
   {
     "english": "Pleistocene glaciation",
     "traditional_chinese": "更新世冰川作用",
-    "definition_cht": "指與「更新世冰川作用」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "更新世期間反覆發生的大規模冰川擴張、冰蓋發育與退縮過程，塑造廣泛冰蝕與冰積地形，並伴隨全球海平面與氣候的顯著波動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pleistocene_glaciation"
   },
   {
     "english": "Pliocene climatic optimum",
-    "traditional_chinese": "上新世最適合氣候",
-    "definition_cht": "指與「上新世最適合氣候」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "上新世氣候最適期",
+    "definition_cht": "上新世中一段相對溫暖的氣候時期，全球平均氣溫與海平面普遍高於前工業時代，常作為研究暖氣候背景下地球系統反應的重要古氣候類比。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pliocene_climatic_optimum"
   },
   {
     "english": "plotting model",
-    "traditional_chinese": "繪圖模型",
-    "definition_cht": "指與「繪圖模型」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "填圖模式",
+    "definition_cht": "指天氣圖或其他分析圖上資料的標繪格式與配置方式，規定各觀測要素在圖上的相對位置、符號與數值寫法；在地面觀測中常指測站填圖格式。",
     "source_url": "https://glossary.ametsoc.org/wiki/plotting_model"
   },
   {
     "english": "plotting position",
-    "traditional_chinese": "繪圖位置",
-    "definition_cht": "指與「繪圖位置」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "經驗機率繪圖位",
+    "definition_cht": "在頻率分析中，依排序樣本序位分配給各觀測值的累積機率估計值，用於在機率紙或頻率圖上標繪資料並擬合分布；水文統計常用 Weibull 等公式。",
     "source_url": "https://glossary.ametsoc.org/wiki/plotting_position"
   },
   {
     "english": "plotting symbols",
-    "traditional_chinese": "繪圖符號",
-    "definition_cht": "指與「繪圖符號」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "填圖符號",
+    "definition_cht": "在天氣圖、氣候圖或其他科學圖件上用以表示觀測要素、天氣現象與數值資訊的約定符號系統，例如雲量、風向風速、現天氣與氣壓變化記號。",
     "source_url": "https://glossary.ametsoc.org/wiki/plotting_symbols"
   },
   {
     "english": "plow wind",
     "traditional_chinese": "犁風",
-    "definition_cht": "指與「犁風」相關的風場、局地風或風系特徵，用於描述其成因、方向與影響。",
+    "definition_cht": "指沿地面猛烈推進、如犁般掀動塵土或積雪的強近地風；多用來形容鋒面、雷雨外流或強陣風所造成的貼地掃掠型風勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/plow_wind"
   },
   {
     "english": "plum rains",
     "traditional_chinese": "梅雨",
-    "definition_cht": "指與「梅雨」相關的降雨、雨量或雨滴過程，常用於天氣分析與水文應用。",
+    "definition_cht": "東亞初夏梅子成熟時節常見的持續性陰雨期，主要出現在華南、臺灣、日本與朝鮮半島一帶，與梅雨鋒徘徊及季風水氣輸送有密切關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/plum_rains"
   },
   {
