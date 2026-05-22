@@ -2911,122 +2911,122 @@
   },
   {
     "english": "pressure surge",
-    "traditional_chinese": "壓力波動",
-    "definition_cht": "指與「壓力波動」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓力突增",
+    "definition_cht": "指氣壓在短時間內快速上升的現象，常伴隨鋒面、雷暴出流或其他密度流通過，於觀測上表現為明顯壓升。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_surge"
   },
   {
     "english": "pressure system",
-    "traditional_chinese": "壓力系統",
-    "definition_cht": "指與「壓力系統」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓系統",
+    "definition_cht": "指由高壓、低壓及其周圍壓力分布所構成的大氣系統，通常以等壓線分析其結構，為天氣圖判讀與天氣演變的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_system"
   },
   {
     "english": "pressure tendency",
-    "traditional_chinese": "壓力傾向",
-    "definition_cht": "指與「壓力傾向」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓傾向",
+    "definition_cht": "指某地在規定時段內（通常為觀測前 3 小時）氣壓變化的方向與量值，用於判斷高低壓系統的發展或移動。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_tendency"
   },
   {
     "english": "pressure tide gauges",
-    "traditional_chinese": "壓力潮汐表",
-    "definition_cht": "指與「壓力潮汐表」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓力式驗潮儀",
+    "definition_cht": "利用水柱靜水壓隨水位升降而改變的原理，換算潮位或海面高度的驗潮設備，常用於海岸與港灣水位觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_tide_gauges"
   },
   {
     "english": "pressure vertical coordinates",
-    "traditional_chinese": "壓力縱座標",
-    "definition_cht": "指與「壓力縱座標」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓力垂直座標",
+    "definition_cht": "在大氣動力學與數值模式中，以氣壓而非幾何高度作為垂直座標的表示方式；等壓面分析即為其常見應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_vertical_coordinates"
   },
   {
     "english": "pressure wave",
     "traditional_chinese": "壓力波",
-    "definition_cht": "指與「壓力波」相關的波動、擾動或傳播現象，可見於大氣、海洋或電磁系統。",
+    "definition_cht": "由介質中壓力交替增減所形成並向外傳播的波動，屬壓縮型縱波；聲波即為典型例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_wave"
   },
   {
     "english": "pressure-change chart",
-    "traditional_chinese": "壓力變化圖",
-    "definition_cht": "指與「壓力變化圖」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓變化圖",
+    "definition_cht": "顯示一定時間內各地氣壓增減量空間分布的分析圖，用於辨識壓降區、壓升區及其與天氣系統的關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure-change_chart"
   },
   {
     "english": "pressure-fall center",
     "traditional_chinese": "壓降中心",
-    "definition_cht": "指與「壓降中心」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "definition_cht": "在指定時段內氣壓下降幅度最大的區域中心，常用於追蹤發展中的低壓、鋒面或劇烈天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure-fall_center"
   },
   {
     "english": "pressure-pattern flight",
-    "traditional_chinese": "壓力模式飛行",
-    "definition_cht": "指「壓力模式飛行」所代表的大尺度環流型態、空間分布結構或遙相關配置，用於診斷氣候與天氣異常。",
+    "traditional_chinese": "依壓場飛行",
+    "definition_cht": "指根據天氣圖上的氣壓配置、高低壓位置與相關壓力型態來規劃或修正航路的飛行方式，用以提高航行安全與效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure-pattern_flight"
   },
   {
     "english": "pressure-rise center",
-    "traditional_chinese": "升壓中心",
-    "definition_cht": "指與「升壓中心」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓升中心",
+    "definition_cht": "在指定時段內氣壓上升幅度最大的區域中心，常見於冷高壓增強、高壓脊後側或系統過境後的穩定區。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure-rise_center"
   },
   {
     "english": "pressure-sphere anemometer",
     "traditional_chinese": "壓力球風速計",
-    "definition_cht": "指與「壓力球風速計」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "definition_cht": "利用球體表面各方向所受壓力差來推算風速與風向的風速儀，可用於量測三維風場或亂流特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure-sphere_anemometer"
   },
   {
     "english": "prester",
-    "traditional_chinese": "普雷斯特",
-    "definition_cht": "指與「普雷斯特」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "普雷斯特（古稱龍捲）",
+    "definition_cht": "古典氣象用語，通常指猛烈旋轉並向前移動的風暴渦旋，多用來表示龍捲風或水龍捲等強烈旋風現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/prester"
   },
   {
     "english": "prevailing visibility",
-    "traditional_chinese": "普遍可見度",
-    "definition_cht": "指與「普遍可見度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "主導能見度",
+    "definition_cht": "航空氣象中指在至少半個地平圓範圍內可見的最大能見距離，該範圍可不連續，常用於機場天氣觀測與 METAR 編報。",
     "source_url": "https://glossary.ametsoc.org/wiki/prevailing_visibility"
   },
   {
     "english": "prevailing wind direction",
     "traditional_chinese": "盛行風向",
-    "definition_cht": "指與「盛行風向」相關的風場、局地風或風系特徵，用於描述其成因、方向與影響。",
+    "definition_cht": "指某地在特定統計期間內出現頻率最高的風向，反映當地長期或季節性的主要風場特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/prevailing_wind_direction"
   },
   {
     "english": "PRF",
-    "traditional_chinese": "脈衝頻率",
-    "definition_cht": "「PRF」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
+    "traditional_chinese": "脈衝重複頻率",
+    "definition_cht": "Pulse Repetition Frequency 的縮寫，指雷達等脈衝系統在單位時間內發射脈衝的次數；其大小會影響最大無模糊測距與速度判讀能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/PRF"
   },
   {
     "english": "Price meter",
-    "traditional_chinese": "計價器",
-    "definition_cht": "指與「計價器」相關的海冰、冰體或冰相現象，用於描述其形態、分布、生成或運動特徵。",
+    "traditional_chinese": "普賴斯流速儀",
+    "definition_cht": "一種水文測流儀器，常用於河川或渠道流速觀測，藉由葉輪轉速與校正關係換算水流速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Price_meter"
   },
   {
     "english": "primary circulation",
-    "traditional_chinese": "主循環",
-    "definition_cht": "指與「主循環」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "主環流",
+    "definition_cht": "在旋渦或熱帶氣旋動力中，指繞中心運動的主要切向環流，通常相對於徑向與垂直運動所構成的次級環流而言。",
     "source_url": "https://glossary.ametsoc.org/wiki/primary_circulation"
   },
   {
     "english": "primary cyclone",
-    "traditional_chinese": "初級旋風分離器",
-    "definition_cht": "指與「初級旋風分離器」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "主氣旋",
+    "definition_cht": "在多重低壓或鋒面波動發展中，指最初形成或占主導地位的氣旋性低壓系統，以別於後續生成的次生氣旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/primary_cyclone"
   },
   {
     "english": "primary depression",
-    "traditional_chinese": "原發性憂鬱症",
-    "definition_cht": "指與「原發性憂鬱症」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "主低壓",
+    "definition_cht": "在一系列低壓擾動中，指最先形成或主要的低壓中心，常與後續沿鋒面發展的次生低壓相對稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/primary_depression"
   },
   {
     "english": "primary front",
-    "traditional_chinese": "主要戰線",
-    "definition_cht": "指與「主要戰線」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
+    "traditional_chinese": "主鋒面",
+    "definition_cht": "在複雜鋒面配置中占主導地位的主要鋒面邊界，通常具有較明顯的溫度、風向與天氣變化訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/primary_front"
   },
   {
