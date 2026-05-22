@@ -35696,121 +35696,121 @@
   {
     "english": "orbital velocity",
     "traditional_chinese": "軌道速度",
-    "definition_cht": "「軌道速度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指物體沿軌道運動時的線速度；在海洋與波浪學中亦常指水粒子受波動作用所產生之軌道運動速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/orbital_velocity"
   },
   {
     "english": "ordinary cell",
-    "traditional_chinese": "普通細胞",
-    "definition_cht": "「普通細胞」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "普通單胞雷暴",
+    "definition_cht": "指生命期通常較短、結構較單純且不具持續旋轉上升氣流之單體雷暴，常由單一上升與下降氣流主導。",
     "source_url": "https://glossary.ametsoc.org/wiki/ordinary_cell"
   },
   {
     "english": "ordinary ray",
-    "traditional_chinese": "普通射線",
-    "definition_cht": "「普通射線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "常光線",
+    "definition_cht": "在雙折射介質中遵守一般折射定律、折射率不隨傳播方向改變之光線，與非常光線相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/ordinary_ray"
   },
   {
     "english": "ordinate",
     "traditional_chinese": "縱座標",
-    "definition_cht": "「縱座標」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "在直角座標系中表示點位垂直方向位置之座標值，通常對應 y 軸；於圖表中亦可指縱軸數值。",
     "source_url": "https://glossary.ametsoc.org/wiki/ordinate"
   },
   {
     "english": "organic acids",
     "traditional_chinese": "有機酸",
-    "definition_cht": "「有機酸」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指含酸性官能基之有機化合物；在大氣化學中常為氣相氧化或二次有機氣膠形成的重要前驅或組成物。",
     "source_url": "https://glossary.ametsoc.org/wiki/organic_acids"
   },
   {
     "english": "organic nitrates",
-    "traditional_chinese": "有機硝酸鹽",
-    "definition_cht": "「有機硝酸鹽」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "有機硝酸酯",
+    "definition_cht": "指含有 −ONO2 官能基之有機化合物，常由揮發性有機物氧化後與氮氧化物反應生成，為大氣氮循環與臭氧生成的重要中間產物。",
     "source_url": "https://glossary.ametsoc.org/wiki/organic_nitrates"
   },
   {
     "english": "organic peroxides",
     "traditional_chinese": "有機過氧化物",
-    "definition_cht": "「有機過氧化物」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指分子內含有過氧鍵（−O−O−）之有機化合物；在大氣中多由光化學反應形成，與氧化鏈反應及二次有機氣膠生成有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/organic_peroxides"
   },
   {
     "english": "organized large eddies",
-    "traditional_chinese": "有組織的大漩渦",
-    "definition_cht": "「有組織的大漩渦」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "有組織大型渦旋",
+    "definition_cht": "指邊界層或湍流中具有明顯空間排列與相干結構之大型渦旋，能有效傳輸動量、熱與水氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/organized_large_eddies"
   },
   {
     "english": "oriented overgrowth",
-    "traditional_chinese": "定向過度生長",
-    "definition_cht": "「定向過度生長」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "定向外延生長",
+    "definition_cht": "指晶體在既有晶面上依特定晶格方向持續附著與生長之現象；在雲微物理中可用以描述冰晶或雹胚表面的方向性增長。",
     "source_url": "https://glossary.ametsoc.org/wiki/oriented_overgrowth"
   },
   {
     "english": "orographic",
-    "traditional_chinese": "地形",
-    "definition_cht": "「地形」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "地形的；地形性",
+    "definition_cht": "形容受山脈、丘陵或其他地形起伏影響之大氣、降水、風場或相關現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic"
   },
   {
     "english": "orographic cloud",
     "traditional_chinese": "地形雲",
-    "definition_cht": "「地形雲」為特定雲類、雲體結構或與雲有關的光學／動力現象名稱，用於描述其形態、形成機制與觀測特徵。",
+    "definition_cht": "指氣流受地形抬升後冷卻凝結而形成之雲，常出現在迎風坡、山脊或背風波動區附近。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_cloud"
   },
   {
     "english": "orographic fog",
     "traditional_chinese": "地形霧",
-    "definition_cht": "「地形霧」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指濕潤空氣沿山坡被迫抬升、冷卻至飽和後形成之霧，常見於山區迎風坡。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_fog"
   },
   {
     "english": "orographic isobar",
     "traditional_chinese": "地形等壓線",
-    "definition_cht": "「地形等壓線」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指因地形效應而產生彎折、擾動或局地配置特徵之等壓線，用以反映山脈對近地面氣壓場之影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_isobar"
   },
   {
     "english": "orographic lifting",
     "traditional_chinese": "地形抬升",
-    "definition_cht": "「地形抬升」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指氣流遇山地或高地時被迫沿地形上升之過程，常導致絕熱冷卻、雲生成與降水增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_lifting"
   },
   {
     "english": "orographic occlusion",
-    "traditional_chinese": "地形閉塞",
-    "definition_cht": "「地形閉塞」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "地形性囚錮",
+    "definition_cht": "指鋒面或氣流在複雜地形作用下，其低層冷暖空氣配置因地形阻擋而出現類似囚錮鋒的結構或局地閉塞現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_occlusion"
   },
   {
     "english": "orographic precipitation",
     "traditional_chinese": "地形性降水",
-    "definition_cht": "「地形性降水」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指濕潤氣流受地形抬升而冷卻凝結所產生之降水，通常在迎風坡較強、背風坡較弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_precipitation"
   },
   {
     "english": "orographic rainfall",
-    "traditional_chinese": "地形降雨量",
-    "definition_cht": "「地形降雨量」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "地形雨",
+    "definition_cht": "地形性降水中以雨為主要相態者；指濕潤空氣受山地抬升後凝結降落形成之降雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_rainfall"
   },
   {
     "english": "orographic snow line",
     "traditional_chinese": "地形雪線",
-    "definition_cht": "「地形雪線」指具有診斷、統計或空間界定用途的線狀特徵，可代表邊界、軸線、趨勢或帶狀結構。",
+    "definition_cht": "指受地形抬升與局地冷卻影響而形成之降雪高度界線；其位置常隨坡向、氣流與水氣條件改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_snow_line"
   },
   {
     "english": "orographic storm",
-    "traditional_chinese": "地形風暴",
-    "definition_cht": "「地形風暴」為一類風暴、擾動或強天氣現象名稱；通常用以描述其形成背景、結構特徵及可能造成的影響。",
+    "traditional_chinese": "地形性風暴",
+    "definition_cht": "指生成、增強或主要受地形強烈調制之風暴系統，常與地形抬升、局地輻合或山谷風場作用有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_storm"
   },
   {
     "english": "orographic vortex",
-    "traditional_chinese": "地形渦",
-    "definition_cht": "「地形渦」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "地形渦旋",
+    "definition_cht": "指氣流通過山脈、岬角或其他複雜地形後，在背風側或鄰近區域誘發之局地旋渦或渦旋環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/orographic_vortex"
   },
   {
