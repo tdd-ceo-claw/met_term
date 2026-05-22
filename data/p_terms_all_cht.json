@@ -1832,121 +1832,121 @@
   {
     "english": "point discharge",
     "traditional_chinese": "點放電",
-    "definition_cht": "指與「點放電」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在尖端導體與周圍空氣之間、因局部電場極強而產生的無聲、通常不發光之氣體放電現象；雷雨或強電場環境下，樹梢、桅杆與避雷針尖端附近常可發生。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_discharge"
   },
   {
     "english": "point discharge current",
     "traditional_chinese": "點放電電流",
-    "definition_cht": "指與「點放電電流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "definition_cht": "由尖端物體發生點放電時，電荷在物體與大氣之間流動所形成的電流；在地球—大氣電學收支中屬重要導電途徑之一，雷暴前後常較為顯著。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_discharge_current"
   },
   {
     "english": "point gauge",
     "traditional_chinese": "點規",
-    "definition_cht": "指與「點規」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "以尖端或鉤尖與水面接觸位置判定液面高程的精密量測器具，常裝設於靜水井中，用於高精度觀測水位或波面高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_gauge"
   },
   {
     "english": "point of occlusion",
-    "traditional_chinese": "遮擋點",
-    "definition_cht": "指與「遮擋點」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "錮囚點",
+    "definition_cht": "天氣圖上暖鋒、冷鋒與錮囚鋒三者交會的位置，即冷鋒追上暖鋒而形成錮囚過程的接合點。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_of_occlusion"
   },
   {
     "english": "point precipitation",
-    "traditional_chinese": "點降水",
-    "definition_cht": "指與「點降水」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "點降水量",
+    "definition_cht": "某一特定觀測地點所量得的降水量；此量值僅代表該站點條件，未必能直接代表周圍區域的面平均降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_precipitation"
   },
   {
     "english": "point rainfall",
-    "traditional_chinese": "點降雨量",
-    "definition_cht": "指與「點降雨量」相關的降雨、雨量或雨滴過程，常用於天氣分析與水文應用。",
+    "traditional_chinese": "點雨量",
+    "definition_cht": "在單一測站或量雨器位置所量得的降雨量，用以區別於流域或區域平均雨量。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_rainfall"
   },
   {
     "english": "point source",
     "traditional_chinese": "點源",
-    "definition_cht": "指與「點源」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在擴散、污染或湍流實驗中，可近似視為單一固定點位置的物質或能量來源；依排放歷程可分為持續性點源與瞬時點源。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_source"
   },
   {
     "english": "point target",
     "traditional_chinese": "點目標",
-    "definition_cht": "指與「點目標」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "相對於雷達脈衝體積而言尺寸極小、可近似視為單一散射點的目標，如飛機、船舶或建築物；其回波常用於雷達校正與目標辨識。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_target"
   },
   {
     "english": "point vortex",
     "traditional_chinese": "點渦",
-    "definition_cht": "指與「點渦」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "一種理想化渦流模型，將渦度集中於單一點，而其周圍流場視為無旋；常用於二維流體力學中描述線渦或渦旋交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/point_vortex"
   },
   {
     "english": "point-to-multipoint communication",
-    "traditional_chinese": "點對多點通信",
-    "definition_cht": "指與「點對多點通信」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "點對多點通訊",
+    "definition_cht": "由單一來源同時向多個接收端傳送訊號的通訊方式，亦可視為一對多傳輸；廣播與多點分送系統即屬其典型應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/point-to-multipoint_communication"
   },
   {
     "english": "point-to-point communication",
-    "traditional_chinese": "點對點通信",
-    "definition_cht": "指與「點對點通信」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "點對點通訊",
+    "definition_cht": "僅在兩個端點或節點之間建立的通訊連線；電話通話、專線與兩站間微波鏈路皆屬典型例子。",
     "source_url": "https://glossary.ametsoc.org/wiki/point-to-point_communication"
   },
   {
     "english": "poise",
-    "traditional_chinese": "平衡",
-    "definition_cht": "指與「平衡」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "泊",
+    "definition_cht": "厘米－克－秒制（CGS）中的動力黏滯係數單位，定義為 1 g·cm⁻¹·s⁻¹，用以表示流體的絕對黏度，名稱來自 Poiseuille。",
     "source_url": "https://glossary.ametsoc.org/wiki/poise"
   },
   {
     "english": "Poiseuille flow",
     "traditional_chinese": "泊肅葉流",
-    "definition_cht": "指與「泊肅葉流」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "黏性流體在長直圓管內作層流時的典型流動型態，其速度分布呈拋物線形，流量受壓力差、管半徑、管長與流體黏度控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/Poiseuille_flow"
   },
   {
     "english": "Poiseuille–Hagen law",
-    "traditional_chinese": "泊肅葉-哈根定律",
-    "definition_cht": "指與「泊肅葉-哈根定律」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Poiseuille%E2%80%93Hagen_law"
+    "traditional_chinese": "哈根－泊肅葉定律",
+    "definition_cht": "描述圓管內泊肅葉層流中壓力梯度（或壓力差）與流速、流量、管徑、管長及流體黏度關係的定律，是黏性管流分析的基本公式。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Poiseuille-Hagen_law"
   },
   {
     "english": "Poisson constant",
     "traditional_chinese": "泊松常數",
-    "definition_cht": "指與「泊松常數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "氣體常數 R 與定壓比熱 c_p 的比值 κ＝R/c_p；對乾空氣約為 0.2854，常見於位溫、絕熱過程與泊松方程相關表式中。",
     "source_url": "https://glossary.ametsoc.org/wiki/Poisson_constant"
   },
   {
     "english": "Poisson distribution",
-    "traditional_chinese": "泊松分佈",
-    "definition_cht": "指與「泊松分佈」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "泊松分布",
+    "definition_cht": "一種離散機率分布，用以描述在固定時間、空間或區間內，事件以固定平均發生率且彼此獨立時，其發生次數的機率分配。",
     "source_url": "https://glossary.ametsoc.org/wiki/Poisson_distribution"
   },
   {
     "english": "Poisson equation",
     "traditional_chinese": "泊松方程",
-    "definition_cht": "描述「泊松方程」相關物理量之間關係、守恆條件或近似動力平衡的方程式。",
+    "definition_cht": "形式為 ∇²φ＝f 的偏微分方程，其中 ∇² 為拉普拉斯算子；在位勢、電場、重力場、流體與其他物理問題中，用來描述源項與位勢場之間的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/Poisson_equation"
   },
   {
     "english": "polacke",
-    "traditional_chinese": "波拉克",
-    "definition_cht": "指與「波拉克」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "波拉克風",
+    "definition_cht": "波希米亞地區自蘇台德山脈下吹的寒冷、乾燥東北風，屬地方性下降風（焚風／坡降風）名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/polacke"
   },
   {
     "english": "polar air",
     "traditional_chinese": "極地空氣",
-    "definition_cht": "指與「極地空氣」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "形成於高緯度地區的冷空氣，溫度低、低層常較穩定；海洋性極地空氣（mP）越過較暖海面後可轉為較不穩定並增濕，性質不同於更寒冷而淺薄的北極空氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_air"
   },
   {
     "english": "polar air depression",
-    "traditional_chinese": "極地氣壓低氣壓",
-    "definition_cht": "指與「極地氣壓低氣壓」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極地空氣低壓",
+    "definition_cht": "形成於極地空氣團中的弱低壓系統，尺度通常較小，常與冷空氣活動及高緯度天氣擾動有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_air_depression"
   },
   {
