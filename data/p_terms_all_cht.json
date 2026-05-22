@@ -2551,122 +2551,122 @@
   },
   {
     "english": "power-law profile",
-    "traditional_chinese": "冪律分佈",
-    "definition_cht": "指與「冪律分佈」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "冪律剖面",
+    "definition_cht": "描述地表邊界層中風速隨高度變化的經驗關係式，常寫為風速與高度的冪次成正比，用於由參考高度推估其他高度的風速；其指數會受地表粗糙度與大氣穩定度影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/power-law_profile"
   },
   {
     "english": "Poynting vector",
     "traditional_chinese": "坡印廷向量",
-    "definition_cht": "指「坡印廷向量」所代表的向量診斷量，常用於分析大氣運動、鋒生、渦度或垂直運動強迫。",
+    "definition_cht": "表示電磁場能量通量密度的向量，方向為電磁能傳播方向，大小代表單位面積上的能量傳輸率；在大氣電學、遙測與電磁波傳播分析中常用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Poynting_vector"
   },
   {
     "english": "PPI",
-    "traditional_chinese": "質子幫浦抑制劑",
-    "definition_cht": "「PPI」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
+    "traditional_chinese": "平面位置指示器",
+    "definition_cht": "雷達的平面掃描顯示方式，將雷達站置於圖面中心，以距離與方位角的極座標呈現回波分布；氣象雷達常以固定仰角的 PPI 影像顯示降水與對流系統位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/PPI"
   },
   {
     "english": "practical salinity units",
     "traditional_chinese": "實用鹽度單位",
-    "definition_cht": "指與「實用鹽度單位」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "依實用鹽度尺度（PSS-78）表示海水鹽度時所用的慣用表示法，常記為 psu；其本質上由海水電導率比推算，廣泛用於海洋觀測、剖面資料與水團分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/practical_salinity_units"
   },
   {
     "english": "praecipitatio",
-    "traditional_chinese": "沉澱",
-    "definition_cht": "指與「沉澱」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "降水特徵",
+    "definition_cht": "國際雲圖中的補充特徵之一，指雨、毛毛雨、雪、霰或冰雹等自雲中降落且實際到達地面的降水現象，用以標示正在產生並落地的降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/praecipitatio"
   },
   {
     "english": "prairie",
-    "traditional_chinese": "草原",
-    "definition_cht": "指與「草原」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "北美草原",
+    "definition_cht": "指北美內陸溫帶草原地帶及其氣候環境，夏季通常高溫且降水較集中，但部分區域乾旱風險高，常作為草原氣候或半乾旱農牧區環境的地理氣候用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/prairie"
   },
   {
     "english": "Prandtl number",
     "traditional_chinese": "普朗特數",
-    "definition_cht": "指與「普朗特數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "無因次數，為動量擴散率與熱擴散率之比，用以衡量流體中動量與熱傳輸的相對效率；在邊界層、對流與傳熱問題中是重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Prandtl_number"
   },
   {
     "english": "preactivation",
-    "traditional_chinese": "預激活",
-    "definition_cht": "指與「預激活」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "預活化",
+    "definition_cht": "指冰核粒子曾促成冰晶形成後，即使原先冰晶已蒸發，只要溫度與未飽和條件未超過臨界值，之後仍能在較高溫或較低過飽和度下再次促進成冰的性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/preactivation"
   },
   {
     "english": "precession rate",
     "traditional_chinese": "進動率",
-    "definition_cht": "指與「進動率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "描述自轉軸、軌道面或角動量方向隨時間進動的角速度；在天文與衛星氣象中可指地球歲差變化率，或太陽同步軌道平面為維持日照條件所需的進動速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/precession_rate"
   },
   {
     "english": "precipitable water",
     "traditional_chinese": "可降水量",
-    "definition_cht": "指與「可降水量」相關的水團、水體性質或水文狀態，常用於海洋學與水文分析。",
+    "definition_cht": "某一垂直氣柱內所含全部水汽若完全凝結並降至地面時，所對應的液態水深，常以毫米或英吋表示；是衡量整層大氣含水量的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitable_water"
   },
   {
     "english": "precipitation",
-    "traditional_chinese": "沉澱",
-    "definition_cht": "指與「沉澱」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "降水",
+    "definition_cht": "大氣中水汽凝結或凝華後形成並自雲中降落至地面的液態或固態水粒總稱，包括雨、毛毛雨、雪、霰、冰珠與冰雹等。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation"
   },
   {
     "english": "precipitation aloft",
     "traditional_chinese": "高空降水",
-    "definition_cht": "指與「高空降水」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指自雲中降落但在到達地面前即於下方乾燥氣層中蒸發或昇華的水滴或冰晶條帶，屬於 virga 現象，地面通常觀測不到實際降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_aloft"
   },
   {
     "english": "precipitation area",
     "traditional_chinese": "降水區",
-    "definition_cht": "指與「降水區」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在天氣圖上指正在發生降水的區域；在雷達應用中則指空間中出現降水回波的範圍，可用於描繪雨區或雪區分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_area"
   },
   {
     "english": "precipitation attenuation",
     "traditional_chinese": "降水衰減",
-    "definition_cht": "指與「降水衰減」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "電磁波穿過雨、雪、冰雹等降水粒子時，因吸收與散射而造成訊號強度減弱的現象；對天氣雷達、微波遙測與通訊品質都有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_attenuation"
   },
   {
     "english": "precipitation ceiling",
-    "traditional_chinese": "降水上限",
-    "definition_cht": "指與「降水上限」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "降水雲幕高",
+    "definition_cht": "美國航空氣象觀測中的一種雲幕高度分類，指天幕高度係由降水造成的遮蔽或垂直能見度所決定，而非由清楚雲底直接量得。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_ceiling"
   },
   {
     "english": "precipitation current",
-    "traditional_chinese": "降水流",
-    "definition_cht": "指與「降水流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "降水電流",
+    "definition_cht": "大氣電學中指降水粒子把雲區電荷向地面向下輸送所形成的電流，是雷暴電荷收支與地氣電路研究中的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_current"
   },
   {
     "english": "precipitation day",
     "traditional_chinese": "降水日",
-    "definition_cht": "指與「降水日」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指出現降水觀測的日子；構成降水日所需的最小降水量各國標準略有不同，但常以 0.1 毫米或 0.01 英吋為門檻。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_day"
   },
   {
     "english": "precipitation duration",
     "traditional_chinese": "降水持續時間",
-    "definition_cht": "指「降水持續時間」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "definition_cht": "在某測站或特定區域內，降水連續發生並被觀測到的時間長度，可用於描述單次降水事件歷時並配合強度分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_duration"
   },
   {
     "english": "precipitation echo",
     "traditional_chinese": "降水回波",
-    "definition_cht": "指與「降水回波」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "由雨、雪或冰雹等降水粒子反射雷達波所形成的回波訊號，是雷達判識降水位置、強度與結構的基本依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_echo"
   },
   {
     "english": "precipitation effectiveness",
-    "traditional_chinese": "降水效率",
-    "definition_cht": "指與「降水效率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "有效降水量",
+    "definition_cht": "指總降水中實際可供植生利用的部分，其可利用程度受降水強度、季節、氣溫、地表覆蓋與土壤或草皮條件等因素影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/precipitation_effectiveness"
   },
   {
