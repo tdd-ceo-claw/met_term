@@ -3632,55 +3632,55 @@
   {
     "english": "pyrheliometer",
     "traditional_chinese": "直接日射計",
-    "definition_cht": "用於量測太陽直接輻射通量的儀器，通常配合追日裝置以使感測器對準太陽方向。",
+    "definition_cht": "用於量測太陽直達輻射（direct beam solar irradiance）或直接法向日射量的儀器，通常配合太陽追蹤裝置，使感測器始終對準太陽以排除散射輻射影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrheliometer"
   },
   {
     "english": "pyrheliometric scale",
-    "traditional_chinese": "直接輻射等級",
-    "definition_cht": "指與「直接輻射等級」相關的尺度、量表或標準化分級方式。",
+    "traditional_chinese": "直接日射測定標度",
+    "definition_cht": "指以直接日射計觀測為基礎，用於校定、比對與標準化太陽直達輻射量測結果的基準尺度或標度系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrheliometric_scale"
   },
   {
     "english": "pyrheliometry",
-    "traditional_chinese": "直接輻射量測法",
-    "definition_cht": "指與「直接輻射量測法」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "直接日射測定法",
+    "definition_cht": "以直接日射計等儀器量測太陽直達輻射之觀測方法與技術，主要用於太陽輻射、氣候與大氣能量收支研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrheliometry"
   },
   {
     "english": "pyrhenerwind",
-    "traditional_chinese": "皮勒訥溫德",
-    "definition_cht": "指與「皮勒訥溫德」相關的風場、局地風或風系特徵，用於描述其成因、方向與影響。",
+    "traditional_chinese": "焚風（pyrhenerwind）",
+    "definition_cht": "一種焚風型的暖乾下坡風，指氣流越過山脈後在背風側下沉增溫、相對濕度降低而形成的強陣風性局地風。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrhenerwind"
   },
   {
     "english": "Pyrocumulonimbus",
     "traditional_chinese": "火積雨雲",
-    "definition_cht": "由大規模野火、火山或強烈熱源引發深厚對流而形成的積雨雲，可伴隨強上升流、閃電、陣風與煙霧高層輸送。",
+    "definition_cht": "由大規模野火、火山噴發或其他強烈熱源觸發深厚對流所形成的積雨雲，常伴隨強上升氣流、閃電、陣風、煙霧高空輸送，甚至可發展出火災自生天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pyrocumulonimbus"
   },
   {
     "english": "Pyrocumulus",
     "traditional_chinese": "火積雲",
-    "definition_cht": "由野火、火山或強烈地表熱源造成空氣抬升而形成的積雲，常挾帶煙粒並反映局地強對流發展。",
+    "definition_cht": "由野火、火山或強烈地表熱源加熱造成空氣急遽抬升而形成的積雲，常夾帶煙塵，並可在對流持續增強時進一步發展成火積雨雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pyrocumulus"
   },
   {
     "english": "pyrolysis",
     "traditional_chinese": "熱解",
-    "definition_cht": "指與火、燃燒、熱分解或野火誘發大氣現象相關的「熱解」概念，常用於火天氣、煙流與對流雲研究。",
+    "definition_cht": "物質在缺氧或無氧條件下因高溫而發生的熱分解過程，會產生可燃氣體、焦炭與煙霧成分，常用於說明野火燃燒與煙霧排放機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrolysis"
   },
   {
     "english": "pyrotechnic flare",
-    "traditional_chinese": "煙火彈",
-    "definition_cht": "指與火、燃燒、熱分解或野火誘發大氣現象相關的「煙火彈」概念，常用於火天氣、煙流與對流雲研究。",
+    "traditional_chinese": "焰火信號彈",
+    "definition_cht": "利用煙火藥劑產生強光、熱或煙霧的裝置，可用於照明、示警、定位或野外作業標示；在大氣與野火觀測中亦可作為短時可視示蹤或訊號工具。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrotechnic_flare"
   },
   {
     "english": "pyrradiometer",
-    "traditional_chinese": "輻射計",
-    "definition_cht": "用於量測入射或淨輻射通量的儀器，可應用於地表能量收支、輻射觀測與氣候研究。",
+    "traditional_chinese": "總輻射計",
+    "definition_cht": "用於量測地表上、下方向短波與長波輻射收支，或分別量測入射與反射輻射的儀器，常應用於地表能量平衡、農業氣象與氣候觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrradiometer"
   }
 ]
