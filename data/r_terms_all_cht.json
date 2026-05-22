@@ -572,121 +572,121 @@
   {
     "english": "radio meteorology",
     "traditional_chinese": "無線電氣象學",
-    "definition_cht": "指與「無線電氣象學」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "研究無線電波在大氣中的傳播特性，以及利用無線電與雷達技術遙測雲、降水、風、湍流與其他大氣物理量的氣象學分支；其範圍通常包含雷達氣象。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_meteorology"
   },
   {
     "english": "radio navigation aid",
-    "traditional_chinese": "無線電導航設備",
-    "definition_cht": "指與「無線電導航設備」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無線電導航助航設備",
+    "definition_cht": "利用無線電訊號提供方位、距離、定位或航路導引資訊的助航設施總稱，常用於航空與航海，例如 NDB、VOR、DME、TACAN、VORTAC 與衛星導航系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_navigation_aid"
   },
   {
     "english": "radio sounding",
     "traditional_chinese": "無線電探測",
-    "definition_cht": "指與「無線電探測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "利用無線電技術對大氣進行垂直探測的方法，通常藉由探空儀、雷達或相關遙測系統取得高空的壓力、溫度、濕度、風或電離層等資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_sounding"
   },
   {
     "english": "radio source",
-    "traditional_chinese": "無線電源",
-    "definition_cht": "指與「無線電源」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "射電源",
+    "definition_cht": "能發射可偵測無線電波的天然或人造來源；在地球與太空科學中多指天體射電源，如太陽、恆星、星系或類星體等。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_source"
   },
   {
     "english": "radio wave",
     "traditional_chinese": "無線電波",
-    "definition_cht": "指與「無線電波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "電磁波的一類，具有相對較低頻率與較長波長，可在大氣或真空中傳播，廣泛用於通訊、雷達、遙測與導航等系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_wave"
   },
   {
     "english": "radio waves",
     "traditional_chinese": "無線電波",
-    "definition_cht": "指與「無線電波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "無線電波的複數形式，指一群或各種頻帶的無線電波；其傳播會受地表、對流層與電離層條件影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_waves"
   },
   {
     "english": "radio wind observation",
-    "traditional_chinese": "無線電風觀測",
-    "definition_cht": "指與「無線電風觀測」相關的風場、局地風、環流或風速風向特徵。",
+    "traditional_chinese": "無線電測風觀測",
+    "definition_cht": "利用無線電探空儀、無線電經緯儀、雷達或其他追蹤系統，推算高空風向與風速的觀測方法，屬於高空風場觀測的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_wind_observation"
   },
   {
     "english": "radioactive carbon",
     "traditional_chinese": "放射性碳",
-    "definition_cht": "指與「放射性碳」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "具有放射性的碳同位素，常指碳-14；可作為大氣與海洋示蹤劑，並廣泛應用於放射性碳定年。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactive_carbon"
   },
   {
     "english": "radioactive dating",
     "traditional_chinese": "放射性定年",
-    "definition_cht": "指與「放射性定年」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "利用放射性同位素已知衰變速率與母體、子體含量比值，推定岩石、有機物或其他材料形成年代的方法；亦稱放射性同位素定年。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactive_dating"
   },
   {
     "english": "radioactive decay",
     "traditional_chinese": "放射性衰變",
-    "definition_cht": "指與「放射性衰變」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "不穩定原子核自發放出 α、β、γ 等輻射並轉變為其他核種的過程；其統計速率可用衰變常數或半衰期描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactive_decay"
   },
   {
     "english": "radioactive fallout",
-    "traditional_chinese": "放射性沉降物",
-    "definition_cht": "指與「放射性沉降物」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "放射性落塵",
+    "definition_cht": "核爆、核事故或其他放射性釋放事件後，懸浮於大氣中的放射性微粒與氣膠經沉降或降水清除而落到地表的現象與沉積物。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactive_fallout"
   },
   {
     "english": "radioactive gas",
     "traditional_chinese": "放射性氣體",
-    "definition_cht": "指與「放射性氣體」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "含有放射性核種並能以氣態存在的物質，如氡或某些裂變氣體；可作為大氣示蹤物，亦具有環境與健康風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactive_gas"
   },
   {
     "english": "radioactive precipitation",
     "traditional_chinese": "放射性降水",
-    "definition_cht": "指與降水型態、降水量、形成機制或其統計分布相關的專業術語。",
+    "definition_cht": "含有可量測放射性核種的雨、雪或其他降水，通常因大氣中的放射性微粒或氣體被雲滴、雨滴或雪晶攔截並帶至地表。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactive_precipitation"
   },
   {
     "english": "radioactive snow gauge",
-    "traditional_chinese": "放射性雪計",
-    "definition_cht": "指與「放射性雪計」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "放射性雪量計",
+    "definition_cht": "利用放射源發出的 γ 射線或其他穿透輻射在雪層中的衰減量，估算積雪深度或雪水當量的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactive_snow_gauge"
   },
   {
     "english": "radioactive-particle ionization",
     "traditional_chinese": "放射性粒子電離",
-    "definition_cht": "指與「放射性粒子電離」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "物質受 α、β 或其他放射性粒子通過時，原子或分子被擊出電子而形成離子對的過程，是大氣電學與輻射偵測中的基本機制之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactive-particle_ionization"
   },
   {
     "english": "radioactivity",
     "traditional_chinese": "放射性",
-    "definition_cht": "指與「放射性」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "不穩定原子核自發放射粒子或電磁輻射的性質；常以活度、衰變率或相關輻射量測指標表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/radioactivity"
   },
   {
     "english": "radiomaximograph",
-    "traditional_chinese": "放射最大記錄儀",
-    "definition_cht": "指與「放射最大記錄儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "輻射極大值記錄儀",
+    "definition_cht": "用於記錄輻射強度極大值或其隨時間變化的儀器；在氣象與輻射觀測中，多指連續記錄太陽或其他環境輻射峰值的裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiomaximograph"
   },
   {
     "english": "radiometer",
     "traditional_chinese": "輻射計",
-    "definition_cht": "指與「輻射計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "量測輻射通量、輻照度、輻亮度或相關電磁輻射量的儀器；在氣象、遙測與衛星觀測中常用於量測可見光、紅外線或微波輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiometer"
   },
   {
     "english": "radiometry",
     "traditional_chinese": "輻射測量",
-    "definition_cht": "指與「輻射測量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "對電磁輻射能量及其空間、時間或光譜分布進行定量測定的技術與方法總稱，不限於人眼可見光。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiometry"
   },
   {
     "english": "Radiosonde",
     "traditional_chinese": "無線電探空儀",
-    "definition_cht": "指與「無線電探空儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "由氣球攜升至高空、以無線電即時回傳觀測資料的遙測儀器，可量測或推算氣壓、溫度、濕度、位置及高空風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Radiosonde"
   },
   {
