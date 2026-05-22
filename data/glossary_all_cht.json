@@ -37609,122 +37609,122 @@
   },
   {
     "english": "Pitch",
-    "traditional_chinese": "瀝青",
-    "definition_cht": "指與「瀝青」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "俯仰",
+    "definition_cht": "指物體繞橫軸的角位移或擺動；在航空與海洋中常指航空器、船舶或浮標艏艉方向的上下俯仰運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pitch"
   },
   {
     "english": "Pitot tube",
     "traditional_chinese": "皮託管",
-    "definition_cht": "指與「皮託管」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "量測流體總壓（停滯壓）並與靜壓配合推算流速的管狀探頭；在航空氣象與風洞量測中常用以求取空速或風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pitot_tube"
   },
   {
     "english": "Pitot-tube anemometer",
     "traditional_chinese": "皮託管風速計",
-    "definition_cht": "指量測「皮託管風速計」相關物理量的儀器、計量裝置或測定器。",
+    "definition_cht": "利用皮託管量得的總壓與靜壓差換算風速的風速計，適用於需量測較高風速或定向氣流的觀測與試驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pitot-tube_anemometer"
   },
   {
     "english": "pivot arm anemometer",
-    "traditional_chinese": "轉臂風速計",
-    "definition_cht": "指量測「轉臂風速計」相關物理量的儀器、計量裝置或測定器。",
+    "traditional_chinese": "轉臂式風速計",
+    "definition_cht": "以可轉動支臂受風偏轉或受風力矩變化來換算風速的機械式風速計。",
     "source_url": "https://glossary.ametsoc.org/wiki/pivot_arm_anemometer"
   },
   {
     "english": "pixel",
     "traditional_chinese": "像素",
-    "definition_cht": "指與「像素」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "數位影像或遙測資料中最小的取樣與顯示單元；每一像素對應特定位置的亮度、輻射值或色彩資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/pixel"
   },
   {
     "english": "pixel value",
     "traditional_chinese": "像素值",
-    "definition_cht": "指與「像素值」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指數位影像中單一像素所儲存的數值，用以表示該像素的亮度、色彩分量或遙測量測到的輻射訊號強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/pixel_value"
   },
   {
     "english": "Plage",
-    "traditional_chinese": "普拉吉",
-    "definition_cht": "指與「普拉吉」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "譜斑",
+    "definition_cht": "太陽色球層中出現在黑子活動區附近的明亮區域，常於氫α或鈣 H、K 線觀測中較為顯著，與局部強磁場活動有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Plage"
   },
   {
     "english": "plan position indicator",
-    "traditional_chinese": "計劃位置指示器",
-    "definition_cht": "指與「計劃位置指示器」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "平面位置指示器",
+    "definition_cht": "雷達常用顯示方式之一，以雷達站為中心、同心圓表示距離，並隨天線旋轉顯示各方位回波分布；常縮寫為 PPI。",
     "source_url": "https://glossary.ametsoc.org/wiki/plan_position_indicator"
   },
   {
     "english": "Planck function",
     "traditional_chinese": "普朗克函數",
-    "definition_cht": "指與「普朗克函數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "描述黑體在給定溫度下，隨波長或頻率變化之光譜輻射亮度分布的函數，為輻射傳輸與遙測反演的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Planck_function"
   },
   {
     "english": "Planck's constant",
     "traditional_chinese": "普朗克常數",
-    "definition_cht": "指與「普朗克常數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "量子力學中的基本物理常數，連結光子能量與頻率的關係 E=hν；在輻射、光譜與遙測理論中為核心常數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Planck%27s_constant"
   },
   {
     "english": "Planck's radiation law",
     "traditional_chinese": "普朗克輻射定律",
-    "definition_cht": "指與「普朗克輻射定律」相關的輻射能量、通量或其傳輸過程。",
+    "definition_cht": "描述黑體在熱平衡下，其電磁輻射光譜能量分布隨溫度與波長（或頻率）變化的定律。",
     "source_url": "https://glossary.ametsoc.org/wiki/Planck%27s_radiation_law"
   },
   {
     "english": "plane albedo",
     "traditional_chinese": "平面反照率",
-    "definition_cht": "指與「平面反照率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "某一平面表面對入射輻射的反射能力，通常定義為反射輻射通量與入射輻射通量之比。",
     "source_url": "https://glossary.ametsoc.org/wiki/plane_albedo"
   },
   {
     "english": "plane atmospheric wave",
     "traditional_chinese": "平面大氣波",
-    "definition_cht": "指與「平面大氣波」相關的波動、擾動或傳播現象，可見於大氣、海洋或電磁系統。",
+    "definition_cht": "以相位面可近似視為彼此平行平面的理想化大氣波動，用於分析重力波、聲波或其他線性擾動的傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/plane_atmospheric_wave"
   },
   {
     "english": "plane flow",
     "traditional_chinese": "平面流",
-    "definition_cht": "指與「平面流」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "流場主要僅在單一平面內變化，垂直於該平面的速度分量可忽略的理想化流動，常近似為二維流。",
     "source_url": "https://glossary.ametsoc.org/wiki/plane_flow"
   },
   {
     "english": "plane of the ecliptic",
     "traditional_chinese": "黃道面",
-    "definition_cht": "指與「黃道面」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "地球繞太陽公轉軌道所在的平面，也是天球上黃道所對應的基準平面。",
     "source_url": "https://glossary.ametsoc.org/wiki/plane_of_the_ecliptic"
   },
   {
     "english": "plane parallel atmosphere",
-    "traditional_chinese": "平面平行大氣",
-    "definition_cht": "指與「平面平行大氣」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "平行平板大氣",
+    "definition_cht": "輻射傳輸中常用的大氣近似，將大氣視為水平均勻、由彼此平行的層面組成，而忽略地球曲率效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/plane_parallel_atmosphere"
   },
   {
     "english": "plane polarization",
     "traditional_chinese": "平面偏振",
-    "definition_cht": "指與「平面偏振」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "又稱線偏振，指橫波的振動方向侷限於固定平面內的偏振狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/plane_polarization"
   },
   {
     "english": "plane wave",
     "traditional_chinese": "平面波",
-    "definition_cht": "指與「平面波」相關的波動、擾動或傳播現象，可見於大氣、海洋或電磁系統。",
+    "definition_cht": "波前為互相平行平面的理想化波動；在任一與傳播方向垂直的平面上，其相位相同。",
     "source_url": "https://glossary.ametsoc.org/wiki/plane_wave"
   },
   {
     "english": "plane-dendritic crystal",
-    "traditional_chinese": "平面樹枝晶",
-    "definition_cht": "指與「平面樹枝晶」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "平板樹枝晶",
+    "definition_cht": "雪晶的一種板狀樹枝型態，主要在基面上向外分枝生長，常形成具六角對稱的樹枝狀冰晶。",
     "source_url": "https://glossary.ametsoc.org/wiki/plane-dendritic_crystal"
   },
   {
     "english": "planetary albedo",
     "traditional_chinese": "行星反照率",
-    "definition_cht": "指與「行星反照率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "整個行星系統將入射太陽輻射反射回太空的比例，反映其雲層、地表與大氣對太陽輻射的整體反射能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/planetary_albedo"
   },
   {
