@@ -35216,13 +35216,13 @@
   {
     "english": "ocean",
     "traditional_chinese": "海洋",
-    "definition_cht": "「海洋」指覆蓋地球大部分表面的彼此連通鹹水體總稱；在氣象與海洋學中，亦常指其中任一大洋分區，以及其與大氣之間的熱量、水氣與動量交換系統。",
+    "definition_cht": "「海洋」指覆蓋地球大部分表面、彼此相連通的巨大鹹水體總稱；在氣象與海洋學中，也常指其中任一大洋分區，以及其與大氣之間進行熱量、水氣與動量交換的海氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean"
   },
   {
     "english": "ocean conveyor belt",
     "traditional_chinese": "全球海洋輸送帶",
-    "definition_cht": "「全球海洋輸送帶」是由溫鹽差異驅動、並與風生環流相互連結的全球尺度海洋翻轉循環；其典型概念包括北大西洋深水下沉、深層水跨洋盆輸送，以及在其他海域上升回到表層。",
+    "definition_cht": "「全球海洋輸送帶」是指由溫度與鹽度差異所造成的密度驅動深層環流，並與風生表層環流相互連結而成的全球尺度海洋翻轉循環；其典型特徵包括北大西洋深水下沉、深層跨洋盆輸送，以及其他海域的上升回返。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_conveyor_belt"
   },
   {
@@ -35240,13 +35240,13 @@
   {
     "english": "ocean station",
     "traditional_chinese": "海洋測站",
-    "definition_cht": "「海洋測站」指海上預先劃定的固定作業區域，供海洋測站船或其他平台駐留並持續進行氣象與海況觀測；當船舶位於該指定區域內執勤時，即稱為在站（on station）。",
+    "definition_cht": "「海洋測站」指海上預先劃定、供海洋測站船巡弋或值守的特定作業區域；執勤船舶位於該區域範圍內時稱為在站（on station），用以持續執行海上氣象與海況觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_station"
   },
   {
     "english": "ocean station vessel",
     "traditional_chinese": "海洋測站船",
-    "definition_cht": "「海洋測站船」指被派駐於海洋測站執行值守的遠洋船舶，配備人員與儀器以持續進行海面與高空氣象觀測，並回報海況、天氣與上空資料。",
+    "definition_cht": "「海洋測站船」又常縮寫為 OSV，指受派在海洋測站巡弋或值守的遠洋船舶，配備人員與儀器以持續進行海面與高空氣象觀測，並回報天氣、海況及上空資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_station_vessel"
   },
   {
@@ -35264,7 +35264,7 @@
   {
     "english": "ocean weather station",
     "traditional_chinese": "海洋氣象站",
-    "definition_cht": "「海洋氣象站」指依世界氣象組織等作業規範，在特定海域由裝備完善且有人值守的船舶或平台持續觀測天氣與海況，並透過國際交換系統回報資料的海上觀測站。",
+    "definition_cht": "「海洋氣象站」依世界氣象組織用法，指海上特定位置由設備完善且有人值守的船舶或平台持續觀測天氣與海況，並透過國際交換系統回報觀測資料的海上測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/ocean_weather_station"
   },
   {
@@ -35282,13 +35282,13 @@
   {
     "english": "oceanography",
     "traditional_chinese": "海洋學",
-    "definition_cht": "「海洋學」是綜合研究海洋的學科，涵蓋海盆與海岸等物理邊界、海水的物理與化學性質、海洋環流，以及海洋生物與相關地球系統過程。",
+    "definition_cht": "「海洋學」是綜合研究海洋的科學，涵蓋海洋的物理邊界、海水的物理與化學性質、海洋環流、海底地形，以及海洋生物與相關地球系統過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/oceanography"
   },
   {
     "english": "octa",
-    "traditional_chinese": "八分量雲量單位",
-    "definition_cht": "「octa」是將天空雲覆蓋程度分成八等分時所用的雲量單位；0 octa 表示晴空，8 octa 表示全天空被雲遮蔽，常用於人工觀測與航空氣象報告。",
+    "traditional_chinese": "八分雲量單位",
+    "definition_cht": "「octa」是將全天空視野的雲覆蓋程度劃分為八等分時所使用的雲量單位；0 octa 表示晴空，8 octa 表示全天空被雲遮蔽，常用於人工觀測、航空氣象與天氣報告。",
     "source_url": "https://glossary.ametsoc.org/wiki/octa"
   },
   {
@@ -35300,7 +35300,7 @@
   {
     "english": "odd chlorine",
     "traditional_chinese": "奇數氯",
-    "definition_cht": "「奇數氯」是平流層化學中對一組無機含氯活性物種的統稱，主要包括 Cl 與 ClO 等可快速互相轉換並參與臭氧消耗循環的化學種。",
+    "definition_cht": "「奇數氯」通常記為 ClOx，指平流層臭氧化學中可快速彼此轉換的一組無機含氯活性化學種總稱，核心成員包括 Cl 與 ClO，並常延伸包含相關無機氯物種；此化學族在催化臭氧消耗過程中具有關鍵作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/odd_chlorine"
   },
   {
@@ -35312,25 +35312,25 @@
   {
     "english": "Odd oxygen",
     "traditional_chinese": "奇數氧",
-    "definition_cht": "「奇數氧」指原子氧 O 與臭氧 O3 濃度的總和；在低層大氣中通常因臭氧濃度遠高於原子氧，其數值常可近似視為臭氧濃度。",
+    "definition_cht": "「奇數氧」指原子氧 O 與臭氧 O3 濃度的總和；在低層大氣中通常因臭氧濃度遠高於原子氧，其數值常可近似視為臭氧濃度，為分析大氣光化學的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Odd_oxygen"
   },
   {
     "english": "odd-oxygen system",
     "traditional_chinese": "奇數氧系統",
-    "definition_cht": "「奇數氧系統」指包含奇數個氧原子的化學物種集合，主要為原子氧 O 與臭氧 O3；此系統是平流層與中高層大氣臭氧光化學分析的重要概念。",
+    "definition_cht": "「奇數氧系統」指包含奇數個氧原子的化學物種集合，主要為原子氧 O 與臭氧 O3；此概念常用於平流層與中高層大氣臭氧光化學分析，以整體追蹤臭氧生成、破壞與轉換。",
     "source_url": "https://glossary.ametsoc.org/wiki/odd-oxygen_system"
   },
   {
     "english": "oe",
-    "traditional_chinese": "奧斯特（符號）",
-    "definition_cht": "「Oe」是 oersted 的單位符號，為厘米—克—秒制（cgs）中磁場強度 H 的單位，常見於地磁與電磁相關文獻。",
+    "traditional_chinese": "奧斯特（單位符號）",
+    "definition_cht": "「Oe」是 oersted 的單位符號，為厘米－克－秒制（cgs）中磁場強度 H 的單位記號，常見於地磁與電磁相關文獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/oe"
   },
   {
     "english": "oersted",
     "traditional_chinese": "奧斯特",
-    "definition_cht": "「奧斯特」是厘米—克—秒制（cgs）中磁場強度 H 的單位，符號為 Oe；在自由空間中，1 Oe 對應的磁感應強度約為 1 gauss 的量級，常用於地磁與電磁測量。",
+    "definition_cht": "「奧斯特」是厘米－克－秒制（cgs）中磁場強度 H 的單位，符號為 Oe；1 Oe 約對應 1000/(4π) A/m，常用於地磁、磁性材料與電磁測量。",
     "source_url": "https://glossary.ametsoc.org/wiki/oersted"
   },
   {
