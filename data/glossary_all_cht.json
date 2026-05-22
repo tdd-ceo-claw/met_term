@@ -38210,121 +38210,121 @@
   {
     "english": "Polar stratospheric clouds",
     "traditional_chinese": "極地平流層雲",
-    "definition_cht": "指與「極地平流層雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "definition_cht": "形成於冬季極區平流層、約 15–25 公里高度的雲，常由過冷的硝酸與水滴或冰晶組成；其中部分雲型可促進臭氧破壞反應，與臭氧洞形成有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Polar_stratospheric_clouds"
   },
   {
     "english": "polar trough",
     "traditional_chinese": "極槽",
-    "definition_cht": "指與「極槽」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "位於高緯度或近極區的大尺度低壓槽，通常代表冷空氣向較低緯延伸的槽狀環流結構，常與冷空氣活動、鋒面發展及不穩定天氣有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_trough"
   },
   {
     "english": "Polar vortex",
     "traditional_chinese": "極渦",
-    "definition_cht": "指與「極渦」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "環繞地球極區的持續性冷心低壓渦旋環流，可指平流層或對流層中的極區大尺度旋轉冷空氣系統；其強弱與位相會影響中高緯度寒潮及噴流配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/Polar_vortex"
   },
   {
     "english": "polar wandering",
-    "traditional_chinese": "極地漂泊",
-    "definition_cht": "指與「極地漂泊」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "極移",
+    "definition_cht": "指地質時間尺度上地球磁極或地理極相對於地殼位置的漂移現象，常透過古地磁紀錄加以推定；在地球物理上亦稱極漂移或極 wander。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_wandering"
   },
   {
     "english": "polar wind",
-    "traditional_chinese": "極地風",
-    "definition_cht": "指與「極地風」相關的風場、局地風或風系特徵，用於描述其成因、方向與影響。",
+    "traditional_chinese": "極風",
+    "definition_cht": "由極區高空電離層沿開放磁力線向磁層外流的輕離子氣流，主要成分為氫離子與氧離子，屬高層大氣與太空物理中的極區外逸現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_wind"
   },
   {
     "english": "polar wind divide",
-    "traditional_chinese": "極地風分水嶺",
-    "definition_cht": "指與「極地風分水嶺」相關的風場、局地風或風系特徵，用於描述其成因、方向與影響。",
+    "traditional_chinese": "極風分界",
+    "definition_cht": "在極區高層大氣或磁層研究中，指分隔不同離子外流來源區或流向區的邊界，用以區分極風外逸區與鄰近等離子體動力區。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar_wind_divide"
   },
   {
     "english": "polar-easterlies index",
     "traditional_chinese": "極地東風指數",
-    "definition_cht": "指以「極地東風指數」為名之指標，用於量化特定氣象、水文或海洋狀態的強弱與變化。",
+    "definition_cht": "用於量化極地東風帶強度或變動的環流指標，可依特定緯帶的海平面氣壓、位勢高度或風場資料計算，用來描述高緯度大氣環流狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar-easterlies_index"
   },
   {
     "english": "Polar-front theory",
     "traditional_chinese": "極鋒理論",
-    "definition_cht": "指與「極鋒理論」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
+    "definition_cht": "卑爾根學派提出的中緯度氣旋生成理論，認為溫帶低壓沿極鋒發展，並經波動增強、暖鋒與冷鋒形成、閉塞等階段演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/Polar-front_theory"
   },
   {
     "english": "Polar-orbiting operational environmental satellite",
-    "traditional_chinese": "極軌運行環境衛星",
-    "definition_cht": "指「極軌運行環境衛星」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "traditional_chinese": "極軌業務環境衛星",
+    "definition_cht": "美國 NOAA 過去使用的極軌氣象衛星系列，英文縮寫為 POES；主要搭載可見光、紅外線及探空等儀器，用於全球天氣監測、海冰、雲系與環境觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Polar-orbiting_operational_environmental_satellite"
   },
   {
     "english": "polar-orbiting satellite",
     "traditional_chinese": "極軌衛星",
-    "definition_cht": "指與「極軌衛星」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "繞行路徑接近南北極上空的人造衛星，藉由地球自轉可逐步涵蓋全球；氣象上常用於全球雲圖、溫濕度探測、海面與冰雪監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/polar-orbiting_satellite"
   },
   {
     "english": "polarimeter",
-    "traditional_chinese": "旋光計",
-    "definition_cht": "指量測「旋光計」相關物理量的儀器、計量裝置或測定器。",
+    "traditional_chinese": "偏振計",
+    "definition_cht": "量測電磁波偏振狀態或偏振參數的儀器，可用於大氣遙測、氣膠與雲微物理反演，以及海面與地表反射特性觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/polarimeter"
   },
   {
     "english": "polarimetric radar",
     "traditional_chinese": "偏振雷達",
-    "definition_cht": "指與「偏振雷達」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "利用不同偏振態發射與接收電磁波的雷達，可藉差反射率、差相位與相關係數等參數判別降水粒子形狀、相態與粒徑分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/polarimetric_radar"
   },
   {
     "english": "polariscope",
     "traditional_chinese": "偏光鏡",
-    "definition_cht": "指與「偏光鏡」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "用於觀察、分析或檢驗光波偏振狀態的光學儀器，常由偏振片等元件組成，可應用於晶體、應力或散射特性研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/polariscope"
   },
   {
     "english": "polarity",
     "traditional_chinese": "極性",
-    "definition_cht": "指與「極性」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指物理量、電場、磁場或波動所具有的方向性、正負性或偏振性質；在大氣電學、遙測與材料光學中常用以描述其定向特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/polarity"
   },
   {
     "english": "polarizability",
     "traditional_chinese": "極化率",
-    "definition_cht": "指與「極化率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "物質在外加電場作用下產生誘導偶極矩的能力，通常表示單位電場可造成的極化程度，是描述介質電性與散射特性的基本參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/polarizability"
   },
   {
     "english": "polarization",
     "traditional_chinese": "極化",
-    "definition_cht": "指與「極化」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指物質或電磁波在外力、電場或傳播條件作用下呈現特定方向排列或振動狀態的現象；在遙測與雷達中常指電磁波偏振狀態的形成與變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/polarization"
   },
   {
     "english": "polarization matrix",
     "traditional_chinese": "偏振矩陣",
-    "definition_cht": "指與「偏振矩陣」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "描述電磁波偏振態及其轉換關係的矩陣表示法，可用於表述散射體、介質或光學系統對入射偏振訊號的改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/polarization_matrix"
   },
   {
     "english": "polarization-diversity radar",
     "traditional_chinese": "偏振分集雷達",
-    "definition_cht": "指與「偏振分集雷達」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "以兩種或多種偏振通道分別發射、接收或組合訊號的雷達系統，用以提升目標辨識、降低衰減與雜訊影響，並增強降水或散射體特徵判讀能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/polarization-diversity_radar"
   },
   {
     "english": "polder",
     "traditional_chinese": "圩田",
-    "definition_cht": "指與「圩田」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "以堤防圍起並排水後形成的低地，多見於沿海或湖沼周邊；在水文與土地利用上常指經人工治水後供耕作、居住或管理之圍墾地。",
     "source_url": "https://glossary.ametsoc.org/wiki/polder"
   },
   {
     "english": "pole",
     "traditional_chinese": "極",
-    "definition_cht": "指與「極」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "球體、天體或座標系中位於旋轉軸、磁軸或對稱軸端點的點或區域；在地球科學中常指地理極、磁極、天極等基準位置。",
     "source_url": "https://glossary.ametsoc.org/wiki/pole"
   },
   {
