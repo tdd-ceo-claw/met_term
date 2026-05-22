@@ -39650,121 +39650,121 @@
   {
     "english": "pulse repetition frequency",
     "traditional_chinese": "脈衝重複頻率",
-    "definition_cht": "指與「脈衝重複頻率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "雷達每秒發射脈衝的次數，通常以赫茲表示；其大小會同時影響可量測的最遠距離與都卜勒雷達可無模糊偵測的徑向速度範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/pulse_repetition_frequency"
   },
   {
     "english": "pulse volume",
-    "traditional_chinese": "脈搏量",
-    "definition_cht": "指與「脈搏量」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "脈衝體積",
+    "definition_cht": "雷達單一脈衝在某一距離上實際取樣的大氣三維體積，由脈衝長度、天線波束寬度與目標距離共同決定。",
     "source_url": "https://glossary.ametsoc.org/wiki/pulse_volume"
   },
   {
     "english": "pulse-pair processing",
     "traditional_chinese": "脈衝對處理",
-    "definition_cht": "指與「脈衝對處理」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "都卜勒雷達常用的訊號處理方法，利用相鄰兩個回波脈衝的相位差與相關性估算目標的平均徑向速度與譜寬。",
     "source_url": "https://glossary.ametsoc.org/wiki/pulse-pair_processing"
   },
   {
     "english": "pulse-time-modulated radiosonde",
-    "traditional_chinese": "脈衝時間調製無線電探空儀",
-    "definition_cht": "指與「脈衝時間調製無線電探空儀」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "脈衝時間調變式無線電探空儀",
+    "definition_cht": "一種以脈衝時間間隔或脈衝位置調變方式，把溫度、濕度、氣壓等感測資料編碼後無線傳送的探空儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/pulse-time-modulated_radiosonde"
   },
   {
     "english": "pulsed radar",
     "traditional_chinese": "脈衝雷達",
-    "definition_cht": "指與「脈衝雷達」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "以短暫電磁脈衝間歇發射並在脈衝間接收回波的雷達；可依脈衝往返時間判定目標距離，廣用於氣象觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/pulsed_radar"
   },
   {
     "english": "pulsed-light cloud-height indicator",
-    "traditional_chinese": "脈衝光雲高指示器",
-    "definition_cht": "指與「脈衝光雲高指示器」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "traditional_chinese": "脈衝光式雲高儀",
+    "definition_cht": "利用向上發射的光脈衝並量測其自雲底散射返回所需時間，以決定雲底高度的雲高量測儀器，屬於雲高儀的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/pulsed-light_cloud-height_indicator"
   },
   {
     "english": "pumping",
-    "traditional_chinese": "泵浦",
-    "definition_cht": "指與「泵浦」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "抽汲作用",
+    "definition_cht": "地下水文中指由抽水造成井內與含水層水位下降並誘發周圍地下水向井流動的作用；亦可泛指以泵持續抽送流體的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/pumping"
   },
   {
     "english": "pumping head",
-    "traditional_chinese": "泵浦頭",
-    "definition_cht": "指與「泵浦頭」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "抽水揚程",
+    "definition_cht": "抽水時泵浦必須克服的總水頭，通常指由抽水水位提升至出水口或排放基準面所需的能量高度差。",
     "source_url": "https://glossary.ametsoc.org/wiki/pumping_head"
   },
   {
     "english": "pumping test",
-    "traditional_chinese": "泵送測試",
-    "definition_cht": "指與「泵送測試」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "抽水試驗",
+    "definition_cht": "以控制流量持續抽取井水，並量測抽水井及觀測井水位降深隨時間變化，用以估算含水層水力傳導性、儲水性與井性能的現地試驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/pumping_test"
   },
   {
     "english": "pumping water level",
-    "traditional_chinese": "抽水位",
-    "definition_cht": "指與「抽水位」相關的水團、水體性質或水文狀態，常用於海洋學與水文分析。",
+    "traditional_chinese": "抽水水位",
+    "definition_cht": "井在抽水運轉期間所呈現的動態水位，通常低於靜水位；其高低受抽水率、含水層特性與井損失影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/pumping_water_level"
   },
   {
     "english": "purga",
-    "traditional_chinese": "普加",
-    "definition_cht": "指與「普加」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "普爾加暴風雪",
+    "definition_cht": "俄羅斯與西伯利亞地區對強烈暴風雪的稱呼，常伴隨強風、低溫與大量飛雪或吹雪，能顯著降低能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/purga"
   },
   {
     "english": "purl",
-    "traditional_chinese": "金銀絲",
-    "definition_cht": "指與「金銀絲」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "細波紋",
+    "definition_cht": "水面因微風、剪切或細小擾動形成的細密捲曲波紋或輕微翻捲紋理；可用來描述局地水面粗糙度的微小變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/purl"
   },
   {
     "english": "purple light",
     "traditional_chinese": "紫光",
-    "definition_cht": "指與「紫光」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "日出前或日落後近地平線上方偶見的紫紅至紫色輝光，通常與大氣散射、臭氧吸收及暮光色帶的疊合作用有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/purple_light"
   },
   {
     "english": "pycnocline",
-    "traditional_chinese": "碧麗斜鹼",
-    "definition_cht": "指與「碧麗斜鹼」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "密度躍層",
+    "definition_cht": "水體中密度隨深度變化最劇烈的層次，常由溫度或鹽度快速改變造成，並會抑制上下層之間的垂直混合。",
     "source_url": "https://glossary.ametsoc.org/wiki/pycnocline"
   },
   {
     "english": "pyranogram",
-    "traditional_chinese": "總輻射譜",
-    "definition_cht": "指與「總輻射譜」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "總輻射記錄圖",
+    "definition_cht": "以圖形方式連續記錄一段時間內全球太陽輻射或總短波輻射變化的曲線或圖表，通常由總輻射記錄儀產生。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyranogram"
   },
   {
     "english": "pyranograph",
-    "traditional_chinese": "吡喃圖",
-    "definition_cht": "指以圖形方式表現「吡喃圖」相關量值、變化或分類結果的圖表。",
+    "traditional_chinese": "總輻射記錄儀",
+    "definition_cht": "可連續量測並自動記錄平面所受全球太陽輻射（直達加散射短波輻射）隨時間變化的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyranograph"
   },
   {
     "english": "pyranometer",
     "traditional_chinese": "總輻射表",
-    "definition_cht": "指量測「總輻射表」相關物理量的儀器、計量裝置或測定器。",
+    "definition_cht": "量測平面上所接收全球太陽輻照度的儀器，涵蓋天空半球的直達與散射短波輻射；為常用的日射觀測設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyranometer"
   },
   {
     "english": "pyrgeometer",
-    "traditional_chinese": "高溫計",
-    "definition_cht": "指量測「高溫計」相關物理量的儀器、計量裝置或測定器。",
+    "traditional_chinese": "長波輻射表",
+    "definition_cht": "量測近地表大氣或地表所發出與接收之長波紅外輻射通量的儀器，常用於地表能量收支與輻射平衡觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrgeometer"
   },
   {
     "english": "pyrheliogram",
-    "traditional_chinese": "直射圖",
-    "definition_cht": "指與「直射圖」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "直達日射記錄圖",
+    "definition_cht": "連續記錄太陽直達輻射隨時間變化的曲線或圖表，通常由直達日射記錄儀所產生。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrheliogram"
   },
   {
     "english": "pyrheliograph",
-    "traditional_chinese": "直射日照儀",
-    "definition_cht": "指以圖形方式表現「直射日照儀」相關量值、變化或分類結果的圖表。",
+    "traditional_chinese": "直達日射記錄儀",
+    "definition_cht": "可自動追日並連續記錄太陽直達輻射強度隨時間變化的儀器，本質上為具有記錄功能的直達日射儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/pyrheliograph"
   },
   {
