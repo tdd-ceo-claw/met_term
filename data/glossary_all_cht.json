@@ -38929,122 +38929,122 @@
   },
   {
     "english": "prefrontal squall line",
-    "traditional_chinese": "前額颮線",
-    "definition_cht": "指與「前額颮線」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
+    "traditional_chinese": "前鋒颮線",
+    "definition_cht": "出現在冷鋒或其他主要鋒面前方的颮線，常由強對流單體排列而成，可在鋒前暖濕不穩定環境中觸發陣風、豪雨、雷暴，甚至龍捲。",
     "source_url": "https://glossary.ametsoc.org/wiki/prefrontal_squall_line"
   },
   {
     "english": "prefrontal thunderstorm",
-    "traditional_chinese": "前額雷暴",
-    "definition_cht": "指與「前額雷暴」相關的風暴、劇烈天氣系統或其演變特徵。",
+    "traditional_chinese": "鋒前雷暴",
+    "definition_cht": "生成於鋒面到達前方的雷暴，通常發展在鋒前暖濕且不穩定的氣團中，可由低層輻合線、海陸風界線或鋒前颮線觸發。",
     "source_url": "https://glossary.ametsoc.org/wiki/prefrontal_thunderstorm"
   },
   {
     "english": "pressure",
     "traditional_chinese": "壓力",
-    "definition_cht": "指與「壓力」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "definition_cht": "單位面積上所受的垂直作用力；在氣象上通常指流體分子碰撞所形成的氣壓，其時空分布會主導風場、天氣系統與大氣運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure"
   },
   {
     "english": "pressure altimeter",
-    "traditional_chinese": "壓力高度計",
-    "definition_cht": "指與「壓力高度計」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓高度計",
+    "definition_cht": "利用氣壓隨高度遞減的關係推算高度的航空儀器；其讀值需依基準海平面氣壓調校，實際顯示的是壓力高度或校正後的指示高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_altimeter"
   },
   {
     "english": "pressure altitude",
-    "traditional_chinese": "壓力高度",
-    "definition_cht": "指與「壓力高度」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓高度",
+    "definition_cht": "在國際標準大氣中與某一觀測氣壓相對應的高度；亦可視為高度計設為 29.92 inHg（1013.25 hPa）時所指示的高度，常用於航空性能計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_altitude"
   },
   {
     "english": "pressure anomaly",
-    "traditional_chinese": "壓力異常",
-    "definition_cht": "指與「壓力異常」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓距平",
+    "definition_cht": "某地某時氣壓值相對於同地同時段長期平均值的偏差，用於診斷高、低壓異常及大尺度環流偏離常態的情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_anomaly"
   },
   {
     "english": "pressure center",
-    "traditional_chinese": "壓力中心",
-    "definition_cht": "指與「壓力中心」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓中心",
+    "definition_cht": "氣壓場中的極值中心，即封閉等壓線所圍成的高壓中心或低壓中心；常作為天氣系統定位與移動分析的基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_center"
   },
   {
     "english": "pressure coordinates",
-    "traditional_chinese": "壓力座標",
-    "definition_cht": "指與「壓力座標」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓座標",
+    "definition_cht": "以氣壓而非幾何高度作為垂直座標的表示方式，廣用於高空分析與數值天氣預報，可較自然地描述大氣分層與等壓面上的運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_coordinates"
   },
   {
     "english": "pressure correlation",
-    "traditional_chinese": "壓力相關性",
-    "definition_cht": "指與「壓力相關性」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓力相關",
+    "definition_cht": "描述兩處或兩組壓力變化彼此相關程度的統計量，用以分析壓力場的空間連動、遙相關結構或儀器量測的一致性。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_correlation"
   },
   {
     "english": "pressure force",
-    "traditional_chinese": "壓力",
-    "definition_cht": "指與「壓力」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓力力",
+    "definition_cht": "由壓力作用於單位面積或物體表面所產生的力；在流體中，其方向由高壓指向低壓，並可驅動流體或對物體產生受力。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_force"
   },
   {
     "english": "pressure gradient",
-    "traditional_chinese": "壓力梯度",
-    "definition_cht": "指與「壓力梯度」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓梯度",
+    "definition_cht": "氣壓在空間上的變化率，表示單位距離內氣壓改變的大小與方向；其愈大，通常代表驅動風的壓力梯度力愈強。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_gradient"
   },
   {
     "english": "pressure head",
-    "traditional_chinese": "壓頭",
-    "definition_cht": "指與「壓頭」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓力水頭",
+    "definition_cht": "以流體柱高度表示的壓力能，等於某點壓力除以流體重度所得的等效水柱高度；常用於地下水、水力學與孔隙介質流動分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_head"
   },
   {
     "english": "pressure ice",
-    "traditional_chinese": "壓力冰",
-    "definition_cht": "指與「壓力冰」相關的海冰、冰體或冰相現象，用於描述其形態、分布、生成或運動特徵。",
+    "traditional_chinese": "擠壓冰",
+    "definition_cht": "海冰受風、流或外力擠壓後發生破裂、堆疊與隆起所形成的不平整冰體，可包含冰脊、冰丘等受壓變形構造。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_ice"
   },
   {
     "english": "pressure jump",
-    "traditional_chinese": "壓力跳躍",
-    "definition_cht": "指與「壓力跳躍」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓躍增",
+    "definition_cht": "在極短時間內發生的明顯氣壓突升或突變，常伴隨鋒面、雷暴外流、重力波或其他中小尺度擾動通過。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_jump"
   },
   {
     "english": "pressure jump detector",
-    "traditional_chinese": "壓力躍變檢測器",
-    "definition_cht": "指與「壓力躍變檢測器」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓躍增檢測器",
+    "definition_cht": "用於偵測短時間內氣壓急劇變化的裝置或演算法，可協助辨識鋒面、雷暴陣風前緣、壓力波動等事件的到達。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_jump_detector"
   },
   {
     "english": "pressure melting",
     "traditional_chinese": "壓力熔化",
-    "definition_cht": "指與「壓力熔化」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "definition_cht": "固體在外加壓力下熔點降低而發生融化的現象；對冰而言尤為典型，常用以解釋冰川底部滑動、冰刀滑行等機制的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_melting"
   },
   {
     "english": "pressure pattern",
-    "traditional_chinese": "壓力模式",
-    "definition_cht": "指「壓力模式」所代表的大尺度環流型態、空間分布結構或遙相關配置，用於診斷氣候與天氣異常。",
+    "traditional_chinese": "氣壓型態",
+    "definition_cht": "某一時刻或時段內氣壓場的空間分布形態，包括高低壓配置、脊槽結構與等壓線排列，常用於判讀天氣型與環流背景。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_pattern"
   },
   {
     "english": "pressure ridge",
-    "traditional_chinese": "壓力脊",
-    "definition_cht": "指與「壓力脊」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "高壓脊",
+    "definition_cht": "氣壓場中由高壓中心向外延伸的狹長高壓區，其等壓線或等位勢高度場呈脊狀突出，通常與較穩定、下沉或晴朗天氣相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_ridge"
   },
   {
     "english": "pressure spectrum",
-    "traditional_chinese": "壓力譜",
-    "definition_cht": "指與「壓力譜」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓力頻譜",
+    "definition_cht": "將壓力訊號依頻率或波數分解後所得的能量分布，用以分析氣壓振盪、湍流、聲波或其他週期性壓力變化的主要尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_spectrum"
   },
   {
     "english": "pressure stress",
-    "traditional_chinese": "壓力應力",
-    "definition_cht": "指與「壓力應力」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "壓應力",
+    "definition_cht": "由各向同性壓力所造成、垂直作用於受力面的應力分量；在流體與固體力學中，常與剪應力相對，用來描述受壓狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/pressure_stress"
   },
   {
