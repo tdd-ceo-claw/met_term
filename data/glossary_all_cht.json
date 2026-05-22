@@ -35335,122 +35335,122 @@
   },
   {
     "english": "off-airways",
-    "traditional_chinese": "停航",
-    "definition_cht": "「停航」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "偏離航路",
+    "definition_cht": "「偏離航路」主要用於航空與航空氣象，指航空器未沿既定航空路線（airway）飛行，而是在航路系統之外進行航行或作業；此類飛行通常仍需依相關航管程序與導航能力執行。",
     "source_url": "https://glossary.ametsoc.org/wiki/off-airways"
   },
   {
     "english": "off-center PPI scope",
-    "traditional_chinese": "偏心 PPI 範圍",
-    "definition_cht": "「偏心 PPI 範圍」為觀測、顯示或量測用途之儀器，用於呈現特定氣象或物理訊號的空間與時間變化。",
+    "traditional_chinese": "偏心式 PPI 顯示器",
+    "definition_cht": "「偏心式 PPI 顯示器」指平面位置指示器（PPI）的一種雷達顯示方式，將雷達站位置由螢幕中心移開，以便擴大顯示某一方向或前方區域的回波範圍，常用於航海、航空或天氣雷達判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/off-center_PPI_scope"
   },
   {
     "english": "offshore wind",
     "traditional_chinese": "離岸風",
-    "definition_cht": "「離岸風」為特定風系、局地風或相對風向型態之稱；通常用以描述風的來源方向、形成環境及其對天氣或海況的影響。",
+    "definition_cht": "「離岸風」指由陸地吹向海面的風，即風向朝離岸方向；其形成常與海陸熱力差異、地形或天氣系統配置有關，對近岸海況、污染擴散與沿海天氣具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/offshore_wind"
   },
   {
     "english": "Ogasawara high",
-    "traditional_chinese": "小笠原高中",
-    "definition_cht": "「小笠原高中」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "小笠原高壓",
+    "definition_cht": "「小笠原高壓」是日本氣象用語，通常指夏半年影響日本附近海域的西北太平洋副熱帶高壓；因其常位於小笠原群島附近而得名，與東亞夏季晴熱、穩定天氣及颱風路徑配置密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ogasawara_high"
   },
   {
     "english": "ogive",
-    "traditional_chinese": "尖頂",
-    "definition_cht": "「尖頂」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "累積頻率曲線",
+    "definition_cht": "「累積頻率曲線」為將累積次數或累積相對頻率隨變數值變化繪成的曲線，常用於氣象、水文與統計分析，以表示某一量值不超過或至少達到某門檻的累積分布特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/ogive"
   },
   {
     "english": "ohmic current",
     "traditional_chinese": "歐姆電流",
-    "definition_cht": "「歐姆電流」指海洋、河川或近岸水體中的流動現象或特定流系，用以描述水體在一定動力條件下的輸送方向、強度與結構。",
+    "definition_cht": "「歐姆電流」指符合歐姆定律的導電電流，其大小與介質電導率及外加電場強度成正比；在大氣電學中，常用以描述空氣中由電場驅動的傳導電流成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/ohmic_current"
   },
   {
     "english": "oil slick",
-    "traditional_chinese": "浮油",
-    "definition_cht": "「浮油」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "浮油膜",
+    "definition_cht": "「浮油膜」指漂浮於海面、河面或其他水體表面的薄層油類污染物；其可由洩漏、排放或事故形成，會改變水面反照與表面粗糙度，並對海洋環境與遙測判識造成影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/oil_slick"
   },
   {
     "english": "old snow",
-    "traditional_chinese": "老雪",
-    "definition_cht": "「老雪」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "陳雪",
+    "definition_cht": "「陳雪」指降落後已在地表停留一段時間、並經歷壓密、融凍或再結晶等變質作用的積雪；其晶體形態、密度與反照率通常已不同於新雪。",
     "source_url": "https://glossary.ametsoc.org/wiki/old_snow"
   },
   {
     "english": "Old Wives' summer",
-    "traditional_chinese": "老婦人的夏天",
-    "definition_cht": "「老婦人的夏天」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "晚秋暖和期",
+    "definition_cht": "「晚秋暖和期」為英語俗稱，意指秋季後段短暫出現的反常溫暖、乾燥而較穩定的天氣，概念上近似 Indian summer；多見於溫帶地區，常發生在初霜之後或接近其後。",
     "source_url": "https://glossary.ametsoc.org/wiki/Old_Wives%27_summer"
   },
   {
     "english": "Olland cycle",
     "traditional_chinese": "奧蘭循環",
-    "definition_cht": "「奧蘭循環」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "「奧蘭循環」為較少見的專門術語；現有常見氣象與通用參考來源對其記載有限，通常僅將其視為某種循環性變化或理論週期名稱。基於目前可得資料不足，暫保留音譯，待取得更明確的權威來源後再細化定義。",
     "source_url": "https://glossary.ametsoc.org/wiki/Olland_cycle"
   },
   {
     "english": "OLS",
-    "traditional_chinese": "最小平方法",
-    "definition_cht": "「最小平方法」為相關領域常用之縮寫或代號；在氣象、海洋、環境監測或遙測應用中；通常用以表示特定機構、觀測系統、物理量、作業產品或分析方法。",
+    "traditional_chinese": "普通最小平方法",
+    "definition_cht": "「普通最小平方法」是統計與氣象資料分析中常用的參數估計方法，透過最小化觀測值與模型估計值之間殘差平方和，求得線性回歸或其他線性模型的最佳擬合係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/OLS"
   },
   {
     "english": "ombrometer",
-    "traditional_chinese": "測光儀",
-    "definition_cht": "「測光儀」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "雨量計",
+    "definition_cht": "「雨量計」是量測一定期間內液態降水量的儀器，又稱 ombrometer 或 pluviometer；氣象與水文觀測常以其測得之降雨深度評估降水強度、累積雨量與區域水文反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/ombrometer"
   },
   {
     "english": "ombroscope",
-    "traditional_chinese": "顯微鏡",
-    "definition_cht": "「顯微鏡」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "驗雨器",
+    "definition_cht": "「驗雨器」是用以偵測是否正在降雨或記錄降雨發生情形的儀器，著重於顯示或指示雨是否出現，而不一定像雨量計那樣直接量得精確降水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/ombroscope"
   },
   {
     "english": "omega equation",
     "traditional_chinese": "歐米伽方程",
-    "definition_cht": "「歐米伽方程」為描述物理量之間關係的方程式，常用於大氣動力、海洋過程或數值分析研究。",
+    "definition_cht": "「歐米伽方程」是天氣動力學與綜觀氣象學中的診斷方程，用於在氣壓座標下估算大氣垂直運動速度 ω；常依渦度平流、溫度平流與差動加熱等強迫項分析上升與下沉區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/omega_equation"
   },
   {
     "english": "omega sun",
-    "traditional_chinese": "歐米茄太陽",
-    "definition_cht": "「歐米茄太陽」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "歐米伽太陽",
+    "definition_cht": "「歐米伽太陽」指日出或日落前後，因近地平線大氣折射與海面上方溫度逆增層造成下方日像變形，令太陽外觀短暫呈現希臘字母 Ω 形狀的海市蜃樓光學現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/omega_sun"
   },
   {
     "english": "on and off instruments",
-    "traditional_chinese": "打開和關閉儀器",
-    "definition_cht": "「打開和關閉儀器」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "開關式儀器",
+    "definition_cht": "「開關式儀器」指輸出僅表示某一現象是否發生、某一閾值是否被超過，或設備是否處於啟動／停止狀態的儀器；其訊號通常為二元或接點式，而非連續量測數值。",
     "source_url": "https://glossary.ametsoc.org/wiki/on_and_off_instruments"
   },
   {
     "english": "on top",
-    "traditional_chinese": "在上面",
-    "definition_cht": "「在上面」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "雲上飛行",
+    "definition_cht": "「雲上飛行」為航空用語，指航空器位於雲層上方飛行，通常上方天空較為晴朗，而下方則存在雲層或雲海；此情況常用於飛航描述與目視／儀器飛行作業判斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/on_top"
   },
   {
     "english": "one-and-a-half order closure",
-    "traditional_chinese": "一年半訂單關閉",
-    "definition_cht": "「一年半訂單關閉」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "一點五階閉合",
+    "definition_cht": "「一點五階閉合」是邊界層與湍流參數化中的閉合方法，除預報平均場外，並另外預報湍流動能等二階量，再以診斷方式表示更高階通量或統計量，因此介於一階與二階閉合之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/one-and-a-half_order_closure"
   },
   {
     "english": "one-dimensional model",
     "traditional_chinese": "一維模式",
-    "definition_cht": "「一維模式」為用以描述、模擬或預測大氣、海洋、水文或環境系統的概念性、統計性或數值性模式。",
+    "definition_cht": "「一維模式」指只在一個空間方向上明確描述變化的理論或數值模式，其他方向則被忽略、平均化或以參數化處理；常用於研究垂直大氣柱、土壤、海洋混合層或河道等問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/one-dimensional_model"
   },
   {
     "english": "one-way entrainment process",
-    "traditional_chinese": "單向夾帶過程",
-    "definition_cht": "「單向夾帶過程」為一種物理、化學或動力演變過程，用於說明系統隨時間發生的轉變機制。",
+    "traditional_chinese": "單向捲入過程",
+    "definition_cht": "「單向捲入過程」指流體、雲體或混合層邊界只由一側持續捲入外部空氣或其他介質，而不明顯伴隨反向回混或對等交換的混合過程；此概念常用於理想化描述雲物理與邊界層演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/one-way_entrainment_process"
   },
   {
