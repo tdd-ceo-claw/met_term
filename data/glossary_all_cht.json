@@ -36410,121 +36410,121 @@
   {
     "english": "partial derivative",
     "traditional_chinese": "偏導數",
-    "definition_cht": "指與「偏導數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "多變數函數對其中一個自變數求導、並將其餘自變數視為不變時所得的導數；常用於描述大氣場與海洋場的局部梯度、通量變化與控制方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/partial_derivative"
   },
   {
     "english": "partial drought",
-    "traditional_chinese": "部分乾旱",
-    "definition_cht": "指與「部分乾旱」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "局部乾旱",
+    "definition_cht": "指乾旱影響僅限於某一地區、流域部分範圍或特定用水／作物部門的情況，並非整個研究區皆同時出現全面性乾旱。",
     "source_url": "https://glossary.ametsoc.org/wiki/partial_drought"
   },
   {
     "english": "partial obscuration",
     "traditional_chinese": "部分遮蔽",
-    "definition_cht": "指「部分遮蔽」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "definition_cht": "航空天氣觀測中的天空狀況分類，指有 0.1 至 0.9 的天空被近地面遮蔽現象（如霧、煙、塵或吹雪）完全遮住，但仍可見其餘部分天空。",
     "source_url": "https://glossary.ametsoc.org/wiki/partial_obscuration"
   },
   {
     "english": "partial pressure",
     "traditional_chinese": "分壓",
-    "definition_cht": "指與「分壓」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "definition_cht": "混合氣體中某一成分若單獨占據同一體積並維持相同溫度時所產生的壓力；在氣象上常用以表示水氣、氧氣或二氧化碳等氣體成分的壓力貢獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/partial_pressure"
   },
   {
     "english": "partial-duration series",
-    "traditional_chinese": "部分持續時間系列",
-    "definition_cht": "指「部分持續時間系列」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "traditional_chinese": "超越門檻序列",
+    "definition_cht": "水文頻率分析中將所有超過指定臨界值的事件一併納入所形成的序列，不受每年僅取一個極值的限制；與年最大值序列相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/partial-duration_series"
   },
   {
     "english": "partially penetrating well",
     "traditional_chinese": "部分穿透井",
-    "definition_cht": "指與「部分穿透井」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "井篩管或集水段僅穿透含水層部分厚度的水井；其井流分布與降深會受垂向流動及含水層厚度影響，與完全穿透井不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/partially_penetrating_well"
   },
   {
     "english": "particle",
     "traditional_chinese": "粒子",
-    "definition_cht": "指與「粒子」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指具有有限大小與質量的微小固體、液滴或理想化物質單元；在大氣科學中常指氣膠粒子、雲滴、冰晶、雨滴或模式中的示蹤粒子。",
     "source_url": "https://glossary.ametsoc.org/wiki/particle"
   },
   {
     "english": "particle charge",
     "traditional_chinese": "粒子電荷",
-    "definition_cht": "指與「粒子電荷」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "粒子表面所帶的淨電荷量，可由摩擦、碰撞、感應或離子附著形成；其大小與極性會影響氣膠凝聚、雲滴／冰晶交互作用及雷暴電氣化。",
     "source_url": "https://glossary.ametsoc.org/wiki/particle_charge"
   },
   {
     "english": "Particle size distribution",
-    "traditional_chinese": "粒徑分佈",
-    "definition_cht": "指與「粒徑分佈」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "粒徑分布",
+    "definition_cht": "描述一群粒子依粒徑或直徑分級後的數量、表面積、體積或質量分配情形；為分析氣膠、雲滴、降水粒子與沉積過程的重要性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/Particle_size_distribution"
   },
   {
     "english": "particle velocity",
     "traditional_chinese": "粒子速度",
-    "definition_cht": "指與「粒子速度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "介質中實際粒子或微團塊隨時間運動的速度向量；在波動、聲學與流體運動中，用以區分介質粒子的往復運動與波前傳播速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/particle_velocity"
   },
   {
     "english": "particulate loading",
     "traditional_chinese": "顆粒物負荷",
-    "definition_cht": "指與「顆粒物負荷」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "單位體積空氣、單位面積大氣柱或特定氣流中所含顆粒物的總量，常以質量濃度、柱含量或輸送通量表示，用於評估污染、沙塵或煙霧強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/particulate_loading"
   },
   {
     "english": "particulates",
     "traditional_chinese": "顆粒物",
-    "definition_cht": "指與「顆粒物」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "懸浮於空氣中的固體微粒與液滴總稱，包括塵埃、煙、海鹽、硫酸鹽、有機氣膠及其他氣膠成分；其粒徑、成分與濃度會影響能見度、健康與輻射收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/particulates"
   },
   {
     "english": "partly cloudy",
-    "traditional_chinese": "多雲",
-    "definition_cht": "指與「多雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "traditional_chinese": "晴時多雲",
+    "definition_cht": "表示天空僅有部分區域為雲所覆蓋、仍保有相當比例晴空的天氣狀況；其雲量通常明顯少於陰天或近乎全雲覆蓋的情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/partly_cloudy"
   },
   {
     "english": "pascal",
     "traditional_chinese": "帕斯卡",
-    "definition_cht": "指與「帕斯卡」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "國際單位制中的壓力單位，定義為每平方公尺承受一牛頓的力，即 1 Pa = 1 N/m²；氣象上常用百帕（hPa）表示氣壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/pascal"
   },
   {
     "english": "Pascal's law",
     "traditional_chinese": "帕斯卡定律",
-    "definition_cht": "指與「帕斯卡定律」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "密閉流體所受的壓力變化會等量向各方向傳遞至流體各處及容器壁面；此原理常用於解釋液壓系統中的壓力傳遞。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pascal%27s_law"
   },
   {
     "english": "Pasquill stability classes",
-    "traditional_chinese": "Pasquill 穩定性等級",
-    "definition_cht": "指與「Pasquill 穩定性等級」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "帕斯奎爾穩定度等級",
+    "definition_cht": "用於描述近地層大氣穩定度的經驗分類系統，通常分為 A 到 F 級，代表由極不穩定到極穩定；常應用於污染物擴散與煙流行為估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pasquill_stability_classes"
   },
   {
     "english": "passive cloud",
     "traditional_chinese": "被動雲",
-    "definition_cht": "指與「被動雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "definition_cht": "尚未達到可由凝結潛熱自行維持正浮力的雲體，主要隨環境氣流被動移動與演變；與可持續發展深對流的活躍雲相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/passive_cloud"
   },
   {
     "english": "passive permafrost",
-    "traditional_chinese": "被動永凍土",
-    "definition_cht": "指與「被動永凍土」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "被動多年凍土",
+    "definition_cht": "在現行氣候條件下若一旦融化便難以重新建立、需依賴過去較冷氣候或局地保冷條件才能維持存在的多年凍土；與活性多年凍土相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/passive_permafrost"
   },
   {
     "english": "passive system",
-    "traditional_chinese": "被動系統",
-    "definition_cht": "指與「被動系統」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "被動式系統",
+    "definition_cht": "不主動發射電磁波、雷射或聲波，而是接收目標自身發射、反射或散射之自然能量以進行探測的系統，如被動微波與紅外遙測儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/passive_system"
   },
   {
     "english": "patchy turbulence",
-    "traditional_chinese": "片狀湍流",
-    "definition_cht": "指與「片狀湍流」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "斑塊狀湍流",
+    "definition_cht": "在空間上呈零散分布、僅局部區域出現而非連續成層存在的湍流；常見於大氣邊界層、晴空亂流或海洋混合過程中的間歇性湍動區。",
     "source_url": "https://glossary.ametsoc.org/wiki/patchy_turbulence"
   },
   {
