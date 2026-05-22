@@ -1111,122 +1111,122 @@
   },
   {
     "english": "photoelectric transmittance meter",
-    "traditional_chinese": "光電透過率計",
-    "definition_cht": "指量測「光電透過率計」相關物理量的儀器、計量裝置或測定器。",
+    "traditional_chinese": "光電透射率計",
+    "definition_cht": "以發光器與接收器量測光束穿越固定路徑後之透射率或消光程度的儀器，常用於估算大氣能見度、跑道視程或其他介質的透明度。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoelectric_transmittance_meter"
   },
   {
     "english": "photoelectron",
     "traditional_chinese": "光電子",
-    "definition_cht": "指與「光電子」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "物質吸收光子後逸出的電子；為光電效應所產生的帶電粒子，在光譜分析、探測器與表面物理研究中十分重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoelectron"
   },
   {
     "english": "photogrammetry",
     "traditional_chinese": "攝影測量",
-    "definition_cht": "指與「攝影測量」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "利用重疊照片或其他電磁影像進行量測與判釋，以推求地物的位置、形狀、尺寸與高程的技術；常用於地形測繪、遙測與雲體分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/photogrammetry"
   },
   {
     "english": "photographic barograph",
     "traditional_chinese": "照相氣壓計",
-    "definition_cht": "指以圖形方式表現「照相氣壓計」相關量值、變化或分類結果的圖表。",
+    "definition_cht": "一種自記氣壓計，利用感壓元件帶動光學或機械記錄裝置，將氣壓隨時間的變化連續記錄於感光材料上。",
     "source_url": "https://glossary.ametsoc.org/wiki/photographic_barograph"
   },
   {
     "english": "photoionization",
     "traditional_chinese": "光電離",
-    "definition_cht": "指與「光電離」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "原子、分子或氣膠粒子吸收光子後失去電子而形成離子的過程，是高層大氣、電離層與大氣化學中的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoionization"
   },
   {
     "english": "photolabile",
-    "traditional_chinese": "不耐光的",
-    "definition_cht": "指與「不耐光的」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "對光不穩定的",
+    "definition_cht": "指物質在光照下容易分解、變質或失活的性質；常用於描述某些化學物種、污染物或有機化合物對輻射的敏感度。",
     "source_url": "https://glossary.ametsoc.org/wiki/photolabile"
   },
   {
     "english": "photolysis",
     "traditional_chinese": "光解作用",
-    "definition_cht": "指與「光解作用」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "分子吸收光子後發生鍵結斷裂而解離為較小分子、原子或自由基的過程，是大氣光化學反應的重要起始機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/photolysis"
   },
   {
     "english": "photometer",
     "traditional_chinese": "光度計",
-    "definition_cht": "指量測「光度計」相關物理量的儀器、計量裝置或測定器。",
+    "definition_cht": "量測光強度、照度、亮度或相關輻射量的儀器；在氣象與天文觀測中亦可用於測定天空輻射、日照或天體亮度。",
     "source_url": "https://glossary.ametsoc.org/wiki/photometer"
   },
   {
     "english": "photometry",
     "traditional_chinese": "光度測定",
-    "definition_cht": "指與「光度測定」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "對可見光或其他特定波段電磁輻射之強度進行量測與定量分析的方法；可應用於天文測光、輻射觀測與化學分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/photometry"
   },
   {
     "english": "photon",
     "traditional_chinese": "光子",
-    "definition_cht": "指與「光子」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "電磁輻射能量的量子，也是光的基本粒子；其能量與頻率成正比，常用於描述輻射傳輸、光化學與遙測訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/photon"
   },
   {
     "english": "photon flow rate",
-    "traditional_chinese": "光子流速",
-    "definition_cht": "指與「光子流速」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "光子流率",
+    "definition_cht": "單位時間內由光源發射、或通過某一截面的光子總數，用以表示光源輸出或輻射場中光子的時間輸送速率。",
     "source_url": "https://glossary.ametsoc.org/wiki/photon_flow_rate"
   },
   {
     "english": "photon flux",
     "traditional_chinese": "光子通量",
-    "definition_cht": "指與「光子通量」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "單位面積、單位時間內通過某一面的光子數，用以表示輻射場的光子密度流；在光合作用、光化學與遙測中常作為重要量測量。",
     "source_url": "https://glossary.ametsoc.org/wiki/photon_flux"
   },
   {
     "english": "photooxidation",
     "traditional_chinese": "光氧化",
-    "definition_cht": "指與「光氧化」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "物質在光照作用下與氧或其他氧化劑發生氧化反應的過程；在大氣中常涉及揮發性有機物、臭氧與二次污染物的生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/photooxidation"
   },
   {
     "english": "photoperiod",
     "traditional_chinese": "光週期",
-    "definition_cht": "指「光週期」所代表的時期、地質年代或特定持續時間概念。",
+    "definition_cht": "一晝夜之中受光的持續時間，即日照長度；其季節變化會影響生物活動、作物發育與陸氣交換過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoperiod"
   },
   {
     "english": "photoperiodism",
-    "traditional_chinese": "光週期現象",
-    "definition_cht": "指「光週期現象」所代表的時期、地質年代或特定持續時間概念。",
+    "traditional_chinese": "光週期性",
+    "definition_cht": "生物對日照長短變化所產生的生理或行為反應，如植物開花、休眠及動物繁殖、遷徙等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/photoperiodism"
   },
   {
     "english": "photopic vision",
     "traditional_chinese": "明視覺",
-    "definition_cht": "指與「明視覺」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在高照度條件下由視錐細胞主導的視覺狀態，具有良好的色彩辨識能力與較高空間解析度，與暗視覺相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/photopic_vision"
   },
   {
     "english": "photopolarimeter",
-    "traditional_chinese": "光旋光計",
-    "definition_cht": "指量測「光旋光計」相關物理量的儀器、計量裝置或測定器。",
+    "traditional_chinese": "光偏振計",
+    "definition_cht": "用來量測光之偏振狀態的儀器，可測定偏振度、偏振方向或相關偏振參數，常用於大氣散射與遙測觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/photopolarimeter"
   },
   {
     "english": "photosphere",
     "traditional_chinese": "光球層",
-    "definition_cht": "指與「光球層」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "恆星外層中主要向外發射可見光的區域，通常視為恆星的可見表面；就太陽而言，光球層是太陽黑子與米粒組織可見的層次。",
     "source_url": "https://glossary.ametsoc.org/wiki/photosphere"
   },
   {
     "english": "photostationary state relation",
     "traditional_chinese": "光穩態關係",
-    "definition_cht": "指與「光穩態關係」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在持續光化反應下，反應物與生成物濃度達近似穩定時所滿足的關係式；大氣化學中常指 NO、NO₂ 與 O₃ 之間的光穩態平衡關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/photostationary_state_relation"
   },
   {
     "english": "photosynthesis",
     "traditional_chinese": "光合作用",
-    "definition_cht": "指與「光合作用」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "植物、藻類及部分細菌利用光能將二氧化碳與水轉換為有機物並儲存能量的過程；氧合型光合作用並會釋放氧氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/photosynthesis"
   },
   {
