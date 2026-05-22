@@ -859,122 +859,122 @@
   },
   {
     "english": "outer vortex",
-    "traditional_chinese": "外渦",
-    "definition_cht": "「外渦」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "外圍渦旋",
+    "definition_cht": "指渦旋或氣旋環流中位於核心之外的外側旋轉部分；在熱帶氣旋語境中，常用來描述眼牆外圍或外圈環流的渦旋結構，會影響外圍風場與系統演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/outer_vortex"
   },
   {
     "english": "outflow",
     "traditional_chinese": "外流",
-    "definition_cht": "「外流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指空氣自風暴系統向外擴散的流動；在雷暴低層多為降水冷卻後向外推展的冷出流，在熱帶氣旋高層則指有助於把質量自核心排出的外逸氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/outflow"
   },
   {
     "english": "outflow boundary",
-    "traditional_chinese": "流出邊界",
-    "definition_cht": "「流出邊界」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "外流邊界",
+    "definition_cht": "由雷暴冷出流向外推進所形成的邊界，分隔受雷暴冷卻的空氣與周圍較暖空氣；通過時常伴隨風向突變、氣溫下降，性質近似小尺度冷鋒。",
     "source_url": "https://glossary.ametsoc.org/wiki/outflow_boundary"
   },
   {
     "english": "outflow jet",
-    "traditional_chinese": "流出射流",
-    "definition_cht": "「流出射流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "外流急流",
+    "definition_cht": "指自強對流或熱帶氣旋上層向外延伸的狹長強風帶，為高空外流集中增強的區域；其發展可反映系統通風與強度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/outflow_jet"
   },
   {
     "english": "outgoing longwave radiation",
-    "traditional_chinese": "出射長波輻射",
-    "definition_cht": "「出射長波輻射」指輻射能量之發射、傳輸、吸收或收支相關概念，常用於大氣輻射、地表能量平衡與遙測分析。",
+    "traditional_chinese": "向外長波輻射",
+    "definition_cht": "指地球—大氣系統自大氣頂向太空放射的長波（紅外）輻射，常簡稱 OLR；是地球散失能量的重要途徑，也常用來反映雲量、對流強弱與輻射收支。",
     "source_url": "https://glossary.ametsoc.org/wiki/outgoing_longwave_radiation"
   },
   {
     "english": "outlet glacier",
     "traditional_chinese": "出口冰川",
-    "definition_cht": "「出口冰川」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指由內陸冰蓋或冰帽向外排泄、並經周緣山地缺口或谷地流出的冰川；其作用在於把內陸冰體輸送至較低地區或海岸。",
     "source_url": "https://glossary.ametsoc.org/wiki/outlet_glacier"
   },
   {
     "english": "outlook",
-    "traditional_chinese": "前景",
-    "definition_cht": "「前景」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "展望",
+    "definition_cht": "指針對未來一段時間天氣或氣候條件所發布的趨勢性預報或風險評估，通常較一般逐時或逐日預報更著重整體型勢、機率與潛在影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/outlook"
   },
   {
     "english": "output",
     "traditional_chinese": "輸出",
-    "definition_cht": "「輸出」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指模式、電腦程式、儀器或資料處理流程產生的結果，可為數值、圖表、訊號或產品；在氣象上常指數值天氣預報模式或觀測系統的輸出資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/output"
   },
   {
     "english": "overcast",
-    "traditional_chinese": "陰天",
-    "definition_cht": "「陰天」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "密雲天",
+    "definition_cht": "指天空幾乎完全被雲層覆蓋的狀態；在航空氣象觀測中常以 OVC 表示，通常代表雲量達八分天以上並形成雲底高資訊所對應的全天空覆蓋。",
     "source_url": "https://glossary.ametsoc.org/wiki/overcast"
   },
   {
     "english": "overflow",
     "traditional_chinese": "溢流",
-    "definition_cht": "「溢流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指水體超過河道、湖盆、水庫或其他容納空間能力而向外漫溢或外洩的情形；在水文與海洋語境中，也可指流體跨越地形門檻後向下游外溢的流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/overflow"
   },
   {
     "english": "overland flow",
     "traditional_chinese": "地表逕流",
-    "definition_cht": "「地表逕流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指降水或融雪未及入滲而沿地表向低處流動的水流，又稱坡面流；為集水區產流、土壤侵蝕與洪峰形成的重要過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/overland_flow"
   },
   {
     "english": "overlap",
     "traditional_chinese": "重疊",
-    "definition_cht": "「重疊」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指兩個或多個區域、層次、時間段或資料範圍彼此部分相同的情形；在氣象中常用於描述雲層、雷達掃描、觀測範圍或資料時空覆蓋的交疊。",
     "source_url": "https://glossary.ametsoc.org/wiki/overlap"
   },
   {
     "english": "overrunning",
-    "traditional_chinese": "暖平流越流",
-    "definition_cht": "「暖平流越流」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "越流",
+    "definition_cht": "指較暖、較輕的氣團沿較冷、較密空氣上方滑升的天氣型態，常見於暖鋒或近地面冷空氣退卻時；常伴隨廣泛層狀雲與持續性降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/overrunning"
   },
   {
     "english": "overseeding",
-    "traditional_chinese": "監督",
-    "definition_cht": "「監督」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "過量播雲",
+    "definition_cht": "指人工增雨或天氣修改作業中，向雲體播撒過多冰核或凝結核物質，以致可用水氣分散於過多粒子上，反而降低降水粒子成長效率的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/overseeding"
   },
   {
     "english": "overshooting top",
     "traditional_chinese": "穿頂雲頂",
-    "definition_cht": "「穿頂雲頂」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指強烈積雨雲上升氣流穿越平衡高度與砧狀雲頂、向平流層下部鼓出的圓頂狀雲頂；常是劇烈對流、冰雹、強風或其他嚴重天氣的重要徵象。",
     "source_url": "https://glossary.ametsoc.org/wiki/overshooting_top"
   },
   {
     "english": "overtrades",
     "traditional_chinese": "越赤道信風",
-    "definition_cht": "「越赤道信風」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指跨越赤道後仍維持原有東風性質、並因科氏力改變而在另一半球轉向的信風氣流；多用於描述由一半球越過赤道、進入另一半球季風環流的低層氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/overtrades"
   },
   {
     "english": "overturn",
-    "traditional_chinese": "翻轉",
-    "definition_cht": "「翻轉」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "翻覆",
+    "definition_cht": "指流體因不穩定而發生上下層交換、垂直翻轉或重新混合的過程；在大氣可指對流翻覆，在海洋則可指密度驅動的垂直翻轉與深層循環調整。",
     "source_url": "https://glossary.ametsoc.org/wiki/overturn"
   },
   {
     "english": "Owens dust recorder",
     "traditional_chinese": "歐文斯塵埃記錄器",
-    "definition_cht": "「歐文斯塵埃記錄器」為可連續記錄特定環境變數或觀測結果之儀器，有助於掌握時間變化特性。",
+    "definition_cht": "一種早期用於連續或定時收集並記錄空氣中塵埃濃度變化的儀器，藉由抽氣使粒子沉積於載片或記錄面上，以供後續計數、比較與空氣品質觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Owens_dust_recorder"
   },
   {
     "english": "ox's eye",
-    "traditional_chinese": "牛眼雲區",
-    "definition_cht": "「牛眼雲區」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "traditional_chinese": "牛眼雲",
+    "definition_cht": "航海與天氣俗語，指天空中孤立而小的雲塊，外觀似牛眼；傳統上被視為風勢增強或較大片風暴雲系即將接近的先兆。",
     "source_url": "https://glossary.ametsoc.org/wiki/ox%27s_eye"
   },
   {
     "english": "oxidant",
     "traditional_chinese": "氧化劑",
-    "definition_cht": "「氧化劑」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指能氧化其他物質、在反應中接受電子的化學成分；大氣科學中常指臭氧、過氧化物等具強氧化性的污染物或光化學反應產物，會影響空氣品質與化學轉化。",
     "source_url": "https://glossary.ametsoc.org/wiki/oxidant"
   },
   {
