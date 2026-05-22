@@ -39410,122 +39410,122 @@
   {
     "english": "propagation effect",
     "traditional_chinese": "傳播效應",
-    "definition_cht": "指與「傳播效應」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/propagation_effect"
+    "definition_cht": "指大氣或其他介質對電磁波、聲波等傳播所造成的影響，常包括折射、導引、衰減、散射、多重路徑等現象；在雷達與無線電氣象應用中尤為重要。",
+    "source_url": "https://glossary.ametsoc.org/wiki/propagation-effect/"
   },
   {
     "english": "propane",
     "traditional_chinese": "丙烷",
-    "definition_cht": "指與「丙烷」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/propane"
+    "definition_cht": "化學式為 C3H8 的烴類，屬大氣中的微量還原性痕量氣體之一，來源包括化石燃料逸散、燃燒與生物質燃燒；可參與對流層光化學反應。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Propane"
   },
   {
     "english": "propeller anemometer",
     "traditional_chinese": "螺旋槳風速計",
-    "definition_cht": "指量測「螺旋槳風速計」相關物理量的儀器、計量裝置或測定器。",
-    "source_url": "https://glossary.ametsoc.org/wiki/propeller_anemometer"
+    "definition_cht": "一種旋轉式風速計，以螺旋槳受風轉動的轉速推算風速；對沿螺旋槳軸向的風分量特別敏感。",
+    "source_url": "https://glossary.ametsoc.org/wiki/propeller-anemometer/"
   },
   {
     "english": "propeller-type current meter",
-    "traditional_chinese": "螺旋槳式海流計",
-    "definition_cht": "指與「螺旋槳式海流計」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
-    "source_url": "https://glossary.ametsoc.org/wiki/propeller-type_current_meter"
+    "traditional_chinese": "螺旋槳式流速計",
+    "definition_cht": "利用流體帶動螺旋槳旋轉，依其轉速換算水流流速的儀器，可用於河川、渠道或海流觀測。",
+    "source_url": "https://glossary.ametsoc.org/wiki/propeller-type-current-meter/"
   },
   {
     "english": "propeller-vane anemometer",
-    "traditional_chinese": "螺旋槳式風速計",
-    "definition_cht": "指量測「螺旋槳式風速計」相關物理量的儀器、計量裝置或測定器。",
-    "source_url": "https://glossary.ametsoc.org/wiki/propeller-vane_anemometer"
+    "traditional_chinese": "螺旋槳風向風速計",
+    "definition_cht": "由螺旋槳與風向標組成的儀器，可同時量測水平風速與風向；螺旋槳會隨風向對正來風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/propeller-vane-anemometer/"
   },
   {
     "english": "propene",
     "traditional_chinese": "丙烯",
-    "definition_cht": "指與「丙烯」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/propene"
+    "definition_cht": "化學式為 C3H6 的烯烴，為反應性揮發性有機物之一；來源包括燃料燃燒、生物質燃燒與海洋排放，會參與對流層光化學與臭氧生成。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Propene"
   },
   {
     "english": "protected thermometer",
-    "traditional_chinese": "受保護的溫度計",
-    "definition_cht": "指量測「受保護的溫度計」相關物理量的儀器、計量裝置或測定器。",
-    "source_url": "https://glossary.ametsoc.org/wiki/protected_thermometer"
+    "traditional_chinese": "保護式顛倒溫度計",
+    "definition_cht": "一種保護式顛倒溫度計，外殼設計可減少水壓對玻璃球泡的影響，用於海洋觀測時量測採樣深度的實際水溫；常與非保護式顛倒溫度計配合推算深度。",
+    "source_url": "https://glossary.ametsoc.org/wiki/protected-thermometer/"
   },
   {
     "english": "proton",
     "traditional_chinese": "質子",
-    "definition_cht": "指與「質子」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/proton"
+    "definition_cht": "帶一個正電荷的次原子粒子，為原子核的基本組成之一；在太空天氣中常指來自太陽高能粒子事件的質子。",
+    "source_url": "https://glossary.ametsoc.org/wiki/proton/"
   },
   {
     "english": "proton precipitation",
-    "traditional_chinese": "質子沉澱",
-    "definition_cht": "指與「質子沉澱」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/proton_precipitation"
+    "traditional_chinese": "質子沉降",
+    "definition_cht": "指高能質子沿地磁力線進入高層大氣的通量或過程，會影響極區電離層與高層大氣的電離、加熱及化學組成。",
+    "source_url": "https://glossary.ametsoc.org/wiki/proton-precipitation/"
   },
   {
     "english": "proton–proton chain",
-    "traditional_chinese": "質子-質子鏈",
-    "definition_cht": "指與「質子-質子鏈」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/proton%E2%80%93proton_chain"
+    "traditional_chinese": "質子－質子鏈反應",
+    "definition_cht": "恆星核心中將氫逐步融合為氦的一系列核融合反應，為太陽及類太陽低質量恆星的主要能量來源。",
+    "source_url": "https://glossary.ametsoc.org/wiki/proton-proton-chain/"
   },
   {
     "english": "protonosphere",
-    "traditional_chinese": "質子層",
-    "definition_cht": "指與「質子層」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/protonosphere"
+    "traditional_chinese": "氫質層",
+    "definition_cht": "外層大氣中以氫為主要成分的區域，通常指高層散逸層的一部分。",
+    "source_url": "https://glossary.ametsoc.org/wiki/protonosphere/"
   },
   {
     "english": "proxy climate record",
-    "traditional_chinese": "代理氣候記錄",
-    "definition_cht": "指與「代理氣候記錄」相關的氣候狀態、演變或古氣候特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/proxy_climate_record"
+    "traditional_chinese": "古氣候代用記錄",
+    "definition_cht": "利用樹輪、冰芯、珊瑚、沉積物、洞穴沉積或歷史文獻等間接證據重建過去氣候狀態的記錄。",
+    "source_url": "https://glossary.ametsoc.org/wiki/proxy-climate-record/"
   },
   {
     "english": "PSC",
-    "traditional_chinese": "PSC",
-    "definition_cht": "「PSC」為氣象、海洋、水文或遙測領域常用之縮寫、代號或分類名稱；其內容依專業語境可指特定系統、指標、頻帶、產品或理論量。",
-    "source_url": "https://glossary.ametsoc.org/wiki/PSC"
+    "traditional_chinese": "極地平流層雲",
+    "definition_cht": "Polar stratospheric cloud(s) 的縮寫，指形成於冬季極區平流層的雲；其表面可促進非均相化學反應，與極區臭氧耗損密切相關。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Polar_stratospheric_clouds"
   },
   {
     "english": "pseudo front",
-    "traditional_chinese": "偽前沿",
-    "definition_cht": "指與「偽前沿」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudo_front"
+    "traditional_chinese": "偽鋒",
+    "definition_cht": "外觀近似鋒面、但並非典型大尺度氣團交界的邊界；在強對流研究中常指超級胞內流區與後側下沉氣流之間的類冷鋒型邊界。",
+    "source_url": "https://glossary.ametsoc.org/wiki/pseudo-front/"
   },
   {
     "english": "pseudoadiabat",
-    "traditional_chinese": "擬絕熱線",
-    "definition_cht": "指與「擬絕熱線」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabat"
+    "traditional_chinese": "偽絕熱線",
+    "definition_cht": "在熱力圖上表示氣塊作偽絕熱膨脹時狀態變化的曲線。",
+    "source_url": "https://glossary.ametsoc.org/wiki/Pseudoadiabat"
   },
   {
     "english": "pseudoadiabatic chart",
     "traditional_chinese": "偽絕熱圖",
-    "definition_cht": "指與「偽絕熱圖」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabatic_chart"
+    "definition_cht": "以偽絕熱過程為主要基礎繪製的熱力圖，可用來分析氣塊上升、凝結、穩定度與對流發展。",
+    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabatic-chart/"
   },
   {
     "english": "pseudoadiabatic expansion",
-    "traditional_chinese": "贗絕熱膨脹",
-    "definition_cht": "指與「贗絕熱膨脹」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabatic_expansion"
+    "traditional_chinese": "偽絕熱膨脹",
+    "definition_cht": "飽和氣塊上升膨脹時，凝結所釋放的潛熱保留在氣塊中，但生成的液態水或冰立即移除，不再與氣塊保持熱力平衡的理想化過程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabatic-expansion/"
   },
   {
     "english": "pseudoadiabatic lapse rate",
-    "traditional_chinese": "偽絕熱失效率",
-    "definition_cht": "指與「偽絕熱失效率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabatic_lapse_rate"
+    "traditional_chinese": "偽絕熱遞減率",
+    "definition_cht": "氣塊作偽絕熱上升時的溫度隨高度降低的速率；因凝結釋放潛熱，其值通常小於乾絕熱遞減率，且隨溫度與含濕量而變。",
+    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabatic-lapse-rate/"
   },
   {
     "english": "pseudoadiabatic process",
     "traditional_chinese": "偽絕熱過程",
-    "definition_cht": "指與「偽絕熱過程」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabatic_process"
+    "definition_cht": "指飽和氣塊在上升或膨脹時，凝結出的水成物立即脫離氣塊，因此雖有潛熱交換，整體可視為一種理想化的濕絕熱近似過程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/pseudoadiabatic-process/"
   },
   {
     "english": "pseudocoloring",
-    "traditional_chinese": "偽著色",
-    "definition_cht": "指與「偽著色」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/pseudocoloring"
+    "traditional_chinese": "偽彩色化",
+    "definition_cht": "將原本灰階或單波段影像的亮度值依規則指定為不同顏色，以加強結構辨識與資料判讀的影像顯示方法；常用於衛星、雷達與遙測產品。",
+    "source_url": "https://en.wikipedia.org/wiki/False_color"
   },
   {
     "english": "pseudoequivalent potential temperature",
