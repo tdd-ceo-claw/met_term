@@ -1232,121 +1232,121 @@
   {
     "english": "photosynthetically active radiation",
     "traditional_chinese": "光合有效輻射",
-    "definition_cht": "指與「光合有效輻射」相關的輻射能量、通量或其傳輸過程。",
+    "definition_cht": "指可被光合作用利用的太陽輻射波段，通常為波長 400 至 700 奈米，常用來表示植物可用光能的強度或通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/photosynthetically_active_radiation"
   },
   {
     "english": "phreatic cycle",
     "traditional_chinese": "潛水循環",
-    "definition_cht": "指與「潛水循環」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指地下水在飽和帶與地表之間經補注、流動、出露與再補充所形成的循環過程，屬水文循環中的地下水部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/phreatic_cycle"
   },
   {
     "english": "phreatic water",
     "traditional_chinese": "潛水",
-    "definition_cht": "指與「潛水」相關的水團、水體性質或水文狀態，常用於海洋學與水文分析。",
+    "definition_cht": "指位於地下水位以下、充滿土壤或岩層孔隙與裂隙的地下水；狹義上常指不承壓含水層中的地下水。",
     "source_url": "https://glossary.ametsoc.org/wiki/phreatic_water"
   },
   {
     "english": "phreatophyte",
-    "traditional_chinese": "沼生植物",
-    "definition_cht": "指與「沼生植物」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "地下水植物",
+    "definition_cht": "指根系深長、主要自地下水位附近的飽和帶或毛細帶吸收水分的植物，常見於河岸、綠洲或乾旱區低地。",
     "source_url": "https://glossary.ametsoc.org/wiki/phreatophyte"
   },
   {
     "english": "physical climate",
     "traditional_chinese": "物理氣候",
-    "definition_cht": "指與「物理氣候」相關的氣候狀態、演變或古氣候特徵。",
+    "definition_cht": "指以溫度、濕度、風、輻射、降水與能量收支等物理要素所表徵的氣候狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/physical_climate"
   },
   {
     "english": "physical climatology",
     "traditional_chinese": "物理氣候學",
-    "definition_cht": "指與「物理氣候學」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "研究控制氣候形成與變化之物理過程的學科，重點包括輻射收支、熱量與水分循環、地表—大氣交互作用及大尺度環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/physical_climatology"
   },
   {
     "english": "physical forecasting",
-    "traditional_chinese": "物理預測",
-    "definition_cht": "指與「物理預測」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "物理法預報",
+    "definition_cht": "指依據大氣物理定律與實際天氣機制進行的預報方法，著重動力、熱力與雲降水等過程，而非僅靠統計關係推估。",
     "source_url": "https://glossary.ametsoc.org/wiki/physical_forecasting"
   },
   {
     "english": "physical meteorology",
     "traditional_chinese": "物理氣象學",
-    "definition_cht": "指與「物理氣象學」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "研究大氣中各種物理過程與性質的氣象學分支，內容包括輻射、雲與降水微物理、大氣光學與大氣電學等。",
     "source_url": "https://glossary.ametsoc.org/wiki/physical_meteorology"
   },
   {
     "english": "Physical Oceanographic Real-Time System",
-    "traditional_chinese": "實體海洋即時系統",
-    "definition_cht": "指以圖形方式表現「實體海洋即時系統」相關量值、變化或分類結果的圖表。",
+    "traditional_chinese": "物理海洋即時系統",
+    "definition_cht": "美國 NOAA 建置的即時海洋觀測與資訊服務系統，整合水位、潮流、波浪、氣象等資料，以支援港口航行安全與海岸作業決策。",
     "source_url": "https://glossary.ametsoc.org/wiki/Physical_Oceanographic_Real-Time_System"
   },
   {
     "english": "physical oceanography",
     "traditional_chinese": "物理海洋學",
-    "definition_cht": "指以圖形方式表現「物理海洋學」相關量值、變化或分類結果的圖表。",
+    "definition_cht": "研究海洋中物理性質與動力過程的學科，主要涵蓋溫鹽結構、密度分布、海流、潮汐、波浪與海氣交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/physical_oceanography"
   },
   {
     "english": "phytoclimate",
     "traditional_chinese": "植物氣候",
-    "definition_cht": "指與「植物氣候」相關的氣候狀態、演變或古氣候特徵。",
+    "definition_cht": "指就植物生長、分布或植被特性而言所呈現的氣候條件，也可指某地植被所反映的氣候環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/phytoclimate"
   },
   {
     "english": "phytoclimatology",
     "traditional_chinese": "植物氣候學",
-    "definition_cht": "指與「植物氣候學」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "研究氣候與植物或植被之間相互關係的學科，探討氣候如何影響植物生長與分布，以及植被如何反映氣候特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/phytoclimatology"
   },
   {
     "english": "phytometer",
-    "traditional_chinese": "植物計",
-    "definition_cht": "指量測「植物計」相關物理量的儀器、計量裝置或測定器。",
+    "traditional_chinese": "植物指示體",
+    "definition_cht": "指用來指示、比較或量測環境條件對植物生長影響的植物個體或標準化植物材料，常用於生態與作物環境研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/phytometer"
   },
   {
     "english": "phytotoxic",
     "traditional_chinese": "植物毒性",
-    "definition_cht": "指與「植物毒性」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指某種化學物質、污染物或環境條件對植物造成傷害、抑制生長或干擾生理功能的現象或性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/phytotoxic"
   },
   {
     "english": "phytotron",
-    "traditional_chinese": "植物生長素",
-    "definition_cht": "指與「植物生長素」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "植物環控研究室",
+    "definition_cht": "指可精確控制光照、溫度、濕度、二氧化碳與其他環境條件的封閉式植物研究設施，常用於植物—環境交互作用試驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/phytotron"
   },
   {
     "english": "Pi theorem",
-    "traditional_chinese": "圓周率定理",
-    "definition_cht": "指與「圓周率定理」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "白金漢 π 定理",
+    "definition_cht": "指量綱分析中的 Buckingham π theorem，說明含有 n 個物理變數且涉及 k 個基本量綱的關係式，可改寫為 n−k 個無因次參數之間的關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pi_theorem"
   },
   {
     "english": "pibal",
-    "traditional_chinese": "皮巴爾",
-    "definition_cht": "指與「皮巴爾」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "測風氣球",
+    "definition_cht": "指 pilot balloon 的簡稱；為充氣後釋放並以經緯儀追蹤其方位角與仰角變化，用以推算高空風向與風速的氣球觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/pibal"
   },
   {
     "english": "Piché evaporimeter",
     "traditional_chinese": "皮歇蒸發計",
-    "definition_cht": "指量測「皮歇蒸發計」相關物理量的儀器、計量裝置或測定器。",
+    "definition_cht": "一種以刻度玻璃管與吸水紙量測蒸發量的簡易蒸發儀器，通常垂直懸掛，用於估計自由水面或近似濕表面的蒸發強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pich%C3%A9_evaporimeter"
   },
   {
     "english": "Pico balloon",
     "traditional_chinese": "微型氣球",
-    "definition_cht": "指與「微型氣球」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指載荷極小、重量極輕的小型自由飛行氣球，常設計為可長時間滯空，用於業餘追蹤、通訊試驗或高空觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pico_balloon"
   },
   {
     "english": "picture element",
-    "traditional_chinese": "圖片元素",
-    "definition_cht": "指與「圖片元素」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "像素",
+    "definition_cht": "數位影像或顯示畫面中可定址與控制的最小單元，為 pixel 的全名；在遙測影像中常代表一個取樣位置及其亮度或色彩值。",
     "source_url": "https://glossary.ametsoc.org/wiki/picture_element"
   },
   {
