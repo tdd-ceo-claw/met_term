@@ -980,85 +980,85 @@
   {
     "english": "oxidation",
     "traditional_chinese": "氧化作用",
-    "definition_cht": "「氧化作用」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指物質失去電子、與氧結合或氧化數上升的化學過程；在大氣化學中常指污染物經羥基自由基、臭氧或其他氧化劑反應後轉化為較高氧化態產物。",
     "source_url": "https://glossary.ametsoc.org/wiki/oxidation"
   },
   {
     "english": "oxidizing capacity of atmosphere",
     "traditional_chinese": "大氣氧化能力",
-    "definition_cht": "「大氣氧化能力」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指大氣清除還原性氣體與污染物的整體化學氧化能力，主要由羥基自由基、臭氧、硝酸根自由基等氧化劑的濃度與反應活性所決定。",
     "source_url": "https://glossary.ametsoc.org/wiki/oxidizing_capacity_of_atmosphere"
   },
   {
     "english": "oxygen",
     "traditional_chinese": "氧",
-    "definition_cht": "「氧」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "化學元素 O，約占乾燥大氣體積的 20.95%；其分子氧是燃燒、呼吸與多種大氣化學反應的重要成分，也是遙測與吸收光譜分析的主要氣體之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/oxygen"
   },
   {
     "english": "oxygen band",
     "traditional_chinese": "氧吸收帶",
-    "definition_cht": "「氧吸收帶」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指大氣中氧氣在特定波長對電磁輻射產生明顯吸收的光譜帶，常見如近紅外 A band；可用於衛星遙測、雲與氣膠特性反演及大氣路徑長度估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/oxygen_band"
   },
   {
     "english": "Oyashio",
     "traditional_chinese": "親潮",
-    "definition_cht": "「親潮」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "北太平洋西部的寒流，源自白令海與鄂霍次克海，沿千島群島與日本東北外海向南流動，水溫低、營養鹽豐富，並在日本附近與黑潮交會。",
     "source_url": "https://glossary.ametsoc.org/wiki/Oyashio"
   },
   {
     "english": "Ozmidov scale",
     "traditional_chinese": "奧茲米多夫尺度",
-    "definition_cht": "「奧茲米多夫尺度」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "在穩定分層流體中，表示浮力效應開始抑制湍流的最大特徵尺度；其量級由湍流動能耗散率與布倫特－魏薩拉頻率決定，常用於海洋與大氣分層湍流研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ozmidov_scale"
   },
   {
     "english": "ozone",
     "traditional_chinese": "臭氧",
-    "definition_cht": "「臭氧」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。",
+    "definition_cht": "由三個氧原子組成的氣體，平流層臭氧可吸收紫外線並保護生物圈，對流層臭氧則屬重要氧化劑與空氣污染物，並影響輻射收支與大氣化學。",
     "source_url": "https://glossary.ametsoc.org/wiki/ozone"
   },
   {
     "english": "ozone hole",
     "traditional_chinese": "臭氧洞",
-    "definition_cht": "「臭氧洞」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。",
+    "definition_cht": "指南極春季平流層總臭氧量大幅低於常年的區域性嚴重耗損現象，主因為含氯、溴化合物在極地平流層雲條件下活化後催化分解臭氧。",
     "source_url": "https://glossary.ametsoc.org/wiki/ozone_hole"
   },
   {
     "english": "ozone isopleth plot",
     "traditional_chinese": "臭氧等值圖",
-    "definition_cht": "「臭氧等值圖」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。",
+    "definition_cht": "以等值線或等值區顯示臭氧濃度、混合比或總量空間分布的圖表，可用於分析地面臭氧污染、垂直剖面或衛星反演場的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/ozone_isopleth_plot"
   },
   {
     "english": "ozone layer",
     "traditional_chinese": "臭氧層",
-    "definition_cht": "「臭氧層」指大氣、海洋、冰雪或地表環境中的一個特定層次，具有相對明確的熱力、動力或組成特徵。",
+    "definition_cht": "位於平流層中的高臭氧濃度層，約集中於 15 至 35 公里高度，能有效吸收太陽紫外線，對地球輻射平衡與生物防護極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/ozone_layer"
   },
   {
     "english": "ozone shield",
     "traditional_chinese": "臭氧屏障",
-    "definition_cht": "「臭氧屏障」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。",
+    "definition_cht": "指平流層臭氧對太陽有害紫外線所提供的天然防護作用，能顯著削弱紫外線到達地表的強度，因此常作為臭氧層保護功能的描述性用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/ozone_shield"
   },
   {
     "english": "ozone-depleting potential",
     "traditional_chinese": "臭氧消耗潛勢",
-    "definition_cht": "「臭氧消耗潛勢」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。",
+    "definition_cht": "衡量某物質破壞平流層臭氧能力的相對指標，通常以 CFC-11 的數值定為 1，比較其他含氯或含溴化合物在排放後造成臭氧耗損的潛在效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/ozone-depleting_potential"
   },
   {
     "english": "ozonesonde",
     "traditional_chinese": "臭氧探空儀",
-    "definition_cht": "「臭氧探空儀」為與臭氧濃度、分布、監測或其大氣化學效應相關之術語，對平流層輻射收支與大氣環境研究具有重要意義。",
+    "definition_cht": "搭載於氣球上的探空儀器，用以量測大氣垂直臭氧分布，通常與無線電探空儀共同施放，可同步取得壓力、溫度、濕度與風場資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/ozonesonde"
   },
   {
     "english": "ozonosphere",
     "traditional_chinese": "臭氧層區",
-    "definition_cht": "「臭氧層區」為氣象、海洋、水文、環境監測或遙測領域使用之專業術語，用於描述特定現象、物理量、方法、儀器、結構或作業概念。",
+    "definition_cht": "指大氣中臭氧含量相對集中的區域，通常泛指平流層臭氧層所在的大氣層域；此詞多見於較早期文獻，現代用法常直接稱臭氧層。",
     "source_url": "https://glossary.ametsoc.org/wiki/ozonosphere"
   }
 ]
