@@ -631,122 +631,122 @@
   },
   {
     "english": "perfectly diffuse radiator",
-    "traditional_chinese": "完美擴散散熱器",
-    "definition_cht": "指與「完美擴散散熱器」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "理想漫射輻射體",
+    "definition_cht": "依朗伯餘弦定律定義的理想輻射體，向各方向所見輻亮度相同；其單位立體角的輻射強度則隨出射方向與表面法線夾角的餘弦而變化，常作為輻射傳輸與遙測中的理想化基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/perfectly_diffuse_radiator"
   },
   {
     "english": "perfectly diffuse reflector",
-    "traditional_chinese": "完美漫反射器",
-    "definition_cht": "指與「完美漫反射器」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "理想漫反射體",
+    "definition_cht": "可將入射輻射依朗伯餘弦定律向各方向均勻散射的理想反射表面；從任一視角觀測時，其表觀輻亮度相同，常用作反照率與遙測校正的理想化參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/perfectly_diffuse_reflector"
   },
   {
     "english": "perfluorocarbons",
-    "traditional_chinese": "全氟化碳",
-    "definition_cht": "指與「全氟化碳」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "全氟碳化合物",
+    "definition_cht": "僅由碳與氟組成的一類含氟有機化合物，化學性質穩定且大氣壽命通常很長；在氣候領域常指人為排放的強效溫室氣體類別之一，英文常縮寫為 PFCs。",
     "source_url": "https://glossary.ametsoc.org/wiki/perfluorocarbons"
   },
   {
     "english": "pergelation",
-    "traditional_chinese": "凝膠化",
-    "definition_cht": "指與「凝膠化」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "永凍土形成作用",
+    "definition_cht": "指地層或土體因長期低溫而形成永久凍土的過程，亦即多年持續凍結地層的生成；其反向過程稱為 depergelation，為永凍土退化或融解。",
     "source_url": "https://glossary.ametsoc.org/wiki/pergelation"
   },
   {
     "english": "perhumid climate",
-    "traditional_chinese": "濕潤氣候",
-    "definition_cht": "指與「濕潤氣候」相關的氣候狀態、演變或古氣候特徵。",
+    "traditional_chinese": "過濕潤氣候",
+    "definition_cht": "Thornthwaite 氣候分類中的最濕潤類型，濕度指數達 +100 以上，表示降水相對於潛在蒸發散量極為充足，全年幾乎無明顯水分缺乏。",
     "source_url": "https://glossary.ametsoc.org/wiki/perhumid_climate"
   },
   {
     "english": "pericenter",
-    "traditional_chinese": "近中心",
-    "definition_cht": "指與「近中心」相關的海冰、冰體或冰相現象，用於描述其形態、分布、生成或運動特徵。",
+    "traditional_chinese": "近心點",
+    "definition_cht": "天體沿橢圓軌道運行時，最接近其引力中心的位置；在未特指中心天體時，pericenter 為近拱點的泛稱，對地球為近地點，對太陽則為近日點。",
     "source_url": "https://glossary.ametsoc.org/wiki/pericenter"
   },
   {
     "english": "perigean tide",
-    "traditional_chinese": "近地點潮汐",
-    "definition_cht": "指與「近地點潮汐」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "近地點潮",
+    "definition_cht": "月球運行至近地點附近時所增強的潮汐；若又恰逢朔望時的春潮，便形成近地點大潮，使潮差通常較一般春潮更大，沿岸高水位也較易偏高。",
     "source_url": "https://glossary.ametsoc.org/wiki/perigean_tide"
   },
   {
     "english": "perigee",
     "traditional_chinese": "近地點",
-    "definition_cht": "指與「近地點」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "繞地球運行之天體或人造衛星在軌道上距離地球最近的位置，為地心軌道的近拱點；其相對應最遠位置稱為遠地點。",
     "source_url": "https://glossary.ametsoc.org/wiki/perigee"
   },
   {
     "english": "periglacial",
-    "traditional_chinese": "冰緣",
-    "definition_cht": "指與「冰緣」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "周冰河的",
+    "definition_cht": "指受反覆凍融作用、季節性凍結與永久凍土控制的環境、地形或過程，常見於冰川邊緣及寒冷但未被冰覆蓋的地區；中文亦常譯為冰緣的。",
     "source_url": "https://glossary.ametsoc.org/wiki/periglacial"
   },
   {
     "english": "periglacial climate",
-    "traditional_chinese": "冰緣氣候",
-    "definition_cht": "指與「冰緣氣候」相關的氣候狀態、演變或古氣候特徵。",
+    "traditional_chinese": "周冰河氣候",
+    "definition_cht": "出現在大型冰蓋或大陸冰川外緣附近的寒冷乾燥氣候型態，特徵為頻繁受冰區吹出的低溫乾風影響，且地表常有凍融作用與周冰河地形發育。",
     "source_url": "https://glossary.ametsoc.org/wiki/periglacial_climate"
   },
   {
     "english": "perihelion",
     "traditional_chinese": "近日點",
-    "definition_cht": "指與「近日點」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "天體在繞太陽的橢圓軌道上距離太陽最近的位置；對地球而言通常出現在每年 1 月初，與最遠的遠日點相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/perihelion"
   },
   {
     "english": "period",
-    "traditional_chinese": "時期",
-    "definition_cht": "指「時期」所代表的時期、地質年代或特定持續時間概念。",
+    "traditional_chinese": "週期",
+    "definition_cht": "週期性現象完成一次完整循環所需的時間或距離尺度；在氣象與海洋時間序列中，常用以表示波動、振盪或季節循環相鄰重複峰值之間的間隔。",
     "source_url": "https://glossary.ametsoc.org/wiki/period"
   },
   {
     "english": "period of record",
-    "traditional_chinese": "記錄期間",
-    "definition_cht": "指「記錄期間」所代表的時期、地質年代或特定持續時間概念。",
+    "traditional_chinese": "紀錄期間",
+    "definition_cht": "某地點或測站對特定氣象要素已累積連續且可靠觀測資料的時間長度或起訖時段；其長短會直接影響氣候平均、極值分析與重現期估算的代表性。",
     "source_url": "https://glossary.ametsoc.org/wiki/period_of_record"
   },
   {
     "english": "period of validity",
-    "traditional_chinese": "有效期限",
-    "definition_cht": "指「有效期限」所代表的時期、地質年代或特定持續時間概念。",
+    "traditional_chinese": "有效期間",
+    "definition_cht": "天氣預報、警報或其他氣象產品所述條件適用的指定時段；自起報時間開始至終止時間結束，在此期間內產品內容被視為有效。",
     "source_url": "https://glossary.ametsoc.org/wiki/period_of_validity"
   },
   {
     "english": "periodicity",
     "traditional_chinese": "週期性",
-    "definition_cht": "指「週期性」所代表的時期、地質年代或特定持續時間概念。",
+    "definition_cht": "指某現象依固定或近似固定間隔反覆出現的性質；在大氣與海洋科學中，常用來描述振盪、波動、季節變化或其他規律重現的時間序列特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/periodicity"
   },
   {
     "english": "periodogram",
     "traditional_chinese": "週期圖",
-    "definition_cht": "指「週期圖」所代表的時期、地質年代或特定持續時間概念。",
+    "definition_cht": "以頻率或週期為橫軸、以譜功率或譜密度估計值為縱軸的圖形，用於辨識時間序列中主要振盪頻率與能量分布，是頻譜分析的基本工具之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/periodogram"
   },
   {
     "english": "perlucidus",
-    "traditional_chinese": "鱸魚",
-    "definition_cht": "指與「鱸魚」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "透隙種",
+    "definition_cht": "雲的變種之一，指大片雲層或雲片中具有清楚但通常細小的間隙，得以看見太陽、月亮、藍天或上層雲；常見於高積雲與層積雲。其拉丁名稱 perlucidus 有「透亮、可透視」之意。",
     "source_url": "https://glossary.ametsoc.org/wiki/perlucidus"
   },
   {
     "english": "permafrost",
     "traditional_chinese": "永凍土",
-    "definition_cht": "指與「永凍土」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "地表下之土壤、岩屑或沉積物溫度連續兩年以上維持在 0°C 以下的凍結地層；其上方通常覆有隨季節凍融的活動層，廣泛分布於高緯與高山寒冷地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/permafrost"
   },
   {
     "english": "permafrost island",
     "traditional_chinese": "永凍土島",
-    "definition_cht": "指與「永凍土島」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "被未凍地層包圍、面積相對孤立的小型永凍土區塊，常見於不連續永凍土帶；其存在反映局部地形、植被、含水量或地表能量收支對地溫的控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/permafrost_island"
   },
   {
     "english": "permafrost table",
-    "traditional_chinese": "永凍土台",
-    "definition_cht": "指與「永凍土台」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "永凍土上界面",
+    "definition_cht": "地中標示永凍土上限的界面，即活動層底部與下伏永凍土頂部之間較為不規則的分界面；不可與季節性凍土的 frost table 混淆。",
     "source_url": "https://glossary.ametsoc.org/wiki/permafrost_table"
   },
   {
