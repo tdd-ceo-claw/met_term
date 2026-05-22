@@ -38570,121 +38570,121 @@
   {
     "english": "potential evapotranspiration",
     "traditional_chinese": "潛在蒸散量",
-    "definition_cht": "指「潛在蒸散量」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "definition_cht": "在水分供應不受限制的假設下，由蒸發與植物蒸散共同造成、理論上可自地表移除的最大水量，用以表示大氣對水分的蒸散需求。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_evapotranspiration"
   },
   {
     "english": "potential flow theory",
     "traditional_chinese": "勢流理論",
-    "definition_cht": "指與「勢流理論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。",
+    "definition_cht": "以速度勢描述無旋流體運動的理論，通常假設流體為無黏且不可壓縮，可用來近似分析流場、繞流與波動問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_flow_theory"
   },
   {
     "english": "potential gradient",
     "traditional_chinese": "勢梯度",
-    "definition_cht": "指與「勢梯度」相關之空間變化率或梯度量，用於描述物理量隨距離的變化強弱。",
+    "definition_cht": "指位勢或電位對空間距離的變化率；在大氣電學中常指大氣電位隨高度的垂直梯度，亦即對應的電場強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_gradient"
   },
   {
     "english": "potential instability",
-    "traditional_chinese": "潛在的不穩定性",
-    "definition_cht": "指與「潛在的不穩定性」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "位勢不穩定",
+    "definition_cht": "指氣層原本雖呈穩定分層，但若經整層抬升至飽和後，垂直溫度遞減率可轉為大於濕絕熱遞減率，因而產生對流不穩定的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_instability"
   },
   {
     "english": "potential predictability",
-    "traditional_chinese": "潛在的可預測性",
-    "definition_cht": "指與「潛在的可預測性」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "潛在可預報度",
+    "definition_cht": "指在理想模式與完整初始資訊條件下，天氣或氣候系統原理上可被預測的程度，常用以衡量由系統性訊號而非隨機噪聲所支配的變異比例。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_predictability"
   },
   {
     "english": "potential refractive index",
     "traditional_chinese": "潛在折射率",
-    "definition_cht": "指以「潛在折射率」為名之指標，用於量化特定氣象、水文或海洋狀態的強弱與變化。",
+    "definition_cht": "無線電氣象中，指將空氣團依乾絕熱方式換算至標準參考壓力時所對應的折射率，用以比較不同高度空氣的折射特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_refractive_index"
   },
   {
     "english": "potential refractivity",
-    "traditional_chinese": "潛在折射率",
-    "definition_cht": "指與「潛在折射率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "潛在折射度",
+    "definition_cht": "無線電氣象中，指將空氣團依乾絕熱方式換算至標準參考壓力時所得的折射度，為類似位溫的保守量，常用於分析電波傳播與大氣邊界層結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_refractivity"
   },
   {
     "english": "potential temperature",
     "traditional_chinese": "位溫",
-    "definition_cht": "指與「位溫」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "氣塊在不與外界交換熱量的乾絕熱過程中，被移至標準壓力（通常為 1000 hPa）時所具有的溫度，常用來判斷大氣穩定度與追蹤氣團性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_temperature"
   },
   {
     "english": "potential transpiration",
-    "traditional_chinese": "潛在蒸騰作用",
-    "definition_cht": "指「潛在蒸騰作用」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "traditional_chinese": "潛在蒸騰量",
+    "definition_cht": "在土壤水分供應充足且植被生理不受限制時，植物理論上可達到的最大蒸騰量，用以表示大氣環境對植被蒸騰的需求。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_transpiration"
   },
   {
     "english": "potential vorticity",
-    "traditional_chinese": "位渦流",
-    "definition_cht": "指與「位渦流」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "位渦度",
+    "definition_cht": "結合流體渦度與層結穩定度的動力量，在絕熱且無摩擦條件下沿氣塊近似守恆，常用於分析對流層、平流層交互作用及天氣系統演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/potential_vorticity"
   },
   {
     "english": "potentiometer",
     "traditional_chinese": "電位器",
-    "definition_cht": "指量測「電位器」相關物理量的儀器、計量裝置或測定器。",
+    "definition_cht": "具有滑動或旋轉接點的可變電阻，可作為分壓元件或位置感測器；在氣象儀器中亦常用來將風向等機械位移轉為電訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/potentiometer"
   },
   {
     "english": "potometer",
-    "traditional_chinese": "電位計",
-    "definition_cht": "指量測「電位計」相關物理量的儀器、計量裝置或測定器。",
+    "traditional_chinese": "蒸散計",
+    "definition_cht": "用於量測植物枝條吸水速率的裝置，常作為估計蒸騰強弱的實驗儀器；在短時間內其吸水量可近似代表蒸騰量。",
     "source_url": "https://glossary.ametsoc.org/wiki/potometer"
   },
   {
     "english": "poudrin",
-    "traditional_chinese": "布德林",
-    "definition_cht": "指與「布德林」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "冰晶塵",
+    "definition_cht": "指在極寒、晴朗且近地面空氣十分乾冷時形成並緩慢飄浮或降落的細小冰晶降水，外觀常閃耀如鑽石塵，航空天氣代碼為 IC。",
     "source_url": "https://glossary.ametsoc.org/wiki/poudrin"
   },
   {
     "english": "poultry stress index",
-    "traditional_chinese": "家禽應激指數",
-    "definition_cht": "指以「家禽應激指數」為名之指標，用於量化特定氣象、水文或海洋狀態的強弱與變化。",
+    "traditional_chinese": "家禽熱壓力指數",
+    "definition_cht": "綜合氣溫、濕度等環境因子評估家禽受熱壓力程度的指標，用於判斷高溫環境對禽舍管理、健康與生產表現的風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/poultry_stress_index"
   },
   {
     "english": "powder snow",
     "traditional_chinese": "粉雪",
-    "definition_cht": "指與「粉雪」相關的降雪、雪況或積雪物理過程。",
+    "definition_cht": "含水量低、密度小且質地乾鬆的雪，通常由低溫條件下形成的細緻雪晶所構成，易被風搬運並常見於寒冷乾燥地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/powder_snow"
   },
   {
     "english": "power",
-    "traditional_chinese": "力量",
-    "definition_cht": "指與「力量」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "功率",
+    "definition_cht": "單位時間內所作的功或所傳遞的能量，為描述能量轉換快慢的基本物理量；在地球科學中常用於輻射、波動與訊號分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/power"
   },
   {
     "english": "power density",
     "traditional_chinese": "功率密度",
-    "definition_cht": "指與「功率密度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "單位面積、單位體積或單位頻寬所分布的功率大小；在氣象與遙測應用中常用來描述輻射、電磁波或風能資源的強度分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/power_density"
   },
   {
     "english": "power density spectrum",
-    "traditional_chinese": "功率密度光譜",
-    "definition_cht": "指與「功率密度光譜」相關之頻譜分布，用於分析能量、變異或相位在頻率空間中的配置。",
+    "traditional_chinese": "功率譜密度",
+    "definition_cht": "表示訊號功率隨頻率分布的頻譜函數，用於分析時間序列中各尺度變異對總功率的貢獻，常見於湍流、波浪與氣象訊號研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/power_density_spectrum"
   },
   {
     "english": "power series",
-    "traditional_chinese": "動力系列",
-    "definition_cht": "指與「動力系列」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "冪級數",
+    "definition_cht": "由某變數各次方項依序組成的無窮級數，常用於函數展開、近似計算及解微分方程，在大氣與流體理論推導中亦常出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/power_series"
   },
   {
     "english": "power spectrum",
     "traditional_chinese": "功率譜",
-    "definition_cht": "指與「功率譜」相關之頻譜分布，用於分析能量、變異或相位在頻率空間中的配置。",
+    "definition_cht": "描述訊號或時間序列功率在各頻率上的分布，可用來辨識主導週期、尺度能量與變異特徵，廣泛應用於氣象、海洋與遙測資料分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/power_spectrum"
   },
   {
