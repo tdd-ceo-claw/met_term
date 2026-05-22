@@ -40010,121 +40010,121 @@
   {
     "english": "quasigeostrophic theory",
     "traditional_chinese": "準地轉理論",
-    "definition_cht": "以地轉平衡為基礎並考慮小幅偏離的動力理論架構，是研究中緯度大尺度環流與擾動演變的重要工具。",
+    "definition_cht": "以近似地轉與靜力平衡為基礎，描述中高緯度大尺度大氣運動及其微小偏離的動力理論架構，常用於分析槽脊演變、垂直運動與鋒生等天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/quasigeostrophic_theory"
   },
   {
     "english": "quasiperiodic",
     "traditional_chinese": "準週期的",
-    "definition_cht": "指變化具有近似週期性但週期長度或振幅並非完全固定的特性。",
+    "definition_cht": "指某種變化呈現近似重複的循環性，但其週期、相位或振幅並非嚴格固定，因此只具有近似週期而非完全週期。",
     "source_url": "https://glossary.ametsoc.org/wiki/quasiperiodic"
   },
   {
     "english": "Quaternary climate",
     "traditional_chinese": "第四紀氣候",
-    "definition_cht": "指第四紀期間地球氣候的整體狀態與變遷特徵，包含冰期—間冰期循環及其環境回應。",
+    "definition_cht": "指第四紀期間地球氣候的整體特徵與演變，尤以反覆出現的冰期—間冰期循環及其對海平面、冰量與環境條件的影響為重點。",
     "source_url": "https://glossary.ametsoc.org/wiki/Quaternary_climate"
   },
   {
     "english": "Quaternary period",
     "traditional_chinese": "第四紀",
-    "definition_cht": "地質年代中最新的一個紀，包括更新世與全新世，常與冰期循環、人類演化及近代環境變遷研究相關。",
+    "definition_cht": "地質年代中最新的一個紀，始於約 258 萬年前，包含更新世與全新世，特徵為顯著的冰期循環以及人類演化與近代環境變遷。",
     "source_url": "https://glossary.ametsoc.org/wiki/Quaternary_period"
   },
   {
     "english": "quintile",
     "traditional_chinese": "五分位數",
-    "definition_cht": "將一組排序資料平均分為五等分時所形成的分位界值或分組概念，常用於氣候統計與機率分級分析。",
+    "definition_cht": "將排序後資料分成五個等組時所用的分位界值或分組概念；在氣候與降水統計中，亦常用五等分區間表示資料落在由低到高的哪一組。",
     "source_url": "https://glossary.ametsoc.org/wiki/quintile"
   },
   {
     "english": "R-meter",
-    "traditional_chinese": "R計",
-    "definition_cht": "指與「R計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "R 米計；距離表",
+    "definition_cht": "舊式雷達或無線電測量中以 R（range，距離）表示的距離讀值器或刻度裝置，用於顯示目標與雷達之間的斜距或量測距離。",
     "source_url": "https://glossary.ametsoc.org/wiki/R-meter"
   },
   {
     "english": "R-scale",
-    "traditional_chinese": "R 尺度",
-    "definition_cht": "指與「R 尺度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "R 尺度；距離刻度",
+    "definition_cht": "以 R（range，距離）為基準的刻度或尺度，常指雷達顯示器、測距圖表或相關分析中用來表示目標距離的標度。",
     "source_url": "https://glossary.ametsoc.org/wiki/R-scale"
   },
   {
     "english": "R-scope",
-    "traditional_chinese": "R 顯示器",
-    "definition_cht": "指與「R 顯示器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "R 型顯示器",
+    "definition_cht": "一種早期雷達顯示方式，原理近似 A-scope，但將特定距離區段沿水平軸放大顯示，以便更精細判讀目標回波的位置與距離差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/R-scope"
   },
   {
     "english": "rabal",
-    "traditional_chinese": "拉巴爾",
-    "definition_cht": "指與「拉巴爾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "雷達測風氣球",
+    "definition_cht": "以雷達追蹤氣球位置來測定高空風向與風速的觀測方式或其所用氣球，屬早期高空風觀測技術之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/rabal"
   },
   {
     "english": "racoon",
-    "traditional_chinese": "浣熊",
-    "definition_cht": "指與「浣熊」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "RACOON（火箭觀測）",
+    "definition_cht": "歷史用語，通常指結合火箭或高空載具進行上層大氣與近太空觀測的計畫或觀測系統；此詞在現代氣象文獻中已較少使用，須依原始上下文判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/racoon"
   },
   {
     "english": "radar",
     "traditional_chinese": "雷達",
-    "definition_cht": "指與「雷達」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "利用無線電波發射與回波接收來探測目標位置、距離、方位、高度、移動速度或結構特徵的系統；在氣象上常用於觀測降水、雲系與風場。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar"
   },
   {
     "english": "radar algorithm",
     "traditional_chinese": "雷達演算法",
-    "definition_cht": "指與「雷達演算法」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "對雷達回波訊號或產品進行處理、反演與判識的方法，用以估算降水、辨識目標類型、校正雜訊或萃取風場等氣象資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_algorithm"
   },
   {
     "english": "radar altimeter",
     "traditional_chinese": "雷達高度計",
-    "definition_cht": "指與「雷達高度計」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "以向下發射電磁波並量測回波往返時間來求得載具距離下方地表或海面的真實高度之儀器，常用於航空、海洋與衛星遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_altimeter"
   },
   {
     "english": "radar altitude",
     "traditional_chinese": "雷達高度",
-    "definition_cht": "指與「雷達高度」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "由雷達高度計量得之高度，表示飛行器或其他載具相對於正下方地表或海面的垂直距離，而非相對平均海平面的氣壓高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_altitude"
   },
   {
     "english": "radar band",
     "traditional_chinese": "雷達波段",
-    "definition_cht": "指與「雷達波段」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "指雷達操作所使用的特定電磁波頻率範圍，如 S、C、X 波段等；不同波段在穿透降水、空間解析度與衰減特性上各有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_band"
   },
   {
     "english": "radar beam",
     "traditional_chinese": "雷達波束",
-    "definition_cht": "指與「雷達波束」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "雷達天線發射能量的主方向波束，具有一定波束寬度與形狀；其擴散、仰角與折射特性會影響觀測高度、解析度與回波判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_beam"
   },
   {
     "english": "radar calibration",
     "traditional_chinese": "雷達校準",
-    "definition_cht": "指與「雷達校準」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "對雷達系統進行定標與檢驗的程序，用以確保發射功率、接收增益、反射率與其他量測產品維持正確且可追溯的一致性。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_calibration"
   },
   {
     "english": "radar climatology",
     "traditional_chinese": "雷達氣候學",
-    "definition_cht": "指與「雷達氣候學」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "利用長期累積的雷達觀測資料分析降水、對流活動或回波結構之時空分布與氣候特徵的研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_climatology"
   },
   {
     "english": "radar coded message",
     "traditional_chinese": "雷達編碼訊息",
-    "definition_cht": "指與「雷達編碼訊息」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "以標準代碼格式傳送雷達觀測結果的訊息，用於摘要描述降水回波的位置、強度、範圍、移動或其他天氣雷達分析資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_coded_message"
   },
   {
     "english": "radar constant",
     "traditional_chinese": "雷達常數",
-    "definition_cht": "指與「雷達常數」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "雷達方程式中的綜合常數，包含天線、波長、脈衝與系統增益等儀器參數，用來連結接收功率與目標反射特性，並作為定量校正基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/radar_constant"
   },
   {

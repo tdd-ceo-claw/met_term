@@ -188,31 +188,31 @@
   {
     "english": "quasigeostrophic theory",
     "traditional_chinese": "準地轉理論",
-    "definition_cht": "以地轉平衡為基礎並考慮小幅偏離的動力理論架構，是研究中緯度大尺度環流與擾動演變的重要工具。",
+    "definition_cht": "以近似地轉與靜力平衡為基礎，描述中高緯度大尺度大氣運動及其微小偏離的動力理論架構，常用於分析槽脊演變、垂直運動與鋒生等天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/quasigeostrophic_theory"
   },
   {
     "english": "quasiperiodic",
     "traditional_chinese": "準週期的",
-    "definition_cht": "指變化具有近似週期性但週期長度或振幅並非完全固定的特性。",
+    "definition_cht": "指某種變化呈現近似重複的循環性，但其週期、相位或振幅並非嚴格固定，因此只具有近似週期而非完全週期。",
     "source_url": "https://glossary.ametsoc.org/wiki/quasiperiodic"
   },
   {
     "english": "Quaternary climate",
     "traditional_chinese": "第四紀氣候",
-    "definition_cht": "指第四紀期間地球氣候的整體狀態與變遷特徵，包含冰期—間冰期循環及其環境回應。",
+    "definition_cht": "指第四紀期間地球氣候的整體特徵與演變，尤以反覆出現的冰期—間冰期循環及其對海平面、冰量與環境條件的影響為重點。",
     "source_url": "https://glossary.ametsoc.org/wiki/Quaternary_climate"
   },
   {
     "english": "Quaternary period",
     "traditional_chinese": "第四紀",
-    "definition_cht": "地質年代中最新的一個紀，包括更新世與全新世，常與冰期循環、人類演化及近代環境變遷研究相關。",
+    "definition_cht": "地質年代中最新的一個紀，始於約 258 萬年前，包含更新世與全新世，特徵為顯著的冰期循環以及人類演化與近代環境變遷。",
     "source_url": "https://glossary.ametsoc.org/wiki/Quaternary_period"
   },
   {
     "english": "quintile",
     "traditional_chinese": "五分位數",
-    "definition_cht": "將一組排序資料平均分為五等分時所形成的分位界值或分組概念，常用於氣候統計與機率分級分析。",
+    "definition_cht": "將排序後資料分成五個等組時所用的分位界值或分組概念；在氣候與降水統計中，亦常用五等分區間表示資料落在由低到高的哪一組。",
     "source_url": "https://glossary.ametsoc.org/wiki/quintile"
   }
 ]
