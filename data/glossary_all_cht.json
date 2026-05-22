@@ -40490,121 +40490,121 @@
   {
     "english": "radiative forcing",
     "traditional_chinese": "輻射強迫",
-    "definition_cht": "指與「輻射強迫」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指外部驅動因子（如溫室氣體、氣膠、地表反照率或太陽輻照變化）所引起之地球—大氣系統淨輻射通量改變，常以瓦特每平方公尺表示，用以衡量其對氣候系統造成暖化或冷卻傾向的強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiative_forcing"
   },
   {
     "english": "radiative heating",
     "traditional_chinese": "輻射加熱",
-    "definition_cht": "指與「輻射加熱」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "物體或大氣層吸收短波或長波輻射後而升溫的過程；在大氣科學中常指某一層因輻射能量淨吸收而產生的加熱率。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiative_heating"
   },
   {
     "english": "radiative transfer",
     "traditional_chinese": "輻射傳輸",
-    "definition_cht": "指與「輻射傳輸」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "電磁輻射在介質中傳播並受吸收、放射與散射影響的過程及其理論描述；為大氣輻射、衛星遙測與氣候模式的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiative_transfer"
   },
   {
     "english": "radiative–convective equilibrium",
-    "traditional_chinese": "輻射-對流平衡",
-    "definition_cht": "指與「輻射-對流平衡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "輻射－對流平衡",
+    "definition_cht": "大氣中輻射冷卻與對流及地表通量所提供的加熱彼此達成平衡的理想化狀態；其結果使對流層直減率較純輻射平衡更接近實際大氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiative%E2%80%93convective_equilibrium"
   },
   {
     "english": "radiative–convective model",
-    "traditional_chinese": "輻射-對流模型",
-    "definition_cht": "指模擬或描述「輻射-對流模型」相關現象之概念模型、數值模式或理論架構。",
+    "traditional_chinese": "輻射－對流模型",
+    "definition_cht": "同時表示輻射傳輸與對流調整效應的簡化大氣或氣候模型，常用於研究垂直溫度結構、溫室效應與氣候敏感度。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiative%E2%80%93convective_model"
   },
   {
     "english": "radiatively active gas",
     "traditional_chinese": "輻射活性氣體",
-    "definition_cht": "指與「輻射活性氣體」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "可在大氣相關波段吸收或放射輻射、因而改變大氣輻射收支的氣體，如水氣、二氧化碳、甲烷與臭氧。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiatively_active_gas"
   },
   {
     "english": "radiator",
-    "traditional_chinese": "散熱器",
-    "definition_cht": "指與「散熱器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "散熱器；輻射體",
+    "definition_cht": "泛指能向周圍介質放出熱量或輻射能的物體或裝置；在工程上常指散熱器，在輻射學脈絡中亦可指有效發射輻射的表面或熱源。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiator"
   },
   {
     "english": "radiatus",
-    "traditional_chinese": "放射狀",
-    "definition_cht": "指與「放射狀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "放射狀雲列",
+    "definition_cht": "雲的變種之一，指雲體呈大致平行的長帶或列狀排列，因透視效果看似朝地平線上一點或相對兩點匯聚。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiatus"
   },
   {
     "english": "radio acoustic sounding system",
-    "traditional_chinese": "無線電聲學探測系統",
-    "definition_cht": "指與「無線電聲學探測系統」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無線電聲探空系統",
+    "definition_cht": "以聲波擾動配合雷達回波量測聲速垂直分布的地面遙測系統，常簡稱 RASS，可據以推算邊界層虛溫或溫度直減率。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_acoustic_sounding_system"
   },
   {
     "english": "radio atmometer",
-    "traditional_chinese": "無線電氣壓計",
-    "definition_cht": "指與「無線電氣壓計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "日射蒸發計",
+    "definition_cht": "用於量測日照對植物葉面蒸發作用影響的儀器，通常為外表黑化的多孔陶質蒸發計，藉吸收輻射能以模擬受日照葉面的蒸散效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_atmometer"
   },
   {
     "english": "radio beacon",
     "traditional_chinese": "無線電信標",
-    "definition_cht": "指與「無線電信標」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以無線電波持續或間歇發送識別訊號的發射設備，用於導航、定位、導引或目標標示。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_beacon"
   },
   {
     "english": "Radio blackout",
-    "traditional_chinese": "無線電停電",
-    "definition_cht": "指與「無線電停電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無線電通訊中斷",
+    "definition_cht": "因太陽閃焰等造成電離層擾動，使高頻無線電訊號在特定區域明顯衰減或完全失效的現象，持續時間可由數分鐘至數小時。",
     "source_url": "https://glossary.ametsoc.org/wiki/Radio_blackout"
   },
   {
     "english": "radio climatology",
-    "traditional_chinese": "無線電氣候學",
-    "definition_cht": "指與「無線電氣候學」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "電波氣候學",
+    "definition_cht": "研究不同地區與季節中電波在大氣內傳播特性變化的學科，重點包括折射、衰減、導管效應與通訊距離之氣候統計。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_climatology"
   },
   {
     "english": "radio direction finder",
     "traditional_chinese": "無線電測向儀",
-    "definition_cht": "指與「無線電測向儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "用以判定無線電發射源來向的地面或載臺天線設備；在氣象上常用於追蹤探空儀發射訊號，以測定氣球位置與高空風。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_direction_finder"
   },
   {
     "english": "radio direction finding",
     "traditional_chinese": "無線電測向",
-    "definition_cht": "指與「無線電測向」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "利用無線電測向儀量測發射源方位角與仰角的作業或方法；可應用於導航、定位，以及依探空儀漂移推算高空風場。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_direction_finding"
   },
   {
     "english": "Radio duct",
-    "traditional_chinese": "無線電導管",
-    "definition_cht": "指與「無線電導管」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "電波導管",
+    "definition_cht": "由大氣折射率垂直梯度異常所形成、能使電磁波受導引或受困於其中傳播的層狀區域，可使雷達或通訊訊號超常距離傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/Radio_duct"
   },
   {
     "english": "radio frequency",
-    "traditional_chinese": "無線電頻率",
-    "definition_cht": "指與「無線電頻率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "射頻",
+    "definition_cht": "可用於產生與傳播無線電波的頻率範圍，通常指電磁頻譜中用於無線通訊、雷達、遙測與廣播的頻率。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_frequency"
   },
   {
     "english": "radio frequency band",
-    "traditional_chinese": "無線電頻段",
-    "definition_cht": "指與「無線電頻段」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "射頻頻帶",
+    "definition_cht": "射頻範圍內依一定上下限所劃分的頻率區段，用於區別不同通訊、雷達、衛星或被動遙測系統的操作頻帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_frequency_band"
   },
   {
     "english": "radio hole",
-    "traditional_chinese": "無線電孔",
-    "definition_cht": "指與「無線電孔」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "電波陰影區",
+    "definition_cht": "電波因折射、遮蔽或導管效應而難以到達的區域；本質上屬於射頻範圍的陰影區，常特指與電波導管相關的接收空洞。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_hole"
   },
   {
     "english": "radio horizon",
-    "traditional_chinese": "無線電地平線",
-    "definition_cht": "指與「無線電地平線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "電波地平線",
+    "definition_cht": "在正常大氣折射條件下，天線所能進行近直視無線電傳播的最遠界線；通常略超出幾何地平線，並會隨折射條件改變而增減。",
     "source_url": "https://glossary.ametsoc.org/wiki/radio_horizon"
   },
   {
