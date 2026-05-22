@@ -752,121 +752,121 @@
   {
     "english": "permanent anticyclone",
     "traditional_chinese": "永久性反氣旋",
-    "definition_cht": "指與「永久性反氣旋」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指在多年平均環流中長期存在、位置相對穩定的高壓系統，常用於描述副熱帶高壓等半永久性反氣旋。其強度與範圍可隨季節變化，但不屬於短生命週期的暫時性天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/permanent_anticyclone"
   },
   {
     "english": "permanent control",
-    "traditional_chinese": "永久控制",
-    "definition_cht": "指與「永久控制」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "永久控制斷面",
+    "definition_cht": "河川水文中指形態穩定、長期不易改變的控制斷面，常位於人工構造物或岩盤河床處，用以穩定控制水位、流深與流速等量測關係，作為流量觀測與率定的基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/permanent_control"
   },
   {
     "english": "permanent depression",
-    "traditional_chinese": "永久憂鬱症",
-    "definition_cht": "指與「永久憂鬱症」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "永久性低壓",
+    "definition_cht": "指在多年平均環流中長期存在、位置大致固定的低壓區，如副極地低壓帶中的半永久性低壓中心。其強弱可隨季節與環流形勢改變，但不屬於短暫生成消散的個別低壓系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/permanent_depression"
   },
   {
     "english": "permanent echo",
-    "traditional_chinese": "永久迴聲",
-    "definition_cht": "指與「永久迴聲」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "固定回波",
+    "definition_cht": "雷達上由地形、建築物、塔架或其他固定目標所產生、位置近乎不變的回波。此類回波不代表降水或移動天氣目標，常需在雷達資料品質控制中加以辨識與濾除。",
     "source_url": "https://glossary.ametsoc.org/wiki/permanent_echo"
   },
   {
     "english": "permanent gas",
     "traditional_chinese": "永久氣體",
-    "definition_cht": "指與「永久氣體」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在一般大氣溫度與壓力條件下不易凝結、且在大氣中含量相對穩定的氣體，如氮、氧與氬等。此詞常用以區別於水氣及濃度時空變化較大的微量成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/permanent_gas"
   },
   {
     "english": "Permanent Service for Mean Sea Level",
-    "traditional_chinese": "平均海平面永久服務",
-    "definition_cht": "指與「平均海平面永久服務」相關的海冰、冰體或冰相現象，用於描述其形態、分布、生成或運動特徵。",
+    "traditional_chinese": "平均海平面常設服務",
+    "definition_cht": "國際性的海平面資料服務機構，通稱 PSMSL，負責蒐整、保存與發布全球驗潮站之平均海平面與相關海位資料，廣泛用於海平面變化、潮位基準與氣候研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Permanent_Service_for_Mean_Sea_Level"
   },
   {
     "english": "permanent wave",
-    "traditional_chinese": "燙髮",
-    "definition_cht": "指與「燙髮」相關的波動、擾動或傳播現象，可見於大氣、海洋或電磁系統。",
+    "traditional_chinese": "定常波",
+    "definition_cht": "相對於地面或平均流場位置近乎固定、隨時間不明顯平移的波動。大氣中常指受地形、陸海分布或長期加熱差異影響而維持的行星波或長波結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/permanent_wave"
   },
   {
     "english": "permeability",
     "traditional_chinese": "滲透性",
-    "definition_cht": "指與「滲透性」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "介質允許流體通過其孔隙或裂隙的能力，為水文、土壤與地質中描述地下水或其他流體傳輸難易的重要性質。滲透性愈高，流體在相同壓力梯度下愈容易通過。",
     "source_url": "https://glossary.ametsoc.org/wiki/permeability"
   },
   {
     "english": "permeameter",
     "traditional_chinese": "滲透計",
-    "definition_cht": "指量測「滲透計」相關物理量的儀器、計量裝置或測定器。",
+    "definition_cht": "用以量測土壤、沉積物、岩石或其他多孔介質滲透性的儀器，可據以估算水或其他流體在介質中的通透能力，常見於土壤物理、水文與地工試驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/permeameter"
   },
   {
     "english": "peroxides",
     "traditional_chinese": "過氧化物",
-    "definition_cht": "指與「過氧化物」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "含有氧—氧單鍵（–O–O–）的化合物總稱。在大氣化學中，過氧化物可由光化學氧化反應生成，參與自由基循環、氧化能力調節與二次污染物形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/peroxides"
   },
   {
     "english": "peroxyacetyl nitrate",
     "traditional_chinese": "過氧乙醯硝酸酯",
-    "definition_cht": "指與「過氧乙醯硝酸酯」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "簡稱 PAN，屬於過氧酰基硝酸酯類的二次大氣污染物，由氮氧化物與揮發性有機物在光化學反應中生成。它是重要的光化學煙霧成分，會刺激眼睛並可作為氮氧化物的遠距輸送儲庫。",
     "source_url": "https://glossary.ametsoc.org/wiki/peroxyacetyl_nitrate"
   },
   {
     "english": "peroxyalkyl radical",
-    "traditional_chinese": "過氧烷基",
-    "definition_cht": "指與「過氧烷基」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "烷基過氧自由基",
+    "definition_cht": "有機化學與大氣化學中由烷基自由基與氧分子反應形成的過氧自由基，通常記作 RO2。此類自由基是光化學氧化鏈反應的重要中間體，與臭氧、過氧化物及有機硝酸鹽的生成密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/peroxyalkyl_radical"
   },
   {
     "english": "perpetual frost climate",
     "traditional_chinese": "終年霜凍氣候",
-    "definition_cht": "指與「終年霜凍氣候」相關的氣候狀態、演變或古氣候特徵。",
+    "definition_cht": "全年各月平均氣溫皆低於冰點或暖季仍不足以消除霜凍條件的寒冷氣候類型，常見於高極地冰原或高海拔嚴寒區。此類氣候區通常缺乏明顯融季，地表長期受冰雪控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/perpetual_frost_climate"
   },
   {
     "english": "perry",
     "traditional_chinese": "佩里",
-    "definition_cht": "指與「佩里」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "本條為音譯專名條目。依目前可查公開氣象資料，未見其作為通行氣象普通名詞之明確定義；在本辭彙脈絡下宜暫按專名處理，實際意義仍需回到原始文獻或上下文判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/perry"
   },
   {
     "english": "Pers sunshine recorder",
-    "traditional_chinese": "佩斯陽光記錄儀",
-    "definition_cht": "指與「佩斯陽光記錄儀」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "佩爾斯日照記錄器",
+    "definition_cht": "一種以太陽視運動提供時間尺度的日照記錄器。儀器朝向天極，利用透鏡與半球面反射鏡將日光軌跡記錄於感光紙上，可在不同緯度條件下量測實際日照時數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Pers_sunshine_recorder"
   },
   {
     "english": "Persian Gulf Water",
-    "traditional_chinese": "波斯灣水域",
-    "definition_cht": "指與「波斯灣水域」相關的水團、水體性質或水文狀態，常用於海洋學與水文分析。",
+    "traditional_chinese": "波斯灣水",
+    "definition_cht": "源自波斯灣的高溫、高鹽地中海型水團，通常鹽度高於 38 psu，流出後在阿拉伯海中層擴散，常見於約 250 公尺並可下延至約 500 至 600 公尺深。",
     "source_url": "https://glossary.ametsoc.org/wiki/Persian_Gulf_Water"
   },
   {
     "english": "persistence",
-    "traditional_chinese": "堅持",
-    "definition_cht": "指與「堅持」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "持續性",
+    "definition_cht": "指氣象要素或天氣型態在時間上維持原有狀態的傾向，也可表示相鄰時次觀測值之間具有正相關而不易快速改變的特性。此概念常用於天氣統計分析與經驗預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/persistence"
   },
   {
     "english": "persistence forecast",
-    "traditional_chinese": "持續性預測",
-    "definition_cht": "指與「持續性預測」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "持續性預報",
+    "definition_cht": "一種最簡單的經驗預報方法，假設未來某時段的天氣狀況將與目前或最近觀測到的狀況大致相同，亦即「今天像明天」。此法常作為短期預報的基準比較方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/persistence_forecast"
   },
   {
     "english": "persistence tendency",
     "traditional_chinese": "持續傾向",
-    "definition_cht": "指與「持續傾向」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指既有天氣條件或氣象要素值在短時間內延續的有限傾向，可由連續時次資料之正相關反映出來。持續傾向愈明顯，表示系統狀態愈不易在短時間內突變。",
     "source_url": "https://glossary.ametsoc.org/wiki/persistence_tendency"
   },
   {
     "english": "personal equation",
-    "traditional_chinese": "個人方程式",
-    "definition_cht": "描述「個人方程式」相關物理量之間關係、守恆條件或近似動力平衡的方程式。",
+    "traditional_chinese": "觀測者誤差",
+    "definition_cht": "由觀測者個人反應時間、判讀習慣或主觀判準差異所造成的系統性觀測偏差或不確定性。此誤差可透過重複觀測與統計分析估計，早期常見於目視觀測與人工計時量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/personal_equation"
   },
   {
