@@ -39289,122 +39289,122 @@
   },
   {
     "english": "probable maximum precipitation",
-    "traditional_chinese": "可能的最大降水量",
-    "definition_cht": "指與「可能的最大降水量」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "可能最大降水量",
+    "definition_cht": "在特定流域、地區與歷時條件下，依現有氣象與水文條件推估理論上幾乎可能發生的最大降水量，常用於水庫、溢洪道與重大防洪工程的設計基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/probable_maximum_precipitation"
   },
   {
     "english": "probe",
-    "traditional_chinese": "探測",
-    "definition_cht": "指與「探測」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "探針；探測器",
+    "definition_cht": "泛指伸入大氣、海洋、土壤或儀器系統中以量測特定物理量的感測元件或探測裝置；在氣象上可指溫度、濕度、電場、粒子或其他參數的探針。",
     "source_url": "https://glossary.ametsoc.org/wiki/probe"
   },
   {
     "english": "process lapse rate",
-    "traditional_chinese": "流程失誤率",
-    "definition_cht": "指與「流程失誤率」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "過程遞減率",
+    "definition_cht": "指氣塊在某一指定熱力過程中，氣溫隨高度改變的速率；若過程不同，其遞減率也會不同，例如乾絕熱或濕絕熱過程所對應的遞減率。",
     "source_url": "https://glossary.ametsoc.org/wiki/process_lapse_rate"
   },
   {
     "english": "product-moment",
-    "traditional_chinese": "產品時刻",
-    "definition_cht": "指與「產品時刻」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "乘積矩",
+    "definition_cht": "統計學中由兩個變數偏差乘積所構成的矩量，用以描述變數間的線性關聯；皮爾森積差相關係數即建立在此概念上。",
     "source_url": "https://glossary.ametsoc.org/wiki/product-moment"
   },
   {
     "english": "production rule",
     "traditional_chinese": "產生式規則",
-    "definition_cht": "指與「產生式規則」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "在專家系統或知識推論中，以『若…則…』形式表達知識的規則，用來依據觀測條件或前提事實推導診斷、分類或預報結論。",
     "source_url": "https://glossary.ametsoc.org/wiki/production_rule"
   },
   {
     "english": "production system",
-    "traditional_chinese": "生產系統",
-    "definition_cht": "指與「生產系統」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "產生式系統",
+    "definition_cht": "由知識庫、產生式規則與推論機制所組成的規則推理系統，可依條件比對結果逐步觸發規則，常用於天氣判釋、診斷與專家預報輔助。",
     "source_url": "https://glossary.ametsoc.org/wiki/production_system"
   },
   {
     "english": "profile",
-    "traditional_chinese": "輪廓",
-    "definition_cht": "指與「輪廓」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "剖面；垂直廓線",
+    "definition_cht": "指某一氣象或海洋要素沿垂直方向或指定路徑的分布情形；在氣象上常指溫度、濕度、風或密度隨高度變化的剖面。",
     "source_url": "https://glossary.ametsoc.org/wiki/profile"
   },
   {
     "english": "profile matching",
-    "traditional_chinese": "個人資料匹配",
-    "definition_cht": "指與「個人資料匹配」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "廓線比對",
+    "definition_cht": "將觀測或反演得到的垂直廓線與既有樣本、模板或理論廓線逐一比較，以判定最相近類型，並用於分類、檢索或參數估算的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/profile_matching"
   },
   {
     "english": "profile similarity",
-    "traditional_chinese": "個人資料相似度",
-    "definition_cht": "指與「個人資料相似度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "廓線相似度",
+    "definition_cht": "衡量兩個垂直廓線在形狀、梯度或數值分布上接近程度的指標，常用於廓線比對、樣式辨識與遙測反演品質評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/profile_similarity"
   },
   {
     "english": "profiler",
-    "traditional_chinese": "分析器",
-    "definition_cht": "指與「分析器」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "剖面儀；廓線儀",
+    "definition_cht": "可連續量測大氣或海洋要素隨高度（或深度）分布的觀測儀器；在氣象上常特指風廓線雷達等用於量測風場垂直結構的設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/profiler"
   },
   {
     "english": "prog",
-    "traditional_chinese": "程式",
-    "definition_cht": "指與「程式」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "預報圖",
+    "definition_cht": "prognostic 的縮寫，氣象業務中通常指預報圖或預報分析產品，用來表示未來某時刻的天氣形勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/prog"
   },
   {
     "english": "prog chart",
-    "traditional_chinese": "程式圖",
-    "definition_cht": "指與「程式圖」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "預報圖",
+    "definition_cht": "依數值預報或預報分析製作、表示未來特定時刻天氣形勢的圖表，可呈現氣壓場、高度場、鋒面、降水或其他預報要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/prog_chart"
   },
   {
     "english": "prognostic chart",
-    "traditional_chinese": "預後圖",
-    "definition_cht": "指與「預後圖」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "預報圖",
+    "definition_cht": "根據預報資料繪製、顯示未來某一時刻或時段天氣形勢的圖件，常供天氣分析、航空氣象與作業預報使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/prognostic_chart"
   },
   {
     "english": "prognostic clouds",
-    "traditional_chinese": "預測雲",
-    "definition_cht": "指與「預測雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "traditional_chinese": "徵兆雲；預兆雲",
+    "definition_cht": "指其外觀、演變或移動情形可作為未來天氣變化徵兆的雲，例如可提示鋒面接近、對流發展或降水將至的雲系。",
     "source_url": "https://glossary.ametsoc.org/wiki/prognostic_clouds"
   },
   {
     "english": "prognostic contour chart",
-    "traditional_chinese": "預後等高線圖",
-    "definition_cht": "指與「預後等高線圖」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "預報等值線圖",
+    "definition_cht": "以等值線方式表示未來某一時刻預報場的圖件，可描繪高度、氣壓、厚度、溫度或其他連續氣象要素的預測分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/prognostic_contour_chart"
   },
   {
     "english": "prognostic equation",
-    "traditional_chinese": "預後方程",
-    "definition_cht": "描述「預後方程」相關物理量之間關係、守恆條件或近似動力平衡的方程式。",
+    "traditional_chinese": "預報方程",
+    "definition_cht": "描述某物理量如何隨時間演變的方程式，可依已知初始與邊界條件推算其未來狀態，是數值天氣預報與動力氣象中的基本方程之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/prognostic_equation"
   },
   {
     "english": "progressive wave",
     "traditional_chinese": "行進波",
-    "definition_cht": "指與「行進波」相關的波動、擾動或傳播現象，可見於大氣、海洋或電磁系統。",
+    "definition_cht": "能量與相位沿空間持續向前傳播的波動，與僅在固定位置起伏的駐波相對；在大氣、海洋與電磁波傳播中皆可見。",
     "source_url": "https://glossary.ametsoc.org/wiki/progressive_wave"
   },
   {
     "english": "projection",
     "traditional_chinese": "投影",
-    "definition_cht": "指與「投影」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "將地球曲面或球面座標轉換到平面上的數學表示方法；氣象圖資與天氣圖常依用途採用不同地圖投影，以兼顧形狀、面積、距離或方向特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/projection"
   },
   {
     "english": "Prominence",
-    "traditional_chinese": "突顯",
-    "definition_cht": "指與「突顯」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "日珥",
+    "definition_cht": "由太陽色球向外延伸至日冕中的巨大弧狀或環狀高溫電漿結構，受磁場支撐與約束；在太陽物理與太空天氣研究中屬重要現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Prominence"
   },
   {
     "english": "propagation constant",
     "traditional_chinese": "傳播常數",
-    "definition_cht": "指與「傳播常數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "描述波在介質中傳播時振幅衰減與相位變化的複數常數，常寫為衰減常數與相位常數之組合；在電磁波、雷達與遙測傳播分析中常用。",
     "source_url": "https://glossary.ametsoc.org/wiki/propagation_constant"
   },
   {
