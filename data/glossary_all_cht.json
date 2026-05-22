@@ -37010,121 +37010,121 @@
   {
     "english": "perturbation",
     "traditional_chinese": "擾動",
-    "definition_cht": "指與「擾動」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指相對於基準狀態、平均場或平衡解而言的小幅偏離或干擾。在氣象與流體動力中，常用以表示風、壓力、溫度或密度等量的微小變化，並據以分析波動、穩定度與系統演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/perturbation"
   },
   {
     "english": "perturbation equation",
-    "traditional_chinese": "微擾方程",
-    "definition_cht": "描述「微擾方程」相關物理量之間關係、守恆條件或近似動力平衡的方程式。",
+    "traditional_chinese": "擾動方程",
+    "definition_cht": "將控制方程繞某一基準狀態線性化或展開後，專門描述擾動量隨時間與空間演變的方程式。此類方程常用於大氣、海洋與流體穩定度分析，以研究小擾動的傳播、增幅或衰減。",
     "source_url": "https://glossary.ametsoc.org/wiki/perturbation_equation"
   },
   {
     "english": "perturbation motion",
     "traditional_chinese": "擾動運動",
-    "definition_cht": "指與「擾動運動」相關的運動型態、運移過程或流體動力特徵。",
+    "definition_cht": "疊加在平均流、背景流或平衡狀態上的附加運動成分，通常幅度較小。於氣象與流體力學中，常指與波動、渦動或不穩定成長相關的速度與位移變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/perturbation_motion"
   },
   {
     "english": "perturbation quantity",
     "traditional_chinese": "擾動量",
-    "definition_cht": "指與「擾動量」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "某物理量相對於其平均值、背景值或基準狀態之偏差量，常以總量減去基本場表示，例如擾動氣壓、擾動溫度或擾動風速。此概念是線性化分析與波動研究的基本表述方式。",
     "source_url": "https://glossary.ametsoc.org/wiki/perturbation_quantity"
   },
   {
     "english": "perturbation technique",
-    "traditional_chinese": "微擾技術",
-    "definition_cht": "指與「微擾技術」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "微擾法",
+    "definition_cht": "一類以小參數展開為核心的近似求解方法，將原本難以精確求解的方程或系統分解為已知主解與較小修正項。常用於流體力學、波動、邊界層與其他大氣海洋數學模型分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/perturbation_technique"
   },
   {
     "english": "perturbation theory",
     "traditional_chinese": "微擾理論",
-    "definition_cht": "指與「微擾理論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。",
+    "definition_cht": "研究小擾動如何改變已知基準解或平衡狀態的理論與近似架構。其作法通常以小參數級數展開求得逐階修正，廣泛應用於大氣動力、波動、量子力學與其他應用數學問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/perturbation_theory"
   },
   {
     "english": "Peru/Chile Current",
-    "traditional_chinese": "秘魯/智利海流",
-    "definition_cht": "指與「秘魯/智利海流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "秘魯－智利海流",
+    "definition_cht": "又稱洪堡海流，為南美洲西岸外海向赤道流動的冷水東岸邊界海流。此海流伴隨上升流，將深層富營養鹽冷水帶至表層，對沿岸氣候、海洋生態與漁業生產力具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Peru%2FChile_Current"
   },
   {
     "english": "petit St. Bernard",
-    "traditional_chinese": "小聖伯納",
-    "definition_cht": "指與「小聖伯納」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "小聖伯納風",
+    "definition_cht": "法國上塔朗泰斯地區的一種地方性山風，名稱來自小聖伯納山口。此類風屬地形導引的局地風系，其風向與強弱受山谷地勢及鄰近壓力分布影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/petit_St._Bernard"
   },
   {
     "english": "pH",
-    "traditional_chinese": "酸鹼度",
-    "definition_cht": "指與「酸鹼度」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "pH值",
+    "definition_cht": "表示水溶液酸鹼性的對數尺度，數值上等於氫離子活度的負對數。於水文、海洋與降水化學中，pH 可用以描述水體或降水的酸化程度；數值愈低表示愈酸，愈高則表示愈鹼。",
     "source_url": "https://glossary.ametsoc.org/wiki/pH"
   },
   {
     "english": "phase",
-    "traditional_chinese": "階段",
-    "definition_cht": "指與「階段」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "相位",
+    "definition_cht": "用以表示週期性振盪、波動或循環過程在某一時刻所處位置的量，可視為相對於基準點的角度或時間位移。相位差可用來描述不同波形、訊號或氣候振盪之間的先後關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase"
   },
   {
     "english": "phase averaging",
     "traditional_chinese": "相位平均",
-    "definition_cht": "指與「相位平均」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "依週期運動或振盪的相位對資料分組，再對相同相位位置的樣本求平均的方法。此法可突顯與週期訊號同步的結構，並降低非同步隨機擾動的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_averaging"
   },
   {
     "english": "phase change",
     "traditional_chinese": "相變",
-    "definition_cht": "指與「相變」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "物質由一種相態轉變為另一種相態的過程，如蒸發、凝結、融化、凝固、昇華與凝華。大氣科學中，相變伴隨潛熱吸收或釋放，對雲降水形成與能量收支極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_change"
   },
   {
     "english": "phase delay",
     "traditional_chinese": "相位延遲",
-    "definition_cht": "指與「相位延遲」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指波動或訊號相位相對於參考波形落後的量，可用角度、弧度或等效時間表示。於遙測、雷達、聲波與訊號分析中，常用來描述介質傳播或系統響應造成的時序滯後。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_delay"
   },
   {
     "english": "phase distortion",
     "traditional_chinese": "相位失真",
-    "definition_cht": "指與「相位失真」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "系統對不同頻率成分產生不一致的相位延遲，致使輸出波形形狀改變的現象。即使振幅變化不大，仍可能因相位關係被破壞而影響訊號重建、雷達處理或遙測判釋。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_distortion"
   },
   {
     "english": "phase function",
     "traditional_chinese": "相函數",
-    "definition_cht": "指與「相函數」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "描述輻射、光或粒子被散射後，其強度隨散射方向分布而變化的函數。於大氣輻射與雲霧氣膠研究中，相函數是表示前向散射、後向散射與角分布特性的關鍵量。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_function"
   },
   {
     "english": "phase instability",
     "traditional_chinese": "相位不穩定",
-    "definition_cht": "指與「相位不穩定」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "指振盪、波列或訊號的相位隨時間出現不規則漂移、擾動放大或難以維持固定關係的狀態。此現象會降低週期結構的穩定性，並可能影響波動傳播、干涉與同步分析結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_instability"
   },
   {
     "english": "phase matrix",
-    "traditional_chinese": "相位矩陣",
-    "definition_cht": "指與「相位矩陣」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "相矩陣",
+    "definition_cht": "在向量輻射傳輸與偏振散射理論中，用以描述入射輻射經散射後，其各偏振分量如何轉換與重新分配的矩陣。它是單一散射特性、偏振計算與遙測反演的重要表述工具。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_matrix"
   },
   {
     "english": "phase modulation",
-    "traditional_chinese": "調相",
-    "definition_cht": "指與「調相」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "相位調變",
+    "definition_cht": "以訊號振幅變化去改變載波相位的調變方式，載波頻率可隨相位變化率而間接改變。此法廣用於通信、雷達與遙測系統，以傳遞資訊或控制波形特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_modulation"
   },
   {
     "english": "phase shift",
-    "traditional_chinese": "相移",
-    "definition_cht": "指與「相移」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "traditional_chinese": "相位移",
+    "definition_cht": "指兩個週期訊號、波動或振盪在相位上的差值，可表為角度、弧度或時間位移。相位移可反映傳播延遲、系統響應或不同變量之間的先後關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_shift"
   },
   {
     "english": "phase space",
     "traditional_chinese": "相空間",
-    "definition_cht": "指與「相空間」相關的氣象、海洋、水文、遙測或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法或環境現象。",
+    "definition_cht": "以系統所有獨立狀態變數為坐標所構成的抽象空間，其中每一點代表系統的一個完整狀態。動力系統在相空間中的軌跡可用來分析其演變、穩定性、週期解與吸引子結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/phase_space"
   },
   {
