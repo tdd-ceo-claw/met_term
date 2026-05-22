@@ -40124,122 +40124,122 @@
   {
     "english": "radar constant",
     "traditional_chinese": "雷達常數",
-    "definition_cht": "雷達方程式中的綜合常數，包含天線、波長、脈衝與系統增益等儀器參數，用來連結接收功率與目標反射特性，並作為定量校正基礎。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_constant"
+    "definition_cht": "雷達方程式中的綜合常數，通常彙整發射功率、波長、天線增益、波束形狀、脈衝特性與接收系統參數，用以把接收回波功率換算為目標反射特性，並作為雷達定量校正依據。",
+    "source_url": "https://en.wikipedia.org/wiki/Radar"
   },
   {
     "english": "radar cross section",
     "traditional_chinese": "雷達截面",
-    "definition_cht": "指與「雷達截面」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_cross_section"
+    "definition_cht": "表示目標對入射雷達波的等效散射能力之量，常以平方公尺表示；數值越大，代表該目標在特定波長、方位與極化條件下越容易被雷達偵測。",
+    "source_url": "https://en.wikipedia.org/wiki/Radar_cross_section"
   },
   {
     "english": "radar displays",
-    "traditional_chinese": "雷達顯示器",
-    "definition_cht": "指與「雷達顯示器」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_displays"
+    "traditional_chinese": "雷達顯示器；雷達顯示方式",
+    "definition_cht": "將雷達回波轉為可視化資訊的顯示設備或呈現形式，常用來標示目標的距離、方位、高度、速度或回波強弱，例如 A-scope、PPI 與 RHI。",
+    "source_url": "https://en.wikipedia.org/wiki/Radar_display"
   },
   {
     "english": "radar duct",
-    "traditional_chinese": "雷達導管",
-    "definition_cht": "指與「雷達導管」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_duct"
+    "traditional_chinese": "雷達波導管；雷達導波層",
+    "definition_cht": "由大氣折射率垂直梯度異常所形成、可使雷達波沿近地層或特定氣層被導引傳播的層結；會造成超視距偵測、虛假回波或回波範圍異常延伸。",
+    "source_url": "https://en.wikipedia.org/wiki/Atmospheric_duct"
   },
   {
     "english": "radar equation",
     "traditional_chinese": "雷達方程",
-    "definition_cht": "指與「雷達方程」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_equation"
+    "definition_cht": "描述雷達發射功率、天線增益、距離衰減、目標散射特性與接收功率之間關係的方程式，用以估算偵測距離、回波強度及系統效能。",
+    "source_url": "https://en.wikipedia.org/wiki/Radar"
   },
   {
     "english": "radar frequency band",
     "traditional_chinese": "雷達頻段",
-    "definition_cht": "指與「雷達頻段」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_frequency_band"
+    "definition_cht": "依工作頻率或波長對雷達加以分類的頻帶區間，如 S 波段、C 波段與 X 波段；不同頻段在衰減、穿透能力、解析度與適用觀測目標上各有差異。",
+    "source_url": "https://en.wikipedia.org/wiki/Radio_spectrum"
   },
   {
     "english": "radar hydrology",
     "traditional_chinese": "雷達水文學",
-    "definition_cht": "指與「雷達水文學」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_hydrology"
+    "definition_cht": "利用氣象雷達觀測降水回波、估算雨強與累積雨量，並將其應用於逕流分析、洪水預報與流域水文模擬的水文學分支。",
+    "source_url": "https://en.wikipedia.org/wiki/Weather_radar"
   },
   {
     "english": "radar interferometry",
     "traditional_chinese": "雷達干涉測量",
-    "definition_cht": "指與「雷達干涉測量」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_interferometry"
+    "definition_cht": "利用兩次或多次雷達觀測之相位差進行干涉分析，以推估地表高程、地形起伏或微小位移的技術；在遙測中常見於合成孔徑雷達干涉測量。",
+    "source_url": "https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar"
   },
   {
     "english": "radar meteorological observation",
     "traditional_chinese": "雷達氣象觀測",
-    "definition_cht": "指與「雷達氣象觀測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_meteorological_observation"
+    "definition_cht": "以氣象雷達量測降水系統的位置、範圍、移動、回波強度與徑向速度等特徵的觀測作業，用於監測對流、颱風、梅雨及短延時強降雨。",
+    "source_url": "https://en.wikipedia.org/wiki/Weather_radar"
   },
   {
     "english": "radar meteorology",
     "traditional_chinese": "雷達氣象學",
-    "definition_cht": "指與「雷達氣象學」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_meteorology"
+    "definition_cht": "研究雷達在大氣探測與天氣分析中的原理、方法與應用之學科，涵蓋降水估測、風場反演、對流監測、微物理判識與預報支援。",
+    "source_url": "https://en.wikipedia.org/wiki/Weather_radar"
   },
   {
     "english": "radar mile",
     "traditional_chinese": "雷達英里",
-    "definition_cht": "指與「雷達英里」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_mile"
+    "definition_cht": "雷達測距中依電磁波往返傳播時間所定義的距離單位；一雷達英里通常指光在一微秒內往返所對應的距離，約為 0.081 海里，常用於脈衝雷達距離刻度。",
+    "source_url": "https://en.wikipedia.org/wiki/Radar"
   },
   {
     "english": "radar observation",
     "traditional_chinese": "雷達觀測",
-    "definition_cht": "指與「雷達觀測」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_observation"
+    "definition_cht": "利用雷達發射與接收電磁波回波，以測定目標或天氣現象之位置、距離、方位、速度、結構或反射特性的觀測。",
+    "source_url": "https://en.wikipedia.org/wiki/Radar"
   },
   {
     "english": "radar polarimetry",
     "traditional_chinese": "雷達極化測量",
-    "definition_cht": "指與「雷達極化測量」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_polarimetry"
+    "definition_cht": "分析雷達波在不同發射與接收極化狀態下之回波差異的技術，可用於判別降水粒子形狀、相態與分布，亦常應用於雙偏極化氣象雷達。",
+    "source_url": "https://en.wikipedia.org/wiki/Polarization_(waves)"
   },
   {
     "english": "radar reflectivity",
     "traditional_chinese": "雷達反射率",
-    "definition_cht": "指與「雷達反射率」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_reflectivity"
+    "definition_cht": "描述目標或降水粒子群將雷達波向後散射回雷達之能力的量；氣象上常以反射率因子及 dBZ 顯示，用來推估降水強度與回波結構。",
+    "source_url": "https://en.wikipedia.org/wiki/Weather_radar"
   },
   {
     "english": "Radar reflectivity factor",
-    "traditional_chinese": "雷達反射率係數",
-    "definition_cht": "指與「雷達反射率係數」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Radar_reflectivity_factor"
+    "traditional_chinese": "雷達反射率因子",
+    "definition_cht": "氣象雷達用以表示單位體積內水滴或冰粒後向散射總效應的量，與粒徑的六次方加總成正比；慣例以 Z 表示，常換算為 dBZ 顯示。",
+    "source_url": "https://en.wikipedia.org/wiki/Reflectivity"
   },
   {
     "english": "radar report",
     "traditional_chinese": "雷達報告",
-    "definition_cht": "指與「雷達報告」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_report"
+    "definition_cht": "根據雷達觀測整理發布的報告或通報，內容可包括降水區位置、回波強度、移動方向、風暴特徵及其他對航空或天氣警戒有用的資訊。",
+    "source_url": "https://en.wikipedia.org/wiki/Weather_radar"
   },
   {
     "english": "radar resolution",
-    "traditional_chinese": "雷達分辨率",
-    "definition_cht": "指與「雷達分辨率」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_resolution"
+    "traditional_chinese": "雷達解析度",
+    "definition_cht": "雷達區分兩個彼此接近目標之能力，可依距離解析度、方位解析度與速度解析度等描述；解析度越高，越能分辨細小或相鄰結構。",
+    "source_url": "https://en.wikipedia.org/wiki/Radar"
   },
   {
     "english": "radar return",
     "traditional_chinese": "雷達回波",
-    "definition_cht": "指與「雷達回波」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_return"
+    "definition_cht": "雷達波遭目標、降水粒子或地物散射後返回接收機的訊號，是判讀目標位置、強度、速度與結構的基本資訊。",
+    "source_url": "https://en.wikipedia.org/wiki/Radar"
   },
   {
     "english": "radar scatterometer",
     "traditional_chinese": "雷達散射儀",
-    "definition_cht": "指與「雷達散射儀」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_scatterometer"
+    "definition_cht": "以主動微波量測海面或地表後向散射特性的雷達儀器；在海洋遙測上常用來反演近海面風速與風向，也可用於地表粗糙度與土壤濕度研究。",
+    "source_url": "https://en.wikipedia.org/wiki/Scatterometer"
   },
   {
     "english": "radar signal spectrograph",
-    "traditional_chinese": "雷達訊號頻譜儀",
-    "definition_cht": "指與「雷達訊號頻譜儀」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/radar_signal_spectrograph"
+    "traditional_chinese": "雷達訊號頻譜圖；雷達訊號頻譜儀",
+    "definition_cht": "將雷達接收訊號按頻率或都卜勒頻移分布加以顯示與記錄的圖形或儀器，用於分析目標速度分布、湍流、降水粒子運動與雜波特性。",
+    "source_url": "https://en.wikipedia.org/wiki/Spectrogram"
   },
   {
     "english": "radar sounding",
