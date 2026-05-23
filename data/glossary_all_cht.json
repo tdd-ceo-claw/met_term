@@ -43250,7 +43250,7 @@
   {
     "english": "Santa Rosa storm",
     "traditional_chinese": "聖羅莎風暴",
-    "definition_cht": "南美拉普拉塔流域一帶對接近 8 月 30 日前後常見強風暴或劇烈天氣事件的民間稱呼。",
+    "definition_cht": "南美洲南部、尤其拉普拉塔河流域一帶，對接近 8 月 30 日聖羅莎日前後常見強風暴或劇烈天氣事件的民間稱呼。",
     "source_url": "https://glossary.ametsoc.org/wiki/Santa_Rosa_storm"
   },
   {
@@ -43262,13 +43262,13 @@
   {
     "english": "sàrca",
     "traditional_chinese": "薩爾卡風",
-    "definition_cht": "義大利加爾達湖北端一帶的地方風，指來自薩爾卡河谷方向的強風；部分資料將其描述為猛烈北風。",
+    "definition_cht": "義大利加爾達湖北端一帶的地方風，指沿薩爾卡河谷吹向湖區的風；部分資料將其描述為偏北向強風。",
     "source_url": "https://glossary.ametsoc.org/wiki/s%C3%A0rca"
   },
   {
     "english": "Sargasso Sea",
     "traditional_chinese": "馬尾藻海",
-    "definition_cht": "北大西洋副熱帶環流中央的海域，四周無明顯陸岸，以大量漂浮馬尾藻及相對穩定的環流特徵著稱。",
+    "definition_cht": "北大西洋副熱帶環流中央的海域，四周由洋流環繞而無明顯陸岸，並以大量漂浮馬尾藻與相對穩定的環流特徵著稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Sargasso_Sea"
   },
   {
@@ -43292,19 +43292,19 @@
   {
     "english": "satellite image navigation",
     "traditional_chinese": "衛星影像定位校正",
-    "definition_cht": "將衛星影像各像元正確對應到地表地理位置，並使連續影像彼此對準的處理程序。",
+    "definition_cht": "將衛星影像各像元正確對應到地表地理位置，並使連續影像或不同頻道影像彼此對準的定位與校正程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/satellite_image_navigation"
   },
   {
     "english": "Satellite Infrared Spectrometer",
     "traditional_chinese": "衛星紅外光譜儀",
-    "definition_cht": "縮寫為 SIRS，為早期搭載於 Nimbus 衛星上的太空紅外光譜儀，用於由紅外輻射反演大氣垂直溫度剖面。",
+    "definition_cht": "縮寫為 SIRS，為早期搭載於 Nimbus 衛星上的紅外光譜儀，用於依據量測到的紅外輻射反演大氣垂直溫度剖面。",
     "source_url": "https://glossary.ametsoc.org/wiki/Satellite_Infrared_Spectrometer"
   },
   {
     "english": "satellite meteorology",
     "traditional_chinese": "衛星氣象學",
-    "definition_cht": "利用地球軌道衛星觀測影像、輻射與環境資料，以分析與監測天氣、氣候及海陸環境的學門。",
+    "definition_cht": "利用地球軌道衛星所取得的影像、輻射與環境資料，分析與監測天氣、氣候及海陸環境的學門。",
     "source_url": "https://glossary.ametsoc.org/wiki/satellite_meteorology"
   },
   {
@@ -43316,7 +43316,7 @@
   {
     "english": "satellite sounding",
     "traditional_chinese": "衛星探空",
-    "definition_cht": "利用衛星量測的大氣輻射資料反演溫度、濕度、臭氧等垂直分布的遙測方法。",
+    "definition_cht": "利用衛星量測的大氣輻射資料，反演溫度、濕度、臭氧等大氣垂直廓線的遙測方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/satellite_sounding"
   },
   {
@@ -43334,31 +43334,31 @@
   {
     "english": "saturated zone",
     "traditional_chinese": "飽和帶",
-    "definition_cht": "地下所有孔隙與裂隙長期被水充滿的地層區域，通常位於地下水位以下。",
+    "definition_cht": "地下所有孔隙與裂隙長期被水充滿的地層區域，通常位於地下水位以下，又稱飽和區。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturated_zone"
   },
   {
     "english": "saturation",
     "traditional_chinese": "飽和",
-    "definition_cht": "在一定溫度與壓力下，空氣中水氣含量達到可與液態水或冰共存平衡的狀態。",
+    "definition_cht": "在一定溫度與壓力下，空氣中的水氣含量達到可與液態水或冰維持平衡的狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation"
   },
   {
     "english": "saturation deficit",
     "traditional_chinese": "飽和差",
-    "definition_cht": "空氣在既定溫度下距離飽和仍不足的量，常以飽和水氣壓與實際水氣壓之差表示。",
+    "definition_cht": "空氣在既定溫度下距離飽和仍不足的量，常以飽和水氣壓與實際水氣壓之差，或飽和混合比與實際混合比之差表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_deficit"
   },
   {
     "english": "Saturation equivalent potential temperature",
     "traditional_chinese": "飽和等效位溫",
-    "definition_cht": "空氣團若先達到飽和並使其中水汽凝結釋放潛熱，再以乾絕熱方式帶至 1000 hPa 時所具有的位溫。",
+    "definition_cht": "空氣團若先達到飽和並將水汽凝結所釋放的潛熱納入，再以乾絕熱方式帶至 1000 hPa 時所具有的位溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/Saturation_equivalent_potential_temperature"
   },
   {
     "english": "saturation level",
     "traditional_chinese": "飽和高度",
-    "definition_cht": "空氣團經抬升冷卻後恰達飽和時所在的高度或壓力層。",
+    "definition_cht": "空氣團經抬升冷卻後恰達飽和時所在的高度或壓力層，又稱飽和層位。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_level"
   },
   {
