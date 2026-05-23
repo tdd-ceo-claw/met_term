@@ -2,67 +2,67 @@
   {
     "english": "S-curve",
     "traditional_chinese": "S 曲線",
-    "definition_cht": "在水文中，指流域受連續且等強度的有效降雨作用時所形成的直接逕流歷線；其上升段呈 S 形，常用於換算不同延時的單位歷線。",
+    "definition_cht": "單位歷線理論中的累積直接逕流歷線，係由同一延時單位歷線按固定時間間隔連續疊加而成；因曲線形狀常呈 S 形，常用於推求不同有效降雨延時的單位歷線。",
     "source_url": "https://glossary.ametsoc.org/wiki/S-curve"
   },
   {
     "english": "S-curve method",
     "traditional_chinese": "S 曲線法",
-    "definition_cht": "在單位歷線分析中，利用 S 曲線由既有延時的單位歷線推求另一指定延時單位歷線的方法。",
+    "definition_cht": "水文單位歷線分析方法之一，先由既有延時的單位歷線構成 S 曲線，再利用兩條相隔指定延時的 S 曲線差值，換算求得另一所需延時的單位歷線。",
     "source_url": "https://glossary.ametsoc.org/wiki/S-curve_method"
   },
   {
     "english": "S-scale",
     "traditional_chinese": "S 級（太陽輻射暴等級）",
-    "definition_cht": "NOAA 太空天氣分級中用於表示太陽輻射暴強度的等級，依高能質子通量分為 S1 至 S5，數值愈大代表影響愈嚴重。",
+    "definition_cht": "NOAA 太空天氣尺度中用來表示太陽輻射暴強度的分級，依高能質子通量區分為 S1 至 S5；級數愈高，對極區飛航、太空器與高空輻射暴露的影響通常愈大。",
     "source_url": "https://glossary.ametsoc.org/wiki/S-scale"
   },
   {
     "english": "S-values",
     "traditional_chinese": "S 值",
-    "definition_cht": "在 S 曲線法中，指 S 曲線於各時段的歷線序列值（縱座標值），可用於推算不同延時的單位歷線。",
+    "definition_cht": "在 S 曲線分析中，指 S 曲線於各時刻的縱座標數值，代表連續等強度有效降雨作用下累積直接逕流歷線的各時段流量或流量座標，可用於換算不同延時的單位歷線。",
     "source_url": "https://glossary.ametsoc.org/wiki/S-values"
   },
   {
     "english": "saddle-back",
     "traditional_chinese": "馬鞍背",
-    "definition_cht": "形狀如馬鞍背的隆起或脊狀外觀；此詞較少單獨使用，通常用來描述雲體、雪面或地形的鞍狀起伏。",
+    "definition_cht": "形狀近似馬鞍背部的地形、雪面、雲體或其他表面外觀；通常指中間下凹、兩側略高或沿脊線呈鞍狀起伏的形態描述語。",
     "source_url": "https://glossary.ametsoc.org/wiki/saddle-back"
   },
   {
     "english": "Saffir–Simpson hurricane scale",
     "traditional_chinese": "薩菲爾–辛普森颶風風級",
-    "definition_cht": "依持續最大風速將颶風分為第 1 至第 5 級的分級系統，用於表示颶風風害潛勢；不直接表示降雨、風暴潮或淹水程度。",
+    "definition_cht": "依颶風持續最大近地面風速將其分為第 1 至第 5 級的分級系統，用以概略表示風害潛勢；此尺度本身不直接反映降雨量、淹水深度或風暴潮高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Saffir%E2%80%93Simpson_hurricane_scale"
   },
   {
     "english": "SAGE",
     "traditional_chinese": "平流層氣膠與氣體實驗",
-    "definition_cht": "Stratospheric Aerosol and Gas Experiment 的縮寫，為 NASA 一系列以日掩星法自太空觀測平流層氣膠、臭氧、水氣及其他微量氣體的儀器。",
+    "definition_cht": "Stratospheric Aerosol and Gas Experiment 的縮寫，為 NASA 系列衛星遙測儀器與任務，主要利用太陽或月球掩星法量測平流層氣膠、臭氧、水氣及其他微量氣體的垂直分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/SAGE"
   },
   {
     "english": "Saharan air layer",
     "traditional_chinese": "撒哈拉空氣層",
-    "definition_cht": "源自撒哈拉沙漠上空、溫暖乾燥且常夾帶沙塵的氣層，常自北非向西輸送至熱帶大西洋，並影響雲對流與熱帶氣旋發展。",
+    "definition_cht": "源自北非撒哈拉沙漠上空、炎熱乾燥且常夾帶大量礦塵的氣層，常位於海洋邊界層之上並向西輸送至熱帶大西洋，可影響雲對流、輻射收支與熱帶氣旋發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/Saharan_air_layer"
   },
   {
     "english": "sahel",
     "traditional_chinese": "薩赫勒",
-    "definition_cht": "非洲撒哈拉沙漠南緣與蘇丹草原之間的半乾旱過渡帶，氣候受季風與年際降雨變化影響顯著。",
+    "definition_cht": "位於非洲撒哈拉沙漠南緣、介於沙漠與蘇丹草原之間的半乾旱過渡地帶；其降雨高度季節性，對西非季風、乾旱與年際至年代際氣候變率研究十分重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/sahel"
   },
   {
     "english": "sailing directions",
     "traditional_chinese": "航海指南",
-    "definition_cht": "供船舶航行使用的航海出版品，補充海圖資訊，內容包括港口、海岸、潮流、風況、冰情、危險物與導航注意事項。",
+    "definition_cht": "供船舶航行參考的航海出版品，用以補充海圖未能充分表達的資訊，內容通常包括海岸地形、港灣條件、潮汐潮流、風況、冰情、危險物、導航設施與航行注意事項。",
     "source_url": "https://glossary.ametsoc.org/wiki/sailing_directions"
   },
   {
     "english": "salinity",
     "traditional_chinese": "鹽度",
-    "definition_cht": "水體中溶解鹽類總量的量度，為描述海水性質、水團特徵與海洋環流的重要基本參數。",
+    "definition_cht": "表示水體中溶解鹽類含量的物理量，是描述海水性質、水團特徵、密度結構與海洋環流的重要基本參數；現代海洋學常依電導率等量測結果換算實用鹽度或絕對鹽度。",
     "source_url": "https://glossary.ametsoc.org/wiki/salinity"
   },
   {

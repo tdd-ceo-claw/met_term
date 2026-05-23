@@ -2971,56 +2971,56 @@
   },
   {
     "english": "runoff cycle",
-    "traditional_chinese": "徑流循環",
-    "definition_cht": "指與「徑流循環」相關的地表逕流、流域集水或水文輸送過程。",
+    "traditional_chinese": "逕流循環",
+    "definition_cht": "指降水落至流域後，經地表逕流、壤中流與地下水出流等途徑匯入河川、湖泊或海洋，並再由蒸發與後續降水回到流域中的水文循環過程；常用來強調水循環中與逕流生成、輸送及回歸相關的部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/runoff_cycle"
   },
   {
     "english": "runoff plot",
-    "traditional_chinese": "徑流圖",
-    "definition_cht": "指與「徑流圖」相關的地表逕流、流域集水或水文輸送過程。",
+    "traditional_chinese": "逕流試驗小區",
+    "definition_cht": "水文與土壤沖蝕研究中所設置的標準化小面積試驗地塊，藉由控制面積、坡度、地表覆蓋與排水出口，量測降雨事件所產生的逕流量、泥砂輸移與入滲特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/runoff_plot"
   },
   {
     "english": "runway elevation",
     "traditional_chinese": "跑道標高",
-    "definition_cht": "指與航空跑道之觀測、狀態、能見度或作業條件相關的專業術語。",
+    "definition_cht": "機場跑道相對平均海平面的高程；航空資料中通常指跑道中心線可用部分最高點的標高，供飛航性能計算、氣壓高度修正與進離場作業使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/runway_elevation"
   },
   {
     "english": "runway observation",
-    "traditional_chinese": "跑道觀察",
-    "definition_cht": "指與航空跑道之觀測、狀態、能見度或作業條件相關的專業術語。",
+    "traditional_chinese": "跑道觀測",
+    "definition_cht": "針對跑道及其鄰近作業區所進行的現地觀測或通報，內容可包括道面乾濕、積水、積雪、積冰、污染物、能見條件與燈光可辨識情形，供航空器起降與機場作業判斷使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/runway_observation"
   },
   {
     "english": "runway temperature",
     "traditional_chinese": "跑道溫度",
-    "definition_cht": "指與航空跑道之觀測、狀態、能見度或作業條件相關的專業術語。",
+    "definition_cht": "指跑道鋪面或其近表層的溫度；在航空與冬季維運上常用於評估結冰、降雪附著、除冰作業與高溫對航空器起飛性能的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/runway_temperature"
   },
   {
     "english": "runway visibility",
     "traditional_chinese": "跑道能見度",
-    "definition_cht": "指與航空跑道之觀測、狀態、能見度或作業條件相關的專業術語。",
+    "definition_cht": "沿跑道方向可辨識跑道標誌、燈光、中心線或端點等目標的可見程度；為描述跑道附近實際目視條件的泛稱，概念較廣，不一定等同以儀器量測並依規範發布的跑道視程。",
     "source_url": "https://glossary.ametsoc.org/wiki/runway_visibility"
   },
   {
     "english": "runway visual range",
     "traditional_chinese": "跑道視程",
-    "definition_cht": "指與「跑道視程」相關的距離範圍、變動區間或量測可及範圍。",
+    "definition_cht": "飛行員位於跑道中心線上時，沿跑道方向可見跑道表面標誌、邊燈或中心線燈的距離；通常以儀器估算或量測，是低能見度起降作業的重要航空氣象參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/runway_visual_range"
   },
   {
     "english": "rush of snowmelt flood",
-    "traditional_chinese": "融雪洪流",
-    "definition_cht": "指與「融雪洪流」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "急劇融雪洪流",
+    "definition_cht": "因短時間內大量積雪迅速消融而使逕流驟增所形成的洪水或洪峰流量突增現象，常受氣溫快速回升、暖雨作用或雨雪並發影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/rush_of_snowmelt_flood"
   },
   {
     "english": "RVR",
     "traditional_chinese": "跑道視程",
-    "definition_cht": "航空氣象中用以表示飛行員在跑道中心線上可見跑道標誌或燈光距離的能見度指標，常作為起降作業與低能見度程序的重要依據。",
+    "definition_cht": "Runway Visual Range 的縮寫，指飛行員位於跑道中心線上可見跑道標誌或燈光的距離；常以儀器推估並作為低能見度起降與機場運作的重要判據。",
     "source_url": "https://glossary.ametsoc.org/wiki/RVR"
   }
 ]
