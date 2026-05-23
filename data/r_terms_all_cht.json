@@ -1052,121 +1052,121 @@
   {
     "english": "random error",
     "traditional_chinese": "隨機誤差",
-    "definition_cht": "指與「隨機誤差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指觀測、抽樣或計算中由偶然因素造成、其大小與正負號無固定偏向的誤差成分；重複量測時可呈不規則變動，但整體可用統計方法描述與估計。",
     "source_url": "https://glossary.ametsoc.org/wiki/random_error"
   },
   {
     "english": "random forecast",
-    "traditional_chinese": "隨機預測",
-    "definition_cht": "指與「隨機預測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "隨機預報",
+    "definition_cht": "在預報驗證中，指依機率機制任意給定結果或類別的基準預報，不利用實際天氣演變資訊；常作為檢驗預報技巧是否優於偶然猜測的參考基線。",
     "source_url": "https://glossary.ametsoc.org/wiki/random_forecast"
   },
   {
     "english": "random numbers",
     "traditional_chinese": "隨機數",
-    "definition_cht": "指與「隨機數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指依指定機率分布產生、彼此近似獨立且無可預測排列規律的數值，常用於蒙地卡羅模擬、抽樣、誤差模擬與數值實驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/random_numbers"
   },
   {
     "english": "random process",
     "traditional_chinese": "隨機過程",
-    "definition_cht": "指與「隨機過程」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "又稱隨機程序，指隨時間、空間或其他參數演變的一族隨機變數，用以描述具有偶然性的動態現象，如亂流、降雨變化或海浪起伏。",
     "source_url": "https://glossary.ametsoc.org/wiki/random_process"
   },
   {
     "english": "random sample",
     "traditional_chinese": "隨機樣本",
-    "definition_cht": "指與「隨機樣本」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指依隨機方式自母體抽取的樣本，使各觀測值或樣本組合具有已知且通常相等的被選取機率，以減少抽樣偏差並支撐統計推論。",
     "source_url": "https://glossary.ametsoc.org/wiki/random_sample"
   },
   {
     "english": "random sea",
-    "traditional_chinese": "隨機海",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "traditional_chinese": "隨機海況",
+    "definition_cht": "在海浪理論中，指由許多不同頻率、波向與相位的波列疊加而成、表面起伏呈統計性不規則變化的海面狀態，常以波譜而非單一規則波描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/random_sea"
   },
   {
     "english": "random variable",
     "traditional_chinese": "隨機變數",
-    "definition_cht": "指與「隨機變數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在機率論中，指將隨機試驗各可能結果對應為數值的變數，其取值受機率分布支配，可用以表示降雨量、風速或誤差等不確定量。",
     "source_url": "https://glossary.ametsoc.org/wiki/random_variable"
   },
   {
     "english": "random walk model",
     "traditional_chinese": "隨機遊走模型",
-    "definition_cht": "指模擬或描述「隨機遊走模型」相關現象之概念模型、數值模式或理論架構。",
+    "definition_cht": "以一系列相互獨立或近似獨立的隨機增量來描述變數逐步演變的模型；在預報與時間序列分析中，常作為無技巧基準或用於模擬粒子、價格與誤差傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/random_walk_model"
   },
   {
     "english": "randomization",
     "traditional_chinese": "隨機化",
-    "definition_cht": "指與「隨機化」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指以隨機機制分派樣本、試驗時段、處理條件或作業對象的方法，用以降低系統性偏差，使各組比較更具統計上的可比性。",
     "source_url": "https://glossary.ametsoc.org/wiki/randomization"
   },
   {
     "english": "randomized seeding trial",
-    "traditional_chinese": "隨機播種試驗",
-    "definition_cht": "指與「隨機播種試驗」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "隨機化人工增雨試驗",
+    "definition_cht": "在天氣改造研究中，指將可播種個體、雲系或作業時段依隨機方式分派為播種與未播種組，以客觀檢定人工增雨或雲播種效果的對照試驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/randomized_seeding_trial"
   },
   {
     "english": "randomness",
     "traditional_chinese": "隨機性",
-    "definition_cht": "指與「隨機性」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指現象、序列或樣本中由偶然因素支配、難以逐一確定預知的性質；雖個別結果不規則，其整體仍可呈現可量化的機率統計規律。",
     "source_url": "https://glossary.ametsoc.org/wiki/randomness"
   },
   {
     "english": "range",
-    "traditional_chinese": "範圍",
-    "definition_cht": "指與「範圍」相關的距離範圍、變動區間或量測可及範圍。",
+    "traditional_chinese": "全距",
+    "definition_cht": "在統計學中，指一組資料中最大值與最小值之差，用以表徵資料離散程度；在其他語境亦可泛指量測、探測或變動所涵蓋的範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/range"
   },
   {
     "english": "range aliasing",
-    "traditional_chinese": "範圍別名",
-    "definition_cht": "指與「範圍別名」相關的距離範圍、變動區間或量測可及範圍。",
+    "traditional_chinese": "距離混疊",
+    "definition_cht": "在脈衝式雷達中，當回波往返時間超過脈衝重複週期時，較遠目標的回波會被誤判為來自較近距離，造成目標距離顯示錯置的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/range_aliasing"
   },
   {
     "english": "range attenuation",
     "traditional_chinese": "距離衰減",
-    "definition_cht": "指與「距離衰減」相關的距離範圍、變動區間或量測可及範圍。",
+    "definition_cht": "指訊號或回波強度隨傳播距離增加而減弱的現象，通常與幾何擴散、介質吸收、散射損失或系統傳輸特性有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/range_attenuation"
   },
   {
     "english": "range distortion",
-    "traditional_chinese": "範圍失真",
-    "definition_cht": "指與「範圍失真」相關的距離範圍、變動區間或量測可及範圍。",
+    "traditional_chinese": "距離失真",
+    "definition_cht": "指量測或顯示系統對目標距離的呈現與實際距離關係不一致，因而使距離尺度、回波位置或目標形狀在距離方向上產生變形。",
     "source_url": "https://glossary.ametsoc.org/wiki/range_distortion"
   },
   {
     "english": "range error",
-    "traditional_chinese": "範圍誤差",
-    "definition_cht": "指與「範圍誤差」相關的距離範圍、變動區間或量測可及範圍。",
+    "traditional_chinese": "距離誤差",
+    "definition_cht": "指量測、定位或顯示所得目標距離與其真實距離之差，可能來自計時誤差、訊號雜訊、儀器校準不良或傳播條件影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/range_error"
   },
   {
     "english": "range gate",
-    "traditional_chinese": "距離門",
-    "definition_cht": "指與「距離門」相關的距離範圍、變動區間或量測可及範圍。",
+    "traditional_chinese": "距離閘門",
+    "definition_cht": "雷達接收機在特定延遲時間內開啟接收所對應的距離區段，用以選取某一距離範圍內的回波訊號；亦可指該被取樣的距離單元本身。",
     "source_url": "https://glossary.ametsoc.org/wiki/range_gate"
   },
   {
     "english": "range marker",
-    "traditional_chinese": "範圍標記",
-    "definition_cht": "指與「範圍標記」相關的距離範圍、變動區間或量測可及範圍。",
+    "traditional_chinese": "距離標記",
+    "definition_cht": "顯示器或量測介面上用以標示固定距離間隔或特定距離位置的刻線、符號或電子標記，供目標定位、測距與判讀使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/range_marker"
   },
   {
     "english": "range normalization",
-    "traditional_chinese": "範圍歸一化",
-    "definition_cht": "指與「範圍歸一化」相關的距離範圍、變動區間或量測可及範圍。",
+    "traditional_chinese": "距離正規化",
+    "definition_cht": "為消除訊號隨距離增加而產生的系統性衰減，依距離函數對回波或量測值進行補償與尺度調整的處理程序，使不同距離上的資料較可比較。",
     "source_url": "https://glossary.ametsoc.org/wiki/range_normalization"
   },
   {
     "english": "range resolution",
-    "traditional_chinese": "距離分辨率",
-    "definition_cht": "指與「距離分辨率」相關的距離範圍、變動區間或量測可及範圍。",
+    "traditional_chinese": "距離解析度",
+    "definition_cht": "指量測或雷達系統在距離方向上區分兩個相近目標的最小可分辨間隔；其大小常受脈衝寬度、訊號頻寬與訊號處理方式影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/range_resolution"
   },
   {
