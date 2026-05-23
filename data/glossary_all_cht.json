@@ -40850,121 +40850,121 @@
   {
     "english": "rain cloud",
     "traditional_chinese": "雨雲",
-    "definition_cht": "指與「雨雲」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "泛指能產生降雨的雲；狹義上常指持續性降雨常見的雨層雲，但亦可包含會降雨的對流雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_cloud"
   },
   {
     "english": "rain crust",
     "traditional_chinese": "雨殼",
-    "definition_cht": "指與「雨殼」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "積雪表面受液態降雨潤濕後再凍結所形成的雪殼，常由再凍結的冰粒組成，會影響雪層結構與雪崩條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_crust"
   },
   {
     "english": "rain day",
-    "traditional_chinese": "下雨天",
-    "definition_cht": "指與「下雨天」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "降雨日",
+    "definition_cht": "氣候統計上指在規定的 24 小時觀測期間內，累積降水量達到可測門檻的日子；門檻值依觀測規範而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_day"
   },
   {
     "english": "rain factor",
-    "traditional_chinese": "降雨因素",
-    "definition_cht": "指與「降雨因素」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "雨量因數",
+    "definition_cht": "一種以降水與氣溫關係表示氣候濕潤程度的指標，常用於描述氣候對土壤形成與植被分布的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_factor"
   },
   {
     "english": "rain forest",
     "traditional_chinese": "雨林",
-    "definition_cht": "指與「雨林」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "全年或大部分時期降水豐沛、植被茂密且層次發達的森林生態系，通常分為熱帶雨林與溫帶雨林。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_forest"
   },
   {
     "english": "rain forest climate",
     "traditional_chinese": "雨林氣候",
-    "definition_cht": "指與「雨林氣候」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "柯本氣候分類中的熱帶雨林氣候，全年高溫多雨、月降水量通常皆高，無明顯乾季，常記為 Af。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_forest_climate"
   },
   {
     "english": "rain gauge",
     "traditional_chinese": "雨量計",
-    "definition_cht": "指與「雨量計」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "用於量測在一定時間內降達地面的液態降水量，或其水當量的儀器，為氣象與水文觀測的基本設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_gauge"
   },
   {
     "english": "rain making",
-    "traditional_chinese": "造雨",
-    "definition_cht": "指與「造雨」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "人工造雨",
+    "definition_cht": "以人工方式促使雲中降水形成或增強降雨的作業，通常藉由人工播雲改變雲微物理過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_making"
   },
   {
     "english": "rain shadow",
     "traditional_chinese": "雨影",
-    "definition_cht": "指與「雨影」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "山脈背風側因迎風坡抬升降水耗去水氣，致使下沉增溫後降水顯著減少而形成的乾燥區。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_shadow"
   },
   {
     "english": "rain shower",
     "traditional_chinese": "陣雨",
-    "definition_cht": "指與「陣雨」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "由對流雲產生、起迄突然、強度變化快且常歷時較短的降雨型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_shower"
   },
   {
     "english": "rain simulator",
-    "traditional_chinese": "雨模擬器",
-    "definition_cht": "指與「雨模擬器」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "人工降雨模擬器",
+    "definition_cht": "在實驗或野外試驗中人工製造近似天然降雨之雨滴與雨強分布的裝置，常用於土壤侵蝕、入滲與水文研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_simulator"
   },
   {
     "english": "rain stage",
     "traditional_chinese": "雨階段",
-    "definition_cht": "指與「雨階段」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "舊式氣塊上升概念模型中的一個階段，指氣塊在上升過程中已形成足以落出的雨滴或降水粒子之階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_stage"
   },
   {
     "english": "rain stimulation by artificial means",
-    "traditional_chinese": "人工降雨刺激",
-    "definition_cht": "指與「人工降雨刺激」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "人工增雨",
+    "definition_cht": "藉人工影響天氣的方法促進降水形成或增加降水量的作業，通常以播雲最為常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_stimulation_by_artificial_means"
   },
   {
     "english": "rain washout",
-    "traditional_chinese": "雨水沖刷",
-    "definition_cht": "指與「雨水沖刷」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "雨洗出作用",
+    "definition_cht": "降雨過程中，落下的雨滴在雲下層捕捉並移除空氣中懸浮微粒或氣態污染物的過程，屬濕沉降機制之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_washout"
   },
   {
     "english": "rain-gauge shield",
-    "traditional_chinese": "雨量計防護罩",
-    "definition_cht": "指與「雨量計防護罩」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "雨量計防風罩",
+    "definition_cht": "裝設於雨量計周圍的防風裝置，用以減少風場擾動造成的少收現象並提升降水量測準確度。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain-gauge_shield"
   },
   {
     "english": "rain-intensity gauge",
     "traditional_chinese": "雨強計",
-    "definition_cht": "指與「雨強計」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "量測單位時間內降雨強度或降雨率的儀器，又稱雨率計。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain-intensity_gauge"
   },
   {
     "english": "rain-out",
-    "traditional_chinese": "下雨",
-    "definition_cht": "指與「下雨」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "雲內洗除",
+    "definition_cht": "污染物或可溶性物質在雲內先被併入雲滴或冰晶，並隨後續降水一同移除至地面的過程；與雲下雨滴捕捉污染物的 washout 不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain-out"
   },
   {
     "english": "rainband",
     "traditional_chinese": "雨帶",
-    "definition_cht": "指與「雨帶」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "呈狹長帶狀排列的雲與降水結構，常見於鋒面、梅雨系統或熱帶氣旋環流中。",
     "source_url": "https://glossary.ametsoc.org/wiki/rainband"
   },
   {
     "english": "rainbow",
     "traditional_chinese": "彩虹",
-    "definition_cht": "指與「彩虹」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "陽光進入雨滴後經折射、內反射與色散，再由觀測者看見的弧形光譜現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/rainbow"
   },
   {
     "english": "raindrop",
     "traditional_chinese": "雨滴",
-    "definition_cht": "指與「雨滴」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "自雲中降落並能到達地面的液態水滴，其粒徑通常大於雲滴，形狀與下落速度會隨大小改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/raindrop"
   },
   {
