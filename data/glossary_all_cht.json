@@ -41810,121 +41810,121 @@
   {
     "english": "refraction",
     "traditional_chinese": "折射",
-    "definition_cht": "指與「折射」相關的折射現象，即波動或輻射通過介質時因速度改變而偏折。",
+    "definition_cht": "波動（如光、聲波、電磁波或水波）在介質改變，或因介質性質隨空間變化而使傳播速度改變時，其傳播方向發生偏折的現象。大氣中常指光線或無線電波因溫度、密度垂直分布不同而產生彎曲。",
     "source_url": "https://glossary.ametsoc.org/wiki/refraction"
   },
   {
     "english": "refraction coefficient",
     "traditional_chinese": "折射係數",
-    "definition_cht": "指與「折射係數」相關的折射現象，即波動或輻射通過介質時因速度改變而偏折。",
+    "definition_cht": "表徵介質折射能力或射線彎曲程度的係數。於光學與大氣電波傳播中，常用以描述折射率分布對光線、聲線或電波路徑的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/refraction_coefficient"
   },
   {
     "english": "refraction diagram",
     "traditional_chinese": "折射圖",
-    "definition_cht": "指與「折射圖」相關的折射現象，即波動或輻射通過介質時因速度改變而偏折。",
+    "definition_cht": "以圖形方式表示折射率結構、射線路徑或折射效應的圖表，用於分析光、聲波或電波在大氣、海洋或其他介質中的彎曲傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/refraction_diagram"
   },
   {
     "english": "refraction of water waves",
-    "traditional_chinese": "水波的折射",
-    "definition_cht": "指與「水波的折射」相關的折射現象，即波動或輻射通過介質時因速度改變而偏折。",
+    "traditional_chinese": "水波折射",
+    "definition_cht": "水波因水深、流速或介質條件在空間上的變化而使波速改變，進而導致波前轉向的現象；近岸時波峰常逐漸趨於與等深線平行。",
     "source_url": "https://glossary.ametsoc.org/wiki/refraction_of_water_waves"
   },
   {
     "english": "refractive index",
     "traditional_chinese": "折射率",
-    "definition_cht": "指以「折射率」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱與變化。",
+    "definition_cht": "介質中波的相速度與真空中光速之比的倒數；對光而言，通常指真空光速與該介質中光速之比，用以表示介質使光線偏折的能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/refractive_index"
   },
   {
     "english": "refractivity",
-    "traditional_chinese": "折射率",
-    "definition_cht": "指與「折射率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "折射度",
+    "definition_cht": "表示介質折射特性的量。在大氣科學中常指大氣折射度，通常以 N=(n−1)×10^6 表示，用以描述空氣對電磁波或無線電波傳播的折射作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/refractivity"
   },
   {
     "english": "refractometer",
     "traditional_chinese": "折射計",
-    "definition_cht": "指與「折射計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "量測物質折射率或折射度的儀器，可用於判定液體或固體的成分、濃度或光學性質；在環境與海洋觀測中亦可用於鹽度等相關推算。",
     "source_url": "https://glossary.ametsoc.org/wiki/refractometer"
   },
   {
     "english": "regelation",
-    "traditional_chinese": "重新凝結",
-    "definition_cht": "指與「重新凝結」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "壓融再凍作用",
+    "definition_cht": "冰在受壓時熔點降低而局部融化，待壓力解除後又重新凍結的現象，常用於說明冰體接觸面滑動、冰雪黏結與冰川微觀變形過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/regelation"
   },
   {
     "english": "regeneration of a depression",
-    "traditional_chinese": "憂鬱症的再生",
-    "definition_cht": "指「憂鬱症的再生」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "traditional_chinese": "低氣壓再生",
+    "definition_cht": "原已減弱、填塞或消散中的低氣壓，再度發展或重新增強的過程；可指原低壓中心恢復發展，或其附近形成新中心並接續主導環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/regeneration_of_a_depression"
   },
   {
     "english": "regime",
-    "traditional_chinese": "政權",
-    "definition_cht": "指與「政權」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "型態；環流型",
+    "definition_cht": "在一定外力、邊界條件或統計特徵下，系統長時間維持的典型狀態或行為型態。於氣象與水文中，常指天氣型、降水型、流況型或環流型。",
     "source_url": "https://glossary.ametsoc.org/wiki/regime"
   },
   {
     "english": "regime channel",
-    "traditional_chinese": "政權頻道",
-    "definition_cht": "指與「政權頻道」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "平衡河道",
+    "definition_cht": "在一定流量、流速與輸砂條件下，河道幾何形狀與坡降經自我調整後所達成的近似平衡狀態之河道，常見於沖積河川的河道形態分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/regime_channel"
   },
   {
     "english": "region of influence",
-    "traditional_chinese": "影響範圍",
-    "definition_cht": "指以「影響範圍」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "traditional_chinese": "影響區",
+    "definition_cht": "某一觀測值、擾動、作用力或分析方法可顯著發揮影響的空間範圍。在客觀分析與插值中，常指單一測站資料對周圍分析值仍具權重的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/region_of_influence"
   },
   {
     "english": "regional air pollution",
-    "traditional_chinese": "區域空氣污染",
-    "definition_cht": "指以「區域空氣污染」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "traditional_chinese": "區域性空氣污染",
+    "definition_cht": "污染物經長距離輸送、跨城市擴散或區域尺度累積後，影響廣大地區空氣品質的污染現象，其成因常與大氣穩定度、風場及二次污染生成有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/regional_air_pollution"
   },
   {
     "english": "regional analysis",
     "traditional_chinese": "區域分析",
-    "definition_cht": "指以「區域分析」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "definition_cht": "針對特定地理範圍進行的氣象、水文、環境或地球科學分析。於天氣分析中，常指利用區域觀測資料與模式結果繪製或診斷某區域的大氣狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/regional_analysis"
   },
   {
     "english": "regional basic synoptic network",
-    "traditional_chinese": "區域基礎天氣網",
-    "definition_cht": "指以「區域基礎天氣網」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "traditional_chinese": "區域基本綜觀觀測網",
+    "definition_cht": "世界氣象組織體系中，在各區域為滿足綜觀天氣分析與預報需求而設置的核心觀測網，由選定的地面與高空測站組成，用以提供例行且具代表性的基礎觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/regional_basic_synoptic_network"
   },
   {
     "english": "regional broadcast",
     "traditional_chinese": "區域廣播",
-    "definition_cht": "指以「區域廣播」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "definition_cht": "針對某一地理區域發布或傳送的廣播式資訊服務。在氣象通信中，常指向特定區域內多個接收單位同步傳送的天氣資料、預報或警報訊息。",
     "source_url": "https://glossary.ametsoc.org/wiki/regional_broadcast"
   },
   {
     "english": "regional climate model",
-    "traditional_chinese": "區域氣候模型",
-    "definition_cht": "指以「區域氣候模型」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "traditional_chinese": "區域氣候模式",
+    "definition_cht": "針對有限區域建立、具有較高空間解析度的氣候數值模式，通常以全球氣候模式或再分析資料作為邊界條件，用於模擬區域尺度的氣候特徵與變遷。",
     "source_url": "https://glossary.ametsoc.org/wiki/regional_climate_model"
   },
   {
     "english": "regional forecast",
     "traditional_chinese": "區域預報",
-    "definition_cht": "指以「區域預報」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "definition_cht": "以特定地理區域為對象所發布的天氣、氣候、水文或環境預報，其內容著重該區域共同受影響的天氣系統、趨勢與可能衝擊。",
     "source_url": "https://glossary.ametsoc.org/wiki/regional_forecast"
   },
   {
     "english": "Regional Meteorological Center",
-    "traditional_chinese": "區域氣像中心",
-    "definition_cht": "指以「區域氣像中心」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "traditional_chinese": "區域氣象中心",
+    "definition_cht": "世界氣象組織或區域合作架構下，負責某一區域之天氣分析、預報支援、資料處理、專業服務或協調作業的指定氣象中心。",
     "source_url": "https://glossary.ametsoc.org/wiki/Regional_Meteorological_Center"
   },
   {
     "english": "Regional Meteorological Telecommunications Network",
-    "traditional_chinese": "區域氣象通訊網",
-    "definition_cht": "指以「區域氣象通訊網」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "traditional_chinese": "區域氣象通信網路",
+    "definition_cht": "世界氣象組織全球電信系統中，連結區域內各國家與區域氣象中心的通信網路，用於交換觀測、分析、預報、警報及其他作業性氣象資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/Regional_Meteorological_Telecommunications_Network"
   },
   {
