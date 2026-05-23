@@ -43364,121 +43364,121 @@
   {
     "english": "saturation mixing ratio",
     "traditional_chinese": "飽和混合比",
-    "definition_cht": "在既定溫度與壓力下，空氣達到飽和時所對應的水氣混合比，為濕空氣熱力分析的重要狀態量。",
+    "definition_cht": "在既定溫度與壓力下，使空氣恰達飽和時的水汽與乾空氣質量比，為濕空氣熱力分析的重要變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_mixing_ratio"
   },
   {
     "english": "saturation point",
     "traditional_chinese": "飽和點",
-    "definition_cht": "空氣或其他系統恰達飽和狀態的點，此時再增加水氣或降低溫度即可能發生凝結或相變。",
+    "definition_cht": "在既定壓力與組成條件下，系統恰達飽和的狀態點；對空氣而言，再增濕或降溫即可能開始凝結。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_point"
   },
   {
     "english": "saturation pressure",
     "traditional_chinese": "飽和壓力",
-    "definition_cht": "在特定溫度下，物質與其蒸氣處於平衡時所對應的壓力；在氣象上常指飽和蒸氣壓。",
+    "definition_cht": "在特定溫度下，物質的蒸氣與其液相或固相處於平衡時的壓力；在氣象上常指水的飽和蒸氣壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_pressure"
   },
   {
     "english": "saturation signal",
     "traditional_chinese": "飽和訊號",
-    "definition_cht": "量測或電子系統輸出已達儀器可記錄上限的訊號，超出部分無法再反映實際強度變化。",
+    "definition_cht": "量測或電子系統的輸出已達儀器可記錄上限的訊號，超出部分不再能真實反映實際強度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_signal"
   },
   {
     "english": "saturation specific humidity",
     "traditional_chinese": "飽和比濕",
-    "definition_cht": "與飽和混合比相對應的比濕，即空氣在既定溫壓下達飽和時所含水汽占濕空氣總質量的比值。",
+    "definition_cht": "在既定溫度與壓力下，空氣達飽和時水汽質量占濕空氣總質量的比值。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_specific_humidity"
   },
   {
     "english": "saturation static energy",
     "traditional_chinese": "飽和靜力能",
-    "definition_cht": "濕空氣在飽和條件下的熱力學變數，通常結合位能、顯熱與潛熱項，用於對流與熱帶氣象分析。",
+    "definition_cht": "空氣在飽和狀態下的靜力能，通常結合顯熱、位能與飽和水汽潛熱項，用於對流與熱帶大氣分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_static_energy"
   },
   {
     "english": "saturation temperature",
     "traditional_chinese": "飽和溫度",
-    "definition_cht": "在既定壓力與水氣含量條件下，空氣恰達飽和時的溫度。",
+    "definition_cht": "在給定壓力與水汽含量下，使空氣恰達飽和的溫度；對未飽和空氣而言通常相當於露點溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_temperature"
   },
   {
     "english": "saturation vapor pressure",
     "traditional_chinese": "飽和蒸氣壓",
-    "definition_cht": "在特定溫度下，水面或冰面上方水汽與凝結相達平衡時的蒸氣壓。",
+    "definition_cht": "在特定溫度下，水面或冰面上方的水汽與凝結相達熱力平衡時所對應的蒸氣壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/saturation_vapor_pressure"
   },
   {
     "english": "savanna",
     "traditional_chinese": "稀樹草原",
-    "definition_cht": "指與「稀樹草原」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "一種常見於熱帶至副熱帶、乾濕季分明地區的植被與氣候景觀，其特徵為草本層連續、樹木稀疏分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/savanna"
   },
   {
     "english": "Savart polariscope",
-    "traditional_chinese": "薩瓦爾偏光鏡",
-    "definition_cht": "指與「薩瓦爾偏光鏡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "薩瓦偏光鏡",
+    "definition_cht": "利用薩瓦板產生雙折射干涉條紋以判別偏振狀態的光學儀器，可用於輻射、雲粒或其他光學性質量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Savart_polariscope"
   },
   {
     "english": "sawtooth wave",
     "traditional_chinese": "鋸齒波",
-    "definition_cht": "指與「鋸齒波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "一種週期性波形，其振幅通常呈近線性上升後突然下降，或相反方向變化，常用於描述振盪與訊號變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/sawtooth_wave"
   },
   {
     "english": "SBL",
-    "traditional_chinese": "西伯利亞",
-    "definition_cht": "「SBL」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "穩定邊界層",
+    "definition_cht": "stable boundary layer 的縮寫，指近地面因浮力穩定而抑制垂直湍流混合的大氣邊界層。",
     "source_url": "https://glossary.ametsoc.org/wiki/SBL"
   },
   {
     "english": "SBL strength",
-    "traditional_chinese": "SBL實力",
-    "definition_cht": "指與「SBL實力」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "穩定邊界層強度",
+    "definition_cht": "指穩定邊界層穩定程度的強弱，常以逆溫、浮力穩定度或湍流受抑制的程度來表徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/SBL_strength"
   },
   {
     "english": "Sbli",
-    "traditional_chinese": "斯比利",
-    "definition_cht": "指與「斯比利」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "地面抬升指數",
+    "definition_cht": "常指 surface-based lifted index，為以地面氣塊抬升至中層後與環境氣溫比較所得的穩定度指標；值愈低通常代表對流愈不穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/Sbli"
   },
   {
     "english": "SBUV",
-    "traditional_chinese": "太陽後向散射紫外線輻射計",
-    "definition_cht": "Solar Backscatter Ultraviolet Radiometer 的縮寫，為利用太陽紫外線後向散射訊號反演臭氧總量與垂直分布的衛星儀器。",
+    "traditional_chinese": "太陽後向散射紫外儀",
+    "definition_cht": "Solar Backscatter Ultraviolet 的縮寫，為利用地球大氣對太陽紫外線的後向散射訊號反演臭氧總量與垂直分布的衛星儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/SBUV"
   },
   {
     "english": "scalar",
     "traditional_chinese": "純量",
-    "definition_cht": "僅具有大小而無方向的物理量，如溫度、氣壓與密度。",
+    "definition_cht": "僅具有大小而不具有方向的物理量，如溫度、氣壓與密度。",
     "source_url": "https://glossary.ametsoc.org/wiki/scalar"
   },
   {
     "english": "scalar product",
     "traditional_chinese": "純量積",
-    "definition_cht": "又稱內積，為兩向量相乘所得之純量，可用以表示投影關係與夾角特性。",
+    "definition_cht": "又稱內積，為兩向量相乘所得的純量，可用以表示投影關係、夾角與做功等物理意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/scalar_product"
   },
   {
     "english": "scale",
-    "traditional_chinese": "規模",
-    "definition_cht": "指與「規模」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "尺度",
+    "definition_cht": "描述現象在空間、時間或量值上的特徵大小；在氣象上常用以區分微尺度、中尺度與綜觀尺度等。",
     "source_url": "https://glossary.ametsoc.org/wiki/scale"
   },
   {
     "english": "scale analysis",
-    "traditional_chinese": "規模分析",
-    "definition_cht": "指與「規模分析」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "尺度分析",
+    "definition_cht": "藉由比較各項量級與無因次化方程，判定主導過程並簡化控制方程的分析方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/scale_analysis"
   },
   {
     "english": "scale factor",
-    "traditional_chinese": "比例因子",
-    "definition_cht": "指與「比例因子」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "尺度因子",
+    "definition_cht": "用於將一種量值、座標或投影關係換算為另一尺度的比例因子；在地圖投影、網格與量測校正中常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/scale_factor"
   },
   {
