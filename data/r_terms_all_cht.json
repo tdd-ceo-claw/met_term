@@ -1291,122 +1291,122 @@
   },
   {
     "english": "raw",
-    "traditional_chinese": "生的",
-    "definition_cht": "指與「生的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "陰冷的",
+    "definition_cht": "氣象上口語形容令人不適的寒冷天氣，通常指低溫且潮濕，也可帶有風寒感。",
     "source_url": "https://glossary.ametsoc.org/wiki/raw"
   },
   {
     "english": "raw moment",
-    "traditional_chinese": "原始時刻",
-    "definition_cht": "指與「原始時刻」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "原始動差",
+    "definition_cht": "統計學中相對於原點計算的動差，即隨機變數各次方期望值；在氣象統計中可用於描述分布形狀。",
     "source_url": "https://glossary.ametsoc.org/wiki/raw_moment"
   },
   {
     "english": "raw water",
     "traditional_chinese": "原水",
-    "definition_cht": "指與「原水」相關的水體、水文狀態、水量平衡或含水特徵。",
+    "definition_cht": "尚未經淨化或處理的天然取水，可來自河川、湖泊、地下水或水庫，水文與供水工程中常作為處理前水源。",
     "source_url": "https://glossary.ametsoc.org/wiki/raw_water"
   },
   {
     "english": "rawin",
-    "traditional_chinese": "羅文",
-    "definition_cht": "指與「羅文」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "雷達／無線電測風",
+    "definition_cht": "高空風觀測方法之一，藉由追蹤搭載於氣球上的發報器、應答器或反射目標，測定高空風向與風速；rawin 為 radar 或 radio wind 的縮稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/rawin"
   },
   {
     "english": "rawin target",
-    "traditional_chinese": "羅文目標",
-    "definition_cht": "指與「羅文目標」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "測風追蹤目標",
+    "definition_cht": "rawin 系統中隨氣球升空、供雷達或無線電測向設備追蹤的位置目標，用以推算高空風向與風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/rawin_target"
   },
   {
     "english": "Rawinsonde",
-    "traditional_chinese": "羅溫探空儀",
-    "definition_cht": "指與「羅溫探空儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "測風探空儀",
+    "definition_cht": "可同時取得高空壓力、溫度、濕度及風向風速的探空系統，通常為由氣球攜帶之 radiosonde 並配合雷達或無線電測向追蹤。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rawinsonde"
   },
   {
     "english": "rawinsonde observation",
-    "traditional_chinese": "羅文探空儀觀測",
-    "definition_cht": "指與「羅文探空儀觀測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "測風探空觀測",
+    "definition_cht": "利用 rawinsonde 進行的高空觀測，除量測壓力、溫度與濕度外，亦包含風向與風速資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/rawinsonde_observation"
   },
   {
     "english": "ray",
     "traditional_chinese": "射線",
-    "definition_cht": "指與「射線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在幾何光學、聲學或電磁傳播中，用以表示波能量或訊號傳播方向的理想化路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/ray"
   },
   {
     "english": "ray tracing",
-    "traditional_chinese": "光線追蹤",
-    "definition_cht": "指與「光線追蹤」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "射線追蹤法",
+    "definition_cht": "依介質折射率或波速分布逐步計算射線傳播路徑的方法，常用於大氣輻射、雷達、聲波與遙測傳播模擬。",
     "source_url": "https://glossary.ametsoc.org/wiki/ray_tracing"
   },
   {
     "english": "Rayleigh atmosphere",
-    "traditional_chinese": "瑞利氣氛",
-    "definition_cht": "指與「瑞利氣氛」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "瑞利大氣",
+    "definition_cht": "僅考慮分子瑞利散射、通常忽略氣膠與雲粒子影響的理想化大氣模型，常用於輻射傳輸與遙測計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh_atmosphere"
   },
   {
     "english": "Rayleigh number",
     "traditional_chinese": "瑞利數",
-    "definition_cht": "指與「瑞利數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "描述浮力驅動自然對流強弱的無因次數，綜合浮力、黏滯效應與熱擴散影響；當其超過臨界值時，流體易由傳導轉為對流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh_number"
   },
   {
     "english": "Rayleigh optical depth",
-    "traditional_chinese": "瑞利光學深度",
-    "definition_cht": "指與「瑞利光學深度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "瑞利光學厚度",
+    "definition_cht": "大氣分子造成之瑞利散射對光束沿路徑累積衰減程度的量度，會隨波長而變化，且短波通常較大。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh_optical_depth"
   },
   {
     "english": "Rayleigh phase function",
-    "traditional_chinese": "瑞利相函數",
-    "definition_cht": "指與「瑞利相函數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "瑞利相位函數",
+    "definition_cht": "描述瑞利散射後輻射強度隨散射角分布的相位函數，常寫為與 1+cos²θ 成正比。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh_phase_function"
   },
   {
     "english": "Rayleigh scattering",
     "traditional_chinese": "瑞利散射",
-    "definition_cht": "指與「瑞利散射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "當散射粒子尺度遠小於入射輻射波長時發生的散射，散射強度約與波長四次方成反比，因此短波光較易被散射。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh_scattering"
   },
   {
     "english": "Rayleigh wave",
     "traditional_chinese": "瑞利波",
-    "definition_cht": "指與「瑞利波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "沿自由表面傳播的表面波，粒子運動通常呈橢圓軌跡，常見於地震波動與彈性介質表面傳播分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh_wave"
   },
   {
     "english": "Rayleigh–Bénard convection",
-    "traditional_chinese": "瑞利-貝納德對流",
-    "definition_cht": "指與「瑞利-貝納德對流」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "瑞利－貝納對流",
+    "definition_cht": "受熱自下、冷卻在上的流體層中，當瑞利數超過臨界值後形成的有序自然對流，常呈蜂巢狀或卷軸狀胞格。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh%E2%80%93B%C3%A9nard_convection"
   },
   {
     "english": "Rayleigh's formula",
     "traditional_chinese": "瑞利公式",
-    "definition_cht": "指與「瑞利公式」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以 Lord Rayleigh 命名、用於波動、散射或特殊函數展開等問題的公式；其具體形式須依所處理之物理或數學情境而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh%27s_formula"
   },
   {
     "english": "Rayleigh's scattering law",
     "traditional_chinese": "瑞利散射定律",
-    "definition_cht": "指與「瑞利散射定律」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "描述瑞利散射強度與波長關係的定律；在粒子遠小於波長時，散射強度近似與波長的四次方成反比。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rayleigh%27s_scattering_law"
   },
   {
     "english": "RDF",
-    "traditional_chinese": "RDF",
-    "definition_cht": "「RDF」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "無線電測向儀",
+    "definition_cht": "radio direction finder 的縮寫，為測定無線電訊號來向的設備；在高空風觀測中可用於追蹤探空訊號以推算風向與風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/RDF"
   },
   {
     "english": "reach",
-    "traditional_chinese": "抵達",
-    "definition_cht": "指與「抵達」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "河段",
+    "definition_cht": "河川或溪流中位於兩指定位置之間的一段水道；水文預報中常指某觀測站或預報點所代表的上、下游區段。",
     "source_url": "https://glossary.ametsoc.org/wiki/reach"
   },
   {
