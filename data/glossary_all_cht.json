@@ -40970,121 +40970,121 @@
   {
     "english": "raindrop size distribution",
     "traditional_chinese": "雨滴尺寸分佈",
-    "definition_cht": "指與「雨滴尺寸分佈」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/raindrop_size_distribution"
+    "definition_cht": "指某一地點或降雨樣本中，各種粒徑雨滴的數量、濃度或相對比例分佈；為描述降水微物理結構的重要量，會隨生成機制、碰併與風場條件而改變。",
+    "source_url": "https://glossary.ametsoc.org/wiki/raindrop-size-distribution"
   },
   {
     "english": "raindrop spectrograph",
-    "traditional_chinese": "雨滴光譜儀",
-    "definition_cht": "指與「雨滴光譜儀」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/raindrop_spectrograph"
+    "traditional_chinese": "雨滴粒徑譜儀",
+    "definition_cht": "可自動測定降落雨滴尺寸分佈的儀器，屬於雨滴譜儀（disdrometer）的一類，常用於降水微物理與雨強分析。",
+    "source_url": "https://glossary.ametsoc.org/wiki/raindrop-spectrograph"
   },
   {
     "english": "rainfall",
     "traditional_chinese": "雨量",
-    "definition_cht": "指與「雨量」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "降水量的一種表述，指各類降水在地表累積的水量，通常以雨量計量得，並可包含固態降水折算後的液態水當量。",
     "source_url": "https://glossary.ametsoc.org/wiki/rainfall"
   },
   {
     "english": "rainfall distribution",
     "traditional_chinese": "降雨分佈",
-    "definition_cht": "指與「降雨分佈」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_distribution"
+    "definition_cht": "指雨量在空間與時間上的分配情形，可用來描述某地區或某次降雨事件的降水集中區、持續期與變化型態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-distribution"
   },
   {
     "english": "rainfall duration",
     "traditional_chinese": "降雨持續時間",
-    "definition_cht": "指與「降雨持續時間」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_duration"
+    "definition_cht": "一次降雨事件自開始至結束所經歷的時間長度，為雨量分析、逕流估算與強度－延時研究的重要參數。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-duration"
   },
   {
     "english": "rainfall excess",
-    "traditional_chinese": "降雨過多",
-    "definition_cht": "指與「降雨過多」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_excess"
+    "traditional_chinese": "有效雨量",
+    "definition_cht": "在水文學中，指扣除截留、窪蓄、下滲等損失後，仍可直接形成地表逕流的那部分降雨量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-excess"
   },
   {
     "english": "rainfall frequency",
     "traditional_chinese": "降雨頻率",
-    "definition_cht": "指與「降雨頻率」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_frequency"
+    "definition_cht": "指降雨量或雨強等統計量的發生頻率特性，常以頻率曲線或機率分佈表示各種量值的超越機率或重現特徵。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-frequency"
   },
   {
     "english": "rainfall intensity pattern",
-    "traditional_chinese": "降雨強度模式",
-    "definition_cht": "指與「降雨強度模式」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_intensity_pattern"
+    "traditional_chinese": "降雨強度型態",
+    "definition_cht": "指一次降雨或暴雨過程中，雨強隨時間變化的分配型態，常以雨量歷線（hyetograph）表示。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-intensity-pattern"
   },
   {
     "english": "rainfall intensity return period",
     "traditional_chinese": "降雨強度再現期",
-    "definition_cht": "指與「降雨強度再現期」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_intensity_return_period"
+    "definition_cht": "在指定延時條件下，某一雨強值平均相隔多少年會再出現一次的統計量，常用於排水、防洪與工程設計。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-intensity-return-period"
   },
   {
     "english": "rainfall loss",
-    "traditional_chinese": "降雨量損失",
-    "definition_cht": "指與「降雨量損失」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_loss"
+    "traditional_chinese": "降雨損失",
+    "definition_cht": "暴雨期間被流域截留、窪蓄、下滲或其他方式保留，而未轉為直接逕流的那部分降雨量，又稱損失雨量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-loss"
   },
   {
     "english": "rainfall rate",
     "traditional_chinese": "降雨率",
-    "definition_cht": "指與「降雨率」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_rate"
+    "definition_cht": "單位時間內的降雨量，用以表示降雨強度；通常以毫米每小時（mm/h）等單位表示。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-rate"
   },
   {
     "english": "rainfall regime",
-    "traditional_chinese": "降雨狀況",
-    "definition_cht": "指與「降雨狀況」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_regime"
+    "traditional_chinese": "降雨型態",
+    "definition_cht": "指某地雨量在一年內的季節分配特徵，例如主雨季出現時段、乾濕季對比與年內降雨集中程度。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-regime"
   },
   {
     "english": "rainfall station",
     "traditional_chinese": "雨量站",
-    "definition_cht": "指與「雨量站」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainfall_station"
+    "definition_cht": "以量測雨量為主要或唯一例行觀測項目的測站，用於氣象、水文與防災監測。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainfall-station"
   },
   {
     "english": "rainstorm",
     "traditional_chinese": "暴雨",
-    "definition_cht": "指與「暴雨」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "以液態降水為主要特徵的風暴或強降雨天氣過程，常伴隨短時間大量降雨並可能引發積淹水或洪水。",
     "source_url": "https://glossary.ametsoc.org/wiki/rainstorm"
   },
   {
     "english": "rainy climate",
-    "traditional_chinese": "多雨的氣候",
-    "definition_cht": "指與「多雨的氣候」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainy_climate"
+    "traditional_chinese": "多雨氣候",
+    "definition_cht": "在柯本 1936 年氣候分類中，泛指乾燥氣候以外的各類氣候；一般多主要指具較充足降水、足以支持樹木生長的濕潤氣候。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainy-climate"
   },
   {
     "english": "rainy season",
     "traditional_chinese": "雨季",
-    "definition_cht": "指與「雨季」相關的降雨、雨量、雨滴微物理或降水分析概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/rainy_season"
+    "definition_cht": "某地每年規律出現、降水量達全年高峰並持續一個或數個月的季節；與乾季相對。",
+    "source_url": "https://glossary.ametsoc.org/wiki/rainy-season"
   },
   {
     "english": "ram penetrometer",
-    "traditional_chinese": "柱塞貫入儀",
-    "definition_cht": "指與「柱塞貫入儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/ram_penetrometer"
+    "traditional_chinese": "衝擊式雪層貫入儀",
+    "definition_cht": "一種前端呈圓錐狀的金屬桿，可向下打入積雪或粒雪中，並以貫入一定距離所需的力來判定雪層的硬度與物理性質。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ram-penetrometer"
   },
   {
     "english": "ramp structure",
-    "traditional_chinese": "坡道結構",
-    "definition_cht": "指與「坡道結構」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/ramp_structure"
+    "traditional_chinese": "斜坡結構",
+    "definition_cht": "指大氣邊界層底部溫度時間序列中呈鋸齒狀的變化型態，其特徵為溫度緩慢近線性升高後迅速下降，常與表層對流羽流通過有關。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ramp-structure"
   },
   {
     "english": "ramsonde",
-    "traditional_chinese": "拉姆松德",
-    "definition_cht": "指與「拉姆松德」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "衝擊式雪層貫入儀（英式）",
+    "definition_cht": "英式用語，指 ram penetrometer，即用以測定積雪或粒雪貫入阻力、推估雪層物理性質的衝擊式雪層貫入儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/ramsonde"
   },
   {
     "english": "random",
-    "traditional_chinese": "隨機的",
-    "definition_cht": "指與「隨機的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "隨機",
+    "definition_cht": "指結果或取值受偶然因素支配，無法以確定性方式逐一預知，但其整體行為可用機率與統計規律描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/random"
   },
   {
