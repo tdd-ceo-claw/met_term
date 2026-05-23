@@ -42169,122 +42169,122 @@
   },
   {
     "english": "residual mass curve",
-    "traditional_chinese": "殘餘質量曲線",
-    "definition_cht": "指與「殘餘質量曲線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "殘差質量曲線",
+    "definition_cht": "水文分析中將各時段觀測值相對於某一基準值（常為平均值）的差額逐步累積所繪成的曲線，用以判讀長期偏豐或偏枯趨勢、估算所需調節庫容，亦常稱累積偏差曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/residual_mass_curve"
   },
   {
     "english": "Residual variance",
     "traditional_chinese": "殘差方差",
-    "definition_cht": "指與「殘差方差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "統計或迴歸分析中，殘差所呈現的方差，即觀測值與模型估計值之差的變異程度；代表模型尚未解釋的隨機變動，常用於評估配適品質與不確定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Residual_variance"
   },
   {
     "english": "Resistance",
-    "traditional_chinese": "反抗",
-    "definition_cht": "指與「反抗」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "電阻",
+    "definition_cht": "物質或電路對電流通過所呈現的阻礙程度，通常以歐姆表示；在儀器與感測系統中常用以描述導體、熱敏元件或量測迴路的電性特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Resistance"
   },
   {
     "english": "resistance thermometer",
     "traditional_chinese": "電阻溫度計",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
+    "definition_cht": "利用導體或金屬元件電阻隨溫度改變之關係來測量溫度的儀器；常見形式為白金電阻溫度計，具穩定、精度高且適合標準校正等特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/resistance_thermometer"
   },
   {
     "english": "resistivity",
     "traditional_chinese": "電阻率",
-    "definition_cht": "指與「電阻率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "描述材料固有導電難易程度的物理量，為單位長度與單位截面條件下對電流的阻抗特性；數值越大表示導電性越差，常用於地球物理探測與感測材料分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/resistivity"
   },
   {
     "english": "Resolution",
-    "traditional_chinese": "解決",
-    "definition_cht": "指與「解決」相關的解析度或分辨能力，可描述時間、空間、光譜或儀器辨識精細程度。",
+    "traditional_chinese": "解析度",
+    "definition_cht": "儀器、影像、數值模式或觀測系統區分彼此接近之目標、訊號或結構細節的能力；可分為空間、時間、光譜、角度或垂直解析度，數值越細通常表示辨識能力越高。",
     "source_url": "https://glossary.ametsoc.org/wiki/Resolution"
   },
   {
     "english": "resonance",
-    "traditional_chinese": "諧振",
-    "definition_cht": "指與「諧振」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "共振",
+    "definition_cht": "振動系統受外力驅動頻率接近其固有頻率時，振幅顯著增大的現象；在大氣、海洋與聲學中可導致波動能量被有效放大。",
     "source_url": "https://glossary.ametsoc.org/wiki/resonance"
   },
   {
     "english": "resonance fluorescence",
     "traditional_chinese": "共振螢光",
-    "definition_cht": "指與「共振螢光」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "原子或分子吸收特定波長的輻射後，再以相同或極接近波長重新放射光子的現象；常用於高層大氣、氣體成分與遙測發光機制之分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/resonance_fluorescence"
   },
   {
     "english": "resonance theory",
     "traditional_chinese": "共振理論",
-    "definition_cht": "指與「共振理論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。",
+    "definition_cht": "解釋當外部強迫與系統固有振動特性相匹配時，能量得以持續累積並使振幅增強的理論；在山岳波、盆地振動、潮汐與大氣波動研究中常用以說明放大量測現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/resonance_theory"
   },
   {
     "english": "resonance trough",
     "traditional_chinese": "共振槽",
-    "definition_cht": "指與槽線、低壓槽或波谷結構相關的天氣與流場特徵。",
+    "definition_cht": "因共振效應而形成或顯著加深的低值槽狀區域；在波動或電離層等研究中，常指能量集中後沿某方向出現的振幅或強度谷區。",
     "source_url": "https://glossary.ametsoc.org/wiki/resonance_trough"
   },
   {
     "english": "resonance waves over hills",
-    "traditional_chinese": "山上的共振波",
-    "definition_cht": "指與「山上的共振波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "traditional_chinese": "越山共振波",
+    "definition_cht": "氣流越過丘陵或山脊時，若地形尺度與大氣穩定度、風速所決定的自然波長相配合，背風側波動會因共振而被放大所形成的地形波。",
     "source_url": "https://glossary.ametsoc.org/wiki/resonance_waves_over_hills"
   },
   {
     "english": "resonance waves over thermals",
-    "traditional_chinese": "熱氣流上的共振波",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
+    "traditional_chinese": "熱泡上方共振波",
+    "definition_cht": "對流熱泡或熱柱上方因浮力擾動週期與周遭大氣可傳播波模相匹配，而使波動振幅增強的共振現象；可視為熱對流激發重力波的一種特例。",
     "source_url": "https://glossary.ametsoc.org/wiki/resonance_waves_over_thermals"
   },
   {
     "english": "resonator",
     "traditional_chinese": "諧振器",
-    "definition_cht": "指與「諧振器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "能在特定頻率範圍內儲存並放大振動或波動能量的裝置或系統，如聲學腔體、電磁腔或機械振動元件；常用於量測、濾波與頻率選擇。",
     "source_url": "https://glossary.ametsoc.org/wiki/resonator"
   },
   {
     "english": "responder",
-    "traditional_chinese": "回應者",
-    "definition_cht": "指與「回應者」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "應答器",
+    "definition_cht": "接收到詢問或觸發訊號後，能自動回傳預定訊息、編碼或識別資料的裝置；在雷達、航空與遙測系統中常用於目標識別、定位與追蹤。",
     "source_url": "https://glossary.ametsoc.org/wiki/responder"
   },
   {
     "english": "response analysis",
-    "traditional_chinese": "回應分析",
-    "definition_cht": "指系統對「回應分析」所代表外力、擾動或邊界條件變化的反應特徵。",
+    "traditional_chinese": "響應分析",
+    "definition_cht": "分析系統在外力、擾動、輸入訊號或邊界條件改變下，其輸出隨時間、頻率或空間變化特性的程序；常用於模式敏感度、穩定度與傳遞機制研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/response_analysis"
   },
   {
     "english": "response function",
-    "traditional_chinese": "回應函數",
-    "definition_cht": "指系統對「回應函數」所代表外力、擾動或邊界條件變化的反應特徵。",
+    "traditional_chinese": "響應函數",
+    "definition_cht": "描述系統對單位輸入、脈衝、強迫或擾動所產生反應大小與形式的函數；可用於表示不同時間、空間或頻率下的敏感度與傳遞特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/response_function"
   },
   {
     "english": "responsive parameterization",
     "traditional_chinese": "響應式參數化",
-    "definition_cht": "指與「響應式參數化」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "一類會隨解析度、環境狀態或模式預報場變化而自動調整其參數或閉合形式的參數化方法，旨在更合理表徵未解析次網格物理過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/responsive_parameterization"
   },
   {
     "english": "rest mass",
-    "traditional_chinese": "靜止品質",
-    "definition_cht": "指與「靜止品質」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "靜止質量",
+    "definition_cht": "粒子或物體在其自身靜止參考系中所具有的不變質量，與觀測者運動狀態無關；在相對論中為描述物質本徵性質的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/rest_mass"
   },
   {
     "english": "restoring",
-    "traditional_chinese": "恢復",
-    "definition_cht": "指與「恢復」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "回復作用",
+    "definition_cht": "使系統偏離平衡後傾向返回原狀的作用、力或過程；在海氣動力學中常指回復力、回復項或回復機制，例如浮力、壓力梯度或牛頓冷卻。",
     "source_url": "https://glossary.ametsoc.org/wiki/restoring"
   },
   {
     "english": "resultant",
-    "traditional_chinese": "結果",
-    "definition_cht": "指與「結果」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "合成量",
+    "definition_cht": "由兩個或多個分量經向量或代數組合後所得的總效果；在氣象與物理中常指合成風、合力、合成振幅或其他綜合量。",
     "source_url": "https://glossary.ametsoc.org/wiki/resultant"
   },
   {
