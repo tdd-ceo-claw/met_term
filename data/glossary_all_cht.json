@@ -43130,7 +43130,7 @@
   {
     "english": "salinity bridge",
     "traditional_chinese": "鹽度電橋",
-    "definition_cht": "以惠斯登電橋量測水樣導電度，進而測定鹽度的儀器；本質上屬於一種鹽度計。",
+    "definition_cht": "利用電橋比較水樣導電度、據以換算鹽度的測定儀器；早期海洋觀測中常用於海水鹽度分析，本質上屬鹽度計的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/salinity_bridge"
   },
   {
@@ -43142,7 +43142,7 @@
   {
     "english": "salt content",
     "traditional_chinese": "含鹽量",
-    "definition_cht": "水體、土壤或其他介質中所含鹽類的總量或濃度。",
+    "definition_cht": "指水體、土壤或其他介質中所含溶解鹽類的總量或濃度；在海洋學中常作為描述鹽分多寡的概念量，但不一定等同於現代定義的鹽度。",
     "source_url": "https://glossary.ametsoc.org/wiki/salt_content"
   },
   {
@@ -43159,8 +43159,8 @@
   },
   {
     "english": "salt lens",
-    "traditional_chinese": "鹽透鏡",
-    "definition_cht": "海洋中呈透鏡狀、鹽度顯著偏高的水團；常特指地中海外流水在北大西洋形成的高鹽透鏡（meddy）。",
+    "traditional_chinese": "高鹽透鏡體",
+    "definition_cht": "海洋中呈透鏡狀、鹽度明顯高於周圍海水的水團；常指由地中海外流水在北大西洋形成的高鹽中層水透鏡（meddy）。",
     "source_url": "https://glossary.ametsoc.org/wiki/salt_lens"
   },
   {
@@ -43177,8 +43177,8 @@
   },
   {
     "english": "SAM",
-    "traditional_chinese": "平流層氣膠量測",
-    "definition_cht": "Stratospheric Aerosol Measurement 的縮寫，指 NASA 早期以日掩星法量測高緯度平流層氣膠垂直分布的衛星觀測計畫與儀器。",
+    "traditional_chinese": "平流層氣膠測量計畫",
+    "definition_cht": "Stratospheric Aerosol Measurement 的縮寫，指 NASA 以日掩星法量測平流層氣膠垂直分布的衛星觀測計畫與儀器系列。",
     "source_url": "https://glossary.ametsoc.org/wiki/SAM"
   },
   {
@@ -43190,7 +43190,7 @@
   {
     "english": "SAMS",
     "traditional_chinese": "地面自動氣象系統",
-    "definition_cht": "Surface Automated Meteorological System 的縮寫，指自動量測並回報地面氣象要素的觀測系統。",
+    "definition_cht": "Surface Automated Meteorological System 的縮寫，指可自動量測、處理並回報地面氣象要素的觀測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/SAMS"
   },
   {
@@ -43201,8 +43201,8 @@
   },
   {
     "english": "sand auger",
-    "traditional_chinese": "砂土鑽",
-    "definition_cht": "適用於鬆散砂質土壤取樣或鑽孔的土鑽，鑽頭開口較受限，可減少提出時樣品流失。",
+    "traditional_chinese": "砂土螺旋鑽",
+    "definition_cht": "適用於鬆散砂質土壤取樣或鑽孔的螺旋土鑽；其鑽頭設計可減少砂樣在提出過程中的流失。",
     "source_url": "https://glossary.ametsoc.org/wiki/sand_auger"
   },
   {
@@ -43213,8 +43213,8 @@
   },
   {
     "english": "sand snow",
-    "traditional_chinese": "砂雪",
-    "definition_cht": "在極低氣溫（約 -25°C）下形成或降落的鬆散細乾雪，質地近似砂粒。",
+    "traditional_chinese": "砂狀雪",
+    "definition_cht": "質地乾鬆細碎、外觀近似砂粒的細小雪粒或粒狀雪；多用來形容極冷環境下的乾雪。",
     "source_url": "https://glossary.ametsoc.org/wiki/sand_snow"
   },
   {
@@ -43232,7 +43232,7 @@
   {
     "english": "sandstorm",
     "traditional_chinese": "沙暴",
-    "definition_cht": "強風將大量砂粒吹起並輸送，造成嚴重能見度降低的天氣現象；通常粒徑較大、近地層影響明顯。",
+    "definition_cht": "乾旱或半乾旱地區因強風、陣風鋒或下擊暴流揚起大量砂塵所形成的天氣現象，會使能見度顯著下降；廣義上常與塵暴並稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/sandstorm"
   },
   {
