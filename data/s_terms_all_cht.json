@@ -422,121 +422,121 @@
   {
     "english": "scale height",
     "traditional_chinese": "尺度高度",
-    "definition_cht": "描述氣壓、密度等隨高度近似呈指數遞減時的特徵高度，當高度增加一個尺度高度時，該量約降為原值的 1/e。",
+    "definition_cht": "描述氣壓、密度等物理量隨高度近似呈指數遞減時的特徵高度；高度每增加一個尺度高度，該量約降為原值的 1/e。",
     "source_url": "https://glossary.ametsoc.org/wiki/scale_height"
   },
   {
     "english": "SCAMS",
-    "traditional_chinese": "騙局",
-    "definition_cht": "「SCAMS」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "SCAMS",
+    "definition_cht": "在公開可查的氣象、遙測與地球科學資料中，未見一致通用的 SCAMS 標準擴寫；多半屬特定系統、模式、計畫或資料集代號，應依原始文獻或上下文判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/SCAMS"
   },
   {
     "english": "scan line",
     "traditional_chinese": "掃描線",
-    "definition_cht": "掃描式感測器於一次掃描中形成的單列觀測資料，通常對應影像的一行像元。",
+    "definition_cht": "掃描式感測器在一次橫向或縱向掃掠中形成的單列觀測資料，通常對應影像中的一行像元或一條掃描軌跡。",
     "source_url": "https://glossary.ametsoc.org/wiki/scan_line"
   },
   {
     "english": "scanner",
     "traditional_chinese": "掃描器",
-    "definition_cht": "以機械或電子方式逐點、逐線量測目標輻射或反射訊號的感測裝置。",
+    "definition_cht": "以機械、電子或光學方式逐點或逐線掃掠目標，量測其輻射、反射或其他訊號的裝置，常作為遙測儀器的掃描組件。",
     "source_url": "https://glossary.ametsoc.org/wiki/scanner"
   },
   {
     "english": "scanning",
     "traditional_chinese": "掃描",
-    "definition_cht": "指與「掃描」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "使感測器視場依一定方向與步距連續移動，以逐點、逐線或逐區取得觀測資料的程序；常用於雷達、衛星與各類遙測儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/scanning"
   },
   {
     "english": "Scanning Microwave Spectrometer",
-    "traditional_chinese": "掃描微波光譜儀",
-    "definition_cht": "指與「掃描微波光譜儀」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "traditional_chinese": "掃描式微波光譜儀",
+    "definition_cht": "以掃描方式量測不同方向或不同頻道之微波輻射頻譜特性的遙測儀器，可用於反演大氣或地表的溫度、濕度與其他物理性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/Scanning_Microwave_Spectrometer"
   },
   {
     "english": "Scanning Multifrequency Microwave Radiometer",
-    "traditional_chinese": "掃描多頻微波輻射計",
-    "definition_cht": "指與「掃描多頻微波輻射計」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "traditional_chinese": "掃描式多頻微波輻射計",
+    "definition_cht": "具多個微波頻道並可跨軌掃描觀測的被動式遙測儀器，用於量測亮溫，進而推估海面風、海表溫度、水氣、雲液水或降水等參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Scanning_Multifrequency_Microwave_Radiometer"
   },
   {
     "english": "scanning radiometer",
-    "traditional_chinese": "掃描輻射計",
-    "definition_cht": "利用掃描方式量測不同方向或地表位置輻射強度的儀器，廣泛應用於衛星與航空遙測。",
+    "traditional_chinese": "掃描式輻射計",
+    "definition_cht": "藉由旋轉、擺掃或跨軌掃描量測不同方向或地表位置輻射強度的儀器，廣泛應用於衛星與航空遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/scanning_radiometer"
   },
   {
     "english": "SCAPE",
-    "traditional_chinese": "景觀",
-    "definition_cht": "「SCAPE」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "SCAPE",
+    "definition_cht": "在公開可查的氣象、遙測與地球科學資料中，未見一致通用的 SCAPE 標準擴寫；若出現在專門文獻中，通常是特定計畫、系統或資料產品代號，應依原始來源解釋。",
     "source_url": "https://glossary.ametsoc.org/wiki/SCAPE"
   },
   {
     "english": "scatter",
-    "traditional_chinese": "分散",
-    "definition_cht": "指與「分散」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "散射",
+    "definition_cht": "指輻射、波動或粒子與介質或目標作用後，偏離原傳播方向並向多個方向重新分布的現象；在雷達、光學與大氣輻射傳輸中常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/scatter"
   },
   {
     "english": "scatter angle",
     "traditional_chinese": "散射角",
-    "definition_cht": "指與「散射角」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "入射方向與散射方向之間的夾角，用以描述散射輻射或粒子偏離原傳播方向的幾何關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/scatter_angle"
   },
   {
     "english": "scatter diagram",
     "traditional_chinese": "散點圖",
-    "definition_cht": "指與「散點圖」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以平面座標上各觀測點的位置表示兩變數關係的圖形，常用於檢視相關性、分布型態與離群值。",
     "source_url": "https://glossary.ametsoc.org/wiki/scatter_diagram"
   },
   {
     "english": "scatter propagation",
     "traditional_chinese": "散射傳播",
-    "definition_cht": "指與「散射傳播」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "無線電波因大氣不均勻體、降水粒子或其他散射體作用而偏離原路徑並得以傳播至接收端的現象；在通訊上常指對流層散射傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/scatter_propagation"
   },
   {
     "english": "scattered",
-    "traditional_chinese": "疏散",
-    "definition_cht": "指與「疏散」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "疏雲",
+    "definition_cht": "航空與觀測用語，指天空雲量約占 3/8 至 4/8 的狀態；在 METAR 中常用 SCT 表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattered"
   },
   {
     "english": "scattered power",
-    "traditional_chinese": "分散的力量",
-    "definition_cht": "指與「分散的力量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "散射功率",
+    "definition_cht": "入射能量與介質或目標作用後，被散射到各方向的功率；在雷達與輻射傳輸中常用以描述回波或散射訊號強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattered_power"
   },
   {
     "english": "scattered radiation",
     "traditional_chinese": "散射輻射",
-    "definition_cht": "指與「散射輻射」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "原本沿特定方向傳播的輻射，經分子、氣膠、雲滴或其他粒子散射後轉向所形成的輻射成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattered_radiation"
   },
   {
     "english": "scattering",
     "traditional_chinese": "散射",
-    "definition_cht": "指與「散射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "波動、電磁輻射或粒子與介質、粒子或目標作用後改變傳播方向與能量分布的過程，可包含彈性或非彈性散射。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattering"
   },
   {
     "english": "scattering area coefficient",
     "traditional_chinese": "散射面積係數",
-    "definition_cht": "指「散射面積係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。",
+    "definition_cht": "用以表徵目標或介質對入射能量之散射能力的面積型參數或係數，通常與有效散射面積、幾何尺度及觀測配置有關，實際定義須依所用理論或儀器而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattering_area_coefficient"
   },
   {
     "english": "scattering coefficient",
     "traditional_chinese": "散射係數",
-    "definition_cht": "指「散射係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。",
+    "definition_cht": "表示介質對入射輻射或粒子造成散射強度的係數，常定義為單位路徑長內發生散射的機率或散射能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattering_coefficient"
   },
   {
     "english": "scattering cross section",
     "traditional_chinese": "散射截面",
-    "definition_cht": "指與「散射截面」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "表示粒子或目標對入射輻射之有效散射能力的等效面積量，常用來量化其將能量散射至各方向的效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattering_cross_section"
   },
   {
