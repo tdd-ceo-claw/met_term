@@ -542,121 +542,121 @@
   {
     "english": "scattering efficiency factor",
     "traditional_chinese": "散射效率因子",
-    "definition_cht": "指與「散射效率因子」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指散射截面相對於粒子幾何截面的無因次比值，用以表示粒子將入射輻射散射出去的效率；在大氣輻射與粒子散射研究中，常用於描述不同粒徑與波長條件下的散射強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattering_efficiency_factor"
   },
   {
     "english": "scattering function",
     "traditional_chinese": "散射函數",
-    "definition_cht": "指與「散射函數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "描述散射輻射隨散射角而變化之角分布函數，常以其正規化形式即相函數（phase function）表示，用於大氣輻射傳輸、雲滴與氣膠散射計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattering_function"
   },
   {
     "english": "scattering matrix",
     "traditional_chinese": "散射矩陣",
-    "definition_cht": "指與「散射矩陣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "用以表徵散射體對入射電磁波或偏振訊號作用的矩陣；在雷達氣象與遙測中，常指 2×2 複數矩陣，用來描述不同偏振通道間的散射振幅關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/scattering_matrix"
   },
   {
     "english": "scatterometer",
     "traditional_chinese": "散射計",
-    "definition_cht": "主動式微波遙測儀器，藉量測海面或地表後向散射訊號推估近地面風場、粗糙度或表面特性。",
+    "definition_cht": "主動式微波遙測儀器，藉量測海面或地表對雷達波的後向散射強度，反演近海面風速、風向、表面粗糙度及部分地表特性，廣泛用於衛星海氣觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/scatterometer"
   },
   {
     "english": "scavenging by precipitation",
     "traditional_chinese": "降水清除",
-    "definition_cht": "指與降水型態、降水量、形成機制或其統計分布相關的專業術語。",
+    "definition_cht": "指雨、雪或其他降水粒子在下落或雲內形成過程中，將氣膠、污染物或可溶性氣體自大氣中攔截並移除的作用，屬濕沉降的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/scavenging_by_precipitation"
   },
   {
     "english": "scavenging coefficient",
-    "traditional_chinese": "掃氣係數",
-    "definition_cht": "指「掃氣係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。",
+    "traditional_chinese": "清除係數",
+    "definition_cht": "表示降水或其他濕沉降過程自空氣中移除氣膠、污染物或微量成分速率的係數，常以每秒為單位，用於參數化大氣清除效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/scavenging_coefficient"
   },
   {
     "english": "scharnitzer",
-    "traditional_chinese": "沙尼策爾",
-    "definition_cht": "指與「沙尼策爾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "沙尼策風",
+    "definition_cht": "奧地利蒂羅爾一帶持續時間較長的寒冷北風，屬地方性風名。",
     "source_url": "https://glossary.ametsoc.org/wiki/scharnitzer"
   },
   {
     "english": "Schlernwind",
-    "traditional_chinese": "施勒恩溫德",
-    "definition_cht": "指與「施勒恩溫德」相關的風場、局地風、環流或風速風向特徵。",
+    "traditional_chinese": "施勒恩風",
+    "definition_cht": "奧地利蒂羅爾博岑附近自施勒恩山區吹降的地方性東風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Schlernwind"
   },
   {
     "english": "schlieren",
-    "traditional_chinese": "施利倫",
-    "definition_cht": "指與「施利倫」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "紋影法",
+    "definition_cht": "利用流體中折射率微小差異所造成的光線偏折，將密度、溫度或壓力梯度顯示出來的光學觀測方法，常用於研究氣流、震波與湍流結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/schlieren"
   },
   {
     "english": "Schmidt number",
     "traditional_chinese": "施密特數",
-    "definition_cht": "指與「施密特數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "流體力學中的無因次數，為動量擴散率與質量擴散率之比，用於描述流體中動量傳輸相對於物質傳輸的快慢；海氣交換與邊界層傳輸研究常用此量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Schmidt_number"
   },
   {
     "english": "Schuman–Ludlam limit",
-    "traditional_chinese": "舒曼-盧德拉姆極限",
-    "definition_cht": "指與「舒曼-盧德拉姆極限」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "舒曼－勒德倫極限",
+    "definition_cht": "在過冷雲中，冰雹或其他冰粒以碰凍方式增長時的臨界液態含水量；低於此值時所收集水滴可全部凍結，高於此值時則可能出現濕成長、液水脫落或海綿冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/Schuman%E2%80%93Ludlam_limit"
   },
   {
     "english": "Schumann resonance",
     "traditional_chinese": "舒曼共振",
-    "definition_cht": "指與「舒曼共振」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "地表與電離層之間形成的全球電磁共振現象，主要由雷電放電激發，出現在極低頻頻帶，基頻約為 7.83 Hz。",
     "source_url": "https://glossary.ametsoc.org/wiki/Schumann_resonance"
   },
   {
     "english": "scintillation",
     "traditional_chinese": "閃爍",
-    "definition_cht": "指與「閃爍」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指電磁波或光波在穿越大氣、電離層或其他不均勻介質時，因折射率起伏造成接收訊號強度、相位或視位置快速波動的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/scintillation"
   },
   {
     "english": "scintillometer",
-    "traditional_chinese": "閃爍計",
-    "definition_cht": "指與「閃爍計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "閃爍儀",
+    "definition_cht": "藉量測光波或無線電訊號在大氣傳播路徑上的閃爍強度，推估折射率起伏、湍流強度及感熱通量等邊界層特性的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/scintillometer"
   },
   {
     "english": "SCMR",
-    "traditional_chinese": "SCMR",
-    "definition_cht": "「SCMR」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "表面成分測繪輻射計",
+    "definition_cht": "Surface Composition Mapping Radiometer 的縮寫，指用於量測與判識地表成分或材料光譜特性的輻射計。",
     "source_url": "https://glossary.ametsoc.org/wiki/SCMR"
   },
   {
     "english": "Scofield–Oliver technique",
-    "traditional_chinese": "斯科菲爾德-奧利佛技術",
-    "definition_cht": "指與「斯科菲爾德-奧利佛技術」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "史科菲德－奧利佛技術",
+    "definition_cht": "利用連續 GOES 增強紅外線衛星影像，對對流降水系統進行人工判釋並估算降雨率的作業技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/Scofield%E2%80%93Oliver_technique"
   },
   {
     "english": "scope",
-    "traditional_chinese": "範圍",
-    "definition_cht": "指與「範圍」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "示波器",
+    "definition_cht": "泛指供觀測顯示用的儀器；在雷達氣象中通常特指陰極射線式顯示器或雷達示波器，用以呈現回波訊號與掃描影像。",
     "source_url": "https://glossary.ametsoc.org/wiki/scope"
   },
   {
     "english": "Scorer parameter",
-    "traditional_chinese": "記分器參數",
-    "definition_cht": "指與「記分器參數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "史科勒參數",
+    "definition_cht": "用於判斷山岳波與背風波能否垂直傳播或被侷限的參數，綜合大氣穩定度與垂直風切影響；其隨高度遞減時，較有利於波動受困與形成背風波。",
     "source_url": "https://glossary.ametsoc.org/wiki/Scorer_parameter"
   },
   {
     "english": "Scotch mist",
-    "traditional_chinese": "蘇格蘭薄霧",
-    "definition_cht": "指與「蘇格蘭薄霧」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "蘇格蘭霧雨",
+    "definition_cht": "蘇格蘭及英格蘭部分地區常見的天氣俗稱，指濃霧或厚霧與毛毛雨、細雨並存的潮濕低能見度現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Scotch_mist"
   },
   {
     "english": "scotopic vision",
     "traditional_chinese": "暗視覺",
-    "definition_cht": "指與「暗視覺」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在極低照度下由桿狀細胞主導的視覺狀態，僅能分辨明暗而幾乎無色彩辨識能力，常見於夜間或暗適應後觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/scotopic_vision"
   },
   {
