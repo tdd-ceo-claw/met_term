@@ -42650,121 +42650,121 @@
   {
     "english": "river forecast",
     "traditional_chinese": "河川預報",
-    "definition_cht": "指與「河川預報」相關的河川、水道或其水文地貌特徵。",
+    "definition_cht": "對河川未來水位、流量、洪峰時間或洪水風險所作的預測，通常依降雨預報、流域逕流模式與上游觀測資料綜合發布。",
     "source_url": "https://glossary.ametsoc.org/wiki/river_forecast"
   },
   {
     "english": "river gauge",
-    "traditional_chinese": "河規",
-    "definition_cht": "指與「河規」相關的河川、水道或其水文地貌特徵。",
+    "traditional_chinese": "河川水位站",
+    "definition_cht": "設於河川上的觀測站或量測裝置，用以連續或定時量測水位，並常搭配流量推估與洪水監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/river_gauge"
   },
   {
     "english": "river stage",
-    "traditional_chinese": "河流舞台",
-    "definition_cht": "指與「河流舞台」相關的河川、水道或其水文地貌特徵。",
+    "traditional_chinese": "河川水位",
+    "definition_cht": "河川某測站水面相對於基準面的高度，是洪水監測與河川預報常用的基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/river_stage"
   },
   {
     "english": "river surface temperature",
-    "traditional_chinese": "河川表面溫度",
-    "definition_cht": "指與「河川表面溫度」相關的河川、水道或其水文地貌特徵。",
+    "traditional_chinese": "河川表面水溫",
+    "definition_cht": "河川表層水體的溫度，用於水文、生態、水質及熱交換研究，也會影響溶氧與生物棲地條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/river_surface_temperature"
   },
   {
     "english": "river system",
-    "traditional_chinese": "河流系統",
-    "definition_cht": "指與「河流系統」相關的河川、水道或其水文地貌特徵。",
+    "traditional_chinese": "河系",
+    "definition_cht": "由主流、支流及其排水網絡所組成的河川系統，通常對應同一流域或集水區。",
     "source_url": "https://glossary.ametsoc.org/wiki/river_system"
   },
   {
     "english": "rmse",
     "traditional_chinese": "均方根誤差",
-    "definition_cht": "指與「均方根誤差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "將估計值與觀測值之差平方後取平均，再開平方所得的誤差指標；對較大誤差較敏感，常用於評估模式、反演或預報表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/rmse"
   },
   {
     "english": "RMTN",
-    "traditional_chinese": "RMTN",
-    "definition_cht": "「RMTN」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "區域氣象通信網路",
+    "definition_cht": "世界氣象組織全球電信系統的一級網路之一，負責在區域尺度傳遞觀測、分析與預報等氣象資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/RMTN"
   },
   {
     "english": "Road weather",
     "traditional_chinese": "道路天氣",
-    "definition_cht": "指與「道路天氣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "影響道路交通與路面狀況的氣象與環境條件，包含降水、能見度、氣溫、路面溫度、結冰、積雪與強風等。",
     "source_url": "https://glossary.ametsoc.org/wiki/Road_weather"
   },
   {
     "english": "roaring forties",
-    "traditional_chinese": "咆哮的四十年代",
-    "definition_cht": "指與「咆哮的四十年代」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "咆哮四十度帶",
+    "definition_cht": "南半球約南緯40°至50°間盛行的強西風帶，因海洋廣闊、地形阻擋少，常伴隨持續強風與巨浪。",
     "source_url": "https://glossary.ametsoc.org/wiki/roaring_forties"
   },
   {
     "english": "ROB",
-    "traditional_chinese": "搶",
-    "definition_cht": "「ROB」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "ROB",
+    "definition_cht": "氣象或相關技術文件中的縮寫代號；不同系統可能有不同擴義，需依資料格式或作業脈絡判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/ROB"
   },
   {
     "english": "Robin Hood's wind",
-    "traditional_chinese": "羅賓漢之風",
-    "definition_cht": "指與「羅賓漢之風」相關的風場、局地風、環流或風速風向特徵。",
+    "traditional_chinese": "羅賓漢風",
+    "definition_cht": "較少見的舊稱或地方性風名，通常指具特殊地方背景的局地風；實際所指風向與成因須依原始文獻或地區用法判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/Robin_Hood%27s_wind"
   },
   {
     "english": "robin sphere",
-    "traditional_chinese": "知更鳥球",
-    "definition_cht": "指與「知更鳥球」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "羅賓球",
+    "definition_cht": "較少見的舊式儀器名稱，通常指與輻射或日照觀測相關的球形部件或裝置；確切意義需依儀器脈絡判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/robin_sphere"
   },
   {
     "english": "Robitzsch actinograph",
-    "traditional_chinese": "羅比茲光動記錄儀",
-    "definition_cht": "指與「羅比茲光動記錄儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "羅比茨施日射記錄儀",
+    "definition_cht": "一種用於連續記錄太陽總輻射或日射強度變化的舊式自記儀器，曾用於氣象站的輻射觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Robitzsch_actinograph"
   },
   {
     "english": "rockair",
-    "traditional_chinese": "搖滾樂",
-    "definition_cht": "指與「搖滾樂」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "空射探空火箭",
+    "definition_cht": "自飛機發射的探空火箭構想或系統，用於將儀器送入高空進行大氣量測，屬早期高空探測技術的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/rockair"
   },
   {
     "english": "rocket",
     "traditional_chinese": "火箭",
-    "definition_cht": "指與「火箭」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "利用高速噴出氣體產生反作用力推進的飛行器；在氣象上常指用於高空探測或科學實驗的探空火箭。",
     "source_url": "https://glossary.ametsoc.org/wiki/rocket"
   },
   {
     "english": "rocket lightning",
-    "traditional_chinese": "火箭閃電",
-    "definition_cht": "指與「火箭閃電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "火箭觸發雷電",
+    "definition_cht": "以發射拖曳導線或導體的火箭來引發或導引放電的雷電現象，主要用於雷電物理實驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/rocket_lightning"
   },
   {
     "english": "rocket-triggered lightning",
-    "traditional_chinese": "火箭引發的閃電",
-    "definition_cht": "指與「火箭引發的閃電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "火箭觸發雷電",
+    "definition_cht": "利用拖曳金屬線的火箭主動誘發雷擊，以研究放電起始、通道發展與電流特性的實驗技術與其所產生的雷電。",
     "source_url": "https://glossary.ametsoc.org/wiki/rocket-triggered_lightning"
   },
   {
     "english": "rocketsonde",
-    "traditional_chinese": "火箭探空儀",
-    "definition_cht": "指與「火箭探空儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "探空火箭",
+    "definition_cht": "搭載量測儀器進行次軌道飛行的研究火箭，用於量測高層大氣、電離層或近太空環境；英文亦稱 sounding rocket。",
     "source_url": "https://glossary.ametsoc.org/wiki/rocketsonde"
   },
   {
     "english": "ROFOR",
-    "traditional_chinese": "羅福爾",
-    "definition_cht": "「ROFOR」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "航路預報",
+    "definition_cht": "航空氣象中的 route forecast 縮寫，用於提供特定航路上的風、雲、結冰、亂流等預報資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/ROFOR"
   },
   {
     "english": "ROFOT",
-    "traditional_chinese": "羅福特",
-    "definition_cht": "「ROFOT」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "ROFOT",
+    "definition_cht": "較少見的航空氣象縮寫，通常與航路預報報文或其傳輸格式有關；確切擴義須依原始作業手冊判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/ROFOT"
   },
   {
