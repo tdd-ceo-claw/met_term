@@ -41569,122 +41569,122 @@
   },
   {
     "english": "recharge",
-    "traditional_chinese": "儲值",
-    "definition_cht": "指與「儲值」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "補注",
+    "definition_cht": "在水文與地下水學中，指地表水、降水或人工補注水向下滲入，進入地下含水層的過程；亦可指單位時間內進入地下水系統的補注量。",
     "source_url": "https://glossary.ametsoc.org/wiki/recharge"
   },
   {
     "english": "recharge area",
-    "traditional_chinese": "補給區",
-    "definition_cht": "指與「補給區」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "補注區",
+    "definition_cht": "地下水系統中，降水、地表水或人工補注水主要向下入滲並補給含水層的地表區域；此區通常是地下水位淨增加的來源區。",
     "source_url": "https://glossary.ametsoc.org/wiki/recharge_area"
   },
   {
     "english": "recharge capacity",
-    "traditional_chinese": "充電能力",
-    "definition_cht": "指與「充電能力」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "補注能力",
+    "definition_cht": "指某地層、土壤或含水層在一定條件下接納並傳輸補注水的能力，常受滲透性、孔隙結構、地表覆蓋與前期含水狀態影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/recharge_capacity"
   },
   {
     "english": "recirculation",
     "traditional_chinese": "再循環",
-    "definition_cht": "指與「再循環」相關的環流型態、閉合流動結構或大尺度運動配置。",
+    "definition_cht": "指流體、空氣或水體在局部區域內反覆返回並形成閉合或近閉合路徑的流動現象；在大氣與水體污染研究中，亦常指污染物在區域內反覆輸送而不易擴散排出的情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/recirculation"
   },
   {
     "english": "recombination",
-    "traditional_chinese": "重組",
-    "definition_cht": "指與「重組」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "複合",
+    "definition_cht": "在大氣電學、電離層或等離子體物理中，指自由電子與正離子結合形成中性粒子的過程，使電離程度降低。",
     "source_url": "https://glossary.ametsoc.org/wiki/recombination"
   },
   {
     "english": "recombination coefficient",
     "traditional_chinese": "複合係數",
-    "definition_cht": "指「複合係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。",
+    "definition_cht": "描述電子與離子複合速率強弱的係數，用於表示單位體積內帶電粒子因複合而減少的效率，常見於電離層與等離子體方程式。",
     "source_url": "https://glossary.ametsoc.org/wiki/recombination_coefficient"
   },
   {
     "english": "recombination energy",
-    "traditional_chinese": "重組能",
-    "definition_cht": "指與「重組能」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "複合能",
+    "definition_cht": "指電子與離子複合形成較低能態或中性粒子時所釋放的能量；其形式可表現為輻射、熱或其他能量轉換。",
     "source_url": "https://glossary.ametsoc.org/wiki/recombination_energy"
   },
   {
     "english": "recon",
-    "traditional_chinese": "偵察",
-    "definition_cht": "指與「偵察」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "氣象偵察",
+    "definition_cht": "recon 為 reconnaissance 的簡稱，氣象上多指以飛機進入熱帶氣旋或其他重要天氣系統內部執行的偵察任務，用以量測中心氣壓、風場、溫濕度與降水結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/recon"
   },
   {
     "english": "reconnaissance",
     "traditional_chinese": "偵察",
-    "definition_cht": "指與「偵察」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指為取得天氣系統現地資訊而進行的觀測偵察；在熱帶氣旋業務中通常特指航空氣象偵察，以直接量測風暴內部結構與環境條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/reconnaissance"
   },
   {
     "english": "record observation",
-    "traditional_chinese": "記錄觀察",
-    "definition_cht": "指與「記錄觀察」相關的觀測紀錄、資料登錄或長期統計結果。",
+    "traditional_chinese": "破紀錄觀測值",
+    "definition_cht": "指某氣象要素在特定測站、地區或時段的觀測值超越既有歷史最高或最低紀錄的觀測結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/record_observation"
   },
   {
     "english": "recording albedometer",
-    "traditional_chinese": "記錄反照率計",
-    "definition_cht": "指與「記錄反照率計」相關的觀測紀錄、資料登錄或長期統計結果。",
+    "traditional_chinese": "自記反照率計",
+    "definition_cht": "能連續記錄地表反照率或上、下行短波輻射的反照率計，通常由上下相對配置的感測器組成，以自動留下時間序列資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/recording_albedometer"
   },
   {
     "english": "recording instrument",
-    "traditional_chinese": "錄音儀器",
-    "definition_cht": "指與「錄音儀器」相關的觀測紀錄、資料登錄或長期統計結果。",
+    "traditional_chinese": "自記儀器",
+    "definition_cht": "能將量測值隨時間自動連續記錄於紙帶、圖表或電子媒介上的觀測儀器，又稱自動記錄儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/recording_instrument"
   },
   {
     "english": "recording potentiometer",
-    "traditional_chinese": "錄音電位器",
-    "definition_cht": "指與「錄音電位器」相關的觀測紀錄、資料登錄或長期統計結果。",
+    "traditional_chinese": "自記電位計",
+    "definition_cht": "可將電位差或與之成比例的感測訊號連續自動記錄下來的電位計，常用於將氣象感測器輸出轉為連續曲線紀錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/recording_potentiometer"
   },
   {
     "english": "recording rain gauge",
-    "traditional_chinese": "記錄雨量計",
-    "definition_cht": "指與「記錄雨量計」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "自記雨量計",
+    "definition_cht": "能自動連續記錄降水量及其隨時間變化的雨量計，可提供降雨歷時、強度與累積量等資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/recording_rain_gauge"
   },
   {
     "english": "recovery test",
-    "traditional_chinese": "恢復測試",
-    "definition_cht": "指與「恢復測試」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "恢復試驗",
+    "definition_cht": "在地下水學中，指抽水或擾動停止後，觀測水位或壓力恢復過程的試驗，用以推估含水層特性及井的水力行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/recovery_test"
   },
   {
     "english": "recovery time",
     "traditional_chinese": "恢復時間",
-    "definition_cht": "指與「恢復時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "系統、介質或觀測量在受擾動後回復至原有或近似平衡狀態所需的時間；在地下水試驗中，常指停抽後水位回升的歷時。",
     "source_url": "https://glossary.ametsoc.org/wiki/recovery_time"
   },
   {
     "english": "recurrence formula",
-    "traditional_chinese": "遞推公式",
-    "definition_cht": "指與「遞推公式」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "遞迴公式",
+    "definition_cht": "以先前一項或數項的值表示後續項的數學關係式，用於序列推算、數值分析及各類物理量的逐步計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/recurrence_formula"
   },
   {
     "english": "recurvature",
-    "traditional_chinese": "反曲",
-    "definition_cht": "指與「反曲」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "反曲轉向",
+    "definition_cht": "熱帶氣旋路徑由向西或西北移動，逐漸轉向極地方向，再進一步偏向東側的轉向過程；常與副熱帶高壓減弱、槽線接近或進入西風帶有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/recurvature"
   },
   {
     "english": "Recurving tropical cyclone",
-    "traditional_chinese": "捲土重來的熱帶氣旋",
-    "definition_cht": "指與「捲土重來的熱帶氣旋」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "反曲轉向熱帶氣旋",
+    "definition_cht": "路徑在發展過程中由低緯度西行或西北行，後續轉向極地並再偏向東行的熱帶氣旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/Recurving_tropical_cyclone"
   },
   {
     "english": "recycled water",
-    "traditional_chinese": "循環水",
-    "definition_cht": "指與「循環水」相關的水體、水文狀態、水量平衡或含水特徵。",
+    "traditional_chinese": "再生水",
+    "definition_cht": "經處理後可再次利用的回收水，通常來自生活污水或工業廢水再處理，可用於灌溉、工業、環境補注或地下水補注等用途。",
     "source_url": "https://glossary.ametsoc.org/wiki/recycled_water"
   },
   {
