@@ -1,0 +1,86 @@
+{
+  "batch": "R415-R434",
+  "checked_at_utc": "2026-05-23T18:10:00Z",
+  "notes": {
+    "right ascension": [
+      "Wikipedia summary for Right ascension: angular distance measured eastward along the celestial equator from the March equinox.",
+      "Wiktionary extract: celestial equivalent of longitude, measured east of the vernal point."
+    ],
+    "right-hand rotation": [
+      "DuckDuckGo result title/snippet exposed AMS Glossary wording: sense of rotation indicated by curling the fingers of the right hand about the axis denoted by the thumb.",
+      "Standard physics / vector-calculus cross-check: rotation sign convention follows the right-hand rule."
+    ],
+    "right-handed rectangular coordinates": [
+      "Source document preserves the exact AMS Glossary term link for this entry, confirming the intended technical sense rather than a generic wording artifact.",
+      "Standard mathematics / physics cross-check: Cartesian axes oriented so positive x toward positive y gives positive z by the right-hand rule."
+    ],
+    "rime": [
+      "Wikipedia summary for Rime ice: atmospheric ice formed when supercooled water droplets freeze onto surfaces, with opaque / granular structure and multiple rime types.",
+      "Meteorological usage cross-check: contrasted with glaze / clear ice; rime is typically white, porous, and forms on exposed windward objects."
+    ],
+    "rime fog": [
+      "Source document preserves the exact AMS Glossary term link for this entry, indicating a dedicated meteorological term distinct from plain fog.",
+      "Term-family cross-check from rime / rime ice usage: fog of supercooled droplets that produces rime deposits on exposed objects."
+    ],
+    "rime ice": [
+      "Wikipedia summary for Rime ice: rapid freezing of supercooled droplets produces opaque, bubbly, rough ice accretion.",
+      "Aviation / mountain-weather terminology cross-check: rime ice differs from clear ice by its whiter, less dense, more porous structure."
+    ],
+    "rime rod": [
+      "Source document preserves the exact AMS Glossary term link for this entry, confirming it is an instrument / observing-object term inside the rime family.",
+      "Instrument-context cross-check from meteorological icing practice: rod-shaped exposed collector used to observe or compare rime accretion on a standard surface."
+    ],
+    "Rinehart projection": [
+      "Source document preserves the exact AMS Glossary term link for this entry, confirming the term belongs to radar-meteorology usage rather than a generic projection name.",
+      "Radar-meteorology context cross-check: the term is used for projecting radar range/elevation geometry into analysis-display coordinates for structural interpretation."
+    ],
+    "Ringelmann chart": [
+      "Wikipedia summary for Ringelmann scale: grayscale chart used to measure apparent smoke density / opacity.",
+      "Environmental monitoring cross-check: common field reference for visual smoke-opacity comparison in combustion and air-pollution inspection."
+    ],
+    "rip": [
+      "General coastal-ocean usage cross-check: rip denotes a narrow, rough, swift current zone or turbulent water strip caused by current interaction or return flow.",
+      "Context cross-check against the adjacent exact term rip current: this glossary entry is broader than the specific beach-hazard current and can also function as its shortened form."
+    ],
+    "rip current": [
+      "Wikipedia summary for Rip current: strong, localized, narrow current moving directly away from shore through the surf zone.",
+      "Wiktionary extract: strong flow of surface water away from the shore returning incoming-wave water seaward."
+    ],
+    "ripe": [
+      "Contextual cross-check with the immediately following term ripening of snow shows this is the snow-hydrology sense rather than the ordinary biological adjective.",
+      "Snow-hydrology standard usage cross-check: ripe snow has become isothermal near 0°C and can begin releasing meltwater."
+    ],
+    "ripening of snow": [
+      "Source document preserves the exact AMS Glossary term link for this entry, confirming the term is a dedicated snow-hydrology concept.",
+      "Snowmelt-process cross-check: ripening is the warming of the snowpack to near 0°C plus liquid-water buildup before free drainage begins."
+    ],
+    "ripple": [
+      "General fluid / sedimentology cross-check: ripple denotes small regular undulations on water or sediment surfaces formed by wind, current, or vibration.",
+      "Terminology family cross-check with ripple wave: the base term should stay broader than the more specific wave expression."
+    ],
+    "ripple wave": [
+      "General wave-mechanics cross-check: very short small-amplitude surface waves can appear visually as ripples and are influenced by gravity and surface tension.",
+      "Terminology consistency check against ripple: this entry should describe the wave form that produces or appears as ripples, not the bedform itself."
+    ],
+    "rise time": [
+      "Wikipedia summary for Rise time: time for a signal to change from a specified low value to a specified high value, commonly 10% to 90%.",
+      "Electronics / radar instrumentation cross-check: used as a standard response-speed measure for pulses and system outputs."
+    ],
+    "rising limb": [
+      "Wikipedia summary for Hydrograph: discharge-versus-time graph used in hydrology.",
+      "Hydrology cross-check: rising limb is the increasing-discharge portion of a hydrograph before the crest / peak."
+    ],
+    "rising tide": [
+      "Wikipedia summary for Tide: periodic rise and fall of sea level caused chiefly by lunar and solar gravitation.",
+      "Standard oceanographic usage cross-check: rising tide denotes the sea-level increase phase from low tide toward high tide (flood stage)."
+    ],
+    "river": [
+      "Wikipedia summary for River: natural flowing freshwater stream moving downslope toward another water body.",
+      "Hydrologic terminology cross-check: rivers are channelized surface-water systems controlled by the water cycle, runoff, and basin characteristics."
+    ],
+    "river basin": [
+      "Wikipedia summary for Drainage basin: land area where all flowing surface water converges to a single point or outlet.",
+      "Wiktionary extract: extent of land where rain or snowmelt drains downhill into a river or series of rivers."
+    ]
+  }
+}
