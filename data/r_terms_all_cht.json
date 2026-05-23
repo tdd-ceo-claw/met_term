@@ -1891,122 +1891,122 @@
   },
   {
     "english": "register",
-    "traditional_chinese": "登記",
-    "definition_cht": "指與「登記」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "登錄／記錄",
+    "definition_cht": "在氣象、水文或海洋觀測與資料處理中，指將觀測值、事件或設備狀態記入表冊、檔案或記錄裝置的動作；作名詞時亦可指登錄簿或記錄器。",
     "source_url": "https://glossary.ametsoc.org/wiki/register"
   },
   {
     "english": "regression",
     "traditional_chinese": "回歸",
-    "definition_cht": "指與「回歸」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "統計學中指利用變數間關係來估計或預測因變數的分析概念；在氣象與水文研究中，也可泛指某一量回返平均狀態或趨勢線的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/regression"
   },
   {
     "english": "regression analysis",
     "traditional_chinese": "迴歸分析",
-    "definition_cht": "指與「迴歸分析」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以觀測資料建立因變數與一個或多個自變數之間數學關係的統計方法，用於解釋、估計或預測氣象、水文與氣候變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/regression_analysis"
   },
   {
     "english": "regression coefficient",
     "traditional_chinese": "迴歸係數",
-    "definition_cht": "指「迴歸係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。",
+    "definition_cht": "迴歸方程中用以表示各自變數對因變數影響方向與大小的係數；其數值反映其他條件不變時，該變數變動一單位所對應的平均改變量。",
     "source_url": "https://glossary.ametsoc.org/wiki/regression_coefficient"
   },
   {
     "english": "regression equation",
     "traditional_chinese": "迴歸方程",
-    "definition_cht": "描述「迴歸方程」相關物理量之間關係、守恆條件或近似動力平衡的方程式。",
+    "definition_cht": "由迴歸分析建立、用以表示因變數與一個或多個自變數之間關係的數學式，常寫成線性或非線性形式以供估計與預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/regression_equation"
   },
   {
     "english": "regression line",
     "traditional_chinese": "迴歸線",
-    "definition_cht": "指與「迴歸線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在散布圖上最能代表兩變數平均關係的擬合直線，通常依最小平方法求得，用以描述趨勢並進行估計或預測。",
     "source_url": "https://glossary.ametsoc.org/wiki/regression_line"
   },
   {
     "english": "regular broadcast",
-    "traditional_chinese": "定期廣播",
-    "definition_cht": "指與「定期廣播」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "定時廣播",
+    "definition_cht": "依固定時刻例行發布的廣播訊息；在氣象通信中，常指按排定時程播送天氣實況、預報、警報或航空、航海作業資訊的廣播服務。",
     "source_url": "https://glossary.ametsoc.org/wiki/regular_broadcast"
   },
   {
     "english": "relative angular momentum",
     "traditional_chinese": "相對角動量",
-    "definition_cht": "指與「相對角動量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "物體、氣塊或流體質點相對於指定原點與參考座標所具有的角動量；在大氣動力學中，常用以區別於包含地球自轉效應的絕對角動量。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_angular_momentum"
   },
   {
     "english": "relative coordinate system",
     "traditional_chinese": "相對座標系",
-    "definition_cht": "指與「相對座標系」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以移動體、風暴中心、船舶或其他參考點為原點所建立的座標系統，用於描述位置與運動相對於該參考體的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_coordinate_system"
   },
   {
     "english": "relative current",
-    "traditional_chinese": "相對電流",
-    "definition_cht": "指與「相對電流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "相對流",
+    "definition_cht": "相對於移動觀測平台、船體、海床或另一參考流場所量得的流動速度與方向；在海洋與流體力學中常用以區分於對地流速。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_current"
   },
   {
     "english": "relative evaporation",
     "traditional_chinese": "相對蒸發量",
-    "definition_cht": "指「相對蒸發量」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "definition_cht": "實際蒸發量相對於某一基準蒸發量（如蒸發皿蒸發量、潛在蒸發量或標準條件值）的比值，用以比較不同環境下蒸發作用的強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_evaporation"
   },
   {
     "english": "relative frequency",
     "traditional_chinese": "相對頻率",
-    "definition_cht": "指與「相對頻率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "某事件或類別出現次數占全部觀測次數的比例，可用分數、小數或百分比表示，用以描述其發生的相對多寡。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_frequency"
   },
   {
     "english": "Relative humidity",
     "traditional_chinese": "相對濕度",
-    "definition_cht": "指與空氣濕度、水汽含量及其時空分布相關的物理量或概念。",
+    "definition_cht": "空氣中實際水氣壓與同溫度下飽和水氣壓的比值，通常以百分比表示，是衡量空氣接近飽和程度的常用指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Relative_humidity"
   },
   {
     "english": "relative humidity with respect to ice",
     "traditional_chinese": "相對於冰的相對濕度",
-    "definition_cht": "指與空氣濕度、水汽含量及其時空分布相關的物理量或概念。",
+    "definition_cht": "以冰面飽和水氣壓為基準計算的相對濕度，即實際水氣壓與同溫度下冰面飽和水氣壓之比，常用於冰雲、霜凍與高空低溫環境分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_humidity_with_respect_to_ice"
   },
   {
     "english": "relative ionospheric opacity meter",
-    "traditional_chinese": "相對電離層不透明度計",
-    "definition_cht": "指與「相對電離層不透明度計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "相對電離層不透明度儀",
+    "definition_cht": "量測電離層對宇宙射電噪聲吸收程度的儀器，英文常稱 riometer；其觀測值可反映高緯度電離層吸收增強與粒子沉降活動。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_ionospheric_opacity_meter"
   },
   {
     "english": "relative momentum",
     "traditional_chinese": "相對動量",
-    "definition_cht": "指與「相對動量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "物體或流體相對於所選參考系之速度與質量乘積，表示其在該移動或局部座標框架中的動量，而非相對於固定地面座標的絕對值。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_momentum"
   },
   {
     "english": "relative permeability",
-    "traditional_chinese": "相對滲透率",
-    "definition_cht": "指與「相對滲透率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "相對磁導率",
+    "definition_cht": "某介質磁導率與真空磁導率之比值，為無因次量，用以表示材料對磁場的磁化能力；在電磁遙測與介質特性分析中常與介電率並論。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_permeability"
   },
   {
     "english": "relative permittivity",
-    "traditional_chinese": "相對介電常數",
-    "definition_cht": "指與「相對介電常數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "相對介電率",
+    "definition_cht": "某介質介電率與真空介電率之比值，亦稱介電常數，為描述材料在電場中極化能力的重要無因次參數，常用於遙測與電磁波傳播分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_permittivity"
   },
   {
     "english": "relative reduction",
-    "traditional_chinese": "相對減少",
-    "definition_cht": "指與「相對減少」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "相對減幅",
+    "definition_cht": "某一量相對於基準值的減少比例，通常以分率或百分比表示，用以衡量減少程度而非其絕對差值。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_reduction"
   },
   {
     "english": "relative sea level",
     "traditional_chinese": "相對海平面",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "definition_cht": "相對於當地陸地基準或地殼位置所觀測的海面高度；其變化同時受海水體積改變、海洋動力作用及地殼抬升或下沉影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_sea_level"
   },
   {
