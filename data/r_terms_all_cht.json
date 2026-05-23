@@ -691,122 +691,122 @@
   },
   {
     "english": "radiosonde balloon",
-    "traditional_chinese": "無線電探空儀氣球",
-    "definition_cht": "指與「無線電探空儀氣球」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無線電探空氣球",
+    "definition_cht": "用以攜帶無線電探空儀升空的自由氣球，通常充填氦氣或氫氣，使探空儀在上升過程中量測並回傳高空大氣資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiosonde_balloon"
   },
   {
     "english": "radiosonde ground equipment",
-    "traditional_chinese": "無線電探空儀地面設備",
-    "definition_cht": "指與「無線電探空儀地面設備」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無線電探空地面設備",
+    "definition_cht": "在地面接收、追蹤並處理無線電探空儀訊號的設備總稱，通常包括天線、接收機、解碼與資料處理系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiosonde_ground_equipment"
   },
   {
     "english": "Radiosonde observation",
-    "traditional_chinese": "無線電探空儀觀測",
-    "definition_cht": "指與「無線電探空儀觀測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無線電探空觀測",
+    "definition_cht": "利用無線電探空儀進行的高空觀測；藉由氣球升空連續取得氣壓、溫度、濕度、位置與高空風等垂直分布資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/Radiosonde_observation"
   },
   {
     "english": "Radiosonde recorder",
-    "traditional_chinese": "無線電探空儀記錄器",
-    "definition_cht": "指與「無線電探空儀記錄器」相關的觀測紀錄、資料登錄或長期統計結果。",
+    "traditional_chinese": "無線電探空記錄器",
+    "definition_cht": "將無線電探空儀回傳之訊號或換算後的氣象要素連續記錄下來的裝置，供即時分析、編碼與存檔使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Radiosonde_recorder"
   },
   {
     "english": "radiosonde station",
     "traditional_chinese": "無線電探空站",
-    "definition_cht": "指觀測站、測站、基地或固定量測位置相關之專業名稱。",
+    "definition_cht": "定時施放無線電探空儀並接收、處理其高空觀測資料的測站，是高空天氣觀測網的重要節點。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiosonde_station"
   },
   {
     "english": "radiosonde system",
-    "traditional_chinese": "無線電探空儀系統",
-    "definition_cht": "指與「無線電探空儀系統」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無線電探空系統",
+    "definition_cht": "由探空儀、攜帶氣球、地面接收追蹤設備及資料處理單元組成的完整高空探測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/radiosonde_system"
   },
   {
     "english": "Radiosonde transmitter",
-    "traditional_chinese": "無線電探空儀發射機",
-    "definition_cht": "指與「無線電探空儀發射機」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無線電探空發射機",
+    "definition_cht": "裝設於無線電探空儀上的低功率無線電發射器，用於將感測器量得的氣象資料即時傳送至地面站。",
     "source_url": "https://glossary.ametsoc.org/wiki/Radiosonde_transmitter"
   },
   {
     "english": "radius of protection",
-    "traditional_chinese": "保護半徑",
-    "definition_cht": "指與「保護半徑」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "防護半徑",
+    "definition_cht": "在防雷學中，指因設有高架避雷針或其他引雷裝置，而可視為較不易遭直接雷擊的水平保護範圍；經驗上常以其半徑約當於桿體高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/radius_of_protection"
   },
   {
     "english": "radix layer",
-    "traditional_chinese": "基數層",
-    "definition_cht": "指大氣、海洋、土壤、冰雪或介質中的層狀結構與其物理性質。",
+    "traditional_chinese": "基底層",
+    "definition_cht": "對流邊界層中緊貼地表的下部層次；其上方為較均勻的內部混合層，地表層則是此層最底部、受地表通量與粗糙度直接影響的子區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/radix_layer"
   },
   {
     "english": "RADOB",
-    "traditional_chinese": "拉多布",
-    "definition_cht": "「RADOB」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "地面雷達天氣觀測報",
+    "definition_cht": "ground radar weather observation report 的縮寫，指依天氣雷達對降水回波等現象的觀測與判讀所編製的編碼或傳輸報文。",
     "source_url": "https://glossary.ametsoc.org/wiki/RADOB"
   },
   {
     "english": "radome",
-    "traditional_chinese": "天線罩",
-    "definition_cht": "指與「天線罩」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "雷達罩",
+    "definition_cht": "包覆雷達或其他無線電天線之外罩，材質須能讓電波通過，同時保護天線免受風雨、結冰與外力影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/radome"
   },
   {
     "english": "radon",
     "traditional_chinese": "氡",
-    "definition_cht": "指與「氡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "由鐳衰變產生的天然放射性惰性氣體；在大氣科學中常作為近地層混合、通風與氣團來源判識的示蹤物。",
     "source_url": "https://glossary.ametsoc.org/wiki/radon"
   },
   {
     "english": "raffiche",
-    "traditional_chinese": "拉菲什",
-    "definition_cht": "指與「拉菲什」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "陣風",
+    "definition_cht": "指短時間內風速突然增強的陣風；在地中海地區的氣象語境中，常用以表示一陣或連續出現的強風脈動。",
     "source_url": "https://glossary.ametsoc.org/wiki/raffiche"
   },
   {
     "english": "RAFOS technology",
-    "traditional_chinese": "拉福斯技術",
-    "definition_cht": "指與「拉福斯技術」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "RAFOS 技術",
+    "definition_cht": "一種深海拉格朗日漂流浮標追蹤技術；浮標在海中接收固定聲源的聲訊，依到達時間反算位置，用以描繪海流、渦旋與混合作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/RAFOS_technology"
   },
   {
     "english": "rafted ice",
-    "traditional_chinese": "筏冰",
-    "definition_cht": "指與「筏冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "筏狀冰",
+    "definition_cht": "受擠壓變形時，一塊海冰覆壓到另一塊海冰之上的疊置冰，也稱 telescoped ice，屬變形海冰的一種。",
     "source_url": "https://glossary.ametsoc.org/wiki/rafted_ice"
   },
   {
     "english": "ragged ceiling",
-    "traditional_chinese": "破爛的天花板",
-    "definition_cht": "指與「破爛的天花板」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "不定雲幕",
+    "definition_cht": "航空氣象中的舊稱，指雲底高度不整齊、難以明確界定的雲幕；本質上相當於 indefinite ceiling。",
     "source_url": "https://glossary.ametsoc.org/wiki/ragged_ceiling"
   },
   {
     "english": "raggiatura",
     "traditional_chinese": "拉賈圖拉",
-    "definition_cht": "指與「拉賈圖拉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "義大利高地峽谷或山谷中猛烈下衝的局地陣風或陸上暴風，通常僅影響西岸近岸的短距離海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/raggiatura"
   },
   {
     "english": "rain",
     "traditional_chinese": "雨",
-    "definition_cht": "指與「雨」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "definition_cht": "由液態水滴組成並自雲中降至地面的降水；其滴徑通常大於毛毛雨，形成與雲中凝結、碰併增長及抬升過程密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain"
   },
   {
     "english": "rain and snow mixed",
-    "traditional_chinese": "雨雪混合",
-    "definition_cht": "指與「雨雪混合」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "雨夾雪",
+    "definition_cht": "由雨滴與融化中的雪同時或交替降至地面的混合型降水，常出現在近地面或中低層存在薄暖層的情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_and_snow_mixed"
   },
   {
     "english": "rain attenuation",
-    "traditional_chinese": "雨衰",
-    "definition_cht": "指與「雨衰」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "雨衰減",
+    "definition_cht": "電磁波通過降雨區時，因雨滴吸收與散射而導致訊號功率減弱的現象，對微波、衛星通訊與雷達量測尤為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/rain_attenuation"
   },
   {
