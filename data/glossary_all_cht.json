@@ -42050,121 +42050,121 @@
   {
     "english": "Relative sunspot number",
     "traditional_chinese": "相對太陽黑子數",
-    "definition_cht": "指與「相對太陽黑子數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "表徵太陽黑子活動強弱的指數，傳統以 R = k(10g + s) 表示，其中 g 為黑子群數、s 為個別黑子數、k 為觀測校正係數；亦稱 Wolf 數或蘇黎世黑子數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Relative_sunspot_number"
   },
   {
     "english": "relative velocity",
     "traditional_chinese": "相對速度",
-    "definition_cht": "指與「相對速度」相關的速度向量、運移速度或流速結構。",
+    "definition_cht": "某物體、氣塊或流體相對於另一觀測者、移動平台或參考座標系所量得的速度向量；其大小與方向取決於所選參考系，常用於描述對地風、對船流速或粒子相對運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_velocity"
   },
   {
     "english": "relative vorticity",
     "traditional_chinese": "相對渦度",
-    "definition_cht": "指與「相對渦度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "流體相對於地表座標系的局部旋轉強度，不含地球自轉造成的行星渦度；在氣象上常以水平風場的垂直旋度表示，用以診斷氣旋性或反氣旋性旋轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/relative_vorticity"
   },
   {
     "english": "relaxation method",
-    "traditional_chinese": "放鬆法",
-    "definition_cht": "指用於分析、估算、觀測、計算或作業處理「放鬆法」之方法、程序或技術。",
+    "traditional_chinese": "鬆弛法",
+    "definition_cht": "以反覆迭代逐步修正近似解，使方程組或場變數趨於平衡並收斂的數值方法；常用於求解偏微分方程、位勢場與診斷平衡問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/relaxation_method"
   },
   {
     "english": "relaxation of a trough",
-    "traditional_chinese": "波谷鬆弛",
-    "definition_cht": "指與槽線、低壓槽或波谷結構相關的天氣與流場特徵。",
+    "traditional_chinese": "槽減弱",
+    "definition_cht": "指高空或地面低壓槽的振幅、曲率或強度隨時間減小，槽線趨於平直、填塞或不再明顯的過程，通常表示相關環流與天氣擾動轉弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/relaxation_of_a_trough"
   },
   {
     "english": "relaxation time",
-    "traditional_chinese": "放鬆時間",
-    "definition_cht": "指與「放鬆時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "鬆弛時間",
+    "definition_cht": "受擾動系統在外力移除後回復至平衡態或接近平衡態所需的特徵時間尺度，常以指數衰減的 e-folding time 表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/relaxation_time"
   },
   {
     "english": "relaxed eddy accumulation",
-    "traditional_chinese": "鬆弛渦流累積",
-    "definition_cht": "指與「鬆弛渦流累積」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "鬆弛渦流累積法",
+    "definition_cht": "一種微氣象通量觀測技術，依垂直風速正負分別累積上升與下沉氣流中的標量濃度樣本，並放寬零垂直風速門檻以利取樣，用於估算痕量氣體或粒子在地表與大氣間的垂直通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/relaxed_eddy_accumulation"
   },
   {
     "english": "remote sensing",
-    "traditional_chinese": "遙感",
-    "definition_cht": "指與「遙感」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "遙測",
+    "definition_cht": "在不與目標直接接觸的情況下，利用衛星、航空器、雷達、光學或其他感測器接收其反射、放射或散射訊號，以獲取地表、大氣或海洋資訊的技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/remote_sensing"
   },
   {
     "english": "representative basin",
-    "traditional_chinese": "代表性盆地",
-    "definition_cht": "指與「代表性盆地」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "代表性流域",
+    "definition_cht": "在水文研究中選定、其地形、地質、土地利用與逕流特性可大致代表某一地區典型條件的流域，用於觀測、試驗、參數推估或模式驗證。",
     "source_url": "https://glossary.ametsoc.org/wiki/representative_basin"
   },
   {
     "english": "representative meteorological observation",
     "traditional_chinese": "代表性氣象觀測",
-    "definition_cht": "指與「代表性氣象觀測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "能合理反映較大範圍、特定下墊面或既定觀測層實際氣象狀態的觀測，而非受測站附近障礙物、局部熱源或短暫微尺度擾動明顯扭曲的量測結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/representative_meteorological_observation"
   },
   {
     "english": "representativeness",
     "traditional_chinese": "代表性",
-    "definition_cht": "指與「代表性」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指觀測、樣本、測站或模式網格結果在多大程度上能準確反映其欲描述之較大區域、特定時段或環境條件真實狀態的性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/representativeness"
   },
   {
     "english": "Research to Operations",
-    "traditional_chinese": "研究到運營",
-    "definition_cht": "指「研究到運營」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "traditional_chinese": "研究轉作業",
+    "definition_cht": "將研究成果、方法、資料產品或原型系統轉化為可在業務單位穩定運作之作業流程、預報工具或決策支援系統的過程，常縮寫為 R2O。",
     "source_url": "https://glossary.ametsoc.org/wiki/Research_to_Operations"
   },
   {
     "english": "réseau",
-    "traditional_chinese": "網格",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "traditional_chinese": "參考格網",
+    "definition_cht": "攝影底片、感測影像或光學系統中預先標示的細小格線、十字記號或基準點陣列，用作幾何校正、定位、量測與像片判讀的參考。",
     "source_url": "https://glossary.ametsoc.org/wiki/r%C3%A9seau"
   },
   {
     "english": "reservoir",
     "traditional_chinese": "水庫",
-    "definition_cht": "指與「水庫」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "由天然窪地或人工壩體形成、用以蓄存水量的水體或設施，可供供水、灌溉、防洪、發電、調節河川流量與乾旱期間備援使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/reservoir"
   },
   {
     "english": "reservoir compounds",
     "traditional_chinese": "儲庫化合物",
-    "definition_cht": "指與「儲庫化合物」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在大氣化學中指可暫時封存活性自由基或反應性氮、氯、溴等元素的較穩定化合物；其生成與分解會調節光化學反應速率，以及臭氧的生成、傳輸或耗損。",
     "source_url": "https://glossary.ametsoc.org/wiki/reservoir_compounds"
   },
   {
     "english": "reshabar",
-    "traditional_chinese": "雷沙巴爾",
-    "definition_cht": "指與「雷沙巴爾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "雷沙巴風",
+    "definition_cht": "伊朗一帶的地方風名，亦作 rushabar，字面意為「黑風」；指沿山地下吹的強烈、乾燥且常伴隨明顯湍流的焚風型或 bora 型風，夏季偏熱、冬季偏冷。",
     "source_url": "https://glossary.ametsoc.org/wiki/reshabar"
   },
   {
     "english": "residence time",
     "traditional_chinese": "停留時間",
-    "definition_cht": "指與「停留時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "某物質、粒子、水體或氣團在特定系統、區域或儲庫中平均停留的時間尺度，通常可由庫存量除以流出率估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/residence_time"
   },
   {
     "english": "residual",
     "traditional_chinese": "殘差",
-    "definition_cht": "指與「殘差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "觀測值與理論值、估計值或擬合值之差，用於表示模型未解釋部分或量測偏離程度；在統計、資料同化與預報驗證中廣泛使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/residual"
   },
   {
     "english": "residual depression storage",
-    "traditional_chinese": "殘餘憂鬱儲存",
-    "definition_cht": "指與「殘餘憂鬱儲存」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "殘餘窪地蓄水量",
+    "definition_cht": "地表逕流開始後仍滯留於微地形凹窪中的那部分蓄水量，不再參與自由流動；其大小會影響初期入滲、地表逕流與蒸發損失估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/residual_depression_storage"
   },
   {
     "english": "residual layer",
     "traditional_chinese": "殘留層",
-    "definition_cht": "指大氣、海洋、土壤、冰雪或介質中的層狀結構與其物理性質。",
+    "definition_cht": "日間對流混合層在日落後因地表冷卻而與近地面穩定層分離，殘留於其上的較均勻空氣層；其中常保留白天混合作用形成的熱量、動量與污染物分布特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/residual_layer"
   },
   {
