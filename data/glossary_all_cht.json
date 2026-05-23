@@ -42410,121 +42410,121 @@
   {
     "english": "reversible moist-adiabatic process",
     "traditional_chinese": "可逆濕絕熱過程",
-    "definition_cht": "指與「可逆濕絕熱過程」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指濕空氣團在與外界不交換熱量且整體水成分保留於氣團內的理想絕熱過程；過程中凝結或蒸發所造成的相變熱效應皆納入系統內部，常用來描述飽和空氣團可逆上升或下降時的熱力變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/reversible_moist-adiabatic_process"
   },
   {
     "english": "reversible process",
     "traditional_chinese": "可逆過程",
-    "definition_cht": "指與「可逆過程」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "熱力學中的理想化過程，指系統與環境皆可經由無限小變化完全回復原狀，且整個宇宙（系統加環境）在過程中不產生淨熵增；實際自然過程通常只能近似而非真正完全可逆。",
     "source_url": "https://glossary.ametsoc.org/wiki/reversible_process"
   },
   {
     "english": "reversing current",
-    "traditional_chinese": "反向電流",
-    "definition_cht": "指與「反向電流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "往復流",
+    "definition_cht": "指流向會隨時間週期性反轉的水流，最常見於潮流環境，於漲潮與退潮之間改變方向；其特色在於沿近似固定軸線來回流動，而非持續沿單一方向前進。",
     "source_url": "https://glossary.ametsoc.org/wiki/reversing_current"
   },
   {
     "english": "reversing thermometer",
-    "traditional_chinese": "可逆溫度計",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
+    "traditional_chinese": "翻轉溫度計",
+    "definition_cht": "海洋觀測中使用的溫度計，通常與採水器或 Nansen 瓶配合，下放至指定深度後經翻轉使液柱在當下位置被截留，以保存該深度的溫度讀值；早期亦常配合壓力修正推估水深。",
     "source_url": "https://glossary.ametsoc.org/wiki/reversing_thermometer"
   },
   {
     "english": "revised local reference",
-    "traditional_chinese": "修訂後的本地參考",
-    "definition_cht": "指與「修訂後的本地參考」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "修訂地方基準",
+    "definition_cht": "Permanent Service for Mean Sea Level（PSMSL）資料系統所用的基準概念，指經基準點歷史與測站水準聯繫整理後建立的地方高程基準，用以使同一測站不同時期的平均海平面紀錄能在一致基準上比較。",
     "source_url": "https://glossary.ametsoc.org/wiki/revised_local_reference"
   },
   {
     "english": "revolving storm",
     "traditional_chinese": "旋轉風暴",
-    "definition_cht": "指與「旋轉風暴」相關的風暴系統、劇烈天氣現象或其演變特徵。",
+    "definition_cht": "歷史氣象文獻中的舊稱，指環繞低壓中心旋轉的風暴系統，意義大致相當於旋風性風暴、颶風或熱帶氣旋等具明顯環流結構的風暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/revolving_storm"
   },
   {
     "english": "Reynolds averaging",
     "traditional_chinese": "雷諾平均",
-    "definition_cht": "指與「雷諾平均」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "亂流分析中的平均方法，先將瞬時變數分解為平均量與脈動量，再對控制方程作平均，以得到描述平均流場的方程；此程序是建立雷諾平均納維－史托克斯方程的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Reynolds_averaging"
   },
   {
     "english": "Reynolds effect",
     "traditional_chinese": "雷諾效應",
-    "definition_cht": "指與「雷諾效應」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "通常指 Workman–Reynolds effect，即稀薄水溶液或含雜質水體在凍結時，冰與剩餘液相之間產生電位差與電荷分離的現象；此機制常被引用於雲與雷暴起電研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Reynolds_effect"
   },
   {
     "english": "Reynolds number",
     "traditional_chinese": "雷諾數",
-    "definition_cht": "指與「雷諾數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "流體力學中的無因次數，表示流動中慣性力相對於黏滯力的重要程度；其值常用於判斷流場較傾向層流或亂流，並比較不同尺度或不同流體條件下的動力相似性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Reynolds_number"
   },
   {
     "english": "Reynolds stresses",
-    "traditional_chinese": "雷諾強調",
-    "definition_cht": "指流體、固體或界面所受之應力、剪應力或力學作用量。",
+    "traditional_chinese": "雷諾應力",
+    "definition_cht": "在亂流平均方程中，由速度脈動協方差所形成的表觀應力項，代表亂流渦動對平均動量的輸送作用；其物理意義並非分子黏滯所致，而是湍流脈動造成的動量交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/Reynolds_stresses"
   },
   {
     "english": "RF",
-    "traditional_chinese": "射頻",
-    "definition_cht": "「RF」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "射頻（RF）",
+    "definition_cht": "radio frequency 的縮寫，指可用於無線電、雷達與遙測系統的射頻電磁波頻帶或其相關電路訊號；在氣象儀器中常用以描述發射、接收、調變與訊號處理鏈中的射頻部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/RF"
   },
   {
     "english": "RF signal",
     "traditional_chinese": "射頻訊號",
-    "definition_cht": "指與「射頻訊號」相關的訊號特徵、波形、傳輸或分析結果。",
+    "definition_cht": "位於射頻頻帶的電磁或電路訊號，可作為雷達、遙測、通訊或遙控系統中的載波或量測訊號；在氣象應用中常見於雷達發射、回波接收與相關訊號處理流程。",
     "source_url": "https://glossary.ametsoc.org/wiki/RF_signal"
   },
   {
     "english": "RHI",
-    "traditional_chinese": "RHI",
-    "definition_cht": "「RHI」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "距離－高度指示器（RHI）",
+    "definition_cht": "range–height indicator 的縮寫，為雷達顯示或掃描方式之一：天線固定於某一方位角並改變仰角掃描，以距離為水平軸、高度為垂直軸，呈現該方位上的回波垂直剖面。",
     "source_url": "https://glossary.ametsoc.org/wiki/RHI"
   },
   {
     "english": "rhumb-line course",
     "traditional_chinese": "恆向線航向",
-    "definition_cht": "指與「恆向線航向」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "沿恆向線（loxodrome）前進的航向或航路，特色是在地圖與地球表面上以固定方位角連續穿越各經線；亦即航行時保持相對真北的定向不變，但通常不是兩地之間最短路徑。",
     "source_url": "https://glossary.ametsoc.org/wiki/rhumb-line_course"
   },
   {
     "english": "ribbon lightning",
     "traditional_chinese": "帶狀閃電",
-    "definition_cht": "指與「帶狀閃電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "一種視覺上呈帶狀或多重平行痕跡的閃電外觀，通常是同一放電通道在連續回擊之間受強風位移，致使各次發光影像略為錯開所形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/ribbon_lightning"
   },
   {
     "english": "ribut",
-    "traditional_chinese": "肋布特",
-    "definition_cht": "指與「肋布特」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "里布特",
+    "definition_cht": "源自馬來語／印尼語的氣象用語，泛指暴風、風暴、狂風或伴隨劇烈天氣的強陣風事件；在東南亞語境中可用於描述強對流或熱帶天氣所致的惡劣風暴現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/ribut"
   },
   {
     "english": "Richardson number",
     "traditional_chinese": "理查森數",
-    "definition_cht": "指與「理查森數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "描述浮力穩定效應相對於速度垂直切變作用強弱的無因次數，常用於邊界層與亂流研究，以判斷層結穩定度以及剪切是否足以克服穩定層結而產生混合。",
     "source_url": "https://glossary.ametsoc.org/wiki/Richardson_number"
   },
   {
     "english": "ridge",
-    "traditional_chinese": "嶺",
-    "definition_cht": "指與「嶺」相關的高壓脊、波脊或地形脊狀結構，常用於描述場型延伸與分布。",
+    "traditional_chinese": "脊",
+    "definition_cht": "氣象上指由高壓區向外延伸的狹長高壓帶或位勢高度較高的脊狀區域，常伴隨較大尺度的反氣旋性曲率與下沉穩定條件；在天氣圖分析中與槽相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/ridge"
   },
   {
     "english": "ridge line",
-    "traditional_chinese": "山脊線",
-    "definition_cht": "指與「山脊線」相關的高壓脊、波脊或地形脊狀結構，常用於描述場型延伸與分布。",
+    "traditional_chinese": "脊線",
+    "definition_cht": "指脊的軸線或最高延伸線；在天氣分析中多指高壓脊或位勢高度脊的中心軸，在地形語境中則可指山脊線，實際意義須依上下文判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/ridge_line"
   },
   {
     "english": "riefne",
     "traditional_chinese": "里夫訥",
-    "definition_cht": "指與「里夫訥」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "本詞於目前可取得的公開來源中缺乏足夠且一致的權威對照資料，雖原始詞表保留此條目，但其確切專業意義仍需回到原始來源頁面或歷史語境進一步確認；本次先保留音譯並避免臆測。",
     "source_url": "https://glossary.ametsoc.org/wiki/riefne"
   },
   {
