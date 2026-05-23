@@ -2252,121 +2252,121 @@
   {
     "english": "resultant wind",
     "traditional_chinese": "合成風",
-    "definition_cht": "指與「合成風」相關的風場、局地風、環流或風速風向特徵。",
+    "definition_cht": "由兩個或以上風向量依向量合成所得之風，表示各風場共同作用後的總風速與總風向。",
     "source_url": "https://glossary.ametsoc.org/wiki/resultant_wind"
   },
   {
     "english": "retarded flow",
-    "traditional_chinese": "延遲串流",
-    "definition_cht": "指與「延遲串流」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "滯緩流",
+    "definition_cht": "因摩擦、地形障礙、黏滯作用或逆壓力梯度而使流速減慢的流動；常用於描述受阻或延滯的氣流與水流。",
     "source_url": "https://glossary.ametsoc.org/wiki/retarded_flow"
   },
   {
     "english": "retarding basin",
-    "traditional_chinese": "緩緩凝池",
-    "definition_cht": "指與「緩緩凝池」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "滯洪池",
+    "definition_cht": "為降低洪峰流量而暫時蓄存逕流，並於洪峰過後再以受控方式排放的人工或天然蓄水設施；亦稱 detention basin。",
     "source_url": "https://glossary.ametsoc.org/wiki/retarding_basin"
   },
   {
     "english": "retention curve",
-    "traditional_chinese": "保留曲線",
-    "definition_cht": "指與「保留曲線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "持水曲線",
+    "definition_cht": "表示土壤含水量與基質勢（或吸力、壓力水頭）之間關係的曲線，用以描述土壤保水能力與排水特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/retention_curve"
   },
   {
     "english": "retention storage",
-    "traditional_chinese": "保留儲存",
-    "definition_cht": "指與「保留儲存」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "滯蓄量",
+    "definition_cht": "降水或逕流在地表窪地、植被、土壤表層或人工設施中被暫時留存的水量；此部分水量不會立即形成直接逕流。",
     "source_url": "https://glossary.ametsoc.org/wiki/retention_storage"
   },
   {
     "english": "retreater",
-    "traditional_chinese": "撤退者",
-    "definition_cht": "指與「撤退者」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "退縮冰河",
+    "definition_cht": "指冰河前緣因消融量大於補給量而整體後退的冰河；亦可泛指正處於退縮狀態的冰川。",
     "source_url": "https://glossary.ametsoc.org/wiki/retreater"
   },
   {
     "english": "retrograde depression",
-    "traditional_chinese": "逆行性憂鬱症",
-    "definition_cht": "指與「逆行性憂鬱症」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "逆行低壓",
+    "definition_cht": "移動方向與該緯度帶常見天氣系統路徑相反的低壓或低壓擾動；在天氣學中常指向西或向後退行的低壓系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/retrograde_depression"
   },
   {
     "english": "retrograde wave",
     "traditional_chinese": "逆行波",
-    "definition_cht": "指與「逆行波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "相位或波動能量向與一般主導流向相反方向傳播的波；在大氣與海洋中常指向西傳播的行星波或擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/retrograde_wave"
   },
   {
     "english": "retrogression",
-    "traditional_chinese": "倒退",
-    "definition_cht": "指與「倒退」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "逆行",
+    "definition_cht": "天氣系統、波動或環流型態在時間演變上向與其通常移動方向相反的一側後退或西移的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/retrogression"
   },
   {
     "english": "retroreflection",
-    "traditional_chinese": "逆反射",
-    "definition_cht": "指與「逆反射」相關的反射作用、反照特性或回波訊號，用於輻射、遙測或波動傳播分析。",
+    "traditional_chinese": "逆向反射",
+    "definition_cht": "入射輻射或光線經反射後，沿近乎原入射方向返回來源方向的反射現象，常見於光學量測與遙測校準。",
     "source_url": "https://glossary.ametsoc.org/wiki/retroreflection"
   },
   {
     "english": "retroreflector",
-    "traditional_chinese": "後向反射器",
-    "definition_cht": "指與「後向反射器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "逆向反射器",
+    "definition_cht": "能將入射光或其他輻射有效反射回其來源方向的裝置或表面，用於光學、雷射測距與遙測標定。",
     "source_url": "https://glossary.ametsoc.org/wiki/retroreflector"
   },
   {
     "english": "return flow",
     "traditional_chinese": "回流",
-    "definition_cht": "指與「回流」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "流體在主流之外再返回原區域或反向補償的流動；在氣象上常指暖濕空氣繞經高壓後再回返至某區的低層氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/return_flow"
   },
   {
     "english": "return period",
-    "traditional_chinese": "回報期間",
-    "definition_cht": "指與「回報期間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "重現期",
+    "definition_cht": "某一指定強度事件平均再次發生所需的統計時間間隔，常用於降雨、洪水、強風等極端事件頻率分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/return_period"
   },
   {
     "english": "return stroke",
-    "traditional_chinese": "回程",
-    "definition_cht": "指與「回程」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "回擊",
+    "definition_cht": "閃電放電過程中，當先導與地面或另一電荷區接通後，強電流沿既有通道快速回傳所形成的明亮主放電階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/return_stroke"
   },
   {
     "english": "returning polar maritime air",
-    "traditional_chinese": "返回極地海洋空氣",
-    "definition_cht": "指與「返回極地海洋空氣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "回返型極地海洋氣團",
+    "definition_cht": "原屬極地海洋氣團的空氣在離開源地後繞經較低緯海域，再回返影響原區或鄰近地區的氣團；回返途中常增暖增濕。",
     "source_url": "https://glossary.ametsoc.org/wiki/returning_polar_maritime_air"
   },
   {
     "english": "reversal of the monsoon",
-    "traditional_chinese": "季風逆轉",
-    "definition_cht": "指與「季風逆轉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "季風反轉",
+    "definition_cht": "隨季節演變，盛行風向由一個主導方向轉為近乎相反方向的季風轉換現象，通常伴隨降水區與環流配置明顯改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/reversal_of_the_monsoon"
   },
   {
     "english": "reversal temperature",
-    "traditional_chinese": "反轉溫度",
-    "definition_cht": "指與「反轉溫度」相關的溫度量、溫度場或熱狀態特徵。",
+    "traditional_chinese": "轉折溫度",
+    "definition_cht": "某物理過程、反應或性質在此溫度附近發生方向轉變或符號反轉的特徵溫度；其具體意義依應用領域而定。",
     "source_url": "https://glossary.ametsoc.org/wiki/reversal_temperature"
   },
   {
     "english": "reverse cell",
-    "traditional_chinese": "反向單元",
-    "definition_cht": "指與「反向單元」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "反向環流胞",
+    "definition_cht": "旋轉方向或垂直環流配置與一般典型型態相反的環流單元，可用於描述局地或大尺度大氣環流中的反向胞狀結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/reverse_cell"
   },
   {
     "english": "reverse flow thermometer housing",
-    "traditional_chinese": "逆流溫度計外殼",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
+    "traditional_chinese": "逆流式溫度計護套",
+    "definition_cht": "供溫度計裝設使用的保護外殼，其設計使流體以相對特定方向通過感測部位，以減少量測誤差並改善觀測穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/reverse_flow_thermometer_housing"
   },
   {
     "english": "reverse-oriented monsoon trough",
-    "traditional_chinese": "反向季風槽",
-    "definition_cht": "指與槽線、低壓槽或波谷結構相關的天氣與流場特徵。",
+    "traditional_chinese": "反向取向季風槽",
+    "definition_cht": "軸向排列與該區域常見季風槽方向相反或顯著偏轉的季風低壓槽；其位置與走向改變常影響對流組織及熱帶擾動生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/reverse-oriented_monsoon_trough"
   },
   {
