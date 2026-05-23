@@ -2852,121 +2852,121 @@
   {
     "english": "rotating Reynolds number",
     "traditional_chinese": "旋轉雷諾數",
-    "definition_cht": "指與「旋轉雷諾數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "旋轉黏性流體問題中使用的無因次量，用以表示旋轉效應相對於黏滯效應的重要性；常寫為 Ωh²/ν 或 Ωr²/ν，並可用來判別流場穩定性及不同流動型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/rotating_Reynolds_number"
   },
   {
     "english": "rotational",
     "traditional_chinese": "旋轉的",
-    "definition_cht": "指與「旋轉的」相關的旋轉、轉動或渦旋運動特徵，可用於描述流體、地球或儀器系統之運動。",
+    "definition_cht": "形容具有繞某一軸轉動、角動量或渦度特徵的運動或流場；在氣象上常用來描述氣旋、渦流或其他伴隨旋轉成分的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/rotational"
   },
   {
     "english": "rotational instability",
     "traditional_chinese": "旋轉不穩定",
-    "definition_cht": "指與「旋轉不穩定」相關的旋轉、轉動或渦旋運動特徵，可用於描述流體、地球或儀器系統之運動。",
+    "definition_cht": "指旋轉流體系統中因角動量或力平衡配置不當而產生的不穩定現象；在氣象上通常近似或常作為慣性不穩定的同義用法。",
     "source_url": "https://glossary.ametsoc.org/wiki/rotational_instability"
   },
   {
     "english": "rotenturm wind",
-    "traditional_chinese": "旋轉風",
-    "definition_cht": "指與「旋轉風」相關的風場、局地風、環流或風速風向特徵。",
+    "traditional_chinese": "羅滕圖姆風",
+    "definition_cht": "吹經特蘭西瓦尼亞阿爾卑斯山羅滕圖姆山口的暖南風，屬受地形導引的地方風。",
     "source_url": "https://glossary.ametsoc.org/wiki/rotenturm_wind"
   },
   {
     "english": "Rotor",
-    "traditional_chinese": "轉子",
-    "definition_cht": "指與「轉子」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "轉子渦流",
+    "definition_cht": "山脈背風側山岳波下方形成的強烈水平軸渦旋或翻滾氣流，常伴隨顯著亂流，對航空飛行尤其危險。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rotor"
   },
   {
     "english": "Rotor cloud",
     "traditional_chinese": "轉子雲",
-    "definition_cht": "指與「轉子雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "definition_cht": "出現在大型山障背風側、與轉子渦流相關的湍流性雲體，常呈破碎的高積雲或翻滾雲狀，其雲內空氣繞與山脈近乎平行的水平軸旋轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/Rotor_cloud"
   },
   {
     "english": "rotoscope",
-    "traditional_chinese": "旋轉鏡",
-    "definition_cht": "指與「旋轉鏡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "轉描儀",
+    "definition_cht": "一種將影像逐格投映以供人工描摹、量測或判讀的裝置；在早期圖像分析與遙測／雲圖判讀作業中，可用於追蹤目標輪廓或運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/rotoscope"
   },
   {
     "english": "rotten ice",
-    "traditional_chinese": "爛冰",
-    "definition_cht": "指與「爛冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "腐冰",
+    "definition_cht": "已進入融化或崩解階段的冰體，常呈蜂巢狀結構，晶粒間結合鬆弱並夾有融水或海水，承載強度顯著降低。",
     "source_url": "https://glossary.ametsoc.org/wiki/rotten_ice"
   },
   {
     "english": "rough air",
-    "traditional_chinese": "惡劣的空氣",
-    "definition_cht": "指與「惡劣的空氣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "顛簸氣流",
+    "definition_cht": "航空用語，指飛行中遭遇的湍流或不規則氣流，使航空器產生明顯顛簸。",
     "source_url": "https://glossary.ametsoc.org/wiki/rough_air"
   },
   {
     "english": "roughness sublayer",
-    "traditional_chinese": "粗糙度子層",
-    "definition_cht": "指地表、介面或材質之粗糙程度，會影響阻力、湍流交換與流場結構。",
+    "traditional_chinese": "粗糙子層",
+    "definition_cht": "緊鄰粗糙地表上方、約延伸至粗糙元素高度 2 至 5 倍的大氣層；此層內流場受個別粗糙元素直接影響，呈明顯三維結構，通常不完全符合莫寧－歐布可夫相似理論。",
     "source_url": "https://glossary.ametsoc.org/wiki/roughness_sublayer"
   },
   {
     "english": "roundoff error",
     "traditional_chinese": "捨入誤差",
-    "definition_cht": "指與「捨入誤差」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "數值計算中，因電腦以有限精度表示與運算實數而產生的誤差；在數值天氣預報與其他模式計算中會隨運算累積。",
     "source_url": "https://glossary.ametsoc.org/wiki/roundoff_error"
   },
   {
     "english": "route component",
-    "traditional_chinese": "路線組件",
-    "definition_cht": "指與「路線組件」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "航路分量",
+    "definition_cht": "沿整段飛航航路、在指定飛行高度上預報風速於航線方向的平均分量；順航時為正值，逆航時為負值。",
     "source_url": "https://glossary.ametsoc.org/wiki/route_component"
   },
   {
     "english": "route cross section",
-    "traditional_chinese": "路線橫斷面",
-    "definition_cht": "指與「路線橫斷面」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "航路垂直剖面圖",
+    "definition_cht": "沿特定飛航航路製作的垂直大氣剖面圖，用以同時呈現該路線上的雲、風、溫度、結冰或其他氣象條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/route_cross_section"
   },
   {
     "english": "route forecast",
-    "traditional_chinese": "路線預測",
-    "definition_cht": "指與「路線預測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "航路預報",
+    "definition_cht": "針對預定飛航路線所作的氣象預報，說明飛行途中可能遭遇的風、雲、能見度、亂流、結冰及其他天氣條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/route_forecast"
   },
   {
     "english": "rubber ice",
-    "traditional_chinese": "橡膠冰",
-    "definition_cht": "指與「橡膠冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "橡皮冰",
+    "definition_cht": "新生成而質地柔弱、具有彈性的海冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/rubber_ice"
   },
   {
     "english": "rule",
     "traditional_chinese": "規則",
-    "definition_cht": "指與「規則」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在知識表達與專家系統中，指用來連結條件與結論的推論單元，常以「若……則……」形式表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/rule"
   },
   {
     "english": "rule-based system",
-    "traditional_chinese": "基於規則的系統",
-    "definition_cht": "指與「基於規則的系統」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "規則式系統",
+    "definition_cht": "以規則作為知識表達核心的知識型系統，透過推論機制套用既定規則以產生判斷、診斷或預報結果；亦可視為專家系統的一類。",
     "source_url": "https://glossary.ametsoc.org/wiki/rule-based_system"
   },
   {
     "english": "rules of inference",
-    "traditional_chinese": "推理規則",
-    "definition_cht": "指與「推理規則」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "推論規則",
+    "definition_cht": "由既有陳述或已證明命題導出新結論的邏輯規則，是多數專家系統推論引擎的基礎，例如肯定前件、否定後件與歸結法等。",
     "source_url": "https://glossary.ametsoc.org/wiki/rules_of_inference"
   },
   {
     "english": "runoff",
-    "traditional_chinese": "徑流",
-    "definition_cht": "指與「徑流」相關的地表逕流、流域集水或水文輸送過程。",
+    "traditional_chinese": "逕流",
+    "definition_cht": "降水、融雪或冰雪消融後，未滲入地下而沿地表或河道向下游匯流的水；亦可泛指流入溪流、湖泊或其他水體的流量。",
     "source_url": "https://glossary.ametsoc.org/wiki/runoff"
   },
   {
     "english": "runoff coefficient",
-    "traditional_chinese": "徑流係數",
-    "definition_cht": "指與「徑流係數」相關的地表逕流、流域集水或水文輸送過程。",
+    "traditional_chinese": "逕流係數",
+    "definition_cht": "表示某地區降水量中有多少比例轉為逕流的係數，為逕流量與所受降水量之比，常用於合理式等排水與集水估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/runoff_coefficient"
   },
   {
