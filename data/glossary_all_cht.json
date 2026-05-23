@@ -41450,121 +41450,121 @@
   {
     "english": "reaction kinetics",
     "traditional_chinese": "反應動力學",
-    "definition_cht": "指與「反應動力學」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "研究化學反應進行速率、控制機制及其與濃度、溫度、壓力、輻射與催化條件關係的學科；在大氣化學中常用以描述臭氧、自由基與污染物轉化過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/reaction_kinetics"
   },
   {
     "english": "reaction order",
-    "traditional_chinese": "反應順序",
-    "definition_cht": "指與「反應順序」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "反應級數",
+    "definition_cht": "在反應速率式中，各反應物濃度所帶指數及其總和，用以表示反應速率對濃度變化的敏感程度；可由實驗推定，未必等同於化學計量係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/reaction_order"
   },
   {
     "english": "reaction rate",
-    "traditional_chinese": "反應速度",
-    "definition_cht": "指與「反應速度」相關的變化率、速率或通量強度，用於量化單位時間內的增減情形。",
+    "traditional_chinese": "反應速率",
+    "definition_cht": "化學反應中反應物消耗或生成物形成的快慢，通常以單位時間內濃度變化量表示；在大氣化學中常用以量化氣體、氣膠與自由基反應效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/reaction_rate"
   },
   {
     "english": "real time",
-    "traditional_chinese": "即時的",
-    "definition_cht": "指與「即時的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "即時",
+    "definition_cht": "指資料在觀測、傳輸、處理或顯示上，能於事件發生後幾乎立即提供結果，延遲小到足以支援監測、預警、控制或作業決策。",
     "source_url": "https://glossary.ametsoc.org/wiki/real_time"
   },
   {
     "english": "real-time processing",
     "traditional_chinese": "即時處理",
-    "definition_cht": "指與「即時處理」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指資料在接收後立即或近乎同步完成品質控制、計算、分析與輸出，使結果可直接用於即時監測、預報、警報或系統控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/real-time_processing"
   },
   {
     "english": "real-time transmission",
     "traditional_chinese": "即時傳輸",
-    "definition_cht": "指與「即時傳輸」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指觀測或訊號資料在產生後以極短延遲持續送達接收端的傳輸方式，使下游系統能近乎同步地接收、處理與應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/real-time_transmission"
   },
   {
     "english": "reanalysis",
-    "traditional_chinese": "重新分析",
-    "definition_cht": "指與「重新分析」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "再分析",
+    "definition_cht": "利用固定版本的數值模式與資料同化系統，將歷史觀測資料重新整合為時空一致的大氣、海洋或陸面資料集；常用於氣候診斷、長期變化分析與模式驗證。",
     "source_url": "https://glossary.ametsoc.org/wiki/reanalysis"
   },
   {
     "english": "rear of a depression",
-    "traditional_chinese": "凹陷的後方",
-    "definition_cht": "指與「凹陷的後方」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "低氣壓後側",
+    "definition_cht": "指移動中低氣壓或氣旋中心後方的區域；其天氣常受冷空氣流入、槽後下沉或後側雲雨帶配置影響，與低壓前方的暖區條件不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/rear_of_a_depression"
   },
   {
     "english": "rear-inflow jet",
-    "traditional_chinese": "後流入噴射",
-    "definition_cht": "指與「後流入噴射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "後側流入噴流",
+    "definition_cht": "在弓形回波或中尺度對流系統中，自系統後方向前切入的中層強風氣流；可加強冷池、下沉氣流與地面直線強風，並影響對流系統演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/rear-inflow_jet"
   },
   {
     "english": "Reaumur temperature scale",
-    "traditional_chinese": "雷奧米爾溫標",
-    "definition_cht": "指與「雷奧米爾溫標」相關的溫度量、溫度場或熱狀態特徵。",
+    "traditional_chinese": "雷奧米溫標",
+    "definition_cht": "一種歷史上使用的溫標，以水的冰點為 0°Re、沸點為 80°Re；今多見於科學史或舊文獻換算，現代氣象實務已極少採用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Reaumur_temperature_scale"
   },
   {
     "english": "rebat",
-    "traditional_chinese": "回扣",
-    "definition_cht": "指與「回扣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "雷巴特風",
+    "definition_cht": "地方風名。指伊比利半島東部加泰隆尼亞語區文獻中所稱的一類局地風，通常與沿岸或山地受日夜熱力差及地形作用形成的區域性氣流有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/rebat"
   },
   {
     "english": "reboyo",
-    "traditional_chinese": "雷博約",
-    "definition_cht": "指與「雷博約」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "雷波約風",
+    "definition_cht": "地方風名。指西語文獻中記錄的一種區域性局地風；其用法多屬地方名稱，通常用於描述受地形與局地熱力條件影響的近地面風系。",
     "source_url": "https://glossary.ametsoc.org/wiki/reboyo"
   },
   {
     "english": "recco",
-    "traditional_chinese": "雷科",
-    "definition_cht": "指與「雷科」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "RECCO 搜救系統",
+    "definition_cht": "一種以反射器與探測器配合運作的搜救定位技術，常用於雪崩或山區失蹤人員搜索；可作為傳統搜救方法與雪崩收發器之外的輔助工具。",
     "source_url": "https://glossary.ametsoc.org/wiki/recco"
   },
   {
     "english": "RECCO code",
-    "traditional_chinese": "雷科代碼",
-    "definition_cht": "指與「雷科代碼」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "RECCO 代碼",
+    "definition_cht": "指與 RECCO 搜救系統相關的識別代碼或編碼標記，用於系統辨識、訊號標示或相關裝備管理的語境。",
     "source_url": "https://glossary.ametsoc.org/wiki/RECCO_code"
   },
   {
     "english": "received power",
     "traditional_chinese": "接收功率",
-    "definition_cht": "指與「接收功率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "接收器於輸入端或檢波前實際收到的電磁訊號功率；在雷達、遙測與通訊中常用以表示回波或傳輸訊號強度，並受距離、散射、衰減與天線增益影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/received_power"
   },
   {
     "english": "receiver",
-    "traditional_chinese": "接收者",
-    "definition_cht": "指與「接收者」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "接收器",
+    "definition_cht": "用以接收並轉換電磁或無線電訊號的設備部分，通常包含前端放大、濾波、混頻、檢波與訊號處理單元；常見於雷達、無線電探空與遙測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/receiver"
   },
   {
     "english": "receiver (noise) temperature",
-    "traditional_chinese": "接收器（雜訊）溫度",
-    "definition_cht": "指與「接收器（雜訊）溫度」相關的溫度量、溫度場或熱狀態特徵。",
+    "traditional_chinese": "接收器雜訊溫度",
+    "definition_cht": "以等效溫度表示接收器內部雜訊大小的量，用來描述接收系統自身對訊號量測所引入的雜訊貢獻；數值愈低，表示系統靈敏度通常愈高。",
     "source_url": "https://glossary.ametsoc.org/wiki/receiver_(noise)_temperature"
   },
   {
     "english": "receiver gain",
     "traditional_chinese": "接收器增益",
-    "definition_cht": "指與「接收器增益」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "接收器對輸入訊號進行放大後所增加的功率、電壓或電流比例，通常以分貝表示；其大小會影響弱訊號可偵測性與整體接收靈敏度。",
     "source_url": "https://glossary.ametsoc.org/wiki/receiver_gain"
   },
   {
     "english": "recession",
-    "traditional_chinese": "經濟衰退",
-    "definition_cht": "指與「經濟衰退」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "退水期",
+    "definition_cht": "在水文學中指降雨、融雪或洪峰過後，河川流量、水位或逕流量逐漸下降的時段；其變化常反映流域滯蓄、水庫調節與地下水補給釋放特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/recession"
   },
   {
     "english": "recession curve",
-    "traditional_chinese": "衰退曲線",
-    "definition_cht": "指與「衰退曲線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "退水曲線",
+    "definition_cht": "描述河川、泉水或流域逕流在補注停止後隨時間逐漸衰減之流量或水位變化曲線；常用於分析基流退水、流域蓄水特性與地下水排泄行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/recession_curve"
   },
   {
