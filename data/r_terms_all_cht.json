@@ -1651,122 +1651,122 @@
   },
   {
     "english": "red flash",
-    "traditional_chinese": "紅色閃光",
-    "definition_cht": "指與「紅色閃光」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "紅閃",
+    "definition_cht": "日出或日落前後，太陽上緣短暫出現的紅色閃光現象，屬於綠閃光家族的罕見型態；通常與大氣折射、色散及低空強烈散射條件有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/red_flash"
   },
   {
     "english": "red noise",
     "traditional_chinese": "紅噪音",
-    "definition_cht": "指與「紅噪音」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "功率譜密度隨頻率升高而遞減、低頻變異較強的隨機訊號；常近似為功率譜與頻率平方成反比的布朗噪音，在氣候與水文時間序列中常用以描述具持續性的背景變動。",
     "source_url": "https://glossary.ametsoc.org/wiki/red_noise"
   },
   {
     "english": "Red Sea Water",
-    "traditional_chinese": "紅色海水",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "traditional_chinese": "紅海水",
+    "definition_cht": "源自紅海的高溫高鹽地中海型水團，形成後以較稀釋狀態向外海擴散，常在阿拉伯海約 600 至 800 公尺深處出現，於馬達加斯加以南可在更深層辨識。",
     "source_url": "https://glossary.ametsoc.org/wiki/Red_Sea_Water"
   },
   {
     "english": "red snow",
     "traditional_chinese": "紅雪",
-    "definition_cht": "指與「紅雪」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "雪面因雪藻等微小藻類增生，或混入紅色塵埃而呈現紅色的現象；在冰雪環境中亦常稱為西瓜雪。",
     "source_url": "https://glossary.ametsoc.org/wiki/red_snow"
   },
   {
     "english": "red tide",
     "traditional_chinese": "赤潮",
-    "definition_cht": "指與「赤潮」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "海水中某些藻類大量繁殖所形成的有害藻華現象，常使海面呈紅褐色或其他異色，並可能危害海洋生物及人體健康；其名稱雖含 tide，但本質上與天文潮汐無直接關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/red_tide"
   },
   {
     "english": "reduced gravity",
-    "traditional_chinese": "重力減小",
-    "definition_cht": "指與「重力減小」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "約化重力",
+    "definition_cht": "在兩種不同密度流體接觸時，用以表徵密度差所造成有效浮力作用的重力參數，常寫為 g′，廣用於內波、密度流與分層海洋或大氣的動力分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/reduced_gravity"
   },
   {
     "english": "reduced grid",
-    "traditional_chinese": "縮小網格",
-    "definition_cht": "指與「縮小網格」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "約化網格",
+    "definition_cht": "一種仍沿緯線與經線配置、但在高緯度移除部分格點以減少極區格點過度密集的網格配置，常見於全球數值天氣預報模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/reduced_grid"
   },
   {
     "english": "reduced pressure",
-    "traditional_chinese": "減壓",
-    "definition_cht": "指與「減壓」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "約化氣壓",
+    "definition_cht": "由測站氣壓或實際氣壓換算至平均海平面或其他指定基準面的氣壓值；業務上常指海平面氣壓，是不同海拔測站之間進行天氣分析的重要比較量。",
     "source_url": "https://glossary.ametsoc.org/wiki/reduced_pressure"
   },
   {
     "english": "reduction",
-    "traditional_chinese": "減少",
-    "definition_cht": "指與「減少」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "約化",
+    "definition_cht": "依理論或經驗關係，將某高度或某條件下的觀測值折算至另一指定基準面、標準高度或標準狀態的計算程序；常用於氣壓、氣溫等觀測量的標準化比較。",
     "source_url": "https://glossary.ametsoc.org/wiki/reduction"
   },
   {
     "english": "reduction of pressure to a standard level",
-    "traditional_chinese": "將壓力降低至標準水平",
-    "definition_cht": "指與「將壓力降低至標準水平」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "traditional_chinese": "氣壓約化至標準面",
+    "definition_cht": "根據兩高度間空氣柱重量的理論關係，將某一高度實測氣壓換算為標準面上的氣壓值之計算；海平面氣壓約算即屬其常見應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/reduction_of_pressure_to_a_standard_level"
   },
   {
     "english": "reduction of temperature to mean sea level",
-    "traditional_chinese": "溫度降低至平均海平面",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "traditional_chinese": "氣溫約化至平均海平面",
+    "definition_cht": "假設大氣具有平均垂直遞減率，將某一海拔高度觀測到的氣溫換算為平均海平面氣溫的計算，用於不同高度測站間的比較或氣候分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/reduction_of_temperature_to_mean_sea_level"
   },
   {
     "english": "Reech number",
-    "traditional_chinese": "里奇數",
-    "definition_cht": "指與「里奇數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "Reech數",
+    "definition_cht": "一種無因次數，為 Froude 數的倒數，可寫為 gL/M²，其中 g 為重力加速度、L 為特徵長度、M 為特徵速度；用於描述重力效應相對於慣性效應的重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Reech_number"
   },
   {
     "english": "reference crop evaporation",
     "traditional_chinese": "參考作物蒸發量",
-    "definition_cht": "指「參考作物蒸發量」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "definition_cht": "由一片連續、均一且充分供水的參考草地表面，在單位面積與單位時間內蒸發散失的水量；其標準假設通常包括草高約 0.12 公尺、反照率 0.23 與固定表面阻抗，常作為灌溉與農業水文估算基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/reference_crop_evaporation"
   },
   {
     "english": "reflectance",
     "traditional_chinese": "反射率",
-    "definition_cht": "指與「反射率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "物體表面將入射輻射反射出去的比例，通常以反射通量與入射通量之比表示；在遙測與輻射學中常依波長討論其光譜反射率。",
     "source_url": "https://glossary.ametsoc.org/wiki/reflectance"
   },
   {
     "english": "reflection",
     "traditional_chinese": "反射",
-    "definition_cht": "指與「反射」相關的反射作用、反照特性或回波訊號，用於輻射、遙測或波動傳播分析。",
+    "definition_cht": "波動或輻射到達介面後返回原介質或改變傳播方向的現象；可見於光學、聲學、電磁波及雷達訊號的傳播過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/reflection"
   },
   {
     "english": "reflection coefficient",
     "traditional_chinese": "反射係數",
-    "definition_cht": "指與「反射係數」相關的反射作用、反照特性或回波訊號，用於輻射、遙測或波動傳播分析。",
+    "definition_cht": "描述波在介面或阻抗不連續處被反射程度的係數；常定義為反射波振幅與入射波振幅之比，在光學中亦常稱為 Fresnel 係數。",
     "source_url": "https://glossary.ametsoc.org/wiki/reflection_coefficient"
   },
   {
     "english": "reflection rainbow",
-    "traditional_chinese": "反射彩虹",
-    "definition_cht": "指與「反射彩虹」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "反射虹",
+    "definition_cht": "由平靜水面先將陽光反射向上，再經空中水滴折射、內反射與色散所形成的彩虹；其幾何位置與一般彩虹不同，常與普通虹在地平附近相交。",
     "source_url": "https://glossary.ametsoc.org/wiki/reflection_rainbow"
   },
   {
     "english": "reflectivity",
     "traditional_chinese": "反射率",
-    "definition_cht": "指與「反射率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在雷達氣象中，指降水粒子或其他目標對雷達波的回波強度表徵，用以顯示觀測體積內目標的後向散射能力；業務產品中的 base reflectivity 即屬此類量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/reflectivity"
   },
   {
     "english": "reflectivity factor",
-    "traditional_chinese": "反射率係數",
-    "definition_cht": "指與「反射率係數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "雷達反射率因子",
+    "definition_cht": "表徵雷達解析體積內所有散射粒子總後向散射能力的量，通常以 Z 表示，與降水粒徑分布密切相關，是估算降水強度與辨識回波結構的重要雷達參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/reflectivity_factor"
   },
   {
     "english": "reflector",
-    "traditional_chinese": "反射鏡",
-    "definition_cht": "指與「反射鏡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "反射器",
+    "definition_cht": "無線電或雷達天線系統中，用以反射、聚焦並導引發射或接收電磁波束的組件，常為拋物面或其他特定曲面的導體結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/reflector"
   },
   {
