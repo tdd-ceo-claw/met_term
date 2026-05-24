@@ -2821,122 +2821,122 @@
   },
   {
     "english": "snow flurry",
-    "traditional_chinese": "雪花亂舞",
-    "definition_cht": "指與「雪花亂舞」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪陣",
+    "definition_cht": "短暫、輕微且常呈間歇性的降雪，通常持續時間不長，造成的積雪很少或幾乎不形成明顯積雪。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_flurry"
   },
   {
     "english": "snow forest climate",
     "traditional_chinese": "雪林氣候",
-    "definition_cht": "指與「雪林氣候」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "積雪氣候的一種類型，典型見於針葉林或寒帶森林區，積雪的累積、攔截、再分配與消融會明顯受森林冠層與林下環境影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_forest_climate"
   },
   {
     "english": "snow garland",
-    "traditional_chinese": "雪花環",
-    "definition_cht": "指與「雪花環」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪花簾",
+    "definition_cht": "受風或重力作用而附著於枝條、岩稜、柵欄等物體上的簾狀、環帶狀積雪形態，常見於強風搬運與反覆積雪環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_garland"
   },
   {
     "english": "snow gauge",
-    "traditional_chinese": "雪規",
-    "definition_cht": "指與「雪規」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪量計",
+    "definition_cht": "用於量測固態降水量或其液態當量的觀測儀器，常見作法為收集降雪後加以融化，再換算降雪水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_gauge"
   },
   {
     "english": "snow geyser",
-    "traditional_chinese": "雪間歇泉",
-    "definition_cht": "指與「雪間歇泉」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪間歇噴",
+    "definition_cht": "指積雪層受下方空氣、蒸氣、水流或氣體壓力推擠，經裂縫或孔洞向上噴出而呈噴泉狀的雪霧或雪粒現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_geyser"
   },
   {
     "english": "snow grains",
     "traditional_chinese": "雪粒",
-    "definition_cht": "很小、白而不透明的顆粒狀固態降水，落地時彈跳不明顯。",
+    "definition_cht": "直徑通常小於 1 毫米、白色且不透明的細小顆粒狀固態降水，外形多較扁或略為細長，落地時通常不會明顯反彈或破碎。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_grains"
   },
   {
     "english": "snow ice",
     "traditional_chinese": "雪冰",
-    "definition_cht": "指與「雪冰」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "積雪受重壓下沉至水面以下後，液態水滲入雪層並再凍結所形成的冰，常見於海冰、湖冰或冰棚表面。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_ice"
   },
   {
     "english": "snow line",
     "traditional_chinese": "雪線",
-    "definition_cht": "山區或地表上降雪與降雨、積雪與無雪區之分界高度或界線，受溫度、地形與降水條件影響。",
+    "definition_cht": "指山區或區域地表上積雪與無雪地表之分界線；在氣候學上亦可指多年平均的永久積雪下限高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_line"
   },
   {
     "english": "snow mat",
-    "traditional_chinese": "雪墊",
-    "definition_cht": "指與「雪墊」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪墊層",
+    "definition_cht": "貼近地表、經壓實而呈墊狀的積雪層，可覆蓋植被或地面微地形，並影響下伏地表的隔熱與融雪過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_mat"
   },
   {
     "english": "snow patch",
-    "traditional_chinese": "雪地",
-    "definition_cht": "指與「雪地」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "殘雪斑塊",
+    "definition_cht": "在局部地形凹地、背風坡或陰坡上較周圍季節性積雪維持更久的小面積積雪或粒雪殘留體。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_patch"
   },
   {
     "english": "snow pillow",
     "traditional_chinese": "雪枕",
-    "definition_cht": "以受壓變化推算積雪水當量的橡膠或金屬墊式觀測設備。",
+    "definition_cht": "以充液墊體承受積雪重量並換算雪水當量的自動化觀測設備，常用於雪文監測站與 SNOTEL 系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_pillow"
   },
   {
     "english": "snow roller",
-    "traditional_chinese": "雪地滾筒",
-    "definition_cht": "指與「雪地滾筒」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪滾",
+    "definition_cht": "在適當含水量與黏著性的積雪受強風吹送或沿坡面滾動時，自然捲成中空或層卷狀圓筒雪團的罕見現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_roller"
   },
   {
     "english": "snow sampler",
-    "traditional_chinese": "雪採樣器",
-    "definition_cht": "指與「雪採樣器」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪樣採集器",
+    "definition_cht": "用於採取柱狀雪樣並量測雪深、密度或雪水當量的管式觀測器具，代表性例子包括 Mount Rose 與 Federal snow sampler。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_sampler"
   },
   {
     "english": "snow shed",
-    "traditional_chinese": "雪棚",
-    "definition_cht": "指與「雪棚」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "防雪廊棚",
+    "definition_cht": "設於山區道路或鐵路上方的棚廊式防護結構，用以抵擋雪崩、落雪或滑雪衝擊，保障交通線通行安全。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_shed"
   },
   {
     "english": "snow shower",
     "traditional_chinese": "陣雪",
-    "definition_cht": "指與「陣雪」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "由對流性雲體降下、開始與結束都較突然且強度起伏明顯的降雪，常伴隨陣風與短時間能見度惡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_shower"
   },
   {
     "english": "snow stage",
-    "traditional_chinese": "雪舞台",
-    "definition_cht": "指與「雪舞台」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪位",
+    "definition_cht": "以積雪深度、雪水當量或雪蓄量所表徵的雪況等級或狀態，用於描述某地在特定時刻的積雪儲存情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_stage"
   },
   {
     "english": "snow stake",
-    "traditional_chinese": "雪樁",
-    "definition_cht": "指與「雪樁」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪尺樁",
+    "definition_cht": "插設於地面或冰雪表面的刻度樁，用於反覆讀取積雪深度、雪面升降或消融量的基準觀測設施。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_stake"
   },
   {
     "english": "snow survey",
     "traditional_chinese": "積雪調查",
-    "definition_cht": "量測積雪深度、密度與雪水當量等資料的野外調查作業。",
+    "definition_cht": "以固定樣線或測站量測雪深、密度與雪水當量，藉以估算流域積雪儲量及融雪逕流潛勢的野外調查作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_survey"
   },
   {
     "english": "snow trails",
-    "traditional_chinese": "雪道",
-    "definition_cht": "指與「雪道」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪痕",
+    "definition_cht": "指積雪表面因風、滑移、動物、人為活動或雪塊移動所留下的條帶狀痕跡，也可泛指雪面上的線狀蹤跡。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_trails"
   },
   {
     "english": "snow tremor",
     "traditional_chinese": "雪震",
-    "definition_cht": "指與「雪震」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "由積雪層快速沉降、破裂、滑動或雪崩活動所產生的微弱地震性振動，可由近地表地震儀或地聲儀記錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_tremor"
   },
   {
