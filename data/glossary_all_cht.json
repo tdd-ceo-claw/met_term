@@ -44083,122 +44083,122 @@
   },
   {
     "english": "secondary instrument",
-    "traditional_chinese": "二次儀表",
-    "definition_cht": "指與「二次儀表」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "二次儀器",
+    "definition_cht": "指其校準需藉由與絕對儀器或一級標準儀器比較而確定之觀測儀器，本身不直接提供基本物理量的絕對標準。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_instrument"
   },
   {
     "english": "secondary pollutants",
     "traditional_chinese": "二次污染物",
-    "definition_cht": "指與「二次污染物」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指未直接由污染源排放，而是由一次污染物在大氣中經光化學反應、氧化或其他化學轉化後生成的污染物，如臭氧與部分二次氣膠。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_pollutants"
   },
   {
     "english": "secondary rainbow",
-    "traditional_chinese": "二次彩虹",
-    "definition_cht": "指與「二次彩虹」相關的降雨、雨量、雨滴微物理或降水分析概念。",
+    "traditional_chinese": "副虹",
+    "definition_cht": "由雨滴內兩次內反射形成、位於主虹外側的彩虹；其色序與主虹相反，通常較暗，兩虹之間常見亞歷山大暗帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_rainbow"
   },
   {
     "english": "sector scan",
     "traditional_chinese": "扇形掃描",
-    "definition_cht": "指與「扇形掃描」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "雷達天線只在指定方位角範圍內往返掃描的作業方式，用於針對特定天區提高更新頻率或加強局部目標監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/sector_scan"
   },
   {
     "english": "sector wind",
-    "traditional_chinese": "扇形風",
-    "definition_cht": "指與「扇形風」相關的風場、局地風、環流或風速風向特徵。",
+    "traditional_chinese": "扇區風",
+    "definition_cht": "在某一風向扇區內出現或依風向分區統計的風，常用於機場、污染擴散或天氣分析中表示特定來向範圍的風況。",
     "source_url": "https://glossary.ametsoc.org/wiki/sector_wind"
   },
   {
     "english": "sectorized image",
-    "traditional_chinese": "扇形影像",
-    "definition_cht": "指與「扇形影像」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "扇區化影像",
+    "definition_cht": "將較大範圍影像依特定區域切分後所顯示或傳輸的影像產品；在衛星或雷達作業中，常指針對選定扇區生成的局部影像。",
     "source_url": "https://glossary.ametsoc.org/wiki/sectorized_image"
   },
   {
     "english": "secular variation",
     "traditional_chinese": "長期變化",
-    "definition_cht": "指與「長期變化」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指在多年至世紀尺度上緩慢而持續的變化；於地磁學中特指地球主磁場隨時間的緩慢改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/secular_variation"
   },
   {
     "english": "sediment",
-    "traditional_chinese": "沉澱",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "traditional_chinese": "沉積物",
+    "definition_cht": "由風、水、冰或重力搬運並堆積的礦物、有機質或岩屑顆粒總稱，可懸浮、推移或沉降於水體與地表環境中。",
     "source_url": "https://glossary.ametsoc.org/wiki/sediment"
   },
   {
     "english": "sediment concentration",
-    "traditional_chinese": "含砂濃度",
-    "definition_cht": "單位體積水體中所含沉積物的質量或體積濃度。",
+    "traditional_chinese": "含沙濃度",
+    "definition_cht": "單位體積水體中所含沉積物的質量或體積濃度，常用以表示河川或渠道中懸浮泥沙的多少。",
     "source_url": "https://glossary.ametsoc.org/wiki/sediment_concentration"
   },
   {
     "english": "sediment discharge rating",
-    "traditional_chinese": "泥沙排放等級",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "traditional_chinese": "輸沙率率定關係",
+    "definition_cht": "描述輸沙率與流量、水位或其他水力因子之經驗關係的率定曲線或公式，用於推估河川在不同流況下的輸沙量。",
     "source_url": "https://glossary.ametsoc.org/wiki/sediment_discharge_rating"
   },
   {
     "english": "sediment grading",
-    "traditional_chinese": "沉積物分級",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "traditional_chinese": "沉積物級配",
+    "definition_cht": "指沉積物粒徑組成及其分布特性；亦可指沉積層中粒徑由粗至細或由細至粗的分選／層化變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/sediment_grading"
   },
   {
     "english": "sediment sampler",
-    "traditional_chinese": "沉積物取樣器",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "traditional_chinese": "採沙器",
+    "definition_cht": "用於採集河川、渠道、湖海或近床層沉積物樣本的儀器，可用於量測懸浮載與床載物質特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/sediment_sampler"
   },
   {
     "english": "sediment yield",
-    "traditional_chinese": "沉積物產量",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "traditional_chinese": "輸沙量產率",
+    "definition_cht": "指某流域在一定期間內輸出至出口斷面的沉積物總量，常以單位面積年輸沙量表示流域侵蝕與輸沙強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/sediment_yield"
   },
   {
     "english": "sediment-carrying capacity",
-    "traditional_chinese": "納沙能力",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "traditional_chinese": "挾沙能力",
+    "definition_cht": "水流在既定水力條件下所能搬運的最大泥沙量；超過此值易淤積，低於此值則可能持續沖刷河床。",
     "source_url": "https://glossary.ametsoc.org/wiki/sediment-carrying_capacity"
   },
   {
     "english": "sedimentation",
-    "traditional_chinese": "沉澱",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "traditional_chinese": "沉積作用",
+    "definition_cht": "顆粒物質在重力作用下自流體中沉降並逐漸堆積的過程，亦可泛指形成沉積層的整體作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/sedimentation"
   },
   {
     "english": "sedimentation diameter",
-    "traditional_chinese": "沉降直徑",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "traditional_chinese": "沉降當量直徑",
+    "definition_cht": "與某粒子具有相同沉降速度的球形粒徑，用以表徵非球形顆粒在流體中的沉降行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/sedimentation_diameter"
   },
   {
     "english": "sedimentology",
     "traditional_chinese": "沉積學",
-    "definition_cht": "指與沉積物、輸砂、搬運或沉積作用相關的地球科學與水文術語。",
+    "definition_cht": "研究沉積物的來源、搬運、沉積過程、組成、構造與沉積環境之地質學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/sedimentology"
   },
   {
     "english": "Seeability",
-    "traditional_chinese": "可視性",
-    "definition_cht": "指與「可視性」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "視寧度",
+    "definition_cht": "指大氣光學穩定程度對目標細節可辨識性的影響；常用於天文與望遠觀測，表示影像受大氣擾動模糊的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Seeability"
   },
   {
     "english": "seeder–feeder",
-    "traditional_chinese": "播種－餵養機制",
-    "definition_cht": "上層雲降下的降水粒子穿過下層地形雲時，藉碰併與凝結成長而增強降水的機制。",
+    "traditional_chinese": "播種－增補機制",
+    "definition_cht": "上層雲降下的降水粒子穿過下層地形雲或層雲時，藉碰併、凝結或凝華而進一步成長，致使地面降水增強的機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/seeder%E2%80%93feeder"
   },
   {
     "english": "seeding agent",
-    "traditional_chinese": "播種劑",
-    "definition_cht": "指與「播種劑」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "人工增雨催化劑",
+    "definition_cht": "用於雲霧播種作業、促進冰晶或雲滴形成與成長的物質，如碘化銀、乾冰或吸濕性鹽粒。",
     "source_url": "https://glossary.ametsoc.org/wiki/seeding_agent"
   },
   {
