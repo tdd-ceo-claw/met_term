@@ -44690,121 +44690,121 @@
   {
     "english": "shear wave",
     "traditional_chinese": "剪切波",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "definition_cht": "由介質剪切變形所傳播的橫波，質點振動方向與波的前進方向大致垂直；固體可傳遞此類波動，流體通常無法承受純剪切波。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear_wave"
   },
   {
     "english": "shear–gravity wave",
     "traditional_chinese": "剪切重力波",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "definition_cht": "在具有速度剪切的分層流體中傳播的重力波，其相速、振幅與傳播條件同時受浮力恢復力與背景流場剪切影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear%E2%80%93gravity_wave"
   },
   {
     "english": "shearing instability",
-    "traditional_chinese": "剪切不穩定性",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "traditional_chinese": "剪切不穩定",
+    "definition_cht": "由速度剪切所引發的流體動力不穩定，當相鄰流層速度差足夠大時，擾動可迅速增長並形成混合、波狀結構或湍流。",
     "source_url": "https://glossary.ametsoc.org/wiki/shearing_instability"
   },
   {
     "english": "shearing stress",
     "traditional_chinese": "剪應力",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "definition_cht": "作用於某一面且平行於該面的應力分量，表示單位面積所受的切向力；在大氣與海洋中常用以描述風、流體與邊界面間的動量傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/shearing_stress"
   },
   {
     "english": "sheet erosion",
-    "traditional_chinese": "板材侵蝕",
-    "definition_cht": "指與「板材侵蝕」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "面蝕",
+    "definition_cht": "雨滴擊濺使土粒鬆動後，再由薄層片流沿坡面近乎均勻地搬運與剝除表土的侵蝕作用；尚未集中成細溝或沖溝時常稱為面蝕。",
     "source_url": "https://glossary.ametsoc.org/wiki/sheet_erosion"
   },
   {
     "english": "sheet frost",
     "traditional_chinese": "片狀霜",
-    "definition_cht": "指與「片狀霜」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在低於冰點的地表或物體表面形成之薄而連續的霜層，外觀常呈片狀覆蓋，通常由水汽直接凝華而成。",
     "source_url": "https://glossary.ametsoc.org/wiki/sheet_frost"
   },
   {
     "english": "sheet ice",
-    "traditional_chinese": "片冰",
-    "definition_cht": "指與「片冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "片狀冰",
+    "definition_cht": "呈薄片或平板狀廣布於地表、水面或物體表面的冰層；著重其平展成片的形態，而非大陸規模之冰蓋。",
     "source_url": "https://glossary.ametsoc.org/wiki/sheet_ice"
   },
   {
     "english": "sheet lightning",
     "traditional_chinese": "片狀閃電",
-    "definition_cht": "指與「片狀閃電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "遠處閃電的放電通道未直接可見，但雲體被照亮而呈現大片閃光的現象；本質上多為雲內或雲間閃電所造成的漫射亮光。",
     "source_url": "https://glossary.ametsoc.org/wiki/sheet_lightning"
   },
   {
     "english": "shelf cloud",
-    "traditional_chinese": "弧狀層架雲",
-    "definition_cht": "附著於雷暴冷出流前緣、外觀似棚架向前伸展的低雲。",
+    "traditional_chinese": "層架雲",
+    "definition_cht": "附著於對流雲前緣、沿陣風鋒伸展的低層楔狀弧狀雲，通常由雷暴下沉冷出流抬升前方暖濕空氣所形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/shelf_cloud"
   },
   {
     "english": "shelf waves",
     "traditional_chinese": "陸棚波",
-    "definition_cht": "沿大陸棚傳播並受地形約束的長波。",
+    "definition_cht": "受大陸棚地形與地球自轉約束、沿陸棚邊緣傳播的長波，常與海面高度、沿岸流速及風暴或潮汐強迫有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/shelf_waves"
   },
   {
     "english": "shell ice",
-    "traditional_chinese": "貝殼冰",
-    "definition_cht": "指與「貝殼冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "殼冰",
+    "definition_cht": "原先形成於水面、其後因水位下降或水體退去而下方懸空、僅剩上部冰殼的冰體；亦稱 cat ice。",
     "source_url": "https://glossary.ametsoc.org/wiki/shell_ice"
   },
   {
     "english": "shelterbelt",
-    "traditional_chinese": "防護林",
-    "definition_cht": "指與「防護林」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "防風林帶",
+    "definition_cht": "由一列或多列樹木、灌木所組成的帶狀植栽，用以削弱近地風速、保護農地並減少風蝕、飄雪與蒸散損失。",
     "source_url": "https://glossary.ametsoc.org/wiki/shelterbelt"
   },
   {
     "english": "sheltering coefficient",
     "traditional_chinese": "遮蔽係數",
-    "definition_cht": "指「遮蔽係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。",
+    "definition_cht": "在風浪生成理論中，用以表徵氣流受波峰遮蔽後於迎風面與背風面產生壓力差效應的經驗係數；常見於 Jeffreys 遮蔽機制相關公式。",
     "source_url": "https://glossary.ametsoc.org/wiki/sheltering_coefficient"
   },
   {
     "english": "sherki",
-    "traditional_chinese": "謝爾基",
-    "definition_cht": "指與「謝爾基」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "沙爾基風",
+    "definition_cht": "地方性風名，為吹襲埃及一帶的炎熱乾燥東南風或南風，常夾帶沙塵；通常視為 sharki 的另一拼法。",
     "source_url": "https://glossary.ametsoc.org/wiki/sherki"
   },
   {
     "english": "SHF",
     "traditional_chinese": "超高頻",
-    "definition_cht": "「SHF」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "definition_cht": "super high frequency 的縮寫，指約 3 至 30 GHz 的無線電頻段，屬微波範圍，常用於雷達、衛星通訊與各式點對點微波鏈路。",
     "source_url": "https://glossary.ametsoc.org/wiki/SHF"
   },
   {
     "english": "shield",
-    "traditional_chinese": "盾",
-    "definition_cht": "指與「盾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "雲盾",
+    "definition_cht": "在衛星雲圖或天氣分析中，指大範圍連續展布的雲區，常呈盾狀外觀；多用於描述成熟對流系統或廣泛降水區外圍的雲層覆蓋。",
     "source_url": "https://glossary.ametsoc.org/wiki/shield"
   },
   {
     "english": "shine",
-    "traditional_chinese": "閃耀",
-    "definition_cht": "指與「閃耀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "日照",
+    "definition_cht": "指太陽發光照射的狀態，或地表、雲體與水面受日光照亮而呈現明亮；在天氣敘述中常用來表示有陽光、天色晴朗。",
     "source_url": "https://glossary.ametsoc.org/wiki/shine"
   },
   {
     "english": "ship motion",
     "traditional_chinese": "船體運動",
-    "definition_cht": "船舶在波浪與風流作用下產生的橫搖、縱搖、升沉等運動。",
+    "definition_cht": "船舶受波浪、風與流作用所產生的六自由度運動，通常包括升沉、俯仰、橫搖、縱移、橫移與艏搖。",
     "source_url": "https://glossary.ametsoc.org/wiki/ship_motion"
   },
   {
     "english": "ship report",
-    "traditional_chinese": "船舶報告",
-    "definition_cht": "指與「船舶報告」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "船舶天氣報告",
+    "definition_cht": "由船舶依標準觀測與編碼格式回報的海上氣象觀測報告，內容可含風、壓、氣溫、雲、海況、浪高與位置等資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/ship_report"
   },
   {
     "english": "ship routing",
-    "traditional_chinese": "船舶定線",
-    "definition_cht": "依氣象與海象條件規劃最安全或最有效率航線的作業。",
+    "traditional_chinese": "船舶航路規劃",
+    "definition_cht": "根據天氣、海況、洋流與船舶性能等資訊，為船舶選擇較安全或較有效率航線的作業；在海氣應用上常特指 weather routing。",
     "source_url": "https://glossary.ametsoc.org/wiki/ship_routing"
   },
   {
