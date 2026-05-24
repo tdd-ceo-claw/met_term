@@ -2701,122 +2701,122 @@
   },
   {
     "english": "SNOTEL",
-    "traditional_chinese": "雪遙測站網",
-    "definition_cht": "snow telemetry 的縮寫，指美國 NRCS 建置的自動化高山雪況與相關氣候感測站網，用於量測雪水當量、降水、氣溫等資料，以支援水資源與洪水預報。",
+    "traditional_chinese": "雪文遙測站網",
+    "definition_cht": "snow telemetry 的縮寫，指美國自然資源保育署（NRCS）設置的自動化高山雪況與氣象觀測站網，主要量測雪水當量、累積降水、氣溫等資料，以支援融雪逕流、水資源與洪水預報。",
     "source_url": "https://en.wikipedia.org/wiki/Snotel"
   },
   {
     "english": "Snow",
     "traditional_chinese": "雪",
-    "definition_cht": "指與「雪」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "由雲中生成並降落至地面的固態降水，主要由冰晶組成，可單獨或聚合成雪片，為寒冷地區重要的水文與能量交換要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/Snow"
   },
   {
     "english": "snow accumulation",
-    "traditional_chinese": "積雪",
-    "definition_cht": "指與「積雪」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "積雪累積",
+    "definition_cht": "指在一定時間內降雪於地表累積後形成的雪量，可用深度或水當量表示，並受降雪、風移、壓實與融化影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_accumulation"
   },
   {
     "english": "snow banner",
-    "traditional_chinese": "雪旗",
-    "definition_cht": "指與「雪旗」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪旗雲",
+    "definition_cht": "強風吹越積雪覆蓋的山峰或稜線時，將雪粒捲起並在背風側形成旗狀飄帶的吹雪現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_banner"
   },
   {
     "english": "snow blindness",
     "traditional_chinese": "雪盲症",
-    "definition_cht": "指與「雪盲症」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "因積雪強烈反射紫外線而導致角膜表層發炎的急性光照傷害，常見於高山或冰雪地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_blindness"
   },
   {
     "english": "snow blink",
-    "traditional_chinese": "雪眨眼",
-    "definition_cht": "指與「雪眨眼」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪映光",
+    "definition_cht": "極地與高緯地區常見的光學現象，指遠方雪地或海冰將光反射至雲底，使其呈現明亮白色光暈，可作為前方有積雪或海冰的徵象。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_blink"
   },
   {
     "english": "snow board",
-    "traditional_chinese": "滑雪板",
-    "definition_cht": "指與「滑雪板」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "測雪板",
+    "definition_cht": "置於地面上的白色平板，用於量測新雪深度並減少地表植被、土壤熱通量與原有積雪粗糙度對觀測的干擾。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_board"
   },
   {
     "english": "snow cap",
-    "traditional_chinese": "雪帽",
-    "definition_cht": "指與「雪帽」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪冠",
+    "definition_cht": "覆蓋於山頂、火山頂部或高地上的常年或季節性積雪層，常用以泛指山峰頂端的白色雪被。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_cap"
   },
   {
     "english": "snow climate",
-    "traditional_chinese": "雪氣候",
-    "definition_cht": "指與「雪氣候」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "積雪氣候",
+    "definition_cht": "以降雪頻率、積雪持續時間、雪深、雪質與雪季長短等特徵所界定的氣候型態或雪況環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_climate"
   },
   {
     "english": "snow cloud",
-    "traditional_chinese": "雪雲",
-    "definition_cht": "指與「雪雲」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "降雪雲",
+    "definition_cht": "能產生降雪的雲，常見為層狀雲系如雨層雲，也可包括對流性雲體所產生的陣雪雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_cloud"
   },
   {
     "english": "snow concrete",
-    "traditional_chinese": "雪混凝土",
-    "definition_cht": "指與「雪混凝土」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪硬殼",
+    "definition_cht": "指經融化再凍結、雨淋後結冰或強力壓實而形成的高密度堅硬雪層，質地近似混凝土，行走與鏟除皆較困難。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_concrete"
   },
   {
     "english": "snow course",
-    "traditional_chinese": "雪場",
-    "definition_cht": "指與「雪場」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪線觀測樣帶",
+    "definition_cht": "於固定路線或樣帶上定期量測雪深與雪水當量的野外觀測路線，用於評估山區積雪儲量。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_course"
   },
   {
     "english": "snow cover",
-    "traditional_chinese": "積雪",
-    "definition_cht": "指與「積雪」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "積雪覆蓋",
+    "definition_cht": "指地表被雪覆蓋的狀態或範圍，可描述某地是否有雪，亦可表示區域性的積雪覆蓋面積。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_cover"
   },
   {
     "english": "snow crust",
     "traditional_chinese": "雪殼",
-    "definition_cht": "指與「雪殼」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "積雪表面因融凍、降雨結冰或風力壓實而形成的堅硬外層，會改變雪面反照率、承載力與雪崩穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_crust"
   },
   {
     "english": "snow crystal",
     "traditional_chinese": "雪晶",
-    "definition_cht": "指與「雪晶」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "在雲中由水汽直接凝華形成的單一冰晶，為雪花的基本結構單元，其形狀受溫度與過飽和度控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_crystal"
   },
   {
     "english": "snow day",
-    "traditional_chinese": "下雪天",
-    "definition_cht": "指與「下雪天」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "降雪日",
+    "definition_cht": "可指某日有降雪發生，或依觀測規範定義為達到可記錄降雪量的日數；實際判定門檻依資料集或業務規則而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_day"
   },
   {
     "english": "snow density",
     "traditional_chinese": "雪密度",
-    "definition_cht": "指與「雪密度」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "單位體積積雪所含的質量，通常以公斤每立方公尺表示，是估算雪水當量、承載力與融雪逕流的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_density"
   },
   {
     "english": "Snow drought",
     "traditional_chinese": "雪旱",
-    "definition_cht": "指與「雪旱」相關的降雪、積雪、雪晶微物理或雪文過程。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Snow_drought"
+    "definition_cht": "指雪季期間雪水當量或積雪量明顯低於常年，可能源於降水偏少、氣溫偏高使降水轉為雨，或兩者共同作用。",
+    "source_url": "https://en.wikipedia.org/wiki/Snow_drought"
   },
   {
     "english": "snow eater",
-    "traditional_chinese": "食雪者",
-    "definition_cht": "指與「食雪者」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "食雪風",
+    "definition_cht": "北美內陸常用俗稱，指溫暖乾燥的焚風型下坡風，能迅速促進積雪融化或昇華，使地表積雪明顯減少。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_eater"
   },
   {
     "english": "snow fence",
-    "traditional_chinese": "雪柵欄",
-    "definition_cht": "指與「雪柵欄」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "擋雪柵",
+    "definition_cht": "設置於道路、鐵路或開闊地的柵欄，用以改變近地風場、攔截吹雪並控制積雪堆積位置，降低雪堆阻塞風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow_fence"
   },
   {
