@@ -44930,122 +44930,122 @@
   {
     "english": "sideband",
     "traditional_chinese": "旁帶",
-    "definition_cht": "調變訊號在載波頻率兩側產生的附加頻帶。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sideband"
+    "definition_cht": "調變過程在載波頻率上、下兩側產生的附加頻帶，承載原始訊息內容；上方稱上旁帶，下方稱下旁帶。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sideband/"
   },
   {
     "english": "sidelooking radar",
     "traditional_chinese": "側視雷達",
-    "definition_cht": "指與「側視雷達」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sidelooking_radar"
+    "definition_cht": "裝載於飛機或衛星、以固定波束朝平台側方觀測的雷達，主要用於高解析度地表測繪；其方位解析度可藉長孔徑或合成孔徑技術提升。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sidelooking-radar/"
   },
   {
     "english": "sidereal year",
     "traditional_chinese": "恆星年",
-    "definition_cht": "指與「恆星年」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sidereal_year"
+    "definition_cht": "地球相對於固定恆星繞太陽公轉一周所需的時間，約為 365.2564 日；因歲差作用，長於回歸年。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sidereal-year/"
   },
   {
     "english": "siffanto",
-    "traditional_chinese": "西凡托",
-    "definition_cht": "指與「西凡托」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/siffanto"
+    "traditional_chinese": "西凡托風",
+    "definition_cht": "亞得里亞海一帶的地方性西南風，常可發展為相當強勁甚至猛烈的風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/siffanto/"
   },
   {
     "english": "sigma vertical coordinate",
     "traditional_chinese": "σ 垂直座標",
-    "definition_cht": "數值模式常用的地形隨從垂直座標，通常定義為壓力相對於地面與頂層壓力差的無因次比值。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sigma_vertical_coordinate"
+    "definition_cht": "大氣模式常用的地形隨從無因次垂直座標，通常定義為 σ=(p−pT)/(pS−pT)；其最低層座標面隨地形起伏，可簡化近地形區的模式方程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sigma-vertical-coordinate/"
   },
   {
     "english": "sigma-n",
-    "traditional_chinese": "西格曼-n",
-    "definition_cht": "指與「西格曼-n」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sigma-n"
+    "traditional_chinese": "σn 密度異常",
+    "definition_cht": "物理海洋學中指海水團若絕熱移動至 n 公里深度時所具有的密度減去 1000 kg/m³ 的值；為以較深參考壓力定義的位密度異常。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sigma-n/"
   },
   {
     "english": "sigma-STp",
-    "traditional_chinese": "西格瑪-STp",
-    "definition_cht": "指與「西格瑪-STp」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sigma-STp"
+    "traditional_chinese": "σ(S,T,p) 密度異常",
+    "definition_cht": "指鹽度 S、溫度 T 的海水在壓力 p 下之密度減去 1000 kg/m³ 的值，用以表示指定壓力條件下的海水密度異常。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sigma-stp/"
   },
   {
     "english": "sigma-t",
-    "traditional_chinese": "西格瑪-t",
-    "definition_cht": "指與「西格瑪-t」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sigma-t"
+    "traditional_chinese": "σt 密度異常",
+    "definition_cht": "海洋學中指鹽度 S、溫度 T 的海水在海平面大氣壓下之密度減去 1000 kg/m³ 的值，為常用的海水密度異常表示法。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sigma-t/"
   },
   {
     "english": "sigma-t,p",
-    "traditional_chinese": "西格瑪-t,p",
-    "definition_cht": "指與「西格瑪-t,p」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "σ(t,p) 密度異常",
+    "definition_cht": "指海水在原位溫度 t 與壓力 p 條件下之密度減去 1000 kg/m³ 的值，用於表示非海平面壓力下的密度異常。",
     "source_url": "https://glossary.ametsoc.org/wiki/sigma-t,p"
   },
   {
     "english": "Sigma-theta",
-    "traditional_chinese": "西格瑪-θ",
-    "definition_cht": "指與「西格瑪-θ」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Sigma-theta"
+    "traditional_chinese": "σθ 位密度異常",
+    "definition_cht": "海水團若絕熱移動至海平面參考壓力後所具有的密度減去 1000 kg/m³ 的值，即位密度異常，常用於比較不同深度水團的穩定度與分層。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sigma-theta/"
   },
   {
     "english": "sigma-zero",
-    "traditional_chinese": "西格瑪零",
-    "definition_cht": "指與「西格瑪零」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sigma-zero"
+    "traditional_chinese": "σ0（零度密度異常）",
+    "definition_cht": "舊式海洋學用語，指海水在 0°C 時的 σt 值，即其在海平面大氣壓下之密度減去 1000 kg/m³ 的值；常見於 Knudsen 海洋表。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sigma-zero/"
   },
   {
     "english": "SIGMET information",
     "traditional_chinese": "重要氣象資訊",
-    "definition_cht": "提供航空器有關強烈亂流、結冰、雷暴、火山灰等重大危險天氣的飛航氣象情報。",
-    "source_url": "https://glossary.ametsoc.org/wiki/SIGMET_information"
+    "definition_cht": "SIGMET（significant meteorological information）的全稱，係由氣象監視單位發布，供航空器航路運作參考之重要危險天氣情報，如對流、強烈亂流、結冰、火山灰等。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sigmet-information/"
   },
   {
     "english": "signal",
     "traditional_chinese": "訊號",
-    "definition_cht": "指與「訊號」相關的訊號特徵、波形、傳輸或分析結果。",
-    "source_url": "https://glossary.ametsoc.org/wiki/signal"
+    "definition_cht": "泛指承載資訊的波形、脈衝或其他物理量變化，用以與雜訊區別；在雷達、通訊與遙測中可為電磁、聲學或電子形式。",
+    "source_url": "https://glossary.ametsoc.org/wiki/signal/"
   },
   {
     "english": "signal generator",
     "traditional_chinese": "訊號產生器",
-    "definition_cht": "指與「訊號產生器」相關的訊號特徵、波形、傳輸或分析結果。",
-    "source_url": "https://glossary.ametsoc.org/wiki/signal_generator"
+    "definition_cht": "可產生具有指定振幅、頻率、波形或調變特性的電子儀器，常用於儀器測試、系統校驗與訊號處理實驗。",
+    "source_url": "https://glossary.ametsoc.org/wiki/signal-generator/"
   },
   {
     "english": "signal strength",
     "traditional_chinese": "訊號強度",
-    "definition_cht": "指與「訊號強度」相關的訊號特徵、波形、傳輸或分析結果。",
-    "source_url": "https://glossary.ametsoc.org/wiki/signal_strength"
+    "definition_cht": "表示接收訊號功率或幅度大小的量，常以相對某一基準值的分貝表示；亦可延伸用於光學或其他量測訊號強弱的描述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/signal-strength/"
   },
   {
     "english": "signal velocity",
     "traditional_chinese": "訊號速度",
-    "definition_cht": "指與「訊號速度」相關的訊號特徵、波形、傳輸或分析結果。",
-    "source_url": "https://glossary.ametsoc.org/wiki/signal_velocity"
+    "definition_cht": "指流體動力影響或擾動訊息在介質中傳播的有效速度；在大尺度準地轉擾動中，常近似由群速度決定。",
+    "source_url": "https://glossary.ametsoc.org/wiki/signal-velocity/"
   },
   {
     "english": "signal-to-noise ratio",
     "traditional_chinese": "信噪比",
-    "definition_cht": "指「信噪比」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/signal-to-noise_ratio"
+    "definition_cht": "衡量有效訊號相對背景雜訊強弱的比值，通常定義為訊號功率與雜訊功率之比，常以分貝表示；值越高代表訊號越清晰。",
+    "source_url": "https://glossary.ametsoc.org/wiki/signal-to-noise-ratio/"
   },
   {
     "english": "signature",
-    "traditional_chinese": "簽名",
-    "definition_cht": "指與「簽名」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/signature"
+    "traditional_chinese": "特徵徵象",
+    "definition_cht": "指可在影像、資料場或雷達回波中辨識某種物質、現象或變化的代表性特徵組合；在雷達與遙測中常用來指示特定目標或過程的可辨識型態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/signature/"
   },
   {
     "english": "signature analysis techniques",
-    "traditional_chinese": "簽名分析技術",
-    "definition_cht": "指與「簽名分析技術」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/signature_analysis_techniques"
+    "traditional_chinese": "特徵徵象分析技術",
+    "definition_cht": "利用物體在反射率、散射或發射光譜上的變化特徵來辨識目標的方法；在氣象衛星應用中亦指如 Dvorak、Scofield–Oliver 等以影像徵象估計天氣系統強度或變化趨勢的技術。",
+    "source_url": "https://glossary.ametsoc.org/wiki/signature-analysis-techniques/"
   },
   {
     "english": "significance test",
     "traditional_chinese": "顯著性檢定",
-    "definition_cht": "指與「顯著性檢定」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/significance_test"
+    "definition_cht": "用以判斷樣本所得統計量或參數估計是否足以拒絕虛無假設的統計檢定方法，通常透過檢定統計量、臨界區域或 p 值評估結果是否具有統計顯著性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/significance-test/"
   },
   {
     "english": "significant level",
