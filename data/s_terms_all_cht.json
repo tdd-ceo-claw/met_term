@@ -1987,123 +1987,123 @@
   },
   {
     "english": "significant level",
-    "traditional_chinese": "顯著水平",
-    "definition_cht": "指與「顯著水平」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/significant_level"
+    "traditional_chinese": "特性層",
+    "definition_cht": "在高空探空中，除強制層外，凡溫度、濕度等觀測值具有顯著變化、異常重要，或為重建探空垂直結構所必需而特別加報的氣壓層。",
+    "source_url": "https://glossary.ametsoc.org/wiki/significant-level/"
   },
   {
     "english": "significant wave",
     "traditional_chinese": "顯著波",
-    "definition_cht": "指與「顯著波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
-    "source_url": "https://glossary.ametsoc.org/wiki/significant_wave"
+    "definition_cht": "海浪預報中用以代表海況的假想波，其波高與週期分別取通過某一定點之實際海浪中最高三分之一波的平均波高與平均週期。",
+    "source_url": "https://glossary.ametsoc.org/wiki/significant-wave/"
   },
   {
     "english": "significant wave height",
-    "traditional_chinese": "有效波高",
-    "definition_cht": "指與「有效波高」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
-    "source_url": "https://glossary.ametsoc.org/wiki/significant_wave_height"
+    "traditional_chinese": "顯著波高",
+    "definition_cht": "傳統上指最高三分之一海浪的平均波高；現代亦常定義為海面起伏標準差的四倍，或等價地為波譜零階矩平方根的四倍，是描述海況最常用的波高指標。",
+    "source_url": "https://glossary.ametsoc.org/wiki/significant-wave-height/"
   },
   {
     "english": "significant weather",
     "traditional_chinese": "重要天氣",
-    "definition_cht": "對航空、航海、作業或公眾安全具有影響的重要天氣現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/significant_weather"
+    "definition_cht": "航空氣象中指已發生或預期將發生、足以影響航空器航路運作的特定天氣現象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/significant-weather/"
   },
   {
     "english": "significant weather chart",
     "traditional_chinese": "重要天氣圖",
-    "definition_cht": "標示對飛航或作業有重大影響天氣現象分布的分析或預報圖。",
-    "source_url": "https://glossary.ametsoc.org/wiki/significant_weather_chart"
+    "definition_cht": "顯示各飛航空層已觀測或預報之重要天氣現象分布的圖表，供判斷其對航空器運作可能造成的影響。",
+    "source_url": "https://glossary.ametsoc.org/wiki/significant-weather-chart/"
   },
   {
     "english": "sigua",
-    "traditional_chinese": "四瓜",
-    "definition_cht": "指與「四瓜」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sigua"
+    "traditional_chinese": "西瓜風",
+    "definition_cht": "菲律賓的地方性季風烈風，特徵為風向較直順並持續吹送。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sigua/"
   },
   {
     "english": "sikussak",
     "traditional_chinese": "錫庫薩克",
-    "definition_cht": "指與「錫庫薩克」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sikussak"
+    "definition_cht": "受困於峽灣中的老海冰；其形成常受降雪與積雪堆移影響，外觀可近似冰川冰。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sikussak/"
   },
   {
     "english": "sill depth",
     "traditional_chinese": "門檻深度",
-    "definition_cht": "指與「門檻深度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sill_depth"
+    "definition_cht": "亦稱門檻深度，指海盆與外海之間仍可進行水平水體交換的最大深度。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sill-depth/"
   },
   {
     "english": "silt",
     "traditional_chinese": "粉砂",
-    "definition_cht": "粒徑介於砂與黏土之間的細粒沉積物。",
-    "source_url": "https://glossary.ametsoc.org/wiki/silt"
+    "definition_cht": "粒徑介於黏土與砂之間的沉積物顆粒，常指約 0.0039 至 0.0625 毫米的細粒物質；乾時具粉感、濕時塑性較低。",
+    "source_url": "https://glossary.ametsoc.org/wiki/silt/"
   },
   {
     "english": "silt-discharge rating",
-    "traditional_chinese": "排泥等級",
-    "definition_cht": "指與「排泥等級」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/silt-discharge_rating"
+    "traditional_chinese": "輸砂率關係曲線",
+    "definition_cht": "舊稱，今多與 sediment discharge rating 同義，指流水中輸砂率與相應水流量之間的圖解或函數關係。",
+    "source_url": "https://glossary.ametsoc.org/wiki/silt-discharge-rating/"
   },
   {
     "english": "silver frost",
     "traditional_chinese": "銀霜",
-    "definition_cht": "指與「銀霜」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/silver_frost"
+    "definition_cht": "口語用法，指凍雨、凍毛雨或其他凍結性降水在樹木與外露物體上形成的透明平滑冰層，即冰釉或冰暴產物。",
+    "source_url": "https://glossary.ametsoc.org/wiki/silver-frost/"
   },
   {
     "english": "silver iodide",
     "traditional_chinese": "碘化銀",
-    "definition_cht": "指與「碘化銀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/silver_iodide"
+    "definition_cht": "化學式 AgI 的無機化合物，晶格結構與冰相近、在水中溶解度極低，且易製成氣膠，因此常作為人工增雨與雲播種的冰核劑。",
+    "source_url": "https://glossary.ametsoc.org/wiki/silver-iodide/"
   },
   {
     "english": "silver-disk pyrheliometer",
-    "traditional_chinese": "銀盤直射輻射表",
-    "definition_cht": "指與「銀盤直射輻射表」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/silver-disk_pyrheliometer"
+    "traditional_chinese": "銀盤式直射日射強度計",
+    "definition_cht": "用於量測太陽直達輻射的直射日射強度計，以銀盤作為感測受器並配合快門造成熱變化進行量測，歷來常作為次級標準儀器並以流水式日射強度計校正。",
+    "source_url": "https://glossary.ametsoc.org/wiki/silver-disk-pyrheliometer/"
   },
   {
     "english": "similarity",
     "traditional_chinese": "相似",
-    "definition_cht": "指與「相似」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/similarity"
+    "definition_cht": "亦稱 similitude，指不同流場或物理系統在適當尺度化後呈現相同或對應的無因次行為特性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/similarity/"
   },
   {
     "english": "similarity relationship",
     "traditional_chinese": "相似關係",
-    "definition_cht": "指與「相似關係」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/similarity_relationship"
+    "definition_cht": "相似理論中各無因次量群之間的關係式；相關量群可由白金漢 π 定理辨識，但其具體關係通常須由觀測或實驗經驗求得。",
+    "source_url": "https://glossary.ametsoc.org/wiki/similarity-relationship/"
   },
   {
     "english": "similarity theory",
     "traditional_chinese": "相似理論",
-    "definition_cht": "指與「相似理論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/similarity_theory"
+    "definition_cht": "將相關變數依適當尺度無因次化，以尋求普適關係的經驗方法；在大氣邊界層研究中特別重要，可用於整理紊流與通量等變數間的尺度律。",
+    "source_url": "https://glossary.ametsoc.org/wiki/similarity-theory/"
   },
   {
     "english": "simoom",
-    "traditional_chinese": "西穆姆",
-    "definition_cht": "指與「西穆姆」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/simoom"
+    "traditional_chinese": "西蒙風",
+    "definition_cht": "撒哈拉、阿拉伯等沙漠地區的強烈高溫、極乾且夾帶塵沙的地方風；氣溫可高於 54°C、相對濕度可低於 10%，突發時可能造成熱傷害。",
+    "source_url": "https://glossary.ametsoc.org/wiki/simoom/"
   },
   {
     "english": "simple harmonic wave",
     "traditional_chinese": "簡諧波",
-    "definition_cht": "指與「簡諧波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
-    "source_url": "https://glossary.ametsoc.org/wiki/simple_harmonic_wave"
+    "definition_cht": "以正弦、餘弦或複指數函數表示、並以固定振幅與固定速度傳播的振盪波動；其特徵可由振幅、波長、頻率與相位描述。",
+    "source_url": "https://glossary.ametsoc.org/wiki/simple-harmonic-wave/"
   },
   {
     "english": "simple wave",
     "traditional_chinese": "簡單波",
-    "definition_cht": "指與「簡單波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
-    "source_url": "https://glossary.ametsoc.org/wiki/simple_wave"
+    "definition_cht": "描述流體流動之一組擬線性微分方程的特殊解，其特徵線為一直線族，且依變數或其簡單組合沿特徵線保持不變，常可用特徵線法積分求解。",
+    "source_url": "https://glossary.ametsoc.org/wiki/simple-wave/"
   },
   {
     "english": "sine galvanometer",
     "traditional_chinese": "正弦檢流計",
-    "definition_cht": "指與「正弦檢流計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sine_galvanometer"
+    "definition_cht": "一種電磁式磁力儀，用於量測地球磁場水平分量強度，並可作為此一量測的標準儀器。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sine-galvanometer/"
   },
   {
     "english": "single drift correction",
