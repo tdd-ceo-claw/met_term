@@ -1142,121 +1142,121 @@
   {
     "english": "seeding devices",
     "traditional_chinese": "播種裝置",
-    "definition_cht": "指與「播種裝置」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "雲播撒作業中用於產生並將播種劑導入雲體的設備總稱；可依播種材料與投放方式採用燃燒器、焰劑、霧化器、乾粉散布器、乾冰粉碎器等裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/seeding_devices"
   },
   {
     "english": "seeding rate",
-    "traditional_chinese": "播種量",
-    "definition_cht": "指與「播種量」相關的變化率、速率或通量強度，用於量化單位時間內的增減情形。",
+    "traditional_chinese": "播種率",
+    "definition_cht": "在人工增雨或人工影響天氣作業中，單位時間、單位飛行距離或單位空氣量所釋放之播種材料的量；可用質量、體積或粒子數表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/seeding_rate"
   },
   {
     "english": "seeing",
     "traditional_chinese": "視寧度",
-    "definition_cht": "天文觀測中因大氣湍流造成星像閃爍與影像模糊的程度。",
+    "definition_cht": "天文觀測中用以描述大氣湍流造成星像閃爍、影像擴散與模糊程度的指標；視寧度愈差，望遠鏡可分辨的細節愈少。",
     "source_url": "https://glossary.ametsoc.org/wiki/seeing"
   },
   {
     "english": "seepage face",
-    "traditional_chinese": "滲水面",
-    "definition_cht": "指與「滲水面」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "滲流逸出面",
+    "definition_cht": "地下水系統中飽和帶與大氣相接且地下水以近似大氣壓出流的邊界面，常見於坡面、河岸、壩體或開挖面。",
     "source_url": "https://glossary.ametsoc.org/wiki/seepage_face"
   },
   {
     "english": "seepage spring",
-    "traditional_chinese": "滲泉",
-    "definition_cht": "指與「滲泉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "滲出泉",
+    "definition_cht": "地下水不是集中由單一孔口湧出，而是沿較大範圍的飽和帶緩慢滲出地表所形成的泉。",
     "source_url": "https://glossary.ametsoc.org/wiki/seepage_spring"
   },
   {
     "english": "seepage velocity",
     "traditional_chinese": "滲流速度",
-    "definition_cht": "指與「滲流速度」相關的速度向量、運移速度或流速結構。",
+    "definition_cht": "多孔介質中地下水穿越孔隙空間的平均實際流速，通常為達西通量除以有效孔隙率，亦稱平均線流速。",
     "source_url": "https://glossary.ametsoc.org/wiki/seepage_velocity"
   },
   {
     "english": "seiche",
     "traditional_chinese": "靜振",
-    "definition_cht": "封閉或半封閉水體在外力擾動後形成的駐波式水面振盪，可出現在湖泊、水庫、海灣或港口中。",
+    "definition_cht": "封閉或半封閉水體受風、氣壓變化、地震或海嘯等擾動後形成的駐波式水位振盪，常見於湖泊、水庫、海灣與港口。",
     "source_url": "https://glossary.ametsoc.org/wiki/seiche"
   },
   {
     "english": "seismograph",
-    "traditional_chinese": "地震儀",
-    "definition_cht": "指與「地震儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "地震記錄儀",
+    "definition_cht": "用於感測並記錄地面振動或地震波的儀器；狹義常指可留下連續記錄的裝置，廣義亦常與地震儀通用。",
     "source_url": "https://glossary.ametsoc.org/wiki/seismograph"
   },
   {
     "english": "SEISS",
-    "traditional_chinese": "SEISS",
-    "definition_cht": "「SEISS」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "太空環境原位觀測組（SEISS）",
+    "definition_cht": "GOES-R 系列衛星上的 Space Environment In Situ Suite，由多個高能粒子感測器組成，用於量測地球周圍電子、質子與重離子通量，以支援太空天氣監測與預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/SEISS"
   },
   {
     "english": "Seistan",
-    "traditional_chinese": "塞斯坦",
-    "definition_cht": "指與「塞斯坦」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "塞斯坦風",
+    "definition_cht": "伊朗與阿富汗西斯坦盆地夏季盛行的強勁區域風，多自西北偏北至北北西吹拂，常延續數月，亦稱「一百二十日風」。",
     "source_url": "https://glossary.ametsoc.org/wiki/Seistan"
   },
   {
     "english": "selatan",
-    "traditional_chinese": "南區",
-    "definition_cht": "指與「南區」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "南（馬來／印尼語）",
+    "definition_cht": "馬來語與印尼語中表示「南」或「南方」的詞；在地理與區域氣候語境中亦可延伸指涉南向區域或南來氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/selatan"
   },
   {
     "english": "selection rules",
-    "traditional_chinese": "評選規則",
-    "definition_cht": "指與「評選規則」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "選擇定則",
+    "definition_cht": "量子躍遷中限制某些能階轉換是否允許發生的規則；在大氣光譜與遙測中，用以判定分子吸收、放射或散射譜線可能出現的轉換。",
     "source_url": "https://glossary.ametsoc.org/wiki/selection_rules"
   },
   {
     "english": "selective absorption",
     "traditional_chinese": "選擇性吸收",
-    "definition_cht": "指與「選擇性吸收」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "物質對不同波長入射輻射的吸收程度不一的現象；大氣中的氣體與粒子因此只在特定波段強烈吸收能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/selective_absorption"
   },
   {
     "english": "Selective Chopper Radiometer",
-    "traditional_chinese": "選擇性斬波輻射計",
-    "definition_cht": "指與「選擇性斬波輻射計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "選擇式斬波輻射計",
+    "definition_cht": "縮寫 SCR；搭載於 Nimbus-5 的 16 通道非掃描紅外輻射計，用於大氣紅外遙測與垂直探測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Selective_Chopper_Radiometer"
   },
   {
     "english": "selective scattering",
     "traditional_chinese": "選擇性散射",
-    "definition_cht": "指與「選擇性散射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "粒子或介質對不同波長電磁輻射的散射效率不同之現象；其波長依賴性會影響天空色澤、能見度與遙測訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/selective_scattering"
   },
   {
     "english": "selene",
-    "traditional_chinese": "碳粉匣",
-    "definition_cht": "指與「碳粉匣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "月亮女神塞勒涅",
+    "definition_cht": "希臘神話中的月亮女神名稱，亦常作為月亮或月球的詩性稱呼；在地球與大氣科學文獻中多屬歷史或文學性用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/selene"
   },
   {
     "english": "self-collection",
-    "traditional_chinese": "自取",
-    "definition_cht": "指與「自取」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "自我碰併",
+    "definition_cht": "雲微物理中同類粒子彼此碰撞並合併的過程，如雲滴與雲滴或雨滴與雨滴之間的碰併，會改變粒徑分布並影響降水發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/self-collection"
   },
   {
     "english": "self-healing of atmosphere",
-    "traditional_chinese": "大氣的自我修復",
-    "definition_cht": "指與「大氣的自我修復」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "大氣自癒作用",
+    "definition_cht": "高空臭氧減少後，較多太陽紫外輻射得以穿透至較低高度，進而增加該高度臭氧生成速率、部分補償上層臭氧耗損的效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/self-healing_of_atmosphere"
   },
   {
     "english": "selsyn",
-    "traditional_chinese": "自我同步",
-    "definition_cht": "指與「自我同步」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "同步傳動系統",
+    "definition_cht": "一種自同步電機傳動／指示系統，由驅動端與一個或多個遠端跟隨器組成；氣象上曾用於把風向標與杯式風速計的量測遠距傳送至記錄或指示設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/selsyn"
   },
   {
     "english": "selvas",
-    "traditional_chinese": "塞爾瓦斯",
-    "definition_cht": "指與「塞爾瓦斯」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "熱帶雨林",
+    "definition_cht": "源自西班牙語與葡萄牙語的用語，指高溫多雨、植被茂密的熱帶森林，常特指南美洲亞馬遜等地區的雨林。",
     "source_url": "https://glossary.ametsoc.org/wiki/selvas"
   },
   {
