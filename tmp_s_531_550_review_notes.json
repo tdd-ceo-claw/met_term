@@ -1,0 +1,82 @@
+{
+  "Solar angle": [
+    "https://gml.noaa.gov/grad/solcalc/glossary.html",
+    "https://en.wikipedia.org/wiki/Solar_zenith_angle"
+  ],
+  "solar atmospheric tide": [
+    "https://www.britannica.com/science/atmospheric-tide",
+    "https://en.wikipedia.org/wiki/Atmospheric_tide"
+  ],
+  "solar aureole": [
+    "https://en.wikipedia.org/wiki/Aureola",
+    "https://en.wikipedia.org/wiki/Glory_(optical_phenomenon)"
+  ],
+  "Solar Backscatter Ultraviolet Radiometer": [
+    "https://en.wikipedia.org/wiki/Solar_Backscatter_Ultraviolet_Radiometer",
+    "https://www.ospo.noaa.gov/products/atmosphere/sbuv/"
+  ],
+  "solar climate": [
+    "https://glossary.ametsoc.org/wiki/solar-climate/",
+    "https://en.wikipedia.org/wiki/Insolation"
+  ],
+  "Solar cycle": [
+    "https://www.britannica.com/science/sunspot-cycle",
+    "https://en.wikipedia.org/wiki/Solar_cycle"
+  ],
+  "solar day": [
+    "https://en.wikipedia.org/wiki/Solar_day",
+    "https://en.wikipedia.org/wiki/Solar_time"
+  ],
+  "Solar flux": [
+    "https://en.wikipedia.org/wiki/Solar_irradiance",
+    "https://en.wikipedia.org/wiki/F10.7_solar_flux"
+  ],
+  "Solar Imaging Suite": [
+    "https://en.wikipedia.org/wiki/Imager_for_Magnetopause-to-Aurora_Global_Exploration",
+    "https://glossary.ametsoc.org/wiki/Solar_Imaging_Suite"
+  ],
+  "solar infrared": [
+    "https://www.britannica.com/science/solar-radiation",
+    "https://en.wikipedia.org/wiki/Infrared"
+  ],
+  "Solar proton event": [
+    "https://www.swpc.noaa.gov/phenomena/solar-radiation-storm",
+    "https://en.wikipedia.org/wiki/Solar_particle_event"
+  ],
+  "solar radiation": [
+    "https://www.britannica.com/science/solar-radiation",
+    "https://en.wikipedia.org/wiki/Solar_irradiance"
+  ],
+  "solar radiation observation": [
+    "https://en.wikipedia.org/wiki/Pyranometer",
+    "https://en.wikipedia.org/wiki/Solar_irradiance"
+  ],
+  "solar radio emission": [
+    "https://en.wikipedia.org/wiki/Solar_radio_emission",
+    "https://en.wikipedia.org/wiki/Solar_flare"
+  ],
+  "solar signal": [
+    "https://en.wikipedia.org/wiki/Solar_variation",
+    "https://en.wikipedia.org/wiki/Time_series"
+  ],
+  "solar spectrum": [
+    "https://en.wikipedia.org/wiki/Sunlight",
+    "https://en.wikipedia.org/wiki/Fraunhofer_lines"
+  ],
+  "solar tide": [
+    "https://en.wikipedia.org/wiki/Tide",
+    "https://www.britannica.com/science/tide"
+  ],
+  "Solar wind": [
+    "https://www.swpc.noaa.gov/phenomena/solar-wind",
+    "https://www.britannica.com/science/solar-wind"
+  ],
+  "Solar X-ray Imager": [
+    "https://en.wikipedia.org/wiki/Solar_X-ray_Imager",
+    "https://www.swpc.noaa.gov/products/goes-solar-x-ray-imager-sxi"
+  ],
+  "solar zenith angle": [
+    "https://gml.noaa.gov/grad/solcalc/glossary.html",
+    "https://en.wikipedia.org/wiki/Solar_zenith_angle"
+  ]
+}
