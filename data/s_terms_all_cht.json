@@ -2947,122 +2947,122 @@
   },
   {
     "english": "snow-generating level",
-    "traditional_chinese": "造雪水平",
-    "definition_cht": "指與「造雪水平」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪生成層位",
+    "definition_cht": "指雲中開始有效形成雪晶並可向下游降水層提供固態粒子的高度層或溫度層，常用於判斷降雪生成區與亮帶上方的冰相微物理結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/snow-generating_level"
   },
   {
     "english": "snowbreak",
-    "traditional_chinese": "防雪",
-    "definition_cht": "指與「防雪」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "防雪障",
+    "definition_cht": "為減弱風力、攔截吹雪並降低道路、鐵路或聚落受積雪阻塞而設置的天然或人工屏障，作用類似防雪籬或防雪林。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowbreak"
   },
   {
     "english": "snowcreep",
-    "traditional_chinese": "雪蠕蟲",
-    "definition_cht": "指與「雪蠕蟲」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "雪層蠕移",
+    "definition_cht": "指積雪在重力作用下沿坡面緩慢而持續的塑性變形與下移過程，會改變雪層應力分布，並可能影響雪崩形成與地表荷載。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowcreep"
   },
   {
     "english": "snowdrift",
-    "traditional_chinese": "雪堆",
-    "definition_cht": "指與「雪堆」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "風積雪堆",
+    "definition_cht": "指雪在風力搬運後於背風側或障礙物附近堆積形成的雪堆或雪垣，其厚度與形狀受風向、風速及地形控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowdrift"
   },
   {
     "english": "snowdrift glacier",
-    "traditional_chinese": "雪堆冰川",
-    "definition_cht": "指與「雪堆冰川」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "風積雪冰川",
+    "definition_cht": "指主要由風搬運並集中堆積的積雪長期壓實、再結晶而維持的局地小型冰川，常見於背風凹地、谷壁腳或山坳等易聚雪地形。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowdrift_glacier"
   },
   {
     "english": "snowdrift ice",
-    "traditional_chinese": "雪堆冰",
-    "definition_cht": "指與「雪堆冰」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "traditional_chinese": "風積雪冰",
+    "definition_cht": "指風吹積的雪經反覆壓實、部分融化與再凍結後形成的緻密冰質層或硬殼，常出現在寒冷多風環境中的雪面或近地表。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowdrift_ice"
   },
   {
     "english": "snowfall",
     "traditional_chinese": "降雪",
-    "definition_cht": "雪晶、雪花或其他固態冰粒自雲中降落至地面的降水現象或其累積量。",
+    "definition_cht": "指雪晶、雪花或其他以雪為主的固態降水自雲中降落至地面的現象；亦可指某一時段內的降雪量或積雪量。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowfall"
   },
   {
     "english": "snowfield",
     "traditional_chinese": "雪原",
-    "definition_cht": "指與「雪原」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "指山區高處或冰川源頭附近大範圍、較持久覆蓋的積雪區，可作為冰川的補給來源，但本身未必已發育成具明顯流動的冰川。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowfield"
   },
   {
     "english": "snowflake",
     "traditional_chinese": "雪花",
-    "definition_cht": "由冰晶聚合成的雪之基本顆粒，形狀受溫度、濕度與成長環境控制。",
+    "definition_cht": "指單一冰晶或多個冰晶在雲中聚合後形成的降雪顆粒，其形態受溫度、過飽和度與成長歷程控制，常呈六角對稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowflake"
   },
   {
     "english": "snowmelt",
     "traditional_chinese": "融雪",
-    "definition_cht": "積雪在增溫、降雨或能量輸入作用下轉變為液態水的過程，對春季逕流與洪水形成十分重要。",
+    "definition_cht": "指積雪因淨輻射、顯熱、潛熱、地熱或降雨輸入而轉為液態水的過程，是山區春季逕流、水資源供應與洪水預報的重要因子。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowmelt"
   },
   {
     "english": "snowmelt flood",
     "traditional_chinese": "融雪洪水",
-    "definition_cht": "指與「融雪洪水」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "指因積雪在短時間內快速融化，並使河川逕流顯著增加而引發的洪水，常受升溫、降雨疊加與土壤凍結狀態共同影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowmelt_flood"
   },
   {
     "english": "snowpack",
     "traditional_chinese": "積雪層",
-    "definition_cht": "地表累積形成的積雪層，其厚度、密度、含水量與層結構為雪文與水文研究的重要參數。",
+    "definition_cht": "指地表季節性或多年性累積並經壓實的雪層總體，其厚度、密度、含水量與層理結構是雪文、水文及雪崩研究的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowpack"
   },
   {
     "english": "snowpack yield",
-    "traditional_chinese": "融雪產水量",
-    "definition_cht": "積雪層在融化過程中可釋放出的有效水量。",
+    "traditional_chinese": "積雪產水量",
+    "definition_cht": "指積雪層在融化後可釋放的有效水量，通常以雪水當量或可供逕流與補注利用的融雪水量表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowpack_yield"
   },
   {
     "english": "snowstorm",
     "traditional_chinese": "暴風雪",
-    "definition_cht": "指與「暴風雪」相關的降雪、積雪、雪晶微物理或雪文過程。",
+    "definition_cht": "指以降雪為主、強度較大且常伴隨強風、低能見度與吹雪現象的風暴；若風力與能見度條件更嚴重，則可進一步達到 blizzard 標準。",
     "source_url": "https://glossary.ametsoc.org/wiki/snowstorm"
   },
   {
     "english": "SNR",
-    "traditional_chinese": "信噪比",
-    "definition_cht": "「SNR」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "訊噪比",
+    "definition_cht": "為 signal-to-noise ratio 的縮寫，指有效訊號強度或功率相對於背景雜訊的比值，常用於雷達、遙測、通訊與觀測資料品質評估。",
     "source_url": "https://glossary.ametsoc.org/wiki/SNR"
   },
   {
     "english": "socked in",
-    "traditional_chinese": "深陷其中",
-    "definition_cht": "指與「深陷其中」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "天候受阻",
+    "definition_cht": "多用於航空與作業天氣語境，指某地因低雲、濃霧、降雪或持續降水而能見度與雲底高度過低，致使機場、道路或區域幾乎被天氣封鎖。",
     "source_url": "https://glossary.ametsoc.org/wiki/socked_in"
   },
   {
     "english": "sodar",
-    "traditional_chinese": "聲雷達",
-    "definition_cht": "以聲波遙測大氣邊界層風場與湍流結構的聲學雷達系統。",
+    "traditional_chinese": "聲達",
+    "definition_cht": "為 sonic detection and ranging 的縮寫，指利用聲波散射與都卜勒效應遙測近地邊界層風速、風向及湍流結構的聲學測風系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/sodar"
   },
   {
     "english": "sodium",
     "traditional_chinese": "鈉",
-    "definition_cht": "指與「鈉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "化學元素 Na，在大氣與海洋科學中常涉及海鹽氣膠成分、降水化學、海洋鹽度來源及高層大氣鈉層等觀測與分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/sodium"
   },
   {
     "english": "SOFAR technology",
-    "traditional_chinese": "索法技術",
-    "definition_cht": "指與「索法技術」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "SOFAR 技術",
+    "definition_cht": "指利用海洋深層聲速極小通道（SOFAR channel）進行聲波長距離傳播、定位、追蹤或通訊的海洋聲學技術，原名來自 sound fixing and ranging。",
     "source_url": "https://glossary.ametsoc.org/wiki/SOFAR_technology"
   },
   {
     "english": "soft radiation",
     "traditional_chinese": "軟輻射",
-    "definition_cht": "指與「軟輻射」相關的輻射能量、通量、收支或傳輸過程，是天氣與氣候系統能量交換的重要環節。",
+    "definition_cht": "指能量較低、穿透力較弱且較易被物質吸收的輻射，常相對於硬輻射而言；在 X 射線等分類中多用來描述較長波長、較低光子能量的成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/soft_radiation"
   },
   {
