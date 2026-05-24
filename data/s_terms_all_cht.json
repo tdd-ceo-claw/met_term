@@ -2221,122 +2221,122 @@
   },
   {
     "english": "siphon barograph",
-    "traditional_chinese": "虹吸式氣壓計",
-    "definition_cht": "指與「虹吸式氣壓計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "虹吸式自記氣壓計",
+    "definition_cht": "以虹吸式水銀氣壓計為感測元件、並可將氣壓隨時間連續記錄在紙帶或圖紙上的自記儀器，用於追蹤氣壓變化趨勢與通過系統的壓力變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/siphon_barograph"
   },
   {
     "english": "siphon barometer",
-    "traditional_chinese": "虹吸氣壓計",
-    "definition_cht": "指與「虹吸氣壓計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "虹吸式氣壓計",
+    "definition_cht": "一種水銀氣壓計，其玻璃管呈虹吸狀彎曲，利用長短兩支管內水銀柱高度差測定大氣壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/siphon_barometer"
   },
   {
     "english": "sirocco",
-    "traditional_chinese": "西羅科",
-    "definition_cht": "指與「西羅科」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "西羅科風",
+    "definition_cht": "源自撒哈拉沙漠、吹向地中海一帶的高溫乾燥南風或東南風；越海後常轉為溫暖而潮濕，並可夾帶沙塵。",
     "source_url": "https://glossary.ametsoc.org/wiki/sirocco"
   },
   {
     "english": "SIRS",
     "traditional_chinese": "衛星紅外光譜儀",
-    "definition_cht": "Satellite Infrared Spectrometer 的縮寫，為早期衛星上用於大氣溫度剖面反演的紅外儀器。",
+    "definition_cht": "Satellite Infrared Spectrometer 的縮寫，為早期氣象衛星搭載的紅外遙測儀器，用以量測上行紅外輻射並反演大氣溫度垂直分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/SIRS"
   },
   {
     "english": "SIS",
-    "traditional_chinese": "安全資訊系統",
-    "definition_cht": "「SIS」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "SIS（縮寫）",
+    "definition_cht": "在氣象、遙測與地球科學文獻中可指特定儀器、資訊系統或資料服務；單獨出現時意義不唯一，須依上下文判定其全名與用途。",
     "source_url": "https://glossary.ametsoc.org/wiki/SIS"
   },
   {
     "english": "site characterization",
-    "traditional_chinese": "場地特徵",
-    "definition_cht": "指與「場地特徵」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "場址特性調查",
+    "definition_cht": "對觀測站、雷達站、風場或其他設施所在地之地形、地表粗糙度、障礙物、土壤與局地氣候條件所進行的系統性評估，以判定其是否適合觀測、設站或工程使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/site_characterization"
   },
   {
     "english": "site of station",
-    "traditional_chinese": "測站位置",
-    "definition_cht": "觀測站實際設置的地理位置與環境條件。",
+    "traditional_chinese": "測站址",
+    "definition_cht": "指觀測站實際設置的地理位置及其周圍環境條件，包括地形、地表性質、障礙物與暴露情形；其選址會影響觀測代表性。",
     "source_url": "https://glossary.ametsoc.org/wiki/site_of_station"
   },
   {
     "english": "Six's thermometer",
-    "traditional_chinese": "六氏溫度計",
-    "definition_cht": "可同時記錄一段期間內最高與最低溫度的液柱式溫度計。",
+    "traditional_chinese": "六氏最高最低溫度計",
+    "definition_cht": "由 James Six 發明、可同時記錄一段期間內最高與最低溫度的液柱式溫度計，常用於氣象觀測與園藝環境監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Six%27s_thermometer"
   },
   {
     "english": "size parameter",
-    "traditional_chinese": "尺寸參數",
-    "definition_cht": "指與「尺寸參數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "粒徑參數",
+    "definition_cht": "散射理論中的無因次量，通常定義為粒子周長與入射波長之比（常寫為 2πr/λ）；用以判定瑞利散射、米氏散射等不同光散射行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/size_parameter"
   },
   {
     "english": "skavler",
-    "traditional_chinese": "斯卡夫勒",
-    "definition_cht": "指與「斯卡夫勒」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "風積雪簷",
+    "definition_cht": "源自北歐用語，指強風吹雪後在山脊、冰原或雪面迎背風交界處形成的懸垂雪簷或硬化風積雪體。",
     "source_url": "https://glossary.ametsoc.org/wiki/skavler"
   },
   {
     "english": "Skew t-logp diagram",
     "traditional_chinese": "Skew T–log P 熱力圖",
-    "definition_cht": "以溫度斜軸與對數氣壓軸構成的熱力分析圖，廣用於探空判讀。",
+    "definition_cht": "一種以上下為對數氣壓座標、溫度軸向右傾斜的熱力分析圖，廣用於探空資料判讀，以分析穩定度、雲層、對流潛勢與風場結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Skew_t-logp_diagram"
   },
   {
     "english": "skewness",
     "traditional_chinese": "偏度",
-    "definition_cht": "指與「偏度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "統計分布不對稱程度的量度，常以第三中心動差標準化表示；正偏度代表右尾較長，負偏度代表左尾較長。",
     "source_url": "https://glossary.ametsoc.org/wiki/skewness"
   },
   {
     "english": "Skill",
-    "traditional_chinese": "技能",
-    "definition_cht": "指與「技能」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "技巧值",
+    "definition_cht": "指預報、模式或分析結果相對於某一基準方法（如氣候值、隨機猜測或持續性預報）的表現優越程度；常以 skill score 等指標量化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Skill"
   },
   {
     "english": "skin drag",
-    "traditional_chinese": "皮膚阻力",
-    "definition_cht": "指與「皮膚阻力」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "表面摩擦阻力",
+    "definition_cht": "流體沿物體表面流動時，因邊界層內黏滯剪應力所產生的阻力分量，與形狀阻力相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/skin_drag"
   },
   {
     "english": "skin friction",
-    "traditional_chinese": "皮膚摩擦",
-    "definition_cht": "指與「皮膚摩擦」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "表面摩擦",
+    "definition_cht": "流體與固體表面接觸時，因黏滯作用在邊界層內產生的切向摩擦效應；在大氣中亦常用以指近地面摩擦對風速與風向的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/skin_friction"
   },
   {
     "english": "skin-friction coefficient",
-    "traditional_chinese": "皮膚摩擦係數",
-    "definition_cht": "指「皮膚摩擦係數」所代表的係數或經驗參數，用於表徵物理過程、統計關係或模式設定。",
+    "traditional_chinese": "表面摩擦係數",
+    "definition_cht": "表示壁面剪應力相對於流體動壓大小的無因次係數，用於描述邊界層內表面摩擦阻力的強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/skin-friction_coefficient"
   },
   {
     "english": "skip effect",
-    "traditional_chinese": "跳過效果",
-    "definition_cht": "指與「跳過效果」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "越距效應",
+    "definition_cht": "電波經電離層反射或折射傳播時，近距離地區可能收不到訊號、而較遠處反而能接收到的現象；常見於短波無線電傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/skip_effect"
   },
   {
     "english": "Skiron",
-    "traditional_chinese": "斯基龍",
-    "definition_cht": "指與「斯基龍」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "斯基龍風",
+    "definition_cht": "古希臘對一種西北風的名稱，主要指雅典與愛琴海一帶的乾冷或較清朗之風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Skiron"
   },
   {
     "english": "sky",
     "traditional_chinese": "天空",
-    "definition_cht": "指與「天空」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "自地面觀測時位於地平線以上、可見的大氣與天體背景區域；在氣象觀測中常作為雲量、能見度與天氣現象的判讀對象。",
     "source_url": "https://glossary.ametsoc.org/wiki/sky"
   },
   {
     "english": "sky cover",
-    "traditional_chinese": "雲量",
-    "definition_cht": "天空被雲遮蔽的程度，通常以 oktas、十分比或分數表示。",
+    "traditional_chinese": "天空覆蓋量",
+    "definition_cht": "天空被雲層或其他遮蔽物覆蓋的程度，通常以八分量、十分比或百分率表示，是地面雲況觀測的重要項目。",
     "source_url": "https://glossary.ametsoc.org/wiki/sky_cover"
   },
   {
