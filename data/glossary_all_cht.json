@@ -44323,122 +44323,122 @@
   },
   {
     "english": "SEM",
-    "traditional_chinese": "掃描電子顯微鏡",
-    "definition_cht": "「SEM」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "掃描式電子顯微鏡",
+    "definition_cht": "Scanning Electron Microscope 的縮寫。以聚焦電子束逐點掃描樣品表面，藉由偵測二次電子、背向散射電子等訊號，取得高解析度的表面形貌、組織與部分成分資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/SEM"
   },
   {
     "english": "semantic network",
-    "traditional_chinese": "語意網絡",
-    "definition_cht": "指與「語意網絡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "語意網路",
+    "definition_cht": "以節點表示概念、以連結表示概念間語意關係的知識表徵架構，常用於專家系統、資訊檢索與自然語言處理，也可用來組織氣象知識與術語之間的關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/semantic_network"
   },
   {
     "english": "semi-implicit method",
     "traditional_chinese": "半隱式方法",
-    "definition_cht": "指用於分析、估算、觀測、計算或作業處理「半隱式方法」之方法、程序或技術。",
+    "definition_cht": "數值積分方法之一，將易限制時間步長的快速波動項以隱式方式處理，其他項則保留顯式計算，以在兼顧穩定度下使用較大的時間步長；常見於數值天氣預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/semi-implicit_method"
   },
   {
     "english": "semi-Lagrangian method",
     "traditional_chinese": "半拉格朗日法",
-    "definition_cht": "指用於分析、估算、觀測、計算或作業處理「半拉格朗日法」之方法、程序或技術。",
+    "definition_cht": "結合拉格朗日與歐拉觀點的平流數值方法，通常沿氣塊軌跡回推其出發點，再將物理量內插回固定網格，可在維持平流計算穩定的同時採用較大時間步長。",
     "source_url": "https://glossary.ametsoc.org/wiki/semi-Lagrangian_method"
   },
   {
     "english": "semiannual oscillation",
     "traditional_chinese": "半年振盪",
-    "definition_cht": "指與「半年振盪」相關的振盪現象或氣候變率型態，用以描述大氣或海洋系統在時間上的週期性或準週期性變化。",
+    "definition_cht": "週期約為半年的振盪現象，指大氣或海洋中某些風場、氣壓場或其他變數每年大致出現兩次強弱交替；在熱帶平流層與中氣層等區域尤為常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/semiannual_oscillation"
   },
   {
     "english": "semiarid climate",
     "traditional_chinese": "半乾旱氣候",
-    "definition_cht": "指與「半乾旱氣候」相關的氣候狀態、長期平均特徵或氣候變率。",
+    "definition_cht": "介於沙漠氣候與較濕潤氣候之間的乾燥氣候型，年降水量通常低於潛在蒸散需求但未低到沙漠程度，植被多較稀疏，常見於草原或疏林草原地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/semiarid_climate"
   },
   {
     "english": "semiarid zone",
-    "traditional_chinese": "半乾旱地區",
-    "definition_cht": "指與「半乾旱地區」相關的地帶、分區或特定作用範圍。",
+    "traditional_chinese": "半乾旱地帶",
+    "definition_cht": "具有半乾旱氣候特徵的地理區域，降水偏少、蒸發旺盛，天然植被多為草原、灌叢或稀疏林地，對乾旱與土地利用變化相當敏感。",
     "source_url": "https://glossary.ametsoc.org/wiki/semiarid_zone"
   },
   {
     "english": "semidiurnal tide",
     "traditional_chinese": "半日潮",
-    "definition_cht": "一天內約出現兩次高潮與兩次低潮的潮汐型態。",
+    "definition_cht": "每一太陰日通常出現兩次高潮與兩次低潮的潮汐型態，且相鄰兩次高潮或低潮的潮差常大致相近；為全球常見的基本潮型之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/semidiurnal_tide"
   },
   {
     "english": "semigeostrophic equations",
     "traditional_chinese": "半地轉方程",
-    "definition_cht": "描述「半地轉方程」相關物理量之間關係、守恆條件或近似動力平衡的方程式。",
+    "definition_cht": "以地轉平衡為主導近似、並保留重要非地轉效應的一組大氣動力方程，常用於分析鋒生、斜壓發展與近似平衡流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/semigeostrophic_equations"
   },
   {
     "english": "semigeostrophic motion",
     "traditional_chinese": "半地轉運動",
-    "definition_cht": "兼顧地轉平衡與非地轉加速度的近似流動，用於描述鋒生與中尺度動力過程。",
+    "definition_cht": "可由半地轉近似描述的流動，主體接近地轉平衡，但仍包含對鋒生、急流與中尺度發展重要的非地轉分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/semigeostrophic_motion"
   },
   {
     "english": "semigeostrophic theory",
     "traditional_chinese": "半地轉理論",
-    "definition_cht": "指與「半地轉理論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。",
+    "definition_cht": "以半地轉方程為基礎的動力理論，用以研究近地轉平衡流中的鋒生、斜壓不穩定與氣團平流等過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/semigeostrophic_theory"
   },
   {
     "english": "semipermanent anticyclone",
     "traditional_chinese": "半永久性反氣旋",
-    "definition_cht": "「semipermanent anticyclone」為帶有「半」、「準」或部分週期／部分結構特性的專業術語，實際意義需依學科語境判定。",
+    "definition_cht": "在某一地區長期反覆出現、位置與強度隨季節變化但不致全年固定不變的氣候性高壓系統，如副熱帶高壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/semipermanent_anticyclone"
   },
   {
     "english": "semipermanent depression",
     "traditional_chinese": "半永久性低壓",
-    "definition_cht": "在某一區域長期反覆出現、但強度與位置仍隨季節變化的低壓系統。",
+    "definition_cht": "在某一地區長期反覆出現、位置與強度隨季節調整的氣候性低壓系統，如冰島低壓或阿留申低壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/semipermanent_depression"
   },
   {
     "english": "sensible heat",
     "traditional_chinese": "顯熱",
-    "definition_cht": "不伴隨相變、能直接造成物質溫度升降的熱量，在地表能量收支與邊界層交換中極為重要。",
+    "definition_cht": "會引起物質溫度改變、但不伴隨相變的熱量；在大氣科學中常指地表與空氣之間可直接表現在溫度升降上的熱交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/sensible_heat"
   },
   {
     "english": "sensible heat flow",
     "traditional_chinese": "顯熱通量",
-    "definition_cht": "由溫度差驅動、以傳導或湍流方式傳輸而不伴隨相變的熱量通量。",
+    "definition_cht": "單位時間穿過單位面積的顯熱傳輸量，常指地表與大氣間因溫度差與湍流交換所造成的向上或向下熱通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/sensible_heat_flow"
   },
   {
     "english": "sensible temperature",
     "traditional_chinese": "體感溫度",
-    "definition_cht": "指與「體感溫度」相關的溫度量、溫度場或熱狀態特徵。",
+    "definition_cht": "人對冷熱的主觀感受所對應的溫度概念，不僅受實際氣溫影響，亦與濕度、風速、日照與輻射環境有關；實務上常以熱指數或風寒指數等方式表徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/sensible_temperature"
   },
   {
     "english": "Sensing element",
     "traditional_chinese": "感測元件",
-    "definition_cht": "指與「感測元件」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "感測器中直接感受被測物理量的核心部分，能將溫度、壓力、濕度、輻射等輸入轉換為可供後續處理的初始訊號或物理變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/Sensing_element"
   },
   {
     "english": "sensitivity",
     "traditional_chinese": "靈敏度",
-    "definition_cht": "指與「靈敏度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "儀器、感測器或系統對輸入變化的響應能力，常以輸出變化量與輸入變化量之比表示；靈敏度愈高，愈能辨識微小變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/sensitivity"
   },
   {
     "english": "sensitivity time control",
     "traditional_chinese": "靈敏度時間控制",
-    "definition_cht": "指與「靈敏度時間控制」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "雷達接收系統中的增益控制方式，於發射脈衝後隨時間增加接收靈敏度，以補償距離愈遠回波愈弱的現象；概念上相當於隨時間變化的增益控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/sensitivity_time_control"
   },
   {
     "english": "separation of variables",
     "traditional_chinese": "變數分離法",
-    "definition_cht": "求解偏微分方程時，將多變數函數分解為單變數函數乘積的數學方法。",
+    "definition_cht": "求解微分方程，特別是偏微分方程時，將未知函數表示為若干單一變數函數乘積或和的數學方法，藉以把原方程拆成較易求解的常微分方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/separation_of_variables"
   },
   {
