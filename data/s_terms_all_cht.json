@@ -1381,122 +1381,122 @@
   },
   {
     "english": "sequence",
-    "traditional_chinese": "順序",
-    "definition_cht": "指與「順序」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "序列",
+    "definition_cht": "按既定次序排列的一連串元素、事件、觀測值或影像；在氣象與水文資料處理中，常指依時間、空間或編碼順序組成的資料序列。",
     "source_url": "https://glossary.ametsoc.org/wiki/sequence"
   },
   {
     "english": "serac",
     "traditional_chinese": "冰塔",
-    "definition_cht": "指與「冰塔」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "冰川表面因深裂隙交錯切割而形成的巨大冰塊或冰柱，常見於冰瀑或坡度較陡的冰川地段；其結構不穩定，對高山活動具有顯著危險性。",
     "source_url": "https://glossary.ametsoc.org/wiki/serac"
   },
   {
     "english": "serein",
-    "traditional_chinese": "塞賴因",
-    "definition_cht": "指與「塞賴因」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "晴空細雨",
+    "definition_cht": "在地面觀感近似晴空或少雲情況下出現的細微降雨或毛毛雨，常與高空風將降水吹離原雲體、使雨滴落至近地面時上空已無明顯雲層可見有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/serein"
   },
   {
     "english": "serial communications",
-    "traditional_chinese": "序列通訊",
-    "definition_cht": "指與「序列通訊」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "串列通訊",
+    "definition_cht": "資料沿單一通道依序逐位傳送的通訊方式；在氣象觀測系統中，常用於感測器、資料記錄器、雷達控制設備與主機之間的資料交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/serial_communications"
   },
   {
     "english": "serial correlation",
-    "traditional_chinese": "序列相關性",
-    "definition_cht": "指與「序列相關性」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "序列相關",
+    "definition_cht": "時間序列中某變數與其不同時間延遲值之間的相關關係，亦即自相關；常用於判斷氣象或水文資料的持續性、週期性與統計獨立性。",
     "source_url": "https://glossary.ametsoc.org/wiki/serial_correlation"
   },
   {
     "english": "serial station",
-    "traditional_chinese": "連續測站",
-    "definition_cht": "沿固定路線或序列位置依次設置與觀測的一組測站。",
+    "traditional_chinese": "海洋序列測站",
+    "definition_cht": "海洋學觀測中沿同一測站位置重複進行的一組垂直觀測，通常由一次或多次南森瓶（Nansen cast）等剖面下放作業構成；亦稱 hydrographic station。",
     "source_url": "https://glossary.ametsoc.org/wiki/serial_station"
   },
   {
     "english": "servo loop",
     "traditional_chinese": "伺服迴路",
-    "definition_cht": "指與「伺服迴路」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "利用回授訊號自動修正控制誤差的閉迴路控制系統，用以維持天線、掃描鏡、雷達或其他機械裝置的指向、位置或速度達到預定值。",
     "source_url": "https://glossary.ametsoc.org/wiki/servo_loop"
   },
   {
     "english": "set",
     "traditional_chinese": "流向偏移",
-    "definition_cht": "海流、潮流或風使船舶、浮標或物體偏離原定航向的位移。",
+    "definition_cht": "海流、潮流或風使船舶、浮標或其他移動物體偏離原定航向的實際位移；亦可指流體實際流去的方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/set"
   },
   {
     "english": "severe storm",
-    "traditional_chinese": "猛烈風暴",
-    "definition_cht": "指與「猛烈風暴」相關的風暴系統、劇烈天氣現象或其演變特徵。",
+    "traditional_chinese": "劇烈風暴",
+    "definition_cht": "造成顯著危害或達到劇烈天氣判據的風暴，常指伴隨破壞性強風、大冰雹、豪雨、強雷電或龍捲風的強對流風暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/severe_storm"
   },
   {
     "english": "severe weather",
     "traditional_chinese": "劇烈天氣",
-    "definition_cht": "可能造成生命財產威脅的天氣現象，如強雷雨、大冰雹、龍捲風、破壞性強風或豪雨。",
+    "definition_cht": "可能對生命、財產或社會活動造成重大威脅的危險天氣現象總稱，如強雷雨、破壞性強風、龍捲風、大冰雹、暴雪、冰暴或短時強降雨等。",
     "source_url": "https://glossary.ametsoc.org/wiki/severe_weather"
   },
   {
     "english": "severe weather threat index",
-    "traditional_chinese": "惡劣天氣威脅指數",
-    "definition_cht": "指以「惡劣天氣威脅指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱與變化。",
+    "traditional_chinese": "劇烈天氣威脅指數",
+    "definition_cht": "即 SWEAT 指數（Severe Weather Threat Index），以低層水氣、穩定度、風速與垂直風切等參數綜合評估強雷雨、龍捲或其他劇烈對流天氣發生潛勢的經驗指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/severe_weather_threat_index"
   },
   {
     "english": "severe-storm observation",
-    "traditional_chinese": "強風暴觀測",
-    "definition_cht": "指與「強風暴觀測」相關的風暴系統、劇烈天氣現象或其演變特徵。",
+    "traditional_chinese": "劇烈風暴觀測",
+    "definition_cht": "對劇烈風暴發生情形所作的觀測與通報，內容通常包括其出現時間、位置、移動方向及相關危害現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/severe-storm_observation"
   },
   {
     "english": "SEVIRI",
-    "traditional_chinese": "旋轉增強型可見光與紅外線成像儀",
-    "definition_cht": "Spinning Enhanced Visible and Infrared Imager 的縮寫，為 Meteosat 第二代衛星的主要成像儀器。",
+    "traditional_chinese": "旋轉掃描增強型可見光與紅外線成像儀",
+    "definition_cht": "Spinning Enhanced Visible and InfraRed Imager 的縮寫，為 Meteosat 第二代（MSG）地球同步氣象衛星的主要成像儀器，可在 12 個光譜波段提供近即時雲系、地表與大氣觀測影像。",
     "source_url": "https://glossary.ametsoc.org/wiki/SEVIRI"
   },
   {
     "english": "SFAZI code",
-    "traditional_chinese": "SFAZI程式碼",
-    "definition_cht": "指與「SFAZI程式碼」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "SFAZI 方位碼",
+    "definition_cht": "sferics azimuth code 的簡稱，為國際氣象電碼之一，用於以觀測站為基準，通報天電（sferics）來向或方位角。",
     "source_url": "https://glossary.ametsoc.org/wiki/SFAZI_code"
   },
   {
     "english": "SFAZU code",
-    "traditional_chinese": "SFAZU程式碼",
-    "definition_cht": "指與「SFAZU程式碼」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "SFAZU 方位分布碼",
+    "definition_cht": "國際氣象電碼之一，用於通報前 24 小時內天電（sferics）來源方位的分布或方位統計，方位以觀測站為基準表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/SFAZU_code"
   },
   {
     "english": "sferics",
     "traditional_chinese": "天電",
-    "definition_cht": "雷電放電所產生的寬頻電磁脈衝訊號。",
+    "definition_cht": "雷電放電所產生的寬頻電磁脈衝訊號，主要分布於甚低頻至低頻波段，可沿地球—電離層波導傳播並用於遠距離閃電偵測。",
     "source_url": "https://glossary.ametsoc.org/wiki/sferics"
   },
   {
     "english": "sferics fix",
-    "traditional_chinese": "sferics修復",
-    "definition_cht": "指與「sferics修復」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "天電定向定位",
+    "definition_cht": "根據天電訊號觀測結果推定雷電源方位或地理位置的作業；通常利用互相正交的線圈或環形天線量測水平磁場來求得來向。",
     "source_url": "https://glossary.ametsoc.org/wiki/sferics_fix"
   },
   {
     "english": "sferics observation",
-    "traditional_chinese": "空間觀測",
-    "definition_cht": "指與「空間觀測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "天電觀測",
+    "definition_cht": "對雷電放電所產生電磁輻射的偵測與量測，可用以分析雷暴活動、閃電位置、發生頻率及相關電磁傳播特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/sferics_observation"
   },
   {
     "english": "sferics receiver",
-    "traditional_chinese": "sferics接收器",
-    "definition_cht": "指與「sferics接收器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "天電接收器",
+    "definition_cht": "亦稱閃電測向儀，為量測天電訊號來向、強度與發生頻率的接收設備，常用於偵測並定位雷電放電。",
     "source_url": "https://glossary.ametsoc.org/wiki/sferics_receiver"
   },
   {
     "english": "sferics source",
-    "traditional_chinese": "sferics 來源",
-    "definition_cht": "指與「sferics 來源」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "天電輻射源",
+    "definition_cht": "雷電放電過程中在約 10–30 kHz 頻帶輻射最強的部分；對地閃電通常對應回擊過程，雲內閃電則多與 K 變化等快速放電階段有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/sferics_source"
   },
   {
