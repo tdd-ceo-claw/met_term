@@ -782,121 +782,121 @@
   {
     "english": "sea-breeze front",
     "traditional_chinese": "海風鋒",
-    "definition_cht": "海風向內陸推進時，海上較涼濕空氣與內陸較暖空氣之間形成的近地面輻合邊界，常促發抬升、積雲發展與局地對流。",
+    "definition_cht": "海風向內陸推進時，其前緣由海上較冷濕空氣與內陸較暖空氣形成的近地面輻合邊界；通過時常伴隨風向轉變、氣溫下降，並可觸發陣雨或對流。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea-breeze_front"
   },
   {
     "english": "sea-salt nucleus",
     "traditional_chinese": "海鹽凝結核",
-    "definition_cht": "由海鹽微粒形成、可作為雲滴凝結核心的吸濕性氣膠粒子。",
+    "definition_cht": "由海浪飛沫等過程產生的海鹽微粒，具強吸濕性，可作為雲滴形成的雲凝結核。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea-salt_nucleus"
   },
   {
     "english": "Sea-Viewing Wide Field-of-View Sensor",
     "traditional_chinese": "海洋寬視場感測器",
-    "definition_cht": "SeaWiFS 的全名，為主要用於海洋水色與葉綠素濃度觀測的衛星感測器。",
+    "definition_cht": "SeaWiFS 的全名，為搭載於 SeaStar 衛星上的海洋水色遙測感測器，主要用於觀測海洋葉綠素、浮游植物與生物光學特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Sea-Viewing_Wide_Field-of-View_Sensor"
   },
   {
     "english": "search radar",
     "traditional_chinese": "搜索雷達",
-    "definition_cht": "指與「搜索雷達」相關的雷達系統、觀測設備或其回波產品，用於偵測目標位置、強度、速度或結構特徵。",
+    "definition_cht": "以大範圍掃描為主、用於搜尋並定位目標的雷達，通常提供目標的方位與距離資訊，作為後續追蹤或監視之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/search_radar"
   },
   {
     "english": "search space",
     "traditional_chinese": "搜尋空間",
-    "definition_cht": "在分析、反演或最佳化問題中，所有可能解或候選參數所構成的範圍。",
+    "definition_cht": "在最佳化、資料同化、反演或模式校調問題中，所有可能候選解、參數組合或狀態所構成的範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/search_space"
   },
   {
     "english": "searchlight",
     "traditional_chinese": "探照燈",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "definition_cht": "能投射強烈定向光束的照明設備；在氣象觀測上可用於夜間照亮雲、霧、降水或粒子，以輔助判讀雲底高度與散射情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/searchlight"
   },
   {
     "english": "searchlighting",
     "traditional_chinese": "探照觀測",
-    "definition_cht": "以強光束照亮大氣中的雲、霧或粒子，藉其散射情形進行觀察或判讀的方法。",
+    "definition_cht": "以探照燈光束照亮大氣中的雲、霧、降水或懸浮粒子，藉其反射與散射特徵進行夜間觀測或判讀的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/searchlighting"
   },
   {
     "english": "Seasat",
     "traditional_chinese": "海洋衛星",
-    "definition_cht": "美國於 1978 年發射的海洋遙測實驗衛星，搭載雷達高度計、散射計與 SAR 等儀器。",
+    "definition_cht": "美國於 1978 年發射的首顆專為海洋遙測設計的衛星，搭載雷達高度計、散射計、合成孔徑雷達與微波輻射計等儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/Seasat"
   },
   {
     "english": "Seasat'' surface wind",
-    "traditional_chinese": "Seasat''表面風",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "traditional_chinese": "Seasat 海面風",
+    "definition_cht": "由 Seasat 衛星散射計等遙測資料反演得到的海面近地層風場，可用於分析海洋表面風速與風向分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/Seasat%27%27_surface_wind"
   },
   {
     "english": "season",
     "traditional_chinese": "季節",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "definition_cht": "一年中依日照、太陽高度與氣候條件週期性變化而劃分的時段，如春、夏、秋、冬。",
     "source_url": "https://glossary.ametsoc.org/wiki/season"
   },
   {
     "english": "SeaStar",
-    "traditional_chinese": "海星衛星",
-    "definition_cht": "搭載 SeaWiFS 的美國海洋觀測衛星，主要用於海洋水色遙測。",
+    "traditional_chinese": "SeaStar 衛星",
+    "definition_cht": "美國的海洋觀測衛星，因搭載 SeaWiFS 感測器而著名，主要用於海洋水色與海洋生物光學觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/SeaStar"
   },
   {
     "english": "seawater",
     "traditional_chinese": "海水",
-    "definition_cht": "海洋中的鹽水，含有多種溶解鹽類，其溫度、鹽度與密度決定海洋動力特性。",
+    "definition_cht": "海洋中的鹽水，含有多種溶解鹽類與微量成分，其鹽度、溫度與密度是控制海洋分層與環流的重要物理性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/seawater"
   },
   {
     "english": "seawater intrusion",
     "traditional_chinese": "海水入侵",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "definition_cht": "沿海含水層中的海水向陸側淡水含水層擴展或混入的現象，常因地下水超抽、補注不足或海平面上升而加劇。",
     "source_url": "https://glossary.ametsoc.org/wiki/seawater_intrusion"
   },
   {
     "english": "seawater thermometer",
     "traditional_chinese": "海水溫度計",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "definition_cht": "用於量測海水溫度的溫度計，可供船舶、海洋站或取樣作業測定海表或採樣海水的溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/seawater_thermometer"
   },
   {
     "english": "SeaWiFS",
     "traditional_chinese": "海洋寬視場感測器",
-    "definition_cht": "Sea-Viewing Wide Field-of-View Sensor 的縮寫，用於觀測海洋水色與生物光學特性。",
+    "definition_cht": "Sea-Viewing Wide Field-of-View Sensor 的縮寫，為海洋水色遙測儀器，用於觀測葉綠素濃度、浮游植物分布與海洋生物光學特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/SeaWiFS"
   },
   {
     "english": "SEC",
-    "traditional_chinese": "美國證券交易委員會",
-    "definition_cht": "「SEC」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "南赤道洋流",
+    "definition_cht": "South Equatorial Current 的縮寫，指熱帶大西洋、太平洋與印度洋中大致自東向西流動的主要表層洋流。",
     "source_url": "https://glossary.ametsoc.org/wiki/SEC"
   },
   {
     "english": "seca",
-    "traditional_chinese": "塞卡",
-    "definition_cht": "指與「塞卡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "乾季／旱期",
+    "definition_cht": "源自西班牙語或葡萄牙語的用語，指降水明顯偏少的乾燥季節或旱期；在地方氣候語境中亦可泛指乾旱時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/seca"
   },
   {
     "english": "SECC",
-    "traditional_chinese": "SECC",
-    "definition_cht": "「SECC」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "南赤道逆流",
+    "definition_cht": "South Equatorial Countercurrent 的縮寫，指位於南半球熱帶海域、相對於南赤道洋流而呈東向流動的表層海流。",
     "source_url": "https://glossary.ametsoc.org/wiki/SECC"
   },
   {
     "english": "Secchi disk",
     "traditional_chinese": "塞氏盤",
-    "definition_cht": "用於測量水體透明度的白色圓盤，觀測其消失深度可估計水中光穿透情形。",
+    "definition_cht": "用於測量水體透明度的白色或黑白相間圓盤，藉觀測其在水中消失的深度來估計光穿透與水體清澈程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Secchi_disk"
   },
   {
     "english": "sechard",
-    "traditional_chinese": "塞查德",
-    "definition_cht": "指與「塞查德」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "塞夏風",
+    "definition_cht": "地方性風名，通常指乾燥而較暖的區域性風；其確切涵義會隨地區用法而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/sechard"
   },
   {
