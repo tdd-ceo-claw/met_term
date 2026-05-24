@@ -44804,121 +44804,121 @@
   {
     "english": "ship routing",
     "traditional_chinese": "船舶航路規劃",
-    "definition_cht": "根據天氣、海況、洋流與船舶性能等資訊，為船舶選擇較安全或較有效率航線的作業；在海氣應用上常特指 weather routing。",
+    "definition_cht": "依據天氣、海況、洋流與船舶性能等資訊，規劃較安全、較省時或較節能的航線之作業；在航海氣象中常特指 weather routing。",
     "source_url": "https://glossary.ametsoc.org/wiki/ship_routing"
   },
   {
     "english": "ship synoptic code",
-    "traditional_chinese": "船舶天氣代碼",
-    "definition_cht": "指與「船舶天氣代碼」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/ship_synoptic_code"
+    "traditional_chinese": "船舶天氣綜觀電碼",
+    "definition_cht": "用於船舶海上氣象觀測報告的國際標準編碼格式，可將位置、氣壓、風、氣溫、雲、海況等觀測資料以定群電碼方式傳送。",
+    "source_url": "https://glossary.ametsoc.org/wiki/ship-synoptic-code"
   },
   {
     "english": "shoal",
     "traditional_chinese": "淺灘",
-    "definition_cht": "指與「淺灘」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "水深明顯較周圍海域、湖泊或河道為淺的天然淺水區，常由砂、礫石或岩盤構成，對航行、波浪變形與近岸水動力具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/shoal"
   },
   {
     "english": "shoaling",
     "traditional_chinese": "淺化增高",
-    "definition_cht": "波浪進入淺水區後因水深減少而波長縮短、波高增大的過程。",
+    "definition_cht": "波浪傳入較淺水域時，因水深減少使波速降低、波長縮短而波高增大的過程，常伴隨波陡增加並促進破波。",
     "source_url": "https://glossary.ametsoc.org/wiki/shoaling"
   },
   {
     "english": "shock wave",
     "traditional_chinese": "激波",
-    "definition_cht": "指與「激波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "以高於局地聲速傳播、且壓力、密度、溫度與流速在極薄區域內突變的強壓縮波；可見於爆炸、雷電通道或高速流體運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/shock_wave"
   },
   {
     "english": "shore ice",
     "traditional_chinese": "岸冰",
-    "definition_cht": "指與「岸冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "形成並附著於海岸、湖岸或近岸淺水區的冰，通常固定不隨水面自由漂移，可由沿岸結冰或擱淺海冰發展而成。",
     "source_url": "https://glossary.ametsoc.org/wiki/shore_ice"
   },
   {
     "english": "shore lead",
-    "traditional_chinese": "岸線",
-    "definition_cht": "指與「岸線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/shore_lead"
+    "traditional_chinese": "岸側裂水道",
+    "definition_cht": "極地海冰中位於岸邊與外海漂流冰或浮冰之間的狹長開水帶或裂隙，常沿岸線延伸，可作為近岸航行或海冰移動的重要徵象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/shore-lead"
   },
   {
     "english": "short wave",
     "traditional_chinese": "短波",
-    "definition_cht": "指與「短波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "在天氣分析中通常指嵌入大尺度西風環流中的較小尺度波動或槽脊擾動，常伴隨正渦度平流、抬升與雲雨天氣發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/short_wave"
   },
   {
     "english": "short-crested wave",
-    "traditional_chinese": "短波峰",
-    "definition_cht": "指與「短波峰」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "traditional_chinese": "短峰波",
+    "definition_cht": "波峰在水平方向延伸較短、常由不同方向波列疊加形成的海浪；其波面呈二維起伏，不同於長而近乎平行的長峰波。",
     "source_url": "https://glossary.ametsoc.org/wiki/short-crested_wave"
   },
   {
     "english": "short-range forecast",
     "traditional_chinese": "短期預報",
-    "definition_cht": "針對未來數小時至數日的大氣狀況所作的天氣預報。",
+    "definition_cht": "針對未來數小時至數日的大氣狀況所作的天氣預報；實際時效界定可依作業機構不同而略有差異。",
     "source_url": "https://glossary.ametsoc.org/wiki/short-range_forecast"
   },
   {
     "english": "short-term hydrologic forecast",
     "traditional_chinese": "短期水文預報",
-    "definition_cht": "指與「短期水文預報」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "針對未來數小時至數日的河川水位、流量、洪峰或逕流變化所作的水文預報，常結合降雨預報、流域條件與即時觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/short-term_hydrologic_forecast"
   },
   {
     "english": "shortwave radiation",
     "traditional_chinese": "短波輻射",
-    "definition_cht": "以太陽入射為主、波長較短的電磁輻射通量，是地表與大氣能量收支的重要來源。",
+    "definition_cht": "以太陽入射為主、波長較短的電磁輻射，通常包括紫外、可見光與近紅外波段，是地表與大氣能量收支的重要來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/shortwave_radiation"
   },
   {
     "english": "shower",
     "traditional_chinese": "陣性降水",
-    "definition_cht": "開始與結束較突然、強度變化明顯，常來自對流雲的降水。",
+    "definition_cht": "由對流雲產生、開始與結束較突然且強度變化明顯的降水現象，可表現為陣雨、陣雪、霰或冰雹等。",
     "source_url": "https://glossary.ametsoc.org/wiki/shower"
   },
   {
     "english": "shuga",
-    "traditional_chinese": "舒嘎",
-    "definition_cht": "指與「舒嘎」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "舒加冰",
+    "definition_cht": "由細小海冰碎塊、泥冰或附著冰在擾動水面中聚集形成的海冰，外觀呈海綿狀或顆粒狀白色團塊，常見於寒冷且有浪的近岸水域。",
     "source_url": "https://glossary.ametsoc.org/wiki/shuga"
   },
   {
     "english": "shuquee",
-    "traditional_chinese": "舒奎",
-    "definition_cht": "指與「舒奎」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "舒奎風",
+    "definition_cht": "地方性風名，通常視為 sharki／sharqi 一類地方風的異拼，指中東或埃及一帶來自東方的暖乾風，常夾帶沙塵。",
     "source_url": "https://glossary.ametsoc.org/wiki/shuquee"
   },
   {
     "english": "shurgee",
-    "traditional_chinese": "舒吉",
-    "definition_cht": "指與「舒吉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "舒爾吉風",
+    "definition_cht": "地方性風名，通常視為 sharki／sharqi 類東風或東南風的異拼，指炎熱乾燥、常夾沙塵的地區性風。",
     "source_url": "https://glossary.ametsoc.org/wiki/shurgee"
   },
   {
     "english": "shurkiya",
-    "traditional_chinese": "舒爾基亞",
-    "definition_cht": "指與「舒爾基亞」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "舒爾基亞風",
+    "definition_cht": "地方性風名，為 sharki／sharqiya 的另一拼寫形式，通常指埃及及鄰近地區吹送的暖乾東風或東南風，常伴隨沙塵與低能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/shurkiya"
   },
   {
     "english": "SI",
-    "traditional_chinese": "SI",
-    "definition_cht": "「SI」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/SI"
+    "traditional_chinese": "國際單位制",
+    "definition_cht": "Système International d’Unités 的縮寫，為現代科學與工程通用的國際標準單位系統，氣象觀測與分析多依此表示溫度、壓力、長度、質量與時間等量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/si"
   },
   {
     "english": "Siberian high",
     "traditional_chinese": "西伯利亞高壓",
-    "definition_cht": "冬半年形成於歐亞大陸內陸的大尺度冷高壓系統，對東亞寒潮與季風有重要影響。",
+    "definition_cht": "冬半年形成於歐亞大陸內陸的大尺度冷性高壓系統，對東亞寒潮爆發、冬季季風增強與冷空氣南侵具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Siberian_high"
   },
   {
     "english": "SID",
-    "traditional_chinese": "安全識別碼",
-    "definition_cht": "「SID」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "突發電離層擾動",
+    "definition_cht": "sudden ionospheric disturbance 的縮寫，指太陽閃焰等高能輻射使電離層電離狀態在短時間內顯著改變的現象，會擾動無線電波傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/SID"
   },
   {

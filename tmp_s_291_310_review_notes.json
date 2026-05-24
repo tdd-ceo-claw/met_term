@@ -1,0 +1,182 @@
+[
+  {
+    "english": "ship routing",
+    "traditional_chinese": "船舶航路規劃",
+    "definition_cht": "依據天氣、海況、洋流與船舶性能等資訊，規劃較安全、較省時或較節能的航線之作業；在航海氣象中常特指 weather routing。",
+    "checks": [
+      "Wikipedia Weather routing：說明依天氣與海況資料規劃較佳船舶航線。",
+      "DuckDuckGo / 航海氣象文獻結果：ship routing 多與 weather routing、航安與節能最佳化相關。"
+    ]
+  },
+  {
+    "english": "ship synoptic code",
+    "traditional_chinese": "船舶天氣綜觀電碼",
+    "definition_cht": "用於船舶海上氣象觀測報告的國際標準編碼格式，可將位置、氣壓、風、氣溫、雲、海況等觀測資料以定群電碼方式傳送。",
+    "checks": [
+      "AMS 條目連結 ship-synoptic-code 與既有 abbreviated ship synoptic code 詞條相互印證其為船舶綜觀觀測電碼。",
+      "海軍／氣象訓練教材 SHIP SYNOPTIC CODE：內容以分組電碼回報位置、風、壓、雲與海況。"
+    ]
+  },
+  {
+    "english": "shoal",
+    "traditional_chinese": "淺灘",
+    "definition_cht": "水深明顯較周圍海域、湖泊或河道為淺的天然淺水區，常由砂、礫石或岩盤構成，對航行、波浪變形與近岸水動力具有重要影響。",
+    "checks": [
+      "Britannica / 一般地理詞典：shoal 指天然淺水區或沙洲淺灘。",
+      "海岸／水文資料與航海用法：shoal 著重水深偏淺、影響航行與波浪變形。"
+    ]
+  },
+  {
+    "english": "shoaling",
+    "traditional_chinese": "淺化增高",
+    "definition_cht": "波浪傳入較淺水域時，因水深減少使波速降低、波長縮短而波高增大的過程，常伴隨波陡增加並促進破波。",
+    "checks": [
+      "Wikipedia Shoaling：說明波浪進入淺水時波速降低、波長縮短、波高增大。",
+      "海岸工程教材：shoaling 與淺水變形、波陡增加及破波前發育一致。"
+    ]
+  },
+  {
+    "english": "shock wave",
+    "traditional_chinese": "激波",
+    "definition_cht": "以高於局地聲速傳播、且壓力、密度、溫度與流速在極薄區域內突變的強壓縮波；可見於爆炸、雷電通道或高速流體運動。",
+    "checks": [
+      "Wikipedia Shock wave：定義為以超音速傳播、物理量突變的強壓縮波。",
+      "流體力學與氣象教材：激波伴隨壓力、密度與溫度不連續躍變。"
+    ]
+  },
+  {
+    "english": "shore ice",
+    "traditional_chinese": "岸冰",
+    "definition_cht": "形成並附著於海岸、湖岸或近岸淺水區的冰，通常固定不隨水面自由漂移，可由沿岸結冰或擱淺海冰發展而成。",
+    "checks": [
+      "Wikipedia Shore ice：指附著於岸邊或近岸淺灘的冰。",
+      "極地／海冰詞彙頁面：shore ice 著重固定於岸際、不自由漂移。"
+    ]
+  },
+  {
+    "english": "shore lead",
+    "traditional_chinese": "岸側裂水道",
+    "definition_cht": "極地海冰中位於岸邊與外海漂流冰或浮冰之間的狹長開水帶或裂隙，常沿岸線延伸，可作為近岸航行或海冰移動的重要徵象。",
+    "checks": [
+      "Wikipedia Shore lead：定義為岸邊與外側海冰之間的狹長開水帶。",
+      "海冰導航／極地詞彙資料：shore lead 常沿岸線延伸，與近岸航行判讀有關。"
+    ]
+  },
+  {
+    "english": "short wave",
+    "traditional_chinese": "短波",
+    "definition_cht": "在天氣分析中通常指嵌入大尺度西風環流中的較小尺度波動或槽脊擾動，常伴隨正渦度平流、抬升與雲雨天氣發展。",
+    "checks": [
+      "Wikipedia Shortwave / shortwave trough：指大尺度環流中較小尺度之高空波動擾動。",
+      "天氣分析教材：short wave 常與短波槽、渦度平流與上升運動連結。"
+    ]
+  },
+  {
+    "english": "short-crested wave",
+    "traditional_chinese": "短峰波",
+    "definition_cht": "波峰在水平方向延伸較短、常由不同方向波列疊加形成的海浪；其波面呈二維起伏，不同於長而近乎平行的長峰波。",
+    "checks": [
+      "海岸工程與波浪力學教材：short-crested wave 指波峰長度有限、具方向散布的波。",
+      "Wikipedia wind wave / directional sea 概念：多方向疊加可形成短峰波面。"
+    ]
+  },
+  {
+    "english": "short-range forecast",
+    "traditional_chinese": "短期預報",
+    "definition_cht": "針對未來數小時至數日的大氣狀況所作的天氣預報；實際時效界定可依作業機構不同而略有差異。",
+    "checks": [
+      "NWS / 一般預報分類：short-range forecast 通常指數小時至數日尺度預報。",
+      "AMS 類別用法與作業機構慣例：短期時效依機構略異，但明顯短於中期預報。"
+    ]
+  },
+  {
+    "english": "short-term hydrologic forecast",
+    "traditional_chinese": "短期水文預報",
+    "definition_cht": "針對未來數小時至數日的河川水位、流量、洪峰或逕流變化所作的水文預報，常結合降雨預報、流域條件與即時觀測資料。",
+    "checks": [
+      "水文預報教材：short-term hydrologic forecast 聚焦未來數小時至數日水位與流量變化。",
+      "洪水作業實務：常結合降雨預報與流域即時觀測進行短時效洪水預測。"
+    ]
+  },
+  {
+    "english": "shortwave radiation",
+    "traditional_chinese": "短波輻射",
+    "definition_cht": "以太陽入射為主、波長較短的電磁輻射，通常包括紫外、可見光與近紅外波段，是地表與大氣能量收支的重要來源。",
+    "checks": [
+      "NASA Earth Observatory / 輻射收支教材：shortwave radiation 主要來自太陽，含可見與近紅外。",
+      "Wikipedia Shortwave radiation：確認其屬較短波長之入射太陽輻射。"
+    ]
+  },
+  {
+    "english": "shower",
+    "traditional_chinese": "陣性降水",
+    "definition_cht": "由對流雲產生、開始與結束較突然且強度變化明顯的降水現象，可表現為陣雨、陣雪、霰或冰雹等。",
+    "checks": [
+      "WMO / NWS 天氣名詞：shower 為開始終止突然、強度變化快之對流性降水。",
+      "Wikipedia Shower (precipitation)：可包含雨、雪、霰、冰雹等陣性降水型態。"
+    ]
+  },
+  {
+    "english": "shuga",
+    "traditional_chinese": "舒加冰",
+    "definition_cht": "由細小海冰碎塊、泥冰或附著冰在擾動水面中聚集形成的海冰，外觀呈海綿狀或顆粒狀白色團塊，常見於寒冷且有浪的近岸水域。",
+    "checks": [
+      "Wiktionary / 極地詞彙：shuga 為顆粒狀或海綿狀白色冰團。",
+      "海冰分類資料（如 WMO/NSIDC 類型說明）：由 slush、frazil 或 anchor ice 在擾動水面聚集形成。"
+    ]
+  },
+  {
+    "english": "shuquee",
+    "traditional_chinese": "舒奎風",
+    "definition_cht": "地方性風名，通常視為 sharki／sharqi 一類地方風的異拼，指中東或埃及一帶來自東方的暖乾風，常夾帶沙塵。",
+    "checks": [
+      "AMS 條目存在 shuquee，且與 sharki / sherki / sharqi 族群詞形相近。",
+      "阿拉伯地方風名用法：多屬東風、暖乾且常夾沙塵的區域風異拼。"
+    ]
+  },
+  {
+    "english": "shurgee",
+    "traditional_chinese": "舒爾吉風",
+    "definition_cht": "地方性風名，通常視為 sharki／sharqi 類東風或東南風的異拼，指炎熱乾燥、常夾沙塵的地區性風。",
+    "checks": [
+      "AMS 條目存在 shurgee，與 sharki / sherki 為同一地方風名稱族的變體。",
+      "地區風名辭典常見拼法差異，語義仍指暖乾含塵的東風或東南風。"
+    ]
+  },
+  {
+    "english": "shurkiya",
+    "traditional_chinese": "舒爾基亞風",
+    "definition_cht": "地方性風名，為 sharki／sharqiya 的另一拼寫形式，通常指埃及及鄰近地區吹送的暖乾東風或東南風，常伴隨沙塵與低能見度。",
+    "checks": [
+      "AMS 條目存在 shurkiya，拼法與 sharqiya（東方的）相近。",
+      "埃及／中東地方風資料：通常指來自東方的暖乾風，常伴隨沙塵。"
+    ]
+  },
+  {
+    "english": "SI",
+    "traditional_chinese": "國際單位制",
+    "definition_cht": "Système International d’Unités 的縮寫，為現代科學與工程通用的國際標準單位系統，氣象觀測與分析多依此表示溫度、壓力、長度、質量與時間等量。",
+    "checks": [
+      "BIPM / SI 官方資料：SI 為 Système International d’Unités，即國際單位制。",
+      "氣象觀測標準與科學文獻普遍以 SI 作為基本單位體系。"
+    ]
+  },
+  {
+    "english": "Siberian high",
+    "traditional_chinese": "西伯利亞高壓",
+    "definition_cht": "冬半年形成於歐亞大陸內陸的大尺度冷性高壓系統，對東亞寒潮爆發、冬季季風增強與冷空氣南侵具有重要影響。",
+    "checks": [
+      "Wikipedia Siberian High：確認其為冬季歐亞內陸強冷高壓。",
+      "東亞季風與寒潮文獻：其強弱與東亞冬季季風、冷空氣南下密切相關。"
+    ]
+  },
+  {
+    "english": "SID",
+    "traditional_chinese": "突發電離層擾動",
+    "definition_cht": "sudden ionospheric disturbance 的縮寫，指太陽閃焰等高能輻射使電離層電離狀態在短時間內顯著改變的現象，會擾動無線電波傳播。",
+    "checks": [
+      "既有詞條 sudden ionospheric disturbance 可與縮寫 SID 互證。",
+      "電離層與太陽閃焰資料：SID 為太陽高能輻射導致電離層快速擾動，影響無線電傳播。"
+    ]
+  }
+]
