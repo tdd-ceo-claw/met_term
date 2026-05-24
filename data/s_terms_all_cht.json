@@ -901,122 +901,122 @@
   },
   {
     "english": "seclusion",
-    "traditional_chinese": "隔離",
-    "definition_cht": "指與「隔離」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "隔離（暖核隔離）",
+    "definition_cht": "在 Shapiro–Keyser 型溫帶氣旋成熟階段中，冷空氣自後方捲入並將暖空氣核心與暖區分隔開來的過程；常形成彎折回暖鋒與被包圍的暖核結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/seclusion"
   },
   {
     "english": "second law of thermodynamics",
     "traditional_chinese": "熱力學第二定律",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
+    "definition_cht": "熱力學基本定律之一，指出熱量自發地由高溫處傳向低溫處，且在循環過程中不可能將吸收的熱量全部轉換為功；亦可用熵不減原理表述。",
     "source_url": "https://glossary.ametsoc.org/wiki/second_law_of_thermodynamics"
   },
   {
     "english": "Second Summer",
-    "traditional_chinese": "第二個夏天",
-    "definition_cht": "指與「第二個夏天」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "二度夏",
+    "definition_cht": "指進入秋季或初冬後，在一段較涼天氣之後再度出現的短暫異常暖熱時期，概念近似於 late warm spell 或 Indian summer。",
     "source_url": "https://glossary.ametsoc.org/wiki/Second_Summer"
   },
   {
     "english": "second-foot",
     "traditional_chinese": "秒立方英尺",
-    "definition_cht": "流量單位，指每秒流過一立方英尺的體積流率，常記為 cfs。",
+    "definition_cht": "流量單位，表示每秒通過某一斷面的水量為一立方英尺，常以 cfs（cubic foot per second）表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/second-foot"
   },
   {
     "english": "second-foot day",
     "traditional_chinese": "秒立方英尺日",
-    "definition_cht": "一秒立方英尺的流量持續一天所對應的水量單位。",
+    "definition_cht": "水量單位，指流量為每秒一立方英尺並持續一日所累積的總水量。",
     "source_url": "https://glossary.ametsoc.org/wiki/second-foot_day"
   },
   {
     "english": "second-order climatological station",
     "traditional_chinese": "二級氣候站",
-    "definition_cht": "指觀測站、測站、基地或固定量測位置相關之專業名稱。",
+    "definition_cht": "氣候觀測網中次於一級站的觀測站，觀測要素、儀器配置或觀測頻率通常較一級氣候站簡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/second-order_climatological_station"
   },
   {
     "english": "second-order closure",
     "traditional_chinese": "二階閉包",
-    "definition_cht": "指與「二階閉包」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "湍流或邊界層參數化方法之一，直接預報或診斷速度、溫度等二階矩（如變異與通量），並以閉合理論處理更高階項。",
     "source_url": "https://glossary.ametsoc.org/wiki/second-order_closure"
   },
   {
     "english": "second-order reaction",
     "traditional_chinese": "二級反應",
-    "definition_cht": "指與「二級反應」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "總反應級數為二的化學反應，其反應速率與單一反應物濃度平方或兩種反應物濃度的一次乘積成正比。",
     "source_url": "https://glossary.ametsoc.org/wiki/second-order_reaction"
   },
   {
     "english": "second-order station",
-    "traditional_chinese": "二階站",
-    "definition_cht": "指觀測站、測站、基地或固定量測位置相關之專業名稱。",
+    "traditional_chinese": "二級測站",
+    "definition_cht": "觀測或監測網中層級次於一級站的測站，通常在觀測項目、精度要求或作業頻率上較主站為簡。",
     "source_url": "https://glossary.ametsoc.org/wiki/second-order_station"
   },
   {
     "english": "second-trip echo",
     "traditional_chinese": "第二程回波",
-    "definition_cht": "雷達脈衝於超過不模糊距離的目標反射後，在較近距離位置被誤顯示的回波。",
+    "definition_cht": "雷達波束照射至超過最大不模糊距離的目標後，其回波在較後一個發射週期才返回，因而被錯置顯示於較近距離位置的虛假回波。",
     "source_url": "https://glossary.ametsoc.org/wiki/second-trip_echo"
   },
   {
     "english": "second-year ice",
     "traditional_chinese": "二年冰",
-    "definition_cht": "經歷至少一個夏季融化後仍保存至第二個冬季的海冰。",
+    "definition_cht": "經歷至少一個夏季消融後仍存續，並進入下一個生長季的海冰；其厚度與鹽度特徵通常介於一年冰與多年冰之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/second-year_ice"
   },
   {
     "english": "secondary bands",
-    "traditional_chinese": "次要頻段",
-    "definition_cht": "指與「次要頻段」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "次生帶",
+    "definition_cht": "在主要帶狀雲系、降水帶或回波帶之外另外發展出的次級條帶結構，常用於描述氣旋或熱帶系統中的附屬雲雨帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_bands"
   },
   {
     "english": "secondary circulation",
-    "traditional_chinese": "二次循環",
-    "definition_cht": "指與「二次循環」相關的環流型態、閉合流動結構或大尺度運動配置。",
+    "traditional_chinese": "二次環流",
+    "definition_cht": "相對於主要環流而言較弱、但對維持系統質量、動量與熱量收支很重要的次級流動；例如熱帶氣旋中的徑向入流、上升運動與高空外流。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_circulation"
   },
   {
     "english": "secondary cold front",
-    "traditional_chinese": "二次冷鋒",
-    "definition_cht": "指與「二次冷鋒」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
+    "traditional_chinese": "次生冷鋒",
+    "definition_cht": "在主要冷鋒之後另行形成或緊隨其後的次級冷鋒，常伴隨額外冷空氣推進與後續風向、溫度及降水變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_cold_front"
   },
   {
     "english": "secondary cyclone",
     "traditional_chinese": "次生氣旋",
-    "definition_cht": "在主要氣旋附近或鋒面上新發展出的次級低壓渦旋。",
+    "definition_cht": "在既有鋒面或主氣旋附近再發展出的次級氣旋性低壓系統，尺度通常較小，但可顯著影響局地風雨分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_cyclone"
   },
   {
     "english": "secondary depression",
     "traditional_chinese": "次生低壓",
-    "definition_cht": "主低壓系統附近另行發展出的較小低壓中心。",
+    "definition_cht": "附屬於主要低壓系統、於其附近或沿鋒面再發展出的較小低壓中心。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_depression"
   },
   {
     "english": "secondary emission",
     "traditional_chinese": "二次發射",
-    "definition_cht": "高能粒子或輻射撞擊表面後，使電子或其他粒子再度逸出的現象。",
+    "definition_cht": "高能粒子、電子或光子撞擊固體表面後，誘發電子或其他次級粒子逸出的現象；常見於光電倍增管、真空管與粒子偵測器。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_emission"
   },
   {
     "english": "secondary front",
-    "traditional_chinese": "次要戰線",
-    "definition_cht": "指與「次要戰線」相關的鋒面結構，代表不同性質氣團之交界及其伴隨天氣變化。",
+    "traditional_chinese": "次生鋒",
+    "definition_cht": "在主要鋒面之外另行形成的次級鋒面，代表另一道較弱但仍可辨識的氣團交界。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_front"
   },
   {
     "english": "secondary hydrometric station",
     "traditional_chinese": "二級水文站",
-    "definition_cht": "指觀測站、測站、基地或固定量測位置相關之專業名稱。",
+    "definition_cht": "水文測站分級中次於一級站的測站，通常在觀測項目、設備完整度或資料精度要求上較主站簡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_hydrometric_station"
   },
   {
     "english": "secondary ice crystal",
     "traditional_chinese": "次生冰晶",
-    "definition_cht": "指與「次生冰晶」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "並非直接由冰核初始成冰形成，而是經由破碎、碰撞凍結、霰化或其他次生冰生成機制所產生的冰晶。",
     "source_url": "https://glossary.ametsoc.org/wiki/secondary_ice_crystal"
   },
   {
