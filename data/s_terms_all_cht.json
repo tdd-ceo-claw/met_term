@@ -2342,67 +2342,67 @@
   {
     "english": "Sky luminance",
     "traditional_chinese": "天空亮度",
-    "definition_cht": "指與「天空亮度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指天空某一方向或區域所呈現的亮度，為日照、輻射傳輸、能見度與天空狀態評估的重要光度量。",
     "source_url": "https://glossary.ametsoc.org/wiki/Sky_luminance"
   },
   {
     "english": "sky map",
     "traditional_chinese": "天空圖",
-    "definition_cht": "指與「天空圖」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以圖形方式表示全天空雲量、雲型、天光或相關現象空間分布的圖，用於觀測記錄、分析與展示天空狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/sky_map"
   },
   {
     "english": "sky slightly clouded",
-    "traditional_chinese": "天空稍有陰雲",
-    "definition_cht": "指與「天空稍有陰雲」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "traditional_chinese": "天空微雲",
+    "definition_cht": "觀測用語，指天空僅有少量雲覆蓋，雲量偏低，整體仍以晴朗或近晴空狀態為主。",
     "source_url": "https://glossary.ametsoc.org/wiki/sky_slightly_clouded"
   },
   {
     "english": "sky sweeper",
-    "traditional_chinese": "天空清掃者",
-    "definition_cht": "指與「天空清掃者」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "全天空掃描儀",
+    "definition_cht": "指用於掃描全天空範圍、記錄雲況、天光或輻射分布的觀測裝置或掃描系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/sky_sweeper"
   },
   {
     "english": "sky wave",
     "traditional_chinese": "天波",
-    "definition_cht": "指與「天波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "無線電波經電離層折射或反射後返回地表的傳播方式，可使訊號越過地平線進行遠距通訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/sky_wave"
   },
   {
     "english": "Sky–ground luminance ratio",
     "traditional_chinese": "天地亮度比",
-    "definition_cht": "指「天地亮度比」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "definition_cht": "天空亮度與地表或地景亮度之比值，用於評估視覺對比、眩光條件、能見度與目標辨識環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/Sky%E2%80%93ground_luminance_ratio"
   },
   {
     "english": "skyhook balloon",
-    "traditional_chinese": "天鉤氣球",
-    "definition_cht": "指與「天鉤氣球」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "天鉤高空氣球",
+    "definition_cht": "美國早期發展的高空研究氣球，用於平流層與高空大氣觀測，特別曾應用於定層氣象觀測與科學酬載升空試驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/skyhook_balloon"
   },
   {
     "english": "slab approximation",
     "traditional_chinese": "平板近似",
-    "definition_cht": "指與「平板近似」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "將流體、海洋混合層、大氣層或其他介質視為厚度有限且在水平方向性質近似一致之板狀層的理論近似。",
     "source_url": "https://glossary.ametsoc.org/wiki/slab_approximation"
   },
   {
     "english": "slab layer",
-    "traditional_chinese": "板層",
-    "definition_cht": "指大氣、海洋、土壤、冰雪或介質中的層狀結構與其物理性質。",
+    "traditional_chinese": "板狀層",
+    "definition_cht": "厚度相對較小、水平延伸較大，且常可近似視為性質較均一之層狀介質或流體層。",
     "source_url": "https://glossary.ametsoc.org/wiki/slab_layer"
   },
   {
     "english": "slab model",
     "traditional_chinese": "平板模型",
-    "definition_cht": "指模擬或描述「平板模型」相關現象之概念模型、數值模式或理論架構。",
+    "definition_cht": "將系統簡化為單一均質厚層或板狀層的概念模型，常用於描述海洋混合層、地表層或其他層狀介質的整體響應。",
     "source_url": "https://glossary.ametsoc.org/wiki/slab_model"
   },
   {
     "english": "slablike motion",
-    "traditional_chinese": "板狀運動",
-    "definition_cht": "指與「板狀運動」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "板塊式運動",
+    "definition_cht": "指介質或流體近似以整塊、整層方式共同移動的運動型態，而非在垂直方向上呈現明顯內部分層變形。",
     "source_url": "https://glossary.ametsoc.org/wiki/slablike_motion"
   },
   {
@@ -2413,50 +2413,50 @@
   },
   {
     "english": "slake",
-    "traditional_chinese": "熄滅",
-    "definition_cht": "指與「熄滅」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "濕解",
+    "definition_cht": "土壤、黏土、頁岩或其他乾燥顆粒材料受水浸潤後鬆解、崩散或軟化的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/slake"
   },
   {
     "english": "slant range",
     "traditional_chinese": "斜距",
-    "definition_cht": "雷達、衛星或觀測平台與目標之間沿視線方向的實際距離。",
+    "definition_cht": "雷達、衛星、感測器或觀測平台與目標之間沿視線方向量得的實際距離。",
     "source_url": "https://glossary.ametsoc.org/wiki/slant_range"
   },
   {
     "english": "slant visibility",
-    "traditional_chinese": "傾斜能見度",
-    "definition_cht": "指與「傾斜能見度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "斜向能見度",
+    "definition_cht": "沿傾斜視線方向量得的能見距離，常用於航空作業以描述駕駛員前下方或前上方可辨識目標的最遠距離。",
     "source_url": "https://glossary.ametsoc.org/wiki/slant_visibility"
   },
   {
     "english": "slantwise convection",
     "traditional_chinese": "傾斜對流",
-    "definition_cht": "指與「傾斜對流」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在斜壓大氣中，氣塊主要沿傾斜方向而非近垂直方向發展的對流，常與鋒面區及對稱不穩定有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/slantwise_convection"
   },
   {
     "english": "slantwise convective available potential energy",
     "traditional_chinese": "傾斜對流可用位能",
-    "definition_cht": "指與「傾斜對流可用位能」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "氣塊沿傾斜位移路徑發展對流時可釋放的浮力位能，常用於評估對稱不穩定與傾斜對流發生的潛勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/slantwise_convective_available_potential_energy"
   },
   {
     "english": "sleet",
     "traditional_chinese": "霰",
-    "definition_cht": "由雨滴、雪或融化再凍結粒子組成的冬季降水型態，實際定義可依地區作業慣例略有差異。",
+    "definition_cht": "冬季降水型態之一；美式氣象用法多指冰粒，英式用法則常泛指雨雪混合，因此實際定義須依作業慣例判讀。",
     "source_url": "https://glossary.ametsoc.org/wiki/sleet"
   },
   {
     "english": "slice method",
     "traditional_chinese": "切片法",
-    "definition_cht": "指用於分析、估算、觀測、計算或作業處理「切片法」之方法、程序或技術。",
+    "definition_cht": "將連續場、體積或分布切分為若干薄層、截面或小區段，再逐段分析、積分或估算其總體性質的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/slice_method"
   },
   {
     "english": "sliding scale",
     "traditional_chinese": "滑動尺度",
-    "definition_cht": "指與「滑動尺度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "可依某一控制量或條件變化而連續調整的分級尺度、費率基準或換算標尺。",
     "source_url": "https://glossary.ametsoc.org/wiki/sliding_scale"
   },
   {
