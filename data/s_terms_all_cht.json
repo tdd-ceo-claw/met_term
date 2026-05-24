@@ -2102,121 +2102,121 @@
   {
     "english": "sine galvanometer",
     "traditional_chinese": "正弦檢流計",
-    "definition_cht": "一種電磁式磁力儀，用於量測地球磁場水平分量強度，並可作為此一量測的標準儀器。",
+    "definition_cht": "一種利用地磁水平分量與線圈磁場平衡關係來量測電流或磁場強度的儀器；在地磁觀測中曾用於測定地球磁場水平分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/sine-galvanometer/"
   },
   {
     "english": "single drift correction",
     "traditional_chinese": "單次漂移校正",
-    "definition_cht": "指與「單次漂移校正」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指只根據一次基準比較或一次漂移估計值，對觀測資料施作的漂移修正方法；常用於校正儀器零點或平台訊號隨時間產生的系統性偏移。",
     "source_url": "https://glossary.ametsoc.org/wiki/single_drift_correction"
   },
   {
     "english": "single observer forecasting",
-    "traditional_chinese": "單一觀察者預測",
-    "definition_cht": "指與「單一觀察者預測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "單一觀測者預報",
+    "definition_cht": "由單一預報員依據本地觀測、經驗法則與即時天氣演變所進行的預報方法，通常不依賴完整天氣圖分析或多站資料整合。",
     "source_url": "https://glossary.ametsoc.org/wiki/single_observer_forecasting"
   },
   {
     "english": "single scattering",
     "traditional_chinese": "單次散射",
-    "definition_cht": "指與「單次散射」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指輻射在介質中傳播時僅與一個粒子或散射體發生一次散射的近似或過程；常用於大氣輻射傳輸、雲滴光學與遙測反演。",
     "source_url": "https://glossary.ametsoc.org/wiki/single_scattering"
   },
   {
     "english": "single-heading navigation",
-    "traditional_chinese": "單標題導航",
-    "definition_cht": "指與「單標題導航」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "單航向導航",
+    "definition_cht": "指在一段航程中採用單一固定航向進行導引的導航方法，通常假設風或流的影響可由單一漂移修正處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/single-heading_navigation"
   },
   {
     "english": "single-scatter albedo",
-    "traditional_chinese": "單散射反照率",
-    "definition_cht": "指與「單散射反照率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "單次散射反照率",
+    "definition_cht": "粒子或介質散射效率與總消光效率之比，為無因次量；值愈接近 1 表示消光主要來自散射，愈接近 0 則表示主要來自吸收。",
     "source_url": "https://glossary.ametsoc.org/wiki/single-scatter_albedo"
   },
   {
     "english": "single-station analysis",
     "traditional_chinese": "單站分析",
-    "definition_cht": "指觀測站、測站、基地或固定量測位置相關之專業名稱。",
+    "definition_cht": "僅利用單一測站的連續觀測資料，如氣壓、風、溫度、雲與天氣現象，來判讀局地天氣演變與推估天氣系統影響的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/single-station_analysis"
   },
   {
     "english": "single-station forecasting",
     "traditional_chinese": "單站預報",
-    "definition_cht": "指觀測站、測站、基地或固定量測位置相關之專業名稱。",
+    "definition_cht": "主要依據單一測站的歷時觀測變化與經驗關係所作的局地短期天氣預報方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/single-station_forecasting"
   },
   {
     "english": "single-theodolite observation",
     "traditional_chinese": "單經緯儀觀測",
-    "definition_cht": "指與「單經緯儀觀測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "利用一具經緯儀追蹤測風氣球方位角與仰角變化，並配合假定或已知上升速率來推算高空風向風速的觀測方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/single-theodolite_observation"
   },
   {
     "english": "singular corresponding point",
     "traditional_chinese": "奇異對應點",
-    "definition_cht": "指與「奇異對應點」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在映射、座標轉換或函數對應關係中，使對應不再唯一、局部不可逆或導數退化的點。",
     "source_url": "https://glossary.ametsoc.org/wiki/singular_corresponding_point"
   },
   {
     "english": "singular point",
     "traditional_chinese": "奇異點",
-    "definition_cht": "指與「奇異點」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指函數、向量場或流線場中數值未定、導數不存在，或局部性質與周圍區域明顯不同的點。",
     "source_url": "https://glossary.ametsoc.org/wiki/singular_point"
   },
   {
     "english": "singular value decomposition",
     "traditional_chinese": "奇異值分解",
-    "definition_cht": "指與「奇異值分解」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "線性代數中的矩陣分解方法，可將任意矩陣表示為兩個正交矩陣與一個含奇異值的對角矩陣之乘積；在氣象上常用於降維、資料壓縮、遙測反演與經驗模態分析相關計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/singular_value_decomposition"
   },
   {
     "english": "singular vectors",
     "traditional_chinese": "奇異向量",
-    "definition_cht": "指「奇異向量」所代表的向量診斷量，常用於分析流體運動、強迫機制與場型結構。",
+    "definition_cht": "在線性化預報系統中，於有限時間內成長最快的初始擾動型態；常用於可預報度研究、敏感區定位與集成預報擾動設計。",
     "source_url": "https://glossary.ametsoc.org/wiki/singular_vectors"
   },
   {
     "english": "singularity",
-    "traditional_chinese": "奇點",
-    "definition_cht": "指與「奇點」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "奇異性",
+    "definition_cht": "指數學或物理系統在某一點或區域出現未定義、不可微、發散或局部行為異常的性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/singularity"
   },
   {
     "english": "sink",
-    "traditional_chinese": "下沉",
-    "definition_cht": "指與「下沉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "匯",
+    "definition_cht": "在物質循環或收支分析中，指可持續移除、吸收或儲存某種物質、能量或動量的區域、儲庫或過程；如碳匯即為吸收二氧化碳的系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/sink"
   },
   {
     "english": "sink processes for trace gases",
-    "traditional_chinese": "微量氣體的匯集工藝",
-    "definition_cht": "指與「微量氣體的匯集工藝」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "微量氣體匯過程",
+    "definition_cht": "指將大氣中微量氣體移除或轉化的各類過程，如化學反應、乾沉降、濕沉降、海洋吸收與生物吸收等。",
     "source_url": "https://glossary.ametsoc.org/wiki/sink_processes_for_trace_gases"
   },
   {
     "english": "sinkhole",
     "traditional_chinese": "天坑",
-    "definition_cht": "指與「天坑」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "因地下可溶岩層溶蝕、地下空洞塌陷或鬆散沉積物下陷而形成的地表凹陷或坑洞。",
     "source_url": "https://glossary.ametsoc.org/wiki/sinkhole"
   },
   {
     "english": "sinking",
     "traditional_chinese": "下沉",
-    "definition_cht": "指與「下沉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指空氣團、水體、粒子或物體向下移動的過程；在氣象中可指空氣的下沉運動，在海洋中亦可指較高密度水體的沉降。",
     "source_url": "https://glossary.ametsoc.org/wiki/sinking"
   },
   {
     "english": "Sintering",
     "traditional_chinese": "燒結",
-    "definition_cht": "指與「燒結」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指顆粒在未完全熔融下，因熱或壓力作用而於接觸處擴散結合的過程；在雪與冰物理中則指冰晶顆粒彼此膠結並增強結構強度的作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Sintering"
   },
   {
     "english": "sinusoidal pattern",
-    "traditional_chinese": "正弦模式",
-    "definition_cht": "指與「正弦模式」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "正弦型態",
+    "definition_cht": "指隨時間或空間依正弦函數規律起伏的分布或波形，常用於描述週期性振盪、波動結構與諧波成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/sinusoidal_pattern"
   },
   {
