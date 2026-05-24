@@ -46130,121 +46130,121 @@
   {
     "english": "soft rime",
     "traditional_chinese": "軟霧凇",
-    "definition_cht": "指與「軟霧凇」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指主要在過冷霧或霧滴附著並凍結於外露物體表面時形成的白色、不透明且質脆的霧凇，常由細針狀或鱗片狀冰晶組成，在弱風至微風環境下可附著於物體各側。",
     "source_url": "https://glossary.ametsoc.org/wiki/soft_rime"
   },
   {
     "english": "soft water",
     "traditional_chinese": "軟水",
-    "definition_cht": "指與「軟水」相關的水體、水文狀態、水量平衡或含水特徵。",
+    "definition_cht": "指溶解的鈣、鎂等鹼土金屬離子含量較低的天然水或處理水，因此不易生成水垢，與硬水相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/soft_water"
   },
   {
     "english": "soil air",
     "traditional_chinese": "土壤空氣",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "definition_cht": "指存在於土壤孔隙中的氣體混合物，其組成受土壤含水量、通氣性、溫度及微生物與根系呼吸作用影響，通常二氧化碳較高而氧氣較低。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_air"
   },
   {
     "english": "soil creep",
-    "traditional_chinese": "土壤蠕變",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "traditional_chinese": "土壤蠕移",
+    "definition_cht": "指坡面表層土壤或鬆散風化物在重力作用下極為緩慢而持續的下坡位移，常受凍融、乾濕交替、生物擾動與降雨滲潤等作用促進。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_creep"
   },
   {
     "english": "soil moisture",
-    "traditional_chinese": "土壤濕度",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "traditional_chinese": "土壤水分",
+    "definition_cht": "指土壤孔隙中所含水分的總體狀態與多寡，是控制蒸散、入滲、逕流、植被生長及陸氣能量交換的重要土壤與水文變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_moisture"
   },
   {
     "english": "soil moisture content",
     "traditional_chinese": "土壤含水量",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "definition_cht": "指土壤中所含水分的量，可按質量基準或體積基準表示，用以定量描述土壤濕潤程度，為農業、水文與陸面模式的重要參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_moisture_content"
   },
   {
     "english": "soil moisture deficit",
     "traditional_chinese": "土壤水分虧缺",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "definition_cht": "指實際土壤含水量低於某一參考狀態（通常為田間容水量）所差的水量，可用來表示土壤乾旱程度及植生可利用水分不足的情形。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_moisture_deficit"
   },
   {
     "english": "soil moisture profile",
-    "traditional_chinese": "土壤濕度剖面",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "traditional_chinese": "土壤水分剖面",
+    "definition_cht": "指土壤水分隨深度變化的垂直分布情形，可反映降雨入滲、蒸散消耗、根系取水與排水條件等陸面水文過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_moisture_profile"
   },
   {
     "english": "soil moisture tension",
     "traditional_chinese": "土壤水分張力",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "definition_cht": "指土壤基質將水分束縛住的吸持張力，常作為土壤水勢或基質勢的表徵；數值愈大，表示植物愈難自土壤中吸取水分。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_moisture_tension"
   },
   {
     "english": "soil stripe",
     "traditional_chinese": "土壤條紋",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "definition_cht": "指坡地地表由粗、細顆粒物質交替排列而成、且大致平行於坡向的條帶狀構造，屬冰緣環境或凍融—溶移作用形成的分選地形之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_stripe"
   },
   {
     "english": "soil temperature",
     "traditional_chinese": "土壤溫度",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "definition_cht": "指土壤在特定深度與時間的溫度狀態，受輻射收支、土壤含水量、植被覆蓋與熱傳導影響，對種子萌發、微生物活動與地表能量交換相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_temperature"
   },
   {
     "english": "soil thermograph",
-    "traditional_chinese": "土壤熱像儀",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "traditional_chinese": "土壤溫度記錄儀",
+    "definition_cht": "指連續量測並自動記錄土壤溫度隨時間變化的儀器，可在一個或多個深度提供土壤熱狀態的時序資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_thermograph"
   },
   {
     "english": "soil thermometer",
     "traditional_chinese": "土壤溫度計",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "definition_cht": "指用於量測土壤在指定深度溫度的溫度計，可為液體膨脹式、電阻式或其他感測型式，是農業與地表觀測常用儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_thermometer"
   },
   {
     "english": "soil zone",
-    "traditional_chinese": "土壤區",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "traditional_chinese": "土壤帶",
+    "definition_cht": "指受成土作用支配的近地表層帶，通常包括具有明顯土壤性質、孔隙結構與生物活動的風化物上部，並與下伏母質或基岩相區別。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil_zone"
   },
   {
     "english": "soil-water pressure",
-    "traditional_chinese": "土水壓力",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "traditional_chinese": "土壤水壓",
+    "definition_cht": "指土壤中水分所具有的壓力狀態，常用以表示土壤水勢中的壓力分量；在未飽和土壤中多表現為相對於自由水的負壓或吸力。",
     "source_url": "https://glossary.ametsoc.org/wiki/soil-water_pressure"
   },
   {
     "english": "soilclime",
     "traditional_chinese": "土壤氣候",
-    "definition_cht": "指與土壤性質、土壤水分、地表交換或陸面過程相關的術語。",
+    "definition_cht": "指土壤內部及其近地表微環境所呈現的氣候條件總體，特別著重土壤溫度、含水量、通氣與熱水分季節變化對成土與生態過程的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/soilclime"
   },
   {
     "english": "sol–air temperature",
-    "traditional_chinese": "溶膠-空氣溫度",
-    "definition_cht": "指與「溶膠-空氣溫度」相關的溫度量、溫度場或熱狀態特徵。",
+    "traditional_chinese": "綜合日氣溫度",
+    "definition_cht": "指把太陽短波吸收與天空、周圍環境長波輻射交換折算進去後，使建築外表面具有相同熱效應的等效室外氣溫，常用於建築熱負荷與圍護結構傳熱分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/sol%E2%80%93air_temperature"
   },
   {
     "english": "solaire",
-    "traditional_chinese": "晨曦",
-    "definition_cht": "指與「晨曦」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "太陽的（法語）",
+    "definition_cht": "法語形容詞，意為「太陽的」或「與太陽有關的」；在氣象或天文相關語境中，常作為複合術語成分，用以表示與太陽輻射、太陽現象或日照相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/solaire"
   },
   {
     "english": "solano",
-    "traditional_chinese": "索拉諾",
-    "definition_cht": "指與「索拉諾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "索拉諾風",
+    "definition_cht": "指西地中海與西班牙一帶所稱的地方風，通常為偏東至東南向、溫暖乾燥的風；在部分文獻中亦作為 Levant 風的別名。",
     "source_url": "https://glossary.ametsoc.org/wiki/solano"
   },
   {
     "english": "Solar activity",
     "traditional_chinese": "太陽活動",
-    "definition_cht": "指與太陽輻射、太陽活動、日照幾何或其地球環境效應相關的概念。",
+    "definition_cht": "指太陽黑子、耀斑、日冕物質拋射、日冕洞與輻射通量等各類太陽磁活動及其強弱變化，會影響太空天氣、電離層狀態、極光與地球附近高能粒子環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/Solar_activity"
   },
   {
