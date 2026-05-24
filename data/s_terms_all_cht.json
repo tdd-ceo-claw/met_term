@@ -667,122 +667,122 @@
   },
   {
     "english": "screen",
-    "traditional_chinese": "螢幕",
-    "definition_cht": "指與「螢幕」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "遮護罩",
+    "definition_cht": "指設於氣象觀測儀器外部的遮蔽或防護裝置，用以減少日射、降水、飛散雜物或局地擾動對量測的直接影響，同時盡可能保持必要通風。",
     "source_url": "https://glossary.ametsoc.org/wiki/screen"
   },
   {
     "english": "screened pan",
-    "traditional_chinese": "篩選磁碟",
-    "definition_cht": "指與「篩選磁碟」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "加網量測皿",
+    "definition_cht": "指上方覆有金屬網罩或防護網的量測皿，常用於蒸發或降水相關觀測，以減少鳥類、落葉與雜物干擾，並盡量維持量測條件穩定。",
     "source_url": "https://glossary.ametsoc.org/wiki/screened_pan"
   },
   {
     "english": "screening layer",
     "traditional_chinese": "屏蔽層",
-    "definition_cht": "指大氣、海洋、土壤、冰雪或介質中的層狀結構與其物理性質。",
+    "definition_cht": "指能削弱上下層之間某種物理作用傳遞的層狀區域；在大氣或環境物理中，可指對輻射、電場、擴散或湍流交換具有遮蔽、緩衝作用的薄層。",
     "source_url": "https://glossary.ametsoc.org/wiki/screening_layer"
   },
   {
     "english": "scrubber",
     "traditional_chinese": "洗滌器",
-    "definition_cht": "指與「洗滌器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "用於去除氣流中顆粒物或可溶性氣體的處理設備；在大氣污染監測與環境工程中，常藉液體吸收、噴淋或接觸介質清除污染物。",
     "source_url": "https://glossary.ametsoc.org/wiki/scrubber"
   },
   {
     "english": "scud",
-    "traditional_chinese": "飛毛腿",
-    "definition_cht": "指與「飛毛腿」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "碎雲",
+    "definition_cht": "指低空、外形破碎且移動迅速的雲塊，通常為較大片雲層下方的 fractus 雲，常見於陣風、降水區或對流系統附近，易被誤認為漏斗雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/scud"
   },
   {
     "english": "SCV",
-    "traditional_chinese": "超臨界電壓",
-    "definition_cht": "「SCV」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
+    "traditional_chinese": "SCV",
+    "definition_cht": "縮寫詞，實際涵義須依所屬專業語境判定；在氣象與相關技術文獻中，遇此類未明示縮寫時，不宜任意擴寫，應以原文定義或上下文說明為準。",
     "source_url": "https://glossary.ametsoc.org/wiki/SCV"
   },
   {
     "english": "sea",
     "traditional_chinese": "海",
-    "definition_cht": "指與海洋、海面、海冰、海氣交互作用或海岸過程相關的專業概念。",
+    "definition_cht": "指較大鹹水水體，常為海洋邊緣部分或半封閉海域；在氣象與海洋學中，亦泛指與海面、海氣交互作用、海冰及沿岸過程相關的環境背景。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea"
   },
   {
     "english": "sea breeze",
     "traditional_chinese": "海風",
-    "definition_cht": "由海陸熱力差異驅動、白天自海向陸吹送的局地環流，常影響沿海地區風向、對流與降水分布。",
+    "definition_cht": "由海陸受熱差異所驅動的局地環流，白天近地面風自海向陸吹送；其發展常伴隨沿岸輻合、風向轉變，以及對流與降水分布改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_breeze"
   },
   {
     "english": "sea clutter",
     "traditional_chinese": "海雜波",
-    "definition_cht": "雷達接收中由波浪起伏海面產生的雜訊回波，會干擾海上目標辨識。",
+    "definition_cht": "雷達接收中由粗糙海面、波浪或浪尖散射所產生的非目標回波，會降低海上目標偵測與辨識能力，尤其影響低仰角與近海觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_clutter"
   },
   {
     "english": "sea fog",
     "traditional_chinese": "海霧",
-    "definition_cht": "發生於海面上或沿岸的霧，常因暖濕空氣移經較冷海面而冷卻至飽和所形成。",
+    "definition_cht": "發生於海面上或沿岸的霧，常見於暖濕空氣移經較冷海面後冷卻至飽和而形成，屬海上常見的平流霧類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_fog"
   },
   {
     "english": "sea ice",
     "traditional_chinese": "海冰",
-    "definition_cht": "由海水凍結形成的冰體，包括浮冰、新冰、多年冰等各類型態。",
+    "definition_cht": "由海水凍結形成並漂浮於海面的冰體，隨季節擴張與消退，可包括新冰、一年冰與多年冰等類型，為極區海氣交互作用的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_ice"
   },
   {
     "english": "Sea level",
     "traditional_chinese": "海平面",
-    "definition_cht": "海水表面的平均高度基準，常作為高程、氣壓與海洋觀測的參考面。",
+    "definition_cht": "海水表面的平均高度基準，常以長期潮位觀測求得，並作為高程、航海、水文及部分大氣觀測折算的參考面。",
     "source_url": "https://glossary.ametsoc.org/wiki/Sea_level"
   },
   {
     "english": "sea level measurements",
     "traditional_chinese": "海平面測量",
-    "definition_cht": "對海面高度或其變化進行的量測作業，可利用驗潮儀、衛星高度計等方法。",
+    "definition_cht": "對海面高度及其時空變化所進行的量測，可利用驗潮儀、衛星高度計等工具，用於監測潮汐、海平面變動與長期海平面趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_level_measurements"
   },
   {
     "english": "sea level pressure",
     "traditional_chinese": "海平面氣壓",
-    "definition_cht": "將測站實測氣壓依標準大氣假設折算至海平面後所得之氣壓值，便於不同高度地點比較。",
+    "definition_cht": "將測站實測氣壓依溫度與高度條件折算至海平面後所得之氣壓值，用以消除地形高差影響，便於天氣分析與不同地點比較。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_level_pressure"
   },
   {
     "english": "sea level rise",
     "traditional_chinese": "海平面上升",
-    "definition_cht": "全球或區域平均海平面因海水熱膨脹、冰川與冰蓋消融等因素而長期升高的現象。",
+    "definition_cht": "全球或區域平均海平面長期升高的現象，主因包括海水增溫熱膨脹，以及山岳冰川與冰蓋融冰增加入海。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_level_rise"
   },
   {
     "english": "sea smoke",
     "traditional_chinese": "海煙",
-    "definition_cht": "冷空氣移經較暖水面時，近水面水汽迅速蒸發並凝結成霧狀羽流的現象。",
+    "definition_cht": "冷空氣流經較暖水面時，水汽強烈蒸發並在近水面冷卻凝結，形成宛如煙霧般貼近海面的霧狀羽流；本質上屬蒸氣霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_smoke"
   },
   {
     "english": "sea state",
     "traditional_chinese": "海況",
-    "definition_cht": "描述海面波浪、湧浪與風浪強弱及其綜合狀態的術語。",
+    "definition_cht": "描述海面波浪、湧浪與風浪綜合狀態的術語，常以波高、週期、外觀或等級尺度加以表徵，供航海與海洋作業判斷。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_state"
   },
   {
     "english": "sea surface temperature",
     "traditional_chinese": "海表溫度",
-    "definition_cht": "最接近海面表層海水的溫度，是海氣交互作用與氣候分析的重要變數。",
+    "definition_cht": "海面附近表層海水的溫度，是海氣通量、颱風強度變化、聖嬰—南方振盪及氣候監測中的關鍵變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_surface_temperature"
   },
   {
     "english": "sea turn",
-    "traditional_chinese": "海轉",
-    "definition_cht": "風向由陸地轉為來自海面的轉向現象，常與海風發展有關。",
+    "traditional_chinese": "海風轉向",
+    "definition_cht": "沿岸地區風向轉為自海上吹向陸地的變化，通常標誌海風開始建立或增強，並常伴隨溫度、濕度與邊界層結構改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea_turn"
   },
   {
     "english": "sea-breeze front",
     "traditional_chinese": "海風鋒",
-    "definition_cht": "海風推進至陸地時，海上較涼空氣與內陸較暖空氣之間形成的邊界。",
+    "definition_cht": "海風向內陸推進時，海上較涼濕空氣與內陸較暖空氣之間形成的近地面輻合邊界，常促發抬升、積雲發展與局地對流。",
     "source_url": "https://glossary.ametsoc.org/wiki/sea-breeze_front"
   },
   {
