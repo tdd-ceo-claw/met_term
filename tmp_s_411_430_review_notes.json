@@ -1,0 +1,29 @@
+{
+  "range": "s terms 411-430",
+  "checks": [
+    "AMS glossary pages via r.jina.ai mirror for the 20 sequential terms",
+    "Secondary checks from Wikipedia API / Bing RSS / glossary cross-references depending on term"
+  ],
+  "updated_terms": [
+    "sling thermometer",
+    "slope area method",
+    "slope flow",
+    "slope of a front",
+    "slope of an isobaric surface",
+    "Slope Water",
+    "slope winds",
+    "slope windstorm",
+    "slow manifold",
+    "slow tail",
+    "sludge",
+    "sluff",
+    "slug test",
+    "slush",
+    "slush icing",
+    "small calorie",
+    "small circle",
+    "small eddy closure",
+    "small eddy theory",
+    "Small hail"
+  ]
+}

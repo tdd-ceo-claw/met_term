@@ -2467,123 +2467,123 @@
   },
   {
     "english": "sling thermometer",
-    "traditional_chinese": "吊帶溫度計",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sling_thermometer"
+    "traditional_chinese": "吊索溫度計",
+    "definition_cht": "裝設於框架或吊柄上、可由人工旋轉以形成通風的溫度計；常用於野外量測氣溫，亦可作為吊索乾濕計的組成元件。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sling-thermometer/"
   },
   {
     "english": "slope area method",
-    "traditional_chinese": "坡面積法",
-    "definition_cht": "指與坡度、斜率、地形傾斜或變量隨位置變化相關的量值或概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slope_area_method"
+    "traditional_chinese": "坡降面積法",
+    "definition_cht": "水文學中在洪水過後，依高水位痕跡推估水面坡降，並配合兩個以上河道斷面測量及糙率估計，再以 Manning 或 Chezy 公式間接反算洪峰流量的方法。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slope-area-method/"
   },
   {
     "english": "slope flow",
-    "traditional_chinese": "坡面流",
-    "definition_cht": "沿山坡因熱力或重力效應產生的局地氣流。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slope_flow"
+    "traditional_chinese": "坡面氣流",
+    "definition_cht": "由坡面受熱或冷卻所驅動、沿坡向上或向下流動的局地氣流；白天地表增暖常形成上坡風，夜間冷卻則常形成下坡風。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slope-flow/"
   },
   {
     "english": "slope of a front",
-    "traditional_chinese": "鋒面的坡度",
-    "definition_cht": "指與坡度、斜率、地形傾斜或變量隨位置變化相關的量值或概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slope_of_a_front"
+    "traditional_chinese": "鋒面坡度",
+    "definition_cht": "鋒面相對水平面的傾斜程度，數值上通常指鋒面與水平面夾角的正切。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slope-of-a-front/"
   },
   {
     "english": "slope of an isobaric surface",
-    "traditional_chinese": "等壓面的斜率",
-    "definition_cht": "指與坡度、斜率、地形傾斜或變量隨位置變化相關的量值或概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slope_of_an_isobaric_surface"
+    "traditional_chinese": "等壓面坡度",
+    "definition_cht": "等壓面相對水平面的傾斜程度，通常定義為其與水平面夾角的正切，可用以描述等壓面起伏。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slope-of-an-isobaric-surface/"
   },
   {
     "english": "Slope Water",
-    "traditional_chinese": "坡水",
-    "definition_cht": "指與坡度、斜率、地形傾斜或變量隨位置變化相關的量值或概念。",
+    "traditional_chinese": "陸坡水",
+    "definition_cht": "物理海洋學中指大陸棚外緣至灣流之間、沿大陸坡分布的水團，常見於北大西洋西部，性質介於近岸棚水與外海水之間，並受兩者混合作用影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Slope_Water"
   },
   {
     "english": "slope winds",
     "traditional_chinese": "坡風",
-    "definition_cht": "沿山坡上升或下沉的局地風系，包括谷風與山風等。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slope_winds"
+    "definition_cht": "受浮力作用驅動、沿傾斜地形上升或下滑的局地風系，包含白天的上坡風與夜間的下坡風，為山谷風環流的重要組成。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slope-winds/"
   },
   {
     "english": "slope windstorm",
-    "traditional_chinese": "斜坡風暴",
-    "definition_cht": "指與「斜坡風暴」相關的風暴系統、劇烈天氣現象或其演變特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slope_windstorm"
+    "traditional_chinese": "下坡風暴",
+    "definition_cht": "又稱坡降風暴，指強烈綜觀氣流越過山脊後，在脊頂上方強逆溫層限制下，於背風坡近地面形成的劇烈陣風型下坡風，常具有破壞性。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slope-windstorm/"
   },
   {
     "english": "slow manifold",
     "traditional_chinese": "慢流形",
-    "definition_cht": "指與「慢流形」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slow_manifold"
+    "definition_cht": "動力氣象與數值模式中，指隨時間只緩慢演變的一組大氣狀態或解空間；快速重力波等高頻模態被排除後，系統主要在此子空間內演化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slow-manifold/"
   },
   {
     "english": "slow tail",
     "traditional_chinese": "慢尾",
-    "definition_cht": "指與「慢尾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slow_tail"
+    "definition_cht": "某些天電訊號中落後於初始甚低頻脈衝到達的極低頻尾部成分，主要因低頻相速度較慢所致，並常與閃電持續電流等機制有關。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slow-tail/"
   },
   {
     "english": "sludge",
-    "traditional_chinese": "污泥",
-    "definition_cht": "指與「污泥」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sludge"
+    "traditional_chinese": "冰泥",
+    "definition_cht": "海冰初生階段中，大量片冰或針冰在水面聚集形成的濃稠糊狀冰水混合層，外觀常呈濃湯狀或油脂狀，厚度通常不深。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sludge/"
   },
   {
     "english": "sluff",
-    "traditional_chinese": "廢渣",
-    "definition_cht": "指與「廢渣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/sluff"
+    "traditional_chinese": "鬆雪滑落",
+    "definition_cht": "坡面上少量積雪沿坡向下的小規模滑移或鬆散雪崩，通常規模不大但可作為雪層不穩定的徵兆。",
+    "source_url": "https://glossary.ametsoc.org/wiki/sluff/"
   },
   {
     "english": "slug test",
-    "traditional_chinese": "瞬時加水試驗",
-    "definition_cht": "地下水水文中藉短時間改變井內水位並觀測回復過程，以估算含水層參數的方法。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slug_test"
+    "traditional_chinese": "瞬時水位試驗",
+    "definition_cht": "地下水水文中，藉由迅速抬升或降低井內水位，並量測其回復至原平衡水位所需時間，以估算井附近含水層水力傳導係數的試驗方法。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slug-test/"
   },
   {
     "english": "slush",
     "traditional_chinese": "雪泥",
-    "definition_cht": "指與「雪泥」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slush"
+    "definition_cht": "地面積雪或冰在雨水、暖溫或化學融冰作用下部分融化後形成的鬆軟含水混合物；亦可泛指泥濘濕滑的融雪狀態。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slush/"
   },
   {
     "english": "slush icing",
-    "traditional_chinese": "雪泥糖霜",
-    "definition_cht": "指與「雪泥糖霜」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/slush_icing"
+    "traditional_chinese": "雪泥積冰",
+    "definition_cht": "航空氣象中，飛機在接近 0°C 的濕雪與過冷液滴環境飛行時，於外露表面同時累積冰與水所形成的積冰現象。",
+    "source_url": "https://glossary.ametsoc.org/wiki/slush-icing/"
   },
   {
     "english": "small calorie",
     "traditional_chinese": "小卡路里",
-    "definition_cht": "指與「小卡路里」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/small_calorie"
+    "definition_cht": "又稱克卡，為使 1 克水升高 1 攝氏度所需的能量，約等於 4.1855 焦耳，用以區別於營養學常用的大卡（千卡）。",
+    "source_url": "https://glossary.ametsoc.org/wiki/small-calorie/"
   },
   {
     "english": "small circle",
-    "traditional_chinese": "小圓圈",
-    "definition_cht": "指與「小圓圈」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/small_circle"
+    "traditional_chinese": "小圓",
+    "definition_cht": "球面與不通過球心之平面相交所形成的圓；相對地，通過球心者稱為大圓。",
+    "source_url": "https://glossary.ametsoc.org/wiki/small-circle/"
   },
   {
     "english": "small eddy closure",
-    "traditional_chinese": "小渦流閉合",
-    "definition_cht": "指與「小渦流閉合」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/small_eddy_closure"
+    "traditional_chinese": "小渦閉合",
+    "definition_cht": "一階湍流閉合法，將未解析的小尺度渦動通量參數化為沿平均量局地梯度方向的擴散或黏滯效應，亦即梯度傳輸理論或 K 理論。",
+    "source_url": "https://glossary.ametsoc.org/wiki/small-eddy-closure/"
   },
   {
     "english": "small eddy theory",
     "traditional_chinese": "小渦理論",
-    "definition_cht": "指與「小渦理論」相關的理論架構，用以解釋其形成機制、數學關係或預報意涵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/small_eddy_theory"
+    "definition_cht": "將小尺度湍渦視為類似分子傳輸的混合作用，並以渦黏滯或渦擴散概念描述其對平均場傳輸影響的理論；本質上屬梯度傳輸型參數化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/small-eddy-theory/"
   },
   {
     "english": "Small hail",
-    "traditional_chinese": "小冰雹",
-    "definition_cht": "指與「小冰雹」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Small_hail"
+    "traditional_chinese": "小雹（多指霰／軟雹）",
+    "definition_cht": "舊稱中常指粒徑較小、呈白色不透明且易碎的冰粒降水，現代分類多歸入霰或軟雹，而非典型由強烈對流形成的大型雹石。",
+    "source_url": "https://en.wikipedia.org/wiki/Graupel"
   },
   {
     "english": "small ion",
