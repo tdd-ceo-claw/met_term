@@ -1508,121 +1508,121 @@
   {
     "english": "shadow band pyranometer",
     "traditional_chinese": "遮帶式日射計",
-    "definition_cht": "利用遮帶定期遮蔽太陽直射光，以分離量測散射與總短波輻射的儀器。",
+    "definition_cht": "利用移動或固定遮帶週期性遮蔽太陽直射光，以分離量測總太陽輻射與散射輻射的日射儀；再由兩者差值估算直達日射，常用於太陽輻射觀測與儀器校正。",
     "source_url": "https://glossary.ametsoc.org/wiki/shadow_band_pyranometer"
   },
   {
     "english": "shadow bands",
-    "traditional_chinese": "陰影帶",
-    "definition_cht": "指與「陰影帶」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "日蝕影紋",
+    "definition_cht": "在日全蝕全食前後，地面淺色平面上可見快速移動的明暗相間細波紋；其成因主要為大氣湍流折射極細的日蝕殘弦光所致。",
     "source_url": "https://glossary.ametsoc.org/wiki/shadow_bands"
   },
   {
     "english": "shadow zone",
     "traditional_chinese": "陰影區",
-    "definition_cht": "指與「陰影區」相關的地帶、分區或特定作用範圍。",
+    "definition_cht": "指因地形、障礙物或介質折射、反射與遮蔽作用，使輻射、聲波、電磁波、降水或氣流難以直接到達的區域；不同學科中可指雨影區、雷達陰影區或波動陰影區等。",
     "source_url": "https://glossary.ametsoc.org/wiki/shadow_zone"
   },
   {
     "english": "shale ice",
-    "traditional_chinese": "頁岩冰",
-    "definition_cht": "指與「頁岩冰」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "頁片冰",
+    "definition_cht": "由薄而脆的片狀冰塊或冰板堆疊、擠壓而成的冰況；常用於描述破碎新冰或薄冰受風浪、流動或擠壓後形成如頁片般的冰層外觀。",
     "source_url": "https://glossary.ametsoc.org/wiki/shale_ice"
   },
   {
     "english": "shallow convection parameterization",
     "traditional_chinese": "淺對流參數化",
-    "definition_cht": "指與「淺對流參數化」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "數值模式中用以表徵未解析淺層對流雲及其垂直熱量、水氣與動量輸送的參數化方法；通常針對不易產生深對流降水的積雲混合作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/shallow_convection_parameterization"
   },
   {
     "english": "shallow fog",
     "traditional_chinese": "淺霧",
-    "definition_cht": "指與「淺霧」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "垂直厚度較小、近地面薄層分布的霧，通常侷限於低窪處或貼近地表，頂部高度不高但仍可能使近地能見度降至霧的標準。",
     "source_url": "https://glossary.ametsoc.org/wiki/shallow_fog"
   },
   {
     "english": "shallow low",
-    "traditional_chinese": "淺低",
-    "definition_cht": "指與「淺低」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "淺低壓",
+    "definition_cht": "垂直發展較弱、主要侷限於近地面或低層的低壓系統；其氣壓低值與環流結構隨高度迅速減弱，常與熱低壓、地形或局地加熱有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/shallow_low"
   },
   {
     "english": "shallow water approximation",
     "traditional_chinese": "淺水近似",
-    "definition_cht": "指與「淺水近似」相關的水體、水文狀態、水量平衡或含水特徵。",
+    "definition_cht": "當流體水平尺度遠大於垂直尺度時所採用的動力近似，假設垂直加速度可忽略、壓力近似靜力平衡，據以導出淺水方程，廣用於海洋、河川與大氣長波研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/shallow_water_approximation"
   },
   {
     "english": "shallow water wave",
     "traditional_chinese": "淺水波",
-    "definition_cht": "指與「淺水波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "在水深遠小於波長的條件下傳播的重力波；其相速主要受水深控制，近似為 √(gh)，常見於潮波、海嘯、風暴潮與河口長波。",
     "source_url": "https://glossary.ametsoc.org/wiki/shallow_water_wave"
   },
   {
     "english": "shaluk",
-    "traditional_chinese": "沙魯克",
-    "definition_cht": "指與「沙魯克」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "沙魯克風",
+    "definition_cht": "中東與周邊地區使用的地方風名之一，通常指炎熱、乾燥且夾帶沙塵的風；實際風向與發生區域會依地方用法而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/shaluk"
   },
   {
     "english": "shamal",
-    "traditional_chinese": "沙馬爾",
-    "definition_cht": "指與「沙馬爾」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "夏瑪風",
+    "definition_cht": "阿拉伯半島與波斯灣一帶常見的西北風或北風，常在夏季持續數日，空氣乾燥、風力較強，並易揚起沙塵、降低能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/shamal"
   },
   {
     "english": "sharki",
-    "traditional_chinese": "沙基",
-    "definition_cht": "指與「沙基」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "沙基風",
+    "definition_cht": "埃及與東地中海一帶的地方風名，通常指來自東方或東南方的暖乾風，常夾帶塵沙並使天氣乾燥混濁。",
     "source_url": "https://glossary.ametsoc.org/wiki/sharki"
   },
   {
     "english": "sharp-edged gust",
-    "traditional_chinese": "尖銳的陣風",
-    "definition_cht": "指與「尖銳的陣風」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "階躍型陣風",
+    "definition_cht": "指風速或風向在極短時間內近似瞬間改變、之後維持新值一段時間的理想化陣風型態，常用於航空載荷、飛行性能與陣風響應分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/sharp-edged_gust"
   },
   {
     "english": "shear",
-    "traditional_chinese": "剪力",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "traditional_chinese": "切變",
+    "definition_cht": "流體速度向量在空間上的大小或方向差異，亦即速度梯度所呈現的變化；在氣象上常指風隨高度或水平距離改變而形成的風切。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear"
   },
   {
     "english": "shear flow",
-    "traditional_chinese": "剪切流",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "traditional_chinese": "切變流",
+    "definition_cht": "速度隨垂直或水平位置改變的流動型態，因而在流場中存在顯著切變；大氣與海洋中的噴流邊界、邊界層與鋒面附近常可見此類流場。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear_flow"
   },
   {
     "english": "shear layer",
-    "traditional_chinese": "剪切層",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "traditional_chinese": "切變層",
+    "definition_cht": "相鄰兩股速度或方向不同的流體之間所形成的狹窄過渡層，層內速度梯度大，常是湍流混合、波動增長與不穩定發展的重要區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear_layer"
   },
   {
     "english": "shear line",
-    "traditional_chinese": "剪切線",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "traditional_chinese": "切變線",
+    "definition_cht": "風向近乎平行於線兩側，但風速或風向沿線兩側有明顯突變的狹長帶狀區域；常見於低層天氣分析，並可能觸發對流或降雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear_line"
   },
   {
     "english": "shear production",
-    "traditional_chinese": "剪切生產",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "traditional_chinese": "切變生產",
+    "definition_cht": "湍流動能方程中的一項，指平均流速梯度將平均流動能量轉換為湍流動能的過程；在邊界層、噴流與切變層中常為重要湍流來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear_production"
   },
   {
     "english": "shear ridge",
-    "traditional_chinese": "剪切脊",
-    "definition_cht": "指與「剪切脊」相關的高壓脊、波脊或地形脊狀結構，常用於描述場型延伸與分布。",
+    "traditional_chinese": "切變脊",
+    "definition_cht": "在風場或流線分析中，由切變結構排列形成的脊狀區域；常指與變形場、流線彎曲或相鄰風帶交界有關的狹長脊形特徵，而非典型高壓脊。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear_ridge"
   },
   {
     "english": "shear vector",
-    "traditional_chinese": "剪切向量",
-    "definition_cht": "指流場在空間上之速度或應變差異，可用於描述風切、流體變形及動力不穩定特徵。",
+    "traditional_chinese": "切變向量",
+    "definition_cht": "表示兩高度、兩層或兩位置之間風向量差異的向量，兼具切變大小與方向資訊；常用於評估垂直風切、風暴移動與對流組織環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/shear_vector"
   },
   {
