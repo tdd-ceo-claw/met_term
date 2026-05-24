@@ -1,0 +1,29 @@
+{
+  "range": "s terms 431-450",
+  "checks": [
+    "Primary checks from public glossary/encyclopedia pages accessible this run (mainly Wikipedia/Wiktionary/NWS/NOAA/NRCS/WMO pages depending on term)",
+    "Secondary cross-checks against a second independent public page for each term; AMS glossary was attempted but blocked by Cloudflare during this run"
+  ],
+  "updated_terms": [
+    "small ion",
+    "small perturbation",
+    "small-craft warning",
+    "small-ion combination",
+    "smaze",
+    "SMMR",
+    "SMO",
+    "smog",
+    "smog chambers",
+    "smoke",
+    "smoke horizon",
+    "smoke pall",
+    "smoke plumes",
+    "smokes",
+    "smoothing",
+    "SMS",
+    "smudging",
+    "snappy",
+    "Snel's law",
+    "SNOTEL"
+  ]
+}

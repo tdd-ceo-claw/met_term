@@ -2588,122 +2588,122 @@
   {
     "english": "small ion",
     "traditional_chinese": "小離子",
-    "definition_cht": "指與「小離子」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/small_ion"
+    "definition_cht": "大氣電學中指由少數分子聚集並帶電的高遷移率氣體離子，通常由分子離子迅速附著中性分子形成，尺度遠小於氣膠粒子。",
+    "source_url": "https://en.wikipedia.org/wiki/Air_ionisation"
   },
   {
     "english": "small perturbation",
     "traditional_chinese": "小擾動",
-    "definition_cht": "指與「小擾動」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/small_perturbation"
+    "definition_cht": "相對於基準狀態或平均場而言幅度很小的偏離量；在線性化理論中常假設其量級足夠小，可忽略高階非線性項。",
+    "source_url": "https://en.wikipedia.org/wiki/Perturbation_theory_(mathematics)"
   },
   {
     "english": "small-craft warning",
-    "traditional_chinese": "小船警告",
-    "definition_cht": "指與「小船警告」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/small-craft_warning"
+    "traditional_chinese": "小船警報",
+    "definition_cht": "針對小型船舶發布的海上強風／惡劣水況警報或警示，表示風力接近但尚未達烈風等級，或海冰、浪況等條件已對小船航行構成危險。",
+    "source_url": "https://en.wikipedia.org/wiki/Small_craft_advisory"
   },
   {
     "english": "small-ion combination",
-    "traditional_chinese": "小離子組合",
-    "definition_cht": "指與「小離子組合」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/small-ion_combination"
+    "traditional_chinese": "小離子復合",
+    "definition_cht": "大氣中正、負小離子彼此中和而生成電中性粒子的過程，為控制空氣電導率與小離子濃度的重要機制之一。",
+    "source_url": "https://en.wikipedia.org/wiki/Air_ionisation"
   },
   {
     "english": "smaze",
-    "traditional_chinese": "史梅茲",
-    "definition_cht": "指與「史梅茲」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smaze"
+    "traditional_chinese": "煙靄",
+    "definition_cht": "由 smoke 與 haze 組成的混成詞，指煙與乾霾粒子混合造成的混濁空氣現象，能見度常因懸浮微粒而下降。",
+    "source_url": "https://en.wiktionary.org/wiki/smaze"
   },
   {
     "english": "SMMR",
-    "traditional_chinese": "SMMR",
-    "definition_cht": "「SMMR」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/SMMR"
+    "traditional_chinese": "掃描式多頻道微波輻射計",
+    "definition_cht": "Scanning Multichannel Microwave Radiometer 的縮寫，為早期衛星被動微波遙測儀器，可多頻道量測地球表面與大氣的微波輻射，用於海冰、海面風場、水氣與降水等研究。",
+    "source_url": "https://en.wikipedia.org/wiki/Synchronous_Meteorological_Satellite"
   },
   {
     "english": "SMO",
-    "traditional_chinese": "史莫",
-    "definition_cht": "「SMO」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/SMO"
+    "traditional_chinese": "海面氣象觀測",
+    "definition_cht": "通常指 surface marine observation(s)，亦即船舶、浮標或海上平台進行的近海面氣象與海況觀測，用於海上天氣分析、預報與資料交換。",
+    "source_url": "https://community.wmo.int/en/activity-areas/WIS/surface-marine-observations"
   },
   {
     "english": "smog",
-    "traditional_chinese": "煙霧",
-    "definition_cht": "由污染物、煙塵、霧滴及光化學反應共同造成的大氣混濁現象，會影響能見度與人體健康。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smog"
+    "traditional_chinese": "煙霧污染",
+    "definition_cht": "由煙塵、氣體污染物與霧或光化學反應產物共同形成的大氣污染現象，常導致能見度下降並危害人體健康；典型可分為煤煙型與光化學型。",
+    "source_url": "https://en.wikipedia.org/wiki/Smog"
   },
   {
     "english": "smog chambers",
-    "traditional_chinese": "煙霧室",
-    "definition_cht": "指與「煙霧室」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smog_chambers"
+    "traditional_chinese": "煙霧模擬箱",
+    "definition_cht": "用以在可控制的光照、溫度、濕度與前驅污染物條件下，模擬大氣光化學反應與煙霧生成過程的實驗裝置。",
+    "source_url": "https://en.wikipedia.org/wiki/Smog"
   },
   {
     "english": "smoke",
     "traditional_chinese": "煙",
-    "definition_cht": "由燃燒產生並懸浮於空氣中的細小固體、液滴與氣體混合物。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smoke"
+    "definition_cht": "燃燒或熱解時釋放到空氣中的氣體、液滴與細微固體粒子之混合氣膠，常使天空混濁並降低能見度。",
+    "source_url": "https://en.wikipedia.org/wiki/Smoke"
   },
   {
     "english": "smoke horizon",
-    "traditional_chinese": "煙霧地平線",
-    "definition_cht": "指與「煙霧地平線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smoke_horizon"
+    "traditional_chinese": "煙霾地平線",
+    "definition_cht": "因近地面或低空煙層累積，使遠方地平線呈現灰暗模糊或被遮蔽的視覺界線；常見於火災煙霧或嚴重污染情況。",
+    "source_url": "https://en.wikipedia.org/wiki/Haze"
   },
   {
     "english": "smoke pall",
-    "traditional_chinese": "煙幕",
-    "definition_cht": "指與「煙幕」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smoke_pall"
+    "traditional_chinese": "煙幕層",
+    "definition_cht": "大範圍覆蓋於地面或某區域上空的厚重煙層或煙幕，常由野火、工業排放或焚燒所致，會明顯削弱日照與能見度。",
+    "source_url": "https://en.wikipedia.org/wiki/Smoke"
   },
   {
     "english": "smoke plumes",
     "traditional_chinese": "煙羽",
-    "definition_cht": "指與「煙羽」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smoke_plumes"
+    "definition_cht": "由火源、煙囪或其他排放源向外伸展的煙柱／煙流，其形狀與擴散受浮力、動量、穩定度與環境風場控制。",
+    "source_url": "https://en.wikipedia.org/wiki/Plume_(fluid_dynamics)"
   },
   {
     "english": "smokes",
-    "traditional_chinese": "抽煙",
-    "definition_cht": "指與「抽煙」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smokes"
+    "traditional_chinese": "煙流示蹤",
+    "definition_cht": "泛指可見的煙流、煙帶或煙團，常用來顯示近地面氣流方向、擴散情形或空氣混合作用；亦可指多股煙霧現象的集合稱呼。",
+    "source_url": "https://en.wikipedia.org/wiki/Smoke"
   },
   {
     "english": "smoothing",
     "traditional_chinese": "平滑化",
-    "definition_cht": "指與「平滑化」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smoothing"
+    "definition_cht": "以數值或統計方法抑制資料中的高頻雜訊與細碎波動，保留主要趨勢或大尺度結構的處理程序。",
+    "source_url": "https://en.wikipedia.org/wiki/Data_smoothing"
   },
   {
     "english": "SMS",
-    "traditional_chinese": "簡訊",
-    "definition_cht": "「SMS」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/SMS"
+    "traditional_chinese": "同步氣象衛星",
+    "definition_cht": "Synchronous Meteorological Satellite 的縮寫，為美國早期發展的地球同步軌道氣象衛星計畫，後續銜接 GOES 作業系統。",
+    "source_url": "https://en.wikipedia.org/wiki/Synchronous_Meteorological_Satellite"
   },
   {
     "english": "smudging",
-    "traditional_chinese": "弄髒",
-    "definition_cht": "指與「弄髒」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/smudging"
+    "traditional_chinese": "薰煙防霜",
+    "definition_cht": "在果園或農地燃燒燃料以產生煙與熱，藉此減輕夜間輻射冷卻或霜害影響的作法；歷史上常配合 smudge pot 使用。",
+    "source_url": "https://en.wikipedia.org/wiki/Smudge_pot"
   },
   {
     "english": "snappy",
-    "traditional_chinese": "活潑的",
-    "definition_cht": "指與「活潑的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/snappy"
+    "traditional_chinese": "冷冽而帶勁的",
+    "definition_cht": "英語描述詞，氣象語境中多用來形容天氣偏冷、乾脆、帶有明顯寒意或 brisk 的感受，而非正式技術分類名詞。",
+    "source_url": "https://www.merriam-webster.com/dictionary/snappy"
   },
   {
     "english": "Snel's law",
-    "traditional_chinese": "斯涅爾定律",
-    "definition_cht": "指與「斯涅爾定律」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Snel%27s_law"
+    "traditional_chinese": "斯涅耳定律",
+    "definition_cht": "描述波動通過兩種不同介質交界面時，入射角與折射角關係的折射定律；其正弦比等於兩介質折射率之比。",
+    "source_url": "https://en.wikipedia.org/wiki/Snell%27s_law"
   },
   {
     "english": "SNOTEL",
-    "traditional_chinese": "斯諾特爾",
-    "definition_cht": "「SNOTEL」為氣象、海洋、水文、遙測、航空或地球科學領域常用之縮寫、代號或分類名稱；其具體意義須依專業語境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/SNOTEL"
+    "traditional_chinese": "雪遙測站網",
+    "definition_cht": "snow telemetry 的縮寫，指美國 NRCS 建置的自動化高山雪況與相關氣候感測站網，用於量測雪水當量、降水、氣溫等資料，以支援水資源與洪水預報。",
+    "source_url": "https://en.wikipedia.org/wiki/Snotel"
   },
   {
     "english": "Snow",
