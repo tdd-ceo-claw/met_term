@@ -3427,122 +3427,122 @@
   },
   {
     "english": "sorbtion nucleus",
-    "traditional_chinese": "吸附核",
-    "definition_cht": "指與「吸附核」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "吸著核",
+    "definition_cht": "雲與氣膠物理中指可藉由吸附或吸收周遭分子而成長、並可作為凝結或反應核心的微粒；此詞多半是 sorption nucleus 的少見拼法。",
     "source_url": "https://glossary.ametsoc.org/wiki/sorbtion_nucleus"
   },
   {
     "english": "soroche",
-    "traditional_chinese": "索羅切",
-    "definition_cht": "指與「索羅切」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "高山症",
+    "definition_cht": "安地斯地區對高山症的常用名稱，指人體快速暴露於高海拔低氧環境後出現的頭痛、噁心、呼吸急促等症狀。",
     "source_url": "https://glossary.ametsoc.org/wiki/soroche"
   },
   {
     "english": "sorption",
-    "traditional_chinese": "吸附",
-    "definition_cht": "指與「吸附」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "吸著作用",
+    "definition_cht": "泛指物質被另一物質吸收或吸附的總稱，涵蓋 absorption 與 adsorption 兩類過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/sorption"
   },
   {
     "english": "sou'easter",
-    "traditional_chinese": "東南復活節",
-    "definition_cht": "指與「東南復活節」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "東南風",
+    "definition_cht": "southeaster 的口語或方言拼法，指自東南方吹來的風；在地方用語中亦可指伴隨此風向的天氣系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/sou%27easter"
   },
   {
     "english": "sou'wester",
-    "traditional_chinese": "南韋斯特",
-    "definition_cht": "指與「南韋斯特」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "西南風；西南雨帽",
+    "definition_cht": "southwester 的口語或方言拼法，可指自西南方吹來的風；在航海與漁業語境中亦常指為防風雨而戴的寬簷防水雨帽。",
     "source_url": "https://glossary.ametsoc.org/wiki/sou%27wester"
   },
   {
     "english": "sound",
-    "traditional_chinese": "聲音",
-    "definition_cht": "指與「聲音」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "聲音；聲",
+    "definition_cht": "由介質中的壓力擾動所形成並傳播的機械波；在大氣與海洋聲學中常用以討論聲波傳播、反射、折射與衰減。",
     "source_url": "https://glossary.ametsoc.org/wiki/sound"
   },
   {
     "english": "sound channel",
     "traditional_chinese": "聲道",
-    "definition_cht": "指與「聲道」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "海洋或大氣中使聲速出現極小值、因而促使聲能集中並沿層內長距離傳播的導波層；海洋中典型例子為 SOFAR 聲道。",
     "source_url": "https://glossary.ametsoc.org/wiki/sound_channel"
   },
   {
     "english": "sound pressure level",
     "traditional_chinese": "聲壓級",
-    "definition_cht": "指與「聲壓級」相關的氣壓、壓力場或其診斷量，用於描述流體受力與分布狀態。",
+    "definition_cht": "以分貝表示聲壓相對於基準聲壓大小的對數量，用於量化聲音強弱與噪音程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/sound_pressure_level"
   },
   {
     "english": "sound wave",
     "traditional_chinese": "聲波",
-    "definition_cht": "指與「聲波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "在氣體、液體或固體等介質中傳播的機械壓力波，通常以縱波形式傳遞能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/sound_wave"
   },
   {
     "english": "sounder",
-    "traditional_chinese": "發聲器",
-    "definition_cht": "指與「發聲器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "探測儀；測深儀",
+    "definition_cht": "用於量測垂直結構、深度或介質內部狀態的儀器；在氣象常指大氣探測儀或衛星垂直探測儀，在水文海洋則可指測深儀。",
     "source_url": "https://glossary.ametsoc.org/wiki/sounder"
   },
   {
     "english": "sounding",
-    "traditional_chinese": "探空",
-    "definition_cht": "藉由探空儀、遙測或其他方法取得大氣垂直結構資料的觀測程序與其結果。",
+    "traditional_chinese": "探空；測深",
+    "definition_cht": "以儀器量測大氣柱垂直結構或水體深度的觀測作業及其結果；在氣象通常特指大氣探空。",
     "source_url": "https://glossary.ametsoc.org/wiki/sounding"
   },
   {
     "english": "sounding balloon",
     "traditional_chinese": "探空氣球",
-    "definition_cht": "搭載探空儀升空，用以量測高空溫度、濕度、氣壓與風的氣球。",
+    "definition_cht": "搭載探空儀升空，用以量測高空氣壓、氣溫、濕度與風場等垂直分布的氣球。",
     "source_url": "https://glossary.ametsoc.org/wiki/sounding_balloon"
   },
   {
     "english": "sounding pole",
     "traditional_chinese": "測深桿",
-    "definition_cht": "指與「測深桿」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以人工插測方式量定淺水水深的桿狀器具，常用於港灣、河道或近岸淺灘測量。",
     "source_url": "https://glossary.ametsoc.org/wiki/sounding_pole"
   },
   {
     "english": "sounding weight",
-    "traditional_chinese": "測深重量",
-    "definition_cht": "指與「測深重量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "測深錘",
+    "definition_cht": "懸掛於測深索或測線末端、用以探測水深並判定是否觸底的重錘。",
     "source_url": "https://glossary.ametsoc.org/wiki/sounding_weight"
   },
   {
     "english": "source",
-    "traditional_chinese": "來源",
-    "definition_cht": "指與「來源」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "源；來源",
+    "definition_cht": "在物理、化學或地球系統中指產生、供應或釋放某種物質、能量、訊號或擾動的來源端，與 sink（匯）相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/source"
   },
   {
     "english": "source region",
     "traditional_chinese": "源區",
-    "definition_cht": "指以「源區」命名的區域、層區或空間範圍，常用於描述特定物理過程發生之位置。",
+    "definition_cht": "某種氣團、水團、沉積物、污染物或其他物質最初形成、供應或釋出的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/source_region"
   },
   {
     "english": "source terms",
-    "traditional_chinese": "來源術語",
-    "definition_cht": "指與「來源術語」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "源項",
+    "definition_cht": "控制方程式中代表質量、動量、能量或其他量之生成、注入、轉換或外加作用的項。",
     "source_url": "https://glossary.ametsoc.org/wiki/source_terms"
   },
   {
     "english": "South Atlantic convergence zone",
     "traditional_chinese": "南大西洋輻合帶",
-    "definition_cht": "南美至南大西洋一帶呈西北—東南走向的對流與水汽輻合帶。",
+    "definition_cht": "自巴西東南部延伸至西南大西洋、呈西北—東南走向的雲雨與低層輻合帶，屬南美季風系統的重要對流帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Atlantic_convergence_zone"
   },
   {
     "english": "South Atlantic Current",
-    "traditional_chinese": "南大西洋洋流",
-    "definition_cht": "指與「南大西洋洋流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "南大西洋海流",
+    "definition_cht": "南大西洋副熱帶環流南側向東流動的寒流，主要由巴西海流東轉形成，並向非洲西岸輸送後續水體。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Atlantic_Current"
   },
   {
     "english": "South Atlantic high",
     "traditional_chinese": "南大西洋高壓",
-    "definition_cht": "指與「南大西洋高壓」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "位於南大西洋副熱帶、近乎常年的半永久性高壓系統，又稱聖赫勒拿高壓，對南大西洋信風與周邊降水分布具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Atlantic_high"
   },
   {
