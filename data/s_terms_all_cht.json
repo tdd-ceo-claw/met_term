@@ -3542,121 +3542,121 @@
   {
     "english": "South Atlantic high",
     "traditional_chinese": "南大西洋高壓",
-    "definition_cht": "位於南大西洋副熱帶、近乎常年的半永久性高壓系統，又稱聖赫勒拿高壓，對南大西洋信風與周邊降水分布具有重要影響。",
+    "definition_cht": "位於南大西洋副熱帶高壓帶中的半永久性高壓中心，常稱聖赫勒拿高壓；其位置與強度會影響南大西洋信風、海上天氣及鄰近地區降水分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Atlantic_high"
   },
   {
     "english": "South Equatorial Countercurrent",
     "traditional_chinese": "南赤道逆流",
-    "definition_cht": "指與「南赤道逆流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "definition_cht": "赤道附近向東流動的表層海流，通常位於南赤道洋流部分支流之間，為熱帶海洋環流中將暖水向東輸送的逆向流系。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Equatorial_Countercurrent"
   },
   {
     "english": "South Equatorial Current",
-    "traditional_chinese": "南赤道洋流",
-    "definition_cht": "指與「南赤道洋流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "南赤道流",
+    "definition_cht": "分布於赤道以南熱帶海域、主要向西流動的表層洋流，通常受東南信風驅動，為大西洋、太平洋與印度洋熱帶環流的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Equatorial_Current"
   },
   {
     "english": "south foehn",
-    "traditional_chinese": "南焚風",
-    "definition_cht": "指與「南焚風」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "南風焚風",
+    "definition_cht": "指阿爾卑斯山區由南向越山氣流所形成的焚風；空氣越過山脈後於背風側下沉增溫並變得乾燥，常伴隨強陣風。",
     "source_url": "https://glossary.ametsoc.org/wiki/south_foehn"
   },
   {
     "english": "South Indian Ocean Current",
-    "traditional_chinese": "南印度洋洋流",
-    "definition_cht": "指與「南印度洋洋流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "南印度洋流",
+    "definition_cht": "南印度洋中高緯度一帶大致向東流動的洋流系，屬南印度洋副熱帶環流的一部分，連結阿古拉斯返流與西風漂流等海流結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Indian_Ocean_Current"
   },
   {
     "english": "South Java Current",
     "traditional_chinese": "南爪哇海流",
-    "definition_cht": "指與「南爪哇海流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "definition_cht": "沿爪哇島南側海域流動、具明顯季節變化的海流，受季風與區域風場影響，其流向與強度會隨季節及年際變化而改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Java_Current"
   },
   {
     "english": "South Pacific convergence zone",
-    "traditional_chinese": "南太平洋輻合區",
-    "definition_cht": "指與「南太平洋輻合區」相關的地帶、分區或特定作用範圍。",
+    "traditional_chinese": "南太平洋輻合帶",
+    "definition_cht": "位於熱帶西南太平洋、由西北—東南走向延伸的主要雲雨與低層輻合帶，為信風輻合與深對流活躍區，對南太平洋降雨分布影響顯著。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Pacific_convergence_zone"
   },
   {
     "english": "South Pacific Current",
-    "traditional_chinese": "南太平洋洋流",
-    "definition_cht": "指與「南太平洋洋流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "南太平洋流",
+    "definition_cht": "南太平洋中緯度海域大致向東流動的洋流，為南太平洋副熱帶環流的一部分，連接西邊界流與東側海流系。",
     "source_url": "https://glossary.ametsoc.org/wiki/South_Pacific_Current"
   },
   {
     "english": "southeast trades",
     "traditional_chinese": "東南信風",
-    "definition_cht": "南半球副熱帶高壓吹向赤道低壓帶的東南風。",
+    "definition_cht": "南半球副熱帶高壓帶吹向赤道低壓槽的盛行偏東南風，是熱帶環流與海洋表層流系的重要驅動機制之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/southeast_trades"
   },
   {
     "english": "southeaster",
     "traditional_chinese": "東南風",
-    "definition_cht": "指與「東南風」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "由東南方吹來的風；在部分地區亦可特指具地方性的強東南風或相關天氣型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/southeaster"
   },
   {
     "english": "souther",
-    "traditional_chinese": "南風型變天",
-    "definition_cht": "澳洲等地對伴隨氣溫驟降的強烈南風或冷空氣南風的稱呼。",
+    "traditional_chinese": "強南風",
+    "definition_cht": "指由南方吹來的強風；在海事與地方氣象用語中，常泛指明顯增強的南風或伴隨天氣突變的南來強風。",
     "source_url": "https://glossary.ametsoc.org/wiki/souther"
   },
   {
     "english": "Southern Oscillation",
     "traditional_chinese": "南方振盪",
-    "definition_cht": "熱帶太平洋與印度洋一帶大氣壓力場呈現的東西向蹺蹺板式變化，與聖嬰—南方振盪密切相關。",
+    "definition_cht": "熱帶大氣中東西向氣壓振盪現象，主要表現為東南太平洋與印尼—澳洲區域之間海平面氣壓的反向變化，並與聖嬰／反聖嬰事件密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Southern_Oscillation"
   },
   {
     "english": "Southern Oscillation index",
     "traditional_chinese": "南方振盪指數",
-    "definition_cht": "以大溪地與達爾文等地海平面氣壓差異計算，用以量化南方振盪強弱的指數。",
+    "definition_cht": "用以量化南方振盪強弱的指數，通常依大溪地與達爾文的標準化海平面氣壓差計算，常用於監測聖嬰／反聖嬰狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/Southern_Oscillation_index"
   },
   {
     "english": "southwest monsoon",
     "traditional_chinese": "西南季風",
-    "definition_cht": "指與「西南季風」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "季風環流的一種，於暖季由海洋吹向受熱較強的陸地，在南亞與東南亞常帶來大量水氣、對流活動與雨季降水。",
     "source_url": "https://glossary.ametsoc.org/wiki/southwest_monsoon"
   },
   {
     "english": "Southwest Monsoon Current",
     "traditional_chinese": "西南季風流",
-    "definition_cht": "指與「西南季風流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "definition_cht": "受西南季風驅動而形成的海流或近地層氣流，常指北印度洋暖季隨季風建立而增強的季節性流系，負責輸送熱量、水氣或表層海水。",
     "source_url": "https://glossary.ametsoc.org/wiki/Southwest_Monsoon_Current"
   },
   {
     "english": "southwester",
     "traditional_chinese": "西南風",
-    "definition_cht": "來自西南方向的風；在部分地區亦可指具地方性的強西南風。",
+    "definition_cht": "由西南方吹來的風；在部分地區亦可指持續較強、常伴隨暖濕空氣輸送的地方性西南風。",
     "source_url": "https://glossary.ametsoc.org/wiki/southwester"
   },
   {
     "english": "sover",
-    "traditional_chinese": "統治者",
-    "definition_cht": "指與「統治者」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "sover（待考）",
+    "definition_cht": "此詞在公開可得的氣象資料中極為罕見；依現有線索應屬 AMS 詞彙表收錄的冷僻或地方性術語，但原始定義難以可靠核實，暫保留英文詞形並標記待考。",
     "source_url": "https://glossary.ametsoc.org/wiki/sover"
   },
   {
     "english": "SOx",
     "traditional_chinese": "硫氧化物",
-    "definition_cht": "指與「硫氧化物」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "含硫與氧的氧化物總稱，常指二氧化硫（SO₂）與三氧化硫（SO₃）；在大氣化學中為氣膠與酸沉降的重要前驅物。",
     "source_url": "https://glossary.ametsoc.org/wiki/SOx"
   },
   {
     "english": "space charge",
     "traditional_chinese": "空間電荷",
-    "definition_cht": "指與「空間電荷」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "分布於某一空間體積內的淨電荷集合，可存在於空氣、雲體、電漿或其他介質中，並會改變局部電場與帶電粒子運動。",
     "source_url": "https://glossary.ametsoc.org/wiki/space_charge"
   },
   {
     "english": "Space Environment In-Situ Suite",
-    "traditional_chinese": "空間環境現場套件",
-    "definition_cht": "指與「空間環境現場套件」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "空間環境原位量測套組",
+    "definition_cht": "GOES-R 系列衛星上的太空環境原位觀測儀器組（SEISS），由多個粒子感測器構成，用以量測電子、質子與重離子通量，支援太空天氣監測與警報。",
     "source_url": "https://glossary.ametsoc.org/wiki/Space_Environment_In-Situ_Suite"
   },
   {
