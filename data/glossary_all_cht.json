@@ -50731,122 +50731,122 @@
   },
   {
     "english": "thermal wind",
-    "traditional_chinese": "熱風",
-    "definition_cht": "指與「熱風」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "traditional_chinese": "熱成風",
+    "definition_cht": "在地轉平衡與靜力平衡近似成立時，不同高度地轉風之向量差所代表的垂直風切；其大小與方向由水平溫度梯度決定，常用來說明噴射氣流與斜壓結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_wind"
   },
   {
     "english": "thermal wind equation",
-    "traditional_chinese": "熱風方程",
-    "definition_cht": "指與「熱風方程」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "traditional_chinese": "熱成風方程",
+    "definition_cht": "描述垂直風切與水平溫度梯度關係的方程式；在大氣中通常把上下層地轉風差與層厚或等溫線分布連結，用以診斷斜壓性與高空噴流。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_wind_equation"
   },
   {
     "english": "thermal zone",
-    "traditional_chinese": "熱區",
-    "definition_cht": "指與「熱區」相關的帶狀或區域性空間分區。",
+    "traditional_chinese": "熱力分區",
+    "definition_cht": "依溫度特徵或熱量條件劃分的區域，可指氣候帶、水體層區或其他以熱力性質為主要判準的空間分區。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_zone"
   },
   {
     "english": "thermally direct",
-    "traditional_chinese": "熱直接",
-    "definition_cht": "指與「熱直接」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "熱力直接的",
+    "definition_cht": "形容環流或垂直循環受加熱驅動時，暖空氣上升、冷空氣下沉，因而將位能直接轉換為動能的型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermally_direct"
   },
   {
     "english": "thermally indirect",
-    "traditional_chinese": "熱間接",
-    "definition_cht": "指與「熱間接」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "熱力間接的",
+    "definition_cht": "形容環流或垂直循環的方向與單純熱力驅動相反，需要外部動力或機械作用維持；典型情況為暖空氣下沉、冷空氣上升。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermally_indirect"
   },
   {
     "english": "thermistor",
     "traditional_chinese": "熱敏電阻",
-    "definition_cht": "指與「熱敏電阻」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "電阻值對溫度變化極為敏感的半導體電阻元件，可分為負溫度係數與正溫度係數兩類，常用於溫度量測、控制與保護電路。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermistor"
   },
   {
     "english": "thermistor thermometer",
     "traditional_chinese": "熱敏電阻溫度計",
-    "definition_cht": "指用於量測溫度或熱狀態的溫度計儀器。",
+    "definition_cht": "以熱敏電阻作為感測元件的溫度計，利用電阻隨溫度變化的特性換算溫度，適合高靈敏度的局部溫度量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermistor_thermometer"
   },
   {
     "english": "thermo-integrator",
     "traditional_chinese": "熱積分儀",
-    "definition_cht": "指與「熱積分儀」相關的熱力、溫度或能量轉換概念。",
+    "definition_cht": "將溫度或熱通量對時間加以積分，以求得累積熱量、度時或相關熱量指標的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermo-integrator"
   },
   {
     "english": "thermo-osmosis",
     "traditional_chinese": "熱滲透",
-    "definition_cht": "指與「熱滲透」相關的熱力、溫度或能量轉換概念。",
+    "definition_cht": "在膜或多孔介質兩側存在溫度梯度時，由熱力差異所驅動的流體或溶劑遷移現象，屬非平衡熱力學中的耦合傳輸過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermo-osmosis"
   },
   {
     "english": "thermocline",
     "traditional_chinese": "溫躍層",
-    "definition_cht": "水體中溫度隨深度快速變化的層結，常分隔表層混合層與深層水體。",
+    "definition_cht": "水體中溫度隨深度快速變化的層結，常分隔表層混合層與深層較穩定水體，其深度與強度會隨季節、風浪與混合作用改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermocline"
   },
   {
     "english": "thermoclinicity",
-    "traditional_chinese": "溫斜性",
-    "definition_cht": "指與「溫斜性」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "溫躍性",
+    "definition_cht": "指水體中溫度隨深度變化的性質或強度，尤指溫躍層存在時的垂直溫度梯度與層化明顯程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermoclinicity"
   },
   {
     "english": "thermocouple",
     "traditional_chinese": "熱電偶",
-    "definition_cht": "利用兩種不同金屬接點溫差產生熱電勢以量測溫度的感測器。",
+    "definition_cht": "由兩種不同金屬或合金接成接點，利用席貝克效應把溫差轉換為電壓以量測溫度的感測器。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermocouple"
   },
   {
     "english": "thermodynamic diagram",
     "traditional_chinese": "熱力學圖",
-    "definition_cht": "以壓力、溫度與相關熱力參數構成的大氣分析圖，用於判讀穩定度、雲底、對流與探空結構。",
+    "definition_cht": "以壓力、溫度及相關熱力變數為座標或輔助線的分析圖，如 Skew-T 或 emagram，用於判讀探空、穩定度、凝結高度與對流潛勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermodynamic_diagram"
   },
   {
     "english": "thermodynamic efficiency",
     "traditional_chinese": "熱力學效率",
-    "definition_cht": "指與「熱力學效率」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "definition_cht": "熱能轉換裝置中，有用輸出與輸入熱能之比值；對熱機而言通常指淨作功除以吸收熱量，用以衡量能量轉換效能。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermodynamic_efficiency"
   },
   {
     "english": "thermodynamic function of state",
-    "traditional_chinese": "狀態的熱力學函數",
-    "definition_cht": "指與「狀態的熱力學函數」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "熱力學狀態函數",
+    "definition_cht": "只取決於系統當前狀態、不依賴到達路徑的熱力學函數，如內能、焓與熵；其變化量可由初末狀態直接決定。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermodynamic_function_of_state"
   },
   {
     "english": "thermodynamic probability",
     "traditional_chinese": "熱力學機率",
-    "definition_cht": "指描述「熱力學機率」相關事件、微觀狀態或統計結果發生可能性的機率概念。",
+    "definition_cht": "在統計熱力學中，對應某一巨觀狀態的可實現微觀組態數目，常以符號 W 表示，並與熵的定義密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermodynamic_probability"
   },
   {
     "english": "thermodynamic speed limit",
     "traditional_chinese": "熱力學速度極限",
-    "definition_cht": "指與「熱力學速度極限」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "definition_cht": "在非平衡熱力學與統計物理中，限制系統狀態轉變最快速率的理論下界或上界，通常將演化時間與耗散、熵產或能量波動聯繫起來。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermodynamic_speed_limit"
   },
   {
     "english": "thermodynamics",
     "traditional_chinese": "熱力學",
-    "definition_cht": "研究能量、熱、功及其轉換規律的學科，是大氣熱力與相變分析的重要基礎。",
+    "definition_cht": "研究熱、功、溫度與能量及其轉換規律的學科；在氣象學中用於分析大氣穩定度、相變、能量收支與流體狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermodynamics"
   },
   {
     "english": "thermoelectric thermometer",
     "traditional_chinese": "熱電溫度計",
-    "definition_cht": "指用於量測溫度或熱狀態的溫度計儀器。",
+    "definition_cht": "利用熱電效應量測溫度的儀器，通常以熱電偶為感測核心，將接點溫差轉換為電壓訊號後推算溫度。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermoelectric_thermometer"
   },
   {
     "english": "thermogram",
-    "traditional_chinese": "熱分析圖",
-    "definition_cht": "指與「熱分析圖」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "溫度記錄圖",
+    "definition_cht": "由溫度記錄器或熱像量測系統產生的溫度分布圖或連續記錄圖；在狹義上常指 thermograph 所繪出的溫度隨時間變化曲線。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermogram"
   },
   {
