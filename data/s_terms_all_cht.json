@@ -3668,121 +3668,121 @@
   {
     "english": "space weather",
     "traditional_chinese": "太空天氣",
-    "definition_cht": "太陽活動及其與地球磁層、電離層和高層大氣交互作用所引起的環境變化。",
+    "definition_cht": "指太陽活動、太陽風、日冕物質拋射及其與地球磁層、電離層與高層大氣交互作用所造成的近地太空環境變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/space_weather"
   },
   {
     "english": "spark discharge",
     "traditional_chinese": "火花放電",
-    "definition_cht": "指與「火花放電」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在高電場下穿越氣體間隙的瞬時電性放電現象，會形成狹窄導電通道並伴隨強光與高溫；閃電可視為大尺度火花放電。",
     "source_url": "https://glossary.ametsoc.org/wiki/spark_discharge"
   },
   {
     "english": "spatial average",
     "traditional_chinese": "空間平均",
-    "definition_cht": "指與「空間平均」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "將某物理量在指定空間範圍內各位置的數值加總或積分後再除以該範圍而得的平均值，用以代表區域整體狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/spatial_average"
   },
   {
     "english": "spatial dendrite",
-    "traditional_chinese": "空間樹突",
-    "definition_cht": "指與「空間樹突」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "空間枝狀雪晶",
+    "definition_cht": "一種向三維空間分枝生長的樹枝狀雪晶，常在適合的溫度與過飽和條件下形成，屬雪晶形態分類之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/spatial_dendrite"
   },
   {
     "english": "SPCZ",
     "traditional_chinese": "南太平洋輻合帶",
-    "definition_cht": "South Pacific Convergence Zone 的縮寫，為南太平洋熱帶的重要雲雨帶。",
+    "definition_cht": "South Pacific Convergence Zone 的縮寫，指自西太平洋暖池向東南延伸至南太平洋的持續性低層輻合、雲系與降水帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/SPCZ"
   },
   {
     "english": "SPECI",
     "traditional_chinese": "特別天氣觀測報",
-    "definition_cht": "機場或氣象站在天氣顯著變化時加發的特別例行觀測報。",
+    "definition_cht": "航空氣象中的特別觀測報，於兩次例行 METAR 之間若天氣或能見度、雲底高度、風等要素出現達規定門檻的顯著變化時發布。",
     "source_url": "https://glossary.ametsoc.org/wiki/SPECI"
   },
   {
     "english": "special observation",
     "traditional_chinese": "特別觀測",
-    "definition_cht": "在例行觀測時間之外，因天氣或作業需要而臨時加做的觀測。",
+    "definition_cht": "在例行觀測時次之外，因天氣顯著變化或作業需要而加發的臨時觀測；於航空氣象常指形成 SPECI 的特別天氣觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/special_observation"
   },
   {
     "english": "Special Sensor Microwave Imager",
     "traditional_chinese": "特殊感測器微波成像儀",
-    "definition_cht": "指量測「特殊感測器微波成像儀」相關物理量之感測元件、探測器或儀器組件。",
+    "definition_cht": "美國國防氣象衛星搭載的被動式微波輻射計，量測多頻道微波輻射以反演海面風速、整層水氣、雲液水、降水與海冰等參數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Special_Sensor_Microwave_Imager"
   },
   {
     "english": "Special Sensor Microwave Temperature",
-    "traditional_chinese": "特殊感測器微波溫度",
-    "definition_cht": "指量測「特殊感測器微波溫度」相關物理量之感測元件、探測器或儀器組件。",
+    "traditional_chinese": "特殊感測器微波測溫儀",
+    "definition_cht": "指 Special Sensor Microwave/Temperature（SSM/T）系列被動式微波探測儀，用於量測大氣微波輻射並反演大氣溫度垂直結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Special_Sensor_Microwave_Temperature"
   },
   {
     "english": "special weather report",
     "traditional_chinese": "特別天氣報告",
-    "definition_cht": "指與「特別天氣報告」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "在例行報告之外，因天氣條件出現顯著改變或有重要天氣現象而臨時發布的補充天氣報告；航空氣象中常以 SPECI 形式發布。",
     "source_url": "https://glossary.ametsoc.org/wiki/special_weather_report"
   },
   {
     "english": "special weather statements",
     "traditional_chinese": "特殊天氣聲明",
-    "definition_cht": "指與「特殊天氣聲明」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "用於發布尚未達警報門檻、但仍值得公眾注意之顯著天氣資訊的說明性產品，也可作為既有警報或預報的補充說明。",
     "source_url": "https://glossary.ametsoc.org/wiki/special_weather_statements"
   },
   {
     "english": "specific",
-    "traditional_chinese": "具體的",
-    "definition_cht": "指與「具體的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "比的；單位量的",
+    "definition_cht": "作為科學量詞修飾語時，表示某量係以單位質量、單位體積、單位面積或其他基準量為分母而定義，如比濕、比能與比熱。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific"
   },
   {
     "english": "specific capacity",
-    "traditional_chinese": "比容量",
-    "definition_cht": "指與「比容量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "單位降深出水量",
+    "definition_cht": "地下水學中指井在抽水時單位降深所能提供的出水量，即抽水流量除以降深，用以表示井的產能與效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_capacity"
   },
   {
     "english": "specific conductance",
     "traditional_chinese": "比電導",
-    "definition_cht": "指與「比電導」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "將水樣電導度校正或換算至標準溫度（通常為 25°C）後的導電能力指標，常用於比較不同水體中溶解離子總量。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_conductance"
   },
   {
     "english": "specific discharge",
-    "traditional_chinese": "單位面積流量",
-    "definition_cht": "單位集水面積所對應的流量，或地下水學中單位截面積的體積流率。",
+    "traditional_chinese": "比流量；達西通量",
+    "definition_cht": "每單位截面積的體積流率；在地下水學中相當於達西通量，在流域水文中亦可指每單位集水面積所分配的流量。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_discharge"
   },
   {
     "english": "specific energy",
-    "traditional_chinese": "比能量",
-    "definition_cht": "指與「比能量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "比能",
+    "definition_cht": "單位質量所具有的能量；在明渠水力學中常特指相對於渠底的總能量水頭，即水深與速度水頭之和。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_energy"
   },
   {
     "english": "specific gravity",
     "traditional_chinese": "比重",
-    "definition_cht": "指與「比重」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "某物質密度與基準物質密度之比；液體與固體通常以水為基準，因此為無因次量，可用以表徵物質相對密實程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_gravity"
   },
   {
     "english": "specific heat capacity",
     "traditional_chinese": "比熱容",
-    "definition_cht": "指與「比熱容」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "使單位質量物質的溫度升高一單位所需的熱量，是描述物質熱慣性與儲熱能力的重要熱力性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_heat_capacity"
   },
   {
     "english": "specific humidity",
     "traditional_chinese": "比濕",
-    "definition_cht": "單位濕空氣總質量中所含水汽質量的比值，為描述大氣含濕量的基本熱力變數之一。",
+    "definition_cht": "濕空氣中水汽質量與濕空氣總質量之比，為描述大氣含濕量的基本熱力變數之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_humidity"
   },
   {
     "english": "specific retention",
-    "traditional_chinese": "特定保留率",
-    "definition_cht": "指與「特定保留率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "持水率",
+    "definition_cht": "在地下水學中，飽和土壤或岩層排水後仍因毛細力與分子附著力而保留於孔隙中的水量，占材料總體積的比率。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_retention"
   },
   {
