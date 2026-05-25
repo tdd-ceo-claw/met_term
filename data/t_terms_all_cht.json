@@ -1561,122 +1561,122 @@
   },
   {
     "english": "top-down/bottom-up diffusion",
-    "traditional_chinese": "自上而下/自下而上擴散",
-    "definition_cht": "指與「自上而下/自下而上擴散」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "自上而下／自下而上擴散",
+    "definition_cht": "指物質、熱量或動量在垂直方向上由上層向下層，或由下層向上層傳輸的擴散過程；常用於描述大氣、水體或土壤中不同邊界條件主導的輸送機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/top-down%2Fbottom-up_diffusion"
   },
   {
     "english": "TOPEX",
     "traditional_chinese": "TOPEX",
-    "definition_cht": "「TOPEX」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "definition_cht": "通常指 TOPEX/Poseidon 海洋測高任務中的 TOPEX（Ocean Topography Experiment）；為用以量測海面高度與海面地形之衛星測高系統，對海洋環流、海平面變化與聖嬰研究具重要意義。",
     "source_url": "https://glossary.ametsoc.org/wiki/TOPEX"
   },
   {
     "english": "topographic amplification factor",
-    "traditional_chinese": "地形放大係數",
-    "definition_cht": "指與「地形放大係數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "地形增幅因子",
+    "definition_cht": "指地形作用使某一氣象或物理量相對於平坦地表情況被增強的倍數或比例，常用於描述山脊、坡面或峽谷對風速、湍流、波動或載荷的放大效果。",
     "source_url": "https://glossary.ametsoc.org/wiki/topographic_amplification_factor"
   },
   {
     "english": "topographic waves",
     "traditional_chinese": "地形波",
-    "definition_cht": "指與「地形波」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指氣流或水流通過山脈、海底地形等障礙時，因受地形強迫而產生的波動；在大氣中常見為背風波、山岳波等。",
     "source_url": "https://glossary.ametsoc.org/wiki/topographic_waves"
   },
   {
     "english": "topography",
     "traditional_chinese": "地形",
-    "definition_cht": "指與「地形」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指地表高低起伏與各種地貌形態的總稱，包括山地、平原、盆地、谷地、坡面等；為影響局地天氣、氣流分布與水文過程的重要下墊面條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/topography"
   },
   {
     "english": "topside sounder",
-    "traditional_chinese": "上部測深儀",
-    "definition_cht": "指與「上部測深儀」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "上側電離層探測儀",
+    "definition_cht": "裝設於衛星上的電離層探測儀，自衛星軌道向下發射無線電訊號，以量測衛星以上或附近上層電離層與等離子體環境的電子密度結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/topside_sounder"
   },
   {
     "english": "Tornadic debris signature",
-    "traditional_chinese": "龍捲殘骸簽名",
-    "definition_cht": "指與「龍捲殘骸簽名」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "龍捲碎片特徵",
+    "definition_cht": "指雙偏振天氣雷達在龍捲風將地面碎片捲升至空中時所呈現的特徵性訊號，通常表現為反射率增強、相關係數偏低等，可作為龍捲風正在造成地面破壞的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tornadic_debris_signature"
   },
   {
     "english": "tornadic vortex signature",
-    "traditional_chinese": "龍捲風渦特徵",
-    "definition_cht": "指與「龍捲風渦特徵」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "龍捲渦旋特徵",
+    "definition_cht": "指都卜勒天氣雷達速度場中，彼此相鄰且強烈的向雷達與背離雷達速度偶極訊號，代表極小尺度且快速旋轉的渦旋，常用作研判龍捲風或其即將形成的重要線索。",
     "source_url": "https://glossary.ametsoc.org/wiki/tornadic_vortex_signature"
   },
   {
     "english": "Tornado",
     "traditional_chinese": "龍捲風",
-    "definition_cht": "指與「龍捲風」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "自積雨雲或其下方雲底向地面延伸之強烈旋轉空氣柱，尺度通常較小但風速極強，常伴隨漏斗雲、飛散碎片與劇烈破壞。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tornado"
   },
   {
     "english": "Tornado Alley",
-    "traditional_chinese": "龍捲風巷",
-    "definition_cht": "指與「龍捲風巷」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "龍捲風走廊",
+    "definition_cht": "指美國中部大平原一帶龍捲風發生頻率特別高的鬆散地理區域稱呼，並非嚴格固定邊界之正式氣候分區。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tornado_Alley"
   },
   {
     "english": "tornado belt",
-    "traditional_chinese": "龍捲風帶",
-    "definition_cht": "指沿特定緯度、地形或環境條件延伸的帶狀區域。",
+    "traditional_chinese": "龍捲多發帶",
+    "definition_cht": "指龍捲風在多年氣候統計上較常發生的帶狀區域，可用於描述某國家、洲域或特定地形環境中的高風險區。",
     "source_url": "https://glossary.ametsoc.org/wiki/tornado_belt"
   },
   {
     "english": "tornado cyclone",
-    "traditional_chinese": "龍捲風氣旋",
-    "definition_cht": "指與「龍捲風氣旋」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "龍捲氣旋",
+    "definition_cht": "通常指與龍捲風生成相關、具有明顯氣旋式旋轉的母體渦旋或小尺度環流，常見於強烈對流系統中的中尺度氣旋近地面部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/tornado_cyclone"
   },
   {
     "english": "tornado echo",
-    "traditional_chinese": "龍捲風迴聲",
-    "definition_cht": "指與「龍捲風迴聲」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "龍捲回波",
+    "definition_cht": "指氣象雷達上與龍捲風或其母體強對流風暴相關的特徵性回波型態，常與鉤狀回波、強烈旋轉訊號等現象並見。",
     "source_url": "https://glossary.ametsoc.org/wiki/tornado_echo"
   },
   {
     "english": "tornado outbreak",
-    "traditional_chinese": "龍捲風爆發",
-    "definition_cht": "指與「龍捲風爆發」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "龍捲風群發",
+    "definition_cht": "指在同一綜觀天氣形勢或同一次強對流事件中，於相對集中的時間與區域內接連出現多個龍捲風的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/tornado_outbreak"
   },
   {
     "english": "torque",
-    "traditional_chinese": "扭力",
-    "definition_cht": "指與「扭力」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "力矩",
+    "definition_cht": "使物體繞某一軸或支點產生轉動趨勢的物理量，等於作用力與力臂的向量乘積；在大氣與海洋動力學中亦可指造成角動量變化的作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/torque"
   },
   {
     "english": "torrent",
-    "traditional_chinese": "激流",
-    "definition_cht": "指與「激流」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "急流溪",
+    "definition_cht": "指坡度較陡、流速很快且流量變化常較劇烈的山地溪流或暴洪性水道；在水文上常與豪雨後迅速集流與侵蝕搬運作用有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/torrent"
   },
   {
     "english": "Torricelli's tube",
-    "traditional_chinese": "托里拆利管",
-    "definition_cht": "指與「托里拆利管」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "托里切利管",
+    "definition_cht": "指一端封閉、內充液體後倒置於液槽中的玻璃管，為水銀氣壓計的基本裝置；液柱上方形成近真空區，可用以量測大氣壓力。",
     "source_url": "https://glossary.ametsoc.org/wiki/Torricelli%27s_tube"
   },
   {
     "english": "Torricellian vacuum",
     "traditional_chinese": "托里切利真空",
-    "definition_cht": "指與「托里切利真空」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指在托里切利管或水銀氣壓計液柱上方形成的近真空空間，內部僅含極少量蒸氣，為經典氣壓實驗中的重要概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/Torricellian_vacuum"
   },
   {
     "english": "Torrid zone",
-    "traditional_chinese": "炎熱地帶",
-    "definition_cht": "指與「炎熱地帶」相關的帶狀或區域性空間分區。",
+    "traditional_chinese": "熱帶",
+    "definition_cht": "傳統地理名詞，指北回歸線與南回歸線之間的低緯度地帶，全年太陽高度角大、受熱較強，現多近似對應熱帶區。",
     "source_url": "https://glossary.ametsoc.org/wiki/Torrid_zone"
   },
   {
     "english": "torsion hygrometer",
-    "traditional_chinese": "扭轉濕度計",
-    "definition_cht": "指與「扭轉濕度計」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "扭秤式濕度計",
+    "definition_cht": "利用毛髮、纖維或其他吸濕材料受濕度變化影響而產生扭轉或形變，藉此量測空氣相對濕度的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/torsion_hygrometer"
   },
   {
