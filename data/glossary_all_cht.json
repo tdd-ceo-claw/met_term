@@ -51212,122 +51212,122 @@
   {
     "english": "tidal marsh",
     "traditional_chinese": "潮汐沼澤",
-    "definition_cht": "指與「潮汐沼澤」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tidal_marsh"
+    "definition_cht": "受海潮週期性淹沒與排水控制的沼澤濕地，常分布於河口、海岸與感潮河段，兼具潮汐、水文、鹽度與植被交互作用特性。",
+    "source_url": "https://en.wikipedia.org/wiki/Tidal_marsh"
   },
   {
     "english": "tidal prism",
-    "traditional_chinese": "潮汐棱鏡",
-    "definition_cht": "指與「潮汐棱鏡」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tidal_prism"
+    "traditional_chinese": "潮容積",
+    "definition_cht": "在河口、港灣或潮口中，平均高潮位與平均低潮位之間所包容，並在一個潮汐週期內進出該水域的海水體積。",
+    "source_url": "https://en.wikipedia.org/wiki/Tidal_Prism"
   },
   {
     "english": "tidal range",
     "traditional_chinese": "潮差",
-    "definition_cht": "指與「潮差」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tidal_range"
+    "definition_cht": "同一地點相鄰高潮位與低潮位之間的水位高差，其大小隨地點、天文條件與海岸地形而變化。",
+    "source_url": "https://en.wikipedia.org/wiki/Tidal_range"
   },
   {
     "english": "tidal river",
-    "traditional_chinese": "潮汐河",
-    "definition_cht": "指與「潮汐河」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tidal_river"
+    "traditional_chinese": "感潮河川",
+    "definition_cht": "受潮汐作用影響而使水位與流向呈週期性變化的河川或河段，漲潮時局部河段可出現逆向上溯流。",
+    "source_url": "https://en.wikipedia.org/wiki/Tidal_river"
   },
   {
     "english": "tidal stream",
-    "traditional_chinese": "潮汐流",
-    "definition_cht": "指與「潮汐流」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tidal_stream"
+    "traditional_chinese": "潮流",
+    "definition_cht": "由潮汐引起、具有週期性轉向與變速特徵的海水水平流動，通常隨漲潮與退潮交替改變流向。",
+    "source_url": "https://en.wikipedia.org/wiki/Tidal_stream"
   },
   {
     "english": "Tidal wave",
     "traditional_chinese": "潮汐波",
-    "definition_cht": "指與「潮汐波」相關的波動、擾動或傳播現象，可發生於大氣、海洋或電磁系統。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Tidal_wave"
+    "definition_cht": "由月球與太陽引潮力所激發、隨潮汐週期傳播的長波；此詞常被誤用來指海嘯，但兩者成因並不相同。",
+    "source_url": "https://oceanservice.noaa.gov/facts/tidalwave.html"
   },
   {
     "english": "tidal wind",
     "traditional_chinese": "潮汐風",
-    "definition_cht": "指與「潮汐風」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tidal_wind"
+    "definition_cht": "在潮流強勁的海灣、河口或水道中，受漲退潮影響而出現的極弱局地風；漲潮時多向岸吹送，退潮時則偏向離岸。",
+    "source_url": "https://glossary.ametsoc.org/wiki/tidal-wind/"
   },
   {
     "english": "Tide",
-    "traditional_chinese": "潮",
-    "definition_cht": "指與「潮」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Tide"
+    "traditional_chinese": "潮汐",
+    "definition_cht": "海面在月球與太陽引力及地月系統運動共同作用下，所呈現的週期性升降現象。",
+    "source_url": "https://en.wikipedia.org/wiki/Tide"
   },
   {
     "english": "tide amplitude",
-    "traditional_chinese": "潮汐幅度",
-    "definition_cht": "指與「潮汐幅度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tide_amplitude"
+    "traditional_chinese": "潮汐振幅",
+    "definition_cht": "自平均海面或平均潮位到高潮位或低潮位的潮位振動幅度；在對稱情況下約為潮差的一半。",
+    "source_url": "https://glossary.ametsoc.org/wiki/tide-amplitude/"
   },
   {
     "english": "tide crack",
     "traditional_chinese": "潮汐裂縫",
-    "definition_cht": "指與「潮汐裂縫」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tide_crack"
+    "definition_cht": "受潮汐升降影響，在岸邊、冰足與固定海冰之間反覆張裂形成的狹長裂縫，常見於極地或寒冷海岸。",
+    "source_url": "https://nsidc.org/learn/cryosphere-glossary/tide-crack"
   },
   {
     "english": "tide gauge",
-    "traditional_chinese": "潮汐計",
-    "definition_cht": "指用於量測「潮汐計」相關量值的雨量器、計量器或監測裝置。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tide_gauge"
+    "traditional_chinese": "潮位計",
+    "definition_cht": "用於連續觀測海面或水體相對基準面高度變化的儀器，是監測潮汐、風暴潮與長期海平面變化的重要設備。",
+    "source_url": "https://oceanservice.noaa.gov/facts/tide-gauge.html"
   },
   {
     "english": "tide gauge benchmark",
-    "traditional_chinese": "潮位計基準",
-    "definition_cht": "指用於量測「潮位計基準」相關量值的雨量器、計量器或監測裝置。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tide_gauge_benchmark"
+    "traditional_chinese": "潮位基準點",
+    "definition_cht": "設置於潮位站附近、位置穩定且高程已知的永久基點，用作潮位計校準、檢核與水位資料高程基準連結之依據。",
+    "source_url": "https://www.sonel.org/_Tide-bench-marks-and-tide-gauge.html"
   },
   {
     "english": "tide tables",
     "traditional_chinese": "潮汐表",
-    "definition_cht": "指與「潮汐表」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tide_tables"
+    "definition_cht": "列示特定地點在指定日期之高潮、低潮及其發生時間與預報潮位的表格或資料集，供航海、港務與沿岸作業參考。",
+    "source_url": "https://oceanservice.noaa.gov/navigation/tidesandcurrents/tide-tables.html"
   },
   {
     "english": "tide-producing force",
-    "traditional_chinese": "潮汐產生力",
-    "definition_cht": "指與「潮汐產生力」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tide-producing_force"
+    "traditional_chinese": "產潮力",
+    "definition_cht": "月球與太陽對地球不同位置施加引力差異所形成、足以產生潮汐變形與潮位起伏的作用力。",
+    "source_url": "https://en.wikipedia.org/wiki/Tidal_force"
   },
   {
     "english": "tilt",
     "traditional_chinese": "傾斜",
-    "definition_cht": "指與「傾斜」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tilt"
+    "definition_cht": "指物體、界面、氣象系統軸線或等值面相對於水平或鉛直基準的偏斜狀態與程度。",
+    "source_url": "https://www.weather.gov/otx/Full_Weather_Glossary"
   },
   {
     "english": "timber line",
-    "traditional_chinese": "木材生產線",
-    "definition_cht": "指與「木材生產線」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/timber_line"
+    "traditional_chinese": "林線",
+    "definition_cht": "高山或高緯地區因熱量、風、積雪或生長季限制，樹木得以自然生長的上限或極限界線。",
+    "source_url": "https://en.wikipedia.org/wiki/Tree_line"
   },
   {
     "english": "time",
     "traditional_chinese": "時間",
-    "definition_cht": "指與「時間」相關的時間系統、時間尺度或時制概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/time"
+    "definition_cht": "用以表示事件發生先後、持續長短與週期變化的基本物理量，也是描述氣象與海洋過程演變的座標之一。",
+    "source_url": "https://en.wikipedia.org/wiki/Time"
   },
   {
     "english": "time average",
     "traditional_chinese": "時間平均",
-    "definition_cht": "指與「時間平均」相關的時間系統、時間尺度或時制概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/time_average"
+    "definition_cht": "將某變量在一段指定時間區間內的數值加以平均，以描述其代表性狀態並平滑短時波動。",
+    "source_url": "https://glossary.ametsoc.org/wiki/time-average/"
   },
   {
     "english": "time constant",
     "traditional_chinese": "時間常數",
-    "definition_cht": "指與「時間常數」相關的時間系統、時間尺度或時制概念。",
-    "source_url": "https://glossary.ametsoc.org/wiki/time_constant"
+    "definition_cht": "表徵一階系統對外部擾動或輸入反應快慢的特徵時間尺度；時間常數愈大，系統調整愈慢。",
+    "source_url": "https://en.wikipedia.org/wiki/Time_constant"
   },
   {
     "english": "time curve",
     "traditional_chinese": "時間曲線",
-    "definition_cht": "指以圖形方式表現「時間曲線」相關變量關係的曲線，用於分析趨勢、結構或診斷特性。",
-    "source_url": "https://glossary.ametsoc.org/wiki/time_curve"
+    "definition_cht": "以時間為橫軸、其他變量為縱軸繪製的曲線，用以呈現某一物理量隨時間的變化歷程。",
+    "source_url": "https://glossary.ametsoc.org/wiki/time-curve/"
   },
   {
     "english": "time lag",
