@@ -961,122 +961,122 @@
   },
   {
     "english": "thermograph",
-    "traditional_chinese": "溫度計",
-    "definition_cht": "指與「溫度計」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "自記溫度計；溫度自記器",
+    "definition_cht": "可連續量測並自動記錄溫度隨時間變化的儀器，常以雙金屬、液體膨脹或其他感測元件帶動記錄筆，在紙帶或圖表上留下溫度歷程。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermograph"
   },
   {
     "english": "thermohaline circulation",
     "traditional_chinese": "溫鹽環流",
-    "definition_cht": "指與「溫鹽環流」相關的局地或大尺度環流結構及其輸送作用。",
+    "definition_cht": "由海水溫度與鹽度差異所造成的密度梯度所驅動之大尺度海洋環流，負責在全球海洋中緩慢輸送熱量、鹽分、養分與深層水體，常被稱為全球海洋輸送帶的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermohaline_circulation"
   },
   {
     "english": "Thermohaline convection",
     "traditional_chinese": "溫鹽對流",
-    "definition_cht": "指與「溫鹽對流」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "definition_cht": "海水因受冷卻、蒸發增鹽或其他作用而密度增加時所產生的垂直對流混合；其浮力主要受溫度與鹽度共同控制，為深水形成與上層海洋垂直交換的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/Thermohaline_convection"
   },
   {
     "english": "thermoisopleth",
     "traditional_chinese": "等溫線",
-    "definition_cht": "指與「等溫線」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "definition_cht": "在圖上連結溫度相同各點的線，用以表示空間中的溫度分布；在氣象圖上通常即指等溫線。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermoisopleth"
   },
   {
     "english": "thermokarst topography",
-    "traditional_chinese": "熱岩溶地形",
-    "definition_cht": "指與「熱岩溶地形」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "熱融喀斯特地形",
+    "definition_cht": "富含地下冰的永凍土融解後，地表因沉陷而形成的凹地、小丘、池塘與不規則起伏地形；其外觀類似石灰岩喀斯特，但成因為凍土熱融而非溶蝕。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermokarst_topography"
   },
   {
     "english": "thermometer",
     "traditional_chinese": "溫度計",
-    "definition_cht": "指用於量測溫度或熱狀態的溫度計儀器。",
+    "definition_cht": "用於量測溫度的儀器，藉由液體膨脹、電阻、熱電效應、輻射或其他物理性質隨溫度改變之關係，將溫度轉換為可讀取或可記錄的數值。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermometer"
   },
   {
     "english": "thermometer support",
     "traditional_chinese": "溫度計支架",
-    "definition_cht": "指用於量測溫度或熱狀態的溫度計儀器。",
+    "definition_cht": "用於固定、懸掛或安置溫度計的支撐裝置，使感測球部位於規定位置並盡量避免傳導、輻射或接觸造成的量測誤差；常見於百葉箱、觀測架或實驗裝置中。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermometer_support"
   },
   {
     "english": "thermometry",
-    "traditional_chinese": "測溫",
-    "definition_cht": "指與「測溫」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "測溫法；測溫學",
+    "definition_cht": "關於溫度量測的方法、原理、儀器與校正的技術或學問，涵蓋各類溫度尺度建立及感測器讀值轉換。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermometry"
   },
   {
     "english": "thermoneutral zone",
     "traditional_chinese": "熱中性區",
-    "definition_cht": "指與「熱中性區」相關的帶狀或區域性空間分區。",
+    "definition_cht": "恆溫動物在環境溫度落於某一範圍時，僅靠基礎代謝與少量生理調節即可維持體溫平衡、無須額外顫抖產熱或蒸發散熱的環境溫度帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermoneutral_zone"
   },
   {
     "english": "thermoperiodicity",
-    "traditional_chinese": "熱週期性",
-    "definition_cht": "指與「熱週期性」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "溫度週期性",
+    "definition_cht": "指溫度按日週期、年週期或其他規律反覆變化的現象；在生物氣象與植物生理上，亦可指生物對日夜或季節性溫度交替的反應特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermoperiodicity"
   },
   {
     "english": "thermopile",
     "traditional_chinese": "熱電堆",
-    "definition_cht": "指與「熱電堆」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "definition_cht": "由多個熱電偶串聯或並聯組成的感測元件，利用受熱端與參考端之間的溫差產生熱電勢，可將熱輻射或溫差轉換為電訊號，常用於輻射與紅外量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermopile"
   },
   {
     "english": "thermoscope",
-    "traditional_chinese": "測溫儀",
-    "definition_cht": "指用於顯示或比較溫度變化的早期測溫裝置。",
+    "traditional_chinese": "測溫儀；示溫器",
+    "definition_cht": "早期用來顯示溫度升降而不一定具有定量刻度的裝置，可藉液柱或氣體體積變化反映冷熱變化，為現代溫度計的前身。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermoscope"
   },
   {
     "english": "thermoscreen",
-    "traditional_chinese": "熱螢幕",
-    "definition_cht": "指與「熱螢幕」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "溫度計遮屏；百葉箱",
+    "definition_cht": "為遮蔽日射與地面輻射、同時保持通風而設的溫度計防護裝置，用以減少輻射加熱對氣溫觀測的干擾；在地面氣象觀測上常指百葉箱或類似遮屏。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermoscreen"
   },
   {
     "english": "thermosphere",
     "traditional_chinese": "熱層",
-    "definition_cht": "指與「熱層」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "definition_cht": "地球大氣中位於中間層之上、外逸層之下的一層，高度約自八、九十公里延伸至數百公里以上；此層吸收高能太陽輻射後氣溫隨高度上升，並包含電離層的重要部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermosphere"
   },
   {
     "english": "thermosteric anomaly",
-    "traditional_chinese": "熱空間異常",
-    "definition_cht": "指與「熱空間異常」相關的熱力學狀態、溫度結構、熱能交換或其觀測診斷概念。",
+    "traditional_chinese": "熱膨脹距平",
+    "definition_cht": "海水比容、層厚或海面高度相對基準狀態的偏差中，僅由溫度改變所造成的部分；用以區分熱效應與鹽度變化對海洋密度結構的貢獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermosteric_anomaly"
   },
   {
     "english": "thermotropic model",
-    "traditional_chinese": "熱致模型",
-    "definition_cht": "指用於表示「熱致模型」相關過程、結構或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "熱向性模式",
+    "definition_cht": "指以溫度分布、熱力梯度或受熱差異作為主要控制因子的概念性或數值模式，用以描述系統對熱條件變化的結構、響應或演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermotropic_model"
   },
   {
     "english": "THI",
-    "traditional_chinese": "THI",
-    "definition_cht": "「THI」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "溫濕指數",
+    "definition_cht": "temperature-humidity index 的縮寫，為結合氣溫與相對濕度（或濕球效應）以評估人體或家畜熱壓力、悶熱程度與熱舒適度的綜合指標，常用於農業氣象與生物氣象。",
     "source_url": "https://glossary.ametsoc.org/wiki/THI"
   },
   {
     "english": "thickness",
-    "traditional_chinese": "厚度",
-    "definition_cht": "兩個等壓面之間的位勢高度差，常用於表徵該層平均虛溫與冷暖空氣分布。",
+    "traditional_chinese": "厚度；等壓層厚",
+    "definition_cht": "在氣象學中通常指兩個指定等壓面之間的位勢高度差，反映該層平均虛溫或平均溫度，常用於判讀冷暖空氣分布、鋒區位置與降水型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/thickness"
   },
   {
     "english": "thickness chart",
-    "traditional_chinese": "厚度圖",
-    "definition_cht": "指與「厚度圖」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "厚度圖；等壓厚度圖",
+    "definition_cht": "表示兩個指定等壓面之間層厚分布的分析圖，常以等厚線繪出；因層厚與該層平均虛溫密切相關，故可用於判讀溫度場、鋒面與雨雪分界。",
     "source_url": "https://glossary.ametsoc.org/wiki/thickness_chart"
   },
   {
     "english": "thickness line",
-    "traditional_chinese": "厚度線",
-    "definition_cht": "指與「厚度線」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "厚度線；等厚線",
+    "definition_cht": "在厚度圖上連結等壓層厚相同各點的線，其疏密可反映平均溫度梯度強弱；在天氣分析中常用於診斷冷暖平流、鋒區與降水相態。",
     "source_url": "https://glossary.ametsoc.org/wiki/thickness_line"
   },
   {
