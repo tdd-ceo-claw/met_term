@@ -50971,122 +50971,122 @@
   },
   {
     "english": "thickness pattern",
-    "traditional_chinese": "厚度圖案",
-    "definition_cht": "指與「厚度圖案」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "厚度場型",
+    "definition_cht": "指厚度圖上等厚線的整體分布型態與配置特徵，可用來辨識大尺度冷暖空氣分布、槽脊結構及平流型態。",
     "source_url": "https://glossary.ametsoc.org/wiki/thickness_pattern"
   },
   {
     "english": "Thiessen polygon method",
     "traditional_chinese": "泰森多邊形法",
-    "definition_cht": "指與「泰森多邊形法」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "依各雨量站在平面上劃分最接近其站點的控制區域，並以各多邊形面積作為權重來估算流域平均降水量的方法；亦常視為 Voronoi 圖在水文上的應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/Thiessen_polygon_method"
   },
   {
     "english": "thin",
-    "traditional_chinese": "薄的",
-    "definition_cht": "指與「薄的」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "薄的；稀薄的",
+    "definition_cht": "形容雲層、霧層、大氣層結或其他介質厚度小、密度低或光學厚度弱的狀態；在雲況描述中常指雲體較淡薄、透光性較高。",
     "source_url": "https://glossary.ametsoc.org/wiki/thin"
   },
   {
     "english": "THIR",
-    "traditional_chinese": "THIR",
-    "definition_cht": "「THIR」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "溫濕度紅外輻射計",
+    "definition_cht": "Temperature-Humidity Infrared Radiometer 的縮寫，為早期氣象衛星所搭載的紅外遙測儀器，利用不同紅外波段量測地球與大氣輻射，以反演溫度垂直結構、水氣分布及雲頂資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/THIR"
   },
   {
     "english": "third law of thermodynamics",
     "traditional_chinese": "熱力學第三定律",
-    "definition_cht": "指與「熱力學第三定律」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指出當系統溫度趨近絕對零度時，完全晶體的熵趨近一常數，通常取為零；此定律用以界定低溫下熵的基準，並說明不可能經有限步驟達到絕對零度。",
     "source_url": "https://glossary.ametsoc.org/wiki/third_law_of_thermodynamics"
   },
   {
     "english": "third-order climatological station",
     "traditional_chinese": "三級氣候站",
-    "definition_cht": "指與「三級氣候站」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "觀測項目與作業頻率較第一級、第二級氣象或氣候站為少的基層氣候觀測站，通常以蒐集較基本的氣候統計資料為主。",
     "source_url": "https://glossary.ametsoc.org/wiki/third-order_climatological_station"
   },
   {
     "english": "third-order closure",
-    "traditional_chinese": "三階閉包",
-    "definition_cht": "指與「三階閉包」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "三階閉合",
+    "definition_cht": "在湍流或邊界層參數化中，將三階動差或通量納入預報或診斷，並以閉合假設表示更高階項的理論；較低階閉合能更細緻描述非對稱湍流輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/third-order_closure"
   },
   {
     "english": "thirty-day forecast",
-    "traditional_chinese": "三十天預測",
-    "definition_cht": "指與「三十天預測」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "三十天預報",
+    "definition_cht": "對未來約三十天平均氣候條件或偏高、偏低機率所作的長期預測，通常著重溫度、降水等月尺度趨勢，而非逐日天氣細節。",
     "source_url": "https://glossary.ametsoc.org/wiki/thirty-day_forecast"
   },
   {
     "english": "Thornthwaite moisture index",
-    "traditional_chinese": "桑斯韋特水分指數",
-    "definition_cht": "指以「桑斯韋特水分指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱、異常程度或風險。",
+    "traditional_chinese": "桑士偉特濕潤指數",
+    "definition_cht": "Thornthwaite 氣候分類中用以表示區域濕潤或乾燥程度的指數，依降水量與潛在蒸散量的相對關係計算，可反映水分盈餘與缺額。",
     "source_url": "https://glossary.ametsoc.org/wiki/Thornthwaite_moisture_index"
   },
   {
     "english": "thoron",
-    "traditional_chinese": "釷氣",
-    "definition_cht": "指與「釷氣」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "釷射氣；氡-220",
+    "definition_cht": "氡的一種天然放射性同位素，質量數為 220，來自釷系衰變鏈，半衰期很短；在環境放射、氣膠與近地層放射性追蹤研究中常被區分於一般氡氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/thoron"
   },
   {
     "english": "three-axis stabilized",
-    "traditional_chinese": "三軸穩定",
-    "definition_cht": "指與「三軸穩定」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "三軸穩定的",
+    "definition_cht": "指衛星、感測器平台或航天器在俯仰、滾轉與偏航三個軸向上皆主動控制姿態，以維持固定指向、提高成像品質與觀測幾何穩定性。",
     "source_url": "https://glossary.ametsoc.org/wiki/three-axis_stabilized"
   },
   {
     "english": "three-dimensional model",
-    "traditional_chinese": "三維模型",
-    "definition_cht": "指用於表示「三維模型」相關過程、結構或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "三維模式",
+    "definition_cht": "在三個空間維度上表示大氣、海洋或其他地球系統變數分布與演變的理論或數值模式，可模擬水平與垂直結構及其交互作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/three-dimensional_model"
   },
   {
     "english": "three-dimensional variational analysis",
     "traditional_chinese": "三維變分分析",
-    "definition_cht": "指與「三維變分分析」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "three-dimensional variational analysis，簡稱 3D-Var；一種資料同化方法，透過最小化代價函數，在固定分析時刻結合背景場、觀測值及其誤差統計，以求得最可能的大氣三維分析場。",
     "source_url": "https://glossary.ametsoc.org/wiki/three-dimensional_variational_analysis"
   },
   {
     "english": "threshold contrast",
-    "traditional_chinese": "閾值對比度",
-    "definition_cht": "指與「閾值對比度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "閾值對比",
+    "definition_cht": "在視覺或光學中，剛好足以使觀測者辨識目標與背景差異的最小對比度；常用於研究能見度、目標辨識與視覺感受能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/threshold_contrast"
   },
   {
     "english": "threshold illuminance",
     "traditional_chinese": "閾值照度",
-    "definition_cht": "指與「閾值照度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "使目標剛好可被看見、辨識或引發特定視覺反應時所需的最低照度。",
     "source_url": "https://glossary.ametsoc.org/wiki/threshold_illuminance"
   },
   {
     "english": "threshold of audibility",
-    "traditional_chinese": "可聽度閾值",
-    "definition_cht": "指與「可聽度閾值」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "可聞閾",
+    "definition_cht": "人耳在特定頻率與條件下剛能察覺聲音存在的最低聲強、聲壓或聲功率準位。",
     "source_url": "https://glossary.ametsoc.org/wiki/threshold_of_audibility"
   },
   {
     "english": "threshold of hearing",
-    "traditional_chinese": "聽力閾值",
-    "definition_cht": "指與「聽力閾值」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "聽閾",
+    "definition_cht": "正常人耳在特定頻率下剛可聽見聲音的最低聲壓或聲強準位，常作為聽覺敏感度與分貝尺度的參考基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/threshold_of_hearing"
   },
   {
     "english": "threshold of nucleation",
     "traditional_chinese": "成核閾值",
-    "definition_cht": "指與「成核閾值」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "使凝結、凍結或其他成核過程得以開始所需達到的臨界條件，例如臨界過飽和度、過冷度、能障或粒子大小。",
     "source_url": "https://glossary.ametsoc.org/wiki/threshold_of_nucleation"
   },
   {
     "english": "threshold of pain",
-    "traditional_chinese": "疼痛閾值",
-    "definition_cht": "指與「疼痛閾值」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "痛閾",
+    "definition_cht": "感官刺激強度增至開始引起疼痛感時的臨界值；在聲學中亦可指聲壓高到造成耳痛的界限。",
     "source_url": "https://glossary.ametsoc.org/wiki/threshold_of_pain"
   },
   {
     "english": "threshold signal",
     "traditional_chinese": "閾值訊號",
-    "definition_cht": "指與「閾值訊號」相關的觀測訊號、回波、記錄或通訊資訊。",
+    "definition_cht": "在偵測、通訊或雷達處理中，用作判定是否視為有效回波或事件的臨界訊號強度；高於此值者通常被判定為已檢出。",
     "source_url": "https://glossary.ametsoc.org/wiki/threshold_signal"
   },
   {
