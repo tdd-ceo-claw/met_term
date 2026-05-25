@@ -1441,122 +1441,122 @@
   },
   {
     "english": "time lag",
-    "traditional_chinese": "時間滯後",
-    "definition_cht": "指與「時間滯後」相關的時間系統、時間尺度或時制概念。",
+    "traditional_chinese": "時滯",
+    "definition_cht": "指某一作用、擾動或訊號發生後，到另一相關反應、變化或觀測量顯現之間的時間延遲；常用於描述大氣、水文或海洋系統對外在強迫的非即時響應。",
     "source_url": "https://glossary.ametsoc.org/wiki/time_lag"
   },
   {
     "english": "time of concentration",
-    "traditional_chinese": "集中註意力的時間",
-    "definition_cht": "指與「集中註意力的時間」相關的時間系統、時間尺度或時制概念。",
+    "traditional_chinese": "集流時間",
+    "definition_cht": "在水文學中，指流域內最遠點的逕流到達出口所需的時間；常用於估算暴雨逕流反應、洪峰出現時機與設計排水系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/time_of_concentration"
   },
   {
     "english": "time section",
-    "traditional_chinese": "時段",
-    "definition_cht": "指與「時段」相關的時間系統、時間尺度或時制概念。",
+    "traditional_chinese": "時間剖面圖",
+    "definition_cht": "指以時間為一軸、距離（通常為高度）為另一軸所繪製的圖解，用以顯示某氣象變數在固定地點或沿特定方向隨時間的演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/time_section"
   },
   {
     "english": "time series",
     "traditional_chinese": "時間序列",
-    "definition_cht": "指與「時間序列」相關的時間系統、時間尺度或時制概念。",
+    "definition_cht": "指依時間先後排列的一連串觀測值或資料點，可為等時間隔或不等時間隔，用於分析天氣、氣候、水文或其他地球科學變數的變化與週期性。",
     "source_url": "https://glossary.ametsoc.org/wiki/time_series"
   },
   {
     "english": "time-dependent flow",
-    "traditional_chinese": "隨時間變化的流量",
-    "definition_cht": "指與「隨時間變化的流量」相關的流動型態、平均流場或輸送結構。",
+    "traditional_chinese": "時變流",
+    "definition_cht": "指流體速度、流向、壓力或其他流場性質會隨時間改變的流動，又稱非定常流或暫態流。",
     "source_url": "https://glossary.ametsoc.org/wiki/time-dependent_flow"
   },
   {
     "english": "time-of-arrival technique",
-    "traditional_chinese": "到達時間技術",
-    "definition_cht": "指與「到達時間技術」相關的時間系統、時間尺度或時制概念。",
+    "traditional_chinese": "到達時間法",
+    "definition_cht": "指利用訊號在多個接收站的到達時間差異，來推定發射源位置的定位方法；常用於無線電測向、閃電定位與相關遙測應用。",
     "source_url": "https://glossary.ametsoc.org/wiki/time-of-arrival_technique"
   },
   {
     "english": "time–distance graph",
-    "traditional_chinese": "時間-距離圖",
-    "definition_cht": "指與「時間-距離圖」相關的時間系統、時間尺度或時制概念。",
+    "traditional_chinese": "時間—距離圖",
+    "definition_cht": "指以時間與距離為兩座標軸的圖解，用以表示移動現象、波動、訊號或天氣系統傳播過程中的位置與速度變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/time%E2%80%93distance_graph"
   },
   {
     "english": "time–height indicator",
-    "traditional_chinese": "時間-高度指標",
-    "definition_cht": "指與「時間-高度指標」相關的時間系統、時間尺度或時制概念。",
+    "traditional_chinese": "時間—高度顯示圖",
+    "definition_cht": "指在固定地點將觀測量以時間為橫軸、高度為縱軸呈現的顯示方式，用於展示回波、風場或其他大氣性質的垂直結構隨時間的演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/time%E2%80%93height_indicator"
   },
   {
     "english": "time–height section",
-    "traditional_chinese": "時間-高度剖面",
-    "definition_cht": "指與「時間-高度剖面」相關的時間系統、時間尺度或時制概念。",
+    "traditional_chinese": "時間—高度剖面圖",
+    "definition_cht": "指以時間與高度為兩座標軸的剖面圖，用來描述單一地點上某氣象變數在垂直方向上隨時間的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/time%E2%80%93height_section"
   },
   {
     "english": "tipping-bucket rain gauge",
     "traditional_chinese": "翻斗式雨量計",
-    "definition_cht": "指與「翻斗式雨量計」相關的降雨、雨量或降水過程。",
+    "definition_cht": "利用兩側小斗輪流承接降水、每達一定雨量即翻轉一次並記錄脈衝的雨量計；常用於自動雨量觀測，但在強降雨時可能有低估現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/tipping-bucket_rain_gauge"
   },
   {
     "english": "TIROS",
-    "traditional_chinese": "電視紅外觀測衛星",
-    "definition_cht": "美國早期電視紅外觀測衛星系列，開啟了作業氣象衛星觀測的先河。",
+    "traditional_chinese": "電視與紅外觀測衛星",
+    "definition_cht": "美國早期氣象衛星系列名稱，英文為 Television Infrared Observation Satellite；自 1960 年 TIROS-1 起證明了自太空進行天氣觀測的可行性，開啟近代氣象衛星業務。",
     "source_url": "https://glossary.ametsoc.org/wiki/TIROS"
   },
   {
     "english": "TIROS Operational System",
     "traditional_chinese": "TIROS 作業系統",
-    "definition_cht": "指與「TIROS 作業系統」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "美國早期作業化極軌氣象衛星系統，承接 TIROS 實驗衛星成果並用於例行天氣觀測與雲圖提供，為後續 ESSA、ITOS 與 NOAA 作業衛星系統的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/TIROS_Operational_System"
   },
   {
     "english": "TIROS-N'' Operational Vertical Sounder",
-    "traditional_chinese": "TIROS-N 作業垂直探測儀",
-    "definition_cht": "指與「TIROS-N 作業垂直探測儀」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "TIROS-N 作業垂直探測系統",
+    "definition_cht": "即 TOVS（TIROS-N Operational Vertical Sounder），為搭載於 TIROS-N／NOAA 極軌氣象衛星上的多儀器垂直探測系統，用於反演大氣溫度、濕度與臭氧等垂直分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/TIROS-N%27%27_Operational_Vertical_Sounder"
   },
   {
     "english": "tivano",
-    "traditional_chinese": "蒂瓦諾",
-    "definition_cht": "指與「蒂瓦諾」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "蒂瓦諾風",
+    "definition_cht": "義大利科莫湖與盧加諾湖一帶具週期性的地方熱力風，通常在清晨吹起，受湖谷地形與日夜熱力差異影響；若此風異常缺席，常被視為天氣轉差的徵兆。",
     "source_url": "https://glossary.ametsoc.org/wiki/tivano"
   },
   {
     "english": "TKE",
-    "traditional_chinese": "亂流動能",
-    "definition_cht": "單位質量亂流速度擾動所對應的平均動能，是描述亂流強度的重要動力量。",
+    "traditional_chinese": "湍流動能",
+    "definition_cht": "指單位質量流體中速度擾動平方平均的一半，用以量化湍流強度，是邊界層、混合與數值模式參數化中的重要診斷量。",
     "source_url": "https://glossary.ametsoc.org/wiki/TKE"
   },
   {
     "english": "tofan",
     "traditional_chinese": "托凡",
-    "definition_cht": "指與「托凡」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一種東南亞語詞，意為「颱風」，與馬來語 tofan 及阿拉伯語 ṭūfān 同源；在氣象語境中指強烈熱帶氣旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/tofan"
   },
   {
     "english": "tomography",
-    "traditional_chinese": "斷層掃描",
-    "definition_cht": "指與「斷層掃描」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "斷層成像",
+    "definition_cht": "指利用穿透波或多方向量測資料重建物體或介質內部切面結構的技術；在大氣、海洋與地球物理中可用於反演溫度、濕度、速度或其他內部場分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/tomography"
   },
   {
     "english": "TOMS",
     "traditional_chinese": "臭氧總量測繪光譜儀",
-    "definition_cht": "搭載於衛星上的臭氧總量遙測儀器，用於觀測全球總臭氧分布與變化。",
+    "definition_cht": "即 Total Ozone Mapping Spectrometer，為 NASA 衛星光譜儀器，用於近全球觀測總柱臭氧分布與變化，並曾提供臭氧洞監測的重要資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/TOMS"
   },
   {
     "english": "tongara",
-    "traditional_chinese": "湯加拉",
-    "definition_cht": "指與「湯加拉」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "通加拉",
+    "definition_cht": "一種地方性風名；通常指受地形導引或區域性熱力差異影響而形成的局地風，實際風向與出現時段需依當地地理背景判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/tongara"
   },
   {
     "english": "tongue",
-    "traditional_chinese": "舌頭",
-    "definition_cht": "指與「舌頭」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "舌狀區",
+    "definition_cht": "指某種氣象或海洋性質，如暖空氣、冷空氣、乾空氣、濕氣或水團，呈狹長突出形態向周圍區域延伸的帶狀結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/tongue"
   },
   {
