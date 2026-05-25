@@ -46370,121 +46370,121 @@
   {
     "english": "solar–terrestrial relationships",
     "traditional_chinese": "日地關係",
-    "definition_cht": "指與太陽輻射、太陽活動、日照幾何或其地球環境效應相關的概念。",
+    "definition_cht": "指太陽與地球系統之間各種物理交互作用的總稱，包含太陽輻射、太陽風、磁場活動及其對地球磁層、電離層、高層大氣與部分氣候現象的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/solar%E2%80%93terrestrial_relationships"
   },
   {
     "english": "solar–topographic theory",
-    "traditional_chinese": "太陽地形理論",
-    "definition_cht": "指與太陽輻射、太陽活動、日照幾何或其地球環境效應相關的概念。",
+    "traditional_chinese": "太陽—地形理論",
+    "definition_cht": "指用以說明地形坡向、坡度與遮蔽條件如何改變太陽輻射受熱分布，進而影響局地氣溫、蒸發、積雪消融與山谷風等局地氣候或環流特徵的理論觀點。",
     "source_url": "https://glossary.ametsoc.org/wiki/solar%E2%80%93topographic_theory"
   },
   {
     "english": "solarimeter",
     "traditional_chinese": "日射計",
-    "definition_cht": "量測太陽輻射強度或累積量的儀器。",
+    "definition_cht": "指量測太陽輻射強度或累積日射量的儀器，為較廣義或較舊式的名稱；實務上常依量測對象再細分為總輻射表、直射日射計等。",
     "source_url": "https://glossary.ametsoc.org/wiki/solarimeter"
   },
   {
     "english": "solenoid",
     "traditional_chinese": "螺線管",
-    "definition_cht": "指與「螺線管」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指將導線繞成線圈的電磁元件，通電後可產生近似均勻磁場，並常用作儀器、閥件或控制裝置中的致動機構；在氣象觀測設備中亦可作為電磁驅動元件。",
     "source_url": "https://glossary.ametsoc.org/wiki/solenoid"
   },
   {
     "english": "solenoidal",
-    "traditional_chinese": "螺線管的",
-    "definition_cht": "指與「螺線管的」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "無散的；螺旋的",
+    "definition_cht": "在向量分析與流體力學中，指散度為零的場或其分量，即無散場；在大氣動力學中常用於描述非輻散流場或流場的旋轉性分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/solenoidal"
   },
   {
     "english": "Solenoidal index",
-    "traditional_chinese": "電磁閥指數",
-    "definition_cht": "指以「電磁閥指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱與變化。",
+    "traditional_chinese": "無散指數",
+    "definition_cht": "指用以表徵某一流場中無散（solenoidal）成分相對重要性或強弱的指標，常用於討論風場分解、非輻散結構與旋轉性流動特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Solenoidal_index"
   },
   {
     "english": "solid rotation",
     "traditional_chinese": "固體旋轉",
-    "definition_cht": "指與「固體旋轉」相關的旋轉、轉動或渦旋運動特徵，可用於描述流體、地球或儀器系統之運動。",
+    "definition_cht": "又稱剛體旋轉，指系統中各點以相同角速度繞同一軸旋轉的運動狀態；在地球流體力學中常作為理想化流場，用以對照剪切流或差動旋轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/solid_rotation"
   },
   {
     "english": "solifluction",
-    "traditional_chinese": "凍融蠕流",
-    "definition_cht": "寒地土壤因凍融與高含水狀態而緩慢沿坡下移的現象。",
+    "traditional_chinese": "融凍蠕流",
+    "definition_cht": "指寒冷或周冰河環境中，地表土層因反覆凍融、含水量偏高而沿坡面緩慢下移的質量運動現象，常見於多年凍土或季節性凍土區。",
     "source_url": "https://glossary.ametsoc.org/wiki/solifluction"
   },
   {
     "english": "solitary wave",
     "traditional_chinese": "孤立波",
-    "definition_cht": "指與「孤立波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "指在介質中以單一波峰或波谷形式傳播、能在相當距離內維持局部化形態而不迅速擴散的波動；可見於水波、大氣內波及其他流體系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/solitary_wave"
   },
   {
     "english": "soliton",
     "traditional_chinese": "孤子",
-    "definition_cht": "指與「孤子」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指在非線性與色散效應彼此平衡下形成的穩定局域波包，傳播時能大致保持波形與速度，且與其他同類波相遇後仍可維持其特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/soliton"
   },
   {
     "english": "solore",
-    "traditional_chinese": "索羅雷",
-    "definition_cht": "指與「索羅雷」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "索洛雷",
+    "definition_cht": "指一種較少見的外來語氣象名詞；現有可查資料有限，通常按其原名保留音譯處理，可理解為地方性風名或天氣現象名稱，待更權威來源進一步釐清。",
     "source_url": "https://glossary.ametsoc.org/wiki/solore"
   },
   {
     "english": "solstice",
-    "traditional_chinese": "至點",
-    "definition_cht": "太陽視赤緯達全年最北或最南位置的時刻，分別對應夏至與冬至，反映季節循環中的關鍵天文節點。",
+    "traditional_chinese": "至點；至日",
+    "definition_cht": "指太陽視赤緯達到一年中最北或最南位置的時刻；若指當日，則分別為夏至與冬至，並對應多數地區全年白晝最長或最短附近的日期。",
     "source_url": "https://glossary.ametsoc.org/wiki/solstice"
   },
   {
     "english": "solubility",
     "traditional_chinese": "溶解度",
-    "definition_cht": "指與「溶解度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指在一定溫度與壓力條件下，某溶質可溶解於特定溶劑中的最大平衡量；在大氣與海洋科學中常用於描述氣體在水中的溶解能力及其化學交換行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/solubility"
   },
   {
     "english": "Somali Current",
-    "traditional_chinese": "索馬利亞洋流",
-    "definition_cht": "指與「索馬利亞洋流」相關的海流、氣流或水體輸送現象，著重其流向、來源、結構與輸送作用。",
+    "traditional_chinese": "索馬利洋流",
+    "definition_cht": "指西印度洋沿索馬利亞外海流動的西岸邊界流，受季風強烈控制，具有顯著季節變化與部分流向反轉，並伴隨強烈上升流與高生產力海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/Somali_Current"
   },
   {
     "english": "Somali jet",
-    "traditional_chinese": "索馬利亞噴射機",
-    "definition_cht": "指與「索馬利亞噴射機」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "索馬利低空急流",
+    "definition_cht": "又常稱 Findlater jet，指西南季風期間橫越赤道後沿索馬利亞與阿拉伯海一帶增強的低空急流，對印度洋上升流、海氣交換與南亞季風水氣輸送極為重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/Somali_jet"
   },
   {
     "english": "sonic anemometer",
-    "traditional_chinese": "聲波風速計",
-    "definition_cht": "指與「聲波風速計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "超音波風速計",
+    "definition_cht": "指利用超音波在不同方向上的傳播時間差或相位差來量測三維風速與風向的儀器，反應快速，常用於邊界層觀測、渦相關通量與湍流研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/sonic_anemometer"
   },
   {
     "english": "sonic thermometer",
-    "traditional_chinese": "聲波溫度計",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
+    "traditional_chinese": "音速溫度計",
+    "definition_cht": "指利用空氣中聲速與溫度關係推算氣溫的儀器；在微氣象觀測中常量得近似於聲虛溫（sonic temperature），可支援感熱通量與湍流分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/sonic_thermometer"
   },
   {
     "english": "sonora",
     "traditional_chinese": "索諾拉",
-    "definition_cht": "指與「索諾拉」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "指一種較少見的地域性或外來語氣象名稱；在氣象辭彙中通常作為地方風名、地區性天氣稱呼或與索諾拉地區相關的術語保留原名音譯。",
     "source_url": "https://glossary.ametsoc.org/wiki/sonora"
   },
   {
     "english": "sonora weather",
-    "traditional_chinese": "索諾拉 天氣",
-    "definition_cht": "指與「索諾拉 天氣」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "索諾拉型天氣",
+    "definition_cht": "指與索諾拉沙漠或其鄰近乾燥區相聯的炎熱、乾燥、日照強烈之天氣型態；可延伸用於描述受沙漠熱低壓與乾熱氣團支配的地方性天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/sonora_weather"
   },
   {
     "english": "soot",
-    "traditional_chinese": "煤煙",
-    "definition_cht": "指與「煤煙」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "煤煙；炭黑微粒",
+    "definition_cht": "指碳氫化合物或其他有機燃料不完全燃燒時產生的含碳微粒物質，常屬大氣氣膠的重要成分，會影響空氣品質、能見度、輻射收支與人體健康。",
     "source_url": "https://glossary.ametsoc.org/wiki/soot"
   },
   {
