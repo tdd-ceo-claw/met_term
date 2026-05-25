@@ -46964,121 +46964,121 @@
   {
     "english": "spectrobolometer",
     "traditional_chinese": "分光輻射熱計",
-    "definition_cht": "結合分光器與輻射熱計的儀器，用於測定不同波長上的輻射能量分布，特別適用於紅外光譜量測。",
+    "definition_cht": "結合分光器與輻射熱計的儀器，用於量測不同波長上的輻射能量分布或光譜輻射強度，常見於紅外與大氣輻射觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectrobolometer"
   },
   {
     "english": "spectrograph",
-    "traditional_chinese": "光譜儀",
-    "definition_cht": "指與「光譜儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "攝譜儀",
+    "definition_cht": "將入射輻射按波長分散並記錄成光譜的儀器，可用於分析天體、大氣或樣品的光譜特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectrograph"
   },
   {
     "english": "spectroheliograph",
-    "traditional_chinese": "日面分光攝譜儀",
-    "definition_cht": "選取特定光譜線對太陽表面成像的儀器。",
+    "traditional_chinese": "日面攝譜儀",
+    "definition_cht": "利用特定光譜線逐步掃描太陽圓面並成像的儀器，用來觀測太陽表面與色球在單一波長下的結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectroheliograph"
   },
   {
     "english": "spectrometer",
     "traditional_chinese": "光譜儀",
-    "definition_cht": "指與「光譜儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "將輻射或其他訊號分解為光譜成分並量測其強度分布的儀器；在氣象與遙測中常用於分析不同波長的能量特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectrometer"
   },
   {
     "english": "spectrophotometer",
     "traditional_chinese": "分光光度計",
-    "definition_cht": "指與「分光光度計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "量測樣品在不同波長下之吸收、透射或反射強度的儀器，用於推定物質組成或濃度。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectrophotometer"
   },
   {
     "english": "spectropyrheliometer",
     "traditional_chinese": "分光日射儀",
-    "definition_cht": "指與「分光日射儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "量測太陽直達輻射在不同波長上強度分布的儀器，可用於研究大氣吸收與太陽光譜特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectropyrheliometer"
   },
   {
     "english": "spectroscope",
     "traditional_chinese": "分光鏡",
-    "definition_cht": "指與「分光鏡」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "供目視觀察光譜的儀器，藉由稜鏡或光柵將光分散，以辨識其波長組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectroscope"
   },
   {
     "english": "spectroscopy",
     "traditional_chinese": "光譜學",
-    "definition_cht": "指與「光譜學」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "研究物質與電磁輻射交互作用及其光譜特徵的學科與方法，常用於判定成分、結構與輻射性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectroscopy"
   },
   {
     "english": "spectrum",
     "traditional_chinese": "光譜",
-    "definition_cht": "指與「光譜」相關的頻譜分布，用於分析能量、變異或訊號在頻率空間中的配置。",
+    "definition_cht": "物理量隨波長、頻率、能量或尺度變化的分布；在氣象與遙測中可指電磁光譜、能譜或功率譜。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectrum"
   },
   {
     "english": "specular reflection",
     "traditional_chinese": "鏡面反射",
-    "definition_cht": "指與「鏡面反射」相關的反射作用、反照特性或回波訊號，用於輻射、遙測或波動傳播分析。",
+    "definition_cht": "波動或輻射在平滑表面上依入射角等於反射角的規律反射，反射能量主要集中於特定方向，與漫反射相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/specular_reflection"
   },
   {
     "english": "specular reflector",
-    "traditional_chinese": "鏡面反射器",
-    "definition_cht": "指與「鏡面反射器」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "鏡面反射體",
+    "definition_cht": "能產生鏡面反射的平滑表面或裝置，使入射輻射依幾何反射定律朝特定方向反射。",
     "source_url": "https://glossary.ametsoc.org/wiki/specular_reflector"
   },
   {
     "english": "speed of light",
     "traditional_chinese": "光速",
-    "definition_cht": "指與「光速」相關的速度、速率或移動快慢之量測與描述。",
+    "definition_cht": "光與其他電磁波在真空中的傳播速度，為基本物理常數 c，約為每秒 299,792,458 公尺。",
     "source_url": "https://glossary.ametsoc.org/wiki/speed_of_light"
   },
   {
     "english": "speed of sound",
     "traditional_chinese": "聲速",
-    "definition_cht": "指與「聲速」相關的速度、速率或移動快慢之量測與描述。",
+    "definition_cht": "聲波在介質中傳播的速度；在乾空氣中主要受溫度影響，20°C 附近約為每秒 343 公尺。",
     "source_url": "https://glossary.ametsoc.org/wiki/speed_of_sound"
   },
   {
     "english": "speed-up height",
     "traditional_chinese": "增速高度",
-    "definition_cht": "地形加速效應最明顯或風速增幅特徵所對應的高度。",
+    "definition_cht": "受地形或局地流場影響時，風速增強效應最明顯或增速比達到最大值所對應的高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/speed-up_height"
   },
   {
     "english": "speed-up ratio",
-    "traditional_chinese": "加速比",
-    "definition_cht": "指「加速比」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "traditional_chinese": "增速比",
+    "definition_cht": "描述地形或局地效應造成風速增加程度的比值，通常以局地風速相對於參考來流風速的增幅表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/speed-up_ratio"
   },
   {
     "english": "speed-up wind",
     "traditional_chinese": "增速風",
-    "definition_cht": "因地形收束、下坡或其他動力效應而明顯加速的風。",
+    "definition_cht": "因地形收束、越嶺、下坡或其他局地動力效應而明顯加速的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/speed-up_wind"
   },
   {
     "english": "sphere calibration",
-    "traditional_chinese": "球體校準",
-    "definition_cht": "指「球體校準」所代表的比值量，用於表徵兩項物理量之相對關係與變化特徵。",
+    "traditional_chinese": "球形校準",
+    "definition_cht": "利用球體或積分球提供近均勻輻射場、反射場或幾何基準，對儀器量測響應進行校正的程序。",
     "source_url": "https://glossary.ametsoc.org/wiki/sphere_calibration"
   },
   {
     "english": "spherical albedo",
     "traditional_chinese": "球面反照率",
-    "definition_cht": "指與「球面反照率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "天體或大氣系統對全部入射輻射向各方向反射之總比例；在行星輻射學中常近於邦德反照率的概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_albedo"
   },
   {
     "english": "spherical coordinates",
     "traditional_chinese": "球座標",
-    "definition_cht": "指與「球座標」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "以到原點的徑向距離與兩個角度表示三維空間位置的座標系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_coordinates"
   },
   {
     "english": "spherical harmonic",
     "traditional_chinese": "球諧函數",
-    "definition_cht": "指與「球諧函數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "定義於球面上的一組正交函數，可用來展開全球尺度場，在數值天氣預報與地球物理中常用於表示大氣變數。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_harmonic"
   },
   {
