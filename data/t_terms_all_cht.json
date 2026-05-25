@@ -362,121 +362,121 @@
   {
     "english": "Temperate zone",
     "traditional_chinese": "溫帶",
-    "definition_cht": "指與「溫帶」相關的帶狀或區域性空間分區。",
+    "definition_cht": "地球數理氣候分區中的兩個中緯度帶之一，分別位於南、北半球回歸線與極圈之間，約介於緯度 23°26′ 至 66°34′；其氣候特徵通常較熱帶溫和、較寒帶不嚴寒。",
     "source_url": "https://glossary.ametsoc.org/wiki/Temperate_zone"
   },
   {
     "english": "temperate-westerlies index",
     "traditional_chinese": "溫帶西風指數",
-    "definition_cht": "指以「溫帶西風指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱、異常程度或風險。",
+    "definition_cht": "衡量北半球約 35°N 至 55°N 間近地面西風強度的環流指標，通常由這兩條緯圈間的平均海平面氣壓差推算，並以對應地轉風的西向東分量表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperate-westerlies_index"
   },
   {
     "english": "temperature",
     "traditional_chinese": "溫度",
-    "definition_cht": "指與「溫度」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "表示物體或流體冷熱程度的物理量；在熱力學上反映系統的熱狀態，並決定熱量自高溫處向低溫處傳遞的方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature"
   },
   {
     "english": "temperature belt",
-    "traditional_chinese": "溫帶",
-    "definition_cht": "指沿特定緯度、地形或環境條件延伸的帶狀區域。",
+    "traditional_chinese": "溫度帶",
+    "definition_cht": "依氣溫特徵劃分出的帶狀區域，可依緯度、高度或地形條件形成，常用於描述某地區相對一致的熱量環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_belt"
   },
   {
     "english": "temperature coefficient",
     "traditional_chinese": "溫度係數",
-    "definition_cht": "指與「溫度係數」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "某一物理量或物質性質隨溫度改變時的相對變化率，常用以表示每升高或降低 1 度時該性質增減的程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_coefficient"
   },
   {
     "english": "temperature correction",
     "traditional_chinese": "溫度校正",
-    "definition_cht": "指與「溫度校正」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "為消除環境溫度偏離標準條件所造成的系統性誤差，而對觀測值、儀器讀數或計算結果施加的修正。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_correction"
   },
   {
     "english": "temperature extremes",
     "traditional_chinese": "極端溫度",
-    "definition_cht": "指與「極端溫度」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "某地或某時段內所出現的最高溫與最低溫，或泛指顯著偏離常態的高溫、低溫事件；常用於氣候變異與風險分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_extremes"
   },
   {
     "english": "temperature inversion",
     "traditional_chinese": "逆溫",
-    "definition_cht": "指與「逆溫」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "氣層中氣溫隨高度上升反而增加的現象，與對流層中通常隨高度遞減的正常直減率相反；常抑制垂直混合並有利於霧、煙霾或污染物滯留。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_inversion"
   },
   {
     "english": "Temperature microscale",
     "traditional_chinese": "溫度微尺度",
-    "definition_cht": "指與「溫度微尺度」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "指近地層極小空間與短時間尺度上的溫度變化結構，常受地表粗糙度、陰影、植被、湍流與局部熱通量差異控制，屬微氣象研究範疇。",
     "source_url": "https://glossary.ametsoc.org/wiki/Temperature_microscale"
   },
   {
     "english": "temperature of the soil surface",
     "traditional_chinese": "土壤表面溫度",
-    "definition_cht": "指與「土壤表面溫度」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "土壤與大氣交界處最上層表面的溫度，主要受淨輻射、土壤含水量、植被覆蓋、風與地表性質影響，為地表能量收支的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_of_the_soil_surface"
   },
   {
     "english": "temperature province",
     "traditional_chinese": "溫度省",
-    "definition_cht": "指與「溫度省」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "依水溫或溫度分布特徵劃分出的區域，常用於海洋學描述具有相對一致熱性質的海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_province"
   },
   {
     "english": "Temperature range",
     "traditional_chinese": "溫度範圍",
-    "definition_cht": "指與「溫度範圍」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "某一地點或期間內最高溫與最低溫之差，可指日溫差、年溫差或任何指定時段的溫度變幅。",
     "source_url": "https://glossary.ametsoc.org/wiki/Temperature_range"
   },
   {
     "english": "temperature scale",
     "traditional_chinese": "溫標",
-    "definition_cht": "指與「溫標」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "以約定固定點與單位間隔建立的溫度數值系統，用於將熱狀態量化表示，例如攝氏、華氏與絕對溫標。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_scale"
   },
   {
     "english": "temperature zone",
     "traditional_chinese": "溫區",
-    "definition_cht": "指與「溫區」相關的帶狀或區域性空間分區。",
+    "definition_cht": "依平均氣溫或熱量條件區分的區域，可用於氣候、農業或生態分類，表示具有相近溫度 regime 的地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature_zone"
   },
   {
     "english": "temperature-efficiency index",
     "traditional_chinese": "溫度效率指數",
-    "definition_cht": "指以「溫度效率指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱、異常程度或風險。",
+    "definition_cht": "Thornthwaite 氣候分類中用以衡量某地溫度對植物生長長期促進效果的指數，數值為全年各月溫度效率比值的總和，可據以劃分熱量帶或溫度區。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature-efficiency_index"
   },
   {
     "english": "temperature-efficiency ratio",
-    "traditional_chinese": "溫度效率比",
-    "definition_cht": "指「溫度效率比」所代表的比值量，用於描述兩項物理量或統計量之相對關係。",
+    "traditional_chinese": "溫度效率比值",
+    "definition_cht": "Thornthwaite 氣候分類中某地某月的熱效率指標，通常依月平均氣溫換算而得，並作為計算年溫度效率指數的基本組成項。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature-efficiency_ratio"
   },
   {
     "english": "temperature-sensing element",
     "traditional_chinese": "溫度感測元件",
-    "definition_cht": "指與「溫度感測元件」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "溫度計、熱敏電阻、熱電偶或其他測溫儀器中對溫度變化直接響應的核心元件，其電阻、電壓、體積或其他性質會隨溫度規律改變。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature-sensing_element"
   },
   {
     "english": "temperature–humidity index",
-    "traditional_chinese": "溫濕度指數",
-    "definition_cht": "指以「溫濕度指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱、異常程度或風險。",
+    "traditional_chinese": "溫濕指數",
+    "definition_cht": "結合氣溫與濕度的綜合指標，用於評估人體悶熱感、熱舒適度或熱壓力；在高溫高濕環境中，指數愈高通常代表體感愈不舒適。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature%E2%80%93humidity_index"
   },
   {
     "english": "Temperature–Humidity Infrared Radiometer",
-    "traditional_chinese": "溫濕度紅外線輻射計",
-    "definition_cht": "指與「溫濕度紅外線輻射計」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "traditional_chinese": "溫濕紅外線輻射計",
+    "definition_cht": "以多個紅外線吸收波段量測大氣向上或向下輻射的遙測儀器，可反演近地層至對流層的溫度與水氣垂直分布，常用於地基大氣探測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Temperature%E2%80%93Humidity_Infrared_Radiometer"
   },
   {
     "english": "temperature–moisture index",
-    "traditional_chinese": "溫濕度指數",
-    "definition_cht": "指以「溫濕度指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱、異常程度或風險。",
+    "traditional_chinese": "溫濕效能指數",
+    "definition_cht": "Thornthwaite 氣候分類相關指標之一，用於綜合表示熱量條件與濕潤程度之間的關係，以協助判別氣候型與植生環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature%E2%80%93moisture_index"
   },
   {
