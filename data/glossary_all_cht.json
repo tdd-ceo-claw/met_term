@@ -47084,121 +47084,121 @@
   {
     "english": "spherical harmonics",
     "traditional_chinese": "球諧函數",
-    "definition_cht": "指與「球諧函數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "定義在球面上的一組正交函數，常作為球座標下拉普拉斯方程等偏微分方程的角向解；在氣象與地球科學中常用於表示全球尺度場、重力位或其他球面分布量。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_harmonics"
   },
   {
     "english": "spherical pyranometer",
-    "traditional_chinese": "球面總輻射表",
-    "definition_cht": "指與「球面總輻射表」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "球形日射計",
+    "definition_cht": "以近球形受感面量測來自各方向短波輻射的儀器，用於評估全天空太陽輻射環境，特別適合複雜地形、植被冠層或城市環境中的全向受光量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_pyranometer"
   },
   {
     "english": "spherical pyrgeometer",
-    "traditional_chinese": "球面長波輻射計",
-    "definition_cht": "用於量測來自各方向長波輻射的球形配置儀器。",
+    "traditional_chinese": "球形長波輻射計",
+    "definition_cht": "以近球形受感面量測來自各方向長波輻射的儀器，用於估算周圍環境的全向熱輻射通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_pyrgeometer"
   },
   {
     "english": "spherical pyrradiometer",
-    "traditional_chinese": "球形輻射計",
-    "definition_cht": "指與「球形輻射計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "球形總輻射計",
+    "definition_cht": "以球形幾何收受來自各方向輻射能量的儀器，可綜合量測周圍環境的短波與長波總輻射效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_pyrradiometer"
   },
   {
     "english": "spherical shell apparatus",
     "traditional_chinese": "球殼裝置",
-    "definition_cht": "指與「球殼裝置」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "由同心球殼或近球形殼層構成的實驗裝置，用於研究球形幾何下的輻射傳輸、熱交換或相關物理量分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_shell_apparatus"
   },
   {
     "english": "spherical symmetry",
-    "traditional_chinese": "球對稱",
-    "definition_cht": "指與「球對稱」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "球對稱性",
+    "definition_cht": "指某物理量僅隨離中心距離改變、與方向無關的性質；在理論氣象、天體物理與輻射傳輸中常用以簡化球座標問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_symmetry"
   },
   {
     "english": "spherical wave",
     "traditional_chinese": "球面波",
-    "definition_cht": "指與「球面波」相關的波動、擾動或傳播現象，可見於大氣、海洋、水文或電磁系統。",
+    "definition_cht": "由近似點源向外傳播、波前為同心球面的波動；其振幅通常隨距離增加而衰減，可見於聲波、電磁波與其他擾動傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/spherical_wave"
   },
   {
     "english": "Spicule",
-    "traditional_chinese": "骨針",
-    "definition_cht": "指與「骨針」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "針狀噴流",
+    "definition_cht": "太陽色球層中細長而短暫的噴流結構，沿磁力線向上伸展，常見於日緣觀測，反映太陽大氣中的磁流體動力過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/Spicule"
   },
   {
     "english": "spider lightning",
     "traditional_chinese": "蜘蛛閃電",
-    "definition_cht": "在雲底水平延展、分支眾多且外觀似蜘蛛腳的閃電。",
+    "definition_cht": "一種水平延伸很廣、分支繁多的雲內閃電，常在成熟雷暴或中尺度對流系統的層狀雲區內沿廣闊電荷區傳播，外觀似蜘蛛腳。",
     "source_url": "https://glossary.ametsoc.org/wiki/spider_lightning"
   },
   {
     "english": "spillover",
-    "traditional_chinese": "溢出效應",
-    "definition_cht": "指與「溢出效應」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "外溢",
+    "definition_cht": "指水流、能量或訊號超出原設計邊界而逸出的現象；在水文可指水體漫越或分流，在天線與遙測中亦可指波束超出反射面所造成的外洩接收。",
     "source_url": "https://glossary.ametsoc.org/wiki/spillover"
   },
   {
     "english": "spillway",
     "traditional_chinese": "溢洪道",
-    "definition_cht": "指與「溢洪道」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "水壩、水庫或堤防為安全洩放多餘洪水而設置的導流結構，用以控制下洩流量並避免壩體或堤體遭受漫頂破壞。",
     "source_url": "https://glossary.ametsoc.org/wiki/spillway"
   },
   {
     "english": "spillway capacity",
-    "traditional_chinese": "溢洪道容量",
-    "definition_cht": "指與「溢洪道容量」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "溢洪道洩洪能力",
+    "definition_cht": "在既定水位、閘門操作與水工條件下，溢洪道所能安全通過的最大流量，用於評估水庫防洪與壩工安全。",
     "source_url": "https://glossary.ametsoc.org/wiki/spillway_capacity"
   },
   {
     "english": "spillway design flood",
     "traditional_chinese": "溢洪道設計洪水",
-    "definition_cht": "指與「溢洪道設計洪水」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "用以決定溢洪道尺寸與安全標準的設計洪水條件，須確保極端洪水來臨時水庫仍能安全洩洪而不致危及壩體。",
     "source_url": "https://glossary.ametsoc.org/wiki/spillway_design_flood"
   },
   {
     "english": "spin-scan cloud camera",
-    "traditional_chinese": "旋轉掃描雲端相機",
-    "definition_cht": "指與「旋轉掃描雲端相機」相關的雲形、雲系或雲物理現象，可反映局地或大尺度大氣狀態。",
+    "traditional_chinese": "自旋掃描雲相機",
+    "definition_cht": "利用自旋穩定衛星的旋轉運動逐步掃描地球並生成雲圖的遙測相機，是早期地球同步氣象衛星雲影像觀測的重要儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/spin-scan_cloud_camera"
   },
   {
     "english": "spindown time",
-    "traditional_chinese": "減速時間",
-    "definition_cht": "指與「減速時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "旋轉衰減時間",
+    "definition_cht": "系統在失去持續驅動後，角速度、環流強度或相關動能衰減至接近平衡或靜止所需的特徵時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/spindown_time"
   },
   {
     "english": "Spinning Enhanced Visible and Infrared Imager",
-    "traditional_chinese": "旋轉增強型可見光和紅外線成像儀",
-    "definition_cht": "指與「旋轉增強型可見光和紅外線成像儀」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "旋轉增強型可見光與紅外線成像儀",
+    "definition_cht": "SEVIRI 的全名，為 Meteosat 第二代地球同步氣象衛星的主要成像儀器，可在多個可見光、近紅外與熱紅外波段提供高時間頻率的雲系、地表與大氣觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Spinning_Enhanced_Visible_and_Infrared_Imager"
   },
   {
     "english": "spinup time",
-    "traditional_chinese": "旋轉時間",
-    "definition_cht": "指與「旋轉時間」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "起轉調整時間",
+    "definition_cht": "模式、流場或旋轉系統自初始狀態發展至較合理平衡結構所需的特徵時間；在數值模擬中常指初始場調整出較真實溫度、風場與水文變數分布的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/spinup_time"
   },
   {
     "english": "spiral scanning",
     "traditional_chinese": "螺旋掃描",
-    "definition_cht": "指與「螺旋掃描」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "使感測器視線或觀測軌跡在空間中呈螺旋狀展開的掃描方式，可用於雷達、衛星或其他遙測系統，以兼顧區域覆蓋與取樣連續性。",
     "source_url": "https://glossary.ametsoc.org/wiki/spiral_scanning"
   },
   {
     "english": "spirit thermometer",
     "traditional_chinese": "酒精溫度計",
-    "definition_cht": "指與熱力、溫度或熱能傳輸過程相關的術語。",
+    "definition_cht": "以酒精或其他有機液體作為測溫液的玻璃液體溫度計，較汞溫度計低毒且適合較低溫量測，常用於氣象觀測與一般環境測溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/spirit_thermometer"
   },
   {
     "english": "spissatus",
-    "traditional_chinese": "斯皮薩圖斯",
-    "definition_cht": "指與「斯皮薩圖斯」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "厚密種",
+    "definition_cht": "雲的「種」之一，指雲體較厚密、纖維結構不甚透明的形態；最常見於卷雲，常與強對流外流或高空濕層增厚有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/spissatus"
   },
   {
