@@ -481,122 +481,122 @@
   },
   {
     "english": "temperature–salinity curve",
-    "traditional_chinese": "溫度-鹽度曲線",
-    "definition_cht": "指以圖形方式表現「溫度-鹽度曲線」相關變量關係的曲線，用於分析趨勢、結構或診斷特性。",
+    "traditional_chinese": "溫鹽曲線",
+    "definition_cht": "海洋學中指在溫鹽圖上依同一測站不同深度或不同水樣的溫度與鹽度資料所形成的曲線，可用來判讀水團性質、垂直結構與混合作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature%E2%80%93salinity_curve"
   },
   {
     "english": "temperature–salinity diagram",
-    "traditional_chinese": "溫度-鹽度圖",
-    "definition_cht": "指呈現「溫度-鹽度圖」相關物理量、分布或關係之圖解工具，常用於分析與作業判讀。",
+    "traditional_chinese": "溫鹽圖",
+    "definition_cht": "以溫度為縱軸、鹽度為橫軸的海洋學圖解，常配合等密度線，用於辨識水團、分析混合關係及研判海水密度結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperature%E2%80%93salinity_diagram"
   },
   {
     "english": "temporale",
-    "traditional_chinese": "顳葉",
-    "definition_cht": "指與「顳葉」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷暴",
+    "definition_cht": "義大利語氣象用語，指伴隨雷鳴、閃電，且常合併陣雨、強陣風或短時強降水的雷暴天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/temporale"
   },
   {
     "english": "tendency",
-    "traditional_chinese": "趨勢",
-    "definition_cht": "指與「趨勢」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "趨勢；變率",
+    "definition_cht": "指某氣象量在一段時間內的局地變化傾向或變率；在天氣分析中常用於表示氣壓、高度、溫度等要素隨時間的增減變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/tendency"
   },
   {
     "english": "tendency equation",
     "traditional_chinese": "趨勢方程",
-    "definition_cht": "描述「趨勢方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "definition_cht": "描述某一氣象變數局地時間變化率的方程式，常由控制方程推導而得，用以診斷氣壓、高度、渦度或溫度等場的增減機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/tendency_equation"
   },
   {
     "english": "tendency interval",
-    "traditional_chinese": "趨勢區間",
-    "definition_cht": "指與「趨勢區間」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "趨勢時間區間",
+    "definition_cht": "計算或報告某氣象要素趨勢時所採用的時間長度，例如 1 小時或 3 小時氣壓變化區間。",
     "source_url": "https://glossary.ametsoc.org/wiki/tendency_interval"
   },
   {
     "english": "tenggara",
-    "traditional_chinese": "登加拉",
-    "definition_cht": "指與「登加拉」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "東南；東南風",
+    "definition_cht": "馬來語／印尼語用語，原義為東南；在地方天氣、航海或風向描述中也可指來自東南方的風。",
     "source_url": "https://glossary.ametsoc.org/wiki/tenggara"
   },
   {
     "english": "tensor",
     "traditional_chinese": "張量",
-    "definition_cht": "指與「張量」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "可用來描述多方向物理量關係的數學量，在氣象與流體力學中常用於表示應力、應變、擴散或慣性等具有方向耦合特性的量。",
     "source_url": "https://glossary.ametsoc.org/wiki/tensor"
   },
   {
     "english": "tented ice",
-    "traditional_chinese": "帳篷冰",
-    "definition_cht": "指與「帳篷冰」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "帳幕冰",
+    "definition_cht": "受擠壓作用而向上拱起的海冰，常為兩塊冰板彼此推擠抬升所形成，下方可留有空隙，屬壓力冰的一種形態。",
     "source_url": "https://glossary.ametsoc.org/wiki/tented_ice"
   },
   {
     "english": "tercile",
-    "traditional_chinese": "特西萊",
-    "definition_cht": "指與「特西萊」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "三分位",
+    "definition_cht": "將一組資料或機率分布依大小分成三個等量區段的分位界值或類別；在季節預報中常用於表示偏低、接近正常與偏高三類機率。",
     "source_url": "https://glossary.ametsoc.org/wiki/tercile"
   },
   {
     "english": "Terminal doppler weather radar",
     "traditional_chinese": "終端多普勒天氣雷達",
-    "definition_cht": "指與「終端多普勒天氣雷達」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "設置於機場周邊、供航空氣象與航管使用的都卜勒天氣雷達，主要用於偵測低空風切、微爆流、陣風鋒及強降水等影響起降安全的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Terminal_doppler_weather_radar"
   },
   {
     "english": "terminal fall velocity",
     "traditional_chinese": "終端下落速度",
-    "definition_cht": "指與「終端下落速度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "粒子或水滴在空氣中下落時，當重力、浮力與阻力達到平衡後所呈現的穩定下落速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/terminal_fall_velocity"
   },
   {
     "english": "terminal forecast",
-    "traditional_chinese": "終端預報",
-    "definition_cht": "指與「終端預報」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "機場終端預報",
+    "definition_cht": "針對機場及其終端區在一定時效內發布的航空天氣預報，內容通常包括風、能見度、天氣現象、雲況與顯著變化；即 TAF 類型預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/terminal_forecast"
   },
   {
     "english": "terminator",
-    "traditional_chinese": "終結者",
-    "definition_cht": "指與「終結者」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "晨昏圈；明暗界線",
+    "definition_cht": "行星、衛星或地球表面上受日照區與陰影區之間的分界線；在氣象衛星與遙測判讀中常用以表示白晝與黑夜的交界。",
     "source_url": "https://glossary.ametsoc.org/wiki/terminator"
   },
   {
     "english": "terpenes",
-    "traditional_chinese": "萜烯",
-    "definition_cht": "指與「萜烯」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "萜烯類",
+    "definition_cht": "由異戊二烯單元組成的一大類揮發性有機化合物，常由植物釋放，會參與大氣氧化反應並影響臭氧與二次有機氣膠生成。",
     "source_url": "https://glossary.ametsoc.org/wiki/terpenes"
   },
   {
     "english": "terpenoids",
     "traditional_chinese": "萜類化合物",
-    "definition_cht": "指與「萜類化合物」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由異戊二烯骨架衍生、常含氧官能基的天然有機化合物總稱；在大氣化學中可作為生物源揮發性有機物前驅物，影響氧化反應與氣膠形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/terpenoids"
   },
   {
     "english": "terral levante",
-    "traditional_chinese": "特拉爾萊萬特",
-    "definition_cht": "指與「特拉爾萊萬特」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "terral／levante 地方風",
+    "definition_cht": "西班牙與西地中海沿岸的地方風名稱；terral 多指由陸吹向海面的乾熱離岸風，levante 則指地中海西部與直布羅陀一帶常見的東風。",
     "source_url": "https://glossary.ametsoc.org/wiki/terral_levante"
   },
   {
     "english": "terrenho",
-    "traditional_chinese": "崔尼奧",
-    "definition_cht": "指與「崔尼奧」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "陸風；離岸風",
+    "definition_cht": "葡萄牙語用語，可指由陸地吹向海面的風，即陸風或離岸風。",
     "source_url": "https://glossary.ametsoc.org/wiki/terrenho"
   },
   {
     "english": "terrestrial radiation",
-    "traditional_chinese": "地面輻射",
-    "definition_cht": "指與「地面輻射」相關的輻射能量、通量、收支或傳輸過程。",
+    "traditional_chinese": "地球長波輻射",
+    "definition_cht": "地表與大氣系統因自身溫度而向外發射的長波紅外線輻射，是地球輻射收支與溫室效應的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/terrestrial_radiation"
   },
   {
     "english": "Terrestrial refraction",
     "traditional_chinese": "地面折射",
-    "definition_cht": "指與「地面折射」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "光線在近地面大氣中因密度垂直變化而發生彎曲的現象，會使地面目標的視位置、高度角或測距結果產生偏差，常見於測地與觀測修正。",
     "source_url": "https://glossary.ametsoc.org/wiki/Terrestrial_refraction"
   },
   {
