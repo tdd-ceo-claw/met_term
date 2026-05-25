@@ -51571,123 +51571,123 @@
   },
   {
     "english": "TOS",
-    "traditional_chinese": "服務條款",
-    "definition_cht": "「TOS」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/TOS"
+    "traditional_chinese": "TOS（縮寫）",
+    "definition_cht": "此條目在 AMS 詞彙表的字母清單中以縮寫形式列出，但公開頁面未提供可確認的完整展開；依現有查核結果，不宜誤譯為一般語境中的「服務條款」，宜暫保留原縮寫並依原始專業上下文判讀。",
+    "source_url": "https://glossary.ametsoc.org/wiki/all-terms/?letter=T"
   },
   {
     "english": "toscà",
-    "traditional_chinese": "托斯卡",
-    "definition_cht": "指與「托斯卡」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/tosc%C3%A0"
+    "traditional_chinese": "托斯卡風",
+    "definition_cht": "義大利加爾達湖（Lake Garda）上的一種西南風，屬地方性風名。",
+    "source_url": "https://glossary.ametsoc.org/wiki/tosca/"
   },
   {
     "english": "total acidity",
     "traditional_chinese": "總酸度",
-    "definition_cht": "指與「總酸度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_acidity"
+    "definition_cht": "水樣中強酸與弱酸總量的統稱，通常以中和 1 公升水樣所需強鹼的毫當量表示，可作為評估水體酸鹼特性的指標。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-acidity/"
   },
   {
     "english": "total cloud cover",
     "traditional_chinese": "總雲量",
-    "definition_cht": "指與「總雲量」相關的雲形、雲系、雲層或雲物理特徵。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_cloud_cover"
+    "definition_cht": "天空中所有可見雲所遮蔽的天空面積比例，常以分數、百分比或八分量（okta）表示。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-cloud-cover/"
   },
   {
     "english": "total conductivity",
     "traditional_chinese": "總電導率",
-    "definition_cht": "指土壤、介質或流體傳導水分、熱量、電流或其他物理量的能力。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_conductivity"
+    "definition_cht": "在大氣電學中，指某一空氣體積內正離子與負離子電導率的總和，用以表示空氣導電能力。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-conductivity/"
   },
   {
     "english": "total derivative",
     "traditional_chinese": "全導數",
-    "definition_cht": "指與「全導數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_derivative"
+    "definition_cht": "多變數函數隨其所依參數改變而產生的總變化率；在氣象與流體力學中常用以描述沿氣塊或流體運動路徑的變化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-derivative/"
   },
   {
     "english": "total differential",
     "traditional_chinese": "全微分",
-    "definition_cht": "指與「全微分」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_differential"
+    "definition_cht": "多變數函數在各自變數同時發生無窮小變化時所對應的總變化量，通常表示為各偏導數與各變數微分項之和。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-differential/"
   },
   {
     "english": "total head",
     "traditional_chinese": "總水頭",
-    "definition_cht": "指與「總水頭」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_head"
+    "definition_cht": "流體每單位重量所具有之總能量，以水頭表示時為高程水頭、壓力水頭與速度水頭之和。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-head/"
   },
   {
     "english": "total head line",
-    "traditional_chinese": "總頭線",
-    "definition_cht": "指與「總頭線」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_head_line"
+    "traditional_chinese": "總水頭線",
+    "definition_cht": "沿流動方向連接各位置總水頭的線，用於表示流體總能量在流場中的分布與變化。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-head-line/"
   },
   {
     "english": "total intensity",
     "traditional_chinese": "總強度",
-    "definition_cht": "指與「總強度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_intensity"
+    "definition_cht": "輻亮度對面積積分後所得之量，單位為 W sr⁻¹；亦可指光譜輻亮度對波長積分後的總量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-intensity/"
   },
   {
     "english": "total ozone",
-    "traditional_chinese": "臭氧總量",
-    "definition_cht": "指與「臭氧總量」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_ozone"
+    "traditional_chinese": "總臭氧量",
+    "definition_cht": "地表至大氣頂整個氣柱中所含臭氧的總量，常以多布森單位（Dobson unit, DU）表示。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-ozone/"
   },
   {
     "english": "Total Ozone Mapping Spectrometer",
     "traditional_chinese": "總臭氧測繪光譜儀",
-    "definition_cht": "指與「總臭氧測繪光譜儀」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Total_Ozone_Mapping_Spectrometer"
+    "definition_cht": "衛星搭載的紫外光譜儀，藉由量測大氣向上散射的紫外輻射來反演全球總臭氧柱含量；常縮寫為 TOMS。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-ozone-mapping-spectrometer/"
   },
   {
     "english": "Total Ozone Monitoring Satellite",
-    "traditional_chinese": "總臭氧監測衛星",
-    "definition_cht": "指與「總臭氧監測衛星」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Total_Ozone_Monitoring_Satellite"
+    "traditional_chinese": "總臭氧監測衛星光譜儀",
+    "definition_cht": "用於量測地球上空總臭氧柱含量的衛星載光譜儀，透過觀測回散射紫外輻射推估臭氧分布；名稱雖含 Satellite，實際指其衛星搭載監測儀器。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-ozone-monitoring-satellite/"
   },
   {
     "english": "total pressure",
     "traditional_chinese": "總壓",
-    "definition_cht": "指與「總壓」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_pressure"
+    "definition_cht": "流體在停滯點所具有的壓力，等於靜壓與動壓之和，因此亦稱停滯壓。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-pressure/"
   },
   {
     "english": "total radiation",
     "traditional_chinese": "總輻射",
-    "definition_cht": "指與「總輻射」相關的輻射能量、通量、收支或傳輸過程。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_radiation"
+    "definition_cht": "光譜輻射對所有相關波長積分後的總量；在氣象上常指短波與長波輻照度之和，但實際用法可依情境略有差異。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-radiation/"
   },
   {
     "english": "total reactive nitrogen",
     "traditional_chinese": "總活性氮",
-    "definition_cht": "指與「總活性氮」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_reactive_nitrogen"
+    "definition_cht": "大氣中各種可反應氮化合物的總稱，主要包括 NO、NO₂、HNO₃ 與有機硝酸鹽等，通常以 NOy 表示。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-reactive-nitrogen/"
   },
   {
     "english": "total scattering cross section",
     "traditional_chinese": "總散射截面",
-    "definition_cht": "指與「總散射截面」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_scattering_cross_section"
+    "definition_cht": "散射截面對所有散射方向（如方位角與散射角）積分後所得的總量，用以表示粒子對入射輻射的整體散射能力。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-scattering-cross-section/"
   },
   {
     "english": "total solar irradiance",
     "traditional_chinese": "太陽總輻照度",
-    "definition_cht": "指與「太陽總輻照度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_solar_irradiance"
+    "definition_cht": "在地球大氣外、日地平均距離處，垂直於入射太陽輻射的單位面積所接收之全部波段太陽輻射通量，常縮寫為 TSI。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-solar-irradiance/"
   },
   {
     "english": "Total Totals index",
-    "traditional_chinese": "總計 總計指數",
-    "definition_cht": "指以「總計 總計指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱、異常程度或風險。",
-    "source_url": "https://glossary.ametsoc.org/wiki/Total_Totals_index"
+    "traditional_chinese": "總總指數",
+    "definition_cht": "評估雷暴與對流潛勢的穩定度指數，由垂直總量（VT）與交叉總量（CT）組成，綜合反映 850 至 500 hPa 的溫度垂直遞減與低層濕度條件。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-totals-index/"
   },
   {
     "english": "total vorticity",
     "traditional_chinese": "總渦度",
-    "definition_cht": "指與「總渦度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
-    "source_url": "https://glossary.ametsoc.org/wiki/total_vorticity"
+    "definition_cht": "通常指渦度向量包含各方向分量後的整體大小，而非僅取其鉛直分量。",
+    "source_url": "https://glossary.ametsoc.org/wiki/total-vorticity/"
   },
   {
     "english": "total water mixing ratio",
