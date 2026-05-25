@@ -49891,122 +49891,122 @@
   },
   {
     "english": "T-E index",
-    "traditional_chinese": "T-E 指數",
-    "definition_cht": "指以「T-E 指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱、異常程度或風險。",
+    "traditional_chinese": "溫度效率指數",
+    "definition_cht": "Thornthwaite 氣候分類中用以衡量某地溫度對植物生長長期促進效果的指數，數值為全年 12 個月溫度效率比值（T-E ratio）之總和，可據以劃分熱量帶或溫度區。",
     "source_url": "https://glossary.ametsoc.org/wiki/T-E_index"
   },
   {
     "english": "T-E ratio",
-    "traditional_chinese": "T-E 比值",
-    "definition_cht": "指「T-E 比值」所代表的比值量，用於描述兩項物理量或統計量之相對關係。",
+    "traditional_chinese": "溫度效率比值",
+    "definition_cht": "Thornthwaite 氣候分類中某地某月的熱效率指標，通常以該月正常氣溫高於 32°F 的部分除以 4 計算；低於 32°F 者按 32°F 計，並作為年溫度效率指數（T-E index）的組成項。",
     "source_url": "https://glossary.ametsoc.org/wiki/T-E_ratio"
   },
   {
     "english": "T-year event",
     "traditional_chinese": "T 年重現期事件",
-    "definition_cht": "在統計上平均每 T 年發生一次、或年超越機率約為 1/T 的水文或氣象極端事件，常用於工程設計與風險評估。",
+    "definition_cht": "重現期為 T 年的事件，即其規模平均約每 T 年出現一次；對應年超越機率約為 1/T，常用於洪水、強風、暴雨等極端事件的風險評估與工程設計。",
     "source_url": "https://glossary.ametsoc.org/wiki/T-year_event"
   },
   {
     "english": "T–S curve",
-    "traditional_chinese": "T–S 曲線",
-    "definition_cht": "指以圖形方式表現「T–S 曲線」相關變量關係的曲線，用於分析趨勢、結構或診斷特性。",
+    "traditional_chinese": "溫鹽曲線",
+    "definition_cht": "在單一海洋觀測站或水柱中，將各深度的水溫 T 與鹽度 S 逐點配對後連成的曲線；深度僅以參數方式隱含於曲線上，常用於辨識水團及分析混合作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/T%E2%80%93S_curve"
   },
   {
     "english": "T–S diagram",
-    "traditional_chinese": "T–S 圖",
-    "definition_cht": "以溫度與鹽度為座標繪製海水性質的圖解工具，可用於辨識水團、混合作用與海洋層結構。",
+    "traditional_chinese": "溫鹽圖",
+    "definition_cht": "以溫度為縱軸、鹽度為橫軸繪製的海洋圖解工具，可將同一測站不同深度的觀測點連成溫鹽曲線，用於判識水團性質、混合過程與層結。",
     "source_url": "https://glossary.ametsoc.org/wiki/T%E2%80%93S_diagram"
   },
   {
     "english": "T–S relation",
-    "traditional_chinese": "T–S 關係",
-    "definition_cht": "指描述「T–S 關係」相關變量之間對應關係、函數形式或物理聯繫的概念。",
+    "traditional_chinese": "溫鹽關係",
+    "definition_cht": "指海水溫度與鹽度之間的對應關係；在海洋學中常近似作為某一水團的指紋，亦常以溫鹽圖或溫鹽曲線呈現。",
     "source_url": "https://glossary.ametsoc.org/wiki/T%E2%80%93S_relation"
   },
   {
     "english": "t'' test",
     "traditional_chinese": "t 檢定",
-    "definition_cht": "指用於檢驗「t 檢定」相關假設、差異或統計顯著性的測試方法。",
+    "definition_cht": "即 Student's t 檢定，用於在母體變異數未知且樣本數有限時，檢定平均數、兩組平均差異或相關統計量是否達顯著水準。",
     "source_url": "https://glossary.ametsoc.org/wiki/t%27%27_test"
   },
   {
     "english": "tabular iceberg",
-    "traditional_chinese": "表格冰山",
-    "definition_cht": "頂部平坦、邊緣近於陡直的大型板狀冰山，通常由冰棚崩解形成。",
+    "traditional_chinese": "平頂冰山",
+    "definition_cht": "由冰棚崩解形成、頂部平坦且側面近乎垂直的大型板狀冰山；在南極最常見，尺度可達數十公里，露出海面的僅為其總厚度的一小部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/tabular_iceberg"
   },
   {
     "english": "TAF",
-    "traditional_chinese": "機場終端區預報",
-    "definition_cht": "機場終端區預報之國際標準航空天氣預報產品，用於提供機場附近一定時段內之風、能見度、天氣與雲況資訊。",
+    "traditional_chinese": "終端機場預報（TAF）",
+    "definition_cht": "Terminal Aerodrome Forecast 的縮寫，為針對機場及其附近空域所發布的編碼式航空天氣預報，內容包括風向風速、能見度、重要天氣、雲況及其時段性變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/TAF"
   },
   {
     "english": "taiga",
-    "traditional_chinese": "針葉林",
-    "definition_cht": "分布於高緯寒溫帶地區、以針葉林為主的寒帶森林生態區，對區域地表能量與水文循環具有重要影響。",
+    "traditional_chinese": "泰加林（北方針葉林）",
+    "definition_cht": "高緯度寒溫帶至副極地地區廣布的森林生物群系，以雲杉、冷杉、松類與落葉松等針葉樹為主，生長季短、冬季寒冷，對高緯地表能量與碳循環極具重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/taiga"
   },
   {
     "english": "Taiga climate",
-    "traditional_chinese": "針葉林氣候",
-    "definition_cht": "指「針葉林氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "traditional_chinese": "泰加林氣候",
+    "definition_cht": "與泰加林分布相對應的寒冷大陸性氣候，通常冬季漫長嚴寒、夏季短暫偏涼至溫和；在 Thornthwaite 的溫度分區中亦指介於 microthermal 與 tundra climate 之間的氣候類型。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taiga_climate"
   },
   {
     "english": "tail cloud",
     "traditional_chinese": "尾雲",
-    "definition_cht": "指與「尾雲」相關的雲形、雲系、雲層或雲物理特徵。",
+    "definition_cht": "附著於壁雲的低層水平雲帶，常由降水區朝向壁雲延伸，外觀可呈層狀或管狀；其雲體移動通常指向上升氣流區，常見於強烈超級胞附近。",
     "source_url": "https://glossary.ametsoc.org/wiki/tail_cloud"
   },
   {
     "english": "tail Doppler radar",
     "traditional_chinese": "尾部都卜勒雷達",
-    "definition_cht": "指與「尾部都卜勒雷達」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "裝設於飛機尾部的掃描式都卜勒天氣雷達，常以螺旋或扇掃方式量測風暴內部降水與風場三維結構，為颶風與強對流航空觀測的重要儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/tail_Doppler_radar"
   },
   {
     "english": "tailwater",
     "traditional_chinese": "尾水",
-    "definition_cht": "位於水工構造物、渠道或水壩下游的受控水位或尾水區，會影響出流條件與能量消散。",
+    "definition_cht": "位於水壩、溢洪道、橋梁、涵洞等水工構造物下游緊鄰區域的水體或水位條件；其高低會影響構造物出流、消能效果與下游水力狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/tailwater"
   },
   {
     "english": "tailwind",
     "traditional_chinese": "順風",
-    "definition_cht": "沿運動方向吹送的背景風，會增加飛行器或移動物體相對地面的前進速度。",
+    "definition_cht": "沿移動方向吹送的風；對飛機、船舶或其他移動物體而言，可提高相對地面的前進速度並縮短航行或飛行時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/tailwind"
   },
   {
     "english": "taino",
-    "traditional_chinese": "泰諾",
-    "definition_cht": "指與「泰諾」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "泰諾人",
+    "definition_cht": "加勒比海地區的原住民族名稱，本身並非氣象現象；但在氣象史與語源學脈絡中常被提及，因英語 hurricane 一詞普遍認為與泰諾語中的 huracán 有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/taino"
   },
   {
     "english": "Taiwan Warm Current",
     "traditional_chinese": "臺灣暖流",
-    "definition_cht": "指與「臺灣暖流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "definition_cht": "自臺灣海峽與黑潮支流輸送暖性副熱帶海水、向北流入東海的海流系統，對東海陸棚的熱鹽結構、養分分布與區域海洋環境具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taiwan_Warm_Current"
   },
   {
     "english": "Taku wind",
-    "traditional_chinese": "拓荒風",
-    "definition_cht": "指與「拓荒風」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "traditional_chinese": "塔庫風",
+    "definition_cht": "美國阿拉斯加州朱諾附近於秋冬季常見的強陣性東北偏東局地風，受冷空氣越過冰原與山區後下坡增強所致，在塔庫河口一帶可達接近或超過颶風強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taku_wind"
   },
   {
     "english": "talik",
-    "traditional_chinese": "塔利克",
-    "definition_cht": "指與「塔利克」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "塔利克（永凍土融區）",
+    "definition_cht": "永凍土區內全年保持未凍結的地層或土壤帶，常見於湖泊、河流或地熱影響下方；可分為封閉型、開放型與貫通型，對地下水流動與凍土演變十分重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/talik"
   },
   {
     "english": "tangent arcs",
     "traditional_chinese": "切線弧",
-    "definition_cht": "指與「切線弧」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一類大氣光象，呈弧形並與 22° 暈相切，常見為上切線弧與下切線弧；由長軸近水平排列的六角柱狀冰晶使光線折射而成，太陽高度改變時外形亦隨之變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/tangent_arcs"
   },
   {
