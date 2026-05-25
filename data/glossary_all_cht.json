@@ -51092,121 +51092,121 @@
   {
     "english": "throughfall",
     "traditional_chinese": "穿落雨",
-    "definition_cht": "降水穿過林冠空隙或沿枝葉滴落後到達地表的部分，是森林水文研究中的重要降水分量。",
+    "definition_cht": "森林降水截留過程中，降水穿過林冠空隙，或沿枝葉聚集後再滴落至地表的部分，為林冠截留、土壤侵蝕與森林水文研究的重要降水分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/throughfall"
   },
   {
     "english": "thunder",
-    "traditional_chinese": "雷",
-    "definition_cht": "指與「雷」相關的雷暴、雷電聲光現象或其伴隨天氣。",
+    "traditional_chinese": "雷；雷聲",
+    "definition_cht": "閃電使空氣在極短時間內劇烈加熱並迅速膨脹時所產生的聲波現象；依距離與傳播條件不同，可聽成轟鳴、隆隆聲或爆裂聲。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunder"
   },
   {
     "english": "thunderbolt",
-    "traditional_chinese": "霹靂",
-    "definition_cht": "指與「霹靂」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "霹靂；雷電閃擊",
+    "definition_cht": "通常指伴隨雷聲的強烈閃電或其突發電擊現象；在氣象語境中多屬對劇烈雷電的通俗稱呼，而非比 thunder 或 lightning 更嚴格的獨立分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderbolt"
   },
   {
     "english": "thundercloud",
-    "traditional_chinese": "雷雨雲",
-    "definition_cht": "指與「雷雨雲」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷雨雲；雷雲",
+    "definition_cht": "能產生雷電與雷聲的對流雲，通常指發展旺盛的積雨雲，常伴隨強降雨、陣風、冰雹或其他劇烈天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/thundercloud"
   },
   {
     "english": "thunderhead",
-    "traditional_chinese": "雷雨雲",
-    "definition_cht": "指與「雷雨雲」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷雨雲頂；雷砧雲頂",
+    "definition_cht": "積雨雲上部顯著隆起並常呈纖維狀或砧狀展開的雲頂部分，常為雷暴發展旺盛的外觀特徵；亦可泛指形成雷暴的高聳積雨雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderhead"
   },
   {
     "english": "Thundersnow",
     "traditional_chinese": "雷雪",
-    "definition_cht": "指與「雷雪」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "以降雪為主要降水型態、但同時伴隨閃電與雷聲的雷暴現象，常出現在強烈垂直運動的冬季風暴、湖效應雪帶或發展旺盛的雪陣中。",
     "source_url": "https://glossary.ametsoc.org/wiki/Thundersnow"
   },
   {
     "english": "thundersquall",
-    "traditional_chinese": "雷暴",
-    "definition_cht": "指與「雷暴」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷飆；伴雷飆",
+    "definition_cht": "伴隨雷聲與閃電的飆線或短時強風性陣風天氣，亦可泛指夾帶雷電的強烈陣風性驟變；屬較少見的用語。",
     "source_url": "https://glossary.ametsoc.org/wiki/thundersquall"
   },
   {
     "english": "thunderstorm",
-    "traditional_chinese": "雷雨",
-    "definition_cht": "由深對流發展形成、伴隨雷電、陣風、強降雨或冰雹等劇烈天氣的對流風暴。",
+    "traditional_chinese": "雷暴；雷雨",
+    "definition_cht": "由深對流發展形成、以閃電與雷聲為主要特徵的風暴系統，常伴隨陣風、短時強降雨、冰雹，強者並可產生龍捲風。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm"
   },
   {
     "english": "thunderstorm cell",
-    "traditional_chinese": "雷暴細胞",
-    "definition_cht": "雷暴系統中具獨立上升與下沉氣流結構的對流單體。",
+    "traditional_chinese": "雷暴單體；雷暴細胞",
+    "definition_cht": "雷暴系統中具有相對獨立上升與下沉氣流結構的對流單體，可單獨發展，也可組成多單體雷暴、飆線或超級單體的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_cell"
   },
   {
     "english": "thunderstorm charge",
-    "traditional_chinese": "雷暴衝鋒",
-    "definition_cht": "指與「雷暴衝鋒」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷暴電荷",
+    "definition_cht": "雷暴雲內由冰晶、霰、過冷水滴與氣流交互作用所形成並分布於不同高度的電荷，是雲中電場建立與閃電發生的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_charge"
   },
   {
     "english": "thunderstorm charge separation",
     "traditional_chinese": "雷暴電荷分離",
-    "definition_cht": "指與「雷暴電荷分離」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "雷暴雲中不同粒子在碰撞、凍結、破裂與氣流搬運作用下，使正負電荷在不同區域累積並分層的過程，為雷電生成的關鍵機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_charge_separation"
   },
   {
     "english": "thunderstorm day",
-    "traditional_chinese": "雷雨天",
-    "definition_cht": "指與「雷雨天」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷暴日",
+    "definition_cht": "在某一觀測站或地區於一天之內曾觀測到雷聲或雷暴現象的日數單位，常用於氣候統計與雷暴頻率分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_day"
   },
   {
     "english": "thunderstorm dipole",
-    "traditional_chinese": "雷暴偶極子",
-    "definition_cht": "指與「雷暴偶極子」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷暴偶極電荷結構",
+    "definition_cht": "雷暴雲內由上下兩個主要異號電荷區所構成的電荷配置，通常為上層正電、下層負電，是描述雷暴電場結構的基本概念之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_dipole"
   },
   {
     "english": "thunderstorm electrification",
-    "traditional_chinese": "雷暴帶電",
-    "definition_cht": "指與「雷暴帶電」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷暴起電；雷暴帶電",
+    "definition_cht": "雷暴雲在微物理粒子碰撞與相變化，以及上升、下沉氣流分選作用下產生並累積電荷的過程，最終導致強電場與閃電放電。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_electrification"
   },
   {
     "english": "thunderstorm initiation mechanism",
-    "traditional_chinese": "雷暴引發機制",
-    "definition_cht": "指與「雷暴引發機制」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷暴觸發機制",
+    "definition_cht": "使近地面暖濕不穩定空氣被迫抬升並突破抑制層而啟動深對流的動力或熱力機制，例如鋒面、海風、地形抬升、輻合線或外流邊界。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_initiation_mechanism"
   },
   {
     "english": "thunderstorm outflow",
-    "traditional_chinese": "雷暴流出",
-    "definition_cht": "指與「雷暴流出」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷暴外流",
+    "definition_cht": "雷暴中冷濕下沉氣流抵達地面後向外擴散形成的近地層冷空氣外流，常伴隨陣風鋒，並可觸發新的對流發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_outflow"
   },
   {
     "english": "thunderstorm tripole",
-    "traditional_chinese": "雷暴三極子",
-    "definition_cht": "指與「雷暴三極子」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雷暴三極電荷結構",
+    "definition_cht": "雷暴雲內具有三個主要電荷區的垂直配置，典型情形為上層正電、中層負電、近雲底再有一較弱正電區，用以描述較完整的雷暴電結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/thunderstorm_tripole"
   },
   {
     "english": "TID",
-    "traditional_chinese": "TID",
-    "definition_cht": "「TID」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "行進電離層擾動",
+    "definition_cht": "traveling ionospheric disturbance 的縮寫，指電離層電子密度或總電子含量擾動以波動形式在空間中傳播的現象，常與重力波、極光加熱或地磁活動有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/TID"
   },
   {
     "english": "tidal excursion",
-    "traditional_chinese": "潮汐遊覽",
-    "definition_cht": "指與「潮汐遊覽」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "潮汐往復位移",
+    "definition_cht": "受潮汐流作用時，水團或示蹤粒子在一段潮汐週期內相對其平均位置所做的往復位移距離或振幅，用以描述潮流造成的水平輸運尺度。",
     "source_url": "https://glossary.ametsoc.org/wiki/tidal_excursion"
   },
   {
     "english": "tidal glacier",
-    "traditional_chinese": "潮汐冰川",
-    "definition_cht": "指與「潮汐冰川」相關的冰川型態、熱力狀態或演變特徵。",
+    "traditional_chinese": "潮汐冰川；潮水冰川",
+    "definition_cht": "末端伸入海灣、峽灣或受潮汐影響水體中的冰川，前緣常因與海水接觸而發生崩解產冰山；英語文獻中多與 tidewater glacier 概念相近。",
     "source_url": "https://glossary.ametsoc.org/wiki/tidal_glacier"
   },
   {
