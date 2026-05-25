@@ -721,122 +721,122 @@
   },
   {
     "english": "thermal efficiency",
-    "traditional_chinese": "熱效率",
-    "definition_cht": "指與「熱效率」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱效度；熱效率指數",
+    "definition_cht": "在氣候學中指溫度對生長或氣候效應之有效程度，常以熱量累積或月平均溫度加總等指標表示，Thornthwaite 氣候分類即曾用此概念作為熱量條件分區依據。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_efficiency"
   },
   {
     "english": "thermal equator",
     "traditional_chinese": "熱赤道",
-    "definition_cht": "指與「熱赤道」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "definition_cht": "沿各經線連結年平均氣溫最高地點所形成的帶狀線，反映地球最暖區的大致位置；其位置會隨季節與陸海分布而南北擺動，且不必與地理赤道重合。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_equator"
   },
   {
     "english": "thermal gradient",
-    "traditional_chinese": "熱梯度",
-    "definition_cht": "指與「熱梯度」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "溫度梯度；熱梯度",
+    "definition_cht": "指溫度在空間中的變化率與其最大增減方向，為向量量；在氣象分析中常用來描述冷暖空氣交界的強弱，並與厚度場、鋒面及熱成風關係密切。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_gradient"
   },
   {
     "english": "thermal high",
-    "traditional_chinese": "熱高",
-    "definition_cht": "指與「熱高」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱性高壓",
+    "definition_cht": "因下墊面極冷而使近地層空氣受冷增密所形成的淺薄高壓區，通常貼附於寒冷地表上且移動緩慢；與熱性低壓相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_high"
   },
   {
     "english": "thermal infrared",
-    "traditional_chinese": "熱紅外線",
-    "definition_cht": "指與「熱紅外線」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱紅外",
+    "definition_cht": "指紅外光譜中主要對應地表與大氣熱輻射發射的波段，常指中紅外與遠紅外部分；在遙測上常用以反演地表溫度、雲頂溫度與夜間熱場分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_infrared"
   },
   {
     "english": "thermal instability",
-    "traditional_chinese": "熱不穩定性",
-    "definition_cht": "指與「熱不穩定性」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱不穩定；熱力不穩定",
+    "definition_cht": "舊稱，常作為位勢不穩定的同義語；亦可泛指流體自下而上受熱時，因浮力作用而易發生對流翻攪的不穩定狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_instability"
   },
   {
     "english": "thermal internal boundary layer",
     "traditional_chinese": "熱內邊界層",
-    "definition_cht": "指與「熱內邊界層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "空氣平流越過下墊面溫度突變處後，在近地層重新調整所形成的內邊界層；沿下風方向逐漸增厚，海陸交界或地表熱性質差異明顯區域尤為常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_internal_boundary_layer"
   },
   {
     "english": "thermal jet",
-    "traditional_chinese": "熱射流",
-    "definition_cht": "指與「熱射流」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱力急流",
+    "definition_cht": "少用術語，指等溫線或厚度線極為密集的區域，因此對應很強的熱成風或由水平溫度梯度所支持的急流帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_jet"
   },
   {
     "english": "thermal load",
     "traditional_chinese": "熱負荷",
-    "definition_cht": "指與「熱負荷」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "definition_cht": "指河川、渠道或排放口在單位時間內輸送或排入受納水體的熱量，通常以功率表示；常用於評估熱污染及其對水環境的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_load"
   },
   {
     "english": "Thermal low",
-    "traditional_chinese": "熱量低",
-    "definition_cht": "指與「熱量低」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱低壓；熱性低壓",
+    "definition_cht": "近地面因強烈加熱使低層空氣升溫膨脹、等壓面抬升並伴隨上層發散而形成的非鋒面低壓區，常見於暖季乾燥大陸內陸，垂直範圍通常較淺。",
     "source_url": "https://glossary.ametsoc.org/wiki/Thermal_low"
   },
   {
     "english": "thermal neutrality",
-    "traditional_chinese": "熱中性",
-    "definition_cht": "指與「熱中性」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱中性；恆溫中性",
+    "definition_cht": "指恆溫動物所處環境使其無須額外增加產熱或散熱調節，即可維持體溫平衡的狀態；亦即位於其熱中性區內的環境條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_neutrality"
   },
   {
     "english": "thermal pollution",
     "traditional_chinese": "熱污染",
-    "definition_cht": "指與「熱污染」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "definition_cht": "人為排放廢熱導致環境溫度異常改變的污染現象，常見於工業或發電設施使河川、湖泊、海域或局地大氣升溫，進而影響水質、生態與局地天氣條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_pollution"
   },
   {
     "english": "thermal precipitator",
-    "traditional_chinese": "熱除塵器",
-    "definition_cht": "指與「熱除塵器」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱沉降採樣器；熱沉降器",
+    "definition_cht": "利用熱泳效應採集氣膠粒子的裝置，使含粒子氣流通過冷熱板之間，粒子在溫度梯度作用下沉積於冷表面，常用於微粒或煙霧樣品分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_precipitator"
   },
   {
     "english": "thermal radiation",
     "traditional_chinese": "熱輻射",
-    "definition_cht": "指與「熱輻射」相關的輻射能量、通量、收支或傳輸過程。",
+    "definition_cht": "物體因其溫度而發射的電磁輻射，溫度高於絕對零度的物質皆會產生；在地球系統中主要表現為紅外輻射，是地表—大氣輻射收支的重要部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_radiation"
   },
   {
     "english": "thermal Rossby number",
     "traditional_chinese": "熱羅斯比數",
-    "definition_cht": "指用於表徵「熱羅斯比數」相關物理機制、無因次特徵或分類條件的數值指標。",
+    "definition_cht": "描述受熱旋轉流體中，由熱成風所代表的慣性效應相對於科氏力大小的無因次量，可用來判斷差異加熱與地轉約束在環流中的相對重要性。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_Rossby_number"
   },
   {
     "english": "thermal steering",
-    "traditional_chinese": "熱轉向",
-    "definition_cht": "指與「熱轉向」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱力導引",
+    "definition_cht": "指天氣擾動沿其周圍熱成風方向移動的導引作用，實務上常近似為沿厚度線方向移行，用以診斷某些系統的移動趨勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_steering"
   },
   {
     "english": "thermal tide",
-    "traditional_chinese": "熱潮",
-    "definition_cht": "指與「熱潮」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱潮；熱力潮汐",
+    "definition_cht": "由太陽日變化加熱所激發的大氣壓力與風場週期性振盪，性質類似重力潮汐，常表現在日週期或半日週期的大氣潮中。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_tide"
   },
   {
     "english": "thermal vorticity",
     "traditional_chinese": "熱渦度",
-    "definition_cht": "指與「熱渦度」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "definition_cht": "由等壓層厚度的水平梯度所定義、與熱成風相關的渦度量，用於把厚度場的變化轉換為可類比渦度場的診斷量，常見於準地轉分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_vorticity"
   },
   {
     "english": "thermal vorticity advection",
     "traditional_chinese": "熱渦度平流",
-    "definition_cht": "指與「熱渦度平流」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "definition_cht": "指熱成風對熱渦度所造成的平流作用，可視為厚度（或溫度）平流的渦度式表達，在準地轉 omega 方程與大尺度升降運動診斷中相當重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_vorticity_advection"
   },
   {
     "english": "thermal wave",
     "traditional_chinese": "熱波",
-    "definition_cht": "指與「熱波」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "definition_cht": "由邊界層熱泡上衝穿越封頂逆溫層而激發、傳入自由對流層中的重力波。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_wave"
   },
   {
