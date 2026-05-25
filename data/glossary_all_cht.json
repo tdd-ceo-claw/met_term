@@ -50012,121 +50012,121 @@
   {
     "english": "tangent linear approximation",
     "traditional_chinese": "正切線性近似",
-    "definition_cht": "用於處理「正切線性近似」相關問題的近似假設，以簡化方程並保留主要物理機制。",
+    "definition_cht": "指將非線性方程、算子或模式在某一背景狀態附近作一階線性化，以小擾動的線性關係近似原系統的做法，常用於資料同化、敏感度分析與可預報度研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/tangent_linear_approximation"
   },
   {
     "english": "tangent linear equation",
     "traditional_chinese": "正切線性方程",
-    "definition_cht": "描述「正切線性方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "definition_cht": "指由非線性控制方程在參考狀態或背景軌線附近線性化後得到的一階方程，用來描述小擾動隨時間與空間的演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/tangent_linear_equation"
   },
   {
     "english": "tangent linear model",
-    "traditional_chinese": "切線模型",
-    "definition_cht": "指用於表示「切線模型」相關過程、結構或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "正切線性模式",
+    "definition_cht": "指以非線性預報模式或物理系統為基礎，沿某一參考狀態線性化後建立的模式，用於傳播小擾動、估算敏感度，以及支援資料同化中的伴隨與變分分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/tangent_linear_model"
   },
   {
     "english": "tangential acceleration",
     "traditional_chinese": "切向加速度",
-    "definition_cht": "指與「切向加速度」相關的加速度分量或速度變化率。",
+    "definition_cht": "指沿運動軌跡切線方向的加速度分量，代表速度大小隨時間的變化率；在曲線運動中與指向曲率中心的法向（向心）加速度相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/tangential_acceleration"
   },
   {
     "english": "tangential stresses",
     "traditional_chinese": "切向應力",
-    "definition_cht": "指流體、地表或介質內與「切向應力」相關的應力作用或力通量。",
+    "definition_cht": "指平行於表面、界面或接觸面的應力分量，通常由摩擦或速度切變造成；在大氣與海洋中常用以描述風應力、剪應力及邊界層動量傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/tangential_stresses"
   },
   {
     "english": "tangential wind",
     "traditional_chinese": "切向風",
-    "definition_cht": "指與「切向風」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "definition_cht": "指在旋轉或渦旋流場中，沿繞中心圓周方向吹拂的風速分量，即與半徑方向垂直的風；常用於描述颱風、龍捲或其他渦旋環流的結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/tangential_wind"
   },
   {
     "english": "tarantata",
     "traditional_chinese": "塔蘭塔塔",
-    "definition_cht": "指與「塔蘭塔塔」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "目前未見其為通行的氣象學標準術語，較可能是外語詞、地名、罕用地方名稱或原始資料中的異拼；實際涵義仍需依原始文獻與上下文進一步確認。",
     "source_url": "https://glossary.ametsoc.org/wiki/tarantata"
   },
   {
     "english": "target",
-    "traditional_chinese": "目標",
-    "definition_cht": "指與「目標」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "目標體",
+    "definition_cht": "在雷達、遙測或觀測系統中，指被探測、追蹤或分析的物體、區域或現象；其回波或訊號特徵常用於辨識降水、雲體、地物或其他觀測對象。",
     "source_url": "https://glossary.ametsoc.org/wiki/target"
   },
   {
     "english": "target signal",
     "traditional_chinese": "目標訊號",
-    "definition_cht": "指與「目標訊號」相關的觀測訊號、回波、記錄或通訊資訊。",
+    "definition_cht": "指由觀測目標反射、散射、發射或調制後，被感測器接收的訊號成分；在雷達氣象中常指來自降水粒子、雲體或地物目標的回波訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/target_signal"
   },
   {
     "english": "taryn",
-    "traditional_chinese": "塔林",
-    "definition_cht": "指與「塔林」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "塔琳",
+    "definition_cht": "目前未見其為通行的氣象學標準術語，較可能是人名、地名、外語詞或原始資料中的異拼；若需準確定義，仍應回到原始來源確認其專門脈絡。",
     "source_url": "https://glossary.ametsoc.org/wiki/taryn"
   },
   {
     "english": "TAS",
-    "traditional_chinese": "TAS",
-    "definition_cht": "「TAS」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "真空速",
+    "definition_cht": "True Airspeed 的縮寫，指航空器相對於周圍氣團的實際速度；不同於受空氣密度與儀器校正影響的指示空速，常用於航行計算與高空飛行分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/TAS"
   },
   {
     "english": "tau-value",
-    "traditional_chinese": "tau值",
-    "definition_cht": "指與「tau值」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "τ值",
+    "definition_cht": "指以希臘字母 τ 表示的參數值；在氣象與相關地球科學中常用來表示特徵時間尺度、時間常數、延遲時間或預報時效，因此其確切意義須依所處公式與應用情境判定。",
     "source_url": "https://glossary.ametsoc.org/wiki/tau-value"
   },
   {
     "english": "Taylor effect",
     "traditional_chinese": "泰勒效應",
-    "definition_cht": "指由特定作用機制造成的「泰勒效應」現象或影響結果。",
+    "definition_cht": "泛指與 G. I. Taylor 相關理論所描述的流動、湍流或擴散效應；由於不同文獻對此詞的指涉可能不一，實際所指仍需依上下文判定其具體物理意涵。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taylor_effect"
   },
   {
     "english": "Taylor microscale",
     "traditional_chinese": "泰勒微尺度",
-    "definition_cht": "指與「泰勒微尺度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "湍流中介於積分尺度與 Kolmogorov 微尺度之間的特徵長度尺度，用來表徵黏滯效應開始明顯影響渦流結構的範圍，並常用於定義泰勒微尺度雷諾數。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taylor_microscale"
   },
   {
     "english": "Taylor number",
     "traditional_chinese": "泰勒數",
-    "definition_cht": "指用於表徵「泰勒數」相關物理機制、無因次特徵或分類條件的數值指標。",
+    "definition_cht": "流體力學中的無因次數，用以衡量旋轉所致慣性或離心效應相對於黏滯效應的重要性，常用於分析旋轉圓筒、旋轉球殼及相關不穩定流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taylor_number"
   },
   {
     "english": "Taylor polynomial",
     "traditional_chinese": "泰勒多項式",
-    "definition_cht": "指用於近似、展開或分析「泰勒多項式」相關變量關係的多項式表達。",
+    "definition_cht": "指由函數在某一展開點的各階導數所組成的有限階多項式近似，可用來描述函數在該點附近的局部變化，並作為泰勒級數的截斷形式。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taylor_polynomial"
   },
   {
     "english": "Taylor's diffusion theorem",
     "traditional_chinese": "泰勒擴散定理",
-    "definition_cht": "指與「泰勒擴散定理」相關的數學或物理定理，用於說明變量關係、守恆性質或推導基礎。",
+    "definition_cht": "描述湍流擴散中粒子平均位移平方與拉格朗日速度自相關函數之關係的理論，為統計推導有效擴散係數與理解大氣污染傳輸的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taylor%27s_diffusion_theorem"
   },
   {
     "english": "Taylor's hypothesis",
-    "traditional_chinese": "泰勒的假設",
-    "definition_cht": "指解釋「泰勒的假設」相關現象、近似條件或推論架構的假說。",
+    "traditional_chinese": "泰勒假說",
+    "definition_cht": "又稱凍結湍流假說，假定湍流渦旋在被平均流帶過觀測點時，其形狀與強度在短時間內近似不變，因此可將固定點的時間變化轉換為空間結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taylor%27s_hypothesis"
   },
   {
     "english": "Taylor's theorem",
     "traditional_chinese": "泰勒定理",
-    "definition_cht": "指與「泰勒定理」相關的數學或物理定理，用於說明變量關係、守恆性質或推導基礎。",
+    "definition_cht": "說明可用函數在某一點附近的有限階泰勒多項式與餘項來近似原函數的數學定理，是誤差估計、線性化與局部展開分析的重要基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/Taylor%27s_theorem"
   },
   {
     "english": "TDWR",
-    "traditional_chinese": "TDWR",
-    "definition_cht": "「TDWR」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "終端都卜勒天氣雷達",
+    "definition_cht": "Terminal Doppler Weather Radar 的縮寫，為設置於機場終端區附近的都卜勒氣象雷達，主要用於偵測風切、微爆流、陣風鋒與降水，以提升航機起降作業安全。",
     "source_url": "https://glossary.ametsoc.org/wiki/TDWR"
   },
   {
