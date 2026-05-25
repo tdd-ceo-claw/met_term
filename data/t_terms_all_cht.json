@@ -601,122 +601,122 @@
   },
   {
     "english": "terrestrial surface radiation",
-    "traditional_chinese": "地表輻射",
-    "definition_cht": "指與「地表輻射」相關的輻射能量、通量、收支或傳輸過程。",
+    "traditional_chinese": "地表長波輻射",
+    "definition_cht": "僅指地表因自身溫度而向外發射的長波熱輻射，不包含大氣或雲所發出的輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/terrestrial_surface_radiation"
   },
   {
     "english": "tertiary circulation",
-    "traditional_chinese": "三級循環",
-    "definition_cht": "指與「三級循環」相關的局地或大尺度環流結構及其輸送作用。",
+    "traditional_chinese": "三級環流",
+    "definition_cht": "【舊稱】指一般規模較小且局地性的環流，如地方風、雷暴與龍捲風等；相對於行星尺度的第一級環流與天氣尺度的第二級環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/tertiary_circulation"
   },
   {
     "english": "Tetens's formula",
     "traditional_chinese": "特滕斯公式",
-    "definition_cht": "指用於表達「特滕斯公式」相關經驗關係、計算規則或近似解的公式。",
+    "definition_cht": "用氣溫估算水面或冰面飽和水氣壓的經驗公式，常用於露點、相對濕度與蒸發等計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tetens%27s_formula"
   },
   {
     "english": "Tethered balloon",
     "traditional_chinese": "繫留氣球",
-    "definition_cht": "以纜繩固定於地面、可搭載感測器進行近地層與邊界層觀測的氣球平台。",
+    "definition_cht": "以一條或多條纜繩固定於地面、可藉絞盤升降的氣球平台，常用於邊界層與近地層氣象觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tethered_balloon"
   },
   {
     "english": "tethersonde",
-    "traditional_chinese": "繫繩探空儀",
-    "definition_cht": "懸掛於繫留氣球上的探空儀器，用於量測低層大氣之溫度、濕度、風與壓力結構。",
+    "traditional_chinese": "繫留探空儀",
+    "definition_cht": "裝設於繫留氣球系統上的探空儀，可沿纜線在不同高度反覆量測溫度、濕度、氣壓與風等低層大氣資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/tethersonde"
   },
   {
     "english": "tetroon",
-    "traditional_chinese": "四氫呋喃",
-    "definition_cht": "可在近中性浮力條件下隨氣流漂移的四面體追蹤氣球，用於研究氣流輸送與擴散。",
+    "traditional_chinese": "四面體定容追蹤氣球",
+    "definition_cht": "一種四面體、近定容的氣球，可調整至近中性浮力後隨氣流漂移，用於追蹤氣團運動以及研究輸送與擴散。",
     "source_url": "https://glossary.ametsoc.org/wiki/tetroon"
   },
   {
     "english": "Teweles–Wobus index",
-    "traditional_chinese": "特韋萊斯－沃布斯指數",
-    "definition_cht": "指以「特韋萊斯－沃布斯指數」為名之指標，用於量化特定氣象、水文、海洋或環境狀態的強弱、異常程度或風險。",
+    "traditional_chinese": "特韋萊斯－沃布斯評分",
+    "definition_cht": "用於比較預報圖與實況圖差異的客觀驗證指標，主要衡量海平面氣壓或等壓面高度場之水平梯度誤差；亦常稱 Teweles–Wobus score 或 S1 score。",
     "source_url": "https://glossary.ametsoc.org/wiki/Teweles%E2%80%93Wobus_index"
   },
   {
     "english": "texture",
-    "traditional_chinese": "質地",
-    "definition_cht": "指與「質地」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "紋理",
+    "definition_cht": "影像、雲場、地表或其他觀測對象在明暗、粗細、疏密與排列上的視覺結構特徵，常用於遙測判釋與型態辨識。",
     "source_url": "https://glossary.ametsoc.org/wiki/texture"
   },
   {
     "english": "thaw",
-    "traditional_chinese": "解凍",
-    "definition_cht": "指與「解凍」相關的冰雪或凍土融解現象、過程或其影響。",
+    "traditional_chinese": "融解",
+    "definition_cht": "積雪、冰或凍土因氣溫回升而解凍、融化的過程或時期。",
     "source_url": "https://glossary.ametsoc.org/wiki/thaw"
   },
   {
     "english": "thawing index",
-    "traditional_chinese": "解凍指數",
-    "definition_cht": "在一定期間內日平均氣溫高於冰點部分的累積溫度指標，常用於凍土、融雪與工程評估。",
+    "traditional_chinese": "融解指數",
+    "definition_cht": "在一定期間內把高於 0°C 的日平均氣溫加總所得的累積度日值，用於估計融雪、活動層消融與凍土工程條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/thawing_index"
   },
   {
     "english": "thawing season",
-    "traditional_chinese": "解凍季節",
-    "definition_cht": "指與「解凍季節」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "融解季",
+    "definition_cht": "自累積度日曲線達最低點至其後升至最高點的期間；亦即一年中以正融解度日累積為主的季節，與凍結季相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/thawing_season"
   },
   {
     "english": "thematic mapper",
-    "traditional_chinese": "專題製圖員",
-    "definition_cht": "指與「專題製圖員」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "專題測繪儀",
+    "definition_cht": "Landsat 4 與 5 衛星所搭載的七波段多光譜掃描感測器，用於量測地表反射與放射特性，廣泛應用於植被、地質與地表環境分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/thematic_mapper"
   },
   {
     "english": "theodolite",
     "traditional_chinese": "經緯儀",
-    "definition_cht": "指與「經緯儀」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "量測水平角與垂直角的精密光學儀器；在氣象上常用於追蹤測風氣球，以推算不同高度的風向與風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/theodolite"
   },
   {
     "english": "thermal",
-    "traditional_chinese": "熱的",
-    "definition_cht": "指與「熱的」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱氣流",
+    "definition_cht": "由地表受熱不均所產生的浮力上升氣柱或對流上升流，將熱量自近地層向上輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal"
   },
   {
     "english": "thermal belt",
-    "traditional_chinese": "保暖帶",
-    "definition_cht": "指沿特定緯度、地形或環境條件延伸的帶狀區域。",
+    "traditional_chinese": "暖帶",
+    "definition_cht": "山谷側坡夜間常出現的一狹窄較暖帶狀區域，位於冷空氣積聚層之上、正常隨高遞減溫度區之下，常見於晴朗微風夜晚。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_belt"
   },
   {
     "english": "thermal climate",
     "traditional_chinese": "熱氣候",
-    "definition_cht": "指「熱氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "以氣溫條件來界定或描述的氣候特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_climate"
   },
   {
     "english": "thermal conductivity",
     "traditional_chinese": "導熱係數",
-    "definition_cht": "指土壤、介質或流體傳導水分、熱量、電流或其他物理量的能力。",
+    "definition_cht": "物質傳導熱量能力的量度，表示熱通量與溫度梯度之間的比例關係；其值可隨介質成分、含水量與溫度而變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_conductivity"
   },
   {
     "english": "thermal constant",
-    "traditional_chinese": "熱常數",
-    "definition_cht": "指與「熱常數」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "積溫常數",
+    "definition_cht": "植物完成某一生育階段或整個生長期所需累積的熱量，通常以高於某基準溫度的日平均氣溫總和表示，概念上近似積溫或度日。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_constant"
   },
   {
     "english": "thermal core",
-    "traditional_chinese": "熱芯",
-    "definition_cht": "指與「熱芯」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "traditional_chinese": "熱氣流核心",
+    "definition_cht": "對流熱氣流內部較少受周圍空氣側向捲入稀釋、因而保持較強浮力與上升運動的中心區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_core"
   },
   {
     "english": "thermal diffusivity",
     "traditional_chinese": "熱擴散率",
-    "definition_cht": "指與「熱擴散率」相關的熱力狀態、熱量傳輸或由熱作用驅動的現象。",
+    "definition_cht": "表示熱在物質內部擴散快慢的物性，等於導熱係數除以密度與定壓比熱的乘積，單位為 m²/s。",
     "source_url": "https://glossary.ametsoc.org/wiki/thermal_diffusivity"
   },
   {
