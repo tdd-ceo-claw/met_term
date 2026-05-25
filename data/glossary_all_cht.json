@@ -51692,121 +51692,121 @@
   {
     "english": "total water mixing ratio",
     "traditional_chinese": "總水混合比",
-    "definition_cht": "指「總水混合比」所代表的比值量，用於描述兩項物理量或統計量之相對關係。",
+    "definition_cht": "水汽、液態水與固態水總量相對於乾空氣質量的混合比，用於表示空氣中全部水分的總含量。",
     "source_url": "https://glossary.ametsoc.org/wiki/total_water_mixing_ratio"
   },
   {
     "english": "totalizer rain gauge",
     "traditional_chinese": "積算雨量計",
-    "definition_cht": "指與「積算雨量計」相關的降雨、雨量或降水過程。",
+    "definition_cht": "一種非記錄式雨量計，適用於無法頻繁巡檢的測站；集水容器常加入低凝固點溶液並覆油以減少蒸發，量測時須扣除原先溶液量。",
     "source_url": "https://glossary.ametsoc.org/wiki/totalizer_rain_gauge"
   },
   {
     "english": "touriello",
-    "traditional_chinese": "圖里埃洛",
-    "definition_cht": "指與「圖里埃洛」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "圖里耶洛風",
+    "definition_cht": "法國阿列日河谷一帶的南風，屬焚風型下坡風，常於冬末春初較為強勁，並會促進積雪消融。",
     "source_url": "https://glossary.ametsoc.org/wiki/touriello"
   },
   {
     "english": "Toussaint's formula",
     "traditional_chinese": "杜桑公式",
-    "definition_cht": "指用於表達「杜桑公式」相關經驗關係、計算規則或近似解的公式。",
+    "definition_cht": "描述氣溫隨高度近似線性遞減的經驗公式，常以海平面氣溫為基準估算對流層低層的大氣溫度垂直分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/Toussaint%27s_formula"
   },
   {
     "english": "TOVS",
-    "traditional_chinese": "TIROS 作業垂直探測系統",
-    "definition_cht": "TIROS 系列作業衛星上的垂直探測系統，用於反演大氣溫度與濕度垂直結構。",
+    "traditional_chinese": "TIROS作業垂直探測系統",
+    "definition_cht": "早期氣象衛星上的垂直遙測系統，利用紅外與微波觀測反演大氣溫度與濕度的垂直結構；英文全名為 TIROS Operational Vertical Sounder。",
     "source_url": "https://glossary.ametsoc.org/wiki/TOVS"
   },
   {
     "english": "Tower of the Winds",
     "traditional_chinese": "風塔",
-    "definition_cht": "指與「風塔」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "古希臘雅典著名的八角形建築，常被視為早期氣象觀測設施，結合風向標、日晷與水鐘等裝置，用以顯示風與時間資訊。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tower_of_the_Winds"
   },
   {
     "english": "towering",
-    "traditional_chinese": "參天",
-    "definition_cht": "指與「參天」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "高聳發展",
+    "definition_cht": "指雲體或對流向上迅速延伸、垂直發展顯著的狀態，常表示大氣不穩定增強並可能進一步發展為深對流。",
     "source_url": "https://glossary.ametsoc.org/wiki/towering"
   },
   {
     "english": "towering cumulus",
-    "traditional_chinese": "高聳的積雲",
-    "definition_cht": "指與「高聳的積雲」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "高聳積雲",
+    "definition_cht": "垂直發展旺盛的積雲，介於一般積雲與積雨雲之間，常對應強上升氣流、顯著亂流，並可能進一步發展成雷暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/towering_cumulus"
   },
   {
     "english": "Townsend support",
-    "traditional_chinese": "湯森支撐",
-    "definition_cht": "指與「湯森支撐」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "湯森支架",
+    "definition_cht": "用於固定液體玻璃式最高、最低溫度計的支架，可將溫度計保持在正確操作姿態，並可旋轉以便重設指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/Townsend_support"
   },
   {
     "english": "toxic pollutants",
     "traditional_chinese": "有毒污染物",
-    "definition_cht": "指排放至大氣或環境中的污染物質，會影響空氣品質、能見度、輻射或人體健康。",
+    "definition_cht": "指已知或疑似會致癌、致畸或造成其他嚴重健康危害的污染物；其管制通常著重於排放源與環境中的濃度。",
     "source_url": "https://glossary.ametsoc.org/wiki/toxic_pollutants"
   },
   {
     "english": "TR tube",
-    "traditional_chinese": "TR管",
-    "definition_cht": "指與「TR管」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "發射－接收切換管",
+    "definition_cht": "TR tube 的中文名稱，為 transmit-receive tube 的縮寫，設於雷達收發共用路徑中，用以在發射與接收之間快速切換並保護接收器。",
     "source_url": "https://glossary.ametsoc.org/wiki/TR_tube"
   },
   {
     "english": "trace",
-    "traditional_chinese": "痕跡",
-    "definition_cht": "指與「痕跡」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "微量",
+    "definition_cht": "在氣象觀測中指已觀測到降水、降雪或其他現象，但其量值小到不足以用標準儀器作可測定累積量記錄。",
     "source_url": "https://glossary.ametsoc.org/wiki/trace"
   },
   {
     "english": "trace gas",
     "traditional_chinese": "微量氣體",
-    "definition_cht": "指與「微量氣體」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "存在於大氣中濃度極低的氣體成分，通常僅為百萬分之一體積比或更低，但對輻射收支、化學反應與空氣品質常具重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/trace_gas"
   },
   {
     "english": "tracer",
-    "traditional_chinese": "示踪劑",
-    "definition_cht": "指與「示踪劑」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "示蹤劑",
+    "definition_cht": "用於追蹤空氣、水體或其他介質輸送、混合、擴散與轉化過程的物質、同位素或可辨識訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/tracer"
   },
   {
     "english": "track of a depression",
-    "traditional_chinese": "憂鬱症的軌跡",
-    "definition_cht": "指與「憂鬱症的軌跡」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "低壓路徑",
+    "definition_cht": "低氣壓或低壓中心隨時間移動時，其各時刻位置連成的路徑，用於描述天氣系統的移向與移速。",
     "source_url": "https://glossary.ametsoc.org/wiki/track_of_a_depression"
   },
   {
     "english": "track wind",
-    "traditional_chinese": "軌道風",
-    "definition_cht": "指與「軌道風」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "traditional_chinese": "航線風",
+    "definition_cht": "在航空氣象中，指特定航路或航段上、指定高度的風向與風速，可為實測值，也可為預報值。",
     "source_url": "https://glossary.ametsoc.org/wiki/track_wind"
   },
   {
     "english": "tracking radar",
     "traditional_chinese": "追蹤雷達",
-    "definition_cht": "指與「追蹤雷達」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "主要用於自動追蹤目標位置的雷達，追蹤對象通常為相對於雷達脈衝體積較小的非氣象目標，例如飛機、探空氣球或火箭。",
     "source_url": "https://glossary.ametsoc.org/wiki/tracking_radar"
   },
   {
     "english": "tracking system",
     "traditional_chinese": "追蹤系統",
-    "definition_cht": "指與「追蹤系統」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "泛指用於追隨並記錄空中目標位置的設備系統，例如追蹤雷達或光學經緯儀系統，常用於高空氣球與其他空中載具觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/tracking_system"
   },
   {
     "english": "tractive force",
     "traditional_chinese": "牽引力",
-    "definition_cht": "指與「牽引力」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "使物體沿接觸面產生運動的力；在流體或地表過程中，也可指促使粒子、載具或物體沿表面前進的切向作用力。",
     "source_url": "https://glossary.ametsoc.org/wiki/tractive_force"
   },
   {
     "english": "trade",
-    "traditional_chinese": "貿易",
-    "definition_cht": "指與「貿易」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "信風",
+    "definition_cht": "赤道兩側副熱帶高壓帶吹向熱帶輻合帶的盛行偏東風，北半球多為東北信風，南半球多為東南信風。",
     "source_url": "https://glossary.ametsoc.org/wiki/trade"
   },
   {
