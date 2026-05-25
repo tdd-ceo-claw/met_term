@@ -3787,122 +3787,122 @@
   },
   {
     "english": "specific storage",
-    "traditional_chinese": "特定儲存",
-    "definition_cht": "指與「特定儲存」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "比貯水量",
+    "definition_cht": "水文地質中指飽和含水層或多孔介質在水頭每降低一單位時，單位體積介質可自儲存中釋出的水量；反映介質與孔隙水的可壓縮性。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_storage"
   },
   {
     "english": "specific volume",
     "traditional_chinese": "比容",
-    "definition_cht": "指與「比容」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "物質單位質量所占的體積，為密度的倒數，常用於熱力學與大氣狀態方程分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_volume"
   },
   {
     "english": "specific yield",
     "traditional_chinese": "給水度",
-    "definition_cht": "飽和土層或含水層在重力作用下可排出的水量占總體積的比例。",
+    "definition_cht": "無壓含水層或飽和土層在重力排水下可釋出之水量占總體積的比例，用以表示可實際排出的地下水份額。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific_yield"
   },
   {
     "english": "specific-volume anomaly",
     "traditional_chinese": "比容異常",
-    "definition_cht": "指與「比容異常」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "海洋學中指某海水樣本在同一壓力下的實際比容，相對於鹽度 35 psu、溫度 0°C 標準海水比容的差值，亦稱立體異常。",
     "source_url": "https://glossary.ametsoc.org/wiki/specific-volume_anomaly"
   },
   {
     "english": "Spectral density",
-    "traditional_chinese": "光譜密度",
-    "definition_cht": "指與「光譜密度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "譜密度",
+    "definition_cht": "描述訊號、時間序列或擾動變異量如何分布於各頻率或波數上的函數；其積分可對應特定頻帶內的能量、功率或變異。",
     "source_url": "https://glossary.ametsoc.org/wiki/Spectral_density"
   },
   {
     "english": "spectral diffusivity",
-    "traditional_chinese": "光譜擴散率",
-    "definition_cht": "指與「光譜擴散率」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "譜擴散率",
+    "definition_cht": "在譜空間表示的擴散係數，用以描述湍流或數值模式中各波數成分因混合作用而發生的擴散與耗散強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_diffusivity"
   },
   {
     "english": "spectral function",
     "traditional_chinese": "譜函數",
-    "definition_cht": "指與「譜函數」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "用以表示某物理量在頻率、波數或譜模態上分布特性的函數，可描述各模態的振幅、相位或能量貢獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_function"
   },
   {
     "english": "spectral gap",
-    "traditional_chinese": "光譜間隙",
-    "definition_cht": "指與「光譜間隙」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "譜隙",
+    "definition_cht": "傅立葉能譜中能量相對偏低的波數、波長或頻率帶，常用來區分大尺度平均運動與小尺度湍流擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_gap"
   },
   {
     "english": "spectral hygrometer",
-    "traditional_chinese": "光譜濕度計",
-    "definition_cht": "指與「光譜濕度計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "光譜吸收濕度計",
+    "definition_cht": "利用水氣吸收帶對特定電磁輻射的衰減程度來測定大氣水氣含量的濕度計，亦稱光學濕度計。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_hygrometer"
   },
   {
     "english": "spectral interval",
-    "traditional_chinese": "光譜間隔",
-    "definition_cht": "指與「光譜間隔」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "光譜區間",
+    "definition_cht": "電磁光譜中某一特定波段的寬度，通常以波長、波數或頻率表示，常用來描述感測器可量測的光譜範圍。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_interval"
   },
   {
     "english": "spectral irradiance",
     "traditional_chinese": "光譜輻照度",
-    "definition_cht": "單位波長或頻率區間上的輻照度分布。",
+    "definition_cht": "單位波長、波數或頻率區間內的輻照度，用以表示入射輻射能量隨光譜位置的分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_irradiance"
   },
   {
     "english": "spectral line",
     "traditional_chinese": "譜線",
-    "definition_cht": "指與「譜線」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "definition_cht": "連續光譜中因原子、分子吸收或放射特定波長輻射而形成的明線或暗線，可用於辨識物質成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_line"
   },
   {
     "english": "spectral method",
-    "traditional_chinese": "光譜法",
-    "definition_cht": "指用於分析、估算、觀測、計算或作業處理「光譜法」之方法、程序或技術。",
+    "traditional_chinese": "譜法",
+    "definition_cht": "求解微分方程的數值方法，將變數展開為一組正交基函數的級數，並把原方程轉換為各譜模態振幅的代數或常微分方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_method"
   },
   {
     "english": "spectral model",
-    "traditional_chinese": "光譜模型",
-    "definition_cht": "指模擬或描述「光譜模型」相關現象之概念模型、數值模式或理論架構。",
+    "traditional_chinese": "譜模式",
+    "definition_cht": "以有限個譜模態表示預報變數、而非直接在格點上表示場量的數值模式；大氣全球模式常以傅立葉模態或球諧函數展開。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_model"
   },
   {
     "english": "spectral numerical analysis",
-    "traditional_chinese": "光譜數值分析",
-    "definition_cht": "指與「光譜數值分析」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "譜數值分析",
+    "definition_cht": "將連續場表示為有限個譜模態總和的數值分析方法，用以在波數或球諧空間中近似與分析大氣或海洋場。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_numerical_analysis"
   },
   {
     "english": "spectral numerical prediction",
-    "traditional_chinese": "光譜數值預測",
-    "definition_cht": "指與「光譜數值預測」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "譜式數值預報",
+    "definition_cht": "利用譜模式進行的大氣數值預報方式，可由簡化淺水模式到含完整物理參數化的三維模式。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_numerical_prediction"
   },
   {
     "english": "spectral radiance",
     "traditional_chinese": "光譜輻亮度",
-    "definition_cht": "單位波長或頻率區間上的輻亮度分布。",
+    "definition_cht": "單位波長、波數或頻率區間內的輻亮度，用以表示輻射亮度隨光譜位置的分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_radiance"
   },
   {
     "english": "spectral similarity",
-    "traditional_chinese": "光譜相似度",
-    "definition_cht": "指與「光譜相似度」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "光譜相似性",
+    "definition_cht": "衡量兩條光譜在形狀、峰值位置與相對強度上相近程度的指標，常用於遙測、光譜比對與材料辨識。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_similarity"
   },
   {
     "english": "spectral transform model",
-    "traditional_chinese": "譜變換模型",
-    "definition_cht": "指模擬或描述「譜變換模型」相關現象之概念模型、數值模式或理論架構。",
+    "traditional_chinese": "譜變換模式",
+    "definition_cht": "一種譜模式，其控制方程中的非線性項先在物理空間計算，再轉回譜空間處理，因此每個時間步都需在兩種空間間往返變換。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectral_transform_model"
   },
   {
     "english": "spectrobolometer",
-    "traditional_chinese": "分光測輻射熱計",
-    "definition_cht": "指與「分光測輻射熱計」相關的氣象、海洋、水文、遙測、航空或地球科學專業術語；其內涵依專業語境可涉及物理過程、觀測量、環流結構、統計方法、儀器系統或環境現象。",
+    "traditional_chinese": "分光輻射熱計",
+    "definition_cht": "結合分光器與輻射熱計的儀器，用於測定不同波長上的輻射能量分布，特別適用於紅外光譜量測。",
     "source_url": "https://glossary.ametsoc.org/wiki/spectrobolometer"
   },
   {
