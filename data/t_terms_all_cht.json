@@ -241,122 +241,122 @@
   },
   {
     "english": "teardrop balloon",
-    "traditional_chinese": "淚珠氣球",
-    "definition_cht": "指與「淚珠氣球」相關的大氣觀測氣球平台、載具或其觀測作業。",
+    "traditional_chinese": "淚滴形氣球",
+    "definition_cht": "指呈淚滴狀外形的自由氣球或觀測氣球，常用於高空或追蹤觀測；其外形有助於降低阻力、提升飛行穩定性，並攜帶探空或其他量測設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/teardrop_balloon"
   },
   {
     "english": "teeth of the gale",
-    "traditional_chinese": "大風的牙齒",
-    "definition_cht": "指與「大風的牙齒」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "迎風方向",
+    "definition_cht": "古老航海用語，指風正吹來的方向，即上風處或迎風面；所謂 sail into the teeth of the gale，即指頂風或向上風方向航行。",
     "source_url": "https://glossary.ametsoc.org/wiki/teeth_of_the_gale"
   },
   {
     "english": "Tehuano",
-    "traditional_chinese": "特瓦諾",
-    "definition_cht": "指與「特瓦諾」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "特瓦諾風",
+    "definition_cht": "指墨西哥特萬特佩克地峽一帶吹向太平洋的強烈山口風或缺口風，通常由冷高壓南侵後的北至東北風經 Chivela Pass 加速而成，常見於冬半年。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tehuano"
   },
   {
     "english": "tehuantepecer",
-    "traditional_chinese": "特萬特佩塞爾",
-    "definition_cht": "指與「特萬特佩塞爾」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "特萬特佩克風",
+    "definition_cht": "指發生於墨西哥特萬特佩克地峽的強烈缺口風（gap wind），冷空氣自墨西哥灣側經 Chivela Pass 被地形導引並加速，向南吹入特萬特佩克灣與鄰近東太平洋海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/tehuantepecer"
   },
   {
     "english": "telecommunication",
     "traditional_chinese": "電信通訊",
-    "definition_cht": "指將觀測、通訊或控制訊號進行遠距傳送的電信技術或系統。",
+    "definition_cht": "指利用有線、無線或衛星等方式進行遠距訊息傳輸的通訊技術與系統；在氣象業務中常用於快速交換觀測資料、預報產品、警報與作業控制訊息。",
     "source_url": "https://glossary.ametsoc.org/wiki/telecommunication"
   },
   {
     "english": "teleconnection",
     "traditional_chinese": "遙相關",
-    "definition_cht": "相距甚遠的兩個或多個區域之大氣海洋異常彼此具有統計關聯的現象，是氣候診斷與季節預報的重要概念。",
+    "definition_cht": "指相隔很遠的兩個或多個區域之大氣或海氣異常之間存在穩定的統計關聯或環流連動現象，例如南方震盪、PNA 或 NAO，為氣候診斷與延伸期預報的重要概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/teleconnection"
   },
   {
     "english": "telegraphic equation",
     "traditional_chinese": "電報方程",
-    "definition_cht": "描述「電報方程」相關物理量、流動關係或診斷計算規則的方程式。",
+    "definition_cht": "又稱電報員方程，為一類二階偏微分方程，原用以描述電纜中的電壓與電流傳播；在地球流體力學中亦可用於表示旋轉流體中長重力波等訊號的傳播與衰減。",
     "source_url": "https://glossary.ametsoc.org/wiki/telegraphic_equation"
   },
   {
     "english": "telemetry",
     "traditional_chinese": "遙測",
-    "definition_cht": "將感測器量得的資料以無線或有線方式遠距傳送至接收端的技術。",
+    "definition_cht": "指在遠端自動量測並將資料傳回接收端的技術；在氣象、水文與環境監測中常用於傳送測站、探空、雨量站、浮標或遙測儀器的即時觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/telemetry"
   },
   {
     "english": "telephotometer",
-    "traditional_chinese": "遙光度計",
-    "definition_cht": "指與「遙光度計」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "遠距光度計",
+    "definition_cht": "指用於量測遠處目標亮度、輻射強度或光度特性的儀器，可應用於大氣光學、能見度、雲體亮度或其他遙距光學觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/telephotometer"
   },
   {
     "english": "telephotometry",
-    "traditional_chinese": "遙光度測定",
-    "definition_cht": "指與「遙光度測定」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "遠距光度測定",
+    "definition_cht": "指對遠處目標進行亮度、光度或輻射強度量測的技術與方法，常見於大氣光學、天文觀測及其他不需接觸目標的光學測定。",
     "source_url": "https://glossary.ametsoc.org/wiki/telephotometry"
   },
   {
     "english": "telethermometer",
-    "traditional_chinese": "遠端溫度計",
-    "definition_cht": "指與「遠端溫度計」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "遠傳溫度計",
+    "definition_cht": "指可在感測端量測溫度，並將數值傳送至遠端指示器、記錄器或控制端的溫度計，常用於無法就地讀值的觀測或工業環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/telethermometer"
   },
   {
     "english": "telethermoscope",
-    "traditional_chinese": "遠端測溫儀",
-    "definition_cht": "指與「遠端測溫儀」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "遠傳測溫儀",
+    "definition_cht": "指可將遠端溫度變化傳送至他處顯示或記錄的測溫裝置；相較於 telethermometer，其用途可更偏向溫度變化指示而不必然強調精密定量讀值。",
     "source_url": "https://glossary.ametsoc.org/wiki/telethermoscope"
   },
   {
     "english": "Television and Infrared Observation Satellite",
     "traditional_chinese": "電視與紅外觀測衛星",
-    "definition_cht": "指與「電視與紅外觀測衛星」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "即 TIROS，為早期氣象衛星系列名稱，搭載電視與後續紅外觀測設備，用於自太空觀測雲系與地球天氣現象，開啟近代作業氣象衛星觀測的先河。",
     "source_url": "https://glossary.ametsoc.org/wiki/Television_and_Infrared_Observation_Satellite"
   },
   {
     "english": "telluric lines",
-    "traditional_chinese": "大地線",
-    "definition_cht": "地球大氣吸收或發射所形成的光譜線，常出現在太陽或恆星光譜觀測中，可用於大氣成分分析與光譜校正。",
+    "traditional_chinese": "地球大氣譜線",
+    "definition_cht": "指地球大氣中的氣體成分對太陽光或恆星光所造成的吸收或發射譜線，常見於光譜觀測中，可用於大氣成分分析、波段校正與污染去除。",
     "source_url": "https://glossary.ametsoc.org/wiki/telluric_lines"
   },
   {
     "english": "TEMPAL code",
     "traditional_chinese": "TEMPAL 碼",
-    "definition_cht": "指與「TEMPAL 碼」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "指世界氣象組織以英數碼形式編報高空探空資料的 TEMP 類報文格式之一，用於交換無線電探空所得之氣溫、濕度、風與位勢高度等上空觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/TEMPAL_code"
   },
   {
     "english": "temperate belt",
     "traditional_chinese": "溫帶",
-    "definition_cht": "指沿特定緯度、地形或環境條件延伸的帶狀區域。",
+    "definition_cht": "指位於熱帶與寒帶之間的中緯度帶狀地帶，通常四季較分明，盛行西風帶與溫帶擾動對其天氣和氣候具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperate_belt"
   },
   {
     "english": "temperate climate",
     "traditional_chinese": "溫帶氣候",
-    "definition_cht": "四季較分明、年溫差與降水型態適中的中緯度氣候類型。",
+    "definition_cht": "指中緯度地區常見、冬夏差異明顯且年均溫與降水條件較為適中的氣候類型；其內部仍可再細分為海洋性、地中海型、濕潤副熱帶邊緣等多種亞型。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperate_climate"
   },
   {
     "english": "temperate glacier",
-    "traditional_chinese": "溫帶冰川",
-    "definition_cht": "指與「溫帶冰川」相關的冰川型態、熱力狀態或演變特徵。",
+    "traditional_chinese": "溫冰川",
+    "definition_cht": "指冰體幾乎全厚度都處於融點或接近融點的冰川，內部常含液態水，流動較快，並對滑動、融蝕與水文過程表現出明顯影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperate_glacier"
   },
   {
     "english": "temperate rain forest",
     "traditional_chinese": "溫帶雨林",
-    "definition_cht": "指與「溫帶雨林」相關的森林生態區或地表覆蓋類型，並與區域氣候及水文過程相互作用。",
+    "definition_cht": "指位於溫帶、全年或多季節降水豐富且空氣濕潤的森林生態系，常見於海洋性氣候區，與高濕環境、厚實植被及活躍水文循環密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperate_rain_forest"
   },
   {
     "english": "temperate rainy climate",
     "traditional_chinese": "溫帶多雨氣候",
-    "definition_cht": "指「溫帶多雨氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "指屬於溫帶、且全年或大部分季節降水相對充足的氣候型，通常缺乏顯著乾季，常見於受海洋影響較強的中緯度地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/temperate_rainy_climate"
   },
   {
