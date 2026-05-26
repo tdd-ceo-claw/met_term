@@ -19,122 +19,122 @@
   },
   {
     "english": "V''''g",
-    "traditional_chinese": "V''''g",
-    "definition_cht": "「V''''g」多用作方程式、向量、速度或座標系中的符號記號，用以表示特定物理量、分量或其轉換形式。",
+    "traditional_chinese": "地轉風速",
+    "definition_cht": "常作為符號 Vg 使用，指在科氏力與水平氣壓梯度力達平衡時所對應的理想水平風速；實際大氣近地面風通常會因摩擦而偏離。",
     "source_url": "https://glossary.ametsoc.org/wiki/V%27%27%27%27g"
   },
   {
     "english": "vacillation",
-    "traditional_chinese": "動搖",
-    "definition_cht": "指大氣或海洋系統在兩種或多種狀態間反覆擺動的現象，可表現為環流、振幅、路徑或強度的週期性變化。",
+    "traditional_chinese": "擺動",
+    "definition_cht": "指大氣、海洋或氣候系統在兩種或多種環流狀態間反覆轉換或來回振盪的現象，常用於描述指數、波列或環流型態的低頻變動。",
     "source_url": "https://glossary.ametsoc.org/wiki/vacillation"
   },
   {
     "english": "vacuum correction",
     "traditional_chinese": "真空校正",
-    "definition_cht": "指與「真空校正」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "對水銀氣壓計等量測所作的修正，用以補償管頂空間並非理想真空時，殘留氣體或蒸氣對讀值造成的偏差。",
     "source_url": "https://glossary.ametsoc.org/wiki/vacuum_correction"
   },
   {
     "english": "vacuum-tube electrometer",
     "traditional_chinese": "真空管靜電計",
-    "definition_cht": "指與「真空管靜電計」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "利用真空管高輸入阻抗來量測極微弱電位、電荷或電流的靈敏儀器，早期常用於大氣電學、輻射與其他微電訊號觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/vacuum-tube_electrometer"
   },
   {
     "english": "VAD",
     "traditional_chinese": "速度方位顯示",
-    "definition_cht": "「VAD」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "definition_cht": "Velocity Azimuth Display 的縮寫；利用都卜勒雷達在固定仰角上各方位的徑向速度分布，推估風向、風速與風場結構的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/VAD"
   },
   {
     "english": "VAD wind profile",
     "traditional_chinese": "VAD 風剖面",
-    "definition_cht": "指與「VAD 風剖面」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "由都卜勒雷達以速度方位顯示法推算出的垂直風剖面產品，可提供不同高度上的水平風向與風速。",
     "source_url": "https://glossary.ametsoc.org/wiki/VAD_wind_profile"
   },
   {
     "english": "vadose water",
-    "traditional_chinese": "滲流水",
-    "definition_cht": "指與「滲流水」相關的水體、水文量、水分收支、含水特性或海氣交互作用。",
+    "traditional_chinese": "包氣帶水",
+    "definition_cht": "存在於地下水位以上包氣帶中的水分，分布於土壤或岩層孔隙內，但未使孔隙完全飽和。",
     "source_url": "https://glossary.ametsoc.org/wiki/vadose_water"
   },
   {
     "english": "vadose zone",
-    "traditional_chinese": "滲流區",
-    "definition_cht": "指與「滲流區」相關的帶狀區域、作用區或環流分區。",
+    "traditional_chinese": "包氣帶",
+    "definition_cht": "位於地表與地下水位之間、孔隙內同時含有空氣與水分的未飽和帶；又稱非飽和帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/vadose_zone"
   },
   {
     "english": "valais wind",
     "traditional_chinese": "瓦萊風",
-    "definition_cht": "指與「瓦萊風」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "瑞士瓦萊（Valais）地區的地方性風名，指沿山谷受地形導引的區域風；其風向與冷暖性質會隨綜觀天氣形勢與谷地位置而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/valais_wind"
   },
   {
     "english": "validation",
     "traditional_chinese": "驗證",
-    "definition_cht": "指與「驗證」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "以獨立觀測、實驗資料或已知結果檢查模式、演算法、分析或產品是否足以反映真實狀況並符合預定用途的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/validation"
   },
   {
     "english": "valley glacier",
     "traditional_chinese": "山谷冰川",
-    "definition_cht": "指與「山谷冰川」相關的谷地地形或谷地氣象現象，常涉及局地風、冷空氣滯留與輻射冷卻效應。",
+    "definition_cht": "受山谷地形約束、沿谷地下滑的冰川，通常由上游積雪區補給，並在重力作用下順谷地流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/valley_glacier"
   },
   {
     "english": "valley storage",
-    "traditional_chinese": "山谷儲存",
-    "definition_cht": "指與「山谷儲存」相關的谷地地形或谷地氣象現象，常涉及局地風、冷空氣滯留與輻射冷卻效應。",
+    "traditional_chinese": "谷地蓄洪",
+    "definition_cht": "洪水通過河谷時，部分洪水暫時儲存在河道、洪氾平原或谷地低窪處的現象，可削減並延後下游洪峰。",
     "source_url": "https://glossary.ametsoc.org/wiki/valley_storage"
   },
   {
     "english": "valley wind",
     "traditional_chinese": "谷風",
-    "definition_cht": "指與「谷風」相關的谷地地形或谷地氣象現象，常涉及局地風、冷空氣滯留與輻射冷卻效應。",
+    "definition_cht": "白天因山坡受熱而產生、沿谷地向上游或向高處吹送的局地風；夜間通常轉為方向相反的山風。",
     "source_url": "https://glossary.ametsoc.org/wiki/valley_wind"
   },
   {
     "english": "Van der Waal's equation",
-    "traditional_chinese": "范德瓦爾方程",
-    "definition_cht": "指與「范德瓦爾方程」相關的移動觀測平台、車載量測設備或野外作業載具。",
+    "traditional_chinese": "范德瓦耳斯方程",
+    "definition_cht": "描述真實氣體狀態的方程式，透過分子體積與分子間吸引力修正理想氣體定律，以更合理表示高壓或接近凝結時的行為。",
     "source_url": "https://glossary.ametsoc.org/wiki/Van_der_Waal%27s_equation"
   },
   {
     "english": "Van't Hoff factor",
     "traditional_chinese": "范特霍夫因子",
-    "definition_cht": "指與「范特霍夫因子」相關的移動觀測平台、車載量測設備或野外作業載具。",
+    "definition_cht": "表示溶質溶解後實際形成粒子數對依化學式預期粒子數之比值的量，常用於滲透壓、凝固點下降與沸點上升等依數性計算。",
     "source_url": "https://glossary.ametsoc.org/wiki/Van%27t_Hoff_factor"
   },
   {
     "english": "vapor",
-    "traditional_chinese": "汽",
-    "definition_cht": "指與「汽」相關的水氣、蒸氣含量、相變過程或其熱力特性。",
+    "traditional_chinese": "蒸氣",
+    "definition_cht": "物質在低於其臨界溫度時所處的氣相狀態，可藉增壓而凝結；在氣象中若未特別指明，通常多指水蒸氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/vapor"
   },
   {
     "english": "vapor density",
     "traditional_chinese": "蒸氣密度",
-    "definition_cht": "指與「蒸氣密度」相關的水氣、蒸氣含量、相變過程或其熱力特性。",
+    "definition_cht": "單位體積內蒸氣所含的質量；對水蒸氣而言，可用以表示空氣中的實際水汽含量，與絕對濕度概念密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/vapor_density"
   },
   {
     "english": "vapor line",
-    "traditional_chinese": "蒸氣管線",
-    "definition_cht": "指與「蒸氣管線」相關的水氣、蒸氣含量、相變過程或其熱力特性。",
+    "traditional_chinese": "飽和蒸氣線",
+    "definition_cht": "在相圖或熱力圖上，連結各個飽和蒸氣狀態的曲線，通常構成液—氣兩相共存區右側邊界。",
     "source_url": "https://glossary.ametsoc.org/wiki/vapor_line"
   },
   {
     "english": "vapor pressure",
-    "traditional_chinese": "水氣壓",
-    "definition_cht": "指與「水氣壓」相關的水氣、蒸氣含量、相變過程或其熱力特性。",
+    "traditional_chinese": "蒸氣壓",
+    "definition_cht": "在封閉系統中，蒸氣與其液相或固相達熱力平衡時，蒸氣所施加的壓力；對水而言即水蒸氣壓，且隨溫度升高而增大。",
     "source_url": "https://glossary.ametsoc.org/wiki/vapor_pressure"
   },
   {
     "english": "vapor tension",
     "traditional_chinese": "蒸氣壓",
-    "definition_cht": "指與「蒸氣壓」相關的水氣、蒸氣含量、相變過程或其熱力特性。",
+    "definition_cht": "蒸氣壓的舊稱，指蒸氣與其凝結相達平衡時所施加的壓力；在氣象文獻中常用來指水蒸氣壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/vapor_tension"
   },
   {
