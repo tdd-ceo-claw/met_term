@@ -52532,121 +52532,121 @@
   {
     "english": "turbidimeter",
     "traditional_chinese": "濁度計",
-    "definition_cht": "指與「濁度計」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "用於測定液體中懸浮粒子所造成濁度的儀器，常以散射光或透射光法估算樣品的混濁程度，廣用於水質監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbidimeter"
   },
   {
     "english": "turbidity",
     "traditional_chinese": "濁度",
-    "definition_cht": "指介質因懸浮粒子造成混濁與消光的程度，常用於水體與大氣光學分析。",
+    "definition_cht": "指流體因懸浮微粒、膠體或其他雜質而呈現混濁、降低透光性的程度，常作為水體清澈度與水質的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbidity"
   },
   {
     "english": "turbidity factor",
-    "traditional_chinese": "濁度係數",
-    "definition_cht": "指介質因懸浮粒子造成混濁與消光的程度，常用於水體與大氣光學分析。",
+    "traditional_chinese": "濁度因子",
+    "definition_cht": "指表徵大氣或介質因氣膠、水汽或懸浮粒子而削弱輻射透過能力的參數；在太陽輻射研究中，常用以表示相對於潔淨乾燥大氣的混濁程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbidity_factor"
   },
   {
     "english": "turbidity maximum",
-    "traditional_chinese": "最大濁度",
-    "definition_cht": "指介質因懸浮粒子造成混濁與消光的程度，常用於水體與大氣光學分析。",
+    "traditional_chinese": "濁度極大區",
+    "definition_cht": "指河口或感潮河段中濁度最高的帶狀區域，通常由潮汐攪動、鹽淡水密度環流與底泥再懸浮共同形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbidity_maximum"
   },
   {
     "english": "turbonada",
-    "traditional_chinese": "渦輪納達",
-    "definition_cht": "指與「渦輪納達」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "Turbonada 強風暴",
+    "definition_cht": "指南美洲常用的地方性天氣術語，意指伴隨雷暴或飆線出現的突發性猛烈陣風風暴，常造成強風破壞，性質近似下擊暴流或內陸颮。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbonada"
   },
   {
     "english": "turbopause",
-    "traditional_chinese": "渦輪暫停",
-    "definition_cht": "指與「渦輪暫停」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "湍止層",
+    "definition_cht": "指行星大氣中由湍流混合作用主導轉為由分子擴散主導的高度界面，通常亦稱均質層頂（homopause）。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbopause"
   },
   {
     "english": "Turbosphere",
-    "traditional_chinese": "渦流層",
-    "definition_cht": "指與「渦流層」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "湍混層",
+    "definition_cht": "指大氣中位於湍止層以下、因湍流混合而使主要成分近於均勻分布的區域，通常近似於均質層。",
     "source_url": "https://glossary.ametsoc.org/wiki/Turbosphere"
   },
   {
     "english": "turbulence",
     "traditional_chinese": "湍流",
-    "definition_cht": "流體中速度、溫度或其他物理量呈現不規則脈動與強烈混合作用的流動狀態。",
+    "definition_cht": "指流體中速度、壓力、溫度等物理量呈不規則脈動，並伴隨多尺度渦旋與強烈混合作用的流動狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulence"
   },
   {
     "english": "turbulence closure",
     "traditional_chinese": "湍流閉合",
-    "definition_cht": "指與「湍流閉合」相關的亂流流動、擾動統計量或混合作用特徵。",
+    "definition_cht": "指在湍流方程組中，以參數化或近似關係表示未知高階統計量的處理方法，使平均流與湍流統計量方程得以封閉求解。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulence_closure"
   },
   {
     "english": "turbulence component",
     "traditional_chinese": "湍流分量",
-    "definition_cht": "指與「湍流分量」相關的亂流流動、擾動統計量或混合作用特徵。",
+    "definition_cht": "指構成湍流場的各方向擾動分量或其統計量，例如速度擾動的 u′、v′、w′ 分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulence_component"
   },
   {
     "english": "turbulence intensity",
     "traditional_chinese": "湍流強度",
-    "definition_cht": "指與「湍流強度」相關的亂流流動、擾動統計量或混合作用特徵。",
+    "definition_cht": "指流速擾動均方根相對於平均流速的大小，用以量化流場中湍流起伏的強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulence_intensity"
   },
   {
     "english": "turbulence kinetic energy",
     "traditional_chinese": "湍流動能",
-    "definition_cht": "由三向速度擾動所構成的單位質量平均動能，用於定量描述亂流強度。",
+    "definition_cht": "由三個方向速度擾動平方平均所構成的單位質量動能，用於描述湍流強度與機械混合能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulence_kinetic_energy"
   },
   {
     "english": "turbulence length scales",
     "traditional_chinese": "湍流長度尺度",
-    "definition_cht": "指與「湍流長度尺度」相關的亂流流動、擾動統計量或混合作用特徵。",
+    "definition_cht": "指表徵湍流渦旋典型尺寸的尺度量，常包含積分尺度、Taylor 微尺度與 Kolmogorov 尺度等。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulence_length_scales"
   },
   {
     "english": "turbulence spectrum",
     "traditional_chinese": "湍流譜",
-    "definition_cht": "指與「湍流譜」相關的亂流流動、擾動統計量或混合作用特徵。",
+    "definition_cht": "指將湍流能量或變異量依頻率或波數分配後所得的譜分布，用以描述不同尺度渦旋對湍流的貢獻。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulence_spectrum"
   },
   {
     "english": "turbulent boundary layer",
     "traditional_chinese": "湍流邊界層",
-    "definition_cht": "指與「湍流邊界層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "指貼近地表或固體邊界、其動量與熱量輸送主要受湍流渦動控制的邊界層。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulent_boundary_layer"
   },
   {
     "english": "turbulent diffusion",
     "traditional_chinese": "湍流擴散",
-    "definition_cht": "指具有亂流性質的流場、邊界層或輸送過程。",
+    "definition_cht": "指流體中物質、熱量或動量因湍流渦動混合而產生的有效擴散，其效率通常遠大於分子擴散。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulent_diffusion"
   },
   {
     "english": "turbulent flow",
-    "traditional_chinese": "湍流",
-    "definition_cht": "指具有亂流性質的流場、邊界層或輸送過程。",
+    "traditional_chinese": "湍流流動",
+    "definition_cht": "指以不規則速度脈動、多尺度渦旋與強烈混合作用為特徵的流動型態，與層流相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulent_flow"
   },
   {
     "english": "turbulent flux",
-    "traditional_chinese": "湍流",
-    "definition_cht": "指具有亂流性質的流場、邊界層或輸送過程。",
+    "traditional_chinese": "湍流通量",
+    "definition_cht": "指由湍流擾動造成的平均輸送通量，常以擾動量協方差表示，例如動量通量、感熱通量與水氣通量。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulent_flux"
   },
   {
     "english": "turbulent transport",
-    "traditional_chinese": "湍流運輸",
-    "definition_cht": "指與「湍流運輸」相關的物質、能量、動量或污染物輸送過程。",
+    "traditional_chinese": "湍流輸送",
+    "definition_cht": "指物質、熱量、動量或其他標量在湍流渦動作用下所發生的輸送與再分配過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/turbulent_transport"
   },
   {
     "english": "Turner angle",
-    "traditional_chinese": "轉角",
-    "definition_cht": "指與「轉角」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "特納角",
+    "definition_cht": "用於海洋雙重擴散研究的穩定度參數，由溫度與鹽度對密度梯度的相對貢獻定義，可判別水柱處於穩定、鹽指或擴散對流等狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/Turner_angle"
   },
   {
