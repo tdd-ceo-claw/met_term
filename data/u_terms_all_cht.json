@@ -121,122 +121,122 @@
   },
   {
     "english": "undermelting",
-    "traditional_chinese": "熔化不足",
-    "definition_cht": "指與「熔化不足」相關的下方結構、低估效應、下層流動或光學現象。",
+    "traditional_chinese": "底部融解",
+    "definition_cht": "指冰體自下方發生的融解作用，常用於描述冰棚、海冰或冰川底面受較暖海水或水體影響而自底部消融的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/undermelting"
   },
   {
     "english": "undisturbed motion",
-    "traditional_chinese": "不受干擾的運動",
-    "definition_cht": "指與「不受干擾的運動」相關的運動型態、運移過程或流體動力特徵。",
+    "traditional_chinese": "未受擾動運動",
+    "definition_cht": "在未引入任何擾動前，系統原有的穩態運動或本底運動狀態；常作為分析波動、擾動或不穩定發展時的基準流場。",
     "source_url": "https://glossary.ametsoc.org/wiki/undisturbed_motion"
   },
   {
     "english": "undular bore",
-    "traditional_chinese": "波浪狀孔",
-    "definition_cht": "指與「波浪狀孔」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "波狀躍波",
+    "definition_cht": "一種在穩定層結低層大氣中傳播的躍波，其後方伴隨一列振幅遞減的重力波；可由冷池外流、鋒面或海風觸發，並常伴隨條帶狀雲系。",
     "source_url": "https://glossary.ametsoc.org/wiki/undular_bore"
   },
   {
     "english": "undulatus",
-    "traditional_chinese": "波浪狀體",
-    "definition_cht": "指與「波浪狀體」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "波狀",
+    "definition_cht": "雲的變種之一，指雲片、雲層或雲帶呈規則起伏的波浪狀排列；常見於卷雲、高積雲、層積雲等，反映風切或波動作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/undulatus"
   },
   {
     "english": "unfiltered model",
-    "traditional_chinese": "未過濾模型",
-    "definition_cht": "指用於表示「未過濾模型」相關過程、結構或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "未過濾模式",
+    "definition_cht": "指在控制方程中保留流體系統全部動力模態的數值模式，不預先濾除重力波等快速振盪成分；相對於經濾波的近似模式而言。",
     "source_url": "https://glossary.ametsoc.org/wiki/unfiltered_model"
   },
   {
     "english": "unfreezing",
     "traditional_chinese": "解凍",
-    "definition_cht": "指與「解凍」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "凍結物質因吸熱而轉為未凍結狀態的過程，即冰、雪、凍土或凍結土壤發生融解與回復流動性的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/unfreezing"
   },
   {
     "english": "unidirectional vertical wind shear",
-    "traditional_chinese": "單向垂直風切",
-    "definition_cht": "指與「單向垂直風切」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "traditional_chinese": "單向垂直風切變",
+    "definition_cht": "指垂直風切向量隨高度改變其強度但方向大致不變的情況；在風跡圖（hodograph）上通常呈近直線，但不表示各層風向必然完全相同。",
     "source_url": "https://glossary.ametsoc.org/wiki/unidirectional_vertical_wind_shear"
   },
   {
     "english": "unifilar electrometer",
     "traditional_chinese": "單線靜電計",
-    "definition_cht": "指與「單線靜電計」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "一種靜電式靜電計，用於量測電位差或電荷效應；其敏感元件為單一細線或纖維的偏轉系統，曾用於大氣電學觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/unifilar_electrometer"
   },
   {
     "english": "uniform flow",
-    "traditional_chinese": "均勻流動",
-    "definition_cht": "指與「均勻流動」相關的流動型態、平均流場或輸送結構。",
+    "traditional_chinese": "均勻流",
+    "definition_cht": "開放水道或管流中，各流動特性如水深、平均流速等沿流程方向不隨距離改變的流況。",
     "source_url": "https://glossary.ametsoc.org/wiki/uniform_flow"
   },
   {
     "english": "uniform layer",
     "traditional_chinese": "均勻層",
-    "definition_cht": "指與「均勻層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "日間大氣邊界層中部的良好混合層，受對流熱泡造成的強烈湍流影響，使位溫、風速與污染物濃度在垂直方向上近於均勻；其位置大致介於地表層之上、夾卷層或頂蓋逆溫之下。",
     "source_url": "https://glossary.ametsoc.org/wiki/uniform_layer"
   },
   {
     "english": "unimodal spectrum",
-    "traditional_chinese": "單峰譜",
-    "definition_cht": "指與「單峰譜」相關的頻譜分布，用於分析能量、變異或尺度特徵。",
+    "traditional_chinese": "單峰頻譜",
+    "definition_cht": "在雷達都卜勒頻譜中僅具有一個主要峰值或模態的頻譜分布，表示回波速度成分主要集中於單一速度族群。",
     "source_url": "https://glossary.ametsoc.org/wiki/unimodal_spectrum"
   },
   {
     "english": "unit hydrograph",
-    "traditional_chinese": "單位過程線",
-    "definition_cht": "指流量、水位或逕流隨時間變化的歷線圖，用於水文分析。",
+    "traditional_chinese": "單位歷線",
+    "definition_cht": "流域內在指定歷時內，均勻分布的一單位有效降雨所造成之出口流量歷線；其體積依定義等於一單位逕流量，為流域線性響應函數的近似表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/unit_hydrograph"
   },
   {
     "english": "unit normal distribution",
-    "traditional_chinese": "單位常態分佈",
-    "definition_cht": "指與「單位常態分佈」相關的統計分布、空間分布或頻率配置。",
+    "traditional_chinese": "標準常態分布",
+    "definition_cht": "平均數為 0、標準差為 1 的常態分布，常記為 N(0,1)，為統計標準化與機率計算中的基本分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/unit_normal_distribution"
   },
   {
     "english": "unit storm",
-    "traditional_chinese": "單位風暴",
-    "definition_cht": "指與「單位風暴」相關的風暴、劇烈天氣系統或對流組織。",
+    "traditional_chinese": "單位暴雨",
+    "definition_cht": "指在整個集水區於指定歷時內，以均勻強度降下的一單位淨雨深；常作為推導單位歷線的理想化降雨輸入。",
     "source_url": "https://glossary.ametsoc.org/wiki/unit_storm"
   },
   {
     "english": "United States Coast Pilot",
-    "traditional_chinese": "美國海岸飛行員",
-    "definition_cht": "指與「美國海岸飛行員」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "美國海岸航海指南",
+    "definition_cht": "美國國家海洋暨大氣總署出版的一系列航海參考書，補充海圖未易呈現的資訊，包括航行規定、地標、航道與錨地特性、危險區、天氣、海冰、海流及港口設施等。",
     "source_url": "https://glossary.ametsoc.org/wiki/United_States_Coast_Pilot"
   },
   {
     "english": "universal functions",
-    "traditional_chinese": "通用函數",
-    "definition_cht": "指與「通用函數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "普適函數",
+    "definition_cht": "在 Monin–Obukhov 相似理論中，用以描述無因次風切、溫度梯度等量與穩定度參數之關係的函數，可用於近地層湍流通量與剖面的參數化。",
     "source_url": "https://glossary.ametsoc.org/wiki/universal_functions"
   },
   {
     "english": "universal rain gauge",
     "traditional_chinese": "通用雨量計",
-    "definition_cht": "指與「通用雨量計」相關的降雨、雨量或降水過程。",
+    "definition_cht": "一種稱重式雨量計，將集水容器中降水重量換算為降水深度，並以時鐘驅動的記錄裝置連續描記其隨時間的變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/universal_rain_gauge"
   },
   {
     "english": "universal time",
-    "traditional_chinese": "世界時間",
-    "definition_cht": "以地球自轉為基準的標準時間系統，現代作業常以協調世界時加以實現。",
+    "traditional_chinese": "世界時",
+    "definition_cht": "以地球自轉為基準的時間系統，形式上由與格林威治平恆星時相關的數學關係定義；依應用可指 UT0、UT1，或泛指現代作業常用之協調世界時（UTC）。",
     "source_url": "https://glossary.ametsoc.org/wiki/universal_time"
   },
   {
     "english": "universe",
-    "traditional_chinese": "宇宙",
-    "definition_cht": "指與「宇宙」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "母體",
+    "definition_cht": "在統計學中，指研究對象的全體集合，亦即抽樣所欲代表的全部個體或事件；在本詞條中 universe 與 population 同義。",
     "source_url": "https://glossary.ametsoc.org/wiki/universe"
   },
   {
     "english": "unlimited ceiling",
-    "traditional_chinese": "無限上限",
-    "definition_cht": "指最低重要雲層底高或對航空作業具限制性的雲底高度條件。",
+    "traditional_chinese": "無限制雲幕高度",
+    "definition_cht": "航空氣象中指不存在可報告雲幕（ceiling）的情況，例如總雲量未達規定門檻、透明雲覆蓋過多，或地面遮蔽僅屬部分遮蔽且上方無破碎雲或密雲時。",
     "source_url": "https://glossary.ametsoc.org/wiki/unlimited_ceiling"
   },
   {
