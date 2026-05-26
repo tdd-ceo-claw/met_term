@@ -2282,121 +2282,121 @@
   {
     "english": "triple point",
     "traditional_chinese": "三相點",
-    "definition_cht": "指與「三相點」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "某一物質之固、液、氣三相能同時共存且維持熱力平衡時所對應的唯一溫度與壓力點，位於相圖上三條相界線交會處。",
     "source_url": "https://glossary.ametsoc.org/wiki/triple_point"
   },
   {
     "english": "triple scalar product",
-    "traditional_chinese": "三重標量積",
-    "definition_cht": "指與「三重標量積」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "純量三重積",
+    "definition_cht": "三個三維向量的組合運算，通常寫為 a·(b×c)，其值等於以三向量為邊所成平行六面體的有向體積；在流體與地球物理中可用於表示體積、方向性與座標變換關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/triple_scalar_product"
   },
   {
     "english": "triple state",
-    "traditional_chinese": "三態",
-    "definition_cht": "指與「三態」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "三相態",
+    "definition_cht": "指某物質同時以固態、液態與氣態共存的熱力狀態；通常對應於三相點所代表的平衡狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/triple_state"
   },
   {
     "english": "triple-Doppler analysis",
-    "traditional_chinese": "三重多普勒分析",
-    "definition_cht": "指與「三重多普勒分析」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "三重都卜勒分析",
+    "definition_cht": "利用三部不同位置的都卜勒雷達徑向速度資料，反演風暴或降水系統三維風場結構的方法，可較雙都卜勒分析提供更完整的風場約束。",
     "source_url": "https://glossary.ametsoc.org/wiki/triple-Doppler_analysis"
   },
   {
     "english": "tritium",
     "traditional_chinese": "氚",
-    "definition_cht": "指與「氚」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "氫的放射性同位素，原子核含一個質子與兩個中子，半衰期約 12.3 年；在水文與海洋學中常作為示蹤劑，用於研究地下水、海水或降水的來源、混合與停留時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/tritium"
   },
   {
     "english": "TRMM",
-    "traditional_chinese": "TRMM",
-    "definition_cht": "「TRMM」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "熱帶降雨測量任務",
+    "definition_cht": "美國 NASA 與日本 JAXA 共同執行的熱帶降雨測量衛星任務（Tropical Rainfall Measuring Mission），1997 至 2015 年間提供熱帶與副熱帶降水、雲水與風暴結構的重要遙測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/TRMM"
   },
   {
     "english": "tromba",
-    "traditional_chinese": "特龍巴",
-    "definition_cht": "指與「特龍巴」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "龍捲／水龍捲",
+    "definition_cht": "源自義大利語的地方性稱呼，通常指龍捲風或水龍捲，尤常用於地中海與歐洲文獻中的漏斗狀旋風現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/tromba"
   },
   {
     "english": "Tropic of Cancer",
-    "traditional_chinese": "北迴歸線",
-    "definition_cht": "指與「北迴歸線」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "北回歸線",
+    "definition_cht": "地球上太陽在北半球夏至正午可直射的最北緯線，約位於北緯 23.4°，為熱帶北界的重要天文與氣候分界。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tropic_of_Cancer"
   },
   {
     "english": "Tropic of Capricorn",
-    "traditional_chinese": "南迴歸線",
-    "definition_cht": "指與「南迴歸線」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "南回歸線",
+    "definition_cht": "地球上太陽在北半球冬至（南半球夏至）正午可直射的最南緯線，約位於南緯 23.4°，為熱帶南界的重要天文與氣候分界。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tropic_of_Capricorn"
   },
   {
     "english": "tropic tide",
-    "traditional_chinese": "熱帶潮汐",
-    "definition_cht": "指與「熱帶潮汐」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "回歸潮",
+    "definition_cht": "當月球赤緯接近其最北或最南位置時所出現、日潮不等現象特別明顯的潮汐；常表現為高高潮更高、低低潮更低。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropic_tide"
   },
   {
     "english": "tropical air",
     "traditional_chinese": "熱帶空氣",
-    "definition_cht": "指與「熱帶空氣」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "definition_cht": "形成於低緯暖熱地區的氣團或空氣性質，特徵為溫暖至高溫；其濕度高低則依生成區位於海洋或大陸而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_air"
   },
   {
     "english": "tropical climate",
     "traditional_chinese": "熱帶氣候",
-    "definition_cht": "指「熱帶氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "柯本氣候分類中的 A 類氣候，最冷月平均氣溫通常仍在 18°C 以上，全年暖熱，降水常豐沛並多呈乾、濕季分明。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_climate"
   },
   {
     "english": "tropical continental air",
-    "traditional_chinese": "熱帶大陸空氣",
-    "definition_cht": "指與「熱帶大陸空氣」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "traditional_chinese": "熱帶大陸氣團",
+    "definition_cht": "生成於低緯大陸地區的熱帶氣團，特徵為高溫、乾燥且常較不穩定；常以 cT（continental tropical）表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_continental_air"
   },
   {
     "english": "tropical cyclone",
     "traditional_chinese": "熱帶氣旋",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "definition_cht": "生成於暖海面上的暖心低壓渦旋系統，具有封閉近地面環流、深對流與強風；依海域與強度可稱為颶風、颱風、熱帶風暴或熱帶低氣壓。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_cyclone"
   },
   {
     "english": "Tropical cyclone seed",
-    "traditional_chinese": "熱帶氣旋種子",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "traditional_chinese": "熱帶氣旋種子擾動",
+    "definition_cht": "可進一步發展為熱帶氣旋的初始擾動或前身渦旋，通常為具有持續對流與低層旋轉跡象的波動、季風低壓或中尺度渦旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tropical_cyclone_seed"
   },
   {
     "english": "tropical cyclone twins",
-    "traditional_chinese": "熱帶氣旋雙胞胎",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "traditional_chinese": "雙熱帶氣旋",
+    "definition_cht": "彼此距離接近、同時存在並發生交互作用的一對熱帶氣旋；其運動常受藤原效應影響而互繞、接近，甚至合併。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_cyclone_twins"
   },
   {
     "english": "tropical depression",
     "traditional_chinese": "熱帶低氣壓",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "definition_cht": "熱帶氣旋的初級強度等級，具封閉地面環流與組織化對流，但最大持續風速尚未達熱帶風暴標準。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_depression"
   },
   {
     "english": "tropical disturbance",
     "traditional_chinese": "熱帶擾動",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "definition_cht": "熱帶地區具有組織化對流、非鋒面性質且可持續一段時間的擾動系統，可能伴隨弱旋轉，並可能進一步發展為熱帶低氣壓或更強的熱帶氣旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_disturbance"
   },
   {
     "english": "tropical easterlies",
     "traditional_chinese": "熱帶東風",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "definition_cht": "熱帶與近赤道地區盛行的由東向西氣流，主要包括信風帶內的東風，並常作為熱帶擾動與熱帶氣旋移動的重要導引氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_easterlies"
   },
   {
     "english": "tropical maritime air",
-    "traditional_chinese": "熱帶海洋空氣",
-    "definition_cht": "指與「熱帶海洋空氣」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "traditional_chinese": "熱帶海洋氣團",
+    "definition_cht": "生成於低緯暖海面的熱帶氣團，特徵為溫暖、潮濕且水氣豐富；常以 mT（maritime tropical）表示，易帶來雲量、對流與降雨。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_maritime_air"
   },
   {
