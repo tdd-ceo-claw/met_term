@@ -52052,121 +52052,121 @@
   {
     "english": "transpiration ratio",
     "traditional_chinese": "蒸騰比",
-    "definition_cht": "指「蒸騰比」所代表的比值量，用於描述兩項物理量或統計量之相對關係。",
+    "definition_cht": "植物在一定生長期間內，蒸騰失去的水量與所生成乾物質重量之比值，常用以表示植物用水效率。",
     "source_url": "https://glossary.ametsoc.org/wiki/transpiration_ratio"
   },
   {
     "english": "transponder",
     "traditional_chinese": "應答器",
-    "definition_cht": "指與「應答器」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "definition_cht": "接收到詢問或入射訊號後，會自動回送特定回應訊號的電子裝置；常用於雷達、遙測、航空與衛星通訊系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/transponder"
   },
   {
     "english": "transport",
-    "traditional_chinese": "運輸",
-    "definition_cht": "指與「運輸」相關的物質、能量、動量或污染物輸送過程。",
+    "traditional_chinese": "輸送",
+    "definition_cht": "流體中某種物理量（如質量、熱量、水氣、動量或污染物）隨流動而由一處移往另一處的過程；在氣象上常指平流或總通量輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/transport"
   },
   {
     "english": "transport processes",
-    "traditional_chinese": "運輸過程",
-    "definition_cht": "指與「運輸過程」相關的物質、能量、動量或污染物輸送過程。",
+    "traditional_chinese": "輸送過程",
+    "definition_cht": "使質量、熱量、動量或其他物質在介質中移動的各種機制，包含平流、擴散、湍流混合等。",
     "source_url": "https://glossary.ametsoc.org/wiki/transport_processes"
   },
   {
     "english": "transverse cirrus banding",
     "traditional_chinese": "橫向卷雲帶",
-    "definition_cht": "指與「橫向卷雲帶」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "definition_cht": "嵌入高空氣流中、且走向大致與主流垂直的一系列卷雲條帶，常見於衛星影像；其出現常指示高空強風切或中度至嚴重亂流。",
     "source_url": "https://glossary.ametsoc.org/wiki/transverse_cirrus_banding"
   },
   {
     "english": "transverse velocity",
     "traditional_chinese": "橫向速度",
-    "definition_cht": "指與「橫向速度」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "definition_cht": "相對於指定方向或視線方向的垂直分量速度；在遙測、天文與流體力學中常用以區分徑向速度。",
     "source_url": "https://glossary.ametsoc.org/wiki/transverse_velocity"
   },
   {
     "english": "transverse wave",
     "traditional_chinese": "橫波",
-    "definition_cht": "指與「橫波」相關的波動、擾動或傳播現象，可發生於大氣、海洋或電磁系統。",
+    "definition_cht": "介質振動方向與波傳播方向互相垂直的波動；與粒子振動方向平行於傳播方向的縱波相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/transverse_wave"
   },
   {
     "english": "travel time",
-    "traditional_chinese": "旅行時間",
-    "definition_cht": "指與「旅行時間」相關的時間系統、時間尺度或時制概念。",
+    "traditional_chinese": "傳遞時間",
+    "definition_cht": "在水文上指洪波或水流自一地點傳至下游另一地點所需的時間；廣義上亦可指訊號、粒子或擾動沿路徑傳播所需時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/travel_time"
   },
   {
     "english": "traveling ionospheric disturbances",
     "traditional_chinese": "移動電離層擾動",
-    "definition_cht": "指與「移動電離層擾動」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在電離層中傳播的波狀電子密度擾動，常與大氣重力波、焦耳加熱或地磁擾動有關，並可能影響無線電傳播與 GNSS 定位。",
     "source_url": "https://glossary.ametsoc.org/wiki/traveling_ionospheric_disturbances"
   },
   {
     "english": "traveling wave tube",
     "traditional_chinese": "行波管",
-    "definition_cht": "指與「行波管」相關的波動、擾動或傳播現象，可發生於大氣、海洋或電磁系統。",
+    "definition_cht": "利用電子束與沿慢波結構傳播之微波互相作用來放大射頻訊號的真空電子元件，常用於雷達、衛星通訊與微波系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/traveling_wave_tube"
   },
   {
     "english": "traverse",
-    "traditional_chinese": "遍歷",
-    "definition_cht": "指與「遍歷」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "橫越測線",
+    "definition_cht": "指穿越某區域、鋒面、風暴或觀測場而進行的路線、測線或其橫越行動；常用於船舶、飛機或地面調查之觀測作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/traverse"
   },
   {
     "english": "traversia",
-    "traditional_chinese": "特拉韋西亞",
-    "definition_cht": "指與「特拉韋西亞」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "特拉韋西亞風",
+    "definition_cht": "地方性風名，指義大利熱那亞灣一帶自東北或偏東方向吹向海面的乾冷離岸風，屬地中海沿岸的區域性風系稱呼。",
     "source_url": "https://glossary.ametsoc.org/wiki/traversia"
   },
   {
     "english": "traversier",
-    "traditional_chinese": "穿越者",
-    "definition_cht": "指與「穿越者」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "特拉韋西耶風",
+    "definition_cht": "法國南部與地中海沿岸的地方性風名，通常指橫越谷地或海岸吹襲的側向強風；實際風向與性質會隨地方用法而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/traversier"
   },
   {
     "english": "tree climate",
     "traditional_chinese": "樹木氣候",
-    "definition_cht": "指「樹木氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "由樹木群體所造成或顯著調節的局部氣候環境，包含林冠對輻射、風、溫度與濕度條件的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/tree_climate"
   },
   {
     "english": "tree line",
     "traditional_chinese": "樹線",
-    "definition_cht": "指與「樹線」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "樹木得以自然生長的上限或極限邊界，常出現在高山或高緯地區；超出此界後因低溫、強風或生長季過短而難以成樹。",
     "source_url": "https://glossary.ametsoc.org/wiki/tree_line"
   },
   {
     "english": "tree ring",
-    "traditional_chinese": "樹環",
-    "definition_cht": "指與「樹環」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "樹輪",
+    "definition_cht": "樹木年生長所形成的環狀木質層，可用於判定樹齡，並作為重建過去氣候與環境變化的重要資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/tree_ring"
   },
   {
     "english": "trend line",
     "traditional_chinese": "趨勢線",
-    "definition_cht": "指與「趨勢線」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "在資料圖或時間序列中，用以表示整體增減趨勢的線；可由平滑、回歸或趨勢估計方法求得。",
     "source_url": "https://glossary.ametsoc.org/wiki/trend_line"
   },
   {
     "english": "triboelectrification",
     "traditional_chinese": "摩擦起電",
-    "definition_cht": "指與「摩擦起電」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "兩物體接觸、摩擦或分離時發生電荷轉移而帶電的現象；在沙塵、火山灰、降水粒子與雷暴電化過程中皆可能出現。",
     "source_url": "https://glossary.ametsoc.org/wiki/triboelectrification"
   },
   {
     "english": "tributary",
     "traditional_chinese": "支流",
-    "definition_cht": "指與「支流」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "匯入較大河川、湖泊或主幹水道的較小水流，本身通常不直接注入海洋。",
     "source_url": "https://glossary.ametsoc.org/wiki/tributary"
   },
   {
     "english": "triple correlation",
     "traditional_chinese": "三重相關",
-    "definition_cht": "指與「三重相關」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "描述某一變數與其兩個獨立位移或延遲副本乘積之相關性的三階相關量；在湍流統計中可用以表徵三階矩與能量傳遞特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/triple_correlation"
   },
   {
