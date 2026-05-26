@@ -1,0 +1,859 @@
+{
+  "u index": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 78908
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "Russell 1000 Index",
+            "pageid": 1457808,
+            "size": 80492,
+            "wordcount": 255,
+            "snippet": "The Russell 1000 <span class=\"searchmatch\">Index</span> is a <span class=\"searchmatch\">U</span>.S. stock market <span class=\"searchmatch\">index</span> that tracks the largest 1,000 stocks in the Russell 3000 <span class=\"searchmatch\">Index</span>, which represent about 93% of the total",
+            "timestamp": "2026-05-24T04:37:23Z"
+          },
+          {
+            "ns": 0,
+            "title": "U.S. Dollar Index",
+            "pageid": 11611969,
+            "size": 24443,
+            "wordcount": 1147,
+            "snippet": "The <span class=\"searchmatch\">U</span>.S. Dollar <span class=\"searchmatch\">Index</span> (USDX, DXY, DX, or, informally, the &quot;Dixie&quot;) is an <span class=\"searchmatch\">index</span> (or measure) of the value of the United States dollar relative to a basket",
+            "timestamp": "2026-04-20T03:11:07Z"
+          },
+          {
+            "ns": 0,
+            "title": "Henley Passport Index",
+            "pageid": 49531252,
+            "size": 141163,
+            "wordcount": 2416,
+            "snippet": "<span class=\"searchmatch\">index</span> was created by Christian Kälin and launched in 2005 as Henley &amp; Partners Visa Restrictions <span class=\"searchmatch\">Index</span>. Its name was changed to Henley Passport <span class=\"searchmatch\">Index</span>",
+            "timestamp": "2026-05-21T04:01:21Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "standard",
+      "title": "Russell 1000 Index",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Russell 1000 Index</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q921581",
+      "titles": {
+        "canonical": "Russell_1000_Index",
+        "normalized": "Russell 1000 Index",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Russell 1000 Index</span></span>"
+      },
+      "pageid": 1457808,
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1355833065",
+      "tid": "41d64475-572a-11f1-8217-9748631f2563",
+      "timestamp": "2026-05-24T04:37:23Z",
+      "description": "U.S. large-cap stock market index",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/Russell_1000_Index",
+          "revisions": "https://en.wikipedia.org/wiki/Russell_1000_Index?action=history",
+          "edit": "https://en.wikipedia.org/wiki/Russell_1000_Index?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Russell_1000_Index"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/Russell_1000_Index",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/Russell_1000_Index",
+          "edit": "https://en.wikipedia.org/wiki/Russell_1000_Index?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Russell_1000_Index"
+        }
+      },
+      "extract": "The Russell 1000 Index is a U.S. stock market index that tracks the largest 1,000 stocks in the Russell 3000 Index, which represent about 93% of the total market capitalization of that index. The index is market cap weighted, meaning larger companies have a greater influence on the index than smaller companies.",
+      "extract_html": "<p>The <b>Russell 1000 Index</b> is a U.S. stock market index that tracks the largest 1,000 stocks in the Russell 3000 Index, which represent about 93% of the total market capitalization of that index. The index is market cap weighted, meaning larger companies have a greater influence on the index than smaller companies.</p>"
+    },
+    "ddg": []
+  },
+  "U.S. airways code": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 3124
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "US Airways",
+            "pageid": 291315,
+            "size": 110574,
+            "wordcount": 10874,
+            "snippet": "Airlines Jet <span class=\"searchmatch\">Airways</span> Shenzhen Airlines South African <span class=\"searchmatch\">Airways</span> TAP Portugal Turkish Airlines <span class=\"searchmatch\">US</span> <span class=\"searchmatch\">Airways</span>&#039; airport lounge was called the <span class=\"searchmatch\">US</span> <span class=\"searchmatch\">Airways</span> Club. There",
+            "timestamp": "2026-05-15T03:06:06Z"
+          },
+          {
+            "ns": 0,
+            "title": "US Airways Express",
+            "pageid": 291360,
+            "size": 17581,
+            "wordcount": 1164,
+            "snippet": "<span class=\"searchmatch\">US</span> <span class=\"searchmatch\">Airways</span> Express was the brand name for the regional affiliate of <span class=\"searchmatch\">US</span> <span class=\"searchmatch\">Airways</span>, under which a number of individually owned commuter air carriers and regional",
+            "timestamp": "2026-04-25T13:07:28Z"
+          },
+          {
+            "ns": 0,
+            "title": "US Airways Flight 1549",
+            "pageid": 21110342,
+            "size": 88359,
+            "wordcount": 7227,
+            "snippet": "<span class=\"searchmatch\">US</span> <span class=\"searchmatch\">Airways</span> Flight 1549 was a regularly scheduled <span class=\"searchmatch\">US</span> <span class=\"searchmatch\">Airways</span> flight from New York City&#039;s LaGuardia Airport to Charlotte and Seattle, in the United States",
+            "timestamp": "2026-05-20T09:11:54Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "standard",
+      "title": "US Airways",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">US Airways</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q208046",
+      "titles": {
+        "canonical": "US_Airways",
+        "normalized": "US Airways",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">US Airways</span></span>"
+      },
+      "pageid": 291315,
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boeing_767-201%28ER%29%2C_US_Airways_JP7088690.jpg/330px-Boeing_767-201%28ER%29%2C_US_Airways_JP7088690.jpg",
+        "width": 330,
+        "height": 223
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Boeing_767-201%28ER%29%2C_US_Airways_JP7088690.jpg",
+        "width": 1200,
+        "height": 810
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1354232036",
+      "tid": "0392a36f-500b-11f1-9e08-65776a6b9b53",
+      "timestamp": "2026-05-15T03:06:06Z",
+      "description": "Defunct airline of the United States (1939–2015)",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/US_Airways",
+          "revisions": "https://en.wikipedia.org/wiki/US_Airways?action=history",
+          "edit": "https://en.wikipedia.org/wiki/US_Airways?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:US_Airways"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/US_Airways",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/US_Airways",
+          "edit": "https://en.wikipedia.org/wiki/US_Airways?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:US_Airways"
+        }
+      },
+      "extract": "US Airways was a major airline originally founded in Pittsburgh, Pennsylvania, as a mail delivery airline in 1939 called All American Aviation, which soon became a commercial passenger airline. In 1953, it was renamed Allegheny Airlines and operated under that name for a quarter-century. In October 1979, after the enactment of the Airline Deregulation Act, Allegheny Airlines changed its name to USAir. A decade later it had acquired Piedmont Airlines and Pacific Southwest Airlines (PSA), and was one of the United States' seven transcontinental legacy carriers. In 1997, it rebranded as US Airways.",
+      "extract_html": "<p><b>US Airways</b> was a major airline originally founded in Pittsburgh, Pennsylvania, as a mail delivery airline in 1939 called All American Aviation, which soon became a commercial passenger airline. In 1953, it was renamed Allegheny Airlines and operated under that name for a quarter-century. In October 1979, after the enactment of the Airline Deregulation Act, Allegheny Airlines changed its name to USAir. A decade later it had acquired Piedmont Airlines and Pacific Southwest Airlines (PSA), and was one of the United States' seven transcontinental legacy carriers. In 1997, it rebranded as US Airways.</p>"
+    },
+    "ddg": []
+  },
+  "uala-andhi": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "query": {
+        "searchinfo": {
+          "totalhits": 0,
+          "suggestion": "uaap and i",
+          "suggestionsnippet": "<em>uaap and i</em>"
+        },
+        "search": []
+      }
+    },
+    "wiki_error": "list index out of range",
+    "ddg": []
+  },
+  "UARS": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 1210,
+          "suggestion": "uart",
+          "suggestionsnippet": "uart"
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "UARS",
+            "pageid": 759567,
+            "size": 556,
+            "wordcount": 78,
+            "snippet": "<span class=\"searchmatch\">UARS</span> may refer to: Upper Atmosphere Research Satellite, an orbital observatory whose mission was to study the Earth&#039;s atmosphere, particularly the protective",
+            "timestamp": "2021-08-30T21:48:57Z"
+          },
+          {
+            "ns": 0,
+            "title": "Uar Bernard",
+            "pageid": 82864884,
+            "size": 7711,
+            "wordcount": 539,
+            "snippet": "<span class=\"searchmatch\">Uar</span> Bernard (/ˈu.ɑːr/ OO-ar) is a Nigerian professional football defensive tackle for the Philadelphia Eagles of the National Football League (NFL). He",
+            "timestamp": "2026-05-24T23:17:21Z"
+          },
+          {
+            "ns": 0,
+            "title": "United Arab Republic",
+            "pageid": 44895,
+            "size": 39406,
+            "wordcount": 3507,
+            "snippet": "The United Arab Republic (<span class=\"searchmatch\">UAR</span>; Arabic: الجمهورية العربية المتحدة, romanized: al-Jumhūriyya al-ʿArabiyya al-Muttaḥida) was a sovereign state in the Middle",
+            "timestamp": "2026-05-18T01:21:08Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "disambiguation",
+      "title": "UARS",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">UARS</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q2466470",
+      "titles": {
+        "canonical": "UARS",
+        "normalized": "UARS",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">UARS</span></span>"
+      },
+      "pageid": 759567,
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1041500375",
+      "tid": "13b92dcd-09dc-11ec-88e5-fdc571e388bd",
+      "timestamp": "2021-08-30T21:48:57Z",
+      "description": "Topics referred to by the same term",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/UARS",
+          "revisions": "https://en.wikipedia.org/wiki/UARS?action=history",
+          "edit": "https://en.wikipedia.org/wiki/UARS?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:UARS"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/UARS",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/UARS",
+          "edit": "https://en.wikipedia.org/wiki/UARS?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:UARS"
+        }
+      },
+      "extract": "UARS may refer to:Upper Atmosphere Research Satellite, an orbital observatory whose mission was to study the Earth's atmosphere, particularly the protective ozone layer, and which crashed on Earth in 2011\nUpper airway resistance syndrome, a sleep disorder characterized by airway resistance to breathing during sleep",
+      "extract_html": "<p><b>UARS</b> may refer to:</p><ul><li>Upper Atmosphere Research Satellite, an orbital observatory whose mission was to study the Earth's atmosphere, particularly the protective ozone layer, and which crashed on Earth in 2011</li>\n<li>Upper airway resistance syndrome, a sleep disorder characterized by airway resistance to breathing during sleep</li></ul>"
+    },
+    "ddg": []
+  },
+  "ubac": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 165,
+          "suggestion": "cuba",
+          "suggestionsnippet": "cuba"
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "Ubac",
+            "pageid": 65771177,
+            "size": 508,
+            "wordcount": 74,
+            "snippet": "destination page. Please notify the good-faith creator and any main contributors of the redirect by placing {{subst:Rfd notice|<span class=\"searchmatch\">Ubac</span>}} ~~~~ on their talk page.",
+            "timestamp": "2026-05-14T04:06:12Z"
+          },
+          {
+            "ns": 0,
+            "title": "Raoul Ubac",
+            "pageid": 11320240,
+            "size": 2648,
+            "wordcount": 230,
+            "snippet": "Raoul <span class=\"searchmatch\">Ubac</span> (31 August 1910, Cologne – 22 March 1985, Dieudonne, Oise) was a French painter, sculptor, photographer and engraver. He had various and irregular",
+            "timestamp": "2026-05-09T10:28:41Z"
+          },
+          {
+            "ns": 0,
+            "title": "Union for Bradford and Bingley Staff and Associated Companies",
+            "pageid": 27598980,
+            "size": 1300,
+            "wordcount": 113,
+            "snippet": "The Union for Bradford and Bingley Staff and Associated Companies (<span class=\"searchmatch\">UBAC</span>) was a trade union in the United Kingdom. The union was founded in 1977 as the",
+            "timestamp": "2022-04-20T01:44:24Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "standard",
+      "title": "Ubac",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ubac</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "titles": {
+        "canonical": "Ubac",
+        "normalized": "Ubac",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ubac</span></span>"
+      },
+      "pageid": 65771177,
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1354074999",
+      "tid": "3e80d508-4f4a-11f1-9d52-21e138c96872",
+      "timestamp": "2026-05-14T04:06:12Z",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/Ubac",
+          "revisions": "https://en.wikipedia.org/wiki/Ubac?action=history",
+          "edit": "https://en.wikipedia.org/wiki/Ubac?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Ubac"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/Ubac",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/Ubac",
+          "edit": "https://en.wikipedia.org/wiki/Ubac?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Ubac"
+        }
+      },
+      "extract": "",
+      "extract_html": ""
+    },
+    "ddg": []
+  },
+  "UHF": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 6750,
+          "suggestion": "hf",
+          "suggestionsnippet": "hf"
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "Ultra high frequency",
+            "pageid": 160501,
+            "size": 28807,
+            "wordcount": 3099,
+            "snippet": "Ultra high frequency (<span class=\"searchmatch\">UHF</span>) is the ITU designation for radio frequencies in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as",
+            "timestamp": "2026-04-20T23:41:48Z"
+          },
+          {
+            "ns": 0,
+            "title": "UHF (disambiguation)",
+            "pageid": 3570734,
+            "size": 1519,
+            "wordcount": 214,
+            "snippet": "<span class=\"searchmatch\">UHF</span> generally refers to &quot;Ultra high frequency&quot;, a radio frequency range. <span class=\"searchmatch\">UHF</span> may also refer to: <span class=\"searchmatch\">UHF</span> television broadcasting, the use of the <span class=\"searchmatch\">UHF</span> frequency",
+            "timestamp": "2023-03-03T23:10:07Z"
+          },
+          {
+            "ns": 0,
+            "title": "UHF (film)",
+            "pageid": 390867,
+            "size": 27525,
+            "wordcount": 3515,
+            "snippet": "<span class=\"searchmatch\">UHF</span> (released internationally as The Vidiot from <span class=\"searchmatch\">UHF</span>) is a 1989 American comedy film starring &quot;Weird Al&quot; Yankovic, David Bowe, Fran Drescher, Victoria",
+            "timestamp": "2026-05-02T21:32:50Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "standard",
+      "title": "Ultra high frequency",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ultra high frequency</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q628096",
+      "titles": {
+        "canonical": "Ultra_high_frequency",
+        "normalized": "Ultra high frequency",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ultra high frequency</span></span>"
+      },
+      "pageid": 160501,
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/UHF_TV_Antenna_001.JPG/330px-UHF_TV_Antenna_001.JPG",
+        "width": 330,
+        "height": 132
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/UHF_TV_Antenna_001.JPG",
+        "width": 1000,
+        "height": 400
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1350254180",
+      "tid": "7f524804-3d12-11f1-a4c5-c0bb537a917f",
+      "timestamp": "2026-04-20T23:41:48Z",
+      "description": "Electromagnetic spectrum 300–3000 MHz",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/Ultra_high_frequency",
+          "revisions": "https://en.wikipedia.org/wiki/Ultra_high_frequency?action=history",
+          "edit": "https://en.wikipedia.org/wiki/Ultra_high_frequency?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Ultra_high_frequency"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/Ultra_high_frequency",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/Ultra_high_frequency",
+          "edit": "https://en.wikipedia.org/wiki/Ultra_high_frequency?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Ultra_high_frequency"
+        }
+      },
+      "extract": "Ultra high frequency (UHF) is the ITU designation for radio frequencies in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as the decimetre band as the wavelengths range from one meter to one tenth of a meter. Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF or lower bands.",
+      "extract_html": "<p><b>Ultra high frequency</b> (<b>UHF</b>) is the ITU designation for radio frequencies in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as the <b>decimetre band</b> as the wavelengths range from one meter to one tenth of a meter. Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF or lower bands.</p>"
+    },
+    "ddg": []
+  },
+  "Ulloa's ring": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 181,
+          "suggestion": "ulloa ring",
+          "suggestionsnippet": "<em>ulloa</em> ring"
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "Fog bow",
+            "pageid": 3964619,
+            "size": 4171,
+            "wordcount": 429,
+            "snippet": "348–361. H. Mohn (February 23, 1888) &quot;Letters to Nature: The fog bow and <span class=\"searchmatch\">Ulloa&#039;s</span> <span class=\"searchmatch\">ring</span>,&quot; Nature, 37: 391–392. James C. McConnel (March 22, 1888) &quot;Letters to",
+            "timestamp": "2025-09-30T01:04:08Z"
+          },
+          {
+            "ns": 0,
+            "title": "Antonio de Ulloa",
+            "pageid": 192411,
+            "size": 37638,
+            "wordcount": 4094,
+            "snippet": " The reports of <span class=\"searchmatch\">Ulloa&#039;s</span> scientific findings during his time in South America earned him an international reputation. Notably, <span class=\"searchmatch\">Ulloa</span> published the first",
+            "timestamp": "2026-04-24T14:12:47Z"
+          },
+          {
+            "ns": 0,
+            "title": "Glory (optical phenomenon)",
+            "pageid": 252572,
+            "size": 15544,
+            "wordcount": 1713,
+            "snippet": "heads. This was then called &quot;<span class=\"searchmatch\">Ulloa&#039;s</span> halo&quot; or &quot;Bouguer&#039;s halo&quot;. <span class=\"searchmatch\">Ulloa</span> reported that the glories were surrounded by a larger <span class=\"searchmatch\">ring</span> of white light, which would",
+            "timestamp": "2026-02-04T03:38:30Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "standard",
+      "title": "Fog bow",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fog bow</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q843333",
+      "titles": {
+        "canonical": "Fog_bow",
+        "normalized": "Fog bow",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fog bow</span></span>"
+      },
+      "pageid": 3964619,
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fog_bow_over_a_field.jpg/330px-Fog_bow_over_a_field.jpg",
+        "width": 330,
+        "height": 220
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fog_bow_over_a_field.jpg/3840px-Fog_bow_over_a_field.jpg",
+        "width": 5184,
+        "height": 3456
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1314157184",
+      "tid": "5def3421-9d99-11f0-b919-7a6d4b7a8b8a",
+      "timestamp": "2025-09-30T01:04:08Z",
+      "description": "Type of rainbow formed by fog droplets",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/Fog_bow",
+          "revisions": "https://en.wikipedia.org/wiki/Fog_bow?action=history",
+          "edit": "https://en.wikipedia.org/wiki/Fog_bow?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Fog_bow"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/Fog_bow",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/Fog_bow",
+          "edit": "https://en.wikipedia.org/wiki/Fog_bow?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Fog_bow"
+        }
+      },
+      "extract": "A fog bow, sometimes called a white rainbow, is a phenomenon similar to a rainbow; however, as its name suggests, it appears as a bow in fog rather than rain. Because of the very small size of water droplets that cause fog—smaller than 0.05 millimeters (0.0020 in)—the fog bow has only very weak colors, with a red outer edge and bluish inner edge. The colors fade due to being smeared out by the diffraction effect of the smaller droplets.",
+      "extract_html": "<p>A <b>fog bow</b>, sometimes called a <b>white rainbow</b>, is a phenomenon similar to a rainbow; however, as its name suggests, it appears as a bow in fog rather than rain. Because of the very small size of water droplets that cause fog—smaller than 0.05 millimeters (0.0020 in)—the fog bow has only very weak colors, with a red outer edge and bluish inner edge. The colors fade due to being smeared out by the diffraction effect of the smaller droplets.</p>"
+    },
+    "ddg": []
+  },
+  "ultimate infiltration capacity": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 174
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "Surface runoff",
+            "pageid": 4400374,
+            "size": 42127,
+            "wordcount": 5306,
+            "snippet": "water moisture affects the soil&#039;s <span class=\"searchmatch\">infiltration</span> <span class=\"searchmatch\">capacity</span>. During the next rainfall event, the <span class=\"searchmatch\">infiltration</span> <span class=\"searchmatch\">capacity</span> will cause the soil to be saturated",
+            "timestamp": "2026-03-02T06:20:41Z"
+          },
+          {
+            "ns": 0,
+            "title": "The Sovereign Individual",
+            "pageid": 70578078,
+            "size": 12906,
+            "wordcount": 1368,
+            "snippet": "facilitate the realization of autonomy by individuals will be subject to <span class=\"searchmatch\">infiltration</span>, sabotage, and disruption. Arbitrary forfeiture of property, already",
+            "timestamp": "2026-03-30T11:03:58Z"
+          },
+          {
+            "ns": 0,
+            "title": "Svalbard Global Seed Vault",
+            "pageid": 3720467,
+            "size": 50490,
+            "wordcount": 4349,
+            "snippet": "Retrieved 3 July 2011. Walsh, Bryan (27 February 2009). &quot;The Planet&#039;s <span class=\"searchmatch\">Ultimate</span> Backup Plan: Svalbard&quot;. Time. Retrieved 1 March 2009. &quot;ARS ships more seeds",
+            "timestamp": "2026-05-20T11:32:16Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "standard",
+      "title": "Surface runoff",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Surface runoff</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q1444790",
+      "titles": {
+        "canonical": "Surface_runoff",
+        "normalized": "Surface runoff",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Surface runoff</span></span>"
+      },
+      "pageid": 4400374,
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Runoff.jpg",
+        "width": 224,
+        "height": 328
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Runoff.jpg",
+        "width": 224,
+        "height": 328
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1341265261",
+      "tid": "efd8c2b7-15ff-11f1-acc5-08c367a66a58",
+      "timestamp": "2026-03-02T06:20:41Z",
+      "description": "Flow of excess rainwater not infiltrating in the ground over its surface",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/Surface_runoff",
+          "revisions": "https://en.wikipedia.org/wiki/Surface_runoff?action=history",
+          "edit": "https://en.wikipedia.org/wiki/Surface_runoff?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Surface_runoff"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/Surface_runoff",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/Surface_runoff",
+          "edit": "https://en.wikipedia.org/wiki/Surface_runoff?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Surface_runoff"
+        }
+      },
+      "extract": "Surface runoff is the unconfined flow of water over the ground surface, in contrast to channel runoff. It occurs when excess rainwater, stormwater, meltwater, or other sources, can no longer sufficiently rapidly infiltrate into the soil. This can occur when the soil is saturated by water to its full capacity, and the rain arrives more quickly than the soil can absorb it. Surface runoff often occurs because impervious areas do not allow water to soak into the ground. Furthermore, runoff can occur either through natural or human-made processes.",
+      "extract_html": "<p><b>Surface runoff</b> is the unconfined flow of water over the ground surface, in contrast to <i>channel runoff</i>. It occurs when excess rainwater, stormwater, meltwater, or other sources, can no longer sufficiently rapidly infiltrate into the soil. This can occur when the soil is <span class=\"mw-selflink-fragment\">saturated</span> by water to its full capacity, and the rain arrives <span class=\"mw-selflink-fragment\">more quickly than the soil can absorb</span> it. Surface runoff often occurs because <span class=\"extiw\">impervious</span> areas do not allow water to soak into the ground. Furthermore, runoff can occur either through natural or human-made processes.</p>"
+    },
+    "ddg": []
+  },
+  "ultra high frequency": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 3369
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "Ultra high frequency",
+            "pageid": 160501,
+            "size": 28807,
+            "wordcount": 3099,
+            "snippet": "<span class=\"searchmatch\">Ultra</span> <span class=\"searchmatch\">high</span> <span class=\"searchmatch\">frequency</span> (UHF) is the ITU designation for radio <span class=\"searchmatch\">frequencies</span> in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as",
+            "timestamp": "2026-04-20T23:41:48Z"
+          },
+          {
+            "ns": 0,
+            "title": "Very high frequency",
+            "pageid": 69480,
+            "size": 25167,
+            "wordcount": 2877,
+            "snippet": "one meter. <span class=\"searchmatch\">Frequencies</span> immediately below VHF are denoted <span class=\"searchmatch\">high</span> <span class=\"searchmatch\">frequency</span> (HF), and the next higher <span class=\"searchmatch\">frequencies</span> are known as <span class=\"searchmatch\">ultra</span> <span class=\"searchmatch\">high</span> <span class=\"searchmatch\">frequency</span> (UHF). VHF",
+            "timestamp": "2026-05-08T09:13:37Z"
+          },
+          {
+            "ns": 0,
+            "title": "Ultra High Frequency (band)",
+            "pageid": 7429861,
+            "size": 3573,
+            "wordcount": 374,
+            "snippet": "<span class=\"searchmatch\">Ultra</span> <span class=\"searchmatch\">High</span> <span class=\"searchmatch\">Frequency</span> was a Long Island, New York based alternative rock band. Formed in 2001 by Frank Fussa (vocals / guitar), Jonny Brown (guitar / vocals)",
+            "timestamp": "2026-02-27T04:44:58Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "standard",
+      "title": "Ultra high frequency",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ultra high frequency</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q628096",
+      "titles": {
+        "canonical": "Ultra_high_frequency",
+        "normalized": "Ultra high frequency",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ultra high frequency</span></span>"
+      },
+      "pageid": 160501,
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/UHF_TV_Antenna_001.JPG/330px-UHF_TV_Antenna_001.JPG",
+        "width": 330,
+        "height": 132
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/UHF_TV_Antenna_001.JPG",
+        "width": 1000,
+        "height": 400
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1350254180",
+      "tid": "7f524804-3d12-11f1-a4c5-c0bb537a917f",
+      "timestamp": "2026-04-20T23:41:48Z",
+      "description": "Electromagnetic spectrum 300–3000 MHz",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/Ultra_high_frequency",
+          "revisions": "https://en.wikipedia.org/wiki/Ultra_high_frequency?action=history",
+          "edit": "https://en.wikipedia.org/wiki/Ultra_high_frequency?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Ultra_high_frequency"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/Ultra_high_frequency",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/Ultra_high_frequency",
+          "edit": "https://en.wikipedia.org/wiki/Ultra_high_frequency?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Ultra_high_frequency"
+        }
+      },
+      "extract": "Ultra high frequency (UHF) is the ITU designation for radio frequencies in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as the decimetre band as the wavelengths range from one meter to one tenth of a meter. Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF or lower bands.",
+      "extract_html": "<p><b>Ultra high frequency</b> (<b>UHF</b>) is the ITU designation for radio frequencies in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as the <b>decimetre band</b> as the wavelengths range from one meter to one tenth of a meter. Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF or lower bands.</p>"
+    },
+    "ddg": []
+  },
+  "ultrafine particles": {
+    "wiki_search": {
+      "batchcomplete": "",
+      "continue": {
+        "sroffset": 3,
+        "continue": "-||"
+      },
+      "query": {
+        "searchinfo": {
+          "totalhits": 179
+        },
+        "search": [
+          {
+            "ns": 0,
+            "title": "Ultrafine particle",
+            "pageid": 16422485,
+            "size": 27386,
+            "wordcount": 2591,
+            "snippet": "<span class=\"searchmatch\">Ultrafine</span> <span class=\"searchmatch\">particles</span> (UFPs) are particulate matter of nanoscale size (less than 0.1 μm or 100 nm in diameter). Regulations do not exist for this size class",
+            "timestamp": "2026-02-08T09:54:09Z"
+          },
+          {
+            "ns": 0,
+            "title": "Particulate matter",
+            "pageid": 30876688,
+            "size": 340885,
+            "wordcount": 33388,
+            "snippet": "10 micrometers (μm) or less; fine <span class=\"searchmatch\">particles</span>, designated PM2.5, with a diameter of 2.5 μm or less; <span class=\"searchmatch\">ultrafine</span> <span class=\"searchmatch\">particles</span>, PM.10 with a diameter of 100 nanometers",
+            "timestamp": "2026-05-16T01:07:32Z"
+          },
+          {
+            "ns": 0,
+            "title": "Nanoparticle",
+            "pageid": 1234517,
+            "size": 132371,
+            "wordcount": 13395,
+            "snippet": "nanoparticle or <span class=\"searchmatch\">ultrafine</span> <span class=\"searchmatch\">particle</span> is a <span class=\"searchmatch\">particle</span> of matter 1 to 100 nanometres (nm) in diameter. The term is sometimes used for larger <span class=\"searchmatch\">particles</span>, up to 500 nm",
+            "timestamp": "2026-05-19T16:29:52Z"
+          }
+        ]
+      }
+    },
+    "wiki_summary": {
+      "type": "standard",
+      "title": "Ultrafine particle",
+      "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ultrafine particle</span></span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q7880535",
+      "titles": {
+        "canonical": "Ultrafine_particle",
+        "normalized": "Ultrafine particle",
+        "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ultrafine particle</span></span>"
+      },
+      "pageid": 16422485,
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1337254416",
+      "tid": "1cebf68d-04d4-11f1-98a1-370c1870bdd7",
+      "timestamp": "2026-02-08T09:54:09Z",
+      "description": "Particulate matter under 100 nm in diameter",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/Ultrafine_particle",
+          "revisions": "https://en.wikipedia.org/wiki/Ultrafine_particle?action=history",
+          "edit": "https://en.wikipedia.org/wiki/Ultrafine_particle?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Ultrafine_particle"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/Ultrafine_particle",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/Ultrafine_particle",
+          "edit": "https://en.wikipedia.org/wiki/Ultrafine_particle?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Ultrafine_particle"
+        }
+      },
+      "extract": "Ultrafine particles (UFPs) are particulate matter of nanoscale size (less than 0.1 μm or 100 nm in diameter). Regulations do not exist for this size class of ambient air pollution particles, which are far smaller than the regulated PM10 and PM2.5 particle classes and are believed to have several more aggressive health implications than those classes of larger particulates per unit mass.\nAlthough they remain largely unregulated, the World Health Organization has published good practice statements regarding measuring UFPs.",
+      "extract_html": "<p><b>Ultrafine particles</b> (<b>UFPs</b>) are particulate matter of nanoscale size (less than 0.1 μm or 100 nm in diameter). Regulations do not exist for this size class of ambient air pollution particles, which are far smaller than the regulated <span>PM<sub>10</sub></span> and <span>PM<sub>2.5</sub></span> particle classes and are believed to have several more aggressive health implications than those classes of larger particulates per unit mass.\nAlthough they remain largely unregulated, the World Health Organization has published good practice statements regarding measuring UFPs.</p>"
+    },
+    "ddg": []
+  },
+  "ultrasonic": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "ultraviolet": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "ultraviolet radiation": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "Umkehr effect": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "uncertainty": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "uncinus": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "unconfined aquifer": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "undamped oscillation": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "undercast": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  },
+  "undercurrent": {
+    "wiki_error": "HTTP Error 429: Too Many Requests",
+    "ddg": []
+  }
+}

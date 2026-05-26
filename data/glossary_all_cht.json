@@ -52760,121 +52760,121 @@
   {
     "english": "u index",
     "traditional_chinese": "u 指數",
-    "definition_cht": "以風場東西向分量（u 分量）或其差值建構的診斷指標，用於表徵環流、風切或振盪位相；實際算法依資料集而異。",
+    "definition_cht": "以風場東西向分量（u 分量）為基礎建立的診斷指標，用於描述大尺度環流、風切變或振盪位相；其確切定義與計算方式依資料集與研究目的而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/u_index"
   },
   {
     "english": "U.S. airways code",
     "traditional_chinese": "美國航路代碼",
-    "definition_cht": "美國航空導航與航空氣象作業中用來識別國內航路的代碼系統，例如低空 Victor 航路與高空 Jet 航路的路線編號。",
+    "definition_cht": "美國航空導航與航空氣象作業中用於識別國內航路的代碼系統，常見如低空 Victor 航路與高空 Jet 航路的路線編號。",
     "source_url": "https://glossary.ametsoc.org/wiki/U.S._airways_code"
   },
   {
     "english": "uala-andhi",
-    "traditional_chinese": "烏拉安迪",
-    "definition_cht": "指與「烏拉安迪」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "烏拉安地",
+    "definition_cht": "印度北部一帶對強陣風型塵暴或沙塵暴的地方名稱，通常伴隨突發強風、揚沙、能見度驟降，有時並夾帶雷暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/uala-andhi"
   },
   {
     "english": "UARS",
     "traditional_chinese": "高層大氣研究衛星",
-    "definition_cht": "美國用於研究高層大氣化學、輻射與動力過程的人造衛星任務。",
+    "definition_cht": "Upper Atmosphere Research Satellite 的縮寫，為美國用於觀測平流層與中氣層之化學、輻射與動力過程的地球觀測衛星。",
     "source_url": "https://glossary.ametsoc.org/wiki/UARS"
   },
   {
     "english": "ubac",
-    "traditional_chinese": "烏巴克",
-    "definition_cht": "指與「烏巴克」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "背陰坡",
+    "definition_cht": "山地地形中背向日照、較陰冷潮濕的一側山坡；在氣候、積雪與植被分布研究中，常與向陽坡相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/ubac"
   },
   {
     "english": "UHF",
     "traditional_chinese": "超高頻",
-    "definition_cht": "頻率介於甚高頻與特高頻之間的電磁波段，常用於雷達、通訊與遙測系統。",
+    "definition_cht": "ultra high frequency 的縮寫，指頻率介於 300 MHz 至 3 GHz 的無線電波段，常用於雷達、通訊與遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/UHF"
   },
   {
     "english": "Ulloa's ring",
     "traditional_chinese": "烏略亞環",
-    "definition_cht": "在雲霧或濕潤大氣中由光散射形成的環狀光學現象。",
+    "definition_cht": "與霧虹或榮光相關的大氣光象，指在雲霧微小水滴中因散射與繞射形成的淡白色環狀光帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/Ulloa%27s_ring"
   },
   {
     "english": "ultimate infiltration capacity",
-    "traditional_chinese": "極限滲透能力",
-    "definition_cht": "在既定土壤與地表條件下，經長時間降雨後所趨近的穩定最大入滲能力。",
+    "traditional_chinese": "極限入滲能力",
+    "definition_cht": "在一定土壤與地表條件下，降雨持續足夠長時間後，入滲率所趨近的穩定值或最終入滲能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/ultimate_infiltration_capacity"
   },
   {
     "english": "ultra high frequency",
     "traditional_chinese": "超高頻",
-    "definition_cht": "指與「超高頻」相關之極高頻、極細粒徑或超高強度等特徵的專業術語。",
+    "definition_cht": "指頻率介於 300 MHz 至 3 GHz 的電磁波頻帶，波長約為 1 公尺至 10 公分，常應用於無線通訊、雷達與遙測。",
     "source_url": "https://glossary.ametsoc.org/wiki/ultra_high_frequency"
   },
   {
     "english": "ultrafine particles",
     "traditional_chinese": "超細顆粒",
-    "definition_cht": "粒徑極小、通常小於 0.1 微米的氣膠粒子，對空氣品質、能見度與健康影響研究十分重要。",
+    "definition_cht": "粒徑小於 0.1 微米（100 奈米）的懸浮微粒，屬極細氣膠，對空氣品質、輻射作用、雲凝結過程與健康影響研究皆重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/ultrafine_particles"
   },
   {
     "english": "ultrasonic",
-    "traditional_chinese": "超音波",
-    "definition_cht": "指與「超音波」相關之極高頻、極細粒徑或超高強度等特徵的專業術語。",
+    "traditional_chinese": "超音波的",
+    "definition_cht": "指頻率高於人耳可聽範圍上限（約 20 kHz）的聲波或其相關技術；在氣象儀器中常見於超音波風速計。",
     "source_url": "https://glossary.ametsoc.org/wiki/ultrasonic"
   },
   {
     "english": "ultraviolet",
-    "traditional_chinese": "紫外線",
-    "definition_cht": "波長短於可見光紫端的電磁輻射，常用於輻射、生物效應與大氣光化學研究。",
+    "traditional_chinese": "紫外線的",
+    "definition_cht": "指波長短於可見光紫端而長於 X 射線的電磁輻射性質，常用於描述輻射波段、感測器或光化學作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/ultraviolet"
   },
   {
     "english": "ultraviolet radiation",
     "traditional_chinese": "紫外線輻射",
-    "definition_cht": "指與「紫外線輻射」相關的輻射能量、通量、收支或傳輸過程。",
+    "definition_cht": "波長約介於 10 至 400 奈米之間的電磁輻射；在大氣科學中常討論其與臭氧吸收、光化學反應及生物效應之關聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/ultraviolet_radiation"
   },
   {
     "english": "Umkehr effect",
     "traditional_chinese": "烏姆克爾效應",
-    "definition_cht": "指由特定作用機制造成的「烏姆克爾效應」現象或影響結果。",
+    "definition_cht": "利用天頂天空紫外輻射隨太陽天頂角變化時出現的反轉特徵，推估平流層臭氧垂直分布的光學效應與觀測方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/Umkehr_effect"
   },
   {
     "english": "uncertainty",
-    "traditional_chinese": "不確定",
-    "definition_cht": "指與「不確定」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "不確定度",
+    "definition_cht": "指觀測、估計或模式結果可能偏離真值的程度，來源可包括量測誤差、抽樣不足、參數化假設及初始條件的不完備。",
     "source_url": "https://glossary.ametsoc.org/wiki/uncertainty"
   },
   {
     "english": "uncinus",
-    "traditional_chinese": "鉤毛",
-    "definition_cht": "指與「鉤毛」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "鉤狀卷雲",
+    "definition_cht": "雲學上指頂端彎曲如鉤或馬尾的卷雲形態，常見於高空強風與冰晶外展環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/uncinus"
   },
   {
     "english": "unconfined aquifer",
     "traditional_chinese": "無承壓含水層",
-    "definition_cht": "指可儲存並傳導地下水的含水層或相關水文地質單元。",
+    "definition_cht": "上部無明顯不透水層覆蓋、其上界為地下水位面的含水層，會直接受降水入滲與蒸發散影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/unconfined_aquifer"
   },
   {
     "english": "undamped oscillation",
     "traditional_chinese": "無阻尼振盪",
-    "definition_cht": "指與「無阻尼振盪」相關的振盪現象或變率型態，用於描述系統的週期性或準週期性變化。",
+    "definition_cht": "在理想條件下振幅不隨時間衰減的週期性振動，用以描述未受能量耗散影響的振盪系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/undamped_oscillation"
   },
   {
     "english": "undercast",
-    "traditional_chinese": "陰暗的",
-    "definition_cht": "指與「陰暗的」相關的下方結構、低估效應、下層流動或光學現象。",
+    "traditional_chinese": "下覆雲層",
+    "definition_cht": "航空氣象用語，指由飛機上方向下所見覆蓋下方地面的連續雲層或霧層。",
     "source_url": "https://glossary.ametsoc.org/wiki/undercast"
   },
   {
     "english": "undercurrent",
-    "traditional_chinese": "暗流",
-    "definition_cht": "指與「暗流」相關的下方結構、低估效應、下層流動或光學現象。",
+    "traditional_chinese": "下層流",
+    "definition_cht": "位於主表層流之下、沿特定方向流動的次表層水流；常用於海洋與湖泊環流描述。",
     "source_url": "https://glossary.ametsoc.org/wiki/undercurrent"
   },
   {
