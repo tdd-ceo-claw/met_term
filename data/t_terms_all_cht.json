@@ -2761,110 +2761,110 @@
   },
   {
     "english": "turning latitude",
-    "traditional_chinese": "轉彎緯度",
-    "definition_cht": "指與「轉彎緯度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "轉向緯度",
+    "definition_cht": "在大氣或海洋運動中，粒子、氣塊或水團因科氏力與背景流場作用而開始明顯轉向時所對應的特徵緯度。",
     "source_url": "https://glossary.ametsoc.org/wiki/turning_latitude"
   },
   {
     "english": "TVS",
-    "traditional_chinese": "TVS",
-    "definition_cht": "「TVS」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "龍捲渦旋特徵",
+    "definition_cht": "Tornado Vortex Signature 的縮寫，指都卜勒天氣雷達上與龍捲風或其前驅渦旋相關的強烈旋轉速度特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/TVS"
   },
   {
     "english": "TWERLE",
-    "traditional_chinese": "特維爾",
-    "definition_cht": "「TWERLE」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "熱帶風能轉換與參考層實驗",
+    "definition_cht": "Tropical Wind Energy Conversion and Reference Level Experiment 的縮寫，為研究熱帶大氣風場、能量轉換與參考層結構的國際觀測實驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/TWERLE"
   },
   {
     "english": "twilight",
-    "traditional_chinese": "暮",
-    "definition_cht": "指與「暮」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "曙暮光",
+    "definition_cht": "指太陽位於地平線下時，大氣散射仍使天空保持一定亮度的時段，通常分為民用、航海與天文曙暮光。",
     "source_url": "https://glossary.ametsoc.org/wiki/twilight"
   },
   {
     "english": "twilight correction",
-    "traditional_chinese": "暮光校正",
-    "definition_cht": "指與「暮光校正」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "曙暮光改正",
+    "definition_cht": "對日出、日落或天文觀測時刻所施加的修正，用以考量太陽位於地平線下時曙暮光仍造成可見照明的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/twilight_correction"
   },
   {
     "english": "twilight glow",
-    "traditional_chinese": "暮光之城",
-    "definition_cht": "指與「暮光之城」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "暮光輝",
+    "definition_cht": "太陽位於地平線下時，因高層大氣散射與反射作用而在地平附近或天空中出現的柔和輝光。",
     "source_url": "https://glossary.ametsoc.org/wiki/twilight_glow"
   },
   {
     "english": "twin-gauge station",
-    "traditional_chinese": "雙軌站",
-    "definition_cht": "指用於量測「雙軌站」相關量值的雨量器、計量器或監測裝置。",
+    "traditional_chinese": "雙儀測站",
+    "definition_cht": "在同一觀測站內設置兩具雨量計、水位計或其他同類儀器，以便交叉比對、校驗與提高觀測資料可靠度的測站。",
     "source_url": "https://glossary.ametsoc.org/wiki/twin-gauge_station"
   },
   {
     "english": "twister",
     "traditional_chinese": "龍捲風",
-    "definition_cht": "指與「龍捲風」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "龍捲風的通俗稱呼，指由強烈旋轉上升氣流形成、與積雨雲相連並向地面延伸的猛烈渦旋。",
     "source_url": "https://glossary.ametsoc.org/wiki/twister"
   },
   {
     "english": "twisting term",
-    "traditional_chinese": "扭曲術語",
-    "definition_cht": "指與「扭曲術語」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "扭轉項",
+    "definition_cht": "在渦度或流體運動方程中，描述渦管受流場扭轉或傾轉作用而改變渦度方向與強度的項。",
     "source_url": "https://glossary.ametsoc.org/wiki/twisting_term"
   },
   {
     "english": "two stream",
-    "traditional_chinese": "兩流",
-    "definition_cht": "指與「兩流」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "雙流近似",
+    "definition_cht": "在輻射傳輸理論中，將輻射通量簡化為向上與向下兩個方向處理的近似方法，用於估算大氣或水體中的吸收與散射。",
     "source_url": "https://glossary.ametsoc.org/wiki/two_stream"
   },
   {
     "english": "two-dimensional model",
-    "traditional_chinese": "二維模型",
-    "definition_cht": "指用於表示「二維模型」相關過程、結構或變量關係的理論、概念或數值模式。",
+    "traditional_chinese": "二維模式",
+    "definition_cht": "僅在兩個空間維度上描述物理場或流動結構的理論或數值模式，常用於簡化大氣、海洋與水文問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/two-dimensional_model"
   },
   {
     "english": "two-dimensional turbulence",
     "traditional_chinese": "二維湍流",
-    "definition_cht": "指與「二維湍流」相關的亂流流動、擾動統計量或混合作用特徵。",
+    "definition_cht": "受限於近似平面流動的湍流型態，其能量常向較大尺度逆向傳遞，與三維湍流的能量級聯特性不同。",
     "source_url": "https://glossary.ametsoc.org/wiki/two-dimensional_turbulence"
   },
   {
     "english": "TWT",
     "traditional_chinese": "雙程傳播時間",
-    "definition_cht": "「TWT」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "definition_cht": "two-way travel time 的縮寫，指電磁波、聲波或地震波自發射至目標再返回接收器所需的總傳播時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/TWT"
   },
   {
     "english": "Tyndall flowers",
-    "traditional_chinese": "廷德爾花",
-    "definition_cht": "指與「廷德爾花」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "廷得耳花",
+    "definition_cht": "冰體內因輻射吸收與局部融化而形成的花瓣狀薄層或圖紋，常見於冰川學與冰的光學研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tyndall_flowers"
   },
   {
     "english": "type",
     "traditional_chinese": "類型",
-    "definition_cht": "指與「類型」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "依共同形態、成因或物理特徵所劃分的類別，可用於雲型、天氣型、氣候型或其他地球科學分類。",
     "source_url": "https://glossary.ametsoc.org/wiki/type"
   },
   {
     "english": "type-β leader",
     "traditional_chinese": "β 型先導",
-    "definition_cht": "指與「β 型先導」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "雷電或高電壓放電研究中依發展型態區分的一類先導通道，具有特定的發光、脈衝與延伸特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/type-%CE%B2_leader"
   },
   {
     "english": "Typhoon",
     "traditional_chinese": "颱風",
-    "definition_cht": "在西北太平洋或南海生成、中心附近最大持續風達颶風等級的熱帶氣旋。",
+    "definition_cht": "在西北太平洋或南海生成且達到颶風強度的熱帶氣旋，為該海域對強烈熱帶氣旋的區域性名稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/Typhoon"
   },
   {
     "english": "typical year",
-    "traditional_chinese": "典型年份",
-    "definition_cht": "依長期統計條件選取、可代表某地常年氣候特徵的典型年度資料。",
+    "traditional_chinese": "典型年",
+    "definition_cht": "依長期觀測統計選取、可代表某地常年氣候或氣象條件特徵的一年資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/typical_year"
   }
 ]
