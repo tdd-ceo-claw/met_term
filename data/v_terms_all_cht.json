@@ -841,122 +841,122 @@
   },
   {
     "english": "visibility in clouds",
-    "traditional_chinese": "雲中的能見度",
-    "definition_cht": "指與「雲中的能見度」相關的能見度、視程或目標辨識條件，常用於航空、航海與地面觀測。",
+    "traditional_chinese": "雲中能見度",
+    "definition_cht": "指觀測者位於雲、霧或其他遮蔽介質內部時，可辨識目標或光源的距離；在航空上常用以描述飛機進入雲層後的實際目視條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/visibility_in_clouds"
   },
   {
     "english": "visibility marker",
-    "traditional_chinese": "可見性標記",
-    "definition_cht": "指與「可見性標記」相關的能見度、視程或目標辨識條件，常用於航空、航海與地面觀測。",
+    "traditional_chinese": "能見度標誌",
+    "definition_cht": "為設置在已知距離處、供觀測者判定當前能見度的固定地面目標或標桿；可依最遠仍可辨識的標誌位置估計視程。",
     "source_url": "https://glossary.ametsoc.org/wiki/visibility_marker"
   },
   {
     "english": "visibility meter",
     "traditional_chinese": "能見度計",
-    "definition_cht": "指與「能見度計」相關的能見度、視程或目標辨識條件，常用於航空、航海與地面觀測。",
+    "definition_cht": "用於測定大氣能見度或光學視程的儀器，通常依光束衰減或前向散射特性推算空氣中粒子對視線的消光程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/visibility_meter"
   },
   {
     "english": "visible imagery",
-    "traditional_chinese": "可見影像",
-    "definition_cht": "指與「可見影像」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "可見光影像",
+    "definition_cht": "指衛星或其他遙測儀器在可見光波段取得的影像，主要利用雲體、地表與海面的太陽反射訊號來辨識雲系結構與日間天氣分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/visible_imagery"
   },
   {
     "english": "Visible Infrared Spin Scan Radiometer",
-    "traditional_chinese": "可見紅外線自旋掃描輻射計",
-    "definition_cht": "指量測輻射能量、亮度溫度或輻射通量的儀器，常用於衛星或地面遙測觀測。",
+    "traditional_chinese": "可見光與紅外線自旋掃描輻射計",
+    "definition_cht": "早期同步氣象衛星搭載的成像輻射計，利用衛星自旋與步進掃描取得可見光及紅外線雲圖，是 SMS 與早期 GOES 衛星的主要氣象成像感測器。",
     "source_url": "https://glossary.ametsoc.org/wiki/Visible_Infrared_Spin_Scan_Radiometer"
   },
   {
     "english": "visible radiation",
     "traditional_chinese": "可見輻射",
-    "definition_cht": "指與「可見輻射」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "人眼可直接感知的電磁輻射，通常指約 400 至 700 奈米波段；在氣象與輻射傳輸中常用以描述太陽短波中可見光部分的能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/visible_radiation"
   },
   {
     "english": "visible spectrum",
     "traditional_chinese": "可見光譜",
-    "definition_cht": "指與「可見光譜」相關之頻譜分布，用於分析能量、變異或訊號在頻率空間中的配置。",
+    "definition_cht": "電磁波譜中可被人眼感知的波段，約介於 400 至 700 奈米；其各波長對應不同色光，常作為雲、氣膠與地表反射特性分析的基礎。",
     "source_url": "https://glossary.ametsoc.org/wiki/visible_spectrum"
   },
   {
     "english": "Visioceilometer",
-    "traditional_chinese": "視覺雲高儀",
-    "definition_cht": "指與「視覺雲高儀」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "視程雲高儀",
+    "definition_cht": "兼具雲底高度與能見度量測功能的雷射雲高儀，利用光達回波判定雲底高度，並可估算近地層的視程或消光狀況。",
     "source_url": "https://glossary.ametsoc.org/wiki/Visioceilometer"
   },
   {
     "english": "VISSR",
-    "traditional_chinese": "可見光與紅外線旋轉掃描輻射儀",
-    "definition_cht": "「VISSR」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "traditional_chinese": "可見光與紅外線自旋掃描輻射計",
+    "definition_cht": "Visible Infrared Spin Scan Radiometer 的縮寫，為 SMS 與早期 GOES 氣象衛星使用的主要雲圖成像儀器，可在可見光與熱紅外波段提供全圓盤掃描影像。",
     "source_url": "https://glossary.ametsoc.org/wiki/VISSR"
   },
   {
     "english": "VISSR Atmospheric Sounder",
-    "traditional_chinese": "VISSR 大氣探測器",
-    "definition_cht": "指與「VISSR 大氣探測器」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "VISSR 大氣探測儀",
+    "definition_cht": "在 VISSR 基礎上增設多個吸收波段的大氣探測儀，可交替進行雲圖成像與大氣溫度、濕度垂直探測，曾用於早期 GOES 衛星。",
     "source_url": "https://glossary.ametsoc.org/wiki/VISSR_Atmospheric_Sounder"
   },
   {
     "english": "visual flight",
-    "traditional_chinese": "目視飛行",
-    "definition_cht": "指與「目視飛行」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "目視飛航",
+    "definition_cht": "指飛行員主要依目視外界地標、障礙物與其他航空器來操縱飛機的飛航方式，需在足以維持視覺參考的氣象條件下進行。",
     "source_url": "https://glossary.ametsoc.org/wiki/visual_flight"
   },
   {
     "english": "visual flight rules",
-    "traditional_chinese": "目視飛行規則",
-    "definition_cht": "指與「目視飛行規則」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "目視飛航規則",
+    "definition_cht": "航空器在目視氣象條件下依外界目視參考飛航時所遵循的規則，通常要求雲距與能見度達到規定最低標準，以利避讓地形及其他航空器。",
     "source_url": "https://glossary.ametsoc.org/wiki/visual_flight_rules"
   },
   {
     "english": "visual range",
-    "traditional_chinese": "可視範圍",
-    "definition_cht": "指與「可視範圍」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "視程",
+    "definition_cht": "在既定背景、照明與目標特性條件下，肉眼仍能辨識目標的最遠距離；其大小受大氣消光、目標對比與觀測條件共同影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/visual_range"
   },
   {
     "english": "visual-range formula",
-    "traditional_chinese": "視距公式",
-    "definition_cht": "指與「視距公式」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "視程公式",
+    "definition_cht": "用於由大氣消光係數、目標對比閾值與背景亮度估算視程的關係式，常指 Koschmieder 類型公式，用以連結光學衰減與可見距離。",
     "source_url": "https://glossary.ametsoc.org/wiki/visual-range_formula"
   },
   {
     "english": "viuga",
     "traditional_chinese": "維烏加",
-    "definition_cht": "指與「維烏加」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "俄羅斯草原地區的寒冷北至東北風暴名稱，通常可持續約三天，屬當地區域性強風與惡劣天氣現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/viuga"
   },
   {
     "english": "VLES",
-    "traditional_chinese": "維勒斯",
-    "definition_cht": "「VLES」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "traditional_chinese": "甚大型渦模擬",
+    "definition_cht": "very large eddy simulation 的縮寫，指在數值模擬中顯式解析比一般大型渦模擬更大尺度的主導渦流結構，用於研究邊界層或對流中的湍流組織。",
     "source_url": "https://glossary.ametsoc.org/wiki/VLES"
   },
   {
     "english": "VLF",
     "traditional_chinese": "甚低頻",
-    "definition_cht": "「VLF」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "definition_cht": "very low frequency 的縮寫，指約 3 至 30 kHz 的無線電頻帶；在大氣與電離層研究中常用於閃電、電磁傳播與遙測監測。",
     "source_url": "https://glossary.ametsoc.org/wiki/VLF"
   },
   {
     "english": "Vog",
-    "traditional_chinese": "沃格",
-    "definition_cht": "指與「沃格」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "火山霧霾",
+    "definition_cht": "由火山排放的二氧化硫、其他氣體與細懸浮微粒在大氣中反應後形成的混濁霾害現象，會降低能見度並影響空氣品質；名稱來自 volcanic smog。",
     "source_url": "https://glossary.ametsoc.org/wiki/Vog"
   },
   {
     "english": "void ratio",
-    "traditional_chinese": "空隙率",
-    "definition_cht": "指與「空隙率」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "空隙比",
+    "definition_cht": "多孔介質中空隙體積與固體體積的比值，為無因次量；常用於土壤、沉積物與積雪等介質的結構描述，並與孔隙率密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/void_ratio"
   },
   {
     "english": "volatiles",
-    "traditional_chinese": "揮發物",
-    "definition_cht": "指與「揮發物」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "揮發性物質",
+    "definition_cht": "指蒸氣壓相對較高、易由液相或固相進入氣相的物質；在大氣與環境科學中常用以指易揮發的有機物或其他可快速汽化的成分。",
     "source_url": "https://glossary.ametsoc.org/wiki/volatiles"
   },
   {
