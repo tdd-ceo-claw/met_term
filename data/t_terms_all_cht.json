@@ -2522,121 +2522,121 @@
   {
     "english": "tropospheric ozone",
     "traditional_chinese": "對流層臭氧",
-    "definition_cht": "指與「對流層臭氧」相關的對流層結構、熱帶大氣或高空環流特徵。",
+    "definition_cht": "存在於對流層中的臭氧，近地面多由氮氧化物與揮發性有機物在日照下經光化學反應生成；其為重要空氣污染物，也會影響輻射收支與大氣氧化能力。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropospheric_ozone"
   },
   {
     "english": "tropospheric scatter",
     "traditional_chinese": "對流層散射",
-    "definition_cht": "指與「對流層散射」相關的對流層結構、熱帶大氣或高空環流特徵。",
+    "definition_cht": "指微波或超高頻電波在對流層內因折射率不均而產生散射，藉此可進行超視距無線電通訊的傳播方式，亦稱對流層散射傳播。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropospheric_scatter"
   },
   {
     "english": "trough",
     "traditional_chinese": "槽",
-    "definition_cht": "氣壓場或高度場中向低值延伸的槽狀區域，常伴隨輻合、抬升與天氣變化。",
+    "definition_cht": "在地面氣壓場或高空高度場中向低值延伸的狹長區域，其軸線附近常伴隨輻合、上升運動與雲雨天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/trough"
   },
   {
     "english": "trough line",
     "traditional_chinese": "槽線",
-    "definition_cht": "指與「槽線」相關的槽狀低值系統、延伸低壓帶或其動力結構。",
+    "definition_cht": "天氣圖上用以標示低壓槽軸位置的分析線，表示氣壓或位勢高度向低值延伸的狹長帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/trough_line"
   },
   {
     "english": "trowal",
-    "traditional_chinese": "特羅瓦爾",
-    "definition_cht": "指與「特羅瓦爾」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "錮囚暖空氣槽",
+    "definition_cht": "trough of warm air aloft 的縮寫，指溫帶氣旋錮囚階段中，位於地面錮囚鋒上方、由暖空氣在高空延伸形成的槽狀區，常與降水帶和雲系分布有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/trowal"
   },
   {
     "english": "true airspeed",
-    "traditional_chinese": "真實空速",
-    "definition_cht": "指與「真實空速」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "真空速",
+    "definition_cht": "航空器相對於周圍氣團的實際飛行速度；由指示空速校正密度與溫度等影響後求得，為航行與航程計算的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/true_airspeed"
   },
   {
     "english": "true altitude",
-    "traditional_chinese": "真實高度",
-    "definition_cht": "指與「真實高度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "真高度",
+    "definition_cht": "航空器相對平均海平面的實際高度；在航空上，通常指由壓力高度再依非標準氣溫等因素修正後所得的真實高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/true_altitude"
   },
   {
     "english": "true mean temperature",
     "traditional_chinese": "真平均溫度",
-    "definition_cht": "指與「真平均溫度」相關的溫度量、熱狀態或其空間時間變化特徵。",
+    "definition_cht": "在指定時段內依溫度連續變化對時間積分後所得的平均溫度；相較以最高、最低溫近似的算法，更能代表實際平均熱狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/true_mean_temperature"
   },
   {
     "english": "true north",
     "traditional_chinese": "真北",
-    "definition_cht": "指與「真北」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "沿地表指向地理北極的方向，即地球自轉軸與北半球地表交點的方向；有別於磁北與格網北。",
     "source_url": "https://glossary.ametsoc.org/wiki/true_north"
   },
   {
     "english": "true wind direction",
     "traditional_chinese": "真風向",
-    "definition_cht": "指與「真風向」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "definition_cht": "以真北為基準表示的風向，亦即風實際吹來的方位角；不同於以磁北為基準的磁風向。",
     "source_url": "https://glossary.ametsoc.org/wiki/true_wind_direction"
   },
   {
     "english": "Tsunami",
     "traditional_chinese": "海嘯",
-    "definition_cht": "指與「海嘯」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "由海底地震、海底滑動、火山活動或其他大規模水體擾動所引發的一系列長波波浪；進入近岸淺水區後波高可迅速增大並造成災害。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tsunami"
   },
   {
     "english": "Tsushima Current",
-    "traditional_chinese": "對馬洋流",
-    "definition_cht": "指與「對馬洋流」相關的海流、氣流或輸送流系統，重點在其流向、成因及熱鹽或動量輸送作用。",
+    "traditional_chinese": "對馬暖流",
+    "definition_cht": "黑潮進入韓國海峽後分出的暖流支流，主要向北流入日本海，對東亞沿岸海洋環境、熱鹽輸送及區域氣候具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tsushima_Current"
   },
   {
     "english": "TT",
-    "traditional_chinese": "TT",
-    "definition_cht": "「TT」為氣象、海洋、水文、遙測、航空或相關地球科學領域常用之縮寫、代碼、作業產品或儀器名稱；其精確內涵需依專業語境判定。",
+    "traditional_chinese": "TT（總總指數）",
+    "definition_cht": "Total Totals index 的縮寫，為評估雷暴與對流潛勢的穩定度指數，由垂直總量與交叉總量組成，綜合反映 850 至 500 hPa 的溫度遞減與低層濕度條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/TT"
   },
   {
     "english": "tuba",
-    "traditional_chinese": "大號",
-    "definition_cht": "指與「大號」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "漏斗雲",
+    "definition_cht": "源自拉丁文 tuba，指自積雨雲或濃積雲雲底向下延伸、呈漏斗狀的凝結雲體；若其環流接觸地面或水面，即可發展為龍捲或水龍捲。",
     "source_url": "https://glossary.ametsoc.org/wiki/tuba"
   },
   {
     "english": "tufan",
-    "traditional_chinese": "吐番",
-    "definition_cht": "指與「吐番」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "圖凡（颱風）",
+    "definition_cht": "颱風一詞的地方性音譯或變體寫法，常見於南亞、西亞或歷史文獻脈絡，用以指稱強烈熱帶氣旋或猛烈風暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/tufan"
   },
   {
     "english": "Tulipan radiometer",
-    "traditional_chinese": "鬱金香輻射計",
-    "definition_cht": "指與「鬱金香輻射計」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "鬱金香式輻射計",
+    "definition_cht": "一種用於量測太陽輻射或地表—大氣輻射收支的輻射計，名稱來自其外形或感測器配置近似鬱金香；多用於氣象與微氣候觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tulipan_radiometer"
   },
   {
     "english": "tunable laser spectroscopy",
-    "traditional_chinese": "可調諧雷射光譜",
-    "definition_cht": "指與「可調諧雷射光譜」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "可調諧雷射光譜術",
+    "definition_cht": "利用可調諧雷射在特定吸收譜線附近掃描，以量測氣體濃度，並可進一步反演溫度、壓力、流速等參數的光譜分析技術。",
     "source_url": "https://glossary.ametsoc.org/wiki/tunable_laser_spectroscopy"
   },
   {
     "english": "tundra",
     "traditional_chinese": "苔原",
-    "definition_cht": "指與「苔原」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "寒冷且生長季短、難以支持喬木生長的無樹生物群系，常見於北極、高山或南極周邊地區，植被以矮灌木、莎草、苔蘚與地衣為主。",
     "source_url": "https://glossary.ametsoc.org/wiki/tundra"
   },
   {
     "english": "tundra climate",
     "traditional_chinese": "苔原氣候",
-    "definition_cht": "指「苔原氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "柯本氣候分類中的 ET 型氣候，最暖月平均氣溫高於 0°C 但低於 10°C，地表多無林木，常分布於高緯或高山地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/tundra_climate"
   },
   {
     "english": "tundra desert",
-    "traditional_chinese": "苔原沙漠",
-    "definition_cht": "指與「苔原沙漠」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "苔原荒漠",
+    "definition_cht": "兼具苔原與荒漠特徵的極冷乾燥地區，降水稀少、植被極為稀疏，常見於高緯寒區或受極端寒冷限制的地表環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/tundra_desert"
   },
   {
