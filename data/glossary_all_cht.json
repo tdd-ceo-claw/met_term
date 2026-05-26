@@ -54422,121 +54422,121 @@
   {
     "english": "vortex thermometer",
     "traditional_chinese": "渦流溫度計",
-    "definition_cht": "指與「渦流溫度計」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "definition_cht": "利用氣流在旋轉或渦流狀態下的熱力特性來量測溫度的儀器；在航空與流體實驗中可用於推估高速氣流或自由大氣中的真實氣溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_thermometer"
   },
   {
     "english": "vortex tube",
-    "traditional_chinese": "渦流管",
-    "definition_cht": "指與「渦流管」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦管",
+    "definition_cht": "流體力學中由一束渦線圍成的管狀區域，其管壁處處與渦度向量平行；常用來描述渦量在流場中的守恆與傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_tube"
   },
   {
     "english": "Vorticity",
     "traditional_chinese": "渦度",
-    "definition_cht": "指與「渦度」相關的渦度概念、診斷量或其演變過程，用於分析流體旋轉、渦旋結構與動力發展。",
+    "definition_cht": "描述流體局部旋轉強度與方向的量，在三維流場中定義為速度場的旋度；在氣象分析上常用以診斷槽脊、氣旋發展與動力強迫。",
     "source_url": "https://glossary.ametsoc.org/wiki/Vorticity"
   },
   {
     "english": "vorticity advection",
     "traditional_chinese": "渦度平流",
-    "definition_cht": "指與「渦度平流」相關的渦度概念、診斷量或其演變過程，用於分析流體旋轉、渦旋結構與動力發展。",
+    "definition_cht": "指風場將某地的渦度輸送至另一地的過程；在天氣尺度分析中，正渦度平流常與上升運動及槽前發展有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/vorticity_advection"
   },
   {
     "english": "vorticity equation",
     "traditional_chinese": "渦度方程",
-    "definition_cht": "指與「渦度方程」相關的渦度概念、診斷量或其演變過程，用於分析流體旋轉、渦旋結構與動力發展。",
+    "definition_cht": "描述流體中渦度隨時間因平流、伸長、傾斜、摩擦與浮力等作用而改變的控制方程，是大氣與海洋動力學的重要基礎方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/vorticity_equation"
   },
   {
     "english": "vorticity-transport hypothesis",
-    "traditional_chinese": "渦度傳遞假說",
-    "definition_cht": "指與「渦度傳遞假說」相關的渦度概念、診斷量或其演變過程，用於分析流體旋轉、渦旋結構與動力發展。",
+    "traditional_chinese": "渦度傳輸假說",
+    "definition_cht": "指以渦度的生成、輸送與重新分布來解釋流場演變的假說或觀點，常用於討論渦旋結構的形成、維持與下游影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/vorticity-transport_hypothesis"
   },
   {
     "english": "Voss polariscope",
     "traditional_chinese": "沃斯偏光鏡",
-    "definition_cht": "指與「沃斯偏光鏡」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "一種用於觀察或比較偏振光特性的偏光儀器，利用偏振器與檢偏器分析光線的偏振狀態；可應用於大氣光學或輻射觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Voss_polariscope"
   },
   {
     "english": "vuthan",
-    "traditional_chinese": "武坦",
-    "definition_cht": "指與「武坦」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "武坦風暴",
+    "definition_cht": "南美洲南部的一種強烈風暴名稱，屬區域性天氣用語，可指伴隨強風與惡劣天氣的劇烈擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/vuthan"
   },
   {
     "english": "VWP",
     "traditional_chinese": "垂直風剖面",
-    "definition_cht": "「VWP」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "definition_cht": "vertical wind profile 的縮寫，通常指由都卜勒天氣雷達或其他遙測資料反演的風向與風速垂直分布產品，用於監測風切、低空噴流與對流環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/VWP"
   },
   {
     "english": "wadi",
-    "traditional_chinese": "乾河",
-    "definition_cht": "乾旱或半乾旱地區平時多為乾涸、僅於降雨後短暫有水流的河道或谷地，常與暴洪與侵蝕作用有關。",
+    "traditional_chinese": "乾谷河道",
+    "definition_cht": "乾旱或半乾旱地區平時多半乾涸、僅在降雨後短暫出現地表逕流的河道或谷地，常與暴洪、沖蝕及間歇性輸砂作用有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/wadi"
   },
   {
     "english": "wake",
     "traditional_chinese": "尾流",
-    "definition_cht": "指物體、地形或對流系統後方因流場受阻而形成的擾動區，常伴隨速度減弱、渦流生成與湍流增強。",
+    "definition_cht": "物體、地形或天氣系統擾動主流後，在其下游形成的流場擾動區；常伴隨速度虧損、渦旋生成、壓力變化與湍流增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/wake"
   },
   {
     "english": "wake low",
     "traditional_chinese": "尾流低壓",
-    "definition_cht": "指常出現在對流系統或山脈背風側尾流區的局地低壓現象，與下沉增溫及中尺度壓力調整有關。",
+    "definition_cht": "常出現在中尺度對流系統後側尾流區的局地低壓，通常與層中下沉氣流造成的絕熱增溫及壓力重新調整有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/wake_low"
   },
   {
     "english": "wake turbulence",
     "traditional_chinese": "尾流湍流",
-    "definition_cht": "指與「尾流湍流」相關的尾流、尾跡或其擾動結構，常伴隨湍流、渦旋與速度場重組。",
+    "definition_cht": "物體通過流體後在其後方留下的湍流擾動；在航空上尤指飛機升力產生的翼尖渦流所造成的危險擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/wake_turbulence"
   },
   {
     "english": "waldsterben",
-    "traditional_chinese": "瓦爾德斯特本",
-    "definition_cht": "指森林因空氣污染、酸沉降、病蟲害或環境壓力而出現大範圍衰退與死亡的現象。",
+    "traditional_chinese": "森林衰亡",
+    "definition_cht": "源自德語的用語，指森林因空氣污染、酸沉降、乾旱、病蟲害或其他環境壓力而出現大範圍衰退、樹冠受損與死亡的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/waldsterben"
   },
   {
     "english": "Walker circulation",
-    "traditional_chinese": "步行者循環",
-    "definition_cht": "指與「步行者循環」相關的環流型態、閉合流場或大尺度物質與能量輸送系統。",
+    "traditional_chinese": "沃克環流",
+    "definition_cht": "熱帶大氣沿赤道方向形成的東西向閉合環流，典型表現為西太平洋暖池區上升、東太平洋下沉，並與信風、海溫分布及聖嬰－南方振盪密切相關。",
     "source_url": "https://glossary.ametsoc.org/wiki/Walker_circulation"
   },
   {
     "english": "wall cloud",
     "traditional_chinese": "牆雲",
-    "definition_cht": "指與「牆雲」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "積雨雲無雨雲底下方局部且持續的明顯下垂雲體，通常位於強上升氣流區；若伴隨旋轉，常與中氣旋及龍捲生成潛勢有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/wall_cloud"
   },
   {
     "english": "warm braw",
     "traditional_chinese": "暖脊",
-    "definition_cht": "指暖空氣或高溫區沿特定方向延伸所形成的脊狀分布，可見於溫度場、厚度場或海溫分析。",
+    "definition_cht": "指溫度場中暖空氣向外延伸形成的脊狀區域；此詞在現代文獻中少見，通常可視為 warm ridge 的異寫或罕用寫法。",
     "source_url": "https://glossary.ametsoc.org/wiki/warm_braw"
   },
   {
     "english": "warm cloud",
     "traditional_chinese": "暖雲",
-    "definition_cht": "指與「暖雲」相關的暖性氣團、暖平流、暖區、暖雲微物理或增溫過程。",
+    "definition_cht": "整個雲體溫度皆高於 0°C、主要由液態雲滴組成而不含冰晶相的雲；其降水形成多依賴凝結、碰併與聚合作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/warm_cloud"
   },
   {
     "english": "warm conveyor belt",
     "traditional_chinese": "暖輸送帶",
-    "definition_cht": "指中緯度氣旋中自暖區低層向上傾升並向極側輸送暖濕空氣的氣流帶，與雲雨區形成密切相關。",
+    "definition_cht": "中緯度氣旋中由暖區近地層向上傾升並朝極側與下游輸送暖濕空氣的狹長氣流帶，是鋒面雲雨帶與大尺度降水的重要結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/warm_conveyor_belt"
   },
   {
     "english": "warm fog",
     "traditional_chinese": "暖霧",
-    "definition_cht": "指與「暖霧」相關的暖性氣團、暖平流、暖區、暖雲微物理或增溫過程。",
+    "definition_cht": "由液態霧滴組成且氣溫高於冰點的霧，通常用來與冰霧相對；其形成機制可包括輻射冷卻、平流或蒸發增濕。",
     "source_url": "https://glossary.ametsoc.org/wiki/warm_fog"
   },
   {

@@ -1082,55 +1082,55 @@
   {
     "english": "vortex thermometer",
     "traditional_chinese": "渦流溫度計",
-    "definition_cht": "指與「渦流溫度計」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "definition_cht": "利用氣流在旋轉或渦流狀態下的熱力特性來量測溫度的儀器；在航空與流體實驗中可用於推估高速氣流或自由大氣中的真實氣溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_thermometer"
   },
   {
     "english": "vortex tube",
-    "traditional_chinese": "渦流管",
-    "definition_cht": "指與「渦流管」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦管",
+    "definition_cht": "流體力學中由一束渦線圍成的管狀區域，其管壁處處與渦度向量平行；常用來描述渦量在流場中的守恆與傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_tube"
   },
   {
     "english": "Vorticity",
     "traditional_chinese": "渦度",
-    "definition_cht": "指與「渦度」相關的渦度概念、診斷量或其演變過程，用於分析流體旋轉、渦旋結構與動力發展。",
+    "definition_cht": "描述流體局部旋轉強度與方向的量，在三維流場中定義為速度場的旋度；在氣象分析上常用以診斷槽脊、氣旋發展與動力強迫。",
     "source_url": "https://glossary.ametsoc.org/wiki/Vorticity"
   },
   {
     "english": "vorticity advection",
     "traditional_chinese": "渦度平流",
-    "definition_cht": "指與「渦度平流」相關的渦度概念、診斷量或其演變過程，用於分析流體旋轉、渦旋結構與動力發展。",
+    "definition_cht": "指風場將某地的渦度輸送至另一地的過程；在天氣尺度分析中，正渦度平流常與上升運動及槽前發展有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/vorticity_advection"
   },
   {
     "english": "vorticity equation",
     "traditional_chinese": "渦度方程",
-    "definition_cht": "指與「渦度方程」相關的渦度概念、診斷量或其演變過程，用於分析流體旋轉、渦旋結構與動力發展。",
+    "definition_cht": "描述流體中渦度隨時間因平流、伸長、傾斜、摩擦與浮力等作用而改變的控制方程，是大氣與海洋動力學的重要基礎方程。",
     "source_url": "https://glossary.ametsoc.org/wiki/vorticity_equation"
   },
   {
     "english": "vorticity-transport hypothesis",
-    "traditional_chinese": "渦度傳遞假說",
-    "definition_cht": "指與「渦度傳遞假說」相關的渦度概念、診斷量或其演變過程，用於分析流體旋轉、渦旋結構與動力發展。",
+    "traditional_chinese": "渦度傳輸假說",
+    "definition_cht": "指以渦度的生成、輸送與重新分布來解釋流場演變的假說或觀點，常用於討論渦旋結構的形成、維持與下游影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/vorticity-transport_hypothesis"
   },
   {
     "english": "Voss polariscope",
     "traditional_chinese": "沃斯偏光鏡",
-    "definition_cht": "指與「沃斯偏光鏡」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "一種用於觀察或比較偏振光特性的偏光儀器，利用偏振器與檢偏器分析光線的偏振狀態；可應用於大氣光學或輻射觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/Voss_polariscope"
   },
   {
     "english": "vuthan",
-    "traditional_chinese": "武坦",
-    "definition_cht": "指與「武坦」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "武坦風暴",
+    "definition_cht": "南美洲南部的一種強烈風暴名稱，屬區域性天氣用語，可指伴隨強風與惡劣天氣的劇烈擾動。",
     "source_url": "https://glossary.ametsoc.org/wiki/vuthan"
   },
   {
     "english": "VWP",
     "traditional_chinese": "垂直風剖面",
-    "definition_cht": "「VWP」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "definition_cht": "vertical wind profile 的縮寫，通常指由都卜勒天氣雷達或其他遙測資料反演的風向與風速垂直分布產品，用於監測風切、低空噴流與對流環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/VWP"
   }
 ]

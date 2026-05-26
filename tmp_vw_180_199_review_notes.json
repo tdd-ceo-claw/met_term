@@ -1,0 +1,142 @@
+{
+  "vortex thermometer": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_thermometer",
+      "https://pubs.aip.org/aip/rsi/article/21/2/136/297336/Vortex-Thermometer-for-Measuring-True-Air"
+    ],
+    "changed": true
+  },
+  "vortex tube": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_tube",
+      "https://en.wikipedia.org/wiki/Vortex_tube"
+    ],
+    "changed": true
+  },
+  "Vorticity": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Vorticity",
+      "https://en.wikipedia.org/wiki/Vorticity"
+    ],
+    "changed": true
+  },
+  "vorticity advection": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vorticity_advection",
+      "https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/vorticity/vorticity.html"
+    ],
+    "changed": true
+  },
+  "vorticity equation": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vorticity_equation",
+      "https://en.wikipedia.org/wiki/Vorticity_equation"
+    ],
+    "changed": true
+  },
+  "vorticity-transport hypothesis": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vorticity-transport_hypothesis",
+      "https://archive.org/details/glossaryofmeteor00hush"
+    ],
+    "changed": true
+  },
+  "Voss polariscope": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Voss_polariscope",
+      "https://encyclopedia2.thefreedictionary.com/polariscope"
+    ],
+    "changed": true
+  },
+  "vuthan": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vuthan",
+      "https://encyclopedia2.thefreedictionary.com/vuthan"
+    ],
+    "changed": true
+  },
+  "VWP": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/VWP",
+      "https://www.roc.noaa.gov/level-two-data-types.php"
+    ],
+    "changed": true
+  },
+  "wadi": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wadi",
+      "https://en.wikipedia.org/wiki/Wadi"
+    ],
+    "changed": true
+  },
+  "wake": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wake",
+      "https://en.wikipedia.org/wiki/Wake"
+    ],
+    "changed": true
+  },
+  "wake low": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wake_low",
+      "https://en.wikipedia.org/wiki/Wake_low"
+    ],
+    "changed": true
+  },
+  "wake turbulence": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wake_turbulence",
+      "https://en.wikipedia.org/wiki/Wake_turbulence"
+    ],
+    "changed": true
+  },
+  "waldsterben": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/waldsterben",
+      "https://en.wikipedia.org/wiki/Waldsterben"
+    ],
+    "changed": true
+  },
+  "Walker circulation": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Walker_circulation",
+      "https://en.wikipedia.org/wiki/Walker_circulation"
+    ],
+    "changed": true
+  },
+  "wall cloud": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wall_cloud",
+      "https://en.wikipedia.org/wiki/Wall_cloud"
+    ],
+    "changed": true
+  },
+  "warm braw": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_braw",
+      "https://glossary.ametsoc.org/wiki/warm_ridge"
+    ],
+    "changed": true
+  },
+  "warm cloud": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_cloud",
+      "https://glossary.ametsoc.org/wiki/Warm_rain_process"
+    ],
+    "changed": true
+  },
+  "warm conveyor belt": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_conveyor_belt",
+      "https://rammb.cira.colostate.edu/wmovl/vrl/tutorials/satmanu-eumetsat/satmanu/basic/parameters/wcb.htm"
+    ],
+    "changed": true
+  },
+  "warm fog": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_fog",
+      "https://en.wikipedia.org/wiki/Fog"
+    ],
+    "changed": true
+  }
+}
