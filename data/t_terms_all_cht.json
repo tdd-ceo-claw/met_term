@@ -2041,122 +2041,122 @@
   },
   {
     "english": "transient problem",
-    "traditional_chinese": "瞬態問題",
-    "definition_cht": "指與「瞬態問題」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "瞬變問題",
+    "definition_cht": "指研究隨時間變化之動力系統，如何由一個平衡狀態演變至另一個平衡狀態的問題；常與定常問題相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/transient_problem"
   },
   {
     "english": "transient thermocline",
     "traditional_chinese": "瞬變溫躍層",
-    "definition_cht": "指與「瞬變溫躍層」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "definition_cht": "日間近水面受加熱形成的暫時性溫躍層，之後常因混合作用而向下併入主溫躍層或永久性溫躍層。",
     "source_url": "https://glossary.ametsoc.org/wiki/transient_thermocline"
   },
   {
     "english": "transilient turbulence theory",
-    "traditional_chinese": "瞬態湍流理論",
-    "definition_cht": "指與「瞬態湍流理論」相關的亂流流動、擾動統計量或混合作用特徵。",
+    "traditional_chinese": "跨層跳躍湍流理論",
+    "definition_cht": "一種湍流參數化理論，允許垂直柱內任兩層格點之間發生非局地混合，不限於相鄰層交換。",
     "source_url": "https://glossary.ametsoc.org/wiki/transilient_turbulence_theory"
   },
   {
     "english": "transition layer",
     "traditional_chinese": "過渡層",
-    "definition_cht": "指與「過渡層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "指位於兩種不同流體或熱力結構之間的過渡性分層；在邊界層氣象中常指對流混合層頂部的蓋頂逆溫／捲入層，在海洋學中亦可指混合層與下方未受擾動流體之間的成層帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/transition_layer"
   },
   {
     "english": "transition to turbulence",
-    "traditional_chinese": "過渡到湍流",
-    "definition_cht": "指與「過渡到湍流」相關的亂流流動、擾動統計量或混合作用特徵。",
+    "traditional_chinese": "轉捩至湍流",
+    "definition_cht": "流體由層流狀態演變為湍流狀態的過程，通常伴隨流動不穩定增強，並可經一連串轉捩或分岔而發生。",
     "source_url": "https://glossary.ametsoc.org/wiki/transition_to_turbulence"
   },
   {
     "english": "transitional flow",
-    "traditional_chinese": "過渡流",
-    "definition_cht": "指與「過渡流」相關的流動型態、平均流場或輸送結構。",
+    "traditional_chinese": "轉捩流",
+    "definition_cht": "介於層流與湍流之間的流動型態，其黏性應力與雷諾應力常為相近量級。",
     "source_url": "https://glossary.ametsoc.org/wiki/transitional_flow"
   },
   {
     "english": "translucidus",
-    "traditional_chinese": "透明體",
-    "definition_cht": "指與「透明體」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "透光雲種",
+    "definition_cht": "雲的變種之一，指大片雲層仍具有足夠透光性，可辨認太陽或月亮的位置，適用於高積雲、高層雲、層雲與層積雲。",
     "source_url": "https://glossary.ametsoc.org/wiki/translucidus"
   },
   {
     "english": "transmission coefficient",
-    "traditional_chinese": "傳輸係數",
-    "definition_cht": "指與「傳輸係數」相關的能量、訊號、電磁波或輻射傳遞過程。",
+    "traditional_chinese": "透射係數",
+    "definition_cht": "透射能量相對於入射能量的比值；在輻射學中常指透射輻照度或透射通量密度與其入射值之比。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmission_coefficient"
   },
   {
     "english": "transmission function",
-    "traditional_chinese": "傳輸功能",
-    "definition_cht": "指與「傳輸功能」相關的能量、訊號、電磁波或輻射傳遞過程。",
+    "traditional_chinese": "透射函數",
+    "definition_cht": "描述介質、濾波器或大氣對輻射／訊號透射特性的函數；在氣象輻射語境中常近似同於透射係數或透射率的函數表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmission_function"
   },
   {
     "english": "transmission loss",
     "traditional_chinese": "傳輸損耗",
-    "definition_cht": "指與「傳輸損耗」相關的能量、訊號、電磁波或輻射傳遞過程。",
+    "definition_cht": "傳輸中的無線電或雷達訊號功率因距離衰減、降水衰減、多重路徑等效應而減少的總稱。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmission_loss"
   },
   {
     "english": "transmissivity",
     "traditional_chinese": "透射率",
-    "definition_cht": "指介質對輻射、光線或流體傳輸之透過能力，可用於輻射傳輸或地下水分析。",
+    "definition_cht": "介質對輻射能量的透過能力，常表示為穿過介質後之輻射通量與入射通量的比值；在水文地質中亦可指含水層導水率與厚度之積。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmissivity"
   },
   {
     "english": "transmissometer",
-    "traditional_chinese": "透射計",
-    "definition_cht": "量測大氣透射率或消光程度的儀器，常用於能見度與機場觀測。",
+    "traditional_chinese": "透射儀",
+    "definition_cht": "用以量測大氣或水體消光係數、透射率及視程的儀器，通常以窄光束穿越固定路徑後量測接收能量。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmissometer"
   },
   {
     "english": "transmissometry",
     "traditional_chinese": "透射測量法",
-    "definition_cht": "指與「透射測量法」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "definition_cht": "利用透射儀量測光束穿越介質後之衰減程度，以推求透射率、消光係數或視程的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmissometry"
   },
   {
     "english": "transmit–receive tube",
-    "traditional_chinese": "發射-接收管",
-    "definition_cht": "指與「發射-接收管」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "收發切換管",
+    "definition_cht": "雷達中的充氣波導腔管（簡稱 TR 管），受高功率脈衝電離時呈短路以保護接收機，未電離時則可讓低功率回波通過。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmit%E2%80%93receive_tube"
   },
   {
     "english": "transmittance",
     "traditional_chinese": "透過率",
-    "definition_cht": "指「透過率」所對應的透射率量，用於描述輻射或光束穿透介質後的保留比例。",
+    "definition_cht": "輻射、光束或其他能量通過介質後保留下來的比例，即透射量與入射量之比。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmittance"
   },
   {
     "english": "transmitted power",
     "traditional_chinese": "發射功率",
-    "definition_cht": "指與「發射功率」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "definition_cht": "在雷達中指由天線向空間送出的功率；對脈衝雷達而言，峰值發射功率通常高於平均發射功率，兩者比值與占空比有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmitted_power"
   },
   {
     "english": "transmitter",
     "traditional_chinese": "發射機",
-    "definition_cht": "指發射電磁訊號、能量或脈衝的裝置，常見於雷達與遙測系統。",
+    "definition_cht": "產生並發射無線電頻率訊號、能量或脈衝的裝置，常見於雷達、遙測與通訊系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/transmitter"
   },
   {
     "english": "transosonde",
-    "traditional_chinese": "轉探空儀",
-    "definition_cht": "指與「轉探空儀」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "越洋定層探空氣球",
+    "definition_cht": "一種在近定壓高度長時間漂移的高空氣球觀測系統，用於跨洋蒐集高空氣象資料與支援天氣分析預報。",
     "source_url": "https://glossary.ametsoc.org/wiki/transosonde"
   },
   {
     "english": "transparent sky cover",
-    "traditional_chinese": "透明的天空蓋",
-    "definition_cht": "指天空被雲層遮蔽的覆蓋程度或其觀測分類。",
+    "traditional_chinese": "透明天空覆蓋量",
+    "definition_cht": "天空中被薄雲或其他透明遮蔽物覆蓋、但仍未完全遮蔽天體或天空背景的覆蓋部分；總天空覆蓋量包含此量，但不屬於不透明天空覆蓋量。",
     "source_url": "https://glossary.ametsoc.org/wiki/transparent_sky_cover"
   },
   {
     "english": "Transpiration",
     "traditional_chinese": "蒸散作用",
-    "definition_cht": "指與「蒸散作用」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "definition_cht": "植物自土壤吸收水分後，經莖葉表面（主要為氣孔）以水氣形式釋放至大氣的過程，是蒸發散的重要組成。",
     "source_url": "https://glossary.ametsoc.org/wiki/Transpiration"
   },
   {
