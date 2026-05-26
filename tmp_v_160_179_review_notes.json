@@ -1,0 +1,142 @@
+{
+  "volcanic aerosol": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/volcanic_aerosol",
+      "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/volcanic-aerosol"
+    ],
+    "changed": true
+  },
+  "volume absorption coefficient": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/volume_absorption_coefficient",
+      "https://en.wikipedia.org/wiki/Attenuation_coefficient"
+    ],
+    "changed": true
+  },
+  "volume average": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/volume_average",
+      "https://en.wikipedia.org/wiki/Average"
+    ],
+    "changed": true
+  },
+  "volume extinction coefficient": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/volume_extinction_coefficient",
+      "https://en.wikipedia.org/wiki/Attenuation_coefficient"
+    ],
+    "changed": true
+  },
+  "volume scan": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/volume_scan",
+      "https://en.wikipedia.org/wiki/NEXRAD"
+    ],
+    "changed": true
+  },
+  "volume scattering coefficient": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/volume_scattering_coefficient",
+      "https://en.wikipedia.org/wiki/Rayleigh_scattering"
+    ],
+    "changed": true
+  },
+  "volume target": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/volume_target",
+      "https://training.weather.gov/nwstc/NEXRAD/RADAR/3-1.htm"
+    ],
+    "changed": true
+  },
+  "Volz turbidity factor": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Volz_turbidity_factor",
+      "https://www.sciencedirect.com/topics/engineering/atmospheric-turbidity"
+    ],
+    "changed": true
+  },
+  "von Kármán's constant": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/von_K%C3%A1rm%C3%A1n%27s_constant",
+      "https://en.wikipedia.org/wiki/Von_K%C3%A1rm%C3%A1n_constant"
+    ],
+    "changed": true
+  },
+  "Vortex": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Vortex",
+      "https://en.wikipedia.org/wiki/Vortex"
+    ],
+    "changed": true
+  },
+  "vortex breakdown": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_breakdown",
+      "https://en.wikipedia.org/wiki/Vortex_breakdown"
+    ],
+    "changed": true
+  },
+  "vortex cloud street": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_cloud_street",
+      "https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street"
+    ],
+    "changed": true
+  },
+  "vortex filament": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_filament",
+      "https://en.wikipedia.org/wiki/Vorticity"
+    ],
+    "changed": true
+  },
+  "vortex line": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_line",
+      "https://en.wikipedia.org/wiki/Vorticity"
+    ],
+    "changed": true
+  },
+  "vortex ring": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_ring",
+      "https://en.wikipedia.org/wiki/Vortex_ring"
+    ],
+    "changed": true
+  },
+  "vortex Rossby waves": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_Rossby_waves",
+      "https://en.wikipedia.org/wiki/Rossby_wave"
+    ],
+    "changed": true
+  },
+  "vortex sheet": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_sheet",
+      "https://en.wikipedia.org/wiki/Vortex_sheet"
+    ],
+    "changed": true
+  },
+  "vortex signature": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_signature",
+      "https://www.weather.gov/lmk/soo-dopplerradar"
+    ],
+    "changed": true
+  },
+  "vortex street": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_street",
+      "https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street"
+    ],
+    "changed": true
+  },
+  "vortex stretching": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/vortex_stretching",
+      "https://en.wikipedia.org/wiki/Vorticity"
+    ],
+    "changed": true
+  }
+}

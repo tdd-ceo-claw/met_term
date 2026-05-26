@@ -54302,121 +54302,121 @@
   {
     "english": "volcanic aerosol",
     "traditional_chinese": "火山氣溶膠",
-    "definition_cht": "指與「火山氣溶膠」相關的火山活動、火山灰、噴發物輸送或其對大氣環境之影響。",
+    "definition_cht": "指火山噴發後進入大氣中的微小液態或固態粒子，包含硫酸鹽液滴、火山灰與其他微粒；其可改變大氣輻射收支、降低能見度，並在平流層停留後對氣候造成影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/volcanic_aerosol"
   },
   {
     "english": "volume absorption coefficient",
     "traditional_chinese": "體積吸收係數",
-    "definition_cht": "指與「體積吸收係數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "表示單位路徑長內介質因吸收作用所造成輻射衰減的程度，常以每單位體積內粒子或物質對入射能量的吸收能力表示，單位通常為反長度。",
     "source_url": "https://glossary.ametsoc.org/wiki/volume_absorption_coefficient"
   },
   {
     "english": "volume average",
     "traditional_chinese": "體積平均",
-    "definition_cht": "指與「體積平均」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "指某一物理量在指定體積範圍內依體積加權後所得的平均值，常用於描述控制體、網格盒或取樣體積中的平均狀態。",
     "source_url": "https://glossary.ametsoc.org/wiki/volume_average"
   },
   {
     "english": "volume extinction coefficient",
     "traditional_chinese": "體積消光係數",
-    "definition_cht": "指與「體積消光係數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "表示輻射穿過介質時，因吸收與散射共同作用而在單位路徑長內被削弱的總程度；其值等於體積吸收係數與體積散射係數之和。",
     "source_url": "https://glossary.ametsoc.org/wiki/volume_extinction_coefficient"
   },
   {
     "english": "volume scan",
     "traditional_chinese": "體積掃描",
-    "definition_cht": "指與「體積掃描」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "天氣雷達依序在多個仰角完成環掃或扇掃，以取得某區域三維反射率與風場資訊的掃描程序；完成一整套仰角觀測即構成一次體積掃描。",
     "source_url": "https://glossary.ametsoc.org/wiki/volume_scan"
   },
   {
     "english": "volume scattering coefficient",
     "traditional_chinese": "體積散射係數",
-    "definition_cht": "指與「體積散射係數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "表示單位路徑長內介質因散射作用使入射輻射偏離原傳播方向的程度，反映單位體積內粒子總散射能力，單位通常為反長度。",
     "source_url": "https://glossary.ametsoc.org/wiki/volume_scattering_coefficient"
   },
   {
     "english": "volume target",
-    "traditional_chinese": "成交量目標",
-    "definition_cht": "指與「成交量目標」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "體積目標",
+    "definition_cht": "在雷達或遙測中指散射體分布於整個取樣體積內、其回波來自一個有限空間體積而非單一點或單一面之目標，例如降水粒子群或雲粒子體。",
     "source_url": "https://glossary.ametsoc.org/wiki/volume_target"
   },
   {
     "english": "Volz turbidity factor",
-    "traditional_chinese": "Volz 濁度係數",
-    "definition_cht": "指與「Volz 濁度係數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "Volz 濁度因子",
+    "definition_cht": "用於表徵大氣混濁程度的經驗性指標，主要反映氣膠與其他懸浮粒子對太陽直接輻射的削弱效應；數值愈大通常表示大氣中粒子負載與濁度愈高。",
     "source_url": "https://glossary.ametsoc.org/wiki/Volz_turbidity_factor"
   },
   {
     "english": "von Kármán's constant",
-    "traditional_chinese": "馮·卡門常數",
-    "definition_cht": "指與「馮·卡門常數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "馮・卡門常數",
+    "definition_cht": "邊界層與湍流理論中的無因次常數，常記為 κ，典型值約為 0.4；其出現在近地表對數風速剖面與壁面附近湍流速度分布公式中。",
     "source_url": "https://glossary.ametsoc.org/wiki/von_K%C3%A1rm%C3%A1n%27s_constant"
   },
   {
     "english": "Vortex",
     "traditional_chinese": "渦旋",
-    "definition_cht": "指流體繞共同中心作旋轉運動所形成的渦旋結構，可出現在大氣、海洋或實驗流場中。",
+    "definition_cht": "流體繞某一軸線或中心區域作旋轉運動所形成的旋渦結構，可見於大氣、海洋及實驗流場；其核心通常伴隨明顯的渦度集中與環流。",
     "source_url": "https://glossary.ametsoc.org/wiki/Vortex"
   },
   {
     "english": "vortex breakdown",
-    "traditional_chinese": "渦流擊穿",
-    "definition_cht": "指與「渦流擊穿」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦旋崩解",
+    "definition_cht": "強旋轉流在軸向發展過程中，因穩定性改變而由細長有序渦核突然轉為膨脹、停滯或伴隨回流區之結構轉換現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_breakdown"
   },
   {
     "english": "vortex cloud street",
-    "traditional_chinese": "漩渦雲街",
-    "definition_cht": "指與「漩渦雲街」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦街雲列",
+    "definition_cht": "由障礙物流場下游交替生成的渦旋所對應之成列雲系，常呈現規則排列的旋渦狀或逗點狀雲團，可視為渦街在雲場中的表現。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_cloud_street"
   },
   {
     "english": "vortex filament",
-    "traditional_chinese": "渦旋絲",
-    "definition_cht": "指與「渦旋絲」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦絲",
+    "definition_cht": "細長而局部集中的渦度結構，可視為渦管極細化後的近似表現，用以描述流場中狹窄帶狀的旋轉核心。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_filament"
   },
   {
     "english": "vortex line",
     "traditional_chinese": "渦線",
-    "definition_cht": "指與「渦線」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "definition_cht": "流場中處處與當地渦度向量相切的假想曲線，用以表示旋轉軸向在空間中的分布與延伸方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_line"
   },
   {
     "english": "vortex ring",
     "traditional_chinese": "渦環",
-    "definition_cht": "指與「渦環」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "definition_cht": "呈環狀閉合的渦旋結構，流體沿著近似甜甜圈形的路徑旋轉並向前推進；常見於噴流脈衝、爆炸流與對流實驗中。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_ring"
   },
   {
     "english": "vortex Rossby waves",
-    "traditional_chinese": "羅斯貝渦旋波",
-    "definition_cht": "指與「羅斯貝渦旋波」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦旋羅斯貝波",
+    "definition_cht": "存在於旋轉渦旋內部或周圍、受渦度或位渦徑向梯度控制的羅斯貝型波動，常用於解釋熱帶氣旋中的非對稱擾動、雨帶結構與強度調整。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_Rossby_waves"
   },
   {
     "english": "vortex sheet",
-    "traditional_chinese": "渦流片",
-    "definition_cht": "指與「渦流片」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦片",
+    "definition_cht": "流體中一個理想化曲面，其兩側切向速度存在不連續，因而使渦度集中於該薄層上；常用於描述剪切層與渦旋生成問題。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_sheet"
   },
   {
     "english": "vortex signature",
-    "traditional_chinese": "渦旋特徵",
-    "definition_cht": "指與「渦旋特徵」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦旋特徵訊號",
+    "definition_cht": "觀測資料中可辨識旋轉流場存在的特徵型態；在都卜勒天氣雷達上常指鄰近的向雷達與離雷達速度對偶，用於判識中尺度渦旋、龍捲或強旋轉上升氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_signature"
   },
   {
     "english": "vortex street",
-    "traditional_chinese": "渦流街",
-    "definition_cht": "指與「渦流街」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "traditional_chinese": "渦街",
+    "definition_cht": "流體繞過鈍體後，在其下游兩側交替脫落並規則排列的一系列渦旋結構，典型例子為卡門渦街。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_street"
   },
   {
     "english": "vortex stretching",
     "traditional_chinese": "渦旋拉伸",
-    "definition_cht": "指與「渦旋拉伸」相關的渦旋、旋轉流場或其結構特徵，可用於描述中小尺度至大尺度環流。",
+    "definition_cht": "渦管沿軸向被拉長時，因角動量近似守恆與截面縮小而使渦度增強的過程，是對流、龍捲與湍流增強的重要動力機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/vortex_stretching"
   },
   {
