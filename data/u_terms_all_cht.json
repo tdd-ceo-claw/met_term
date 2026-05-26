@@ -481,104 +481,104 @@
   },
   {
     "english": "upwind effect",
-    "traditional_chinese": "逆風效應",
-    "definition_cht": "指由特定作用機制造成的「逆風效應」現象或影響結果。",
+    "traditional_chinese": "上風效應",
+    "definition_cht": "指上風處的地形、地表粗糙度、熱力條件或污染源，對下游地點之風場、溫度、濕度或濃度分布所造成的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/upwind_effect"
   },
   {
     "english": "urban boundary layer",
     "traditional_chinese": "城市邊界層",
-    "definition_cht": "指與「城市邊界層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "definition_cht": "指位於城市上空、其結構與演變受城市下墊面粗糙度、人為熱與水汽排放明顯影響的大氣邊界層。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_boundary_layer"
   },
   {
     "english": "urban canopy",
     "traditional_chinese": "城市冠層",
-    "definition_cht": "指與都市地表、人為熱源、排水系統或都市氣候效應相關的概念。",
+    "definition_cht": "指由建築物、街道、樹木及其間空間構成的都市近地表粗糙結構，亦可泛指該結構對局地風、熱與污染傳輸的影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_canopy"
   },
   {
     "english": "urban canopy layer",
-    "traditional_chinese": "城市冠層",
-    "definition_cht": "指與「城市冠層」相關的大氣、海洋、湖泊或地表層結構，常依熱力、密度、濕度或動力特徵區分。",
+    "traditional_chinese": "城市冠層層",
+    "definition_cht": "指城市平均屋頂高度以下、位於街道與建築物之間的大氣層，風、溫度與污染物交換強烈受都市幾何形態控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_canopy_layer"
   },
   {
     "english": "urban canyons",
     "traditional_chinese": "城市峽谷",
-    "definition_cht": "指與都市地表、人為熱源、排水系統或都市氣候效應相關的概念。",
+    "definition_cht": "指道路兩側高樓夾峙而形成的狹長近地空間，其日照、通風、熱儲存與污染物擴散特性類似天然峽谷。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_canyons"
   },
   {
     "english": "urban climate",
     "traditional_chinese": "城市氣候",
-    "definition_cht": "指「城市氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "指城市地區在熱收支、風場、濕度、降水與空氣品質等方面，因都市化而呈現並異於周圍鄉村的地方氣候特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_climate"
   },
   {
     "english": "urban climatology",
     "traditional_chinese": "城市氣候學",
-    "definition_cht": "指與都市地表、人為熱源、排水系統或都市氣候效應相關的概念。",
+    "definition_cht": "研究都市化如何改變局地至區域尺度之熱力、動力、水文與空氣品質條件的氣候學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_climatology"
   },
   {
     "english": "urban effects",
-    "traditional_chinese": "城市效應",
-    "definition_cht": "指與都市地表、人為熱源、排水系統或都市氣候效應相關的概念。",
+    "traditional_chinese": "都市效應",
+    "definition_cht": "統稱都市化對氣象、水文與環境所造成的影響，例如熱島、通風改變、逕流增加與污染累積等。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_effects"
   },
   {
     "english": "Urban heat island",
     "traditional_chinese": "城市熱島",
-    "definition_cht": "指與都市地表、人為熱源、排水系統或都市氣候效應相關的概念。",
+    "definition_cht": "指城市因不透水鋪面、建築蓄熱與人為排熱等作用，氣溫常高於周圍郊區的現象，夜間通常更為明顯。",
     "source_url": "https://glossary.ametsoc.org/wiki/Urban_heat_island"
   },
   {
     "english": "urban hydrology",
-    "traditional_chinese": "城市水文學",
-    "definition_cht": "研究都市化對降雨逕流、滯洪、排水與地表水文反應影響的水文學分支。",
+    "traditional_chinese": "都市水文學",
+    "definition_cht": "研究都市化對降雨截留、入滲、逕流、排水、滯洪與洪峰反應影響的水文學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_hydrology"
   },
   {
     "english": "urban runoff",
-    "traditional_chinese": "都市徑流",
-    "definition_cht": "都市地表降水未入滲而沿排水系統或地表快速匯流的逕流。",
+    "traditional_chinese": "都市逕流",
+    "definition_cht": "指降水在不透水都市地表上難以入滲，因而沿地表或排水系統迅速匯流形成的逕流。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban_runoff"
   },
   {
     "english": "urban–rural circulation",
-    "traditional_chinese": "城鄉循環",
-    "definition_cht": "由都市與鄉村地表熱力與粗糙度差異所驅動的局地環流系統。",
+    "traditional_chinese": "城鄉環流",
+    "definition_cht": "由城市與鄉村之間的熱力與粗糙度差異所驅動的局地環流，常表現為近地層向城市輻合、上升後於上層回流。",
     "source_url": "https://glossary.ametsoc.org/wiki/urban%E2%80%93rural_circulation"
   },
   {
     "english": "UV",
     "traditional_chinese": "紫外線",
-    "definition_cht": "波長短於可見光的紫外電磁輻射總稱。",
+    "definition_cht": "指波長約介於 100 至 400 奈米、短於可見光而長於 X 射線的電磁輻射。",
     "source_url": "https://glossary.ametsoc.org/wiki/UV"
   },
   {
     "english": "UV and IR hygrometers",
     "traditional_chinese": "紫外與紅外濕度計",
-    "definition_cht": "指量測空氣水汽含量、相對濕度或相關濕度參數的儀器。",
+    "definition_cht": "利用水汽對紫外或紅外輻射之吸收特性，量測空氣中水汽含量、混合比或相關濕度參數的儀器。",
     "source_url": "https://glossary.ametsoc.org/wiki/UV_and_IR_hygrometers"
   },
   {
     "english": "UV-A",
     "traditional_chinese": "A 波段紫外線",
-    "definition_cht": "波長約 315 至 400 奈米的紫外線波段，穿透力較強並可抵達地表。",
+    "definition_cht": "波長約 315 至 400 奈米的紫外線，能量較低、穿透力較強，為到達地表的主要紫外波段。",
     "source_url": "https://glossary.ametsoc.org/wiki/UV-A"
   },
   {
     "english": "UV-B",
     "traditional_chinese": "B 波段紫外線",
-    "definition_cht": "波長約 280 至 315 奈米的紫外線波段，對生物與光化學作用較為顯著，且受臭氧層影響明顯。",
+    "definition_cht": "波長約 280 至 315 奈米的紫外線，受平流層臭氧吸收顯著，對生物作用與光化學反應影響較強。",
     "source_url": "https://glossary.ametsoc.org/wiki/UV-B"
   },
   {
     "english": "UV-C",
     "traditional_chinese": "C 波段紫外線",
-    "definition_cht": "波長約 100 至 280 奈米的短波紫外線，絕大部分會被大氣上層吸收而不易到達地表。",
+    "definition_cht": "波長約 100 至 280 奈米的短波紫外線，能量高，通常幾乎全被氧與臭氧吸收而不易抵達地表。",
     "source_url": "https://glossary.ametsoc.org/wiki/UV-C"
   }
 ]
