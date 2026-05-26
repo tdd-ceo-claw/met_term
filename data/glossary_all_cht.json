@@ -51811,122 +51811,122 @@
   },
   {
     "english": "trade air",
-    "traditional_chinese": "貿易航空",
-    "definition_cht": "指與「貿易航空」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "traditional_chinese": "信風氣團",
+    "definition_cht": "指構成信風的空氣，通常溫暖且含濕，並常伴隨信風逆溫層；屬熱帶下沉環流與海洋邊界層結構中的典型低層氣團。",
     "source_url": "https://glossary.ametsoc.org/wiki/trade_air"
   },
   {
     "english": "trade inversion",
-    "traditional_chinese": "貿易倒置",
-    "definition_cht": "信風帶下沉運動所造成的低層逆溫層，常限制對流雲頂高度並影響海洋邊界層結構。",
+    "traditional_chinese": "信風逆溫層",
+    "definition_cht": "指信風區低層上方常見的逆溫層，多與哈德里環流下沉支及副熱帶高壓有關，常抑制對流發展並限制淺積雲雲頂高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/trade_inversion"
   },
   {
     "english": "trade winds",
     "traditional_chinese": "信風",
-    "definition_cht": "指與「信風」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "地球熱帶地區盛行的低層偏東風，主要自副熱帶高壓帶吹向赤道輻合帶；北半球多為東北信風，南半球多為東南信風。",
     "source_url": "https://glossary.ametsoc.org/wiki/trade_winds"
   },
   {
     "english": "trade-wind belt",
-    "traditional_chinese": "貿易風帶",
-    "definition_cht": "指與「貿易風帶」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "traditional_chinese": "信風帶",
+    "definition_cht": "指地球兩半球受信風支配的低緯度帶狀區域，約位於副熱帶高壓帶與赤道輻合帶之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/trade-wind_belt"
   },
   {
     "english": "trade-wind cumulus",
     "traditional_chinese": "信風積雲",
-    "definition_cht": "指與「信風積雲」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "definition_cht": "在信風環境中發展的淺對流積雲，常見於熱帶海洋上空；其雲頂高度通常受信風逆溫層限制，多屬晴天或少量毛毛雨型雲系。",
     "source_url": "https://glossary.ametsoc.org/wiki/trade-wind_cumulus"
   },
   {
     "english": "trade-wind desert",
     "traditional_chinese": "信風沙漠",
-    "definition_cht": "指與「信風沙漠」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "definition_cht": "由副熱帶下沉氣流與乾燥信風環流主導、降水極少的熱帶或副熱帶沙漠類型，如部分大陸西岸與副熱帶乾旱區。",
     "source_url": "https://glossary.ametsoc.org/wiki/trade-wind_desert"
   },
   {
     "english": "trade-wind front",
-    "traditional_chinese": "信風前緣",
-    "definition_cht": "指與「信風前緣」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "traditional_chinese": "信風鋒",
+    "definition_cht": "暖季中出現在海洋性信風氣流與較熱乾大陸氣團之間的鋒面或過渡帶，常表現為風向、溫濕度與雲雨分布的明顯變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/trade-wind_front"
   },
   {
     "english": "trades",
-    "traditional_chinese": "交易",
-    "definition_cht": "指與「交易」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "信風",
+    "definition_cht": "trade winds 的簡稱或複數用法，指熱帶地區穩定由東向西吹送的盛行風。",
     "source_url": "https://glossary.ametsoc.org/wiki/trades"
   },
   {
     "english": "traersu",
-    "traditional_chinese": "特拉爾蘇",
-    "definition_cht": "指與「特拉爾蘇」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "颱風；颶風風暴古稱",
+    "definition_cht": "古代或地方性用語，為 typhoon／颱風一類強烈熱帶風暴的舊稱或異名；現代氣象業務中已少用。",
     "source_url": "https://glossary.ametsoc.org/wiki/traersu"
   },
   {
     "english": "trailing flare",
-    "traditional_chinese": "尾隨耀斑",
-    "definition_cht": "指與「尾隨耀斑」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "尾隨波瓣",
+    "definition_cht": "在雷達或天線圖形中，指主回波或主波束後方延伸出的較弱狹長回波／輻射尾跡，通常屬旁瓣、系統響應或幾何排列造成的附帶訊號，而非主要目標本體。",
     "source_url": "https://glossary.ametsoc.org/wiki/trailing_flare"
   },
   {
     "english": "trailing front",
-    "traditional_chinese": "尾隨前部",
-    "definition_cht": "指與「尾隨前部」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "後隨鋒",
+    "definition_cht": "指附屬於低壓或氣旋系統、位於主要擾動後方並向外延伸的鋒面部分，常接續於錮囚鋒或波動鋒後側。",
     "source_url": "https://glossary.ametsoc.org/wiki/trailing_front"
   },
   {
     "english": "trajectory",
     "traditional_chinese": "軌跡",
-    "definition_cht": "流體微粒或氣塊隨時間移動所描繪的路徑。",
+    "definition_cht": "指質點、氣塊、水粒或其他示蹤體隨時間移動所描繪的路徑；在氣象學中常用於拉格朗日分析與污染物、氣團或降水粒子輸送研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/trajectory"
   },
   {
     "english": "tramontana",
-    "traditional_chinese": "特拉蒙塔納",
-    "definition_cht": "指與「特拉蒙塔納」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "traditional_chinese": "特拉蒙塔納風；北風",
+    "definition_cht": "地中海地區的地方風名，通常指由山區吹向海岸的強勁而乾冷北風，在法國南部、義大利與西班牙部分地區尤為常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/tramontana"
   },
   {
     "english": "transducer",
-    "traditional_chinese": "感應器",
-    "definition_cht": "指與「感應器」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "換能器",
+    "definition_cht": "可將一種能量或物理量轉換為另一種能量或訊號的裝置；在氣象儀器中常用於把壓力、位移、聲波或輻射等量測量轉為電訊號。",
     "source_url": "https://glossary.ametsoc.org/wiki/transducer"
   },
   {
     "english": "transfer",
-    "traditional_chinese": "轉移",
-    "definition_cht": "指與「轉移」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "傳遞；轉移",
+    "definition_cht": "指質量、動量、熱量、水氣、輻射或其他物理量由一處、一道界面或一個系統向另一處輸送的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/transfer"
   },
   {
     "english": "transfer velocity",
-    "traditional_chinese": "轉移速度",
-    "definition_cht": "指與「轉移速度」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "傳輸速度；氣體交換速度",
+    "definition_cht": "描述物質跨界面交換效率的速度尺度，常用於海氣交換中表示氣體穿越海面薄層的有效交換速率；其大小受湍流、風速與分子擴散性質影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/transfer_velocity"
   },
   {
     "english": "transient",
-    "traditional_chinese": "瞬態",
-    "definition_cht": "指與「瞬態」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "瞬態；暫態",
+    "definition_cht": "指系統在外在強迫、初始擾動或邊界條件改變後，尚未達到新穩定狀態之前的短期過渡性變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/transient"
   },
   {
     "english": "transient climate response",
     "traditional_chinese": "瞬態氣候反應",
-    "definition_cht": "指「瞬態氣候反應」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "在氣候模式中，當大氣二氧化碳濃度以每年約 1% 複利增加並達到倍增時，全球平均地表氣溫相對初始狀態的升幅；用以衡量氣候系統對持續外在強迫的中期暖化反應。",
     "source_url": "https://glossary.ametsoc.org/wiki/transient_climate_response"
   },
   {
     "english": "transient eddies",
-    "traditional_chinese": "瞬變渦流",
-    "definition_cht": "指與「瞬變渦流」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "traditional_chinese": "瞬變渦動",
+    "definition_cht": "指平均流場上隨時間演變、非定常且非固定於某地的渦旋或擾動成分；在大氣環流中常參與熱量、動量與渦度的經向與垂直輸送。",
     "source_url": "https://glossary.ametsoc.org/wiki/transient_eddies"
   },
   {
     "english": "Transient luminous event",
     "traditional_chinese": "瞬態發光事件",
-    "definition_cht": "指與「瞬態發光事件」相關的跨介質、跨區域或過程性傳遞、輸送、透射或轉換現象。",
+    "definition_cht": "發生於對流雲頂上方高空、持續時間極短的發光電放電現象總稱，包括 sprites、elves、blue jets 等，屬上層大氣短暫電漿放電事件。",
     "source_url": "https://glossary.ametsoc.org/wiki/Transient_luminous_event"
   },
   {
