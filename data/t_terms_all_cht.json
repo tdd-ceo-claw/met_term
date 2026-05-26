@@ -2402,121 +2402,121 @@
   {
     "english": "Tropical meteorology",
     "traditional_chinese": "熱帶氣象學",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "definition_cht": "研究熱帶地區大氣現象與天氣氣候系統的氣象學分支，涵蓋熱帶環流、對流、季風、熱帶擾動、熱帶氣旋與海氣交互作用等。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tropical_meteorology"
   },
   {
     "english": "tropical monsoon climate",
     "traditional_chinese": "熱帶季風氣候",
-    "definition_cht": "指「熱帶季風氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "柯本氣候分類中的 Am 型氣候；全年月均溫皆高，降水量大，但具有明顯短暫乾季，性質介於熱帶雨林氣候與熱帶莽原氣候之間。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_monsoon_climate"
   },
   {
     "english": "tropical rain forest",
     "traditional_chinese": "熱帶雨林",
-    "definition_cht": "指與「熱帶雨林」相關的森林生態區或地表覆蓋類型，並與區域氣候及水文過程相互作用。",
+    "definition_cht": "分布於赤道附近高溫多雨地區、林冠濃密且生物多樣性極高的森林生態系，通常對應全年濕潤、乾季不明顯的氣候環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_rain_forest"
   },
   {
     "english": "tropical rain forest climate",
     "traditional_chinese": "熱帶雨林氣候",
-    "definition_cht": "指「熱帶雨林氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "柯本氣候分類中的 Af 型氣候；全年高溫、年較差小，且各月降水普遍充足，通常無明顯乾季。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_rain_forest_climate"
   },
   {
     "english": "Tropical Rainfall Measuring Mission",
     "traditional_chinese": "熱帶降雨測量任務",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "definition_cht": "NASA 與 JAXA 聯合執行的衛星任務，旨在量測並研究熱帶與副熱帶降雨及其垂直結構；TRMM 亦可指執行該任務的衛星本體。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tropical_Rainfall_Measuring_Mission"
   },
   {
     "english": "tropical rainy climate",
     "traditional_chinese": "熱帶多雨氣候",
-    "definition_cht": "指「熱帶多雨氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "definition_cht": "泛指全年高溫且降水豐沛的熱帶氣候類型，通常包含熱帶雨林氣候及部分熱帶季風氣候；特徵為濕季顯著、年雨量高。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_rainy_climate"
   },
   {
     "english": "tropical savanna climate",
-    "traditional_chinese": "熱帶稀樹草原氣候",
-    "definition_cht": "指「熱帶稀樹草原氣候」所對應的氣候型態、區域氣候條件或其長期平均特徵。",
+    "traditional_chinese": "熱帶莽原氣候",
+    "definition_cht": "柯本氣候分類中的 Aw 或 As 型氣候；全年高溫，但降水具有明顯乾濕季之分，乾季較長，天然植被多為草原或疏林。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_savanna_climate"
   },
   {
     "english": "Tropical storm",
     "traditional_chinese": "熱帶風暴",
-    "definition_cht": "指與「熱帶風暴」相關的風暴、劇烈天氣系統或對流組織。",
+    "definition_cht": "熱帶氣旋發展過程中的強度等級，指最大持續風速已達熱帶風暴標準、但尚未達颱風或颶風等更高等級的有組織低壓渦旋系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tropical_storm"
   },
   {
     "english": "tropical upper-tropospheric trough",
     "traditional_chinese": "熱帶上對流層槽",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "definition_cht": "位於熱帶上對流層的槽狀低壓環流或低壓帶，常簡稱 TUTT；可改變高空風切與對流環境，對熱帶氣旋生成與發展具有抑制或促進作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_upper-tropospheric_trough"
   },
   {
     "english": "Tropical Wind Energy Conversion and Reference Level Experiment",
     "traditional_chinese": "熱帶風能轉換與參考層實驗",
-    "definition_cht": "指與「熱帶風能轉換與參考層實驗」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "definition_cht": "簡稱 TWERLE，為 1970 年代以長時效氣球等觀測平台研究熱帶大氣下層風場、能量轉換與參考層特性的國際觀測實驗。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tropical_Wind_Energy_Conversion_and_Reference_Level_Experiment"
   },
   {
     "english": "tropical year",
-    "traditional_chinese": "熱帶年",
-    "definition_cht": "指與熱帶地區大氣環流、氣候條件、降水型態或天氣系統相關的概念。",
+    "traditional_chinese": "回歸年",
+    "definition_cht": "太陽相對春分點或其他季節基準連續兩次回到相同位置所經歷的時間，約為 365.2422 日，是曆法與季節循環的重要基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropical_year"
   },
   {
     "english": "Tropics",
     "traditional_chinese": "熱帶",
-    "definition_cht": "指與「熱帶」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其具體涵義仍需依實際學科脈絡與使用情境判定。",
+    "definition_cht": "地球上介於北回歸線與南回歸線之間的區域，在此範圍內太陽於一年中可直射地面上空；常亦泛指赤道附近的低緯度地帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/Tropics"
   },
   {
     "english": "tropopause",
     "traditional_chinese": "對流層頂",
-    "definition_cht": "對流層與平流層之間的大氣分界層，常表現為溫度直減率顯著改變。",
+    "definition_cht": "對流層與平流層之間的過渡邊界，特徵為氣溫垂直遞減率明顯減小或轉為近等溫／逆溫；其高度會隨緯度、季節與天氣系統而變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropopause"
   },
   {
     "english": "tropopause break line",
     "traditional_chinese": "對流層頂斷裂線",
-    "definition_cht": "指對流層頂及其相關結構、變化或診斷特性。",
+    "definition_cht": "對流層頂高度或壓力在水平分布上急遽改變所形成的界線，常位於急流或強斜壓帶附近，用於標示高、低對流層頂空氣的分界。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropopause_break_line"
   },
   {
     "english": "tropopause chart",
     "traditional_chinese": "對流層頂圖",
-    "definition_cht": "指對流層頂及其相關結構、變化或診斷特性。",
+    "definition_cht": "分析或預報對流層頂高度、壓力、溫度、風場等特徵的天氣圖，常用於研判急流、平流層空氣侵入與高空動力結構。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropopause_chart"
   },
   {
     "english": "tropopause fold",
     "traditional_chinese": "對流層頂褶皺",
-    "definition_cht": "高空鋒生或急流附近平流層空氣向下伸入對流層的褶皺結構，常與臭氧高值、乾侵入及晴空亂流有關。",
+    "definition_cht": "在急流或高空槽前後，平流層空氣沿對流層頂向下彎折並侵入對流層所形成的褶皺結構，常伴隨乾侵入、臭氧高值與晴空亂流。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropopause_fold"
   },
   {
     "english": "tropopause funnel",
     "traditional_chinese": "對流層頂漏斗",
-    "definition_cht": "指對流層頂及其相關結構、變化或診斷特性。",
+    "definition_cht": "對流層頂局部向下延伸而呈漏斗狀的結構，常與高空冷渦、槽線或強渦度區相關，表示平流層空氣向下侵入較低層。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropopause_funnel"
   },
   {
     "english": "tropopause inversion",
-    "traditional_chinese": "對流層頂反轉",
-    "definition_cht": "指對流層頂及其相關結構、變化或診斷特性。",
+    "traditional_chinese": "對流層頂逆溫",
+    "definition_cht": "出現在對流層頂附近的逆溫層或穩定層，反映對流層頂上下熱力結構的急劇轉變，常與深對流外逸流或平流層下部穩定層有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropopause_inversion"
   },
   {
     "english": "tropopause wave",
     "traditional_chinese": "對流層頂波",
-    "definition_cht": "指與「對流層頂波」相關的波動、擾動或傳播現象，可發生於大氣、海洋或電磁系統。",
+    "definition_cht": "沿對流層頂傳播或發展的波狀起伏，表現為對流層頂高度與位勢面的波動，常與急流、斜壓不穩定或高空擾動相聯。",
     "source_url": "https://glossary.ametsoc.org/wiki/tropopause_wave"
   },
   {
     "english": "troposphere",
     "traditional_chinese": "對流層",
-    "definition_cht": "大氣最接近地表的一層，天氣現象與多數水汽活動主要發生於此。",
+    "definition_cht": "大氣最接近地表的一層，包含大部分水氣與幾乎所有主要天氣現象；其氣溫通常隨高度增加而降低，上界為對流層頂。",
     "source_url": "https://glossary.ametsoc.org/wiki/troposphere"
   },
   {
