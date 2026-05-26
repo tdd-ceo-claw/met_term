@@ -53119,122 +53119,122 @@
   },
   {
     "english": "upper front",
-    "traditional_chinese": "上前部",
-    "definition_cht": "指與「上前部」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "高空鋒",
+    "definition_cht": "指主要存在於高空、未必直接延伸至地面的鋒區或鋒面結構；常表現為溫度梯度、風向轉變與垂直運動帶，對雲系與降水分布有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper_front"
   },
   {
     "english": "upper wind chart",
-    "traditional_chinese": "上風圖",
-    "definition_cht": "指與「上風圖」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "traditional_chinese": "高空風圖",
+    "definition_cht": "以高空觀測資料繪製、表示一定氣壓面或高度上風向與風速分布的天氣圖，供分析高空氣流、噴流與大尺度環流之用。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper_wind_chart"
   },
   {
     "english": "upper-air climatology",
     "traditional_chinese": "高空氣候學",
-    "definition_cht": "指與「高空氣候學」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "definition_cht": "研究高空大氣各要素（如溫度、風、濕度與位勢高度）之長期平均狀態、季節變化與統計特徵的氣候學分支。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-air_climatology"
   },
   {
     "english": "upper-air disturbance",
     "traditional_chinese": "高空擾動",
-    "definition_cht": "指與「高空擾動」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "definition_cht": "指高空氣流中風向、風速、溫度場或位勢高度場出現明顯變化的擾動系統，常伴隨冷空氣、氣旋性曲率或急流影響，易促進雲系與降水發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-air_disturbance"
   },
   {
     "english": "upper-air observation",
     "traditional_chinese": "高空觀測",
-    "definition_cht": "指與「高空觀測」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "definition_cht": "利用探空氣球、測風設備、雷達、航空器或遙測儀器，對地面以上自由大氣中的氣壓、溫度、濕度、風等要素所做的觀測。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-air_observation"
   },
   {
     "english": "upper-air sounding",
-    "traditional_chinese": "高空探測",
-    "definition_cht": "指與「高空探測」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "traditional_chinese": "高空探空",
+    "definition_cht": "以探空氣球、無線電探空儀或其他遙測方式量測大氣隨高度變化之溫度、濕度、氣壓與風等垂直廓線的作業或結果。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-air_sounding"
   },
   {
     "english": "upper-air station",
-    "traditional_chinese": "高空站",
-    "definition_cht": "指與「高空站」相關的大氣狀態、空氣性質或其穩定度特徵。",
+    "traditional_chinese": "高空觀測站",
+    "definition_cht": "專門執行高空觀測或探空作業的氣象測站，定時取得自由大氣的溫度、濕度、風與氣壓等垂直分布資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-air_station"
   },
   {
     "english": "upper-level anticyclone",
-    "traditional_chinese": "高層反氣旋",
-    "definition_cht": "指與「高層反氣旋」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "高空反氣旋",
+    "definition_cht": "位於高空的反氣旋性環流系統，通常表現為高壓脊或封閉高壓中心，伴隨順時針環流（北半球）、下沉運動與較穩定天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-level_anticyclone"
   },
   {
     "english": "upper-level chart",
-    "traditional_chinese": "上層圖表",
-    "definition_cht": "指與「上層圖表」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "高空天氣圖",
+    "definition_cht": "以高空觀測資料繪製的等壓面分析圖，常用於表示位勢高度、溫度、風場與濕度分布，以分析高空環流與天氣系統演變。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-level_chart"
   },
   {
     "english": "upper-level cyclone",
-    "traditional_chinese": "高層氣旋",
-    "definition_cht": "指與「高層氣旋」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "高空氣旋",
+    "definition_cht": "位於高空的氣旋性環流系統，常呈槽線或封閉低壓形式，伴隨冷心結構、輻散與上升運動，常有利於雲系及降水發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-level_cyclone"
   },
   {
     "english": "upper-level rainband",
-    "traditional_chinese": "高層雨帶",
-    "definition_cht": "指與「高層雨帶」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "高空雨帶",
+    "definition_cht": "與高空擾動、槽線、氣旋或高空輻散區相關的帶狀降水區；其生成與維持主要受高空動力抬升與水氣輸送配置影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-level_rainband"
   },
   {
     "english": "upper-level ridge",
-    "traditional_chinese": "上層山脊",
-    "definition_cht": "指與「上層山脊」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "高空脊",
+    "definition_cht": "高空等壓面或高度場向極地方向凸出的脊狀區域，代表相對較高的位勢高度，常伴隨反氣旋性曲率、下沉運動與較穩定天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-level_ridge"
   },
   {
     "english": "upper-level trough",
-    "traditional_chinese": "上層槽",
-    "definition_cht": "指與「上層槽」相關的槽狀低值系統、延伸低壓帶或其動力結構。",
+    "traditional_chinese": "高空槽",
+    "definition_cht": "高空等壓面或高度場向赤道方向延伸的槽狀區域，代表相對較低的位勢高度，常伴隨氣旋性曲率、冷空氣與上升運動，對天氣變化具重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/upper-level_trough"
   },
   {
     "english": "uprush",
-    "traditional_chinese": "湧動",
-    "definition_cht": "指與「湧動」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "上衝",
+    "definition_cht": "指流體、氣流或波浪受動力作用而向上或向前上方急速衝升的運動；在海岸與波浪研究中，常指波水沿岸坡向上奔湧的階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/uprush"
   },
   {
     "english": "upslope fog",
     "traditional_chinese": "上坡霧",
-    "definition_cht": "指與「上坡霧」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "definition_cht": "潮濕而穩定的空氣沿山坡或高地被迫抬升，因絕熱冷卻達到飽和而形成的霧。",
     "source_url": "https://glossary.ametsoc.org/wiki/upslope_fog"
   },
   {
     "english": "upslope wind",
     "traditional_chinese": "上坡風",
-    "definition_cht": "指與「上坡風」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "definition_cht": "沿山坡由低處吹向高處的局地風，常因坡面受熱造成近地空氣上升而形成；白天較常見，並可促進地形抬升。",
     "source_url": "https://glossary.ametsoc.org/wiki/upslope_wind"
   },
   {
     "english": "upstream",
     "traditional_chinese": "上游",
-    "definition_cht": "指與「上游」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "definition_cht": "指相對於流動方向而言，位於來流來源一側或朝向源頭的一方；可用於河川、水流、氣流與波動傳播等情境。",
     "source_url": "https://glossary.ametsoc.org/wiki/upstream"
   },
   {
     "english": "upvalley wind",
     "traditional_chinese": "上谷風",
-    "definition_cht": "指與「上谷風」相關的局地風系、盛行風型或風場特徵，著重其形成機制、方向與天氣影響。",
+    "definition_cht": "沿山谷由谷口或低處吹向谷內上游、高處地區的局地風，多在白天因山谷受熱而形成，屬谷風環流的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/upvalley_wind"
   },
   {
     "english": "upwelling",
-    "traditional_chinese": "上升流",
-    "definition_cht": "指與「上升流」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "湧升流",
+    "definition_cht": "在海洋動力學中，指次表層海水向上輸送至海面的過程；常將較冷、富含營養鹽的海水帶至表層，對海溫、生態與漁場有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/upwelling"
   },
   {
     "english": "upwind",
-    "traditional_chinese": "逆風",
-    "definition_cht": "指與「逆風」相關的上升、上方層結、向上輸送或抬升運動概念。",
+    "traditional_chinese": "上風側",
+    "definition_cht": "指位於來風方向的一側，或朝向風之來源的方向；常用以描述污染物傳輸、地形迎風面或觀測位置與風向的相對關係。",
     "source_url": "https://glossary.ametsoc.org/wiki/upwind"
   },
   {
