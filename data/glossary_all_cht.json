@@ -54062,121 +54062,121 @@
   {
     "english": "VIL",
     "traditional_chinese": "垂直積分液態水含量",
-    "definition_cht": "「VIL」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "definition_cht": "Vertically Integrated Liquid 的縮寫；由天氣雷達沿垂直方向整合反射率後估算雲體內液態降水總量的產品，常用於研判強對流、豪雨潛勢與冰雹可能性。",
     "source_url": "https://glossary.ametsoc.org/wiki/VIL"
   },
   {
     "english": "violent storm",
-    "traditional_chinese": "猛烈的風暴",
-    "definition_cht": "指與「猛烈的風暴」相關的風暴系統、劇烈天氣事件或其動力與降水特徵。",
+    "traditional_chinese": "猛烈風暴",
+    "definition_cht": "蒲福風級中的 11 級風，指平均風速約 56–63 節（約 28.5–32.6 m/s）的極強風狀態；再上一級為 12 級颶風。",
     "source_url": "https://glossary.ametsoc.org/wiki/violent_storm"
   },
   {
     "english": "virazon",
-    "traditional_chinese": "維拉松",
-    "definition_cht": "指與「維拉松」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "維拉松海風",
+    "definition_cht": "西班牙語地方風名，通常指沿海地區白天由海面吹向陸地的海風；其形成與陸海熱力差異及近岸局地環流有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/virazon"
   },
   {
     "english": "virazones",
-    "traditional_chinese": "維拉佐內斯",
-    "definition_cht": "指與「維拉佐內斯」相關的帶狀區域、作用區或環流分區。",
+    "traditional_chinese": "維拉松海風（複數）",
+    "definition_cht": "virazon 的複數形式，泛指沿岸出現的海風事件或海陸風循環中的海風階段。",
     "source_url": "https://glossary.ametsoc.org/wiki/virazones"
   },
   {
     "english": "Virga",
-    "traditional_chinese": "維爾加",
-    "definition_cht": "指與「維爾加」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "幡狀降水",
+    "definition_cht": "指自雲底向下延伸、但在到達地面前即蒸發或昇華消失的降水條帶，常見於乾燥下層大氣，並可能伴隨蒸發冷卻與下沉氣流增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/Virga"
   },
   {
     "english": "virtual height",
-    "traditional_chinese": "虛擬高度",
-    "definition_cht": "指與「虛擬高度」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "虛高度",
+    "definition_cht": "在電離層探測中，依無線電波往返傳播時間並假設其以光速直線傳播所換算出的表觀反射高度；通常大於實際反射或折射高度。",
     "source_url": "https://glossary.ametsoc.org/wiki/virtual_height"
   },
   {
     "english": "virtual impactor",
     "traditional_chinese": "虛擬衝擊器",
-    "definition_cht": "指與「虛擬衝擊器」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "利用氣膠粒子慣性差異進行分徑或濃縮的採樣裝置；粒子不直接撞擊固體收集面，而是隨主流與副流分配，用於細懸浮微粒量測與前處理。",
     "source_url": "https://glossary.ametsoc.org/wiki/virtual_impactor"
   },
   {
     "english": "virtual potential temperature",
     "traditional_chinese": "虛位溫",
-    "definition_cht": "指與「虛位溫」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "指與某濕空氣團在同一壓力下具有相同密度之乾空氣，若乾絕熱移至標準壓力後所對應的位溫；常用於判斷浮力與靜力穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/virtual_potential_temperature"
   },
   {
     "english": "virtual temperature",
     "traditional_chinese": "虛溫",
-    "definition_cht": "指與「虛溫」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "指與某濕空氣團在相同壓力與密度下相當的乾空氣溫度；由於水氣分子量較小，含水氣的空氣其虛溫通常高於實際氣溫。",
     "source_url": "https://glossary.ametsoc.org/wiki/virtual_temperature"
   },
   {
     "english": "VIS",
-    "traditional_chinese": "視覺系統",
-    "definition_cht": "「VIS」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "traditional_chinese": "可見光",
+    "definition_cht": "visible 的縮寫；在衛星遙測、輻射觀測與儀器通道命名中，通常指可見光波段或其對應影像／資料產品。",
     "source_url": "https://glossary.ametsoc.org/wiki/VIS"
   },
   {
     "english": "viscosity",
     "traditional_chinese": "黏度",
-    "definition_cht": "流體因內部摩擦而抵抗變形或相對運動的性質，影響動量傳遞、紊流結構與邊界層流動行為。",
+    "definition_cht": "流體因分子作用與動量交換而對變形或相對流動產生內部阻抗的性質；黏度愈大，流體愈不易流動。",
     "source_url": "https://glossary.ametsoc.org/wiki/viscosity"
   },
   {
     "english": "viscosity coefficient",
     "traditional_chinese": "黏度係數",
-    "definition_cht": "指與「黏度係數」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "表徵流體黏滯性的比例常數；在牛頓流體中，剪應力與速度梯度成正比，其比例常數即為動力黏度（亦稱動黏滯係數之相關基礎量）。",
     "source_url": "https://glossary.ametsoc.org/wiki/viscosity_coefficient"
   },
   {
     "english": "viscous drag",
-    "traditional_chinese": "黏性阻力",
-    "definition_cht": "指與「黏性阻力」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "黏滯阻力",
+    "definition_cht": "物體在流體中運動，或流體層彼此相對運動時，因黏滯作用而產生、方向與相對運動相反的阻力。",
     "source_url": "https://glossary.ametsoc.org/wiki/viscous_drag"
   },
   {
     "english": "viscous fluid",
     "traditional_chinese": "黏性流體",
-    "definition_cht": "指與「黏性流體」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "具有不可忽略黏度、其流動會受內部摩擦顯著影響的流體；與理想化的無黏流體相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/viscous_fluid"
   },
   {
     "english": "viscous force",
     "traditional_chinese": "黏滯力",
-    "definition_cht": "指與「黏滯力」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "由流體黏度引起、用以抵抗速度差與形變的內力，實質上反映動量在分子尺度上的擴散作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/viscous_force"
   },
   {
     "english": "viscous stresses",
     "traditional_chinese": "黏滯應力",
-    "definition_cht": "指與「黏滯應力」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "definition_cht": "流體因黏滯作用在變形或速度梯度存在時所產生的內部應力，包括剪應力及與黏性相關的正應力分量。",
     "source_url": "https://glossary.ametsoc.org/wiki/viscous_stresses"
   },
   {
     "english": "viscous subrange",
-    "traditional_chinese": "黏性子範圍",
-    "definition_cht": "指與「黏性子範圍」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "黏滯次範圍",
+    "definition_cht": "湍流能譜高波數端由分子黏滯主導的小尺度範圍，在此動能主要轉為熱能並被耗散。",
     "source_url": "https://glossary.ametsoc.org/wiki/viscous_subrange"
   },
   {
     "english": "viscous-convective subrange",
-    "traditional_chinese": "黏性對流亞範圍",
-    "definition_cht": "指與「黏性對流亞範圍」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "黏滯—對流次範圍",
+    "definition_cht": "被動標量湍流中，速度場已受黏滯平滑化，但標量變異仍由平流與拉伸主導的尺度範圍；常見於高施密特數或高普朗特數情況。",
     "source_url": "https://glossary.ametsoc.org/wiki/viscous-convective_subrange"
   },
   {
     "english": "visentina",
-    "traditional_chinese": "維森蒂納",
-    "definition_cht": "指與「維森蒂納」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "維森蒂納風",
+    "definition_cht": "義大利語地方風名，指義大利東北部一帶受地形與區域天氣形勢影響的局地風。實際風向與性質會依地區用法與天氣條件而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/visentina"
   },
   {
     "english": "visibility",
     "traditional_chinese": "能見度",
-    "definition_cht": "指與「能見度」相關的能見度、視程或目標辨識條件，常用於航空、航海與地面觀測。",
+    "definition_cht": "在當時大氣條件下，觀測者能清楚辨認目標物或燈光的最大距離；受霧、雨、雪、塵霾與氣膠等造成的消光影響，為航空與地面觀測的重要要素。",
     "source_url": "https://glossary.ametsoc.org/wiki/visibility"
   },
   {
