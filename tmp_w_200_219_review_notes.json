@@ -1,0 +1,142 @@
+{
+  "warm front": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_front",
+      "https://en.wikipedia.org/wiki/Warm_front"
+    ],
+    "changed": true
+  },
+  "warm high": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_high",
+      "https://glossary.ametsoc.org/wiki/cold-core_high"
+    ],
+    "changed": true
+  },
+  "warm low": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_low",
+      "https://glossary.ametsoc.org/wiki/cold-core_low"
+    ],
+    "changed": true
+  },
+  "warm occluded front": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_occluded_front",
+      "https://en.wikipedia.org/wiki/Occluded_front"
+    ],
+    "changed": true
+  },
+  "warm occlusion": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_occlusion",
+      "https://en.wikipedia.org/wiki/Occluded_front"
+    ],
+    "changed": true
+  },
+  "warm pool": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_pool",
+      "https://en.wikipedia.org/wiki/Warm_pool"
+    ],
+    "changed": true
+  },
+  "Warm rain": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_rain",
+      "https://en.wikipedia.org/wiki/Rain#Warm_rain_process"
+    ],
+    "changed": true
+  },
+  "Warm rain process": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Warm_rain_process",
+      "https://en.wikipedia.org/wiki/Rain#Warm_rain_process"
+    ],
+    "changed": true
+  },
+  "warm ridge": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_ridge",
+      "https://glossary.ametsoc.org/wiki/ridge"
+    ],
+    "changed": true
+  },
+  "warm sector": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_sector",
+      "https://en.wikipedia.org/wiki/Mid-latitude_cyclone#Structure"
+    ],
+    "changed": true
+  },
+  "warm tongue": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_tongue",
+      "https://glossary.ametsoc.org/wiki/cold_tongue"
+    ],
+    "changed": true
+  },
+  "warm wave": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm_wave",
+      "https://en.wikipedia.org/wiki/Heat_wave"
+    ],
+    "changed": true
+  },
+  "warm-core rings": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm-core_rings",
+      "https://en.wikipedia.org/wiki/Warm-core_ring"
+    ],
+    "changed": true
+  },
+  "warm-front wave": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm-front_wave",
+      "https://glossary.ametsoc.org/wiki/frontal_wave"
+    ],
+    "changed": true
+  },
+  "warm-front-type occlusion": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm-front-type_occlusion",
+      "https://en.wikipedia.org/wiki/Occluded_front"
+    ],
+    "changed": true
+  },
+  "warm-type occlusion": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warm-type_occlusion",
+      "https://en.wikipedia.org/wiki/Occluded_front"
+    ],
+    "changed": true
+  },
+  "warning": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warning",
+      "https://www.weather.gov/lwx/warningsdefined"
+    ],
+    "changed": true
+  },
+  "warning stage": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/warning_stage",
+      "https://www.weather.gov/aprfc/terminology"
+    ],
+    "changed": true
+  },
+  "Wasatch winds": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Wasatch_winds",
+      "https://en.wikipedia.org/wiki/Wasatch"
+    ],
+    "changed": true
+  },
+  "Washoe zephyr": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Washoe_zephyr",
+      "https://en.wikipedia.org/wiki/Washoe_Zephyr"
+    ],
+    "changed": true
+  }
+}
