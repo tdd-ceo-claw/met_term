@@ -1561,122 +1561,122 @@
   },
   {
     "english": "wind-direction shaft",
-    "traditional_chinese": "風向軸",
-    "definition_cht": "指與「風向軸」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風向桿",
+    "definition_cht": "天氣圖上表示風向的基本符號，為自測站位置沿上風方向伸出的直線，常與風羽或風速記號配合繪示近地面風場。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind-direction_shaft"
   },
   {
     "english": "wind-driven current",
-    "traditional_chinese": "風力驅動的水流",
-    "definition_cht": "指與「風力驅動的水流」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風驅流",
+    "definition_cht": "由風應力作用於水面所產生的海洋、湖泊或其他水體流動，流向與流速受持續風場、科氏力及摩擦效應共同控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind-driven_current"
   },
   {
     "english": "wind-driven oceanic circulation",
-    "traditional_chinese": "風驅動的海洋環流",
-    "definition_cht": "指與「風驅動的海洋環流」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風驅海洋環流",
+    "definition_cht": "由大尺度盛行風透過風應力驅動的海洋表層環流系統，包括副熱帶環流、赤道流系及相關湧升與下沉區。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind-driven_oceanic_circulation"
   },
   {
     "english": "wind-finding",
     "traditional_chinese": "測風",
-    "definition_cht": "指與「測風」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "測定各高度風向與風速的觀測作業，常利用測風氣球、雷達、測風經緯儀、風廓線儀或航空器觀測進行。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind-finding"
   },
   {
     "english": "wind-induced surface heat exchange",
-    "traditional_chinese": "風致表面熱交換",
-    "definition_cht": "指與「風致表面熱交換」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風致地表熱交換",
+    "definition_cht": "風速改變近地表湍流與邊界層傳輸效率，從而增強或抑制地表與大氣之間顯熱、潛熱交換的過程。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind-induced_surface_heat_exchange"
   },
   {
     "english": "wind-shift line",
-    "traditional_chinese": "風移線",
-    "definition_cht": "指與「風移線」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風向切變線",
+    "definition_cht": "地面或低層大氣中風向在狹窄區域內明顯轉變的界線，常標示氣團邊界、輻合帶或鋒面附近的風場突變。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind-shift_line"
   },
   {
     "english": "windbreak",
-    "traditional_chinese": "防風林",
-    "definition_cht": "指與「防風林」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "防風障",
+    "definition_cht": "用以削弱近地面風速、降低風害與蒸散的天然或人工屏障；在農業上常指防風林、防風籬或其他遮蔽物。",
     "source_url": "https://glossary.ametsoc.org/wiki/windbreak"
   },
   {
     "english": "windburn",
-    "traditional_chinese": "風燒傷",
-    "definition_cht": "指與「風燒傷」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風灼",
+    "definition_cht": "人體皮膚因強風、低溫與乾燥環境共同作用而出現乾裂、刺痛或泛紅的現象，實際上多與失水及冷暴露有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/windburn"
   },
   {
     "english": "window",
-    "traditional_chinese": "窗口",
-    "definition_cht": "指適合進行觀測、作業、發射、飛航或施工的有利時間區間或環境條件。",
+    "traditional_chinese": "有利時段",
+    "definition_cht": "在觀測、發射、飛航或其他作業中，環境條件暫時符合要求而可安全執行任務的時間窗口。",
     "source_url": "https://glossary.ametsoc.org/wiki/window"
   },
   {
     "english": "windrow cloud",
-    "traditional_chinese": "行列雲",
-    "definition_cht": "指沿平行流線或輻合帶排列成列的雲系，常與邊界層卷流或風向一致的對流組織有關。",
+    "traditional_chinese": "風列雲",
+    "definition_cht": "沿邊界層滾軸渦流或輻合帶排列成平行長列的雲帶，其延伸方向通常與低層風向大致一致。",
     "source_url": "https://glossary.ametsoc.org/wiki/windrow_cloud"
   },
   {
     "english": "winds aloft",
     "traditional_chinese": "高空風",
-    "definition_cht": "指地面以上較高層大氣中的風場狀態，常用於航空氣象與高空分析。",
+    "definition_cht": "地面以上各高度層的風向與風速資訊，常指供航空與天氣分析使用的高空風及溫度預報或觀測資料。",
     "source_url": "https://glossary.ametsoc.org/wiki/winds_aloft"
   },
   {
     "english": "winds-aloft observation",
     "traditional_chinese": "高空風觀測",
-    "definition_cht": "指與「高空風觀測」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "針對不同高度風向與風速所進行的觀測，通常由測風氣球、雷達、導航追蹤或其他高空探測方法取得。",
     "source_url": "https://glossary.ametsoc.org/wiki/winds-aloft_observation"
   },
   {
     "english": "winds-aloft plotting board",
     "traditional_chinese": "高空風繪圖板",
-    "definition_cht": "指與「高空風繪圖板」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "用於將各高度高空風觀測值換算並標繪到分析圖上的專用輔助板，供航空氣象與高空天氣分析使用。",
     "source_url": "https://glossary.ametsoc.org/wiki/winds-aloft_plotting_board"
   },
   {
     "english": "Windstorm",
-    "traditional_chinese": "風暴",
-    "definition_cht": "指以強風為主要危害的劇烈天氣事件，可伴隨沙塵、降水或風暴潮。",
+    "traditional_chinese": "強風暴",
+    "definition_cht": "以破壞性強風為主要災害表現的天氣事件，可能伴隨氣壓劇變、降水、沙塵、雷暴或風暴潮等現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/Windstorm"
   },
   {
     "english": "Windward",
     "traditional_chinese": "迎風側",
-    "definition_cht": "指相對於來流方向直接受風影響的一側，常伴隨抬升、雲雨增強與迎風效應。",
+    "definition_cht": "相對於來流風向而位於上風處的一側；在地形上常因氣流受迫抬升而較易出現雲量與降水增強。",
     "source_url": "https://glossary.ametsoc.org/wiki/Windward"
   },
   {
     "english": "windward side",
     "traditional_chinese": "迎風面",
-    "definition_cht": "指與「迎風面」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "地形、建築物或其他障礙物直接面向來風的一面，通常承受較強風壓，並常伴隨抬升與凝結作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/windward_side"
   },
   {
     "english": "WINTEM",
-    "traditional_chinese": "溫特姆",
-    "definition_cht": "「WINTEM」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "traditional_chinese": "高空風溫資料",
+    "definition_cht": "航空氣象中對高空風與氣溫資料或其預報產品的縮略稱法，供航路飛行規劃與高空分析參考；實際格式與用法可能隨機構及年代而異。",
     "source_url": "https://glossary.ametsoc.org/wiki/WINTEM"
   },
   {
     "english": "winter",
-    "traditional_chinese": "冬天",
-    "definition_cht": "指與「冬天」相關的冬季氣候、季風、風暴或低溫環境特徵。",
+    "traditional_chinese": "冬季",
+    "definition_cht": "一年中太陽高度較低、平均氣溫偏低的季節；在氣候學上可依月份、氣溫或天文條件界定其起迄。",
     "source_url": "https://glossary.ametsoc.org/wiki/winter"
   },
   {
     "english": "winter ice",
-    "traditional_chinese": "冬天的冰",
-    "definition_cht": "指與「冬天的冰」相關的冬季氣候、季風、風暴或低溫環境特徵。",
+    "traditional_chinese": "冬冰",
+    "definition_cht": "於冬季低溫條件下形成或持續存在的冰層、浮冰或地表結冰現象，常見於河川、湖泊、海域與地面結冰環境。",
     "source_url": "https://glossary.ametsoc.org/wiki/winter_ice"
   },
   {
     "english": "winter monsoon",
     "traditional_chinese": "冬季季風",
-    "definition_cht": "指與「冬季季風」相關的冬季氣候、季風、風暴或低溫環境特徵。",
+    "definition_cht": "由冬季大陸冷高壓與海陸熱力差異驅動的盛行風系，特徵為由陸吹向海並常伴隨乾冷空氣南侵。",
     "source_url": "https://glossary.ametsoc.org/wiki/winter_monsoon"
   },
   {
