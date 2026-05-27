@@ -1,0 +1,142 @@
+{
+  "wind reversal": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-reversal/",
+      "https://en.wikipedia.org/wiki/Wind_direction"
+    ],
+    "changed": true
+  },
+  "wind ridge": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-ridge/",
+      "https://nsidc.org/learn/parts-cryosphere/snow/sculpting-snow-wind-and-water"
+    ],
+    "changed": true
+  },
+  "wind ripple": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-ripple/",
+      "https://digital-desert.com/blog/ripples/"
+    ],
+    "changed": true
+  },
+  "wind rose": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-rose/",
+      "https://en.wikipedia.org/wiki/Wind_rose"
+    ],
+    "changed": true
+  },
+  "wind scoop": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-scoop/",
+      "https://nsidc.org/learn/parts-cryosphere/snow/sculpting-snow-wind-and-water"
+    ],
+    "changed": true
+  },
+  "wind sea": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-sea/",
+      "https://www.bom.gov.au/resources/learn-and-explore/marine-knowledge-centre/waves-and-swell"
+    ],
+    "changed": true
+  },
+  "wind setup": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-setup/",
+      "https://en.wikipedia.org/wiki/Wind_setup"
+    ],
+    "changed": true
+  },
+  "wind shear": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-shear/",
+      "https://en.wikipedia.org/wiki/Wind_shear"
+    ],
+    "changed": true
+  },
+  "wind shield": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-shield/",
+      "https://glossary.ametsoc.org/wiki/rain-gauge_shield/"
+    ],
+    "changed": true
+  },
+  "wind slab": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-slab/",
+      "https://avalanche.org/avalanche-encyclopedia/avalanche/avalanche-problems/avalanche-problem-type/wind-slab/"
+    ],
+    "changed": true
+  },
+  "wind sock": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-sock/",
+      "https://en.wikipedia.org/wiki/Windsock"
+    ],
+    "changed": true
+  },
+  "wind speed": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-speed/",
+      "https://www.weather.gov/pqr/wind"
+    ],
+    "changed": true
+  },
+  "wind stress": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-stress/",
+      "https://en.wikipedia.org/wiki/Wind_stress"
+    ],
+    "changed": true
+  },
+  "wind stress curl": {
+    "checks": [
+      "https://journals.ametsoc.org/view/journals/atot/21/8/1520-0426_2004_021_1216_wscaws_2_0_co_2.xml",
+      "https://marshallplumb.mit.edu/ocean-obs/wind-stresscurl"
+    ],
+    "changed": true
+  },
+  "wind turbine": {
+    "checks": [
+      "https://en.wikipedia.org/wiki/Wind_turbine",
+      "https://www.energy.gov/eere/wind/how-do-wind-turbines-work"
+    ],
+    "changed": true
+  },
+  "wind vane": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-vane/",
+      "https://en.wikipedia.org/wiki/Weather_vane"
+    ],
+    "changed": true
+  },
+  "wind vector": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-vector/",
+      "https://mst.nerc.ac.uk/wind_vect_convs.html"
+    ],
+    "changed": true
+  },
+  "wind velocity profile": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/velocity-profile/",
+      "https://en.wikipedia.org/wiki/Wind_profile_power_law"
+    ],
+    "changed": true
+  },
+  "wind wave": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-wave/",
+      "https://en.wikipedia.org/wiki/Wind_wave"
+    ],
+    "changed": true
+  },
+  "wind-chill index": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/wind-chill-index/",
+      "https://www.weather.gov/safety/cold-wind-chill-chart"
+    ],
+    "changed": true
+  }
+}

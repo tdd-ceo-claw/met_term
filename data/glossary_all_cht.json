@@ -55915,122 +55915,122 @@
   },
   {
     "english": "wind reversal",
-    "traditional_chinese": "風逆轉",
-    "definition_cht": "指與「風逆轉」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風向逆轉",
+    "definition_cht": "風向在時間上或空間上轉為近乎相反方向的變化；可指同一地點隨時間由東風轉為西風，也可指相鄰區域風向相反的配置。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_reversal"
   },
   {
     "english": "wind ridge",
     "traditional_chinese": "風脊",
-    "definition_cht": "指與「風脊」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "風在硬雪表面吹蝕與堆積後形成的單一道脊狀隆起；性質近似雪蝕脊（sastrugi），但通常較著重指單一脊線。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_ridge"
   },
   {
     "english": "wind ripple",
-    "traditional_chinese": "風紋",
-    "definition_cht": "指與「風紋」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風成波紋",
+    "definition_cht": "風作用於鬆散砂粒或雪粒表面所形成的細小波紋狀起伏，反映近地表氣流的搬運、侵蝕與堆積作用。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_ripple"
   },
   {
     "english": "wind rose",
     "traditional_chinese": "風花圖",
-    "definition_cht": "指與「風花圖」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "以極座標統計圖表示某地在一段期間內各風向的出現頻率，並常同時以色帶或分級顯示不同風速範圍的分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_rose"
   },
   {
     "english": "wind scoop",
-    "traditional_chinese": "集風器",
-    "definition_cht": "指用於導引、收集或增強氣流通過的裝置，可應用於通風或量測系統。",
+    "traditional_chinese": "風蝕凹地",
+    "definition_cht": "障礙物如樹木、房舍或岩石附近，因偏轉氣流產生渦旋而在雪面掏蝕出的碟狀或淺盆狀凹地。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_scoop"
   },
   {
     "english": "wind sea",
-    "traditional_chinese": "風海",
-    "definition_cht": "指與「風海」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風浪海",
+    "definition_cht": "由當地風場直接生成並維持的海面波浪狀態；其波長通常較短、波峰較陡且較紊亂，與遠方傳來的湧浪有別。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_sea"
   },
   {
     "english": "wind setup",
     "traditional_chinese": "風增水",
-    "definition_cht": "指持續風吹送使水體向下風處堆積，導致局地平均水位升高的現象。",
+    "definition_cht": "持續風吹送使表層水體向下風岸堆積，造成局地平均水位上升的現象，常見於湖泊、河口與沿岸海域。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_setup"
   },
   {
     "english": "wind shear",
     "traditional_chinese": "風切變",
-    "definition_cht": "指與「風切變」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "風速和／或風向在短距離內發生顯著變化的現象，可分為垂直風切變與水平風切變，對對流發展與航空安全都很重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_shear"
   },
   {
     "english": "wind shield",
     "traditional_chinese": "防風罩",
-    "definition_cht": "指用於減少外界氣流干擾、保護儀器或改善量測品質的遮蔽裝置。",
+    "definition_cht": "裝設於雨量器或其他氣象儀器周圍、用以降低風對量測造成擾動與偏差的遮蔽或整流裝置。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_shield"
   },
   {
     "english": "wind slab",
     "traditional_chinese": "風板",
-    "definition_cht": "指與「風板」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "風將鬆雪搬運至背風側後堆積並壓實形成的板狀雪層，可由柔軟到堅硬不等，常是雪崩危險的重要指標。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_slab"
   },
   {
     "english": "wind sock",
     "traditional_chinese": "風向袋",
-    "definition_cht": "指與「風向袋」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "以布製成的錐形或筒形指示器，懸掛後可用來直觀顯示近地面風的來向及大致強弱，常見於機場與工業場址。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_sock"
   },
   {
     "english": "wind speed",
     "traditional_chinese": "風速",
-    "definition_cht": "指與「風速」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "空氣在單位時間內的移動速度，通常指水平風速；可用公尺每秒、節或公里每小時表示，是描述風場強度的基本量。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_speed"
   },
   {
     "english": "wind stress",
     "traditional_chinese": "風應力",
-    "definition_cht": "指與「風應力」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "風作用於地表或水面所施加的切應力，即單位面積上的水平動量通量；在海氣交互作用中是生成海浪、驅動海流的重要機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_stress"
   },
   {
     "english": "wind stress curl",
-    "traditional_chinese": "風應力捲曲",
-    "definition_cht": "指與「風應力捲曲」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風應力旋度",
+    "definition_cht": "風應力向量場的旋度，用以描述風應力在空間上的旋轉與不均勻分布；在海洋中常用來診斷埃克曼抽吸或下沉。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_stress_curl"
   },
   {
     "english": "wind turbine",
     "traditional_chinese": "風力渦輪機",
-    "definition_cht": "指與「風力渦輪機」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "將風的動能轉換為旋轉機械能並進一步轉為電能的裝置，是風力發電系統的核心設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_turbine"
   },
   {
     "english": "wind vane",
     "traditional_chinese": "風向標",
-    "definition_cht": "指與「風向標」相關的移動觀測平台、車載量測設備或野外作業載具。",
+    "definition_cht": "用於指示風向的儀器，受風後會轉向，使其指標或尾翼顯示風所吹來的方向。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_vane"
   },
   {
     "english": "wind vector",
     "traditional_chinese": "風向量",
-    "definition_cht": "指「風向量」所代表的向量量值、向量分析法或向量診斷工具，常用於大氣動力與風場分析。",
+    "definition_cht": "同時表示風速大小與風向的向量量，可用東西向與南北向分量，或以風速配合方向角來表達。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_vector"
   },
   {
     "english": "wind velocity profile",
     "traditional_chinese": "風速剖面",
-    "definition_cht": "指與「風速剖面」相關的速度量、流速分布或運動向量，用於描述流體運動狀態與輸送特性。",
+    "definition_cht": "風速隨高度變化的垂直分布；在廣義用法中亦可包含風向隨高度的變化，用於描述邊界層結構與動量傳輸。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_velocity_profile"
   },
   {
     "english": "wind wave",
     "traditional_chinese": "風浪",
-    "definition_cht": "指與「風浪」相關的波動、波形、波譜或能量傳播現象，可見於大氣、海洋與電磁系統。",
+    "definition_cht": "風在水面上吹拂所生成的表面重力波，其發展受風速、持續時間、吹送距離與水深等因素控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_wave"
   },
   {
     "english": "wind-chill index",
     "traditional_chinese": "風寒指數",
-    "definition_cht": "指與「風寒指數」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "結合氣溫與風速估算人體裸露皮膚散熱速度及體感寒冷程度的指標，用以評估低溫強風下的失溫與凍傷風險。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind-chill_index"
   },
   {
