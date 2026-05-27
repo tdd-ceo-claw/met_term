@@ -8,109 +8,109 @@
   {
     "english": "Z''–''R'' relation",
     "traditional_chinese": "雷達反射率—降雨率關係",
-    "definition_cht": "指雷達反射率因子 Z 與降雨率 R 之間的經驗或理論關係，用於由雷達回波估算降雨強度。",
+    "definition_cht": "指雷達反射率因子 Z 與降雨率 R 之間的經驗或理論換算關係，常用於依據天氣雷達回波估算降雨強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Z%27%27%E2%80%93%27%27R%27%27_relation"
   },
   {
     "english": "Z0",
     "traditional_chinese": "粗糙度長度",
-    "definition_cht": "在邊界層氣象中，指對數風速剖面外推至風速為零時所對應的理論高度，用來表徵地表粗糙程度。",
+    "definition_cht": "在邊界層氣象中，指對數風速剖面外推至平均風速為零時所對應的理論高度，用以表徵地表粗糙程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Z0"
   },
   {
     "english": "Zanzibar Current",
     "traditional_chinese": "桑吉巴洋流",
-    "definition_cht": "指東非桑吉巴附近海域的區域性洋流，反映當地季風、海岸地形與西印度洋環流特徵。",
+    "definition_cht": "指東非桑吉巴附近海域的區域性海流，受季風、海岸地形與西印度洋環流共同影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Zanzibar_Current"
   },
   {
     "english": "zastrugi",
     "traditional_chinese": "風蝕雪脊",
-    "definition_cht": "指積雪表面在強風侵蝕與再堆積作用下形成的狹長硬雪脊或溝槽地形。",
+    "definition_cht": "指積雪表面受強風侵蝕與再堆積後形成的狹長、堅硬雪脊或溝槽，走向通常大致平行於盛行風。",
     "source_url": "https://glossary.ametsoc.org/wiki/zastrugi"
   },
   {
     "english": "Zeeman effect",
     "traditional_chinese": "塞曼效應",
-    "definition_cht": "指原子或分子光譜線在外加磁場作用下發生分裂的現象，可用於研究磁場性質。",
+    "definition_cht": "指原子或分子光譜線在外加磁場作用下分裂為多個分量的現象，可用於診斷磁場強度與性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/Zeeman_effect"
   },
   {
     "english": "Zeldovich mechanism",
     "traditional_chinese": "澤爾多維奇機制",
-    "definition_cht": "指高溫條件下生成氮氧化物的重要化學反應機制，常用於燃燒與大氣化學研究。",
+    "definition_cht": "指高溫條件下氮分子與氧原子等反應而生成氮氧化物（NOx）的主要化學機制，常見於燃燒與大氣化學研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Zeldovich_mechanism"
   },
   {
     "english": "zenith",
     "traditional_chinese": "天頂",
-    "definition_cht": "指觀測者正上方天球上的點，為地平座標系中的重要基準方向。",
+    "definition_cht": "指觀測者所在地正上方天球上的點，為地平座標系的重要基準方向，其對向點為天底。",
     "source_url": "https://glossary.ametsoc.org/wiki/zenith"
   },
   {
     "english": "zenith distance",
     "traditional_chinese": "天頂距",
-    "definition_cht": "指天體或目標與天頂之間的角距離，等於 90 度減去其高度角。",
+    "definition_cht": "指天體或目標方向與天頂之間的角距離，數值上等於 90 度減去其高度角。",
     "source_url": "https://glossary.ametsoc.org/wiki/zenith_distance"
   },
   {
     "english": "zenithal rains",
     "traditional_chinese": "天頂雨",
-    "definition_cht": "指太陽接近天頂時，由強烈對流發展而產生的降雨，常見於熱帶地區。",
+    "definition_cht": "指太陽接近天頂時，因地表強烈受熱引發旺盛對流而形成的降雨，常見於熱帶地區。",
     "source_url": "https://glossary.ametsoc.org/wiki/zenithal_rains"
   },
   {
     "english": "zephyr",
-    "traditional_chinese": "和風",
-    "definition_cht": "指微弱而柔和的風，多用於描述輕風或文學性的大氣流動意象。",
+    "traditional_chinese": "和煦微風",
+    "definition_cht": "指微弱而柔和的風，常用來描述和緩、舒適的輕風，也常帶有文學性用法。",
     "source_url": "https://glossary.ametsoc.org/wiki/zephyr"
   },
   {
     "english": "Zephyros",
-    "traditional_chinese": "西風之神",
-    "definition_cht": "源自古希臘神話中代表西風的神名，延伸用來象徵溫和西風。",
+    "traditional_chinese": "西風神",
+    "definition_cht": "源自古希臘神話中掌管西風的神祇名稱，後亦用來象徵溫和的西風。",
     "source_url": "https://glossary.ametsoc.org/wiki/Zephyros"
   },
   {
     "english": "zero curtain",
     "traditional_chinese": "零度幕",
-    "definition_cht": "指土壤或積雪在結冰或融化過程中，溫度長時間維持在接近 0°C 的現象。",
+    "definition_cht": "指土壤或積雪在凍結或融化過程中，因相變潛熱作用而使溫度長時間維持在接近 0°C 的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero_curtain"
   },
   {
     "english": "zero layer",
     "traditional_chinese": "零層",
-    "definition_cht": "指緊貼地表、可近似視為平均風速趨近於零的極薄層。",
+    "definition_cht": "指緊鄰下墊面的極薄空氣層，其中平均風速可近似視為零。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero_layer"
   },
   {
     "english": "zero-order closure",
     "traditional_chinese": "零階閉合",
-    "definition_cht": "指在參數化中不顯式表示高階擾動通量，只以最簡化假設處理次網格效應的方法。",
+    "definition_cht": "指在參數化中不顯式表示高階擾動通量，而以最簡化假設處理次網格效應的方法。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero-order_closure"
   },
   {
     "english": "zero-plane displacement",
     "traditional_chinese": "零平面位移",
-    "definition_cht": "指在高糙度下墊面上，對數風速剖面所對應的位移高度，用以反映植被或建築物對流場的抬升效應。",
+    "definition_cht": "指高粗糙度下墊面上，對數風速剖面所對應的位移高度，用以反映植被或建築物對流場的整體抬升效應。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero-plane_displacement"
   },
   {
     "english": "zero-pressure balloon",
     "traditional_chinese": "零壓氣球",
-    "definition_cht": "指內部氣壓與外界大氣近乎相同、可隨高度膨脹的高空探測氣球。",
+    "definition_cht": "指內部氣壓與外界大氣近乎相同、升空後可隨外界壓力降低而膨脹的高空探測氣球。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero-pressure_balloon"
   },
   {
     "english": "zigzag lightning",
     "traditional_chinese": "鋸齒狀閃電",
-    "definition_cht": "指通道呈明顯折線或曲折形態的閃電。",
+    "definition_cht": "指放電通道呈明顯折線或曲折形態的閃電。",
     "source_url": "https://glossary.ametsoc.org/wiki/zigzag_lightning"
   },
   {
     "english": "zobaa",
-    "traditional_chinese": "佐巴風暴",
-    "definition_cht": "阿拉伯語系地區對沙塵暴或強旋風性風暴的稱呼。",
+    "traditional_chinese": "祖巴阿風暴",
+    "definition_cht": "指埃及等阿拉伯語地區所稱高速移動、呈柱狀的沙塵旋風或沙塵暴。",
     "source_url": "https://glossary.ametsoc.org/wiki/zobaa"
   },
   {
@@ -122,7 +122,7 @@
   {
     "english": "zodiacal band",
     "traditional_chinese": "黃道帶光帶",
-    "definition_cht": "指沿黃道分布、由行星際塵埃散射太陽光形成的微弱光帶。",
+    "definition_cht": "指沿黃道延伸、由行星際塵埃散射太陽光所形成的微弱帶狀輝光，屬黃道光現象的一部分。",
     "source_url": "https://glossary.ametsoc.org/wiki/zodiacal_band"
   },
   {
