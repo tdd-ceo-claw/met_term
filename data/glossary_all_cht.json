@@ -55795,122 +55795,122 @@
   },
   {
     "english": "wilting point",
-    "traditional_chinese": "萎蔫點",
-    "definition_cht": "指與「萎蔫點」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "萎凋點",
+    "definition_cht": "指土壤含水量降低到使植物失去膨壓而發生持續萎凋的臨界點；植物即使置於近飽和空氣中一段時間，通常也無法恢復挺立，常作為土壤有效水分下限。",
     "source_url": "https://glossary.ametsoc.org/wiki/wilting_point"
   },
   {
     "english": "wind",
     "traditional_chinese": "風",
-    "definition_cht": "空氣因壓力梯度力、地轉偏向力、摩擦力及局地熱力差異作用而產生的水平或近水平運動。",
+    "definition_cht": "大氣相對於地表的水平或近水平運動，主要受氣壓梯度力、科氏力、摩擦力及局地熱力差異共同控制，其方向與強弱隨時間、地形與天氣尺度系統而變化。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind"
   },
   {
     "english": "wind arrow",
     "traditional_chinese": "風箭",
-    "definition_cht": "指與「風箭」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "天氣圖或站點模式中表示風向與風速的箭形符號；箭桿所指示氣流來向，附加的羽線或記號則用以表示風速大小。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_arrow"
   },
   {
     "english": "wind chill",
-    "traditional_chinese": "風寒",
-    "definition_cht": "指與「風寒」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風寒指數",
+    "definition_cht": "描述風速增加時人體裸露皮膚散熱加快、因而感覺比實際氣溫更冷的指標，用以估計低溫與風共同造成的體感寒冷程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_chill"
   },
   {
     "english": "wind cone",
-    "traditional_chinese": "風錐",
-    "definition_cht": "指與「風錐」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風錐（風向袋）",
+    "definition_cht": "以錐形布袋製成的風向風速指示器，常設於機場、工業場址或道路側，用於直觀顯示近地面風的來向與大致強弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_cone"
   },
   {
     "english": "wind crust",
     "traditional_chinese": "風殼",
-    "definition_cht": "指與「風殼」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "積雪表面受強風搬運、壓實或侵蝕後形成的硬化雪殼或薄層，常較周圍鬆雪緻密，並會影響雪面摩擦、融化與雪崩穩定度。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_crust"
   },
   {
     "english": "wind current",
-    "traditional_chinese": "風流",
-    "definition_cht": "指與「風流」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風生流",
+    "definition_cht": "由風應力作用於水面所產生的水體流動，常見於海洋、湖泊與大型水庫，其流向與流速會受持續風場、摩擦及科氏力影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_current"
   },
   {
     "english": "wind daily run",
     "traditional_chinese": "日風程",
-    "definition_cht": "指一日內風速對時間積分所得之總風程，用於表示風行距離或通風條件。",
+    "definition_cht": "一日內風速對時間累積所得的總風程，常以風在 24 小時內相當於通過的總距離表示，可用於評估通風或風能條件。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_daily_run"
   },
   {
     "english": "wind direction",
     "traditional_chinese": "風向",
-    "definition_cht": "指與「風向」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "風所吹來的方向，通常以方位或方位角表示；例如北風表示空氣自北向南吹送，觀測與預報上多以真北或磁北為基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_direction"
   },
   {
     "english": "wind divide",
-    "traditional_chinese": "風分水嶺",
-    "definition_cht": "指與「風分水嶺」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風分界",
+    "definition_cht": "將近地面氣流分向不同流向區域的分界線或脊線；其兩側的風場可分別朝不同方向發散，常受地形或局地環流控制。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_divide"
   },
   {
     "english": "wind drift",
-    "traditional_chinese": "風漂",
-    "definition_cht": "指與「風漂」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風漂移",
+    "definition_cht": "物體、粒子、降水或積雪在風力作用下偏離原定路徑或被搬運的現象；在雪、沙塵、噴霧與航空作業中尤為常見。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_drift"
   },
   {
     "english": "wind factor",
-    "traditional_chinese": "風係數",
-    "definition_cht": "指與「風係數」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風因子",
+    "definition_cht": "用以表示風對運動、量測或作業結果影響程度的修正因子或參數，實際定義依應用領域而異，常用於航行、擴散或工程估算。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_factor"
   },
   {
     "english": "wind flurry",
-    "traditional_chinese": "陣風",
-    "definition_cht": "指持續時間短、強度暫時增強的風速脈動現象。",
+    "traditional_chinese": "短暫風陣",
+    "definition_cht": "持續時間很短、突然增強後又迅速減弱的一陣風，強度與持續性通常小於較明顯的陣風或狂風脈動。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_flurry"
   },
   {
     "english": "wind force",
     "traditional_chinese": "風力",
-    "definition_cht": "指與「風力」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "表示風強弱的量值或等級，可依風速觀測值直接表示，也可依蒲福風級等分級系統，描述風對海面或地物的作用程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_force"
   },
   {
     "english": "wind load",
     "traditional_chinese": "風荷載",
-    "definition_cht": "指與「風荷載」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "風作用於建築物、構造物或設備表面所產生的力或壓力負載，是土木、建築與防災設計中評估結構安全的重要外力之一。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_load"
   },
   {
     "english": "wind lull",
-    "traditional_chinese": "風平靜",
-    "definition_cht": "指與「風平靜」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風暫歇",
+    "definition_cht": "風速在一段有風期間內短暫減弱或近於停止的現象，常出現在陣風、對流或地形擾動之間的間歇時段。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_lull"
   },
   {
     "english": "wind mixing",
-    "traditional_chinese": "風混合",
-    "definition_cht": "指與「風混合」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "風力混合作用",
+    "definition_cht": "由風所引發的大氣或水體湍流混合過程，可促進熱量、水氣、動量或溶質在垂直與水平上的交換，常見於邊界層與表層水體。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_mixing"
   },
   {
     "english": "wind pressure",
     "traditional_chinese": "風壓",
-    "definition_cht": "指與「風壓」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "氣流撞擊物體表面或沿表面流動時所施加的壓力，可分為迎風面的正壓與背風面的吸力，是計算風荷載的重要基礎量。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_pressure"
   },
   {
     "english": "wind profile",
     "traditional_chinese": "風廓線",
-    "definition_cht": "指與「風廓線」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "風速或風向隨高度變化的垂直分布型態，可用於描述近地層風切、邊界層結構及動量傳輸特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/wind_profile"
   },
   {
     "english": "Wind profiler",
     "traditional_chinese": "風廓線儀",
-    "definition_cht": "指與「風廓線儀」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "definition_cht": "用於遙測不同高度風向與風速垂直分布的觀測設備，常以雷達、聲波雷達或光達技術量測，是天氣分析、預報與航空氣象的重要工具。",
     "source_url": "https://glossary.ametsoc.org/wiki/Wind_profiler"
   },
   {
