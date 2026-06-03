@@ -56,7 +56,7 @@
   {
     "english": "zenithal rains",
     "traditional_chinese": "天頂雨",
-    "definition_cht": "指熱帶地區在太陽高度接近天頂、地表受熱最強時，因旺盛對流發展而形成的午後或日變性降雨，常見於赤道附近與熱帶季風區。",
+    "definition_cht": "指熱帶或副熱帶地區在太陽接近天頂時，隨季節推移而年復一年或半年一次出現的顯著多雨期；在赤道附近常可出現兩次，實質上與太陽直射帶及對流活動的季節性遷移有關。",
     "source_url": "https://glossary.ametsoc.org/wiki/zenithal_rains"
   },
   {
@@ -80,7 +80,7 @@
   {
     "english": "zero layer",
     "traditional_chinese": "零層",
-    "definition_cht": "指緊貼下墊面的極薄氣層，其中平均風速可視為近乎零，常作為近地層風速剖面與地表邊界條件的理想化概念。",
+    "definition_cht": "指緊鄰粗糙下墊面或障礙物頂部的極薄氣層，其中平均風速可視為近乎零，湍流通量與風速剖面常由此層上方開始描述，是近地層理論中的理想化概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero_layer"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "english": "zobaa",
-    "traditional_chinese": "祖巴阿旋塵",
-    "definition_cht": "埃及一帶對高速移動、柱狀捲升沙塵之強烈旋風或沙塵旋渦的地方名稱，外觀近似高聳沙柱，常伴隨大量揚沙與能見度惡化。",
+    "traditional_chinese": "祖巴阿沙塵旋風",
+    "definition_cht": "埃及一帶對強烈沙塵旋風或捲塵柱的地方名稱，通常指高速移動並捲升大量沙塵的柱狀渦旋現象，可明顯降低能見度。",
     "source_url": "https://glossary.ametsoc.org/wiki/zobaa"
   },
   {
@@ -140,7 +140,7 @@
   {
     "english": "zonal",
     "traditional_chinese": "緯向的",
-    "definition_cht": "在氣象與海洋學中指沿緯圈、以東西向為主的方向或分量；與經向（meridional）相對。",
+    "definition_cht": "在氣象與海洋學中指沿緯圈延伸、以東西向為主的方向、分量或分布；與經向（meridional）相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal"
   },
   {
@@ -158,7 +158,7 @@
   {
     "english": "zonal kinetic energy",
     "traditional_chinese": "緯向動能",
-    "definition_cht": "指與平均緯向風或特定緯度帶東西向風分量相關的動能，是大氣能量學中用以描述大尺度緯向環流強度的重要量。",
+    "definition_cht": "指與平均緯向風或特定緯帶東西向風分量相關的動能，用以描述大尺度緯向環流的強度，亦常見於大氣能量循環與一般環流分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_kinetic_energy"
   },
   {

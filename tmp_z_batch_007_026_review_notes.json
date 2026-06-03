@@ -1,0 +1,142 @@
+{
+  "zenith": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/zenith/",
+      "https://glossary.ametsoc.org/wiki/Nadir"
+    ],
+    "changed": false
+  },
+  "zenith distance": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zenith_distance",
+      "https://www.dictionary.com/browse/zenith-distance"
+    ],
+    "changed": false
+  },
+  "zenithal rains": {
+    "checks": [
+      "https://ue.termwiki.com/UE/zenithal_rains",
+      "https://education.nationalgeographic.org/resource/convection/"
+    ],
+    "changed": true
+  },
+  "zephyr": {
+    "checks": [
+      "https://en.mimi.hu/meteorology/zephyr.html",
+      "https://www.usatoday.com/story/weather/2017/03/29/gustnado-derecho-and-all-weird-weather-words-you-didnt-know-existed/99486250/"
+    ],
+    "changed": false
+  },
+  "Zephyros": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/zephyros/",
+      "https://www.usatoday.com/story/weather/2017/03/29/gustnado-derecho-and-all-weird-weather-words-you-didnt-know-existed/99486250/"
+    ],
+    "changed": false
+  },
+  "zero curtain": {
+    "checks": [
+      "https://nsidc.org/learn/cryosphere-glossary/zero-curtain",
+      "https://polarpedia.eu/en/zero-curtain-effect/"
+    ],
+    "changed": false
+  },
+  "zero layer": {
+    "checks": [
+      "http://glossary.ametsoc.org/wiki/Zero_layer",
+      "https://earthscience.stackexchange.com/questions/4665/what-is-the-difference-between-roughness-length-and-zero-plane-displacement"
+    ],
+    "changed": true
+  },
+  "zero-order closure": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zero-order_closure",
+      "https://glossary.ametsoc.org/wiki/Higher-order_closure"
+    ],
+    "changed": false
+  },
+  "zero-plane displacement": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zero-plane_displacement",
+      "https://link.springer.com/article/10.1007/s10546-024-00876-8"
+    ],
+    "changed": false
+  },
+  "zero-pressure balloon": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zero-pressure_balloon",
+      "https://www.nasa.gov/scientificballoons/types-of-balloons/"
+    ],
+    "changed": false
+  },
+  "zigzag lightning": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zigzag_lightning",
+      "https://definedterm.com/zigzag_lightning"
+    ],
+    "changed": false
+  },
+  "zobaa": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zobaa",
+      "https://encyclopedia2.thefreedictionary.com/zobaa"
+    ],
+    "changed": true
+  },
+  "zodiac": {
+    "checks": [
+      "https://www.britannica.com/topic/zodiac",
+      "https://en.wikipedia.org/wiki/Zodiac"
+    ],
+    "changed": false
+  },
+  "zodiacal band": {
+    "checks": [
+      "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803133518535",
+      "https://en.wikipedia.org/wiki/Zodiacal_light"
+    ],
+    "changed": false
+  },
+  "zodiacal light": {
+    "checks": [
+      "https://www.britannica.com/science/zodiacal-light",
+      "https://en.wikipedia.org/wiki/Zodiacal_light"
+    ],
+    "changed": false
+  },
+  "zombie turbulence": {
+    "checks": [
+      "https://ui.adsabs.harvard.edu/abs/2004APS..DFD.MA008G/abstract",
+      "https://www.researchgate.net/publication/26502430_Energetics_of_the_Beamed_Zombie_Turbulence_Maser_Action_Mechanism_for_Remote_Detection_of_Submerged_Oceanic_Turbulence"
+    ],
+    "changed": false
+  },
+  "zonal": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zonal",
+      "https://en.wikipedia.org/wiki/Zonal_and_meridional_flow"
+    ],
+    "changed": true
+  },
+  "zonal flow": {
+    "checks": [
+      "https://forecast.weather.gov/glossary.php?word=zonal+flow",
+      "https://glossary.ametsoc.org/wiki/Zonal_flow"
+    ],
+    "changed": false
+  },
+  "zonal index": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zonal_index",
+      "https://link.springer.com/10.1007/1-4020-3266-8_229"
+    ],
+    "changed": false
+  },
+  "zonal kinetic energy": {
+    "checks": [
+      "https://en.wiktionary.org/wiki/zonal_kinetic_energy",
+      "https://a.tellusjournals.se/articles/10.3402/tellusa.v22i3.10220"
+    ],
+    "changed": true
+  }
+}
