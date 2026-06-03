@@ -2,43 +2,43 @@
   {
     "english": "Z time",
     "traditional_chinese": "祖魯時間",
-    "definition_cht": "指以零時區為基準的時間表示法，實務上通常等同於 UTC；因 NATO 音字母以 Z 表示 zero meridian，故常用於航空、航海與氣象作業。",
+    "definition_cht": "以零時區為基準的時間表示法，實務上通常等同於 UTC；因 NATO 音標字母以 Z（Zulu）代表零經度時區，故廣泛用於航空、航海與氣象作業。",
     "source_url": "https://glossary.ametsoc.org/wiki/Z_time"
   },
   {
     "english": "Z''–''R'' relation",
     "traditional_chinese": "雷達反射率—降雨率關係",
-    "definition_cht": "指雷達反射率因子 Z 與降雨率 R 之間的經驗或理論換算關係，常用於依據天氣雷達回波估算降雨強度。",
+    "definition_cht": "指雷達反射率因子 Z 與降雨率 R 之間的經驗或理論換算關係，常寫為 Z = aR^b，用於依天氣雷達回波定量估算降雨強度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Z%27%27%E2%80%93%27%27R%27%27_relation"
   },
   {
     "english": "Z0",
     "traditional_chinese": "粗糙度長度",
-    "definition_cht": "在邊界層氣象中，指對數風速剖面外推至平均風速為零時所對應的理論高度，用以表徵地表粗糙程度。",
+    "definition_cht": "又稱空氣動力粗糙度長度；在近地層對數風速剖面中，指將平均風速向下外推至零時所對應的理論高度，用以表徵地表粗糙特性。",
     "source_url": "https://glossary.ametsoc.org/wiki/Z0"
   },
   {
     "english": "Zanzibar Current",
     "traditional_chinese": "桑吉巴洋流",
-    "definition_cht": "指東非桑吉巴附近海域的區域性海流，受季風、海岸地形與西印度洋環流共同影響。",
+    "definition_cht": "印度洋西部沿東非海岸自南向北長年流動的西岸邊界流，約自南緯 10 度附近北上；其位置與強度受季風環流影響，並可與索馬利洋流交會。",
     "source_url": "https://glossary.ametsoc.org/wiki/Zanzibar_Current"
   },
   {
     "english": "zastrugi",
     "traditional_chinese": "風蝕雪脊",
-    "definition_cht": "指積雪表面受強風侵蝕與再堆積後形成的狹長、堅硬雪脊或溝槽，走向通常大致平行於盛行風。",
+    "definition_cht": "指積雪表面受強風侵蝕與再堆積後形成的狹長、堅硬雪脊或溝槽地形，常見於極區與高山風強區，走向多與盛行風大致平行。",
     "source_url": "https://glossary.ametsoc.org/wiki/zastrugi"
   },
   {
     "english": "Zeeman effect",
     "traditional_chinese": "塞曼效應",
-    "definition_cht": "指原子或分子光譜線在外加磁場作用下分裂為多個分量的現象，可用於診斷磁場強度與性質。",
+    "definition_cht": "指原子或分子光譜線在外加磁場作用下分裂為兩個或多個頻率略異分量的現象，可用於診斷磁場強度、方向與介質性質。",
     "source_url": "https://glossary.ametsoc.org/wiki/Zeeman_effect"
   },
   {
     "english": "Zeldovich mechanism",
     "traditional_chinese": "澤爾多維奇機制",
-    "definition_cht": "指高溫條件下氮分子與氧原子等反應而生成氮氧化物（NOx）的主要化學機制，常見於燃燒與大氣化學研究。",
+    "definition_cht": "描述高溫條件下氮與氧反應生成熱力型氮氧化物（thermal NOx）的主要化學機制，常用於燃燒、空氣污染與大氣化學研究。",
     "source_url": "https://glossary.ametsoc.org/wiki/Zeldovich_mechanism"
   },
   {

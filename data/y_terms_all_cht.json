@@ -2,79 +2,79 @@
   {
     "english": "yagi antenna",
     "traditional_chinese": "八木天線",
-    "definition_cht": "指由一個驅動元件、反射器及一個以上導向器組成的高指向性天線，具有增益高、結構簡單等特性，可用於雷達、無線電與大氣遙測系統。",
+    "definition_cht": "指由一個受激元件、反射器與一個以上導向器組成的高指向性天線，能將電磁波能量集中於前向，具較高增益，常用於雷達、無線電通訊與大氣遙測系統。",
     "source_url": "https://glossary.ametsoc.org/wiki/yagi_antenna"
   },
   {
     "english": "Yagi-Uda antenna",
     "traditional_chinese": "八木－宇田天線",
-    "definition_cht": "指由不同長度與間距之偶極元件組成的定向天線陣列，輻射能量集中於前向；「八木天線」通常即指此類天線，並常用於雷達與其他遙測設備。",
+    "definition_cht": "由不同長度與間距的偶極元件構成之定向天線陣列，典型配置包括受激元件、反射器與多個導向器；「八木天線」通常即指此類天線，常見於雷達與遙測設備。",
     "source_url": "https://glossary.ametsoc.org/wiki/Yagi-Uda_antenna"
   },
   {
     "english": "yalca",
     "traditional_chinese": "雅爾卡雪暴",
-    "definition_cht": "指南美洲秘魯山區記載的一種地方性強烈雪暴或暴風雪，常伴隨強陣風與劇烈降雪，對山區交通與通行安全影響顯著。",
+    "definition_cht": "秘魯北部安地斯山口一帶對強烈雪暴的地方名稱，通常指伴隨陣性強風的劇烈降雪事件，對山區通行與安全影響顯著。",
     "source_url": "https://glossary.ametsoc.org/wiki/yalca"
   },
   {
     "english": "yamase",
     "traditional_chinese": "山背風",
-    "definition_cht": "指日本東北地方夏季常見的偏東至東北冷濕風，源自海上較冷氣團平流，常導致低溫、寡照、霧與農作減產等冷夏現象。",
+    "definition_cht": "日本東北地方夏季常見的冷濕偏東北至東風，源自鄂霍次克海高壓並掠過冷海面，常帶來低溫、雲、雨、霧及冷夏災害。",
     "source_url": "https://glossary.ametsoc.org/wiki/yamase"
   },
   {
     "english": "Yanai wave",
     "traditional_chinese": "柳井波",
-    "definition_cht": "又稱混合羅斯貝－重力波，為赤道波動方程的一類解，兼具羅斯貝波與重力波特性，常用於描述赤道大氣與海洋中的擾動傳播。",
+    "definition_cht": "又稱混合羅斯貝－重力波，為赤道波的一類，兼具羅斯貝波與重力波特性，可在熱帶大氣與海洋中沿赤道傳播，常用於描述赤道擾動與季內變異。",
     "source_url": "https://glossary.ametsoc.org/wiki/Yanai_wave"
   },
   {
     "english": "Yaw",
     "traditional_chinese": "偏航",
-    "definition_cht": "指飛行器、天線或其他物體繞垂直軸發生的水平旋轉或方位偏轉；在航空、雷達與遙測作業中常用以描述相對航向改變。",
+    "definition_cht": "指飛行器、天線或其他剛體繞垂直軸的旋轉，使其朝向向左或向右改變；在航空與雷達作業中常用以描述方位偏轉。",
     "source_url": "https://glossary.ametsoc.org/wiki/Yaw"
   },
   {
     "english": "year",
     "traditional_chinese": "年",
-    "definition_cht": "指以地球繞太陽公轉或曆法制度為基準的時間單位，為氣候統計、年際變率分析、水文平衡與長期觀測資料整理的基本尺度。",
+    "definition_cht": "以地球繞太陽公轉週期或曆法制度為基準的時間單位；在氣候統計、水文平衡與年際變率分析中，年尺度是整理與比較長期觀測資料的基本時間單位。",
     "source_url": "https://glossary.ametsoc.org/wiki/year"
   },
   {
     "english": "Yellow Sea Warm Current",
     "traditional_chinese": "黃海暖流",
-    "definition_cht": "指冬季沿黃海海槽向北侵入的暖鹽水流，將東海較暖海水輸送至黃海及鄰近海域，對區域熱鹽結構、海冰分布與海氣交互作用具有重要影響。",
+    "definition_cht": "冬季沿黃海海槽向北侵入的暖鹽海流，將東海與黑潮系較暖海水輸送至黃海及渤海鄰近海域，對區域熱鹽結構、冷水團分布與海氣交互作用具有重要影響。",
     "source_url": "https://glossary.ametsoc.org/wiki/Yellow_Sea_Warm_Current"
   },
   {
     "english": "yellow snow",
     "traditional_chinese": "黃雪",
-    "definition_cht": "指因空氣中花粉、沙塵或其他黃褐色微粒沉降於雪面，致使積雪外觀呈黃色的現象；在部分地區常與春季花粉沉降有關。",
+    "definition_cht": "指雪面因松柏類花粉而呈金黃或黃色的現象；廣義上亦可指沙塵、細砂等黃褐色微粒沉降於雪面所造成的黃色外觀。",
     "source_url": "https://glossary.ametsoc.org/wiki/yellow_snow"
   },
   {
     "english": "yellow wind",
     "traditional_chinese": "黃風",
-    "definition_cht": "指挾帶黃沙或黃塵的強風，多見於東亞乾旱、半乾旱地區，常在冷空氣或強壓力梯度作用下揚起塵沙，造成能見度下降與空氣品質惡化。",
+    "definition_cht": "東亞，尤指華北一帶冬季常見的強烈冷乾西風，挾帶沙漠黃塵而行，可造成揚沙、能見度下降與空氣品質惡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/yellow_wind"
   },
   {
     "english": "youg",
-    "traditional_chinese": "尤格風",
-    "definition_cht": "文獻中罕見的地方性風名；現有可得資料不足以明確界定其物理性質與區域用法，整理時暫保留原詞，待後續依專門文獻再行校勘。",
+    "traditional_chinese": "尤格熱風",
+    "definition_cht": "地中海地區夏季天氣不穩定時出現的炎熱地方風名稱，通常指伴隨悶熱與天氣轉趨不穩的暖熱氣流。",
     "source_url": "https://glossary.ametsoc.org/wiki/youg"
   },
   {
     "english": "young ice",
     "traditional_chinese": "幼冰",
-    "definition_cht": "指新近形成而已較尼拉斯或初生冰更厚的海冰，厚度通常約為 10 至 30 公分，仍具一定彈性與變形性，進一步增厚後可發展為一年冰。",
+    "definition_cht": "介於尼拉斯（nilas）與一年冰之間的海冰發育階段，厚度通常約 10 至 30 公分，仍具有一定彈性與變形性，可再細分為灰冰與灰白冰。",
     "source_url": "https://glossary.ametsoc.org/wiki/young_ice"
   },
   {
     "english": "Younger Dryas",
     "traditional_chinese": "新仙女木期",
-    "definition_cht": "指末次冰消期晚期一次顯著而相對短暫的氣候回冷事件，常用於古氣候研究，以探討快速氣候變遷、海洋環流調整與區域環境響應。",
+    "definition_cht": "末次冰消期晚期一次顯著且相對短暫的急遽回冷事件，約發生於距今 12,900 至 11,700 年前，常用於古氣候研究以探討突變氣候、海洋環流調整與環境響應。",
     "source_url": "https://glossary.ametsoc.org/wiki/Younger_Dryas"
   }
 ]

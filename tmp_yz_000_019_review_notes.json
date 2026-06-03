@@ -1,0 +1,142 @@
+{
+  "yagi antenna": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Yagi-uda_antenna",
+      "https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna"
+    ],
+    "changed": true
+  },
+  "Yagi-Uda antenna": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Yagi-uda_antenna",
+      "https://www.radartutorial.eu/06.antennas/Yagi%20Antenna.en.html"
+    ],
+    "changed": true
+  },
+  "yalca": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Yalca",
+      "https://encyclopedia2.thefreedictionary.com/yalca"
+    ],
+    "changed": true
+  },
+  "yamase": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Yamase",
+      "https://www.jstage.jst.go.jp/article/jmsj1965/75/6/75_6_1053/_article/-char/en"
+    ],
+    "changed": true
+  },
+  "Yanai wave": {
+    "checks": [
+      "https://en.wikipedia.org/wiki/Equatorial_wave",
+      "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrc.20121"
+    ],
+    "changed": true
+  },
+  "Yaw": {
+    "checks": [
+      "https://en.wikipedia.org/wiki/Aircraft_principal_axes",
+      "https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/yaw.html"
+    ],
+    "changed": true
+  },
+  "year": {
+    "checks": [
+      "https://science.nasa.gov/learn/basics-of-space-flight/chapter2-1/",
+      "https://spaceplace.nasa.gov/years-on-other-planets/en/"
+    ],
+    "changed": true
+  },
+  "Yellow Sea Warm Current": {
+    "checks": [
+      "https://www.sciencedirect.com/science/article/abs/pii/S100160580860133X",
+      "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.767850/full"
+    ],
+    "changed": true
+  },
+  "yellow snow": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Yellow_snow",
+      "https://www.ajc.com/pulse/what-is-yellow-snow-pollution-is-a-common-explanation/U7CKE5ZAGZDBXNLFUU7HG5BROA/"
+    ],
+    "changed": true
+  },
+  "yellow wind": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Yellow_wind",
+      "https://en.wikipedia.org/wiki/Asian_Dust"
+    ],
+    "changed": true
+  },
+  "youg": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Youg",
+      "https://encyclopedia2.thefreedictionary.com/youg"
+    ],
+    "changed": true
+  },
+  "young ice": {
+    "checks": [
+      "https://wmo.int/topics/sea-ice",
+      "https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice"
+    ],
+    "changed": true
+  },
+  "Younger Dryas": {
+    "checks": [
+      "https://www.britannica.com/science/Younger-Dryas-climate-interval",
+      "https://www.ncdc.noaa.gov/abrupt-climate-change/The%20Younger%20Dryas"
+    ],
+    "changed": true
+  },
+  "Z time": {
+    "checks": [
+      "https://www.timeanddate.com/time/zones/z",
+      "https://www.aopa.org/news-and-media/all-news/2020/march/02/training-tip-its-about-time"
+    ],
+    "changed": true
+  },
+  "Z''–''R'' relation": {
+    "checks": [
+      "https://www.weather.gov/tae/research-zrpaper",
+      "https://www.hindawi.com/journals/amete/2018/8202031/"
+    ],
+    "changed": true
+  },
+  "Z0": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Aerodynamic_roughness_length",
+      "http://www.webmet.com/met_monitoring/663.html"
+    ],
+    "changed": true
+  },
+  "Zanzibar Current": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zanzibar_current",
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011JC007417"
+    ],
+    "changed": true
+  },
+  "zastrugi": {
+    "checks": [
+      "https://en.wikipedia.org/wiki/Sastrugi",
+      "https://www.thefreedictionary.com/zastrugi"
+    ],
+    "changed": true
+  },
+  "Zeeman effect": {
+    "checks": [
+      "https://www.britannica.com/science/Zeeman-effect",
+      "https://en.wikipedia.org/wiki/Zeeman_effect"
+    ],
+    "changed": true
+  },
+  "Zeldovich mechanism": {
+    "checks": [
+      "https://en.wikipedia.org/wiki/Zeldovich_mechanism",
+      "https://taylorandfrancis.com/knowledge/Engineering_and_technology/Chemical_engineering/Zeldovich_mechanism/"
+    ],
+    "changed": true
+  }
+}
