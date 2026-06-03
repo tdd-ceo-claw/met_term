@@ -128,109 +128,109 @@
   {
     "english": "zodiacal light",
     "traditional_chinese": "黃道光",
-    "definition_cht": "指日出前或日落後沿黃道方向可見、由行星際塵埃散射太陽光形成的微弱輝光。",
+    "definition_cht": "指日落後或日出前沿黃道附近可見的微弱輝光，主要由集中在黃道面附近的行星際塵埃散射太陽光所形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/zodiacal_light"
   },
   {
     "english": "zombie turbulence",
     "traditional_chinese": "殭屍湍流",
-    "definition_cht": "指在原有湍流衰減後，受重力波或層結作用再度被激發的次級湍流現象。",
+    "definition_cht": "指在穩定層結流體中，原有主動湍流消散後仍殘留的溫度或密度擾動，並可在內波作用下再次誘發的次級湍流現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/zombie_turbulence"
   },
   {
     "english": "zonal",
     "traditional_chinese": "緯向的",
-    "definition_cht": "指沿緯圈方向，也就是由西向東或由東向西的方向特性。",
+    "definition_cht": "在氣象學中指沿緯圈方向的，即偏東西向的，與經向（meridional）相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal"
   },
   {
     "english": "zonal flow",
     "traditional_chinese": "緯向流",
-    "definition_cht": "指以東西向分量為主的大氣或海洋流動。",
+    "definition_cht": "指大尺度大氣或海洋流動以東西向分量為主的環流型態，通常表示經向分量相對較弱。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_flow"
   },
   {
     "english": "zonal index",
     "traditional_chinese": "緯向指數",
-    "definition_cht": "用來衡量大氣環流中緯向流強弱或經向擾動程度的指標。",
+    "definition_cht": "指衡量中緯度西風帶強弱或大氣環流緯向化程度的指標，常以不同緯度間的氣壓差或對應地轉風表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_index"
   },
   {
     "english": "zonal kinetic energy",
     "traditional_chinese": "緯向動能",
-    "definition_cht": "指與緯向流動有關的動能分量。",
+    "definition_cht": "指與緯向風相關的動能，常特指某一緯度上緯向風分量所對應的動能。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_kinetic_energy"
   },
   {
     "english": "zonal wavenumber",
     "traditional_chinese": "緯向波數",
-    "definition_cht": "指波動沿緯向方向的空間波數，用於描述行星波或其他大尺度擾動。",
+    "definition_cht": "指波動沿定緯圈方向的波數；在氣象上常表示某一緯度環圈上可容納的波長個數。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_wavenumber"
   },
   {
     "english": "zonal wind",
     "traditional_chinese": "緯向風",
-    "definition_cht": "指沿東西方向吹送的風，其正負常用以區分西風與東風分量。",
+    "definition_cht": "指沿當地緯圈方向吹送的風分量，與經向風相對；在常用座標中西風分量為正、東風分量為負。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_wind"
   },
   {
     "english": "zonal wind-speed profile",
-    "traditional_chinese": "緯向風速剖面",
-    "definition_cht": "指緯向風速隨高度、緯度或其他空間座標變化的分布。",
+    "traditional_chinese": "緯向風速剖面圖",
+    "definition_cht": "指以緯向流速為一軸、緯度為另一軸所繪製的圖，用於表現緯向風速隨緯度的分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_wind-speed_profile"
   },
   {
     "english": "zonality of hydrological phenomena",
-    "traditional_chinese": "水文現象的帶狀性",
-    "definition_cht": "指水文要素或過程隨緯度帶呈現規律性分布的特徵。",
+    "traditional_chinese": "水文現象的地帶性",
+    "definition_cht": "指水文要素與水文過程因緯度、高度及地方自然條件差異，而呈現區域性帶狀分布與變化的特徵。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonality_of_hydrological_phenomena"
   },
   {
     "english": "zonally averaged models",
     "traditional_chinese": "緯向平均模式",
-    "definition_cht": "指先對緯向方向取平均，再描述氣候或大氣狀態演變的理論或數值模式。",
+    "definition_cht": "指先沿經向消去差異、將各量作緯向平均後建立的氣候模式；其中大型與天氣尺度渦旋輸送通常以參數化方式表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonally_averaged_models"
   },
   {
     "english": "zonda",
     "traditional_chinese": "宗達風",
-    "definition_cht": "指阿根廷安地斯山東側常見的乾熱下坡風，類似焚風性質。",
+    "definition_cht": "指阿根廷安地斯山東側常見的強勁、暖熱且乾燥的下坡風，屬焚風型地方風。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonda"
   },
   {
     "english": "zone of aeration",
     "traditional_chinese": "通氣帶",
-    "definition_cht": "指地下水位以上、孔隙中同時含有空氣與水分的土層或地層。",
+    "definition_cht": "指地下水面以上的非飽和地帶，其孔隙與裂隙中同時含有空氣與水分。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_of_aeration"
   },
   {
     "english": "zone of maximum precipitation",
     "traditional_chinese": "最大降水帶",
-    "definition_cht": "指降水量或降水頻率最為集中的區域。",
+    "definition_cht": "指山地或地形障礙上季節或年平均降水量最大的高程帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_of_maximum_precipitation"
   },
   {
     "english": "zone of saturation",
     "traditional_chinese": "飽和帶",
-    "definition_cht": "指地下水位以下、孔隙幾乎完全被水充滿的地層。",
+    "definition_cht": "指地下水面以下孔隙與裂隙幾乎完全為水所充滿的地層或土層。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_of_saturation"
   },
   {
     "english": "zone of silence",
-    "traditional_chinese": "靜區",
-    "definition_cht": "指某些波動、聲音或電磁訊號因折射、遮蔽或干涉而無法有效到達的區域。",
+    "traditional_chinese": "寂靜區",
+    "definition_cht": "指因折射、干涉或遮蔽等作用，致使聲波或其他訊號在某區域內難以傳達或無法被接收的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_of_silence"
   },
   {
     "english": "zone time",
     "traditional_chinese": "區時",
-    "definition_cht": "指以特定時區中央經線為基準所採用的標準時間。",
+    "definition_cht": "指依標準時區制度採用的時間；在航海上尤指將地球劃分為 24 個 15 度時區後，各區統一使用的標準時間。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_time"
   },
   {
     "english": "zone wind",
     "traditional_chinese": "帶狀風",
-    "definition_cht": "指沿某一氣候或環流帶內具有代表性的風系，常泛指緯向主導的風場。",
+    "definition_cht": "指某一氣候帶或環流帶內具有代表性的盛行風，通常為沿該帶延伸方向吹送的風系。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_wind"
   }
 ]
