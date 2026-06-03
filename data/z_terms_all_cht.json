@@ -164,7 +164,7 @@
   {
     "english": "zonal wavenumber",
     "traditional_chinese": "緯向波數",
-    "definition_cht": "指波動沿定緯圈方向的波數；在氣象上常表示某一緯度環圈上可容納的波長個數。",
+    "definition_cht": "指沿固定緯圈方向的波數；在氣象上常表示某一緯度環圈上可容納的波長個數，亦即繞地球一周可排列的波數。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_wavenumber"
   },
   {
@@ -176,19 +176,19 @@
   {
     "english": "zonal wind-speed profile",
     "traditional_chinese": "緯向風速剖面圖",
-    "definition_cht": "指以緯向流速為一軸、緯度為另一軸所繪製的圖，用於表現緯向風速隨緯度的分布。",
+    "definition_cht": "指以緯向流速為一軸、緯度為另一軸所繪製的剖面圖，用以表示緯向風速隨緯度的分布。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_wind-speed_profile"
   },
   {
     "english": "zonality of hydrological phenomena",
     "traditional_chinese": "水文現象的地帶性",
-    "definition_cht": "指水文要素與水文過程因緯度、高度及地方自然條件差異，而呈現區域性帶狀分布與變化的特徵。",
+    "definition_cht": "指水文特徵與水文過程主要受緯度、高度及地方自然條件影響，而呈現地帶性分布與變化的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonality_of_hydrological_phenomena"
   },
   {
     "english": "zonally averaged models",
     "traditional_chinese": "緯向平均模式",
-    "definition_cht": "指先沿經向消去差異、將各量作緯向平均後建立的氣候模式；其中大型與天氣尺度渦旋輸送通常以參數化方式表示。",
+    "definition_cht": "指將經度方向的差異消去、沿緯圈取平均後所建立的氣候模式；其中大型與天氣尺度渦旋的輸送作用通常以參數化方式表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonally_averaged_models"
   },
   {
@@ -206,7 +206,7 @@
   {
     "english": "zone of maximum precipitation",
     "traditional_chinese": "最大降水帶",
-    "definition_cht": "指山地或地形障礙上季節或年平均降水量最大的高程帶。",
+    "definition_cht": "指山地或地形障礙上，降水量隨高度增加至最大值後開始轉為減少的高程帶。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_of_maximum_precipitation"
   },
   {
@@ -218,7 +218,7 @@
   {
     "english": "zone of silence",
     "traditional_chinese": "寂靜區",
-    "definition_cht": "指因折射、干涉或遮蔽等作用，致使聲波或其他訊號在某區域內難以傳達或無法被接收的區域。",
+    "definition_cht": "指由折射、干涉或遮蔽等作用所形成，使聲波在某一區域內聽不見或難以傳達的區域。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_of_silence"
   },
   {
@@ -230,7 +230,7 @@
   {
     "english": "zone wind",
     "traditional_chinese": "帶狀風",
-    "definition_cht": "指某一氣候帶或環流帶內具有代表性的盛行風，通常為沿該帶延伸方向吹送的風系。",
+    "definition_cht": "指某一氣候帶或環流帶內具有代表性的盛行風系，通常沿該地帶主要延伸方向吹送。",
     "source_url": "https://glossary.ametsoc.org/wiki/zone_wind"
   }
 ]
