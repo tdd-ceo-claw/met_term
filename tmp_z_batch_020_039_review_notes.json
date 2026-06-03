@@ -1,0 +1,142 @@
+{
+  "zenith": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/zenith/",
+      "https://simple.wikipedia.org/wiki/Zenith"
+    ],
+    "changed": true
+  },
+  "zenith distance": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zenith_distance",
+      "https://www.dictionary.com/browse/zenith-distance"
+    ],
+    "changed": true
+  },
+  "zenithal rains": {
+    "checks": [
+      "https://education.nationalgeographic.org/resource/convection/",
+      "https://www.britannica.com/science/convection-weather"
+    ],
+    "changed": true
+  },
+  "zephyr": {
+    "checks": [
+      "https://en.wikipedia.org/wiki/Zephyr",
+      "https://en.mimi.hu/meteorology/zephyr.html"
+    ],
+    "changed": true
+  },
+  "Zephyros": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/zephyros/",
+      "https://en.wikipedia.org/wiki/Anemoi#Zephyrus"
+    ],
+    "changed": true
+  },
+  "zero curtain": {
+    "checks": [
+      "https://nsidc.org/learn/cryosphere-glossary/zero-curtain",
+      "https://polarpedia.eu/en/zero-curtain-effect/"
+    ],
+    "changed": true
+  },
+  "zero layer": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zero_layer",
+      "https://earthscience.stackexchange.com/questions/4665/what-is-the-difference-between-roughness-length-and-zero-plane-displacement"
+    ],
+    "changed": true
+  },
+  "zero-order closure": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zero-order_closure",
+      "https://glossary.ametsoc.org/wiki/Higher-order_closure"
+    ],
+    "changed": true
+  },
+  "zero-plane displacement": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zero-plane_displacement",
+      "https://link.springer.com/article/10.1007/s10546-024-00876-8"
+    ],
+    "changed": true
+  },
+  "zero-pressure balloon": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zero-pressure_balloon",
+      "https://en.wikipedia.org/wiki/Zero-pressure_balloon"
+    ],
+    "changed": true
+  },
+  "zigzag lightning": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zigzag_lightning",
+      "https://definedterm.com/zigzag_lightning"
+    ],
+    "changed": true
+  },
+  "zobaa": {
+    "checks": [
+      "https://encyclopedia2.thefreedictionary.com/zobaa",
+      "https://glossary.ametsoc.org/wiki/Zobaa"
+    ],
+    "changed": true
+  },
+  "zodiac": {
+    "checks": [
+      "https://en.wikipedia.org/wiki/Zodiac",
+      "https://www.britannica.com/topic/zodiac"
+    ],
+    "changed": true
+  },
+  "zodiacal band": {
+    "checks": [
+      "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803133518535",
+      "https://en.wikipedia.org/wiki/Zodiacal_light"
+    ],
+    "changed": true
+  },
+  "zodiacal light": {
+    "checks": [
+      "https://astro4edu.org/resources/glossary/term/392/",
+      "https://www.britannica.com/science/zodiacal-light"
+    ],
+    "changed": true
+  },
+  "zombie turbulence": {
+    "checks": [
+      "https://en.wikipedia.org/wiki/Fossil_turbulence",
+      "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/turbulence"
+    ],
+    "changed": true
+  },
+  "zonal": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zonal",
+      "https://en.wikipedia.org/wiki/Zonal_and_meridional_flow"
+    ],
+    "changed": true
+  },
+  "zonal flow": {
+    "checks": [
+      "https://forecast.weather.gov/glossary.php?word=zonal+flow",
+      "https://en.wikipedia.org/wiki/Zonal_and_meridional_flow"
+    ],
+    "changed": true
+  },
+  "zonal index": {
+    "checks": [
+      "https://glossary.ametsoc.org/wiki/Zonal_index",
+      "https://link.springer.com/10.1007/1-4020-3266-8_229"
+    ],
+    "changed": true
+  },
+  "zonal kinetic energy": {
+    "checks": [
+      "https://en.wiktionary.org/wiki/zonal_kinetic_energy",
+      "https://a.tellusjournals.se/articles/10.3402/tellusa.v22i3.10220"
+    ],
+    "changed": true
+  }
+}

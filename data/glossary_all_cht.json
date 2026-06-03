@@ -56396,121 +56396,121 @@
   {
     "english": "zenith",
     "traditional_chinese": "天頂",
-    "definition_cht": "指觀測者所在地正上方天球上的點，為地平座標系的重要基準方向，其對向點為天底。",
+    "definition_cht": "指觀測者所在地鉛直向上延伸至天球所對應的點，即正上方的基準方向；其對向點為天底，常作為天文、輻射與遙測幾何中的基準。",
     "source_url": "https://glossary.ametsoc.org/wiki/zenith"
   },
   {
     "english": "zenith distance",
     "traditional_chinese": "天頂距",
-    "definition_cht": "指天體或目標方向與天頂之間的角距離，數值上等於 90 度減去其高度角。",
+    "definition_cht": "指天體、太陽或觀測目標方向與天頂之間的角距離，沿通過該目標與天頂的大圓量測；其值為高度角的餘角，即 90° 減去高度角。",
     "source_url": "https://glossary.ametsoc.org/wiki/zenith_distance"
   },
   {
     "english": "zenithal rains",
     "traditional_chinese": "天頂雨",
-    "definition_cht": "指太陽接近天頂時，因地表強烈受熱引發旺盛對流而形成的降雨，常見於熱帶地區。",
+    "definition_cht": "指熱帶地區在太陽高度接近天頂、地表受熱最強時，因旺盛對流發展而形成的午後或日變性降雨，常見於赤道附近與熱帶季風區。",
     "source_url": "https://glossary.ametsoc.org/wiki/zenithal_rains"
   },
   {
     "english": "zephyr",
     "traditional_chinese": "和煦微風",
-    "definition_cht": "指微弱而柔和的風，常用來描述和緩、舒適的輕風，也常帶有文學性用法。",
+    "definition_cht": "指輕柔、和緩的微風；在氣象與一般用語中多指令人感覺舒適的輕風，亦可特指源自西方的柔和風，帶有文學修辭色彩。",
     "source_url": "https://glossary.ametsoc.org/wiki/zephyr"
   },
   {
     "english": "Zephyros",
     "traditional_chinese": "西風神",
-    "definition_cht": "源自古希臘神話中掌管西風的神祇名稱，後亦用來象徵溫和的西風。",
+    "definition_cht": "源自希臘神話中西風的神格化名稱，亦作 Zephyrus；在氣象語境中常作為「和煦西風」或春季柔風的文化典故來源。",
     "source_url": "https://glossary.ametsoc.org/wiki/Zephyros"
   },
   {
     "english": "zero curtain",
     "traditional_chinese": "零度幕",
-    "definition_cht": "指土壤或積雪在凍結或融化過程中，因相變潛熱作用而使溫度長時間維持在接近 0°C 的現象。",
+    "definition_cht": "指土壤、活動層或積雪在季節性凍結與融解過程中，因水的相變潛熱作用而使溫度長時間維持在接近 0°C 的現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero_curtain"
   },
   {
     "english": "zero layer",
     "traditional_chinese": "零層",
-    "definition_cht": "指緊鄰下墊面的極薄空氣層，其中平均風速可近似視為零。",
+    "definition_cht": "指緊貼下墊面的極薄氣層，其中平均風速可視為近乎零，常作為近地層風速剖面與地表邊界條件的理想化概念。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero_layer"
   },
   {
     "english": "zero-order closure",
     "traditional_chinese": "零階閉合",
-    "definition_cht": "指在參數化中不顯式表示高階擾動通量，而以最簡化假設處理次網格效應的方法。",
+    "definition_cht": "指湍流或邊界層參數化中最簡化的閉合方式，不直接求解通量預報方程，而以經驗關係或相似理論直接給定平均場與通量之間的關係，例如地表層對數風速剖面。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero-order_closure"
   },
   {
     "english": "zero-plane displacement",
     "traditional_chinese": "零平面位移",
-    "definition_cht": "指高粗糙度下墊面上，對數風速剖面所對應的位移高度，用以反映植被或建築物對流場的整體抬升效應。",
+    "definition_cht": "指高大植被、建築物等粗糙元素上方湍流交換作用的有效位移高度；在對數風速剖面中，代表平均動量交換作用相當於自地表上移後的基準面。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero-plane_displacement"
   },
   {
     "english": "zero-pressure balloon",
     "traditional_chinese": "零壓氣球",
-    "definition_cht": "指內部氣壓與外界大氣近乎相同、升空後可隨外界壓力降低而膨脹的高空探測氣球。",
+    "definition_cht": "指未完全密封、內部氣壓與外界大氣近乎相同的高空氣球；當氣體受熱膨脹至浮航高度時，多餘氣體可由開口排出，常用於平流層科學探測載具。",
     "source_url": "https://glossary.ametsoc.org/wiki/zero-pressure_balloon"
   },
   {
     "english": "zigzag lightning",
     "traditional_chinese": "鋸齒狀閃電",
-    "definition_cht": "指放電通道呈明顯折線或曲折形態的閃電。",
+    "definition_cht": "指雲對地放電中呈單一但高度曲折、不規則折線狀通道的普通閃電；相較於較筆直的 streak lightning，其通道外觀更明顯彎折。",
     "source_url": "https://glossary.ametsoc.org/wiki/zigzag_lightning"
   },
   {
     "english": "zobaa",
-    "traditional_chinese": "祖巴阿風暴",
-    "definition_cht": "指埃及等阿拉伯語地區所稱高速移動、呈柱狀的沙塵旋風或沙塵暴。",
+    "traditional_chinese": "祖巴阿旋塵",
+    "definition_cht": "埃及一帶對高速移動、柱狀捲升沙塵之強烈旋風或沙塵旋渦的地方名稱，外觀近似高聳沙柱，常伴隨大量揚沙與能見度惡化。",
     "source_url": "https://glossary.ametsoc.org/wiki/zobaa"
   },
   {
     "english": "zodiac",
     "traditional_chinese": "黃道帶",
-    "definition_cht": "指天球上沿黃道分布的帶狀區域，傳統上與黃道十二宮相關。",
+    "definition_cht": "指天球上沿黃道兩側展開的帶狀區域，太陽、月球與多數行星的視運動大致位於其中；傳統上與黃道十二宮相對應。",
     "source_url": "https://glossary.ametsoc.org/wiki/zodiac"
   },
   {
     "english": "zodiacal band",
     "traditional_chinese": "黃道帶光帶",
-    "definition_cht": "指沿黃道延伸、由行星際塵埃散射太陽光所形成的微弱帶狀輝光，屬黃道光現象的一部分。",
+    "definition_cht": "指沿黃道延伸的極微弱漫射光帶，為黃道光向全天延展後所見之帶狀輝光，主要由行星際塵埃散射太陽光所形成。",
     "source_url": "https://glossary.ametsoc.org/wiki/zodiacal_band"
   },
   {
     "english": "zodiacal light",
     "traditional_chinese": "黃道光",
-    "definition_cht": "指日落後或日出前沿黃道附近可見的微弱輝光，主要由集中在黃道面附近的行星際塵埃散射太陽光所形成。",
+    "definition_cht": "指日落後西方或日出前東方沿黃道附近可見的微弱錐狀或三角狀輝光，主因為黃道面附近行星際塵埃散射太陽光所致。",
     "source_url": "https://glossary.ametsoc.org/wiki/zodiacal_light"
   },
   {
     "english": "zombie turbulence",
     "traditional_chinese": "殭屍湍流",
-    "definition_cht": "指在穩定層結流體中，原有主動湍流消散後仍殘留的溫度或密度擾動，並可在內波作用下再次誘發的次級湍流現象。",
+    "definition_cht": "指穩定層結流體中原先湍流衰減後所留下的密度或溫度擾動，在內波等作用下再次誘發的次級湍流現象。",
     "source_url": "https://glossary.ametsoc.org/wiki/zombie_turbulence"
   },
   {
     "english": "zonal",
     "traditional_chinese": "緯向的",
-    "definition_cht": "在氣象學中指沿緯圈方向的，即偏東西向的，與經向（meridional）相對。",
+    "definition_cht": "在氣象與海洋學中指沿緯圈、以東西向為主的方向或分量；與經向（meridional）相對。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal"
   },
   {
     "english": "zonal flow",
     "traditional_chinese": "緯向流",
-    "definition_cht": "指大尺度大氣或海洋流動以東西向分量為主的環流型態，通常表示經向分量相對較弱。",
+    "definition_cht": "指大尺度大氣或海洋環流以東西向分量占優勢的流動型態，通常表示南北向擾動較弱，常見於較平直的西風帶型勢。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_flow"
   },
   {
     "english": "zonal index",
     "traditional_chinese": "緯向指數",
-    "definition_cht": "指衡量中緯度西風帶強弱或大氣環流緯向化程度的指標，常以不同緯度間的氣壓差或對應地轉風表示。",
+    "definition_cht": "指衡量中緯度西風帶強弱及大氣環流緯向化程度的指標，常以不同緯度間氣壓差或其對應的地轉風強度表示。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_index"
   },
   {
     "english": "zonal kinetic energy",
     "traditional_chinese": "緯向動能",
-    "definition_cht": "指與緯向風相關的動能，常特指某一緯度上緯向風分量所對應的動能。",
+    "definition_cht": "指與平均緯向風或特定緯度帶東西向風分量相關的動能，是大氣能量學中用以描述大尺度緯向環流強度的重要量。",
     "source_url": "https://glossary.ametsoc.org/wiki/zonal_kinetic_energy"
   },
   {
