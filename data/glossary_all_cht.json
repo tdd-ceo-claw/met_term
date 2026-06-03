@@ -56156,85 +56156,85 @@
   {
     "english": "winter solstice",
     "traditional_chinese": "冬至",
-    "definition_cht": "指與「冬至」相關的冬季氣候、季風、風暴或低溫環境特徵。",
+    "definition_cht": "指太陽視位置到達最南點、北半球白晝最短且黑夜最長的時刻或該日；在天文季節上通常作為北半球冬季開始的標誌。",
     "source_url": "https://glossary.ametsoc.org/wiki/winter_solstice"
   },
   {
     "english": "Winter storm severity index product",
-    "traditional_chinese": "冬季風暴強度指數產品",
-    "definition_cht": "指與「冬季風暴強度指數產品」相關的冬季氣候、季風、風暴或低溫環境特徵。",
+    "traditional_chinese": "冬季風暴衝擊指數產品",
+    "definition_cht": "指美國國家氣象局／天氣預報中心發布的格網化冬季風暴衝擊評估產品，綜合雪量、雪載、積冰、吹雪等因子，用以表示冬季風暴可能造成的整體影響程度。",
     "source_url": "https://glossary.ametsoc.org/wiki/Winter_storm_severity_index_product"
   },
   {
     "english": "winterization",
-    "traditional_chinese": "防凍",
-    "definition_cht": "指與「防凍」相關的冬季氣候、季風、風暴或低溫環境特徵。",
+    "traditional_chinese": "防寒防凍整備",
+    "definition_cht": "指為使設備、建築物或作業系統能承受冬季低溫、積雪與結冰條件，而事先進行的防寒、防凍與保護性整備措施。",
     "source_url": "https://glossary.ametsoc.org/wiki/winterization"
   },
   {
     "english": "wire-weight gauge",
-    "traditional_chinese": "線重計",
-    "definition_cht": "指與「線重計」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "鋼索式水位計",
+    "definition_cht": "指裝設於橋梁或其他跨水構造物上的人工水位計，藉由將懸掛於鋼索上的重錘下放至水面，量測基準點至水面的距離以求得水位。",
     "source_url": "https://glossary.ametsoc.org/wiki/wire-weight_gauge"
   },
   {
     "english": "wiresonde",
-    "traditional_chinese": "探空儀",
-    "definition_cht": "指與「探空儀」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "繫留氣球探空儀",
+    "definition_cht": "指由繫留氣球攜帶升空、並經由導線將觀測資料傳回地面的探空儀器，主要用於量測近地層至低空的大氣溫度與濕度。",
     "source_url": "https://glossary.ametsoc.org/wiki/wiresonde"
   },
   {
     "english": "WISHE",
-    "traditional_chinese": "許願",
-    "definition_cht": "「WISHE」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "traditional_chinese": "風致海表熱交換",
+    "definition_cht": "wind-induced surface heat exchange 的縮寫，指海氣間因近地面風速增強而提高感熱與潛熱通量，進而進一步增強環流的正回饋機制，常用於解釋熱帶氣旋等系統的發展。",
     "source_url": "https://glossary.ametsoc.org/wiki/WISHE"
   },
   {
     "english": "wisperwind",
-    "traditional_chinese": "慧風",
-    "definition_cht": "指與「慧風」相關的風場、風系、風向風速分布、風害或動力效應。",
+    "traditional_chinese": "維斯珀風",
+    "definition_cht": "指德國 Wisper 河谷在晴朗夜間沿谷地向外吹出的冷性地方風，屬夜間冷空氣沿坡下滑或沿谷外流的山谷風。",
     "source_url": "https://glossary.ametsoc.org/wiki/wisperwind"
   },
   {
     "english": "withershins",
-    "traditional_chinese": "枯萎病",
-    "definition_cht": "指與「枯萎病」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "逆日向",
+    "definition_cht": "指與太陽表觀運行方向相反的方向，即逆時針方向；在氣象或天文描述中用於表示反日行的旋轉或環行。",
     "source_url": "https://glossary.ametsoc.org/wiki/withershins"
   },
   {
     "english": "WMO codes",
-    "traditional_chinese": "世界氣象組織代碼",
-    "definition_cht": "指與「世界氣象組織代碼」相關的氣象、海洋、水文、遙測、環境或地球科學專業術語；其內涵依專業語境可涵蓋物理過程、觀測量、環流結構、儀器系統、統計方法或作業產品。",
+    "traditional_chinese": "世界氣象組織編碼",
+    "definition_cht": "指世界氣象組織制定、用於傳輸與交換氣象及相關地球物理觀測資料的標準代碼或代碼格式，例如 METAR、BUFR、GRIB 等。",
     "source_url": "https://glossary.ametsoc.org/wiki/WMO_codes"
   },
   {
     "english": "Wollaston prism",
-    "traditional_chinese": "沃拉斯頓棱鏡",
-    "definition_cht": "指用於分光、偏振分析或光路轉換的稜鏡裝置，常見於光學與輻射量測系統。",
+    "traditional_chinese": "沃拉斯頓稜鏡",
+    "definition_cht": "指由兩塊光軸互相垂直的雙折射直角稜鏡組成的偏振光學元件，可將入射光分離為兩束互相正交偏振的光束。",
     "source_url": "https://glossary.ametsoc.org/wiki/Wollaston_prism"
   },
   {
     "english": "work",
-    "traditional_chinese": "工作",
-    "definition_cht": "在物理學中指力沿作用方向使物體位移而傳遞之能量；在大氣科學中常用於能量轉換與熱力分析。",
+    "traditional_chinese": "功",
+    "definition_cht": "在物理學中指力對物體造成位移時所傳遞的能量，數值為力與位移在力方向上分量的乘積；在大氣科學中常用於能量轉換與熱力分析。",
     "source_url": "https://glossary.ametsoc.org/wiki/work"
   },
   {
     "english": "working memory",
-    "traditional_chinese": "工作記憶",
-    "definition_cht": "指資料處理或預報作業中暫時儲存與操作資訊的記憶資源，在模式運算與計算流程中尤為重要。",
+    "traditional_chinese": "工作記憶體",
+    "definition_cht": "在計算與資料處理中指暫時儲存程式、輸入資料與中間計算結果的主記憶體或可用記憶空間；於即時預報與模式運算中特別重要。",
     "source_url": "https://glossary.ametsoc.org/wiki/working_memory"
   },
   {
     "english": "Workman–Reynolds effect",
-    "traditional_chinese": "沃克曼-雷諾效應",
-    "definition_cht": "指與「沃克曼-雷諾效應」相關的作用機制或效應，用於描述特定過程對環境或觀測量所造成的影響。",
+    "traditional_chinese": "沃克曼－雷諾茲效應",
+    "definition_cht": "指稀溶液在凍結、冰晶生長過程中，冰與剩餘液體之間產生電位差與電荷分離的現象，常用於討論冰相帶電與雷暴起電機制。",
     "source_url": "https://glossary.ametsoc.org/wiki/Workman%E2%80%93Reynolds_effect"
   },
   {
     "english": "WSR–88D",
     "traditional_chinese": "WSR–88D 都卜勒天氣雷達",
-    "definition_cht": "「WSR–88D」為氣象、海洋、水文、航空氣象或遙測領域使用的縮寫、代號、產品名稱或系統名稱，實際意義需依專業語境判定。",
+    "definition_cht": "Weather Surveillance Radar-1988 Doppler 的縮寫，亦即美國 NEXRAD 網使用的 S 波段都卜勒天氣雷達，用於觀測降水、徑向風與強對流天氣。",
     "source_url": "https://glossary.ametsoc.org/wiki/WSR%E2%80%9388D"
   },
   {
